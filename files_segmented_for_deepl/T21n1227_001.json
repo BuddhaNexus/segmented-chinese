@@ -1705,7 +1705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若取一屍無[病丙+盤]痕者。",
+        "source_sentence": "若取一屍無[病-丙+盤]痕者。",
         "from": "T21n1227_001:0144b24_5",
         "context_with_next_sentence": true
     },
@@ -1825,7 +1825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寒林中取無[病丙+盤]痕屍。",
+        "source_sentence": "寒林中取無[病-丙+盤]痕屍。",
         "from": "T21n1227_001:0144c04_2",
         "context_with_next_sentence": true
     },

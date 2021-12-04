@@ -725,7 +725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "常手中有[病丙+盤]痛。",
+        "source_sentence": "常手中有[病-丙+盤]痛。",
         "from": "X61n1145_001:0099b02_6",
         "context_with_next_sentence": true
     },

@@ -1650,7 +1650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "取無瘡[病丙+盤]未損壞者。",
+        "source_sentence": "取無瘡[病-丙+盤]未損壞者。",
         "from": "T19n0956_001:0318a02_17",
         "context_with_next_sentence": true
     },
@@ -2795,7 +2795,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "及[卄/(舌*爪)][藪ㄆ+爪]草即得長命。",
+        "source_sentence": "及[卄/(舌*爪)][藪-ㄆ+爪]草即得長命。",
         "from": "T19n0956_001:0319b05_11",
         "context_with_next_sentence": true
     },

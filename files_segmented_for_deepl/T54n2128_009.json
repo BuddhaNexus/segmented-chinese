@@ -1460,7 +1460,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "咤之(竹家反經中從足作[跳兆+宅]也[序予+單]之丁佐反磋之且何反非)。",
+        "source_sentence": "咤之(竹家反經中從足作[跳兆+宅]也[序-予+單]之丁佐反磋之且何反非)。",
         "from": "T54n2128_009:0361b14_0",
         "context_with_next_sentence": true
     },
