@@ -1,0 +1,4942 @@
+[
+    {
+        "source_sentence": "阿毘達磨順正理論卷第四十三",
+        "from": "T29n1562_043:0584a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尊者眾賢造",
+        "from": "T29n1562_043:0584a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三藏法師玄奘奉　詔譯",
+        "from": "T29n1562_043:0584a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辯業品第四之十一",
+        "from": "T29n1562_043:0584a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如前所說果有五種。",
+        "from": "T29n1562_043:0584a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等業有幾果。",
+        "from": "T29n1562_043:0584a28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0584a28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　斷道有漏業　　具足有五果",
+        "from": "T29n1562_043:0584a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　無漏業有四　　謂唯除異熟",
+        "from": "T29n1562_043:0584b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　餘有漏善惡　　亦四除離繫",
+        "from": "T29n1562_043:0584b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　餘無漏無記　　三除前所除",
+        "from": "T29n1562_043:0584b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0584b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道能證斷及能斷惑得斷道名即無間道。",
+        "from": "T29n1562_043:0584b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此道有二種。",
+        "from": "T29n1562_043:0584b05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂有漏無漏。",
+        "from": "T29n1562_043:0584b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有漏道業具有五果。",
+        "from": "T29n1562_043:0584b05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "等流果者。",
+        "from": "T29n1562_043:0584b06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂自地中後等。",
+        "from": "T29n1562_043:0584b06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若增諸相似法。",
+        "from": "T29n1562_043:0584b06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "異熟果者。",
+        "from": "T29n1562_043:0584b07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂自地中斷道所招可愛異熟。",
+        "from": "T29n1562_043:0584b07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離繫果者。",
+        "from": "T29n1562_043:0584b08_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂此道力。",
+        "from": "T29n1562_043:0584b08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷惑所證擇滅無為。",
+        "from": "T29n1562_043:0584b08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "士用果者。",
+        "from": "T29n1562_043:0584b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂道所牽俱有解脫所修及斷。",
+        "from": "T29n1562_043:0584b09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言俱有者。",
+        "from": "T29n1562_043:0584b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂俱生法。",
+        "from": "T29n1562_043:0584b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言解脫者。",
+        "from": "T29n1562_043:0584b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂無間生。",
+        "from": "T29n1562_043:0584b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即解脫道。",
+        "from": "T29n1562_043:0584b10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言所修者。",
+        "from": "T29n1562_043:0584b11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂未來修。",
+        "from": "T29n1562_043:0584b11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷謂擇滅。",
+        "from": "T29n1562_043:0584b11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由道力故彼得方起。",
+        "from": "T29n1562_043:0584b11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "增上果者。",
+        "from": "T29n1562_043:0584b12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有如是說。",
+        "from": "T29n1562_043:0584b12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂離自性餘有為法。",
+        "from": "T29n1562_043:0584b12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯除前生。",
+        "from": "T29n1562_043:0584b13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有作是言。",
+        "from": "T29n1562_043:0584b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷亦應是道增上果。",
+        "from": "T29n1562_043:0584b13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道增上力能證彼故。",
+        "from": "T29n1562_043:0584b14_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若爾何故毘婆沙中。",
+        "from": "T29n1562_043:0584b14_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯說欲界十隨眠斷。",
+        "from": "T29n1562_043:0584b15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為苦法智忍離繫士用果。",
+        "from": "T29n1562_043:0584b15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曾不說是增上果耶。",
+        "from": "T29n1562_043:0584b16_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非由不說便非彼果。",
+        "from": "T29n1562_043:0584b16_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以即彼文說苦法智。",
+        "from": "T29n1562_043:0584b17_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為苦法智忍等流士用果。",
+        "from": "T29n1562_043:0584b17_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曾不說是增上果故。",
+        "from": "T29n1562_043:0584b18_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然實苦法智是彼增上果。",
+        "from": "T29n1562_043:0584b18_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而不說者義極成故。",
+        "from": "T29n1562_043:0584b19_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此亦應然舉士用果。",
+        "from": "T29n1562_043:0584b19_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "理則已舉增上果故。",
+        "from": "T29n1562_043:0584b20_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非唯可生是增上果。",
+        "from": "T29n1562_043:0584b20_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說非擇滅是心果故。",
+        "from": "T29n1562_043:0584b21_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離此更無餘果義故。",
+        "from": "T29n1562_043:0584b21_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即斷道中無漏道業。",
+        "from": "T29n1562_043:0584b22_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯有四果謂除異熟。",
+        "from": "T29n1562_043:0584b22_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘有漏善及不善業亦有四果謂除離繫。",
+        "from": "T29n1562_043:0584b23_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "異前斷道故說為餘。",
+        "from": "T29n1562_043:0584b24_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次後餘言例此應釋。",
+        "from": "T29n1562_043:0584b24_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂餘無漏及無記業。",
+        "from": "T29n1562_043:0584b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯有三果除前所除。",
+        "from": "T29n1562_043:0584b25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂除前所除異熟及離繫。",
+        "from": "T29n1562_043:0584b25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已總分別諸業有果。",
+        "from": "T29n1562_043:0584b26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次辯果門業有果相。",
+        "from": "T29n1562_043:0584b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於中先辯善等三業。",
+        "from": "T29n1562_043:0584b27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0584b27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　善等於善等　　初有四二三",
+        "from": "T29n1562_043:0584b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　中有二三四　　後二三三果",
+        "from": "T29n1562_043:0584c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0584c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最後所說皆如次言。",
+        "from": "T29n1562_043:0584c02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯隨所應遍前門義。",
+        "from": "T29n1562_043:0584c02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且善不善無記三業一一為因。",
+        "from": "T29n1562_043:0584c03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如其次第對善不善無記。",
+        "from": "T29n1562_043:0584c03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三法辯有果數後例應知。",
+        "from": "T29n1562_043:0584c04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂初善業以善法為四果除異熟。",
+        "from": "T29n1562_043:0584c04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以不善為二果。",
+        "from": "T29n1562_043:0584c05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂士用及增上。",
+        "from": "T29n1562_043:0584c06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無記為三果除等流及離繫。",
+        "from": "T29n1562_043:0584c06_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中不善業以善法為二果。",
+        "from": "T29n1562_043:0584c07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂士用及增上。",
+        "from": "T29n1562_043:0584c07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以不善為三果除異熟及離繫。",
+        "from": "T29n1562_043:0584c08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無記為四果除離繫。",
+        "from": "T29n1562_043:0584c08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "等流果者。",
+        "from": "T29n1562_043:0584c09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂見苦所斷一切不善業及見集所斷遍行不善業。",
+        "from": "T29n1562_043:0584c09_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以欲界中身邊見品。",
+        "from": "T29n1562_043:0584c10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸無記法為等流故。",
+        "from": "T29n1562_043:0584c11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後無記業以善法為二果。",
+        "from": "T29n1562_043:0584c11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂士用及增上。",
+        "from": "T29n1562_043:0584c12_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以不善為三果除異熟及離繫。",
+        "from": "T29n1562_043:0584c12_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "等流果者。",
+        "from": "T29n1562_043:0584c13_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂身邊見品。",
+        "from": "T29n1562_043:0584c13_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸無記業以五部不善為等流故。",
+        "from": "T29n1562_043:0584c13_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無記為三果如不善。",
+        "from": "T29n1562_043:0584c14_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已辯三性當辯三世。",
+        "from": "T29n1562_043:0584c15_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0584c15_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　過於三各四　　現於未亦爾",
+        "from": "T29n1562_043:0584c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　現於現二果　　未於未果三",
+        "from": "T29n1562_043:0584c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0584c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "過去現在未來三業一一為因。",
+        "from": "T29n1562_043:0584c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如其所應以過去等為果。",
+        "from": "T29n1562_043:0584c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "別者謂過去業以三世法各為四果除離繫。",
+        "from": "T29n1562_043:0584c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現在世業以未來為四果如前說。",
+        "from": "T29n1562_043:0584c20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以現在為二果。",
+        "from": "T29n1562_043:0584c21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂士用及增上。",
+        "from": "T29n1562_043:0584c21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未來世業以未來為三果。",
+        "from": "T29n1562_043:0584c21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除等流及離繫。",
+        "from": "T29n1562_043:0584c22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不說後業有前果者。",
+        "from": "T29n1562_043:0584c22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前法定非後業果故。",
+        "from": "T29n1562_043:0584c23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已辯三世當辯諸地。",
+        "from": "T29n1562_043:0584c23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0584c24_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　同地有四果　　異地二或三",
+        "from": "T29n1562_043:0584c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0584c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於諸地中隨何地業。",
+        "from": "T29n1562_043:0584c26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以同地法為四果除離繫。",
+        "from": "T29n1562_043:0584c26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若是有漏以異地法為二果。",
+        "from": "T29n1562_043:0584c27_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂士用及增上。",
+        "from": "T29n1562_043:0584c27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若是無漏以異地法為三果。",
+        "from": "T29n1562_043:0584c28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除異熟及離繫不墮界故。",
+        "from": "T29n1562_043:0584c28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不遮等流。",
+        "from": "T29n1562_043:0584c29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已辯諸地當辯學等。",
+        "from": "T29n1562_043:0584c29_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0585a01_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　學於三各三　　無學一三二",
+        "from": "T29n1562_043:0585a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　非學非無學　　有二二五果",
+        "from": "T29n1562_043:0585a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0585a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "學等三業一一為因。",
+        "from": "T29n1562_043:0585a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如其次第各以三法為果。",
+        "from": "T29n1562_043:0585a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "別者謂學業以學法為三果。",
+        "from": "T29n1562_043:0585a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除異熟及離繫。",
+        "from": "T29n1562_043:0585a05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無學法為三亦爾。",
+        "from": "T29n1562_043:0585a06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以非二為三果。",
+        "from": "T29n1562_043:0585a06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除異熟及等流。",
+        "from": "T29n1562_043:0585a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無學業以學法為一果謂增上。",
+        "from": "T29n1562_043:0585a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "理應言二謂加等流。",
+        "from": "T29n1562_043:0585a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無學為三果。",
+        "from": "T29n1562_043:0585a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除異熟及離繫。",
+        "from": "T29n1562_043:0585a08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以非二為二果。",
+        "from": "T29n1562_043:0585a09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂士用及增上。",
+        "from": "T29n1562_043:0585a09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非二業以學法為二果。",
+        "from": "T29n1562_043:0585a09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂士用及增上。",
+        "from": "T29n1562_043:0585a10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無學法為二亦爾。",
+        "from": "T29n1562_043:0585a10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以非二為五果已辯學等當辯見所斷等。",
+        "from": "T29n1562_043:0585a11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0585a12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　見所斷業等　　一一各於三",
+        "from": "T29n1562_043:0585a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　初有三四一　　中二四三果",
+        "from": "T29n1562_043:0585a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　後有一二四　　皆如次應知",
+        "from": "T29n1562_043:0585a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0585a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見所斷等三業如次。",
+        "from": "T29n1562_043:0585a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一為因各以三法為果。",
+        "from": "T29n1562_043:0585a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "別者初見所斷業。",
+        "from": "T29n1562_043:0585a17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以見所斷法為三果。",
+        "from": "T29n1562_043:0585a17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除異熟及離繫。",
+        "from": "T29n1562_043:0585a18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以修所斷法為四果除離繫。",
+        "from": "T29n1562_043:0585a18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以非所斷法為一果。",
+        "from": "T29n1562_043:0585a19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂增上。",
+        "from": "T29n1562_043:0585a19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中修所斷業以見所斷法為二果。",
+        "from": "T29n1562_043:0585a19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂士用及增上。",
+        "from": "T29n1562_043:0585a20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以修所斷。",
+        "from": "T29n1562_043:0585a20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法為四果除離繫。",
+        "from": "T29n1562_043:0585a21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以非所斷法為三果。",
+        "from": "T29n1562_043:0585a21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除異熟及等流。",
+        "from": "T29n1562_043:0585a22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後非所斷業以見所斷法為一果。",
+        "from": "T29n1562_043:0585a22_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂增上。",
+        "from": "T29n1562_043:0585a23_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以修所斷法為二果。",
+        "from": "T29n1562_043:0585a23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂士用及增上。",
+        "from": "T29n1562_043:0585a23_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以非所斷法為四果除異熟。",
+        "from": "T29n1562_043:0585a24_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆如次者隨其所應遍上諸門。",
+        "from": "T29n1562_043:0585a24_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "略法應爾因辯諸業應復問言。",
+        "from": "T29n1562_043:0585a25_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如本論中所說三業。",
+        "from": "T29n1562_043:0585a26_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂應作業不應作業。",
+        "from": "T29n1562_043:0585a26_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及非應作非不應作業。",
+        "from": "T29n1562_043:0585a27_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其相云何。",
+        "from": "T29n1562_043:0585a27_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0585a27_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　染業不應作　　有說亦壞軌",
+        "from": "T29n1562_043:0585a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　應作業翻此　　俱相違第三",
+        "from": "T29n1562_043:0585b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0585b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有說染污身語意業名不應作。",
+        "from": "T29n1562_043:0585b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以從非理作意生故。",
+        "from": "T29n1562_043:0585b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有餘師言。",
+        "from": "T29n1562_043:0585b03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸壞軌則身語意業。",
+        "from": "T29n1562_043:0585b03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設是不染亦不應作。",
+        "from": "T29n1562_043:0585b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由彼不合世軌則故。",
+        "from": "T29n1562_043:0585b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂諸無覆無記身業。",
+        "from": "T29n1562_043:0585b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若住若行若飲食等。",
+        "from": "T29n1562_043:0585b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸有不合世俗禮儀。",
+        "from": "T29n1562_043:0585b05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆說名為壞軌身業。",
+        "from": "T29n1562_043:0585b06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸有無覆無記語業。",
+        "from": "T29n1562_043:0585b06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壞形言時及作者等。",
+        "from": "T29n1562_043:0585b07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但有不合世俗禮儀皆說名為壞軌。",
+        "from": "T29n1562_043:0585b07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "語業等起前二思名壞軌。",
+        "from": "T29n1562_043:0585b08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意業此及染業名不應作。",
+        "from": "T29n1562_043:0585b09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應作業者與此相翻。",
+        "from": "T29n1562_043:0585b09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俱違前二是第三業。",
+        "from": "T29n1562_043:0585b10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若依世俗後亦可然。",
+        "from": "T29n1562_043:0585b10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若就勝義前說為善。",
+        "from": "T29n1562_043:0585b11_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂唯善業名為應作。",
+        "from": "T29n1562_043:0585b11_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯諸染業名不應作。",
+        "from": "T29n1562_043:0585b12_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無覆無記身語意業。",
+        "from": "T29n1562_043:0585b12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名非應作非不應作。",
+        "from": "T29n1562_043:0585b13_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然非一切不應作業皆惡行攝。",
+        "from": "T29n1562_043:0585b13_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯有不善是惡性故得惡行名。",
+        "from": "T29n1562_043:0585b14_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以招愛果名為妙行。",
+        "from": "T29n1562_043:0585b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "招非愛果名為惡行。",
+        "from": "T29n1562_043:0585b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有覆無記雖是不應作而非惡行攝。",
+        "from": "T29n1562_043:0585b15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此所行決定不能招愛非愛果故。",
+        "from": "T29n1562_043:0585b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今於此中復應思擇。",
+        "from": "T29n1562_043:0585b17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為由一業但引一生。",
+        "from": "T29n1562_043:0585b18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為引多生。",
+        "from": "T29n1562_043:0585b18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又為一生但一業引。",
+        "from": "T29n1562_043:0585b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為多業引。",
+        "from": "T29n1562_043:0585b19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0585b19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　一業引一生　　多業能圓滿",
+        "from": "T29n1562_043:0585b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0585b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若依正理應決定說。",
+        "from": "T29n1562_043:0585b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但由一業唯引一生。",
+        "from": "T29n1562_043:0585b21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此一生言顯眾同分。",
+        "from": "T29n1562_043:0585b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以得同分方說名生。",
+        "from": "T29n1562_043:0585b22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若說一生由多業引。",
+        "from": "T29n1562_043:0585b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或說一業能引多生。",
+        "from": "T29n1562_043:0585b23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是二言於理何失。",
+        "from": "T29n1562_043:0585b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且初有失。",
+        "from": "T29n1562_043:0585b24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂一生中前業果終後業果起。",
+        "from": "T29n1562_043:0585b24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "業果別故應有死生。",
+        "from": "T29n1562_043:0585b25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或應多生無死生。",
+        "from": "T29n1562_043:0585b25_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "理業果終起如一生故。",
+        "from": "T29n1562_043:0585b26_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二俱有過。",
+        "from": "T29n1562_043:0585b26_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一本有中應有眾多死生有故。",
+        "from": "T29n1562_043:0585b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或應乃至無餘涅槃中間永無死及生故。",
+        "from": "T29n1562_043:0585b27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何緣定限一趣處中。",
+        "from": "T29n1562_043:0585b28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有異業果生便有生死。",
+        "from": "T29n1562_043:0585b29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有異業果起而無死生。",
+        "from": "T29n1562_043:0585b29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一業果終餘業果起。",
+        "from": "T29n1562_043:0585c01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "理定應立有死有生。",
+        "from": "T29n1562_043:0585c01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又許一生定為多種造作增長業所引故。",
+        "from": "T29n1562_043:0585c02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則應決定無中夭者。",
+        "from": "T29n1562_043:0585c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或應不受果而永棄彼業。",
+        "from": "T29n1562_043:0585c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然先已說先說者何。",
+        "from": "T29n1562_043:0585c04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂理必無時分定業。",
+        "from": "T29n1562_043:0585c04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所感異熟轉餘時受。",
+        "from": "T29n1562_043:0585c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又理必無時分定業非造作增長必受異熟故。",
+        "from": "T29n1562_043:0585c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若謂有生由定不定多種業引。",
+        "from": "T29n1562_043:0585c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或復有生唯為多種。",
+        "from": "T29n1562_043:0585c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "定業所引故有中夭。",
+        "from": "T29n1562_043:0585c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及有盡壽此亦不然。",
+        "from": "T29n1562_043:0585c08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時分果業定不定受無決定故。",
+        "from": "T29n1562_043:0585c08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有一類中年老年時分果業決定應受嬰孩童子少年果業。",
+        "from": "T29n1562_043:0585c09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不定受者彼復如何。",
+        "from": "T29n1562_043:0585c10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "理必無容離前有後。",
+        "from": "T29n1562_043:0585c11_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或應前位所有果業必是定受定受果故。",
+        "from": "T29n1562_043:0585c11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然於此中無決定理。",
+        "from": "T29n1562_043:0585c12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令前位業決定受果。",
+        "from": "T29n1562_043:0585c13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令後位業受果不定。",
+        "from": "T29n1562_043:0585c13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故無一生多業所引。",
+        "from": "T29n1562_043:0585c14_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後亦有失一業引多生時分定業應成雜亂故。",
+        "from": "T29n1562_043:0585c14_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此無雜亂如先已辯。",
+        "from": "T29n1562_043:0585c15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故無一業能引多生。",
+        "from": "T29n1562_043:0585c16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若爾何緣尊者無滅自言。",
+        "from": "T29n1562_043:0585c16_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我憶昔於一時於殊勝福田一施食異熟。",
+        "from": "T29n1562_043:0585c17_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從茲七返生三十三天。",
+        "from": "T29n1562_043:0585c18_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七生人中為轉輪聖帝。",
+        "from": "T29n1562_043:0585c18_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最後生在大釋迦家。",
+        "from": "T29n1562_043:0585c19_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豐足珍財多受快樂。",
+        "from": "T29n1562_043:0585c19_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毘婆沙者已釋此言。",
+        "from": "T29n1562_043:0585c20_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一施食為依起多勝思願。",
+        "from": "T29n1562_043:0585c20_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能引位別多異熟生。",
+        "from": "T29n1562_043:0585c21_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故作如是言。",
+        "from": "T29n1562_043:0585c21_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一施食異熟。",
+        "from": "T29n1562_043:0585c21_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不應異熟能復感生。",
+        "from": "T29n1562_043:0585c22_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但為顯依一施食境。",
+        "from": "T29n1562_043:0585c22_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "起多思願所招異熟分位差別故作是言。",
+        "from": "T29n1562_043:0585c23_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或顯初基故作是說。",
+        "from": "T29n1562_043:0585c24_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼由一業感一生中大貴多財及宿生智。",
+        "from": "T29n1562_043:0585c24_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乘斯更造感餘生福。",
+        "from": "T29n1562_043:0585c25_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是展轉至最後身。",
+        "from": "T29n1562_043:0585c25_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生富貴家得究竟果。",
+        "from": "T29n1562_043:0585c26_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如有緣一迦栗沙鉢拏。",
+        "from": "T29n1562_043:0585c26_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方便勤求息利成千倍。",
+        "from": "T29n1562_043:0585c27_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言我本由一迦栗沙鉢拏。",
+        "from": "T29n1562_043:0585c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂至今時成大富貴。",
+        "from": "T29n1562_043:0585c28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故一業唯引一生。",
+        "from": "T29n1562_043:0585c29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖言一生由一業引。",
+        "from": "T29n1562_043:0585c29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而許圓滿由多業成。",
+        "from": "T29n1562_043:0586a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如畫師先以一色圖其形狀後填眾彩。",
+        "from": "T29n1562_043:0586a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今於此中一色所喻為一類業。",
+        "from": "T29n1562_043:0586a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為一剎那。",
+        "from": "T29n1562_043:0586a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若喻一類違此宗理。",
+        "from": "T29n1562_043:0586a03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以非一業引一生。",
+        "from": "T29n1562_043:0586a03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言可約一類類必多故。",
+        "from": "T29n1562_043:0586a04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多引一生不應理故。",
+        "from": "T29n1562_043:0586a04_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若言一色喻一剎那。",
+        "from": "T29n1562_043:0586a05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非一剎那能圖形狀。",
+        "from": "T29n1562_043:0586a05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即所立喻於證無能。",
+        "from": "T29n1562_043:0586a06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今見此中喻一類業。",
+        "from": "T29n1562_043:0586a06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如何引業約類得成引一趣業有眾多故。",
+        "from": "T29n1562_043:0586a07_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此言意顯一類業中唯一剎那引眾同分同類異類。",
+        "from": "T29n1562_043:0586a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多剎那業能為圓滿故。",
+        "from": "T29n1562_043:0586a09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說為多故如一色先圖形狀。",
+        "from": "T29n1562_043:0586a09_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後填眾彩此言應理。",
+        "from": "T29n1562_043:0586a10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故雖有同稟人身。",
+        "from": "T29n1562_043:0586a10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而於其中有具支體諸根形量色力莊嚴。",
+        "from": "T29n1562_043:0586a11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有於前多缺減者。",
+        "from": "T29n1562_043:0586a12_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為但由業能引滿生。",
+        "from": "T29n1562_043:0586a12_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不爾一切業一果法勢力強故。",
+        "from": "T29n1562_043:0586a13_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦引滿生與此相違能滿非引。",
+        "from": "T29n1562_043:0586a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是二類其體是何。",
+        "from": "T29n1562_043:0586a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0586a15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　二無心定得　　不能引餘通",
+        "from": "T29n1562_043:0586a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0586a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二無心定雖有異熟。",
+        "from": "T29n1562_043:0586a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而無勢力引眾同分。",
+        "from": "T29n1562_043:0586a17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以與諸業非俱有故。",
+        "from": "T29n1562_043:0586a18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切不善善有漏得。",
+        "from": "T29n1562_043:0586a18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦無勢力引眾同分。",
+        "from": "T29n1562_043:0586a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以與諸業非一果故。",
+        "from": "T29n1562_043:0586a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸餘不善善有漏法。",
+        "from": "T29n1562_043:0586a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆容通二謂引及滿。",
+        "from": "T29n1562_043:0586a20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "薄伽梵說重障有三。",
+        "from": "T29n1562_043:0586a20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂業障煩惱障異熟障。",
+        "from": "T29n1562_043:0586a21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是三障其體是何。",
+        "from": "T29n1562_043:0586a21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0586a22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　三障無間業　　及數行煩惱",
+        "from": "T29n1562_043:0586a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　并一切惡趣　　北洲無想天",
+        "from": "T29n1562_043:0586a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0586a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "業障體者。",
+        "from": "T29n1562_043:0586a25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂五無間。",
+        "from": "T29n1562_043:0586a25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者害母。",
+        "from": "T29n1562_043:0586a25_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者害父。",
+        "from": "T29n1562_043:0586a25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者害阿羅漢。",
+        "from": "T29n1562_043:0586a26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者破和合僧。",
+        "from": "T29n1562_043:0586a26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者惡心出佛身血。",
+        "from": "T29n1562_043:0586a26_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煩惱障體者。",
+        "from": "T29n1562_043:0586a27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂數行煩惱下品煩惱。",
+        "from": "T29n1562_043:0586a27_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有數行雖欲伏除難得其便。",
+        "from": "T29n1562_043:0586a28_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由彼展轉令上品生。",
+        "from": "T29n1562_043:0586a28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "難可伏除故亦名障。",
+        "from": "T29n1562_043:0586a29_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上品煩惱若不數行。",
+        "from": "T29n1562_043:0586a29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "對治道生易得其便。",
+        "from": "T29n1562_043:0586b01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖極猛利而非障攝。",
+        "from": "T29n1562_043:0586b01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖住欲界具縛有情。",
+        "from": "T29n1562_043:0586b02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "平等皆成一切煩惱。",
+        "from": "T29n1562_043:0586b02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而現行別為障不同。",
+        "from": "T29n1562_043:0586b03_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故煩惱中隨品上下。",
+        "from": "T29n1562_043:0586b03_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但數行者名煩惱障。",
+        "from": "T29n1562_043:0586b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "異熟障體者。",
+        "from": "T29n1562_043:0586b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂三惡趣全及善趣一分。",
+        "from": "T29n1562_043:0586b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即北洲無想。",
+        "from": "T29n1562_043:0586b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何故名障能障聖道。",
+        "from": "T29n1562_043:0586b05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及道資糧并離染故。",
+        "from": "T29n1562_043:0586b06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非唯無間是業障體。",
+        "from": "T29n1562_043:0586b06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有定業能障見諦一切皆應是業障攝。",
+        "from": "T29n1562_043:0586b07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂有諸業造作增長。",
+        "from": "T29n1562_043:0586b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能感惡趣卵生濕生。",
+        "from": "T29n1562_043:0586b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "女身人天第八有等。",
+        "from": "T29n1562_043:0586b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "并感大梵順後受業或色無色一處二生。",
+        "from": "T29n1562_043:0586b09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有此皆無入見諦理。",
+        "from": "T29n1562_043:0586b10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何緣不說是業障收見。",
+        "from": "T29n1562_043:0586b10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此類中有非定故。",
+        "from": "T29n1562_043:0586b11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂於如是業種類中。",
+        "from": "T29n1562_043:0586b11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆有強緣可令迴轉。",
+        "from": "T29n1562_043:0586b12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不障聖道及道資糧故。",
+        "from": "T29n1562_043:0586b12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於此中雖有少業不可轉者不立為障。",
+        "from": "T29n1562_043:0586b13_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無間種類皆不可轉故。",
+        "from": "T29n1562_043:0586b14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯於此立為業障。",
+        "from": "T29n1562_043:0586b14_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毘婆沙說此五因緣。",
+        "from": "T29n1562_043:0586b15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "易見易知說為業障。",
+        "from": "T29n1562_043:0586b15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂處趣生果及補特伽羅。",
+        "from": "T29n1562_043:0586b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "處謂此五定以母等為起處故。",
+        "from": "T29n1562_043:0586b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "趣謂此五定以地獄為所趣故。",
+        "from": "T29n1562_043:0586b17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生謂此五定無間生感異熟故。",
+        "from": "T29n1562_043:0586b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果謂此五決定能招非愛果故。",
+        "from": "T29n1562_043:0586b18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "補特伽羅謂此五逆依行重惑補特伽羅。",
+        "from": "T29n1562_043:0586b19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "共了此人能害母等。",
+        "from": "T29n1562_043:0586b20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘業不爾不立為障。",
+        "from": "T29n1562_043:0586b20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘障廢立如應當知。",
+        "from": "T29n1562_043:0586b21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此三障中煩惱最重。",
+        "from": "T29n1562_043:0586b21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以能發業業感果故。",
+        "from": "T29n1562_043:0586b22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有餘師言。",
+        "from": "T29n1562_043:0586b22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煩惱與業二障皆最重。",
+        "from": "T29n1562_043:0586b23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以有此者第二生中亦不可治故。",
+        "from": "T29n1562_043:0586b23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無間何義。",
+        "from": "T29n1562_043:0586b24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此無間業於無間生必受果故。",
+        "from": "T29n1562_043:0586b24_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無餘生果業能隔故。",
+        "from": "T29n1562_043:0586b25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有說造逆補特伽羅。",
+        "from": "T29n1562_043:0586b25_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從此命終定墮地獄中無間隔故名無間。",
+        "from": "T29n1562_043:0586b26_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼有無間得無間名與無間法合故名無間。",
+        "from": "T29n1562_043:0586b27_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如與沙門合故名沙門。",
+        "from": "T29n1562_043:0586b28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三障應知何趣中有。",
+        "from": "T29n1562_043:0586b28_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0586b29_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　三洲有無間　　非餘扇[打丁+虎]等　少恩少羞恥　　除障通五趣論曰。",
+        "from": "T29n1562_043:0586c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非一切障諸趣皆有。",
+        "from": "T29n1562_043:0586c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且無間業唯人三洲。",
+        "from": "T29n1562_043:0586c03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非北俱盧餘趣餘界。",
+        "from": "T29n1562_043:0586c04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於三洲內唯女及男。",
+        "from": "T29n1562_043:0586c04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非扇[打丁+虎]等如無惡戒。",
+        "from": "T29n1562_043:0586c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有說父母於彼少恩彼於父母少羞恥故。",
+        "from": "T29n1562_043:0586c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂彼父母生不具身愛念。",
+        "from": "T29n1562_043:0586c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又微故言恩少彼於父母慚愧亦微。",
+        "from": "T29n1562_043:0586c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "要壞重慚愧方觸無間罪。",
+        "from": "T29n1562_043:0586c07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然上座言彼扇[打丁+虎]等若害母等亦成無間。",
+        "from": "T29n1562_043:0586c08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼愚癡類作不應作業。",
+        "from": "T29n1562_043:0586c09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈容乘此生覩史多天。",
+        "from": "T29n1562_043:0586c09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈但有人作不應作不。",
+        "from": "T29n1562_043:0586c10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生彼天處。",
+        "from": "T29n1562_043:0586c10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即定生地獄故。",
+        "from": "T29n1562_043:0586c11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖徵責而詞乖理。",
+        "from": "T29n1562_043:0586c11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "都無思慮闇發此言。",
+        "from": "T29n1562_043:0586c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又彼自徵傍生趣等。",
+        "from": "T29n1562_043:0586c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦害父母何非無間。",
+        "from": "T29n1562_043:0586c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "便自釋言覺慧劣故。",
+        "from": "T29n1562_043:0586c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "想變壞故。",
+        "from": "T29n1562_043:0586c13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慈愛薄故。",
+        "from": "T29n1562_043:0586c14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈不此因於扇[打丁+虎]等亦容得有故無無間。",
+        "from": "T29n1562_043:0586c14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設許彼類有無間罪。",
+        "from": "T29n1562_043:0586c15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非上座說令少信知故。",
+        "from": "T29n1562_043:0586c15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我所宗於理為善。",
+        "from": "T29n1562_043:0586c16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有人害非人父母。",
+        "from": "T29n1562_043:0586c16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦不成逆罪少恩羞恥故。",
+        "from": "T29n1562_043:0586c17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂彼於子無如人恩子於彼無如人慚愧。",
+        "from": "T29n1562_043:0586c17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已辯業障唯人三洲。",
+        "from": "T29n1562_043:0586c18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘障應知五趣皆有然煩惱障遍一切處。",
+        "from": "T29n1562_043:0586c19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若異熟障全三惡趣。",
+        "from": "T29n1562_043:0586c20_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人唯北洲。",
+        "from": "T29n1562_043:0586c20_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天唯無想。",
+        "from": "T29n1562_043:0586c20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈不三洲處扇[打丁+虎]等身非聖道器故異熟障攝。",
+        "from": "T29n1562_043:0586c21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無如是理。",
+        "from": "T29n1562_043:0586c22_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以於彼生引業所牽同分相續。",
+        "from": "T29n1562_043:0586c22_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可成男等為聖道器唯三惡趣。",
+        "from": "T29n1562_043:0586c23_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無想北洲決定無容證聖道義。",
+        "from": "T29n1562_043:0586c23_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故唯於彼立異熟障。",
+        "from": "T29n1562_043:0586c24_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有說彼處唯屬異生。",
+        "from": "T29n1562_043:0586c24_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘處皆容與聖者共故不說是異熟障攝。",
+        "from": "T29n1562_043:0586c25_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於前所辯三重障中。",
+        "from": "T29n1562_043:0586c26_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說五無間為業障體。",
+        "from": "T29n1562_043:0586c26_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五無間業其體是何。",
+        "from": "T29n1562_043:0586c27_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且上座言三業為體。",
+        "from": "T29n1562_043:0586c27_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身業語業一一獨能招異熟果。",
+        "from": "T29n1562_043:0586c28_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "理難成故以但意業所作事重故。",
+        "from": "T29n1562_043:0586c28_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "許能感殊勝異熟。",
+        "from": "T29n1562_043:0586c29_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此極疎怳。",
+        "from": "T29n1562_043:0587a01_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疎怳者何汝已許思依身語轉名身語業。",
+        "from": "T29n1562_043:0587a01_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今許意業為無間體。",
+        "from": "T29n1562_043:0587a02_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "便應暫起欲造逆思即成無間。",
+        "from": "T29n1562_043:0587a02_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又言意業所作事重許感殊勝異熟果者。",
+        "from": "T29n1562_043:0587a03_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此唯妄許違自宗故。",
+        "from": "T29n1562_043:0587a04_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂若有思動發身語。",
+        "from": "T29n1562_043:0587a04_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此思可說所作事重然彼不可說為意業。",
+        "from": "T29n1562_043:0587a05_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以依身語二門轉故。",
+        "from": "T29n1562_043:0587a06_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若思不能動發身語彼許是意業。",
+        "from": "T29n1562_043:0587a06_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然所作非重寧說意業所作事重。",
+        "from": "T29n1562_043:0587a07_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若謂動發身語二思是意業思所作重事故。",
+        "from": "T29n1562_043:0587a08_44",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說意業所作重者此亦非理。",
+        "from": "T29n1562_043:0587a09_45",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "事非重故唯思不成身語二業。",
+        "from": "T29n1562_043:0587a09_46",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意業引彼事重豈成所作事重。",
+        "from": "T29n1562_043:0587a10_47",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言顯動發身語故所作重非意業思。",
+        "from": "T29n1562_043:0587a11_48",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若觀果思所作重故。",
+        "from": "T29n1562_043:0587a12_49",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦說意業所作重者。",
+        "from": "T29n1562_043:0587a12_50",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意業前思能引意業果。",
+        "from": "T29n1562_043:0587a13_51",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果事重故亦應名事重。",
+        "from": "T29n1562_043:0587a13_52",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是則應有大過失。",
+        "from": "T29n1562_043:0587a14_53",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又非意業與身語思。",
+        "from": "T29n1562_043:0587a14_54",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因果性故共感異熟。",
+        "from": "T29n1562_043:0587a15_55",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勿彼意業與彼前思亦因果故同感異熟。",
+        "from": "T29n1562_043:0587a15_56",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是則應有非愛過。",
+        "from": "T29n1562_043:0587a16_57",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又彼先說證此因。",
+        "from": "T29n1562_043:0587a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言身業語業獨招異熟難成故者。",
+        "from": "T29n1562_043:0587a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此言何義豈與意業共招異熟。",
+        "from": "T29n1562_043:0587a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即令此彼體類是同。",
+        "from": "T29n1562_043:0587a18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獨思離心能招異熟亦難成故。",
+        "from": "T29n1562_043:0587a19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則應許心是無間體或體是思。",
+        "from": "T29n1562_043:0587a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又應推徵說有意業是無間者。",
+        "from": "T29n1562_043:0587a20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且害母者由何思力引地獄生。",
+        "from": "T29n1562_043:0587a21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為思惟思為業道思。",
+        "from": "T29n1562_043:0587a22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若思惟思如何於母全未有損害定引地獄生若業道思如何可說非身語業獨能感果。",
+        "from": "T29n1562_043:0587a22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非由思惟思彼方取果故。",
+        "from": "T29n1562_043:0587a24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又彼自許先思惟思後業道思。",
+        "from": "T29n1562_043:0587a25_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先是意業後身語業前後相望時相各異無一果理如何可言身業語業獨感異熟。",
+        "from": "T29n1562_043:0587a25_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其理難成故彼所言在聖教外。",
+        "from": "T29n1562_043:0587a27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然我所宗決定義者。",
+        "from": "T29n1562_043:0587a28_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0587a28_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　此五無間中　　四身一語業",
+        "from": "T29n1562_043:0587a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　三殺一誑語　　一殺生加行",
+        "from": "T29n1562_043:0587b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0587b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五無間中四是身業。",
+        "from": "T29n1562_043:0587b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一是語業。",
+        "from": "T29n1562_043:0587b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三是殺生。",
+        "from": "T29n1562_043:0587b02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一虛誑語根本業道。",
+        "from": "T29n1562_043:0587b03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一是殺生業道加行。",
+        "from": "T29n1562_043:0587b03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以如來身不可害故。",
+        "from": "T29n1562_043:0587b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "破僧無間是虛誑語。",
+        "from": "T29n1562_043:0587b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既是虛誑語何緣名破僧。",
+        "from": "T29n1562_043:0587b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因受果名或能破故。",
+        "from": "T29n1562_043:0587b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若爾僧破其體是何。",
+        "from": "T29n1562_043:0587b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能所破人誰所成就。",
+        "from": "T29n1562_043:0587b06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0587b06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　僧破不和合　　心不相應行",
+        "from": "T29n1562_043:0587b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　無覆無記性　　所破僧所成",
+        "from": "T29n1562_043:0587b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0587b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧破體是不和合。",
+        "from": "T29n1562_043:0587b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "性無覆無記。",
+        "from": "T29n1562_043:0587b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心不相應行蘊所攝豈成無間。",
+        "from": "T29n1562_043:0587b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是僧破因誑語生。",
+        "from": "T29n1562_043:0587b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故說破僧是無間果。",
+        "from": "T29n1562_043:0587b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非能破者成。",
+        "from": "T29n1562_043:0587b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此僧破但是所破僧眾所成。",
+        "from": "T29n1562_043:0587b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此能破人何所成就。",
+        "from": "T29n1562_043:0587b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "破僧異熟何處幾時。",
+        "from": "T29n1562_043:0587b13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0587b14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　能破者唯成　　此虛誑語罪",
+        "from": "T29n1562_043:0587b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　無間一劫熟　　隨罪增苦增",
+        "from": "T29n1562_043:0587b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0587b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能破僧人成破僧罪。",
+        "from": "T29n1562_043:0587b17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此破僧罪誑語為性。",
+        "from": "T29n1562_043:0587b17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即僧破俱生語表無表業。",
+        "from": "T29n1562_043:0587b18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此必無間大地獄中經一中劫受極重苦餘逆不必生於無間。",
+        "from": "T29n1562_043:0587b18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然此不經一大劫者。",
+        "from": "T29n1562_043:0587b20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲界無有此壽量故。",
+        "from": "T29n1562_043:0587b20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一中劫時亦不滿足。",
+        "from": "T29n1562_043:0587b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經說天授人壽四萬歲時。",
+        "from": "T29n1562_043:0587b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "來生人中證獨覺菩提故。",
+        "from": "T29n1562_043:0587b22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然不違背壽一劫言。",
+        "from": "T29n1562_043:0587b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一劫少分中立一劫名故。",
+        "from": "T29n1562_043:0587b23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現有一分亦立全名。",
+        "from": "T29n1562_043:0587b23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如言此日我有障礙。",
+        "from": "T29n1562_043:0587b24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或如說言賊燒村等。",
+        "from": "T29n1562_043:0587b24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若造多逆初一已招無間獄生餘應無果。",
+        "from": "T29n1562_043:0587b25_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無無果失造多逆人。",
+        "from": "T29n1562_043:0587b26_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯一能引餘助滿故。",
+        "from": "T29n1562_043:0587b26_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨彼罪增苦還增劇。",
+        "from": "T29n1562_043:0587b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂由多逆感地獄中大柔軟身。",
+        "from": "T29n1562_043:0587b27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多猛苦具受二二四五倍重苦。",
+        "from": "T29n1562_043:0587b28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或無中夭受苦多時。",
+        "from": "T29n1562_043:0587b28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如何可言餘應無果。",
+        "from": "T29n1562_043:0587b29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上座於此作如是釋。",
+        "from": "T29n1562_043:0587b29_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或於地獄死已更生。",
+        "from": "T29n1562_043:0587c01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若爾寧非順後受業。",
+        "from": "T29n1562_043:0587c01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼於此難反詰答言若有先造餘不善業已引地獄。",
+        "from": "T29n1562_043:0587c02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後造無間此復云何成無間業。",
+        "from": "T29n1562_043:0587c03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為有天世於中間耶。",
+        "from": "T29n1562_043:0587c04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈不隨前無間即受。",
+        "from": "T29n1562_043:0587c04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我先已辯時分定業。",
+        "from": "T29n1562_043:0587c05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無轉餘位受異熟理。",
+        "from": "T29n1562_043:0587c05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此不應作如是詰。",
+        "from": "T29n1562_043:0587c06_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有說先造餘定惡業引次地獄生後不造無間。",
+        "from": "T29n1562_043:0587c06_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有說設造唯成滿業如造多逆先引後滿。",
+        "from": "T29n1562_043:0587c07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非唯能引名無間業。",
+        "from": "T29n1562_043:0587c08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故彼反詰於答無能。",
+        "from": "T29n1562_043:0587c09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然彼所言為有天世於中間者。",
+        "from": "T29n1562_043:0587c09_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此極麁疎於感次生無用同故。",
+        "from": "T29n1562_043:0587c10_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如為天世善業所間隔。",
+        "from": "T29n1562_043:0587c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惡業無力感次地獄生。",
+        "from": "T29n1562_043:0587c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "便說名為順後受業。",
+        "from": "T29n1562_043:0587c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是地獄餘業所間無力能感次地獄生。",
+        "from": "T29n1562_043:0587c12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何不如天世所隔。",
+        "from": "T29n1562_043:0587c13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令後造逆成順後受。",
+        "from": "T29n1562_043:0587c13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故對法宗所釋無失。",
+        "from": "T29n1562_043:0587c14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經說五逆順生受故。",
+        "from": "T29n1562_043:0587c14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誰於何處能破於誰。",
+        "from": "T29n1562_043:0587c15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "破在何時。",
+        "from": "T29n1562_043:0587c15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經幾時破。",
+        "from": "T29n1562_043:0587c16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0587c16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　苾芻見淨行　　破異處愚夫",
+        "from": "T29n1562_043:0587c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　忍異師道時　　名破不經宿",
+        "from": "T29n1562_043:0587c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0587c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能破僧者要大苾芻。",
+        "from": "T29n1562_043:0587c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必非在家苾芻尼等。",
+        "from": "T29n1562_043:0587c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以彼依止無威德故。",
+        "from": "T29n1562_043:0587c20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯見行人非愛行者。",
+        "from": "T29n1562_043:0587c20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以惡意樂極堅深故。",
+        "from": "T29n1562_043:0587c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於染淨品俱躁動故。",
+        "from": "T29n1562_043:0587c21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "要住淨行方能破僧。",
+        "from": "T29n1562_043:0587c21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以犯戒人無威德故。",
+        "from": "T29n1562_043:0587c22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即由此證造餘逆後不能破僧。",
+        "from": "T29n1562_043:0587c22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以造餘逆及受彼果處無定故。",
+        "from": "T29n1562_043:0587c23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於斯且舉淨行為初類。",
+        "from": "T29n1562_043:0587c24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯端嚴語具圓等。",
+        "from": "T29n1562_043:0587c24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "醜陋訥等無破能故。",
+        "from": "T29n1562_043:0587c25_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "要異處破非對大師。",
+        "from": "T29n1562_043:0587c25_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以諸如來不可輕逼。",
+        "from": "T29n1562_043:0587c26_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言詞威肅對必無能。",
+        "from": "T29n1562_043:0587c26_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯破異生非破聖者。",
+        "from": "T29n1562_043:0587c27_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "他不能引得證淨故。",
+        "from": "T29n1562_043:0587c27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有說得忍亦不可破。",
+        "from": "T29n1562_043:0587c28_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由決定忍佛所說故。",
+        "from": "T29n1562_043:0587c28_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為含二義說愚夫言。",
+        "from": "T29n1562_043:0587c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "要所破僧忍師異佛。",
+        "from": "T29n1562_043:0587c29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忍異佛說有餘聖道。",
+        "from": "T29n1562_043:0587c29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應說僧破在如是時。",
+        "from": "T29n1562_043:0588a01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此夜必和不經宿住。",
+        "from": "T29n1562_043:0588a01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是名曰破法輪僧。",
+        "from": "T29n1562_043:0588a02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能障佛法輪。",
+        "from": "T29n1562_043:0588a02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壞僧和合故。",
+        "from": "T29n1562_043:0588a03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂由僧壞邪道轉時。",
+        "from": "T29n1562_043:0588a03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖道被遮暫時不轉。",
+        "from": "T29n1562_043:0588a03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言邪道者。",
+        "from": "T29n1562_043:0588a04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "提婆達多妄說五事為出離道。",
+        "from": "T29n1562_043:0588a04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者不應受用乳等。",
+        "from": "T29n1562_043:0588a05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者斷肉。",
+        "from": "T29n1562_043:0588a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者斷鹽四者應被不截衣服。",
+        "from": "T29n1562_043:0588a06_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者應居聚落邊寺眾。",
+        "from": "T29n1562_043:0588a06_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若忍許彼所說時名破法輪。",
+        "from": "T29n1562_043:0588a07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦名僧破。",
+        "from": "T29n1562_043:0588a07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何洲人幾破法輪僧破羯磨僧。",
+        "from": "T29n1562_043:0588a08_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何洲人幾。",
+        "from": "T29n1562_043:0588a08_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0588a09_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　贍部洲九等　　方破法輪僧",
+        "from": "T29n1562_043:0588a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　唯破羯磨僧　　通三洲八等",
+        "from": "T29n1562_043:0588a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0588a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯贍部洲人少至九。",
+        "from": "T29n1562_043:0588a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或復過此能破法輪。",
+        "from": "T29n1562_043:0588a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非於餘洲以無佛故。",
+        "from": "T29n1562_043:0588a13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "要有佛處可立異師。",
+        "from": "T29n1562_043:0588a13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "要八苾芻分為二眾以為所破能破第九故眾極少猶須九人。",
+        "from": "T29n1562_043:0588a14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "等言為明過此無限。",
+        "from": "T29n1562_043:0588a15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯破羯磨通在三洲。",
+        "from": "T29n1562_043:0588a15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "極少八人多亦無限。",
+        "from": "T29n1562_043:0588a16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "通三洲者。",
+        "from": "T29n1562_043:0588a16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以有聖教及有出家弟子眾故。",
+        "from": "T29n1562_043:0588a17_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "要一界中僧分二部別作羯磨故須八人。",
+        "from": "T29n1562_043:0588a17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "過此無遮故亦言等於何時分容有破僧破羯磨僧。",
+        "from": "T29n1562_043:0588a18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從結界後迄今亦有至法未滅破法輪僧。",
+        "from": "T29n1562_043:0588a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除六時分。",
+        "from": "T29n1562_043:0588a20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為六。",
+        "from": "T29n1562_043:0588a21_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0588a21_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　初後皰雙前　　佛滅未結界",
+        "from": "T29n1562_043:0588a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　於如是六位　　無破法輪僧",
+        "from": "T29n1562_043:0588a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0588a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初謂世尊成佛未久有情有善阿世耶故惡阿世耶猶未起故。",
+        "from": "T29n1562_043:0588a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後謂善逝將般涅槃。",
+        "from": "T29n1562_043:0588a25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖教增廣善安住故。",
+        "from": "T29n1562_043:0588a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必僧和合佛方涅槃。",
+        "from": "T29n1562_043:0588a26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有餘師言。",
+        "from": "T29n1562_043:0588a26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "證法性定故。",
+        "from": "T29n1562_043:0588a27_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾咸憂慼故。",
+        "from": "T29n1562_043:0588a27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非初非後於聖教中戒見二皰。",
+        "from": "T29n1562_043:0588a27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若未起位亦無破僧。",
+        "from": "T29n1562_043:0588a28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "要見皰生方敢破故。",
+        "from": "T29n1562_043:0588a28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未立止觀第一雙時。",
+        "from": "T29n1562_043:0588a29_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法爾由彼速還合故佛滅後時他不信受。",
+        "from": "T29n1562_043:0588a29_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無有真佛為敵對故。",
+        "from": "T29n1562_043:0588b01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未結界時無一界內。",
+        "from": "T29n1562_043:0588b02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧分二部可名僧破。",
+        "from": "T29n1562_043:0588b02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於此六位無破法輪。",
+        "from": "T29n1562_043:0588b03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是破僧諸佛皆有。",
+        "from": "T29n1562_043:0588b03_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不爾要有宿破他業。",
+        "from": "T29n1562_043:0588b04_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於此賢劫迦葉波佛時。",
+        "from": "T29n1562_043:0588b04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋迦牟尼曾破他眾故。",
+        "from": "T29n1562_043:0588b05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具止傍論應辯逆緣。",
+        "from": "T29n1562_043:0588b05_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0588b06_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　棄壞恩德田　　轉形亦成逆",
+        "from": "T29n1562_043:0588b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　母謂因彼血　　誤等無或有",
+        "from": "T29n1562_043:0588b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　打心出佛血　　害後無學無",
+        "from": "T29n1562_043:0588b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0588b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何緣害母等成無間非餘。",
+        "from": "T29n1562_043:0588b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由棄恩田壞德田故。",
+        "from": "T29n1562_043:0588b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂害父母是棄恩田。",
+        "from": "T29n1562_043:0588b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如何有恩身生本故。",
+        "from": "T29n1562_043:0588b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如何棄彼謂捨彼恩德田。",
+        "from": "T29n1562_043:0588b12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂餘阿羅漢等。",
+        "from": "T29n1562_043:0588b12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具諸勝德及能生故。",
+        "from": "T29n1562_043:0588b13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壞德所依故成逆罪。",
+        "from": "T29n1562_043:0588b13_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有父母子初生時。",
+        "from": "T29n1562_043:0588b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為殺棄於豺狼路等。",
+        "from": "T29n1562_043:0588b14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或於胎內方便欲殺。",
+        "from": "T29n1562_043:0588b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由定業力子不命終。",
+        "from": "T29n1562_043:0588b15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼有何恩棄之成逆。",
+        "from": "T29n1562_043:0588b15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼定由有不活等畏於子事急起欲殺心。",
+        "from": "T29n1562_043:0588b16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然棄等時必懷悲愍數數緣子愛戀纏心。",
+        "from": "T29n1562_043:0588b17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若棄此恩下逆罪觸。",
+        "from": "T29n1562_043:0588b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為顯逆罪有下中上故說棄恩皆成逆罪。",
+        "from": "T29n1562_043:0588b18_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或由母等田器法。",
+        "from": "T29n1562_043:0588b19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然設彼無恩但害其命。",
+        "from": "T29n1562_043:0588b20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必應無間生地獄中。",
+        "from": "T29n1562_043:0588b20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸聰慧人咸作是說。",
+        "from": "T29n1562_043:0588b21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊於法了達根源。",
+        "from": "T29n1562_043:0588b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作如是言但應深信。",
+        "from": "T29n1562_043:0588b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "父母形轉殺成逆邪。",
+        "from": "T29n1562_043:0588b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "逆罪亦成依止一故。",
+        "from": "T29n1562_043:0588b22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由如是義故有問言。",
+        "from": "T29n1562_043:0588b23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頗有令男離命根。",
+        "from": "T29n1562_043:0588b23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非父阿羅漢而為無間罪觸不。",
+        "from": "T29n1562_043:0588b24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有謂母轉形與此相違。",
+        "from": "T29n1562_043:0588b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問女亦爾設有女人羯剌藍墮。",
+        "from": "T29n1562_043:0588b25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘女收取置產門中生子。",
+        "from": "T29n1562_043:0588b26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殺何成害母逆因。",
+        "from": "T29n1562_043:0588b26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼血生者識託方增故。",
+        "from": "T29n1562_043:0588b27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第二女人但如養母。",
+        "from": "T29n1562_043:0588b27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖諸所作皆應諮決。",
+        "from": "T29n1562_043:0588b28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而害但成無間同類。",
+        "from": "T29n1562_043:0588b28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上座於此作如是言。",
+        "from": "T29n1562_043:0588b29_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若羯剌藍有命無墮。",
+        "from": "T29n1562_043:0588b29_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有墮者必已命終。",
+        "from": "T29n1562_043:0588c01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有情必無住糞穢故。",
+        "from": "T29n1562_043:0588c01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由無是事為問唐捐。",
+        "from": "T29n1562_043:0588c02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設有如斯害後成逆棄重恩故。",
+        "from": "T29n1562_043:0588c02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "害前不然於子重恩非關彼故。",
+        "from": "T29n1562_043:0588c03_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上座決定於業趣中。",
+        "from": "T29n1562_043:0588c03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不能審知功能差別如何中有穿度金剛。",
+        "from": "T29n1562_043:0588c04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "母腹所拘不往餘處。",
+        "from": "T29n1562_043:0588c05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "母腹中火能消金石。",
+        "from": "T29n1562_043:0588c05_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而羯剌藍於中增長。",
+        "from": "T29n1562_043:0588c06_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "地獄中有現母腹中而不能燒腹。",
+        "from": "T29n1562_043:0588c06_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及同類此亦應爾業力難思。",
+        "from": "T29n1562_043:0588c07_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖此腹中羯剌藍墮。",
+        "from": "T29n1562_043:0588c08_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何妨轉至餘腹中增。",
+        "from": "T29n1562_043:0588c08_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曾聞經中說有尊者童子迦葉。",
+        "from": "T29n1562_043:0588c09_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是而生既置產門。",
+        "from": "T29n1562_043:0588c09_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吸至胎處故不可說住糞穢中。",
+        "from": "T29n1562_043:0588c10_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有但從口飲入腹。",
+        "from": "T29n1562_043:0588c11_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦由業力轉至胎處。",
+        "from": "T29n1562_043:0588c11_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有情業用不可思議。",
+        "from": "T29n1562_043:0588c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖無欲心而由業力。",
+        "from": "T29n1562_043:0588c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有吸至腹即成胎藏。",
+        "from": "T29n1562_043:0588c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後母雖有持養等恩而於子身非能生本。",
+        "from": "T29n1562_043:0588c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若持養等害便成逆。",
+        "from": "T29n1562_043:0588c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殺養母人應成無間。",
+        "from": "T29n1562_043:0588c14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故彼所立棄重恩田。",
+        "from": "T29n1562_043:0588c15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "便有不成或不定失。",
+        "from": "T29n1562_043:0588c15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前母雖闕持養等恩。",
+        "from": "T29n1562_043:0588c16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而於子身是能生本。",
+        "from": "T29n1562_043:0588c16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若非持養害不成逆。",
+        "from": "T29n1562_043:0588c17_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如前所說於子有怨。",
+        "from": "T29n1562_043:0588c17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "子反害之應無無間。",
+        "from": "T29n1562_043:0588c18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故彼所立非關彼因。",
+        "from": "T29n1562_043:0588c18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦有不成及不定失。",
+        "from": "T29n1562_043:0588c19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故唯人趣結生勝緣。",
+        "from": "T29n1562_043:0588c19_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "害成害母逆非唯持養者。",
+        "from": "T29n1562_043:0588c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若於父母起殺加行。",
+        "from": "T29n1562_043:0588c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誤殺餘人無無間罪。",
+        "from": "T29n1562_043:0588c21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於非父母起殺加行。",
+        "from": "T29n1562_043:0588c21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誤殺父母亦不成逆。",
+        "from": "T29n1562_043:0588c22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若一加行害母及餘。",
+        "from": "T29n1562_043:0588c22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二無表生表唯逆罪。",
+        "from": "T29n1562_043:0588c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無間業勢力強故。",
+        "from": "T29n1562_043:0588c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙音尊者作如是言。",
+        "from": "T29n1562_043:0588c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於此位中亦有二表。",
+        "from": "T29n1562_043:0588c24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "表是積集極微成故。",
+        "from": "T29n1562_043:0588c24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今觀彼意表有多微。",
+        "from": "T29n1562_043:0588c25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有逆罪收有餘罪攝。",
+        "from": "T29n1562_043:0588c25_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有於阿羅漢無阿羅漢想。",
+        "from": "T29n1562_043:0588c26_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦無決定解此非阿羅漢。",
+        "from": "T29n1562_043:0588c26_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無簡別故害成逆罪。",
+        "from": "T29n1562_043:0588c27_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非於父母全與此同。",
+        "from": "T29n1562_043:0588c27_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以易識知而不識者雖行殺害無棄恩心。",
+        "from": "T29n1562_043:0588c28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿羅漢人無別標相既難識是亦難知非故漫心殺亦成無間。",
+        "from": "T29n1562_043:0588c29_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有害父父是阿羅漢。",
+        "from": "T29n1562_043:0589a01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得一逆罪以依止一故。",
+        "from": "T29n1562_043:0589a02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若爾喻說當云何通。",
+        "from": "T29n1562_043:0589a02_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛告始欠持。",
+        "from": "T29n1562_043:0589a03_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝已造二逆所謂害父殺阿羅漢。",
+        "from": "T29n1562_043:0589a03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼顯一逆由二緣成。",
+        "from": "T29n1562_043:0589a04_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或以二門訶責彼罪。",
+        "from": "T29n1562_043:0589a04_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若於佛所惡心出血。",
+        "from": "T29n1562_043:0589a05_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切皆得無間罪耶。",
+        "from": "T29n1562_043:0589a05_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "要以殺心方成逆罪。",
+        "from": "T29n1562_043:0589a06_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "打心出血無間則無。",
+        "from": "T29n1562_043:0589a06_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無決定心壞福田故。",
+        "from": "T29n1562_043:0589a07_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若殺加行位彼未成無學。",
+        "from": "T29n1562_043:0589a07_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "將死方得阿羅漢果。",
+        "from": "T29n1562_043:0589a08_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能殺彼者有逆罪耶。",
+        "from": "T29n1562_043:0589a08_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無。",
+        "from": "T29n1562_043:0589a09_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於無學身無殺加行故。",
+        "from": "T29n1562_043:0589a09_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若造無間加行不可轉。",
+        "from": "T29n1562_043:0589a09_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為有離染及得聖果耶。",
+        "from": "T29n1562_043:0589a10_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0589a10_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　造逆定加行　　無離染得果",
+        "from": "T29n1562_043:0589a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0589a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無間加行若必定成中間決無離染得果。",
+        "from": "T29n1562_043:0589a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘惡業道加行中間。",
+        "from": "T29n1562_043:0589a13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若聖道生業道不起。",
+        "from": "T29n1562_043:0589a13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "轉得相續定違彼故。",
+        "from": "T29n1562_043:0589a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非已見諦者業道罪所觸。",
+        "from": "T29n1562_043:0589a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無間加行為有可轉。",
+        "from": "T29n1562_043:0589a15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而言若彼不可轉耶。",
+        "from": "T29n1562_043:0589a15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有作是言。",
+        "from": "T29n1562_043:0589a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆不可轉故本論說。",
+        "from": "T29n1562_043:0589a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頗有未害生殺生未滅。",
+        "from": "T29n1562_043:0589a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此業受異熟定生地獄耶。",
+        "from": "T29n1562_043:0589a17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰有。",
+        "from": "T29n1562_043:0589a17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如作無間業加行位命終指鬘。",
+        "from": "T29n1562_043:0589a17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖發欲害母心而未正興害母加行。",
+        "from": "T29n1562_043:0589a18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於世尊所雖有害心亦未正興害佛加行。",
+        "from": "T29n1562_043:0589a19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼作是意近方下手。",
+        "from": "T29n1562_043:0589a20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊為遮彼業障故。",
+        "from": "T29n1562_043:0589a20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至未生信不令得近室利毱多。",
+        "from": "T29n1562_043:0589a21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於薄伽梵亦不全起。",
+        "from": "T29n1562_043:0589a22_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無所顧心以發意言。",
+        "from": "T29n1562_043:0589a22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊若是一切智者自知避故。",
+        "from": "T29n1562_043:0589a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有餘師說。",
+        "from": "T29n1562_043:0589a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦有可轉本論不言無間加行皆不可轉。",
+        "from": "T29n1562_043:0589a23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但說加行不息。",
+        "from": "T29n1562_043:0589a24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "死者定生地獄。",
+        "from": "T29n1562_043:0589a25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "加行息者非彼所論。",
+        "from": "T29n1562_043:0589a25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然我所宗無間加行總說有二。",
+        "from": "T29n1562_043:0589a26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一近二遠。",
+        "from": "T29n1562_043:0589a26_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於中近者不可轉故。",
+        "from": "T29n1562_043:0589a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本論依之而興問答。",
+        "from": "T29n1562_043:0589a27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂有於母起害加行。",
+        "from": "T29n1562_043:0589a27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "纔擊無間母命未終。",
+        "from": "T29n1562_043:0589a28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或母力強反害其子。",
+        "from": "T29n1562_043:0589a28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或為王等擒捉而殺。",
+        "from": "T29n1562_043:0589a29_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或子壽盡自致命終。",
+        "from": "T29n1562_043:0589a29_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本論依斯作如是說。",
+        "from": "T29n1562_043:0589b01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於中遠者由尚未至不可轉位容有可轉。",
+        "from": "T29n1562_043:0589b01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若不爾者世尊應說無間加行亦無間罪。",
+        "from": "T29n1562_043:0589b02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬喻者言。",
+        "from": "T29n1562_043:0589b03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五無間業尚有可轉況彼加行。",
+        "from": "T29n1562_043:0589b03_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故契經言若有一類。",
+        "from": "T29n1562_043:0589b04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於五無間造作增長。",
+        "from": "T29n1562_043:0589b05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無間必墮[木*柰]落迦中。",
+        "from": "T29n1562_043:0589b05_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "准此一類言知別有一類。",
+        "from": "T29n1562_043:0589b06_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖造無間不生地獄。",
+        "from": "T29n1562_043:0589b06_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不爾一類成無用言。",
+        "from": "T29n1562_043:0589b07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又世尊言娑羅設解。",
+        "from": "T29n1562_043:0589b07_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我所說義但無解能。",
+        "from": "T29n1562_043:0589b08_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此中既唯說不解語是決定障。",
+        "from": "T29n1562_043:0589b08_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故知世尊說一切業皆悉可轉。",
+        "from": "T29n1562_043:0589b09_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又世尊記旋繞制多一切皆當得生天故。",
+        "from": "T29n1562_043:0589b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又世尊記提婆達多。",
+        "from": "T29n1562_043:0589b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷善根後不可治故。",
+        "from": "T29n1562_043:0589b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如煩惱障業障亦可轉。",
+        "from": "T29n1562_043:0589b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是所言皆非能立。",
+        "from": "T29n1562_043:0589b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於經及理不善了故。",
+        "from": "T29n1562_043:0589b12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且彼所引有一類經。",
+        "from": "T29n1562_043:0589b13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意顯有人具造五逆。",
+        "from": "T29n1562_043:0589b13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無間必墮[木*柰]落迦中。",
+        "from": "T29n1562_043:0589b14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有乃至唯造一逆。",
+        "from": "T29n1562_043:0589b14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有造訖多門增長。",
+        "from": "T29n1562_043:0589b15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有唯造後更不增。",
+        "from": "T29n1562_043:0589b15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆無間生墮於地獄。",
+        "from": "T29n1562_043:0589b16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且舉初故說一類言。",
+        "from": "T29n1562_043:0589b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或顯有人乘無間業無間必墮[木*柰]落迦中。",
+        "from": "T29n1562_043:0589b17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有乘餘業故言一類。",
+        "from": "T29n1562_043:0589b18_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不說一類便謂唯乘無間業因無間生彼。",
+        "from": "T29n1562_043:0589b18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅經意顯造逆人不解如來所說深義。",
+        "from": "T29n1562_043:0589b19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "業障礙故當所獲得。",
+        "from": "T29n1562_043:0589b20_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼異熟果增上力故。",
+        "from": "T29n1562_043:0589b20_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀諦善根因被損故。",
+        "from": "T29n1562_043:0589b21_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有悔憂所損惱故。",
+        "from": "T29n1562_043:0589b21_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於佛所說不能深解。",
+        "from": "T29n1562_043:0589b22_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若執經義但如其文。",
+        "from": "T29n1562_043:0589b22_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是則極成無間不轉。",
+        "from": "T29n1562_043:0589b23_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言無間者顯無隔故。",
+        "from": "T29n1562_043:0589b23_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又彼天授麁解佛言。",
+        "from": "T29n1562_043:0589b24_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何緣必生無間地獄。",
+        "from": "T29n1562_043:0589b24_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故知此據解深說解。",
+        "from": "T29n1562_043:0589b25_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "記生天證理亦不成。",
+        "from": "T29n1562_043:0589b25_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛於彼經差別說故。",
+        "from": "T29n1562_043:0589b26_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂彼經說諸有依人旋遶制多皆生天故。",
+        "from": "T29n1562_043:0589b26_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有方便者名有依人。",
+        "from": "T29n1562_043:0589b27_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即是有容生天理義。",
+        "from": "T29n1562_043:0589b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然譬喻者略引彼經便開有情多造惡行。",
+        "from": "T29n1562_043:0589b28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以許造作猛利極重。",
+        "from": "T29n1562_043:0589b29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸惡行者起下善心。",
+        "from": "T29n1562_043:0589b29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或無記心於制多所。",
+        "from": "T29n1562_043:0589c01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "暫時旋遶便總滅故。",
+        "from": "T29n1562_043:0589c01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷善後證理亦不成。",
+        "from": "T29n1562_043:0589c02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯斷善根亦可迴轉。",
+        "from": "T29n1562_043:0589c02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛不應說彼不可治。",
+        "from": "T29n1562_043:0589c03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故知彼言更有別義。",
+        "from": "T29n1562_043:0589c03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂彼天授先起惡欲。",
+        "from": "T29n1562_043:0589c04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此已應墮於惡趣。",
+        "from": "T29n1562_043:0589c04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次起加行將破僧時。",
+        "from": "T29n1562_043:0589c05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此已應墮於地獄。",
+        "from": "T29n1562_043:0589c05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次後妄語破壞僧時。",
+        "from": "T29n1562_043:0589c06_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此已招無間劫壽。",
+        "from": "T29n1562_043:0589c06_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後起邪見斷善根已。",
+        "from": "T29n1562_043:0589c07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "定不可令現起白法。",
+        "from": "T29n1562_043:0589c07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故說此後必不可治。",
+        "from": "T29n1562_043:0589c08_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非謂彼爾時方定墮地獄。",
+        "from": "T29n1562_043:0589c08_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然於此位容有生疑。",
+        "from": "T29n1562_043:0589c09_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "提婆達多雖至此位佛何不療。",
+        "from": "T29n1562_043:0589c09_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如未生怨為遣彼疑。",
+        "from": "T29n1562_043:0589c10_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陳不療意言。",
+        "from": "T29n1562_043:0589c10_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我不見提婆達多可令現身起少白法。",
+        "from": "T29n1562_043:0589c11_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故我棄捨不欲療治。",
+        "from": "T29n1562_043:0589c11_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "少白法言顯善悔愧。",
+        "from": "T29n1562_043:0589c12_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此中意顯佛曉諸親。",
+        "from": "T29n1562_043:0589c12_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天授如斯造重惡業。",
+        "from": "T29n1562_043:0589c13_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷諸善本都無愧心。",
+        "from": "T29n1562_043:0589c13_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我當如何能救療彼。",
+        "from": "T29n1562_043:0589c14_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言可療者謂可化令生善。",
+        "from": "T29n1562_043:0589c14_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悔心伏惡行病。",
+        "from": "T29n1562_043:0589c15_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若未增者令其不增。",
+        "from": "T29n1562_043:0589c15_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有已增令漸微薄。",
+        "from": "T29n1562_043:0589c16_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非要絕本方名療治。",
+        "from": "T29n1562_043:0589c16_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如世良醫療病法爾。",
+        "from": "T29n1562_043:0589c17_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煩惱障喻證亦不成。",
+        "from": "T29n1562_043:0589c17_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我亦不許彼可轉故。",
+        "from": "T29n1562_043:0589c18_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂煩惱障發時定業。",
+        "from": "T29n1562_043:0589c18_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必護異熟皆不可轉。",
+        "from": "T29n1562_043:0589c19_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故譬喻者不善了知經及理趣。",
+        "from": "T29n1562_043:0589c19_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以大無義蘊在己心妄興邪辯。",
+        "from": "T29n1562_043:0589c20_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於諸惡行無間業中何罪最重。",
+        "from": "T29n1562_043:0589c20_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於諸妙行世善業中何最大果。",
+        "from": "T29n1562_043:0589c21_44",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0589c22_45",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　破僧虛誑語　　於罪中最大",
+        "from": "T29n1562_043:0589c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　感第一有思　　世善中大果",
+        "from": "T29n1562_043:0589c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0589c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為破僧故發虛誑語。",
+        "from": "T29n1562_043:0589c25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸惡行中此罪最大。",
+        "from": "T29n1562_043:0589c25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如何此罪虛誑語收。",
+        "from": "T29n1562_043:0589c26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由所發言依異想故。",
+        "from": "T29n1562_043:0589c26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂彼於法有法想。",
+        "from": "T29n1562_043:0589c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於非法有非法想。",
+        "from": "T29n1562_043:0589c27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於大師有大師想。",
+        "from": "T29n1562_043:0589c27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於己身有非一切智想。",
+        "from": "T29n1562_043:0589c28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然由深固惡阿世耶。",
+        "from": "T29n1562_043:0589c28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隱覆此想作別異說。",
+        "from": "T29n1562_043:0589c29_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設有不以異想破僧。",
+        "from": "T29n1562_043:0589c29_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則不能生劫壽重罪。",
+        "from": "T29n1562_043:0590a01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何緣此罪惡行中最。",
+        "from": "T29n1562_043:0590a01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此毀傷佛法身故。",
+        "from": "T29n1562_043:0590a02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "障世生天解脫道故。",
+        "from": "T29n1562_043:0590a02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂僧已破乃至未合。",
+        "from": "T29n1562_043:0590a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "力能遮遏諸異生等。",
+        "from": "T29n1562_043:0590a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未入正定令不得入。",
+        "from": "T29n1562_043:0590a03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若已入正定令不得餘果。",
+        "from": "T29n1562_043:0590a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若已得餘果令不得離染。",
+        "from": "T29n1562_043:0590a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若已得離染令不證漏盡。",
+        "from": "T29n1562_043:0590a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "習定溫誦思等業息。",
+        "from": "T29n1562_043:0590a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以要言之由僧被破。",
+        "from": "T29n1562_043:0590a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大千世界法輪不轉。",
+        "from": "T29n1562_043:0590a07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天人龍等身心擾亂。",
+        "from": "T29n1562_043:0590a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此定招無間地獄一劫異熟。",
+        "from": "T29n1562_043:0590a08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非餘惡行故惡行中此罪最重。",
+        "from": "T29n1562_043:0590a08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若爾何故世尊或時於諸罪中說邪見重。",
+        "from": "T29n1562_043:0590a09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又說意業罪中最大。",
+        "from": "T29n1562_043:0590a10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "據五無間說破僧重。",
+        "from": "T29n1562_043:0590a10_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "據五僻見說邪見重。",
+        "from": "T29n1562_043:0590a11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "據一切業說意業大。",
+        "from": "T29n1562_043:0590a11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或約修見俱所斷罪。",
+        "from": "T29n1562_043:0590a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如其次第說為最重。",
+        "from": "T29n1562_043:0590a12_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或依廣果斷諸善根害多有情。",
+        "from": "T29n1562_043:0590a13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如次說重。",
+        "from": "T29n1562_043:0590a13_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "感第一有異熟果思。",
+        "from": "T29n1562_043:0590a14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於世善中為最大果。",
+        "from": "T29n1562_043:0590a14_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能感最極靜異熟故。",
+        "from": "T29n1562_043:0590a15_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "約異熟果故作是說。",
+        "from": "T29n1562_043:0590a15_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如其通就五果說者。",
+        "from": "T29n1562_043:0590a16_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是則應說與金剛喻定相應思能得大果。",
+        "from": "T29n1562_043:0590a16_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂此能得異熟果外諸有為無為四阿羅漢果。",
+        "from": "T29n1562_043:0590a17_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖諸無漏無間道思。",
+        "from": "T29n1562_043:0590a18_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆除異熟得餘四果。",
+        "from": "T29n1562_043:0590a19_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然此所得最為殊勝。",
+        "from": "T29n1562_043:0590a19_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸結永斷為此果故。",
+        "from": "T29n1562_043:0590a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為簡此故說世善言。",
+        "from": "T29n1562_043:0590a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為唯無間罪定生地獄。",
+        "from": "T29n1562_043:0590a20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸無間同類亦定生彼。",
+        "from": "T29n1562_043:0590a21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非定無間生。",
+        "from": "T29n1562_043:0590a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非無間業故。",
+        "from": "T29n1562_043:0590a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無間同類其相云何。",
+        "from": "T29n1562_043:0590a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0590a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　污母無學尼　　殺住定菩薩",
+        "from": "T29n1562_043:0590a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　及有學聖者　　奪僧和合緣",
+        "from": "T29n1562_043:0590a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　破壞窣堵波　　是無間同類",
+        "from": "T29n1562_043:0590a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0590a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言同類者是相似義。",
+        "from": "T29n1562_043:0590a27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有於母阿羅漢尼行非梵行。",
+        "from": "T29n1562_043:0590a27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為極污辱是名第一同類業相。",
+        "from": "T29n1562_043:0590a28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有殺害住定菩薩。",
+        "from": "T29n1562_043:0590a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名害父同類業相。",
+        "from": "T29n1562_043:0590a29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有殺害有學聖者。",
+        "from": "T29n1562_043:0590a29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名第三同類業相。",
+        "from": "T29n1562_043:0590b01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有侵奪僧和合緣。",
+        "from": "T29n1562_043:0590b01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名破僧同類業相。",
+        "from": "T29n1562_043:0590b02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有破壞佛窣堵波。",
+        "from": "T29n1562_043:0590b02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名第五同類業相。",
+        "from": "T29n1562_043:0590b03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有異熟業於三時中極能為障。",
+        "from": "T29n1562_043:0590b03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言三時者。",
+        "from": "T29n1562_043:0590b04_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T29n1562_043:0590b04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　將得忍不還　　無學業為障",
+        "from": "T29n1562_043:0590b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰。",
+        "from": "T29n1562_043:0590b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若從頂位將得忍時。",
+        "from": "T29n1562_043:0590b06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "感惡趣業皆極為障。",
+        "from": "T29n1562_043:0590b06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以忍超彼異熟地故。",
+        "from": "T29n1562_043:0590b07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如人將離本所居國。",
+        "from": "T29n1562_043:0590b07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切債主皆極為障。",
+        "from": "T29n1562_043:0590b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有將得不還果時。",
+        "from": "T29n1562_043:0590b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲界繫業皆極為障。",
+        "from": "T29n1562_043:0590b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有將得無學果時。",
+        "from": "T29n1562_043:0590b09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "色無色業皆極為障。",
+        "from": "T29n1562_043:0590b09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此後二位喻說如前。",
+        "from": "T29n1562_043:0590b10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然於此中除順現受。",
+        "from": "T29n1562_043:0590b10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及順不定受異熟。",
+        "from": "T29n1562_043:0590b11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不定業并異熟定中非異處熟者。",
+        "from": "T29n1562_043:0590b11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說一切有部順正理論卷第四十三",
+        "from": "T29n1562_043:0590b13_0",
+        "context_with_next_sentence": false
+    }
+]
