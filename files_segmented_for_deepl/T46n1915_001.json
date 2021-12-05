@@ -3435,7 +3435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "從脾生患者，身體面上，遊風遍身，[病丙+習]痒疼痛，飲食失味等，脾主舌故。",
+        "source_sentence": "從脾生患者，身體面上，遊風遍身，[病-丙+習]痒疼痛，飲食失味等，脾主舌故。",
         "from": "T46n1915_001:0471b25_15",
         "context_with_next_sentence": true
     },
@@ -4157,6 +4157,716 @@
     {
         "source_sentence": "修習止觀坐禪法要(終)",
         "from": "T46n1915_001:0473b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "始終心要",
+        "from": "T46n1915_001:0473b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "荊谿尊者述",
+        "from": "T46n1915_001:0473b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫三諦者，天然之性德也。",
+        "from": "T46n1915_001:0473b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中諦者，統一切法；真諦者，泯一切法；俗諦者，立一切法。",
+        "from": "T46n1915_001:0473b14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舉一即三，非前後也。",
+        "from": "T46n1915_001:0473b15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "含生本具，非造作之所得也。",
+        "from": "T46n1915_001:0473b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悲夫祕藏不顯，蓋三惑之所覆也，故無明翳乎法性，塵沙障乎化導，見思阻乎空寂。",
+        "from": "T46n1915_001:0473b17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然茲三惑乃體上之虛妄也。",
+        "from": "T46n1915_001:0473b18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於是大覺慈尊喟然歎曰：「真如界內絕生佛之假名，平等慧中無自他之形相。",
+        "from": "T46n1915_001:0473b19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但以眾生妄想不自證得，莫之能返也。」",
+        "from": "T46n1915_001:0473b21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由是立乎三觀，破乎三惑，證乎三智，成乎三德。",
+        "from": "T46n1915_001:0473b22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "空觀者，破見思惑，證一切智，成般若德。",
+        "from": "T46n1915_001:0473b23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假觀者，破塵沙惑，證道種智，成解脫德。",
+        "from": "T46n1915_001:0473b24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中觀者，破無明惑，證一切種智，成法身德。",
+        "from": "T46n1915_001:0473b25_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然茲三惑三觀三智三德，非各別也，非異時也，天然之理具諸法故。",
+        "from": "T46n1915_001:0473b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然此三諦性之自爾，迷茲三諦轉成三惑。",
+        "from": "T46n1915_001:0473b27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惑破藉乎三觀，觀成證乎三智，智成成乎三德，從因至果非漸修也。",
+        "from": "T46n1915_001:0473b28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說之次第，理非次第。",
+        "from": "T46n1915_001:0473b30_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大綱如此，綱目可尋矣。",
+        "from": "T46n1915_001:0473b30_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "止觀坐禪法要記",
+        "from": "T46n1915_001:0473c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宋忠肅公陳瓘瑩中",
+        "from": "T46n1915_001:0473c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本自不動，何止之有？",
+        "from": "T46n1915_001:0473c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本自不蔽，何觀之有？",
+        "from": "T46n1915_001:0473c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾生迷蕩去本日遠，動靜俱失不昏即散。",
+        "from": "T46n1915_001:0473c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此二病本出生眾苦，令彼離苦而獲安隱，當用止觀以為其藥。",
+        "from": "T46n1915_001:0473c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "病瘳藥廢醫亦不立，則止觀者乃假名字。",
+        "from": "T46n1915_001:0473c09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即假即空言語道斷，以大悲故無說而說，此《摩訶止觀》之所為作也。",
+        "from": "T46n1915_001:0473c10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然其文義深廣汪洋無涯，譬如大海孰得其際？",
+        "from": "T46n1915_001:0473c11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以大悲故復作方便，使嘗一滴知百川味，使由一漚見全潮體。",
+        "from": "T46n1915_001:0473c12_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故於大經之外，又為此書。",
+        "from": "T46n1915_001:0473c14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "詞簡旨要讀之易曉，應病之藥盡在是矣。",
+        "from": "T46n1915_001:0473c14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善用藥者不治已病，止乎其未散，觀乎其未昏，方止方觀而未嘗昏未嘗散也。",
+        "from": "T46n1915_001:0473c15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如鳥雙翼、如車兩輪，窮遠極高無往不可及，其至也不出於此。",
+        "from": "T46n1915_001:0473c17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗚呼！",
+        "from": "T46n1915_001:0473c18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不知則已，知止觀之可以入道者，可不勉哉。",
+        "from": "T46n1915_001:0473c19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天台止觀統例",
+        "from": "T46n1915_001:0473c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "翰林學士守右補闕安定梁肅述",
+        "from": "T46n1915_001:0473c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫止觀何為也？",
+        "from": "T46n1915_001:0473c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "導萬法之理而復於實際者也。",
+        "from": "T46n1915_001:0473c25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "實際者何也？",
+        "from": "T46n1915_001:0473c26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "性之本也。",
+        "from": "T46n1915_001:0473c26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "物之所以不能復者，昏與動使之然也。",
+        "from": "T46n1915_001:0473c26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "照昏者謂之明，駐動者謂之靜；明與靜，止觀之體也。",
+        "from": "T46n1915_001:0473c27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在因謂之止觀，在果謂之智定。",
+        "from": "T46n1915_001:0473c28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因謂之行，果謂之成。",
+        "from": "T46n1915_001:0473c29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行者行此者也，成者證此者也。",
+        "from": "T46n1915_001:0473c29_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "原夫聖人有以見惑足以喪志，動足以失方；於是乎止而觀之，靜而明之。",
+        "from": "T46n1915_001:0473c30_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使其動而能靜，靜而能明。",
+        "from": "T46n1915_001:0474a01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因相待以成法，即絕待以照本。",
+        "from": "T46n1915_001:0474a01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "立大車以御正，乘大事而總權，消息乎不二之場，鼓舞於說三之域。",
+        "from": "T46n1915_001:0474a02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至微以盡性，至頤以體神。",
+        "from": "T46n1915_001:0474a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "語其近則一毫之善可通也，語其遠則重玄之門可闚也。",
+        "from": "T46n1915_001:0474a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "用至圓以圓之，物無偏也；用至實以實之，物無妄也。",
+        "from": "T46n1915_001:0474a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖人舉其言所以示也，廣其目所以告也。",
+        "from": "T46n1915_001:0474a07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "優而柔之使自求之，擬而議之使自至之。",
+        "from": "T46n1915_001:0474a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此《止觀》所由作也。",
+        "from": "T46n1915_001:0474a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫三諦者何也？",
+        "from": "T46n1915_001:0474a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一之謂也。",
+        "from": "T46n1915_001:0474a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "空假中者何也？",
+        "from": "T46n1915_001:0474a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一之目也。",
+        "from": "T46n1915_001:0474a10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "空假者相對之義，中道者得一之名。",
+        "from": "T46n1915_001:0474a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此思議之說，非至一之旨也。",
+        "from": "T46n1915_001:0474a11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至一即三、至三即一，非相含而然也，非相生而然也。",
+        "from": "T46n1915_001:0474a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非數義也，非強名也，自然之理也，言而傳之者迹也。",
+        "from": "T46n1915_001:0474a13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "理謂之本，迹謂之末。",
+        "from": "T46n1915_001:0474a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本也者，聖人所至之地也；末也者，聖人所示之教也。",
+        "from": "T46n1915_001:0474a14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由本以垂迹，則為小為大、為通為別、為頓為漸、為顯為祕、為權為實、為定為不定。",
+        "from": "T46n1915_001:0474a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "循迹以返本，則為一為大、為圓為實、為無住為中、為妙為第一義。",
+        "from": "T46n1915_001:0474a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是三一之蘊也。",
+        "from": "T46n1915_001:0474a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂空也者，通萬法而為言者也。",
+        "from": "T46n1915_001:0474a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假也者，立萬法而為言者也。",
+        "from": "T46n1915_001:0474a20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中也者，妙萬法而為言者也。",
+        "from": "T46n1915_001:0474a21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "破一切惑莫盛乎空，建一切法莫盛乎假，究竟一切性莫大乎中。",
+        "from": "T46n1915_001:0474a21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舉中則無法非中，目假則何法非假，舉空則無法不空。",
+        "from": "T46n1915_001:0474a23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "成之謂之三德，修之謂之三觀，舉其要則聖人極深研幾窮理盡性之說乎！",
+        "from": "T46n1915_001:0474a24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昧者使明、塞者使通，通則悟，悟則至，至則常，常則盡矣。",
+        "from": "T46n1915_001:0474a26_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明則照，照則化，化則成，成則一矣。",
+        "from": "T46n1915_001:0474a27_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖人有以彌綸萬法而不差，旁礴萬劫而不遺，燾載恒沙而不有，復歸無物而不無，寓名之曰佛，強號之曰覺。",
+        "from": "T46n1915_001:0474a28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "究其旨，其解脫自在，莫大極妙之德乎！",
+        "from": "T46n1915_001:0474b01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫三觀成功者如此。",
+        "from": "T46n1915_001:0474b02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂圓頓者，非漸次、非不定，指論十章之義也。",
+        "from": "T46n1915_001:0474b03_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七章者，恢演始末通道之關也。",
+        "from": "T46n1915_001:0474b04_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五略者，舉其宏綱截流之津也。",
+        "from": "T46n1915_001:0474b04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十境者，發動之機，立觀之諦也。",
+        "from": "T46n1915_001:0474b05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十乘者，妙用所修，發行之門也。",
+        "from": "T46n1915_001:0474b06_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "止於正觀而終於見境者，義備故也。",
+        "from": "T46n1915_001:0474b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "闕其餘者，非修之要也。",
+        "from": "T46n1915_001:0474b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乘者何也？",
+        "from": "T46n1915_001:0474b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "載萬物而運者也。",
+        "from": "T46n1915_001:0474b08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十者何也？",
+        "from": "T46n1915_001:0474b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "成載之事者也。",
+        "from": "T46n1915_001:0474b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知其境之妙，不行而至者，德之上也。",
+        "from": "T46n1915_001:0474b09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乘一而已矣，豈藉夫九哉？",
+        "from": "T46n1915_001:0474b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九者，非他相生之說，未至者之所踐也。",
+        "from": "T46n1915_001:0474b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故發心者，發無所發；安心者，安無所安；破遍者，破無所破。",
+        "from": "T46n1915_001:0474b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爰至餘乘，皆不得已而說也。",
+        "from": "T46n1915_001:0474b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至於別其義例、判為章目，推而廣之不為繁，統而簡之不為少，如連環不可解也，如貫珠不可雜也，如懸鏡不可弇也，如通川不可遏也。",
+        "from": "T46n1915_001:0474b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "義家多門，非諍論也；按經證義，非虛說也；辯四教淺深，事有源也；成一事因緣，理無遺也。",
+        "from": "T46n1915_001:0474b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "噫！",
+        "from": "T46n1915_001:0474b18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《止觀》其救世明道之書乎！",
+        "from": "T46n1915_001:0474b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非夫聖智超絕卓爾獨立，其孰能為乎？",
+        "from": "T46n1915_001:0474b19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非夫聰明深達得意忘象，其孰能知乎？",
+        "from": "T46n1915_001:0474b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今之人乃專用章句文字從而釋之，又何疎漏耶！",
+        "from": "T46n1915_001:0474b21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或稱：不思議境與不思議事皆極聖之域，等覺至人猶所未盡；若凡夫生滅心行三惑浩然，於言說之中推上妙之理，是猶醯雞而說大鵬，夏蟲之議層氷，其不可見明矣。",
+        "from": "T46n1915_001:0474b22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今止觀之說，文字萬數廣論果地，無益初學。",
+        "from": "T46n1915_001:0474b26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈如暗然自修功至自至，何必以早計為事乎？",
+        "from": "T46n1915_001:0474b27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是大不然。",
+        "from": "T46n1915_001:0474b28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡所為上聖之域，豈隔闊遼敻與凡境杳絕歟？",
+        "from": "T46n1915_001:0474b28_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是唯一性而已，得之為悟，失之為迷；一理而已，迷而為凡，悟而為聖。",
+        "from": "T46n1915_001:0474b29_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迷者自隔，理不隔也；失者自失，性不失也。",
+        "from": "T46n1915_001:0474c02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《止觀》之作，所以離異同而究聖神，使群生正性而順理者也。",
+        "from": "T46n1915_001:0474c03_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正性順理，所以行覺路而至妙境也。",
+        "from": "T46n1915_001:0474c04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不知此教者，則學何所入？",
+        "from": "T46n1915_001:0474c05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "功何所施？",
+        "from": "T46n1915_001:0474c05_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智何所發？",
+        "from": "T46n1915_001:0474c06_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如無目，昧於日月之光，行於重險之處，顛踣墮落，可勝既乎！",
+        "from": "T46n1915_001:0474c06_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "噫！",
+        "from": "T46n1915_001:0474c07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "去聖久遠，賢人不出，庸昏之徒含識而已。",
+        "from": "T46n1915_001:0474c07_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "致使魔邪詭惑，諸黨並熾。",
+        "from": "T46n1915_001:0474c08_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "空有云云，為沈為穿。",
+        "from": "T46n1915_001:0474c09_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有膠于文句不敢動者，有流於漭浪不能住者；又太遠而甘心不至者，有太近而我身即是者；有枯木而稱定者，有竅號而稱慧者；有奔走非道而言權者，有假於鬼而言通者；有放心而言廣者，有罕言而為密者；有齒舌潛傳為口訣者。",
+        "from": "T46n1915_001:0474c09_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡此之類，自立為祖、繼祖為家，反經非聖，昧者不覺。",
+        "from": "T46n1915_001:0474c15_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仲尼有言：「道之不明也，我知之矣。」",
+        "from": "T46n1915_001:0474c16_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由物累也。",
+        "from": "T46n1915_001:0474c17_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悲夫！",
+        "from": "T46n1915_001:0474c17_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隋開皇十八年，智者大師去世，至皇朝建中垂二百載，以斯文相傳凡五家師：其始曰灌頂，其次曰晉雲威，又其次曰東陽小威，又其次曰左溪朗公，其五曰荊溪然公。",
+        "from": "T46n1915_001:0474c17_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頂於同門中慧解第一，能奉師訓集成此書，蓋不以文辭為本故也，或失則煩，或得則野。",
+        "from": "T46n1915_001:0474c21_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當二威之際緘授而已，其道不行。",
+        "from": "T46n1915_001:0474c23_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天寶中左溪始弘解說，而知者蓋寡。",
+        "from": "T46n1915_001:0474c24_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "荊溪廣以傳記數十萬言，網羅遺法，勤矣備矣。",
+        "from": "T46n1915_001:0474c24_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "荊溪滅後，知其說者適三四人。",
+        "from": "T46n1915_001:0474c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古人云：「生而知之者上，學而知之者次，困而學之又其次。」",
+        "from": "T46n1915_001:0474c26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫生而知之者，蓋性德者也；學而知之者，天機深者也；若嗜欲深、耳目塞，雖學而不知，斯為下矣。",
+        "from": "T46n1915_001:0474c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今夫學者，內病於蔽，外役於煩，沒世不能通其文，數年不能得其益。",
+        "from": "T46n1915_001:0475a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則業文為之屢校，梏足也；棼句為之簸糠，眯目也。",
+        "from": "T46n1915_001:0475a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以不能諭之師，教不領之弟子，《止觀》所以未光大於時也。",
+        "from": "T46n1915_001:0475a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予常戚戚於是，整其宏綱、撮其機要，其理之所存，教之所急，或易置之、或引伸之；其義之迂、其辭之鄙，或薙除之、或潤色之。",
+        "from": "T46n1915_001:0475a05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大凡浮疎之患十愈其九，廣略之宜三存其一。",
+        "from": "T46n1915_001:0475a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是祛鄙滯道蒙童，貽諸他人則吾豈敢！",
+        "from": "T46n1915_001:0475a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若同見同行且不以止觀罪我，亦無隱乎爾。",
+        "from": "T46n1915_001:0475a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "建中上元甲子首事，筆削三歲。",
+        "from": "T46n1915_001:0475a10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歲在析木之津，功畢云爾。",
+        "from": "T46n1915_001:0475a11_3",
         "context_with_next_sentence": false
     }
 ]

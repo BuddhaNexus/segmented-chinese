@@ -295,7 +295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "張僧繇世為[書曰+皿]師。",
+        "source_sentence": "張僧繇世為[書-曰+皿]師。",
         "from": "X75n1512_024:0226c01_4",
         "context_with_next_sentence": true
     },
@@ -515,7 +515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "受業師甞在窗下看經。",
+        "source_sentence": "受業師甞在窻下看經。",
         "from": "X75n1512_024:0226c18_3",
         "context_with_next_sentence": true
     },
@@ -3670,7 +3670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "藥山誦經不[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "藥山誦經不[(厂@((既-旡)-日+口))*頁]。",
         "from": "X75n1512_024:0229c04_8",
         "context_with_next_sentence": true
     },
@@ -3980,7 +3980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "究乎動靜俱離寂照[牙(必心)+?]融之旨。",
+        "source_sentence": "究乎動靜俱離寂照[牙-(必-心)+?]融之旨。",
         "from": "X75n1512_024:0229c23_9",
         "context_with_next_sentence": true
     },
@@ -4495,7 +4495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "祖[(厂@((既旡)日+口))*頁]視良久曰。",
+        "source_sentence": "祖[(厂@((既-旡)-日+口))*頁]視良久曰。",
         "from": "X75n1512_024:0230b12_0",
         "context_with_next_sentence": true
     },

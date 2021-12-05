@@ -2050,12 +2050,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以[革*(華(十*〡*十)+(人*〡*人))]藏足。",
+        "source_sentence": "以[革*(華-(十*〡*十)+(人*〡*人))]藏足。",
         "from": "X73n1453_002:0412a16_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[革*(華(十*〡*十)+(人*〡*人))]脫足爽。",
+        "source_sentence": "[革*(華-(十*〡*十)+(人*〡*人))]脫足爽。",
         "from": "X73n1453_002:0412a16_3",
         "context_with_next_sentence": true
     },

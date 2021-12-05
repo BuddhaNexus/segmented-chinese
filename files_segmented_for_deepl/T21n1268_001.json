@@ -2010,7 +2010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其土用處隱他[阿可+((丙*丙)/木)]深谷一小畜不[媋日+(奄大)]者。",
+        "source_sentence": "其土用處隱他[阿-可+((丙*丙)/木)]深谷一小畜不[媋-日+(奄-大)]者。",
         "from": "T21n1268_001:0301b04_0",
         "context_with_next_sentence": true
     },
@@ -3257,6 +3257,26 @@
     {
         "source_sentence": "大使呪法經(菩提流支)",
         "from": "T21n1268_001:0302c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此本未再治歟。",
+        "from": "T21n1268_001:0303a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又後生展轉寫誤乎。",
+        "from": "T21n1268_001:0303a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "他日考正本而質之耳。",
+        "from": "T21n1268_001:0303a01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　時寶曆四甲戌秋夷則中浣",
+        "from": "T21n1268_001:0303a03_0",
         "context_with_next_sentence": false
     }
 ]

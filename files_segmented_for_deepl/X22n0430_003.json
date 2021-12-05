@@ -10425,7 +10425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]無功。",
+        "source_sentence": "懡[怡-台+羅]無功。",
         "from": "X22n0430_003:0871c02_6",
         "context_with_next_sentence": true
     },
@@ -10625,7 +10625,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]無功者。",
+        "source_sentence": "懡[怡-台+羅]無功者。",
         "from": "X22n0430_003:0871c15_15",
         "context_with_next_sentence": true
     },
@@ -10650,7 +10650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]。",
+        "source_sentence": "懡[怡-台+羅]。",
         "from": "X22n0430_003:0871c17_20",
         "context_with_next_sentence": true
     },
@@ -14005,7 +14005,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "沙細如麵。",
+        "source_sentence": "沙細如麫。",
         "from": "X22n0430_003:0874b24_8",
         "context_with_next_sentence": true
     },
@@ -23845,8 +23845,353 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "門人悟具沐手敬識佛說阿彌陀經要解便蒙鈔卷下(終)",
+        "source_sentence": "門人悟具沐手敬識佛說阿彌陀經要解便蒙鈔卷下(終)重刻跋原夫淨土法門。",
         "from": "X22n0430_003:0883c06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "足超越於羣經也哉。",
+        "from": "X22n0430_003:0884a08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "求其至要指歸。",
+        "from": "X22n0430_003:0884a08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫要於小本彌陀。",
+        "from": "X22n0430_003:0884a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則其文略義豐。",
+        "from": "X22n0430_003:0884a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "深固幽遠。",
+        "from": "X22n0430_003:0884a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "理極圓頓。",
+        "from": "X22n0430_003:0884a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "事誠簡易。",
+        "from": "X22n0430_003:0884a10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故中天調御。",
+        "from": "X22n0430_003:0884a10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自開金口以叮嚀。",
+        "from": "X22n0430_003:0884a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十方如來。",
+        "from": "X22n0430_003:0884a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出廣長舌而讚歎。",
+        "from": "X22n0430_003:0884a11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然心要玄關。",
+        "from": "X22n0430_003:0884a11_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愚迷未識。",
+        "from": "X22n0430_003:0884a11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故　靈峯老人。",
+        "from": "X22n0430_003:0884a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悲提後學。",
+        "from": "X22n0430_003:0884a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "述成要解。",
+        "from": "X22n0430_003:0884a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此書精義入神。",
+        "from": "X22n0430_003:0884a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "致歸允當。",
+        "from": "X22n0430_003:0884a13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使修淨業之輩信而有勇。",
+        "from": "X22n0430_003:0884a13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所以　紅螺慕蓮法師。",
+        "from": "X22n0430_003:0884a13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寢饋於要解有年矣。",
+        "from": "X22n0430_003:0884a14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "將此書鈔發便蒙。",
+        "from": "X22n0430_003:0884a14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明辨以皙。",
+        "from": "X22n0430_003:0884a15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "純粹而精。",
+        "from": "X22n0430_003:0884a15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誠　二公一番婆心。",
+        "from": "X22n0430_003:0884a15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盡吐肝膽。",
+        "from": "X22n0430_003:0884a15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "理契法海之全珠。",
+        "from": "X22n0430_003:0884a16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文完義山之片石。",
+        "from": "X22n0430_003:0884a16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俾見聞者咸發信願之行。",
+        "from": "X22n0430_003:0884a16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既事就付梓板寄古燕。",
+        "from": "X22n0430_003:0884a17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此方行者聞名罕見。",
+        "from": "X22n0430_003:0884a17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "胸懷戀慕。",
+        "from": "X22n0430_003:0884a18_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "渴仰於斯。",
+        "from": "X22n0430_003:0884a18_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "適　南海化聞老人。",
+        "from": "X22n0430_003:0884a18_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邂逅京都。",
+        "from": "X22n0430_003:0884a19_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偶然相值。",
+        "from": "X22n0430_003:0884a19_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覩覧之際。",
+        "from": "X22n0430_003:0884a19_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如賈客得海。",
+        "from": "X22n0430_003:0884a19_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時採而回。",
+        "from": "X22n0430_003:0884a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本意即付棃棗。",
+        "from": "X22n0430_003:0884a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因緒事紛紛。",
+        "from": "X22n0430_003:0884a20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂復久置高閣。",
+        "from": "X22n0430_003:0884a20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於丙申夏。",
+        "from": "X22n0430_003:0884a21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(余)幸蒙　老人委演法華。",
+        "from": "X22n0430_003:0884a21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於閒遊相。",
+        "from": "X22n0430_003:0884a21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時談淨宗。",
+        "from": "X22n0430_003:0884a22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨憶前鈔。",
+        "from": "X22n0430_003:0884a22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尋即相授。",
+        "from": "X22n0430_003:0884a22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(余)仔細窮覽。",
+        "from": "X22n0430_003:0884a22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如重病得藥一般。",
+        "from": "X22n0430_003:0884a22_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正知挽回末法。",
+        "from": "X22n0430_003:0884a23_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "的是奇方。",
+        "from": "X22n0430_003:0884a23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離斯捷逕。",
+        "from": "X22n0430_003:0884a23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出生死以奚從。",
+        "from": "X22n0430_003:0884a24_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨此法門。",
+        "from": "X22n0430_003:0884a24_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "脫輪迴而何日。",
+        "from": "X22n0430_003:0884a24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悲慶交集。",
+        "from": "X22n0430_003:0884a24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "叩募流通。",
+        "from": "X22n0430_003:0884b01_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故云法不孤起。",
+        "from": "X22n0430_003:0884b01_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假因緣時凑合。",
+        "from": "X22n0430_003:0884b01_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而生值遇斯經。",
+        "from": "X22n0430_003:0884b01_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不可以少善根而會。",
+        "from": "X22n0430_003:0884b02_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "伏願見聞隨喜。",
+        "from": "X22n0430_003:0884b02_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盡斷狐疑。",
+        "from": "X22n0430_003:0884b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂成一行三昧。",
+        "from": "X22n0430_003:0884b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頓悟無生法忍。",
+        "from": "X22n0430_003:0884b03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "親覲彌陀等蒙記莂云爾。",
+        "from": "X22n0430_003:0884b03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時於",
+        "from": "X22n0430_003:0884b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "光緒二十三年季春書於三觀精舍蓮蕊氏謹識",
+        "from": "X22n0430_003:0884b06_0",
         "context_with_next_sentence": false
     }
 ]

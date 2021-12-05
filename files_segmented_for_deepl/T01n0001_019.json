@@ -65,7 +65,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "「復次，想地獄其中眾生懷毒害想，共相觸嬈，手執自然刀劍，刀劍鋒利，迭相斫刺，[利禾+皮]剝臠割，身碎在地，想謂為死；冷風來吹，皮肉更生，尋活起立。",
+        "source_sentence": "「復次，想地獄其中眾生懷毒害想，共相觸嬈，手執自然刀劍，刀劍鋒利，迭相斫刺，[利-禾+皮]剝臠割，身碎在地，想謂為死；冷風來吹，皮肉更生，尋活起立。",
         "from": "T01n0001_019:0121c18_3",
         "context_with_next_sentence": true
     },
@@ -85,7 +85,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "「復次，想地獄其中眾生懷毒害想，迭相觸嬈，手執刀劍，刀劒鋒利，共相斫刺，[利禾+皮]剝臠割，想謂為死；冷風來吹，皮肉更生，尋活起立。",
+        "source_sentence": "「復次，想地獄其中眾生懷毒害想，迭相觸嬈，手執刀劍，刀劒鋒利，共相斫刺，[利-禾+皮]剝臠割，想謂為死；冷風來吹，皮肉更生，尋活起立。",
         "from": "T01n0001_019:0121c23_7",
         "context_with_next_sentence": true
     },
@@ -105,7 +105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "「復次，想地獄其中眾生懷毒害想，迭相觸嬈，手執油影刀，其刀鋒利，更相斫刺，[利禾+皮]剝臠割，想謂為死；冷風來吹，皮肉更生，尋活起立。",
+        "source_sentence": "「復次，想地獄其中眾生懷毒害想，迭相觸嬈，手執油影刀，其刀鋒利，更相斫刺，[利-禾+皮]剝臠割，想謂為死；冷風來吹，皮肉更生，尋活起立。",
         "from": "T01n0001_019:0121c27_11",
         "context_with_next_sentence": true
     },
@@ -125,7 +125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "「復次，想地獄其中眾生懷毒害想，迭相觸嬈，手執小刀，其刀鋒利，更相斫刺，[利禾+皮]剝臠割，想謂為死；冷風來吹，皮肉更生，尋活起立。",
+        "source_sentence": "「復次，想地獄其中眾生懷毒害想，迭相觸嬈，手執小刀，其刀鋒利，更相斫刺，[利-禾+皮]剝臠割，想謂為死；冷風來吹，皮肉更生，尋活起立。",
         "from": "T01n0001_019:0122a02_15",
         "context_with_next_sentence": true
     },
@@ -1070,7 +1070,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "走欲至門，門自然閉，罪人[跳兆+匍]蹈，伏熱鐵地，燒炙其身，皮肉燋爛，苦痛辛酸，萬毒並至。",
+        "source_sentence": "走欲至門，門自然閉，罪人[跳-兆+匍]蹈，伏熱鐵地，燒炙其身，皮肉燋爛，苦痛辛酸，萬毒並至。",
         "from": "T01n0001_019:0125a17_10",
         "context_with_next_sentence": true
     },

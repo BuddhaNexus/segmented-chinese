@@ -3765,7 +3765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "十方菩薩及諸無漏大阿羅漢心精通[泳永+曶]當處湛然。",
+        "source_sentence": "十方菩薩及諸無漏大阿羅漢心精通[泳-永+曶]當處湛然。",
         "from": "X12n0279_009:0639b22_1",
         "context_with_next_sentence": true
     },
@@ -3835,7 +3835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "菩薩羅漢與能修人心精通[泳永+曶]。",
+        "source_sentence": "菩薩羅漢與能修人心精通[泳-永+曶]。",
         "from": "X12n0279_009:0639c05_4",
         "context_with_next_sentence": true
     },
@@ -7325,7 +7325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三摩地中心愛緜[泳永+曶]。",
+        "source_sentence": "三摩地中心愛緜[泳-永+曶]。",
         "from": "X12n0279_009:0644c04_1",
         "context_with_next_sentence": true
     },
@@ -7465,7 +7465,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "定力研窮激發詐習故心愛緜[泳永+曶]貪求契合。",
+        "source_sentence": "定力研窮激發詐習故心愛緜[泳-永+曶]貪求契合。",
         "from": "X12n0279_009:0644c17_2",
         "context_with_next_sentence": true
     },
@@ -8937,6 +8937,11 @@
     {
         "source_sentence": "固宜弘宣以護行人也。",
         "from": "X12n0279_009:0647a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大佛頂如來密因修證了義諸菩薩萬行首楞嚴經通議卷第九",
+        "from": "X12n0279_009:0647a05_0",
         "context_with_next_sentence": false
     }
 ]

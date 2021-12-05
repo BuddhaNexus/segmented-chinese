@@ -525,7 +525,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "孟夙曰大[金*(起巳+戍)]。",
+        "source_sentence": "孟夙曰大[金*(起-巳+戍)]。",
         "from": "X88n1646_048:0275b14_38",
         "context_with_next_sentence": true
     },
@@ -2655,8 +2655,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "卒歸神",
+        "source_sentence": "卒歸神道。",
         "from": "X88n1646_048:0277b05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者觀之。",
+        "from": "X88n1646_048:0277b06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可以知懼矣。",
+        "from": "X88n1646_048:0277b06_13",
         "context_with_next_sentence": false
     }
 ]

@@ -890,7 +890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也是拈[飢几+追]舐指人。",
+        "source_sentence": "也是拈[飢-几+追]舐指人。",
         "from": "X68n1315_047:0322b02_3",
         "context_with_next_sentence": true
     },
@@ -3255,7 +3255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[革*(華(十*〡*十)+(人*〡*人))]裏動指。",
+        "source_sentence": "[革*(華-(十*〡*十)+(人*〡*人))]裏動指。",
         "from": "X68n1315_047:0325a14_3",
         "context_with_next_sentence": true
     },
@@ -6575,7 +6575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有甚饆羅[飢几+追]子。",
+        "source_sentence": "有甚饆羅[飢-几+追]子。",
         "from": "X68n1315_047:0328c22_1",
         "context_with_next_sentence": true
     },
@@ -6800,7 +6800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "慺[怡台+羅]須要逞聰明。",
+        "source_sentence": "慺[怡-台+羅]須要逞聰明。",
         "from": "X68n1315_047:0329a18_0",
         "context_with_next_sentence": true
     },

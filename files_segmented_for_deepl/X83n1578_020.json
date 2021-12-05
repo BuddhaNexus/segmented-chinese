@@ -1175,7 +1175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "明窗下安排著。",
+        "source_sentence": "明窻下安排著。",
         "from": "X83n1578_020:0617c18_7",
         "context_with_next_sentence": true
     },
@@ -1185,7 +1185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "未審明窗還解語也無。",
+        "source_sentence": "未審明窻還解語也無。",
         "from": "X83n1578_020:0617c19_9",
         "context_with_next_sentence": true
     },
@@ -1195,7 +1195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "待明窗解語。",
+        "source_sentence": "待明窻解語。",
         "from": "X83n1578_020:0617c19_11",
         "context_with_next_sentence": true
     },
@@ -7705,7 +7705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任[跳兆+孛]跳。",
+        "source_sentence": "一任[跳-兆+孛]跳。",
         "from": "X83n1578_020:0622b21_0",
         "context_with_next_sentence": true
     },
@@ -8355,7 +8355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上梵天。",
+        "source_sentence": "[跳-兆+孛]跳上梵天。",
         "from": "X83n1578_020:0623a03_17",
         "context_with_next_sentence": true
     },
@@ -8870,7 +8870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有什麼饅頭[飢几+追]子。",
+        "source_sentence": "有什麼饅頭[飢-几+追]子。",
         "from": "X83n1578_020:0623b05_0",
         "context_with_next_sentence": true
     },
@@ -9775,7 +9775,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "克由叵耐[曰/月]姓。",
+        "source_sentence": "克由叵耐冐姓。",
         "from": "X83n1578_020:0624a09_2",
         "context_with_next_sentence": true
     },
@@ -10055,7 +10055,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "落我袈裟圈[袖由+貴]裏。",
+        "source_sentence": "落我袈裟圈[袖-由+貴]裏。",
         "from": "X83n1578_020:0624b03_0",
         "context_with_next_sentence": true
     },
@@ -11055,7 +11055,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "祖師在你頭上[跳兆+孛]跳。",
+        "source_sentence": "祖師在你頭上[跳-兆+孛]跳。",
         "from": "X83n1578_020:0625a14_3",
         "context_with_next_sentence": true
     },
@@ -12792,6 +12792,16 @@
     {
         "source_sentence": "指月錄卷之二十",
         "from": "X83n1578_020:0626b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋　卷第十八之二十",
+        "from": "X83n1578_020:0626b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謐(覓筆切音密靜語也安也)　丱(古患切音慣束髮如兩角貌)　爬(蒲巴切把搔也)　淦(古暗切音紺)　[跳-兆+典]跣(上音腆下先去聲徒足履地也)　媼(烏老切音襖女老之稱)　趯(他歷切音剔跳貌)　澀(色入切森入聲不滑也)　錮(亡慕切音故鑄銅鐵以塞隙也又禁錮重繫也)　鏴(音路)　瑤(他刀切音滔)　嗢(烏骨切音屋咽也)　噦(一决切淵入聲逆氣嘔也)　謴(吾困切音近混順言謔弄曰謴)　帔(兵臂切音轡裙屬)　尫(烏光切音汪曲頸也又瘠病之人)　桅(吾為切音危)　榸(卓皆切音齋枯木根)　揎(息全切音宣捋也引也)",
+        "from": "X83n1578_020:0626c01_0",
         "context_with_next_sentence": false
     }
 ]

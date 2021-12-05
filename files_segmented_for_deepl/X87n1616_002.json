@@ -2210,7 +2210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爐炭鑊湯[拚ㄙ+ㄊ]得入。",
+        "source_sentence": "爐炭鑊湯[拚-ㄙ+ㄊ]得入。",
         "from": "X87n1616_002:0126b03_13",
         "context_with_next_sentence": true
     },
@@ -7175,7 +7175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "但懡[怡台+羅]而已。",
+        "source_sentence": "但懡[怡-台+羅]而已。",
         "from": "X87n1616_002:0130a19_32",
         "context_with_next_sentence": true
     },
@@ -10925,7 +10925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "將得缽盂來麼。",
+        "source_sentence": "將得盋盂來麼。",
         "from": "X87n1616_002:0133a22_1",
         "context_with_next_sentence": true
     },
@@ -12415,8 +12415,398 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "山庵雜錄卷之下",
+        "source_sentence": "山庵雜錄卷之下(終)",
         "from": "X87n1616_002:0134b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "題山庵雜錄後",
+        "from": "X87n1616_002:0134b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "山菴錄者。",
+        "from": "X87n1616_002:0134b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "錄山菴所聞之事也。",
+        "from": "X87n1616_002:0134b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其間所紀。",
+        "from": "X87n1616_002:0134b24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或善不善。",
+        "from": "X87n1616_002:0134b24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "直書無隱。",
+        "from": "X87n1616_002:0134c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殆緇門之良史也。",
+        "from": "X87n1616_002:0134c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫事有關乎宗教者。",
+        "from": "X87n1616_002:0134c01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不可以不書。",
+        "from": "X87n1616_002:0134c01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "書而能公合天下之論。",
+        "from": "X87n1616_002:0134c02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尤可嘉也。",
+        "from": "X87n1616_002:0134c02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是書之行。",
+        "from": "X87n1616_002:0134c02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盖將與林間．草庵諸作並垂於無窮者矣。",
+        "from": "X87n1616_002:0134c03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "洪武庚午春二月既望　天禧住山　守仁　題予早歲侍妙明先師居徑山。",
+        "from": "X87n1616_002:0134c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "每獲參承空室老人于蒙養之室。",
+        "from": "X87n1616_002:0134c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聽其誨論。",
+        "from": "X87n1616_002:0134c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "啟沃良多。",
+        "from": "X87n1616_002:0134c09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盖老人參見前輩尊宿。",
+        "from": "X87n1616_002:0134c09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具正知見。",
+        "from": "X87n1616_002:0134c10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而學問該愽。",
+        "from": "X87n1616_002:0134c10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "提唱高妙。",
+        "from": "X87n1616_002:0134c10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又善誨示學者。",
+        "from": "X87n1616_002:0134c10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亹亹忘倦。",
+        "from": "X87n1616_002:0134c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至其用向上鉗鎚。",
+        "from": "X87n1616_002:0134c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有不可得而近傍者也。",
+        "from": "X87n1616_002:0134c11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後兩坐淛東名剎。",
+        "from": "X87n1616_002:0134c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "投閑居大白山中。",
+        "from": "X87n1616_002:0134c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予時皆在四明。",
+        "from": "X87n1616_002:0134c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歲時必走拜牀下。",
+        "from": "X87n1616_002:0134c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予來鐘山之三年。",
+        "from": "X87n1616_002:0134c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其上足前住翠山玄極頂公至。",
+        "from": "X87n1616_002:0134c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自四明距老人化去。",
+        "from": "X87n1616_002:0134c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已四年矣。",
+        "from": "X87n1616_002:0134c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一日。",
+        "from": "X87n1616_002:0134c14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出示山菴雜錄一編。",
+        "from": "X87n1616_002:0134c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讀之皆舊所聞誨示於老人者也。",
+        "from": "X87n1616_002:0134c15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "噫。",
+        "from": "X87n1616_002:0134c16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲再見老人不可復得。",
+        "from": "X87n1616_002:0134c16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而獲讀其平昔所著論。",
+        "from": "X87n1616_002:0134c16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可勝慨嘆哉。",
+        "from": "X87n1616_002:0134c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "老人別有說法語錄行世。",
+        "from": "X87n1616_002:0134c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或謂語錄多向上拈提。",
+        "from": "X87n1616_002:0134c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此編乃舉古人前言往行。",
+        "from": "X87n1616_002:0134c18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以廣學者見聞。",
+        "from": "X87n1616_002:0134c18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "視語錄崖嶮。",
+        "from": "X87n1616_002:0134c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此則其平易耳。",
+        "from": "X87n1616_002:0134c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖然。",
+        "from": "X87n1616_002:0134c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初非有二致也。",
+        "from": "X87n1616_002:0134c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛世尊固有所謂觀機逗教者。",
+        "from": "X87n1616_002:0134c19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然列祖門庭一拈鎚。",
+        "from": "X87n1616_002:0134c20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一竪拂。",
+        "from": "X87n1616_002:0134c20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一揚眉瞬目。",
+        "from": "X87n1616_002:0134c21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆欲令學者有所入。",
+        "from": "X87n1616_002:0134c21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而謂此編非向上為人。",
+        "from": "X87n1616_002:0134c21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可乎。",
+        "from": "X87n1616_002:0134c22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "學者要當具眼始得。",
+        "from": "X87n1616_002:0134c22_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "旹洪武庚午　　靈谷住山　清濬　拜題山菴雜錄者。",
+        "from": "X87n1616_002:0134c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寔緇門良史。",
+        "from": "X87n1616_002:0135a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而足針藥邪禪膏肓之病。",
+        "from": "X87n1616_002:0135a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "私謂有補扶桑之今日。",
+        "from": "X87n1616_002:0135a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖然。",
+        "from": "X87n1616_002:0135a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未見古時印本。",
+        "from": "X87n1616_002:0135a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以故三寫之誤甚[多*支]。",
+        "from": "X87n1616_002:0135a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初學之徒。",
+        "from": "X87n1616_002:0135a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "數窘觀覽矣。",
+        "from": "X87n1616_002:0135a06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余養痾之暇。",
+        "from": "X87n1616_002:0135a06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "參攻一二典籍。",
+        "from": "X87n1616_002:0135a06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且加臆斷。",
+        "from": "X87n1616_002:0135a07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "略得校定。",
+        "from": "X87n1616_002:0135a07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倘涉猶豫者。",
+        "from": "X87n1616_002:0135a07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃書之旁。",
+        "from": "X87n1616_002:0135a07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盖疑以傳疑之謂也。",
+        "from": "X87n1616_002:0135a08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又為二三子濫加倭點。",
+        "from": "X87n1616_002:0135a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今也命工勒板。",
+        "from": "X87n1616_002:0135a08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "切恐舛差不少。",
+        "from": "X87n1616_002:0135a09_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仰望禪林才子不恡慈意。",
+        "from": "X87n1616_002:0135a09_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "重煩訂正。",
+        "from": "X87n1616_002:0135a10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寬永二十年癸未仲春日於丹陽大梅山題　　　住菴比丘　文守",
+        "from": "X87n1616_002:0135a10_18",
         "context_with_next_sentence": false
     }
 ]

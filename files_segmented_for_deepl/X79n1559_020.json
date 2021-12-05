@@ -2200,7 +2200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不怕冷油[〦/(刀*了*(留刀田))/(目*目)/一/八]。",
+        "source_sentence": "不怕冷油[〦/(刀*了*(留-刀-田))/(目*目)/一/八]。",
         "from": "X79n1559_020:0412a13_53",
         "context_with_next_sentence": true
     },
@@ -5975,13 +5975,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "贏得一場懡[怡台+羅]。",
+        "source_sentence": "贏得一場懡[怡-台+羅]。",
         "from": "X79n1559_020:0415a11_25",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "嘉泰普燈錄卷第二十",
         "from": "X79n1559_020:0415a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_020:0415a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　珪音圭　郯音談　昺音丙　珣音荀　贇於倫切　績則歷切　浚音峻　孥音奴　呢音元　喃女咸切　啞音亞　叡音銳　褰去虔切　貂音凋　[囗@力]戶臥切",
+        "from": "X79n1559_020:0415a14_0",
         "context_with_next_sentence": false
     }
 ]

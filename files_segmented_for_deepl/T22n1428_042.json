@@ -45,7 +45,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "得種種飯粳米飯、大麥飯、[序予+禾]米飯、粟米飯、俱跋陀羅飯，佛言：「聽食如是種種飯。」",
+        "source_sentence": "得種種飯粳米飯、大麥飯、[序-予+禾]米飯、粟米飯、俱跋陀羅飯，佛言：「聽食如是種種飯。」",
         "from": "T22n1428_042:0866c11_5",
         "context_with_next_sentence": true
     },
@@ -240,7 +240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爾時有病比丘，醫教服[卄/(麩夫+生)]羅，佛言：「聽比丘有病因緣盡形壽服。」",
+        "source_sentence": "爾時有病比丘，醫教服[卄/(麩-夫+生)]羅，佛言：「聽比丘有病因緣盡形壽服。」",
         "from": "T22n1428_042:0867a17_2",
         "context_with_next_sentence": true
     },
@@ -1215,12 +1215,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爾時世尊在繩床中，時諸比丘乞食，時見有人[(殼一)/牛]牛乳，令犢子飲已復[(殼一)/牛]，犢子口中涎沫出，與乳相似，後遂疑不復飲乳。",
+        "source_sentence": "爾時世尊在繩床中，時諸比丘乞食，時見有人[(殼-一)/牛]牛乳，令犢子飲已復[(殼-一)/牛]，犢子口中涎沫出，與乳相似，後遂疑不復飲乳。",
         "from": "T22n1428_042:0869b18_20",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "白佛，佛言：「聽飲，[(殼一)/牛]乳法應爾。」",
+        "source_sentence": "白佛，佛言：「聽飲，[(殼-一)/牛]乳法應爾。」",
         "from": "T22n1428_042:0869b21_21",
         "context_with_next_sentence": true
     },
@@ -2555,7 +2555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "諸比丘在道行，見有人[(殼一)/牛]牛令犢子飲已復[(殼一)/牛]，犢子口中涎出似乳。",
+        "source_sentence": "諸比丘在道行，見有人[(殼-一)/牛]牛令犢子飲已復[(殼-一)/牛]，犢子口中涎出似乳。",
         "from": "T22n1428_042:0873a14_17",
         "context_with_next_sentence": true
     },
@@ -2565,7 +2565,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(殼一)/牛]乳法應爾。",
+        "source_sentence": "[(殼-一)/牛]乳法應爾。",
         "from": "T22n1428_042:0873a17_19",
         "context_with_next_sentence": true
     },
@@ -2755,7 +2755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即自念言：「今有八種漿，是古昔無欲仙人所飲：梨漿、閻浮漿、酸棗漿、甘蔗漿、[卄/(麩夫+生)]菓漿、舍樓伽漿、婆樓師漿、蒲桃漿。」",
+        "source_sentence": "即自念言：「今有八種漿，是古昔無欲仙人所飲：梨漿、閻浮漿、酸棗漿、甘蔗漿、[卄/(麩-夫+生)]菓漿、舍樓伽漿、婆樓師漿、蒲桃漿。」",
         "from": "T22n1428_042:0873c02_6",
         "context_with_next_sentence": true
     },

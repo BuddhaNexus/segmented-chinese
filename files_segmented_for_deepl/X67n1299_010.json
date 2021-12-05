@@ -115,7 +115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "各歸寮舍自摸[打丁+索]看。",
+        "source_sentence": "各歸寮舍自摸[打-丁+索]看。",
         "from": "X67n1299_010:0060a06_0",
         "context_with_next_sentence": true
     },
@@ -2200,7 +2200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是何埃[土*(壴士+山)]兮忽生。",
+        "source_sentence": "是何埃[土*(壴-士+山)]兮忽生。",
         "from": "X67n1299_010:0062a05_6",
         "context_with_next_sentence": true
     },
@@ -3375,7 +3375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "九年懡[怡台+羅]空歸去。",
+        "source_sentence": "九年懡[怡-台+羅]空歸去。",
         "from": "X67n1299_010:0063a19_0",
         "context_with_next_sentence": true
     },
@@ -3455,7 +3455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "依前懡[怡台+羅]返西天。",
+        "source_sentence": "依前懡[怡-台+羅]返西天。",
         "from": "X67n1299_010:0063a24_13",
         "context_with_next_sentence": true
     },
@@ -4975,7 +4975,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "丈云背後底[妳女+口]。",
+        "source_sentence": "丈云背後底[妳-女+口]。",
         "from": "X67n1299_010:0064c17_2",
         "context_with_next_sentence": true
     },
@@ -5560,7 +5560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "禪林類聚卷第",
+        "source_sentence": "禪林類聚卷第十",
         "from": "X67n1299_010:0065b15_0",
         "context_with_next_sentence": false
     }

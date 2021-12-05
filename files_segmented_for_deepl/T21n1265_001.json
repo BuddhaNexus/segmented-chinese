@@ -585,7 +585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "田[(仁二)*?*中]",
+        "source_sentence": "田[(仁-二)*?*中]",
         "from": "T21n1265_001:0295b01_0",
         "context_with_next_sentence": true
     },
@@ -652,6 +652,11 @@
     {
         "source_sentence": "唵末日羅俱嚧馱吽惹",
         "from": "T21n1265_001:0295b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仁平二年八月三日於勸修寺書寫之",
+        "from": "T21n1265_001:0295b26_0",
         "context_with_next_sentence": false
     }
 ]

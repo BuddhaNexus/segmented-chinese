@@ -610,7 +610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或時撮聚一角反[(序予+猒)/手]腰邊，猶如蛇頭，諸俗譏嫌，佛言：「不應反[(序予+猒)/手]著衣猶如蛇頭，應當學。」",
+        "source_sentence": "或時撮聚一角反[(序-予+猒)/手]腰邊，猶如蛇頭，諸俗譏嫌，佛言：「不應反[(序-予+猒)/手]著衣猶如蛇頭，應當學。」",
         "from": "T23n1442_050:0901c02_5",
         "context_with_next_sentence": true
     },
@@ -1190,7 +1190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "河水急流逆以鉢，[戀心+廾]。",
+        "source_sentence": "河水急流逆以鉢，[戀-心+廾]。",
         "from": "T23n1442_050:0903c12_1",
         "context_with_next_sentence": true
     },

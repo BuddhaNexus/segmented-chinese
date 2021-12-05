@@ -7250,7 +7250,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如狩[怡台+龍]悷故說名生。",
+        "source_sentence": "如狩[怡-台+龍]悷故說名生。",
         "from": "T41n1822_023:0740c23_15",
         "context_with_next_sentence": true
     },
@@ -11157,6 +11157,26 @@
     {
         "source_sentence": "俱舍論疏卷第二十三",
         "from": "T41n1822_023:0744c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "保延三年七月□□日午時切句了於",
+        "from": "T41n1822_023:0744c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "東南院東廊畢功　　　羊僧覺樹",
+        "from": "T41n1822_023:0744c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "（別筆）",
+        "from": "T41n1822_023:0744c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以興福寺慈恩院本一交了",
+        "from": "T41n1822_023:0744c09_0",
         "context_with_next_sentence": false
     }
 ]

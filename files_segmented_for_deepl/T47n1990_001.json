@@ -360,7 +360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鏡清云：「狗[銜金+缶]赦書，諸侯避道。」",
+        "source_sentence": "鏡清云：「狗[銜-金+缶]赦書，諸侯避道。」",
         "from": "T47n1990_001:0582c05_23",
         "context_with_next_sentence": true
     },
@@ -3375,7 +3375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "僧恩[邱丘+益]問：「禪宗頓悟，畢竟入門，的意如何？」",
+        "source_sentence": "僧恩[邱-丘+益]問：「禪宗頓悟，畢竟入門，的意如何？」",
         "from": "T47n1990_001:0587a28_0",
         "context_with_next_sentence": true
     },
@@ -3470,7 +3470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[邱丘+益]禮謝之。",
+        "source_sentence": "[邱-丘+益]禮謝之。",
         "from": "T47n1990_001:0587b11_8",
         "context_with_next_sentence": true
     },
@@ -3870,7 +3870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "閱明年，南塔涌禪師遷靈骨歸仰",
+        "source_sentence": "閱明年，南塔涌禪師遷靈骨歸仰山，塔於集雲峯下，諡智通禪師妙光之塔。",
         "from": "T47n1990_001:0588a16_3",
         "context_with_next_sentence": false
     }

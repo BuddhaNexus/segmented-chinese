@@ -4620,7 +4620,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師拔鍬便行(玄沙云。",
+        "source_sentence": "師㧞鍬便行(玄沙云。",
         "from": "X80n1565_009:0188a08_47",
         "context_with_next_sentence": true
     },
@@ -6600,7 +6600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "卒難頓拔。",
+        "source_sentence": "卒難頓㧞。",
         "from": "X80n1565_009:0189a20_23",
         "context_with_next_sentence": true
     },
@@ -9065,7 +9065,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "僧思[邱丘+益]問。",
+        "source_sentence": "僧思[邱-丘+益]問。",
         "from": "X80n1565_009:0190c07_1",
         "context_with_next_sentence": true
     },
@@ -9330,7 +9330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[邱丘+益]禮謝之。",
+        "source_sentence": "[邱-丘+益]禮謝之。",
         "from": "X80n1565_009:0190c17_45",
         "context_with_next_sentence": true
     },
@@ -10750,7 +10750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔萃任汝拔萃。",
+        "source_sentence": "㧞萃任汝㧞萃。",
         "from": "X80n1565_009:0191c11_0",
         "context_with_next_sentence": true
     },
@@ -13665,7 +13665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "落纜不采功。",
+        "source_sentence": "落䌫不采功。",
         "from": "X80n1565_009:0193c11_3",
         "context_with_next_sentence": true
     },
@@ -18422,6 +18422,11 @@
     {
         "source_sentence": "五燈會元卷第九",
         "from": "X80n1565_009:0196c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋頵(於倫切)",
+        "from": "X80n1565_009:0197a01_0",
         "context_with_next_sentence": false
     }
 ]

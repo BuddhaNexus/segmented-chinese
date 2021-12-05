@@ -75,7 +75,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "腹大[(尪尢+瓦)王+壬]脹，其狀如鼓。",
+        "source_sentence": "腹大[(尪-尢+瓦)-王+壬]脹，其狀如鼓。",
         "from": "T21n1321_001:0484c04_3",
         "context_with_next_sentence": true
     },
@@ -125,7 +125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "身體窊[穴/甲]，毛髮毻[毯炎+肖]上答，於一毛端有萬八千毒惡小蟲之所唼食。",
+        "source_sentence": "身體窊[穴/甲]，毛髮毻[毯-炎+肖]上答，於一毛端有萬八千毒惡小蟲之所唼食。",
         "from": "T21n1321_001:0484c14_1",
         "context_with_next_sentence": true
     },
@@ -1137,6 +1137,111 @@
     {
         "source_sentence": "施餓鬼甘露味陀羅尼神呪經",
         "from": "T21n1321_001:0488a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無　步補利(一)　怛他羯哆耶(二)　唵(三)　薩婆辟唎多羯羅耶(四)　阿伽叉(五)　莎訶其契法：起立以兩脚作十字立。",
+        "from": "T21n1321_001:0488a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先以左手仰垂於膝間，作施無畏相。",
+        "from": "T21n1321_001:0488a15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次，右手大母指屬入掌中，四指把舉於右耳璫著，以莫頭相來去。",
+        "from": "T21n1321_001:0488a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即誦念妙言三遍。",
+        "from": "T21n1321_001:0488a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時，觀一切餓鬼等三十六部鬼神，悉集誦呪人邊，合掌瞻仰觀者行者。",
+        "from": "T21n1321_001:0488a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此[女*赤]羅尼妙言，若有善男子、女人、童男、童女受持讀誦者，現身行十種福聚。",
+        "from": "T21n1321_001:0488a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為十？",
+        "from": "T21n1321_001:0488a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一毒藥不能中，二毒蛇不敢螫，三刀仗不能害，四王官不敢嗔，五眾人皆愛敬，六天龍常隨護，七衣食悉豐足，八者顏貌端正，九永離毛竪畏，十不受三塗身。",
+        "from": "T21n1321_001:0488a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唵　步補唎(一)　伽怛唎(二)　怛他羯哆耶其契相法：准上召喚契法。",
+        "from": "T21n1321_001:0488a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "並足立，以十指合掌，頭各相著，其間令相去一寸，開腕當心上著。",
+        "from": "T21n1321_001:0488a27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此名「大悲心輪[女*赤]羅尼法」。",
+        "from": "T21n1321_001:0488a29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "結此契時，誦念妙言七遍。",
+        "from": "T21n1321_001:0488a29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時，觀想契上有一水精摩尼寶珠，放水精光，照觸諸鬼，一切猛火皆悉不燃；此水精光明，入諸鬼口，諸鬼烟喉皆得通息，離諸苦惱。",
+        "from": "T21n1321_001:0488b01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無　素嚕波曳　怛他羯哆耶(三)　怛姪他(二)　蘇嚕蘇嚕波羅蘇嚕(四)　莎婆訶其契相法：半跏坐，如轉輪王坐法。",
+        "from": "T21n1321_001:0488b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先以右手如托頸狀，去頸一寸許，以肘安右膝上。",
+        "from": "T21n1321_001:0488b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次以右仰側舒五指垂右膝上，作施乳狀。",
+        "from": "T21n1321_001:0488b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作此契時，誦念妙言七遍，想觀左手十指端出白色乳潼，色踰白銀，流出不絕。",
+        "from": "T21n1321_001:0488b09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是諸鬼等，皆張口承乳，皆得飽滿。",
+        "from": "T21n1321_001:0488b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作契者，彼善男子現身當得十六種功德。",
+        "from": "T21n1321_001:0488b12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何者為十六？",
+        "from": "T21n1321_001:0488b13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者壽命長遠，二顏色姝美，三氣力充盛，四心常歡樂，五辯才無滯，六者恒無飢想，七口中香潔，八人皆敬仰，九天神侍衛，十毘舍遮鬼現形供給，十一身無疾患，十二威德如王，十三惡人惡鬼見皆生喜，十四得千輪王福，十五夢見諸菩薩羅漢，十六所生之處世界震動。",
+        "from": "T21n1321_001:0488b13_7",
         "context_with_next_sentence": false
     }
 ]

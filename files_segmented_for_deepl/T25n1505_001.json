@@ -1215,7 +1215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "彼丘塚道路弊壞衣被，得著被三衣：僧伽梨、欝怛羅僧、安陀羅婆[口*(葵天+示)]。",
+        "source_sentence": "彼丘塚道路弊壞衣被，得著被三衣：僧伽梨、欝怛羅僧、安陀羅婆[口*(葵-天+示)]。",
         "from": "T25n1505_001:0003b04_8",
         "context_with_next_sentence": true
     },
@@ -1635,7 +1635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "初說[口*(葵天+示)]未都(盡也，天竺品題皆在品後也)。",
+        "source_sentence": "初說[口*(葵-天+示)]未都(盡也，天竺品題皆在品後也)。",
         "from": "T25n1505_001:0004a13_8",
         "context_with_next_sentence": true
     },

@@ -35,7 +35,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上三十三天。",
+        "source_sentence": "[跳-兆+孛]跳上三十三天。",
         "from": "X82n1571_114:0692c20_6",
         "context_with_next_sentence": true
     },
@@ -170,7 +170,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "好似榼[打丁+(天/韭)]邊破草鞵。",
+        "source_sentence": "好似榼[打-丁+(天/韭)]邊破草鞵。",
         "from": "X82n1571_114:0693a03_14",
         "context_with_next_sentence": true
     },
@@ -3437,6 +3437,91 @@
     {
         "source_sentence": "五燈全書卷第一百十四",
         "from": "X82n1571_114:0695b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五燈全書卷第一百十四補遺",
+        "from": "X82n1571_114:0695c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　曹洞宗",
+        "from": "X82n1571_114:0695c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　青原下第三十七世隨錄",
+        "from": "X82n1571_114:0695c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "信豐穀山如菴平禪師臨終偈曰陽燄空花四十秋。",
+        "from": "X82n1571_114:0695c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "水中捉月我無求。",
+        "from": "X82n1571_114:0695c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今朝草鞋跟底折。",
+        "from": "X82n1571_114:0695c07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "來去清風總自悠(瑞白雪嗣)。",
+        "from": "X82n1571_114:0695c07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "建寧歐寧同凡聖禪師參弁山雪。",
+        "from": "X82n1571_114:0695c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問虎頭戴角出荒草。",
+        "from": "X82n1571_114:0695c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未審以何為食。",
+        "from": "X82n1571_114:0695c10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "山曰。",
+        "from": "X82n1571_114:0695c10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吞卻你也不識。",
+        "from": "X82n1571_114:0695c10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師拂具曰。",
+        "from": "X82n1571_114:0695c10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "橫衝直撞去也山曰。",
+        "from": "X82n1571_114:0695c10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "粉骨碎身。",
+        "from": "X82n1571_114:0695c11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師一喝。",
+        "from": "X82n1571_114:0695c11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "山便打(瑞白雪嗣)。",
+        "from": "X82n1571_114:0695c11_9",
         "context_with_next_sentence": false
     }
 ]

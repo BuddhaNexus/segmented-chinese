@@ -685,7 +685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "T47n1997_008:0747c08_4",
         "context_with_next_sentence": true
     },
@@ -895,7 +895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "多年破衲太[毯炎+監]毿。",
+        "source_sentence": "多年破衲太[毯-炎+監]毿。",
         "from": "T47n1997_008:0747c23_5",
         "context_with_next_sentence": true
     },

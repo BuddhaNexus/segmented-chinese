@@ -135,7 +135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有比丘，女人捉足[蹲酋+(十/田/ㄙ)]膝髀指時不淨出，尋生疑悔。",
+        "source_sentence": "有比丘，女人捉足[蹲-酋+(十/田/ㄙ)]膝髀指時不淨出，尋生疑悔。",
         "from": "T23n1441_005:0591b01_0",
         "context_with_next_sentence": true
     },
@@ -190,7 +190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有比丘脇脊胸腋下、臂肘脾中、兩脚中、兩[蹲酋+(十/田/ㄙ)]中、手中等出不淨，僧伽婆尸沙。",
+        "source_sentence": "有比丘脇脊胸腋下、臂肘脾中、兩脚中、兩[蹲-酋+(十/田/ㄙ)]中、手中等出不淨，僧伽婆尸沙。",
         "from": "T23n1441_005:0591b14_0",
         "context_with_next_sentence": true
     },
@@ -3640,7 +3640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂鹽淨、二指淨、聚落淨、[酉*(替曰+貝)]酪淨、如是淨、隨喜淨、生酒淨、習淨、縷尼師檀淨、受金銀淨。",
+        "source_sentence": "謂鹽淨、二指淨、聚落淨、[酉*(替-曰+貝)]酪淨、如是淨、隨喜淨、生酒淨、習淨、縷尼師檀淨、受金銀淨。",
         "from": "T23n1441_005:0597b20_1",
         "context_with_next_sentence": true
     },
@@ -3695,7 +3695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[酉*(替曰+貝)]酪淨者，食自恣竟，復得[酉*(替曰+貝)]酪已得飲。",
+        "source_sentence": "[酉*(替-曰+貝)]酪淨者，食自恣竟，復得[酉*(替-曰+貝)]酪已得飲。",
         "from": "T23n1441_005:0597b29_3",
         "context_with_next_sentence": true
     },

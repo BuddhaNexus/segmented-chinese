@@ -2615,12 +2615,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "次[銜金+工]。",
+        "source_sentence": "次[銜-金+工]。",
         "from": "X55n0919_010:0858c10_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[銜金+工]中云雖發等者。",
+        "source_sentence": "[銜-金+工]中云雖發等者。",
         "from": "X55n0919_010:0858c10_3",
         "context_with_next_sentence": true
     },
@@ -2640,7 +2640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故所依[銜金+工]非大方便。",
+        "source_sentence": "故所依[銜-金+工]非大方便。",
         "from": "X55n0919_010:0858c11_7",
         "context_with_next_sentence": true
     },
@@ -2740,7 +2740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "迦毗羅見尚私讀小[銜金+工]。",
+        "source_sentence": "迦毗羅見尚私讀小[銜-金+工]。",
         "from": "X55n0919_010:0858c17_6",
         "context_with_next_sentence": true
     },
@@ -5145,7 +5145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "決他猶勝盲犬[狂王+魯]吠。",
+        "source_sentence": "決他猶勝盲犬[狂-王+魯]吠。",
         "from": "X55n0919_010:0860c22_10",
         "context_with_next_sentence": true
     },
@@ -6442,6 +6442,36 @@
     {
         "source_sentence": "止觀輔行搜要記卷第十(終)",
         "from": "X55n0919_010:0862a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大唐大中八年四月二十三日於台州天台山國清寺西院元璋座主房寫取。",
+        "from": "X55n0919_010:0862a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當寺天台物外座主本願。",
+        "from": "X55n0919_010:0862a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "期佛慧共傳　大師止觀大教。",
+        "from": "X55n0919_010:0862a10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自他兼利。",
+        "from": "X55n0919_010:0862a10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日本國延曆寺巡禮求教供奉。",
+        "from": "X55n0919_010:0862a10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙門珍記。",
+        "from": "X55n0919_010:0862a11_5",
         "context_with_next_sentence": false
     }
 ]

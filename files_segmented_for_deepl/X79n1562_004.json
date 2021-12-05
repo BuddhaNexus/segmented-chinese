@@ -520,7 +520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "昇元閣前懡[怡台+羅]。",
+        "source_sentence": "昇元閣前懡[怡-台+羅]。",
         "from": "X79n1562_004:0601a22_22",
         "context_with_next_sentence": true
     },
@@ -530,7 +530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皮髓傳成話杷。",
+        "source_sentence": "皮髓傳成話&#;。",
         "from": "X79n1562_004:0601a23_24",
         "context_with_next_sentence": true
     },
@@ -1870,7 +1870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[曰/月]雪而來。",
+        "source_sentence": "冐雪而來。",
         "from": "X79n1562_004:0602b04_12",
         "context_with_next_sentence": true
     },
@@ -2300,7 +2300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "天竺[仁二+幻]堂仁禪師",
+        "source_sentence": "天竺[仁-二+幻]堂仁禪師",
         "from": "X79n1562_004:0602c03_0",
         "context_with_next_sentence": true
     },
@@ -2310,7 +2310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "號[仁二+幻]堂。",
+        "source_sentence": "號[仁-二+幻]堂。",
         "from": "X79n1562_004:0602c04_1",
         "context_with_next_sentence": true
     },

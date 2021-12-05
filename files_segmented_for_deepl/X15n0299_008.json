@@ -6430,7 +6430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即果[跳兆+(虒虎+((白日)/一/巾))]。",
+        "source_sentence": "即果[跳-兆+(虒-虎+((白-日)/一/巾))]。",
         "from": "X15n0299_008:0107b01_1",
         "context_with_next_sentence": true
     },
@@ -9950,7 +9950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "易陷難拔。",
+        "source_sentence": "易陷難㧞。",
         "from": "X15n0299_008:0110a20_0",
         "context_with_next_sentence": true
     },
@@ -11240,7 +11240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如拔絲之狀也。",
+        "source_sentence": "如㧞絲之狀也。",
         "from": "X15n0299_008:0111a20_7",
         "context_with_next_sentence": true
     },

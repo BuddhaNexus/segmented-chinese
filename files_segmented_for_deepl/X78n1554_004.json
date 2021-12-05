@@ -415,7 +415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師有[(厂@((既旡)日+口))*頁]鑑一字關。",
+        "source_sentence": "師有[(厂@((既-旡)-日+口))*頁]鑑一字關。",
         "from": "X78n1554_004:0608c07_40",
         "context_with_next_sentence": true
     },
@@ -1045,7 +1045,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[起巳+歷]趚。",
+        "source_sentence": "[起-巳+歷]趚。",
         "from": "X78n1554_004:0609b18_8",
         "context_with_next_sentence": true
     },
@@ -1275,7 +1275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　離報慈未出常情　　見雲門方始瞥地　鳳生萬壑　　虎豹子氣已食牛　電掣傾城　　龍馬駒足應展驥　視渾身如椰子　　能有幾長　開大口似紡車　　略無少愧　於先師會中問有何過　　合喫幾藤條　向無人烟處接待往來　　不畜一粒米　酒粧公子面　　把黃頭碧眼倒卓屎坑頭　花插美人頭　　將文殊普賢趁向牛欄裏　賣鞋老婆脚[起巳+歷]趚　　唱道情蠻子打鄉談　著瓮道士坐嵬堆　　雜意識波斯入閙市　大海浮漚蝦蟇呌月　　錯稱提韶石綱宗　楚山倒卓漢水東流　　謾塗糊蓮花出水　問僧此去路多少　　蹈破幾緉草鞋　答佛亂撮麻三斤　　渾沒星兒臭氣言無展事。",
+        "source_sentence": "　離報慈未出常情　　見雲門方始瞥地　鳳生萬壑　　虎豹子氣已食牛　電掣傾城　　龍馬駒足應展驥　視渾身如椰子　　能有幾長　開大口似紡車　　略無少愧　於先師會中問有何過　　合喫幾藤條　向無人烟處接待往來　　不畜一粒米　酒粧公子面　　把黃頭碧眼倒卓屎坑頭　花插美人頭　　將文殊普賢趁向牛欄裏　賣鞋老婆脚[起-巳+歷]趚　　唱道情蠻子打鄉談　著瓮道士坐嵬堆　　雜意識波斯入閙市　大海浮漚蝦蟇呌月　　錯稱提韶石綱宗　楚山倒卓漢水東流　　謾塗糊蓮花出水　問僧此去路多少　　蹈破幾緉草鞋　答佛亂撮麻三斤　　渾沒星兒臭氣言無展事。",
         "from": "X78n1554_004:0609c04_0",
         "context_with_next_sentence": true
     },
@@ -1750,7 +1750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　滄海親生翫月犀　　香林放出遼天鶻　母胎中一則語　　鋒鋩簇簇誰肯商量　金剛眼一把砂　　翳膜重重如何洗刮　荷葉蓮花後先出水　　不當截流機　旃檀荊棘圍繞叢林　　活貶無生國　少時立門外　　知李四婆來乞丙丁童　一念未生前　　要顯闍梨痛喫龜毛拂　兔子懷胎蚌含明月　　將般若體用沈埋　鯉魚喫棒雨似傾盆　　把韶石家財籍沒　拄杖頭邊挑日月　　老瞿曇的的被揶揄　曹溪路上有俗談　　盧行者惺惺成淈[泳永+盾]拈出古鏡。",
+        "source_sentence": "　滄海親生翫月犀　　香林放出遼天鶻　母胎中一則語　　鋒鋩簇簇誰肯商量　金剛眼一把砂　　翳膜重重如何洗刮　荷葉蓮花後先出水　　不當截流機　旃檀荊棘圍繞叢林　　活貶無生國　少時立門外　　知李四婆來乞丙丁童　一念未生前　　要顯闍梨痛喫龜毛拂　兔子懷胎蚌含明月　　將般若體用沈埋　鯉魚喫棒雨似傾盆　　把韶石家財籍沒　拄杖頭邊挑日月　　老瞿曇的的被揶揄　曹溪路上有俗談　　盧行者惺惺成淈[泳-永+盾]拈出古鏡。",
         "from": "X78n1554_004:0610a20_0",
         "context_with_next_sentence": true
     },
@@ -3020,7 +3020,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師懡[怡台+羅]而回。",
+        "source_sentence": "師懡[怡-台+羅]而回。",
         "from": "X78n1554_004:0611c06_2",
         "context_with_next_sentence": true
     },
@@ -4125,7 +4125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更[跳兆+孛]跳。",
+        "source_sentence": "更[跳-兆+孛]跳。",
         "from": "X78n1554_004:0612c04_14",
         "context_with_next_sentence": true
     },
@@ -4405,7 +4405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　拔澄散聖虎頭關　　笑収虎尾",
+        "source_sentence": "　㧞澄散聖虎頭關　　笑収虎尾",
         "from": "X78n1554_004:0612c24_0",
         "context_with_next_sentence": true
     },
@@ -6355,7 +6355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "風能拔木。",
+        "source_sentence": "風能㧞木。",
         "from": "X78n1554_004:0615a10_3",
         "context_with_next_sentence": true
     },
@@ -8675,7 +8675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師拔鍬便行。",
+        "source_sentence": "師㧞鍬便行。",
         "from": "X78n1554_004:0617b12_27",
         "context_with_next_sentence": true
     },
@@ -12972,6 +12972,11 @@
     {
         "source_sentence": "正宗讚終",
         "from": "X78n1554_004:0621b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "小師　居涇　焚香拜手稽首謹書于乳峯。",
+        "from": "X78n1554_004:0621b24_0",
         "context_with_next_sentence": false
     }
 ]

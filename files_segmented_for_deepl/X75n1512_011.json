@@ -1175,7 +1175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或拜之亦不[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "或拜之亦不[(厂@((既-旡)-日+口))*頁]。",
         "from": "X75n1512_011:0163a20_8",
         "context_with_next_sentence": true
     },
@@ -2990,7 +2990,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]蔑生肇。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]蔑生肇。",
         "from": "X75n1512_011:0165a05_10",
         "context_with_next_sentence": true
     },
@@ -3935,7 +3935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]謂道懿等曰。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]謂道懿等曰。",
         "from": "X75n1512_011:0165c23_11",
         "context_with_next_sentence": true
     },

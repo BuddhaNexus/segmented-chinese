@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 東林十八高賢傳序",
+        "source_sentence": "東林十八高賢傳序",
         "from": "X78n1543_001:0113a03_0",
         "context_with_next_sentence": true
     },
@@ -3345,7 +3345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "至成都[郫卑+((白日+田)/廾)]縣。",
+        "source_sentence": "至成都[郫-卑+((白-日+田)/廾)]縣。",
         "from": "X78n1543_001:0115c24_12",
         "context_with_next_sentence": true
     },
@@ -5240,7 +5240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "俱發至廬山香谷[菱八]舍而居([菱八]蒲曷切草舍)。",
+        "source_sentence": "俱發至廬山香谷[菱-八]舍而居([菱-八]蒲曷切草舍)。",
         "from": "X78n1543_001:0117c05_54",
         "context_with_next_sentence": true
     },
@@ -7930,7 +7930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "高臥北窗之下。",
+        "source_sentence": "高臥北窻之下。",
         "from": "X78n1543_001:0120a07_2",
         "context_with_next_sentence": true
     },
@@ -9255,7 +9255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故能奴隷[(厂@((既旡)日+口))*頁]陸。",
+        "source_sentence": "故能奴隷[(厂@((既-旡)-日+口))*頁]陸。",
         "from": "X78n1543_001:0121a14_3",
         "context_with_next_sentence": true
     },
@@ -9335,7 +9335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遊居寢飯其下。",
+        "source_sentence": "遊居寢飰其下。",
         "from": "X78n1543_001:0121a19_19",
         "context_with_next_sentence": true
     },
@@ -9377,6 +9377,216 @@
     {
         "source_sentence": "東林十八高賢傳(終)",
         "from": "X78n1543_001:0121a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右蓮社高賢傳一卷。",
+        "from": "X78n1543_001:0121b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本不著作者姓名。",
+        "from": "X78n1543_001:0121b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自隋唐志晁陳二家俱未見書。",
+        "from": "X78n1543_001:0121b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰原跋。",
+        "from": "X78n1543_001:0121b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂自昔出於廬山。",
+        "from": "X78n1543_001:0121b05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宋熈寧間。",
+        "from": "X78n1543_001:0121b05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嘉禾賢良陳舜俞。",
+        "from": "X78n1543_001:0121b06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "粗加刊正。",
+        "from": "X78n1543_001:0121b06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大觀初。",
+        "from": "X78n1543_001:0121b06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙門懷悟。",
+        "from": "X78n1543_001:0121b06_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復為詳補。",
+        "from": "X78n1543_001:0121b06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而是書始顯。",
+        "from": "X78n1543_001:0121b07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然此十八高賢。",
+        "from": "X78n1543_001:0121b07_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆晉宋時人。",
+        "from": "X78n1543_001:0121b07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則此傳亦當為晉宋時書。",
+        "from": "X78n1543_001:0121b07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故仍從唐宋叢書釆補。",
+        "from": "X78n1543_001:0121b08_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其曰蓮社者。",
+        "from": "X78n1543_001:0121b08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂謝靈運在廬山。",
+        "from": "X78n1543_001:0121b09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鑿池種白蓮。",
+        "from": "X78n1543_001:0121b09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時遠公諸賢同修淨土之業。",
+        "from": "X78n1543_001:0121b09_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因號白蓮社。",
+        "from": "X78n1543_001:0121b10_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靈運甞求入社。",
+        "from": "X78n1543_001:0121b10_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠公以其心雜而止之。",
+        "from": "X78n1543_001:0121b10_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫既不許其人入社。",
+        "from": "X78n1543_001:0121b11_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而又取其人所種之蓮以名社。",
+        "from": "X78n1543_001:0121b11_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則人之稱斯社也。",
+        "from": "X78n1543_001:0121b12_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其謂之何。",
+        "from": "X78n1543_001:0121b12_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但如遠公。",
+        "from": "X78n1543_001:0121b12_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "始欲從學。",
+        "from": "X78n1543_001:0121b13_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "范甯卒乃傳經。",
+        "from": "X78n1543_001:0121b13_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雷次宗周續之。",
+        "from": "X78n1543_001:0121b13_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以一釋和尚。",
+        "from": "X78n1543_001:0121b13_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而能為功經學前。",
+        "from": "X78n1543_001:0121b14_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此所未有也。",
+        "from": "X78n1543_001:0121b14_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "白香山為劉軻代書。",
+        "from": "X78n1543_001:0121b14_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂廬山自陶謝。",
+        "from": "X78n1543_001:0121b15_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "洎十八賢以來。",
+        "from": "X78n1543_001:0121b15_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "儒風緜緜不絕。",
+        "from": "X78n1543_001:0121b15_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而皆由遠公倡之。",
+        "from": "X78n1543_001:0121b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今錄其書。",
+        "from": "X78n1543_001:0121b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又豈獨為釋氏提振宗風耶。",
+        "from": "X78n1543_001:0121b16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝上王謨識。",
+        "from": "X78n1543_001:0121b17_3",
         "context_with_next_sentence": false
     }
 ]

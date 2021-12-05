@@ -14160,7 +14160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "生公曰啈[怡台+責]為。",
+        "source_sentence": "生公曰啈[怡-台+責]為。",
         "from": "X37n0661_003:0188a18_1",
         "context_with_next_sentence": true
     },
@@ -18057,6 +18057,11 @@
     {
         "source_sentence": "涅槃疏私記卷第三",
         "from": "X37n0661_003:0192c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "承保四年夏五月一日書寫已了僧定深之本",
+        "from": "X37n0661_003:0192c06_0",
         "context_with_next_sentence": false
     }
 ]

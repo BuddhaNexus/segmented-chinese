@@ -2610,7 +2610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)字婆羅字婆羅(二)浮陀跋折囉(三)阿鉢囉底訶哆(四)嗚[合*牛][打丁+巿](五)莎訶(六)是法印呪。",
+        "source_sentence": "唵(一)字婆羅字婆羅(二)浮陀跋折囉(三)阿鉢囉底訶哆(四)嗚[合*牛][打-丁+巿](五)莎訶(六)是法印呪。",
         "from": "T18n0901_002:0798a09_0",
         "context_with_next_sentence": true
     },
@@ -2720,7 +2720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)俱嚧弭那(二)嗚[合*牛][打丁+巿](三)莎訶(四)作小水壇。",
+        "source_sentence": "唵(一)俱嚧弭那(二)嗚[合*牛][打-丁+巿](三)莎訶(四)作小水壇。",
         "from": "T18n0901_002:0798a22_0",
         "context_with_next_sentence": true
     },
@@ -2895,7 +2895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)摩黎摩黎(二)摩唎尼(三)駄囉駄囉(四)嗚[合*牛][打丁+巿](五)莎訶(六)以此印打一切鬼病。",
+        "source_sentence": "唵(一)摩黎摩黎(二)摩唎尼(三)駄囉駄囉(四)嗚[合*牛][打-丁+巿](五)莎訶(六)以此印打一切鬼病。",
         "from": "T18n0901_002:0798b15_0",
         "context_with_next_sentence": true
     },
@@ -3215,7 +3215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "那謨腎若(若野反)夜(一)唵(二)社皤羅婆蒲悉(三)什皤羅什皤羅(四)末吒末吒(五)畔闍畔闍(六)阿毘(上音)舍阿毘(上音)舍(七)嗚[合*牛][打丁+巿](八)莎訶(九)北方相德佛頂印呪第二十四以左大指捻小指頭。",
+        "source_sentence": "那謨腎若(若野反)夜(一)唵(二)社皤羅婆蒲悉(三)什皤羅什皤羅(四)末吒末吒(五)畔闍畔闍(六)阿毘(上音)舍阿毘(上音)舍(七)嗚[合*牛][打-丁+巿](八)莎訶(九)北方相德佛頂印呪第二十四以左大指捻小指頭。",
         "from": "T18n0901_002:0799a14_0",
         "context_with_next_sentence": true
     },
@@ -4440,7 +4440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "那謨阿[口*梨]耶(一)阿彌陀婆耶(二)怛他揭跢夜(三)阿囉訶底(四)三藐三菩提耶(五)跢姪他(六)唵阿蜜哩(二合)羝(七)訶那訶那(八)薩婆波跛尼(九)陀訶陀訶(十)薩婆波跛尼(十一)嗚[合*牛][打丁+巿](十二)莎(去音)訶(十三)次畫師畫佛像法用。",
+        "source_sentence": "那謨阿[口*梨]耶(一)阿彌陀婆耶(二)怛他揭跢夜(三)阿囉訶底(四)三藐三菩提耶(五)跢姪他(六)唵阿蜜哩(二合)羝(七)訶那訶那(八)薩婆波跛尼(九)陀訶陀訶(十)薩婆波跛尼(十一)嗚[合*牛][打-丁+巿](十二)莎(去音)訶(十三)次畫師畫佛像法用。",
         "from": "T18n0901_002:0800b28_0",
         "context_with_next_sentence": true
     },
@@ -4870,7 +4870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)[口*戶]盧[口*戶]盧(二)羝瑟吒(二合)羝瑟吒(二合)(三)槃陀槃陀(四)訶那訶那(五)阿蜜哩(二合)羝嗚[合*牛][打丁+巿](六)呪一百八遍。",
+        "source_sentence": "唵(一)[口*戶]盧[口*戶]盧(二)羝瑟吒(二合)羝瑟吒(二合)(三)槃陀槃陀(四)訶那訶那(五)阿蜜哩(二合)羝嗚[合*牛][打-丁+巿](六)呪一百八遍。",
         "from": "T18n0901_002:0801a11_0",
         "context_with_next_sentence": true
     },
@@ -4910,7 +4910,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "各[打丁+必]在無名指背上。",
+        "source_sentence": "各[打-丁+必]在無名指背上。",
         "from": "T18n0901_002:0801a26_1",
         "context_with_next_sentence": true
     },
@@ -5095,7 +5095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "左右小指各[打丁+必]。",
+        "source_sentence": "左右小指各[打-丁+必]。",
         "from": "T18n0901_002:0801b16_0",
         "context_with_next_sentence": true
     },
@@ -5465,7 +5465,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+必]左無名指中指背。",
+        "source_sentence": "[打-丁+必]左無名指中指背。",
         "from": "T18n0901_002:0801c26_1",
         "context_with_next_sentence": true
     },
@@ -5540,7 +5540,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)嚧池囉末地(地阿反二)忘婆(三)菩(去音)闍那(四)瞋陀頻陀(五)嗚[合*牛][打丁+巿](六)莎訶(七)又大勢至菩薩印第十准下阿彌陀佛頂印。",
+        "source_sentence": "唵(一)嚧池囉末地(地阿反二)忘婆(三)菩(去音)闍那(四)瞋陀頻陀(五)嗚[合*牛][打-丁+巿](六)莎訶(七)又大勢至菩薩印第十准下阿彌陀佛頂印。",
         "from": "T18n0901_002:0802a03_0",
         "context_with_next_sentence": true
     },
@@ -5595,7 +5595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+必]在中指背後。",
+        "source_sentence": "[打-丁+必]在中指背後。",
         "from": "T18n0901_002:0802a11_1",
         "context_with_next_sentence": true
     },
@@ -5625,7 +5625,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)跋折囉(二)跋折哩(二合)尼(三)瞿吒瞿致尼(四)槃陀槃陀(五)訶那訶那(六)馱訶馱訶(七)鉢遮鉢遮(八)嗚[合*牛][打丁+巿](九)莎訶(十)每月十五日。",
+        "source_sentence": "唵(一)跋折囉(二)跋折哩(二合)尼(三)瞿吒瞿致尼(四)槃陀槃陀(五)訶那訶那(六)馱訶馱訶(七)鉢遮鉢遮(八)嗚[合*牛][打-丁+巿](九)莎訶(十)每月十五日。",
         "from": "T18n0901_002:0802a14_0",
         "context_with_next_sentence": true
     },

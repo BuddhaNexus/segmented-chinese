@@ -705,7 +705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "發底一度以香水[打丁+巿]一度。",
+        "source_sentence": "發底一度以香水[打-丁+巿]一度。",
         "from": "T18n0901_012:0886b12_27",
         "context_with_next_sentence": true
     },
@@ -1825,7 +1825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)阿彌哩(二合)都知(二合)皤(去音)婆(二)[合*牛][打丁+巿](三)當用此呪一呪一結。",
+        "source_sentence": "唵(一)阿彌哩(二合)都知(二合)皤(去音)婆(二)[合*牛][打-丁+巿](三)當用此呪一呪一結。",
         "from": "T18n0901_012:0887c10_0",
         "context_with_next_sentence": true
     },
@@ -2030,7 +2030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+巿]於一一弟子頭上。",
+        "source_sentence": "[打-丁+巿]於一一弟子頭上。",
         "from": "T18n0901_012:0888a01_14",
         "context_with_next_sentence": true
     },
@@ -2530,7 +2530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "安婆[打丁+翕]毘伽座(四十七)東南角。",
+        "source_sentence": "安婆[打-丁+翕]毘伽座(四十七)東南角。",
         "from": "T18n0901_012:0888c18_29",
         "context_with_next_sentence": true
     },
@@ -3000,7 +3000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "薄餅飽[飢几+俞][飢几+念]頭等餅種種具備。",
+        "source_sentence": "薄餅飽[飢-几+俞][飢-几+念]頭等餅種種具備。",
         "from": "T18n0901_012:0889c02_3",
         "context_with_next_sentence": true
     },
@@ -4220,7 +4220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一一[打丁+巿]打徒眾頭頂。",
+        "source_sentence": "一一[打-丁+巿]打徒眾頭頂。",
         "from": "T18n0901_012:0891a13_1",
         "context_with_next_sentence": true
     },
@@ -6150,7 +6150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "上好赤土細末一石　黃土細末一石　乾藍淀末一石　細炭末一石　粳米粉二石(麁羅)　胡麻人一升　白蜜一升(濾去惡物)　好牛蘇七斤(濾去惡物)　清胡麻油一斗五升(擬燒供養)　白芥子一斗五升(量七日用充足)　松明二十斤　穀木柴五束(濕者乾之)　炭一百五十斤　燈五百盞　油五斗(然燈處用)　作果食五百盤(種種色目皆須備具)　上好果子石榴三百顆　大栗五百顆　大乾棗五百顆　乾柿五百顆　梨五百顆　胡桃人五百顆　沙糖二十五兩　乾葡萄一斤半(已上果子不得蟲惡破損皆須上好者取)　薄餅[(麩夫+(焙火))來+(土/儿)][(麩夫+主)來+(土/儿)][飢几+念]頭各五百枚　餳糖團五百顆以外諸餅。",
+        "source_sentence": "上好赤土細末一石　黃土細末一石　乾藍淀末一石　細炭末一石　粳米粉二石(麁羅)　胡麻人一升　白蜜一升(濾去惡物)　好牛蘇七斤(濾去惡物)　清胡麻油一斗五升(擬燒供養)　白芥子一斗五升(量七日用充足)　松明二十斤　穀木柴五束(濕者乾之)　炭一百五十斤　燈五百盞　油五斗(然燈處用)　作果食五百盤(種種色目皆須備具)　上好果子石榴三百顆　大栗五百顆　大乾棗五百顆　乾柿五百顆　梨五百顆　胡桃人五百顆　沙糖二十五兩　乾葡萄一斤半(已上果子不得蟲惡破損皆須上好者取)　薄餅[(麩-夫+(焙-火))-來+(土/儿)][(麩-夫+主)-來+(土/儿)][飢-几+念]頭各五百枚　餳糖團五百顆以外諸餅。",
         "from": "T18n0901_012:0893c24_0",
         "context_with_next_sentence": true
     },

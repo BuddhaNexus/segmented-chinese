@@ -320,7 +320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "後番[揉矛+ㄆ]用。",
+        "source_sentence": "後番[揉-矛+ㄆ]用。",
         "from": "X55n0918_001:0740c03_13",
         "context_with_next_sentence": true
     },
@@ -1460,8 +1460,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是道遂和尚",
+        "source_sentence": "是道遂和尚於弘決外引出異義。",
         "from": "X55n0918_001:0741c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "弟子乾淑聞而述之(已上)。",
+        "from": "X55n0918_001:0741c14_3",
         "context_with_next_sentence": false
     }
 ]

@@ -3375,7 +3375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "麵不過一寸。",
+        "source_sentence": "麫不過一寸。",
         "from": "X60n1122_001:0444a16_6",
         "context_with_next_sentence": true
     },
@@ -4445,7 +4445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "○不得照鏡摩[打丁+(改己)]面目畫眉。",
+        "source_sentence": "○不得照鏡摩[打-丁+(改-己)]面目畫眉。",
         "from": "X60n1122_001:0445a11_22",
         "context_with_next_sentence": true
     },
@@ -6007,6 +6007,411 @@
     {
         "source_sentence": "沙彌尼律儀要略(終)",
         "from": "X60n1122_001:0446b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說戒法儀",
+        "from": "X60n1122_001:0446b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(每至黑白月十五日。",
+        "from": "X60n1122_001:0446b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清晨知事稟白堂頭。",
+        "from": "X60n1122_001:0446b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今日誦戒。",
+        "from": "X60n1122_001:0446b22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "和尚令侍者命書記書簡輪請闍黎知事送簡入闍黎寮。",
+        "from": "X60n1122_001:0446b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問訊出命直日者在比丘堂前擊鐘。",
+        "from": "X60n1122_001:0446b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或擊鼓三下。",
+        "from": "X60n1122_001:0446b24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "集諸比丘依戒次列定。",
+        "from": "X60n1122_001:0446c01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "輪差二比丘一人執香。",
+        "from": "X60n1122_001:0446c01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一人執磬。",
+        "from": "X60n1122_001:0446c01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入闍黎寮迎闍黎陞座。",
+        "from": "X60n1122_001:0446c02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迎請率諸比丘禮三拜闍黎係是菩薩尊臘不必謝眾。",
+        "from": "X60n1122_001:0446c02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若是比丘。",
+        "from": "X60n1122_001:0446c03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "便當謝眾。",
+        "from": "X60n1122_001:0446c03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如菩薩戒本前後同。",
+        "from": "X60n1122_001:0446c04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迎請侍座坐。",
+        "from": "X60n1122_001:0446c04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舉讚)。",
+        "from": "X60n1122_001:0446c04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪宗正法。",
+        "from": "X60n1122_001:0446c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非戒無防。",
+        "from": "X60n1122_001:0446c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "堅持潔白。",
+        "from": "X60n1122_001:0446c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "保心王識。",
+        "from": "X60n1122_001:0446c05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相行溫良。",
+        "from": "X60n1122_001:0446c05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "儀表堂堂。",
+        "from": "X60n1122_001:0446c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "利濟戒生香。",
+        "from": "X60n1122_001:0446c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "香雲葢菩薩摩訶薩。",
+        "from": "X60n1122_001:0446c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(稽首禮諸佛。",
+        "from": "X60n1122_001:0446c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "引請擊魚同闍黎梵舉)。",
+        "from": "X60n1122_001:0446c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(戒序。",
+        "from": "X60n1122_001:0446c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "并問清淨法。",
+        "from": "X60n1122_001:0446c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "闍黎鳴尺白)。",
+        "from": "X60n1122_001:0446c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(比丘戒相。",
+        "from": "X60n1122_001:0446c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵舉逐句同誦)。",
+        "from": "X60n1122_001:0446c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(誦畢引請送闍黎歸寮。",
+        "from": "X60n1122_001:0446c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸比丘入和尚方丈禮拜)。",
+        "from": "X60n1122_001:0446c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X60n1122_001:0446c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[匿/虫](女力切音匿蟲食病)。",
+        "from": "X60n1122_001:0446c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "態(他代切音貸態度也)。",
+        "from": "X60n1122_001:0446c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諳(烏含切音庵知也熟聞也)。",
+        "from": "X60n1122_001:0446c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蠕(音輭同蝡蟲行貌)。",
+        "from": "X60n1122_001:0446c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蚑(音祇)。",
+        "from": "X60n1122_001:0446c15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "髓(悉委切骨中脂也)。",
+        "from": "X60n1122_001:0446c15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蛈(音逸)。",
+        "from": "X60n1122_001:0446c15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "輒(音徹每事即然也)。",
+        "from": "X60n1122_001:0446c15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗜(常利切音視嗜欲喜之也)。",
+        "from": "X60n1122_001:0446c15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縠(胡谷切音斛輕紗細縛也)。",
+        "from": "X60n1122_001:0446c16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "綩(委遠切音宛纁色衣)。",
+        "from": "X60n1122_001:0446c16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "綖(以然切冕前後垂覆)。",
+        "from": "X60n1122_001:0446c16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捎(所交切音筲)。",
+        "from": "X60n1122_001:0446c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "拂(敷勿切音髴拂去塵埃也)。",
+        "from": "X60n1122_001:0446c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釧(尺絹切臂環也)。",
+        "from": "X60n1122_001:0446c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鐶(戶關切音還)。",
+        "from": "X60n1122_001:0446c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唆(桑何切音梭)。",
+        "from": "X60n1122_001:0446c17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唾(湯臥切口液也)。",
+        "from": "X60n1122_001:0446c18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "褥(如欲切音辱坐褥也)。",
+        "from": "X60n1122_001:0446c18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餌(音耳食也)。",
+        "from": "X60n1122_001:0446c18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嚫(初親切音襟嚫錢也)。",
+        "from": "X60n1122_001:0446c18_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摘(陟草切音謫手取也)。",
+        "from": "X60n1122_001:0446c19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "楗(巨偃切音鍵限門也)。",
+        "from": "X60n1122_001:0446c19_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "椎(直追切音追擊也)。",
+        "from": "X60n1122_001:0446c19_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慳(丘閑切悋也)。",
+        "from": "X60n1122_001:0446c19_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "麫(莫見切音眄麥末也)。",
+        "from": "X60n1122_001:0446c20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "饅(謨官切音瞞麪食也)。",
+        "from": "X60n1122_001:0446c20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "療(力弔切音料療治也)。",
+        "from": "X60n1122_001:0446c20_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嚼(才爵切齧也)。",
+        "from": "X60n1122_001:0446c20_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "螘(語綺切與蟻同)。",
+        "from": "X60n1122_001:0446c21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "踝(戶瓦切音跨足踝也)。",
+        "from": "X60n1122_001:0446c21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "濺(音贊汙洒也)。",
+        "from": "X60n1122_001:0446c21_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "罩(陟教切籠也)。",
+        "from": "X60n1122_001:0446c21_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "裸(耶果切赤體也)。",
+        "from": "X60n1122_001:0446c21_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "濾(音慮)。",
+        "from": "X60n1122_001:0446c22_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蟣(音幾蝨子也)。",
+        "from": "X60n1122_001:0446c22_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蝨(音瑟齧人蟲也)。",
+        "from": "X60n1122_001:0446c22_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瘡(初莊切音倉瘡痍也)。",
+        "from": "X60n1122_001:0446c22_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "癬(息淺切音鮮乾瘍也)。",
+        "from": "X60n1122_001:0446c22_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "裰(丁括切音掇補裰破衣也)。",
+        "from": "X60n1122_001:0446c23_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摺(質涉切摺疊也)。",
+        "from": "X60n1122_001:0446c23_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "絛(音韜纓飾也)。",
+        "from": "X60n1122_001:0446c23_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "襯(初親切音襯近身衣也)。",
+        "from": "X60n1122_001:0446c23_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倮(魯果切赤體也)。",
+        "from": "X60n1122_001:0446c24_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "襪(勿發切音韈足衣也)。",
+        "from": "X60n1122_001:0446c24_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "糚(音莊粉飾也)。",
+        "from": "X60n1122_001:0446c24_33",
         "context_with_next_sentence": false
     }
 ]

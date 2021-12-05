@@ -2835,7 +2835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "薩婆突澀比[(口*禾*刀)/牛]訖瑟帝弊泮。",
+        "source_sentence": "薩婆突澀比&#;訖瑟帝弊泮。",
         "from": "X14n0288_007:0171a03_44",
         "context_with_next_sentence": true
     },
@@ -2845,7 +2845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "薩婆阿播悉摩[(口*禾*刀)/牛]弊泮。",
+        "source_sentence": "薩婆阿播悉摩&#;弊泮。",
         "from": "X14n0288_007:0171a04_0",
         "context_with_next_sentence": true
     },
@@ -2865,7 +2865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "薩婆毗陀耶囉誓遮[(口*禾*刀)/牛]弊泮。",
+        "source_sentence": "薩婆毗陀耶囉誓遮&#;弊泮。",
         "from": "X14n0288_007:0171a05_4",
         "context_with_next_sentence": true
     },
@@ -2880,7 +2880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "毗地夜遮[(口*禾*刀)/牛]弊泮。",
+        "source_sentence": "毗地夜遮&#;弊泮。",
         "from": "X14n0288_007:0171a06_7",
         "context_with_next_sentence": true
     },
@@ -3100,7 +3100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "閉[口*(隸木+上)]多揭囉訶。",
+        "source_sentence": "閉[口*(隸-木+上)]多揭囉訶。",
         "from": "X14n0288_007:0171a14_17",
         "context_with_next_sentence": true
     },
@@ -5180,7 +5180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "便為妄語(何等激勸何等[怡台+豊]切)。",
+        "source_sentence": "便為妄語(何等激勸何等[怡-台+豊]切)。",
         "from": "X14n0288_007:0176a07_22",
         "context_with_next_sentence": true
     },
@@ -8225,7 +8225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "詛(莊[烈列+助]切)。",
+        "source_sentence": "詛(莊[烈-列+助]切)。",
         "from": "X14n0288_007:0187a15_4",
         "context_with_next_sentence": true
     },
@@ -8282,6 +8282,31 @@
     {
         "source_sentence": "蝡(乳尹切)。",
         "from": "X14n0288_007:0187a16_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蛻(音稅)。",
+        "from": "X14n0288_007:0187a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "槁(音考)。",
+        "from": "X14n0288_007:0187a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鰕(虛加切)。",
+        "from": "X14n0288_007:0187a17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梟(音澆)。",
+        "from": "X14n0288_007:0187a17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "塊(音快)。",
+        "from": "X14n0288_007:0187a17_4",
         "context_with_next_sentence": false
     }
 ]

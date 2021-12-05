@@ -2775,7 +2775,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "秖如諸方說六度萬行以為佛法，我道是莊嚴門、佛事門，非是佛法，乃至持齋、持戒，擎油不[泳永+閃]，道眼不明，盡須抵債，索飯錢有日在。",
+        "source_sentence": "秖如諸方說六度萬行以為佛法，我道是莊嚴門、佛事門，非是佛法，乃至持齋、持戒，擎油不[泳-永+閃]，道眼不明，盡須抵債，索飯錢有日在。",
         "from": "T47n1985_001:0502a16_4",
         "context_with_next_sentence": true
     },
@@ -5302,6 +5302,16 @@
     {
         "source_sentence": "鎮州臨濟慧照禪師語錄終",
         "from": "T47n1985_001:0506c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住大名府興化嗣法小師存獎校勘",
+        "from": "T47n1985_001:0506c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永享九年八月十五日板在法性寺東經所",
+        "from": "T47n1985_001:0506c28_0",
         "context_with_next_sentence": false
     }
 ]

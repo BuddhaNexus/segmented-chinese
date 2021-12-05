@@ -5805,7 +5805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "心精通[泳永+曶]。",
+        "source_sentence": "心精通[泳-永+曶]。",
         "from": "X16n0318_009:0925b11_7",
         "context_with_next_sentence": true
     },
@@ -11955,7 +11955,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "心愛綿[泳永+曶]。",
+        "source_sentence": "心愛綿[泳-永+曶]。",
         "from": "X16n0318_009:0929c17_54",
         "context_with_next_sentence": true
     },
@@ -14800,7 +14800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "心愛綿[泳永+曶]。",
+        "source_sentence": "心愛綿[泳-永+曶]。",
         "from": "X16n0318_009:0931c21_9",
         "context_with_next_sentence": true
     },
@@ -15857,6 +15857,11 @@
     {
         "source_sentence": "故能具仰山擇法眼。",
         "from": "X16n0318_009:0932c14_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則無虞魔事矣。",
+        "from": "X16n0318_009:0932c15_0",
         "context_with_next_sentence": false
     }
 ]

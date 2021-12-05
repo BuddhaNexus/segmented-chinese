@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 重編曹洞五位序",
+        "source_sentence": "重編曹洞五位序",
         "from": "X63n1236_001:0196a03_0",
         "context_with_next_sentence": true
     },
@@ -310,7 +310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[怡台+(糒米)]其不甚詳過。",
+        "source_sentence": "[怡-台+(糒-米)]其不甚詳過。",
         "from": "X63n1236_001:0196b06_23",
         "context_with_next_sentence": true
     },
@@ -415,7 +415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一洗障[蒺矢+生]之茂。",
+        "source_sentence": "一洗障[蒺-矢+生]之茂。",
         "from": "X63n1236_001:0196b13_44",
         "context_with_next_sentence": true
     },
@@ -505,8 +505,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 洞山五位顯訣并先曹山揀出語要序門人後曹山了悟大師　慧霞　述西祖持來花。",
+        "source_sentence": "洞山五位顯訣并先曹山揀出語要序",
         "from": "X63n1236_001:0196c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "門人後曹山了悟大師　慧霞　述",
+        "from": "X63n1236_001:0196c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西祖持來花。",
+        "from": "X63n1236_001:0196c09_0",
         "context_with_next_sentence": true
     },
     {
@@ -695,7 +705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 重集洞山偏正五位曹山揀語(并)序門人　廣輝　述敘曰。",
+        "source_sentence": "重集洞山偏正五位曹山揀語(并)序門人　廣輝　述敘曰。",
         "from": "X63n1236_001:0197a03_0",
         "context_with_next_sentence": true
     },
@@ -2405,7 +2415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又看上[病丙+生]來禮拜洞山。",
+        "source_sentence": "又看上[病-丙+生]來禮拜洞山。",
         "from": "X63n1236_001:0199a09_11",
         "context_with_next_sentence": true
     },
@@ -2415,7 +2425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[病丙+生]云不為和尚來。",
+        "source_sentence": "[病-丙+生]云不為和尚來。",
         "from": "X63n1236_001:0199a10_13",
         "context_with_next_sentence": true
     },

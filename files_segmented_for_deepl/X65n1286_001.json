@@ -2965,7 +2965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更[跳兆+孛]跳在。",
+        "source_sentence": "更[跳-兆+孛]跳在。",
         "from": "X65n1286_001:0377c01_37",
         "context_with_next_sentence": true
     },
@@ -6510,7 +6510,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "臨安府中天竺[仁二+(ㄠ*刀)]堂中仁禪師。",
+        "source_sentence": "臨安府中天竺[仁-二+(ㄠ*刀)]堂中仁禪師。",
         "from": "X65n1286_001:0380a24_0",
         "context_with_next_sentence": true
     },
@@ -6615,7 +6615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[仁二+幼]堂往來譯經所。",
+        "source_sentence": "[仁-二+幼]堂往來譯經所。",
         "from": "X65n1286_001:0380b05_1",
         "context_with_next_sentence": true
     },
@@ -6860,7 +6860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "慧[打丁+於]之曰。",
+        "source_sentence": "慧[打-丁+於]之曰。",
         "from": "X65n1286_001:0380b19_19",
         "context_with_next_sentence": true
     },

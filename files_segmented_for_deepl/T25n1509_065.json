@@ -235,7 +235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又如[病丙+寧]人雖得利器，不能御難，非器之過。",
+        "source_sentence": "又如[病-丙+寧]人雖得利器，不能御難，非器之過。",
         "from": "T25n1509_065:0515c22_19",
         "context_with_next_sentence": true
     },

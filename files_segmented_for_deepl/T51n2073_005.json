@@ -630,7 +630,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皆誠自[跳兆+丞]踏。",
+        "source_sentence": "皆誠自[跳-兆+丞]踏。",
         "from": "T51n2073_005:0171a24_17",
         "context_with_next_sentence": true
     },
@@ -2697,6 +2697,271 @@
     {
         "source_sentence": "華嚴經傳記卷第五",
         "from": "T51n2073_005:0172c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文永十二年(乙亥)正月中旬之候。",
+        "from": "T51n2073_005:0173a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聽聞五教章三十講。",
+        "from": "T51n2073_005:0173a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "暫經迴栂尾高山寺之處。",
+        "from": "T51n2073_005:0173a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自彼寺住侶惠日房辨清之手。",
+        "from": "T51n2073_005:0173a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "借得華嚴傳五卷。",
+        "from": "T51n2073_005:0173a03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "點本之間。",
+        "from": "T51n2073_005:0173a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喜悅銘肝之餘。",
+        "from": "T51n2073_005:0173a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下向南都之後。",
+        "from": "T51n2073_005:0173a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誂能書之輩令書寫。",
+        "from": "T51n2073_005:0173a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此傳之內。",
+        "from": "T51n2073_005:0173a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當卷者。",
+        "from": "T51n2073_005:0173a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "表誂當寺下野公膽惠令書寫之。",
+        "from": "T51n2073_005:0173a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假名并姓。",
+        "from": "T51n2073_005:0173a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誂同伴與伴與公慶性令付之。",
+        "from": "T51n2073_005:0173a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "裏書者。",
+        "from": "T51n2073_005:0173a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同年四月晦日(申時)於東大寺尊勝院新學問所手自書寫之畢。",
+        "from": "T51n2073_005:0173a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已及八旬之齡。",
+        "from": "T51n2073_005:0173a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖倦三餘之勤。",
+        "from": "T51n2073_005:0173a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為備生前之思出。",
+        "from": "T51n2073_005:0173a10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愍勵老後之修學。",
+        "from": "T51n2073_005:0173a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後學披見之時。",
+        "from": "T51n2073_005:0173a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可哀其志矣。",
+        "from": "T51n2073_005:0173a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此假名姓裏書者。",
+        "from": "T51n2073_005:0173a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "土御門大納言入道(顯定卿)三所記錄也。",
+        "from": "T51n2073_005:0173a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即以彼禪門自筆之點本寫之。",
+        "from": "T51n2073_005:0173a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可為無雙之證本也。",
+        "from": "T51n2073_005:0173a13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "建治元年(乙亥)六月五日(午時)於當院家新彌勒堂。",
+        "from": "T51n2073_005:0173a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "合寫本等奉讀之畢。",
+        "from": "T51n2073_005:0173a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願以此五卷披讀之微功。",
+        "from": "T51n2073_005:0173a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必為彼三會得脫之良因耳。",
+        "from": "T51n2073_005:0173a17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前權僧正宗性。",
+        "from": "T51n2073_005:0173a17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聽眾。",
+        "from": "T51n2073_005:0173a18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "良曉得業。",
+        "from": "T51n2073_005:0173a18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慶實法師。",
+        "from": "T51n2073_005:0173a18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "談義之後。",
+        "from": "T51n2073_005:0173a18_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即於當院家新學問所。",
+        "from": "T51n2073_005:0173a19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為散後日之不審。",
+        "from": "T51n2073_005:0173a19_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "委記當時之次第而已。",
+        "from": "T51n2073_005:0173a20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右筆。",
+        "from": "T51n2073_005:0173a20_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "華嚴宗末葉沙門釋宗性。",
+        "from": "T51n2073_005:0173a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "年齡七十四。",
+        "from": "T51n2073_005:0173a21_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夏[萉-巴+(日/(句-口+匕))]六十二。",
+        "from": "T51n2073_005:0173a21_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "抑此料紙者。",
+        "from": "T51n2073_005:0173a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "去文永三年之曆暮秋九月之候。",
+        "from": "T51n2073_005:0173a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後嵯峨天皇所降賜也。",
+        "from": "T51n2073_005:0173a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不慮之朝恩。",
+        "from": "T51n2073_005:0173a24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "面目頓餘身之間。",
+        "from": "T51n2073_005:0173a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "漸漸取出之。",
+        "from": "T51n2073_005:0173a25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以寫如此要書。",
+        "from": "T51n2073_005:0173a25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以資前院之後菩提。",
+        "from": "T51n2073_005:0173a26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以祈法皇之御得脫。",
+        "from": "T51n2073_005:0173a26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "冥眾必垂哀愍。",
+        "from": "T51n2073_005:0173a27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所願畢得成就矣。",
+        "from": "T51n2073_005:0173a27_6",
         "context_with_next_sentence": false
     }
 ]

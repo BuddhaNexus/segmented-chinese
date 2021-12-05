@@ -210,8 +210,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "日本貞觀七年十一月十二日却來左京東寺重",
+        "source_sentence": "日本貞觀七年十一月十二日却來左京東寺重勘定。",
         "from": "T55n2174A_001:1111c04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入唐請益僧大法師位(為後記之)。",
+        "from": "T55n2174A_001:1111c06_5",
         "context_with_next_sentence": false
     }
 ]

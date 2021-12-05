@@ -530,7 +530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "騫特自念言：『今當足[跳兆+答]地，感動中外人。』",
+        "source_sentence": "騫特自念言：『今當足[跳-兆+答]地，感動中外人。』",
         "from": "T03n0184_002:0468a02_1",
         "context_with_next_sentence": true
     },
@@ -1050,7 +1050,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "梵志答言：『當取五百牛乳，展轉相飲至于一牛，[愨心+牛]一牛湩持用作糜，乳糜涌沸，出高七仞，左上右下，右上左下，斟糜入鉢，釜杓不污。』",
+        "source_sentence": "梵志答言：『當取五百牛乳，展轉相飲至于一牛，[愨-心+牛]一牛湩持用作糜，乳糜涌沸，出高七仞，左上右下，右上左下，斟糜入鉢，釜杓不污。』",
         "from": "T03n0184_002:0469c28_1",
         "context_with_next_sentence": true
     },

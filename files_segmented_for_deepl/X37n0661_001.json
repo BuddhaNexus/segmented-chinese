@@ -2805,7 +2805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "金體不□□□□□□□□□□云出[泳永+閻]浮金處。",
+        "source_sentence": "金體不□□□□□□□□□□云出[泳-永+閻]浮金處。",
         "from": "X37n0661_001:0138b04_1",
         "context_with_next_sentence": true
     },
@@ -8635,7 +8635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "媱(五[榣木]反。",
+        "source_sentence": "媱(五[榣-木]反。",
         "from": "X37n0661_001:0144b11_0",
         "context_with_next_sentence": true
     },
@@ -17865,7 +17865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "水漂([卓*ㄆ]妙反)。",
+        "source_sentence": "水漂(㪕妙反)。",
         "from": "X37n0661_001:0154a13_0",
         "context_with_next_sentence": true
     },
@@ -19707,6 +19707,11 @@
     {
         "source_sentence": "涅槃疏私記卷第一",
         "from": "X37n0661_001:0156a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "承保四年四月二十八日以華林房本書寫已了以同五月七日一校了",
+        "from": "X37n0661_001:0156a19_0",
         "context_with_next_sentence": false
     }
 ]

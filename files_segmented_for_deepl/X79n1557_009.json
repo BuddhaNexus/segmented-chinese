@@ -745,7 +745,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師[栽木+土]松次。",
+        "source_sentence": "師[栽-木+土]松次。",
         "from": "X79n1557_009:0081b14_0",
         "context_with_next_sentence": true
     },
@@ -760,7 +760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[栽木+土]許多作甚麼。",
+        "source_sentence": "[栽-木+土]許多作甚麼。",
         "from": "X79n1557_009:0081b14_3",
         "context_with_next_sentence": true
     },
@@ -7840,7 +7840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "儞擬傍[冗几+豕]波波地。",
+        "source_sentence": "儞擬傍[冗-几+豕]波波地。",
         "from": "X79n1557_009:0086a24_29",
         "context_with_next_sentence": true
     },
@@ -10880,7 +10880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "擎油不[泳永+閃]。",
+        "source_sentence": "擎油不[泳-永+閃]。",
         "from": "X79n1557_009:0088a21_8",
         "context_with_next_sentence": true
     },
@@ -13617,6 +13617,211 @@
     {
         "source_sentence": "聯燈會要卷第九",
         "from": "X79n1557_009:0090a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "溈山問仰山。",
+        "from": "X79n1557_009:0090a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黃檗只囑臨濟一人。",
+        "from": "X79n1557_009:0090a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "別更有在。",
+        "from": "X79n1557_009:0090a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仰山云有。",
+        "from": "X79n1557_009:0090a11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "只是年代深遠。",
+        "from": "X79n1557_009:0090a12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不欲舉似和尚。",
+        "from": "X79n1557_009:0090a12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "溈山云。",
+        "from": "X79n1557_009:0090a12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但舉看。",
+        "from": "X79n1557_009:0090a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾亦要知。",
+        "from": "X79n1557_009:0090a13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仰山云。",
+        "from": "X79n1557_009:0090a13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一人指南。",
+        "from": "X79n1557_009:0090a13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吳越令行。",
+        "from": "X79n1557_009:0090a13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遇大風而止。",
+        "from": "X79n1557_009:0090a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "叢林皆以風穴沼禪師。",
+        "from": "X79n1557_009:0090a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當是記。",
+        "from": "X79n1557_009:0090a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或者曰。",
+        "from": "X79n1557_009:0090a14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "考其年代。",
+        "from": "X79n1557_009:0090a15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "風穴夜襄州華嚴。",
+        "from": "X79n1557_009:0090a15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作維那時。",
+        "from": "X79n1557_009:0090a15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "興廓侍者同夏。",
+        "from": "X79n1557_009:0090a15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即朋輩也。",
+        "from": "X79n1557_009:0090a16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廓尚及見德山。",
+        "from": "X79n1557_009:0090a16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沼雖不見臨濟。",
+        "from": "X79n1557_009:0090a16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已致身叢林久矣。",
+        "from": "X79n1557_009:0090a17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安得年代深遠乎。",
+        "from": "X79n1557_009:0090a17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又云。",
+        "from": "X79n1557_009:0090a17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吳越令行。",
+        "from": "X79n1557_009:0090a18_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遇大風而止。",
+        "from": "X79n1557_009:0090a18_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆無所謂。",
+        "from": "X79n1557_009:0090a18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此記盖預讖妙喜也。",
+        "from": "X79n1557_009:0090a18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙喜為臨濟十二世孫。",
+        "from": "X79n1557_009:0090a19_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可謂年代深遠。",
+        "from": "X79n1557_009:0090a19_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先住吳之徑山。",
+        "from": "X79n1557_009:0090a20_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後住越之阿育王。",
+        "from": "X79n1557_009:0090a20_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可謂吳越令行也。",
+        "from": "X79n1557_009:0090a20_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然賢聖讖記。",
+        "from": "X79n1557_009:0090a21_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故不可得而知。",
+        "from": "X79n1557_009:0090a21_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宗門既無利害。",
+        "from": "X79n1557_009:0090a21_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞諸羣議。",
+        "from": "X79n1557_009:0090a22_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謾筆卷末。",
+        "from": "X79n1557_009:0090a22_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者審其疑似焉。",
+        "from": "X79n1557_009:0090a22_28",
         "context_with_next_sentence": false
     }
 ]

@@ -2200,7 +2200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為[愍民+幸]屋將所執。",
+        "source_sentence": "為[愍-民+幸]屋將所執。",
         "from": "X76n1517_008:0208b03_59",
         "context_with_next_sentence": true
     },
@@ -2950,7 +2950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "上受三洞法[竺二+祿]於衡山道士劉玄靜(通鑑)。",
+        "source_sentence": "上受三洞法簶於衡山道士劉玄靜(通鑑)。",
         "from": "X76n1517_008:0209a05_9",
         "context_with_next_sentence": true
     },
@@ -2990,7 +2990,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不免受道家之[竺二+祿]。",
+        "source_sentence": "不免受道家之簶。",
         "from": "X76n1517_008:0209a08_7",
         "context_with_next_sentence": true
     },
@@ -8935,7 +8935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "忽遇拏雲攫霧來時如何。",
+        "source_sentence": "忽遇拏雲㸕霧來時如何。",
         "from": "X76n1517_008:0213c16_13",
         "context_with_next_sentence": true
     },
@@ -12090,7 +12090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "擁[袖由+毳]對芳叢。",
+        "source_sentence": "擁[袖-由+毳]對芳叢。",
         "from": "X76n1517_008:0216a21_9",
         "context_with_next_sentence": true
     },
@@ -13982,6 +13982,166 @@
     {
         "source_sentence": "歷朝釋氏資鑑卷第八",
         "from": "X76n1517_008:0217c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大唐而由五季。",
+        "from": "X76n1517_008:0217c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "烈聖良輔。",
+        "from": "X76n1517_008:0217c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時英廣運檀心。",
+        "from": "X76n1517_008:0217c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聿脩淨業。",
+        "from": "X76n1517_008:0217c23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貝業之文。",
+        "from": "X76n1517_008:0217c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宣釋備圓。",
+        "from": "X76n1517_008:0217c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而結成大藏。",
+        "from": "X76n1517_008:0217c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "拈花之旨。",
+        "from": "X76n1517_008:0217c24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "單傳密付。",
+        "from": "X76n1517_008:0217c24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而建立五宗。",
+        "from": "X76n1517_008:0218a01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "棋布講筵。",
+        "from": "X76n1517_008:0218a01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "星羅禪席。",
+        "from": "X76n1517_008:0218a01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈期會昌之變。",
+        "from": "X76n1517_008:0218a01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遽有魏宋之舉。",
+        "from": "X76n1517_008:0218a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "恃賴春回梵苑。",
+        "from": "X76n1517_008:0218a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殿靄名香。",
+        "from": "X76n1517_008:0218a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "象教鬱興。",
+        "from": "X76n1517_008:0218a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖儀編跱。",
+        "from": "X76n1517_008:0218a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瀚海天山之地。",
+        "from": "X76n1517_008:0218a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盡入提封。",
+        "from": "X76n1517_008:0218a03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍庭鳳穴之鄉。",
+        "from": "X76n1517_008:0218a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "咸霑聲教。",
+        "from": "X76n1517_008:0218a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "公卿梵侶。",
+        "from": "X76n1517_008:0218a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衛教扶宗者。",
+        "from": "X76n1517_008:0218a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆奈苑之龍麟。",
+        "from": "X76n1517_008:0218a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "並祇園之梓[木*巳]。",
+        "from": "X76n1517_008:0218a04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謬隨笔而紀之。",
+        "from": "X76n1517_008:0218a05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈管窺而盡哉。",
+        "from": "X76n1517_008:0218a05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必有英毅挺枝。",
+        "from": "X76n1517_008:0218a05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "風格超倫之士。",
+        "from": "X76n1517_008:0218a06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣而述之。",
+        "from": "X76n1517_008:0218a06_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以明後代云。",
+        "from": "X76n1517_008:0218a06_10",
         "context_with_next_sentence": false
     }
 ]

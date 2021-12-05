@@ -1585,7 +1585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "昨日[栽木+土]茄子。",
+        "source_sentence": "昨日[栽-木+土]茄子。",
         "from": "X69n1358_001:0500b03_11",
         "context_with_next_sentence": true
     },
@@ -2255,7 +2255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爭如我[栽木+土]田博飯喫。",
+        "source_sentence": "爭如我[栽-木+土]田博飯喫。",
         "from": "X69n1358_001:0500c15_1",
         "context_with_next_sentence": true
     },
@@ -7435,7 +7435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "和尚驗看。",
+        "source_sentence": "和尚騐看。",
         "from": "X69n1358_001:0504c12_12",
         "context_with_next_sentence": true
     },
@@ -8050,7 +8050,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於今[宋木+取]盛。",
+        "source_sentence": "於今[宋-木+取]盛。",
         "from": "X69n1358_001:0505a18_46",
         "context_with_next_sentence": true
     },

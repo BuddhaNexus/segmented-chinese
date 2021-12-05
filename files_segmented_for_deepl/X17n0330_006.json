@@ -6395,7 +6395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三乘學道人皆是此[打丁+羕]。",
+        "source_sentence": "三乘學道人皆是此[打-丁+羕]。",
         "from": "X17n0330_006:0747a23_8",
         "context_with_next_sentence": true
     },
@@ -9665,8 +9665,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "楞伽阿跋",
+        "source_sentence": "楞伽阿跋多羅寶經宗通卷六",
         "from": "X17n0330_006:0753a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "提婆菩薩釋楞伽經中外道小乘涅槃論(藏中錄出備覽)。",
+        "from": "X17n0330_006:0753a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卍云原本錄出全文今讓藏中茲省略焉。",
+        "from": "X17n0330_006:0753a08_0",
         "context_with_next_sentence": false
     }
 ]

@@ -650,7 +650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是時導師即以[矛*(替曰+貝)]牟刺殺惡人，令諸賈人安隱得還至閻浮提。",
+        "source_sentence": "是時導師即以[矛*(替-曰+貝)]牟刺殺惡人，令諸賈人安隱得還至閻浮提。",
         "from": "T11n0310_108:0604c26_31",
         "context_with_next_sentence": true
     },
@@ -840,7 +840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛告阿難：『我過去世入大海中，持[矛*(替曰+貝)]刺人斷其命根。",
+        "source_sentence": "佛告阿難：『我過去世入大海中，持[矛*(替-曰+貝)]刺人斷其命根。",
         "from": "T11n0310_108:0605b03_15",
         "context_with_next_sentence": true
     },

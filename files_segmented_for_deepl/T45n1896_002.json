@@ -920,7 +920,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二明稽首者古文為[(巢果+百)*旨]。",
+        "source_sentence": "二明稽首者古文為[(巢-果+百)*旨]。",
         "from": "T45n1896_002:0863a05_1",
         "context_with_next_sentence": true
     },
@@ -6402,6 +6402,41 @@
     {
         "source_sentence": "釋門歸敬儀(下卷)",
         "from": "T45n1896_002:0868c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸敬儀者統真俗之宗。",
+        "from": "T45n1896_002:0868c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸究事理之極致。",
+        "from": "T45n1896_002:0868c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文簡義豐。",
+        "from": "T45n1896_002:0868c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是以廣勸五眾開印板。",
+        "from": "T45n1896_002:0868c25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠期三會貽利益而已時也。",
+        "from": "T45n1896_002:0868c25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日本永仁三年乙未閏二月　日。",
+        "from": "T45n1896_002:0868c26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寓東山泉涌小比丘觀昭謹題",
+        "from": "T45n1896_002:0868c28_0",
         "context_with_next_sentence": false
     }
 ]

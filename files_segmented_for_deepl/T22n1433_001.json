@@ -1,10 +1,5 @@
 [
     {
-        "source_sentence": "  [  ;   ]",
-        "from": "T22n1433_001:1051b22_0",
-        "context_with_next_sentence": true
-    },
-    {
         "source_sentence": "羯磨一卷(出曇無德律)",
         "from": "T22n1433_001:1051b23_0",
         "context_with_next_sentence": true
@@ -1165,7 +1160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "丈夫有如是病：癩、癰疽、白癩、[病丙+干]痟、顛狂病。",
+        "source_sentence": "丈夫有如是病：癩、癰疽、白癩、[病-丙+干]痟、顛狂病。",
         "from": "T22n1433_001:1053b15_3",
         "context_with_next_sentence": true
     },
@@ -1390,7 +1385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "丈夫有如是病：癩、癰疽、白癩、[病丙+干]痟、癲狂。",
+        "source_sentence": "丈夫有如是病：癩、癰疽、白癩、[病-丙+干]痟、癲狂。",
         "from": "T22n1433_001:1053c08_31",
         "context_with_next_sentence": true
     },
@@ -3755,7 +3750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "所有衣鉢、坐具、針筒、盛衣[袖由+著]器，現前僧應分。",
+        "source_sentence": "所有衣鉢、坐具、針筒、盛衣[袖-由+著]器，現前僧應分。",
         "from": "T22n1433_001:1058c05_22",
         "context_with_next_sentence": true
     },
@@ -3780,17 +3775,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "所有衣鉢、坐具、針筒、盛衣[袖由+著]器，現前僧應分；僧今與比丘某甲看病人。",
+        "source_sentence": "所有衣鉢、坐具、針筒、盛衣[袖-由+著]器，現前僧應分；僧今與比丘某甲看病人。",
         "from": "T22n1433_001:1058c09_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "誰諸長老忍僧與比丘某甲看病人衣鉢、坐具、針筒、盛衣[袖由+著]器者默然，誰不忍者說。」",
+        "source_sentence": "誰諸長老忍僧與比丘某甲看病人衣鉢、坐具、針筒、盛衣[袖-由+著]器者默然，誰不忍者說。」",
         "from": "T22n1433_001:1058c11_3",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "僧已忍與比丘某甲看病人衣鉢、坐具、針筒、盛衣[袖由+著]器竟。",
+        "source_sentence": "僧已忍與比丘某甲看病人衣鉢、坐具、針筒、盛衣[袖-由+著]器竟。",
         "from": "T22n1433_001:1058c13_4",
         "context_with_next_sentence": true
     },
@@ -5130,7 +5125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "女人有如是諸病：癩、白癩、[病丙+干]痟、顛狂、二根、二道合、道小、大小便常漏、涕唾常出。",
+        "source_sentence": "女人有如是諸病：癩、白癩、[病-丙+干]痟、顛狂、二根、二道合、道小、大小便常漏、涕唾常出。",
         "from": "T22n1433_001:1061a27_7",
         "context_with_next_sentence": true
     },
@@ -5335,7 +5330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "女人有如是諸病：癩、白癩、[病丙+干]痟、顛狂、二根、二道合、道小、大小便常漏、涕唾常出。",
+        "source_sentence": "女人有如是諸病：癩、白癩、[病-丙+干]痟、顛狂、二根、二道合、道小、大小便常漏、涕唾常出。",
         "from": "T22n1433_001:1061b20_17",
         "context_with_next_sentence": true
     },
@@ -5590,7 +5585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "女人有如是諸病：癩病、白癩、[病丙+干]痟、顛狂、二根、二道合、道小、大小便常漏、涕唾常出。",
+        "source_sentence": "女人有如是諸病：癩病、白癩、[病-丙+干]痟、顛狂、二根、二道合、道小、大小便常漏、涕唾常出。",
         "from": "T22n1433_001:1061c23_11",
         "context_with_next_sentence": true
     },

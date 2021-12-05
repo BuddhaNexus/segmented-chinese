@@ -7770,7 +7770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "身體[夢夕+登]瞢。",
+        "source_sentence": "身體[夢-夕+登]瞢。",
         "from": "X44n0744_003:0428c08_5",
         "context_with_next_sentence": true
     },
@@ -9392,6 +9392,156 @@
     {
         "source_sentence": "四分律名義標釋卷第三",
         "from": "X44n0744_003:0430a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_003:0430a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "葺音緝。",
+        "from": "X44n0744_003:0430a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修補也。",
+        "from": "X44n0744_003:0430a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "詎渠上聲。",
+        "from": "X44n0744_003:0430a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈也。",
+        "from": "X44n0744_003:0430a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "魅同魅。",
+        "from": "X44n0744_003:0430a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[夢-夕+登]瞢上音凳。",
+        "from": "X44n0744_003:0430a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音蒙。",
+        "from": "X44n0744_003:0430a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "臠音攣。",
+        "from": "X44n0744_003:0430a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "肉臠也。",
+        "from": "X44n0744_003:0430a15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鵄音鴟。",
+        "from": "X44n0744_003:0430a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　四分律名義標釋卷第四目錄",
+        "from": "X44n0744_003:0430a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨戒和尚阿闍黎",
+        "from": "X44n0744_003:0430a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "波羅夷偷蘭遮突吉羅",
+        "from": "X44n0744_003:0430a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘尼式叉摩那羯磨",
+        "from": "X44n0744_003:0430a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二形黃門君持",
+        "from": "X44n0744_003:0430a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌沙彌尼羅閱城",
+        "from": "X44n0744_003:0430b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "耆闍崛山檀尼迦陶師",
+        "from": "X44n0744_003:0430b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摩竭國瓶沙王",
+        "from": "X44n0744_003:0430b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剎利帝王水澆頭種頭陀",
+        "from": "X44n0744_003:0430b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迦樓五錢生像",
+        "from": "X44n0744_003:0430b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吹毳劫貝拘遮羅",
+        "from": "X44n0744_003:0430b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "差羅波尼芻摩鉢耽嵐婆",
+        "from": "X44n0744_003:0430b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頭頭羅鸚鵡鸜鵒",
+        "from": "X44n0744_003:0430b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "杙上市肆阿蘭若",
+        "from": "X44n0744_003:0430b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壺船一木船舫船",
+        "from": "X44n0744_003:0430b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "櫓船浮瓠船懸船",
+        "from": "X44n0744_003:0430b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "筏船水獺失收摩羅",
+        "from": "X44n0744_003:0430b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "優鉢羅華鉢頭摩華拘物頭華",
+        "from": "X44n0744_003:0430b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分陀利華蜂鬱周隆伽",
+        "from": "X44n0744_003:0430b14_0",
         "context_with_next_sentence": false
     }
 ]

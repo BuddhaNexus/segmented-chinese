@@ -160,7 +160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "急則以[葸十+夕]塞鼻通氣。",
+        "source_sentence": "急則以[葸-十+夕]塞鼻通氣。",
         "from": "X77n1522_012:0168c13_8",
         "context_with_next_sentence": true
     },
@@ -6495,7 +6495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "抵掌解頤。",
+        "source_sentence": "抵掌解頥。",
         "from": "X77n1522_012:0173b24_7",
         "context_with_next_sentence": true
     },
@@ -9095,7 +9095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]不重歟。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]不重歟。",
         "from": "X77n1522_012:0175b11_34",
         "context_with_next_sentence": true
     },

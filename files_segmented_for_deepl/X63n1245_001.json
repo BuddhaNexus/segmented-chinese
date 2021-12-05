@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 禪苑清規序",
+        "source_sentence": "禪苑清規序",
         "from": "X63n1245_001:0522a06_0",
         "context_with_next_sentence": true
     },
@@ -1900,7 +1900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不論尊[(白日+田)/廾]。",
+        "source_sentence": "不論尊[(白-日+田)/廾]。",
         "from": "X63n1245_001:0524b17_42",
         "context_with_next_sentence": true
     },
@@ -4930,8 +4930,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "重雕補註禪苑清規",
+        "source_sentence": "重雕補註禪苑清規第一卷",
         "from": "X63n1245_001:0527a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "武夷虞知府宅書局刊行",
+        "from": "X63n1245_001:0527a12_0",
         "context_with_next_sentence": false
     }
 ]

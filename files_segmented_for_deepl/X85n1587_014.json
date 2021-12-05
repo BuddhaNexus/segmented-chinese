@@ -505,7 +505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "已[拚ㄙ+ㄊ]著活埋。",
+        "source_sentence": "已[拚-ㄙ+ㄊ]著活埋。",
         "from": "X85n1587_014:0083b12_0",
         "context_with_next_sentence": true
     },
@@ -895,7 +895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "麥麵粥[米*差]子飯。",
+        "source_sentence": "麥麫粥[米*差]子飯。",
         "from": "X85n1587_014:0083c12_13",
         "context_with_next_sentence": true
     },
@@ -2345,7 +2345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "麥裏何曾不是麵。",
+        "source_sentence": "麥裏何曾不是麫。",
         "from": "X85n1587_014:0085a02_45",
         "context_with_next_sentence": true
     },
@@ -2475,7 +2475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "麥裏有麵。",
+        "source_sentence": "麥裏有麫。",
         "from": "X85n1587_014:0085a11_5",
         "context_with_next_sentence": true
     },
@@ -2850,7 +2850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳不出。",
+        "source_sentence": "[跳-兆+孛]跳不出。",
         "from": "X85n1587_014:0085b11_8",
         "context_with_next_sentence": true
     },
@@ -3560,7 +3560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "笤帚柄聊與三十。",
+        "source_sentence": "笤箒柄聊與三十。",
         "from": "X85n1587_014:0086a02_15",
         "context_with_next_sentence": true
     },
@@ -4275,7 +4275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "達磨擉瞎你眼睛文殊拔却你舌頭。",
+        "source_sentence": "達磨擉瞎你眼睛文殊㧞却你舌頭。",
         "from": "X85n1587_014:0086b20_15",
         "context_with_next_sentence": true
     },
@@ -6930,7 +6930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "要伊箇箇翻身[跳兆+孛]跳。",
+        "source_sentence": "要伊箇箇翻身[跳-兆+孛]跳。",
         "from": "X85n1587_014:0088c14_8",
         "context_with_next_sentence": true
     },
@@ -8780,8 +8780,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "木",
+        "source_sentence": "木人[口*后]處鐵牛驚。",
         "from": "X85n1587_014:0090b05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "岫上座。",
+        "from": "X85n1587_014:0090b06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "著與麼語。",
+        "from": "X85n1587_014:0090b06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一任諸方檢點。",
+        "from": "X85n1587_014:0090b06_12",
         "context_with_next_sentence": false
     }
 ]

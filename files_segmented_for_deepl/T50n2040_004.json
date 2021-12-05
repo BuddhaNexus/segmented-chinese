@@ -2985,7 +2985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "膚體[病丙+習][病丙+習]。",
+        "source_sentence": "膚體[病-丙+習][病-丙+習]。",
         "from": "T50n2040_004:0071b01_1",
         "context_with_next_sentence": true
     },
@@ -3345,7 +3345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "斫刺[利禾+皮]剝。",
+        "source_sentence": "斫刺[利-禾+皮]剝。",
         "from": "T50n2040_004:0071c02_15",
         "context_with_next_sentence": true
     },
@@ -5000,7 +5000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+親]身臥上脚脚相累。",
+        "source_sentence": "[打-丁+親]身臥上脚脚相累。",
         "from": "T50n2040_004:0073b03_8",
         "context_with_next_sentence": true
     },

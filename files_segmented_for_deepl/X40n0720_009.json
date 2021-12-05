@@ -1225,12 +1225,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "卑姓者拘湊(此是天竺[(白日+田)/廾]小之姓也)。",
+        "source_sentence": "卑姓者拘湊(此是天竺[(白-日+田)/廾]小之姓也)。",
         "from": "X40n0720_009:0554c23_4",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拘尸婆蘇晝(此是天竺[(白日+田)/廾]小種族)。",
+        "source_sentence": "拘尸婆蘇晝(此是天竺[(白-日+田)/廾]小種族)。",
         "from": "X40n0720_009:0554c24_5",
         "context_with_next_sentence": true
     },
@@ -1295,7 +1295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "元居[(白日+田)/廾]末也)若非卑姓。",
+        "source_sentence": "元居[(白-日+田)/廾]末也)若非卑姓。",
         "from": "X40n0720_009:0555a03_18",
         "context_with_next_sentence": true
     },
@@ -2755,7 +2755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "阿泥[打丁+聿]陀。",
+        "source_sentence": "阿泥[打-丁+聿]陀。",
         "from": "X40n0720_009:0556a20_22",
         "context_with_next_sentence": true
     },
@@ -9300,7 +9300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "子還生子者是(即如稻麥麻豆粟等子。",
+        "source_sentence": "子還生子者是(即如稻麥蔴豆粟等子。",
         "from": "X40n0720_009:0561b17_51",
         "context_with_next_sentence": true
     },

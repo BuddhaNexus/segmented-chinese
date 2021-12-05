@@ -5810,7 +5810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[這言+至]既判已。",
+        "source_sentence": "[這-言+至]既判已。",
         "from": "X19n0351_001:0866b20_45",
         "context_with_next_sentence": true
     },
@@ -12475,7 +12475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[妳女+口]將行相。",
+        "source_sentence": "[妳-女+口]將行相。",
         "from": "X19n0351_001:0871a14_8",
         "context_with_next_sentence": true
     },
@@ -13615,7 +13615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "名前折伏以為救拔耳。",
+        "source_sentence": "名前折伏以為救㧞耳。",
         "from": "X19n0351_001:0871c20_55",
         "context_with_next_sentence": true
     },
@@ -25622,6 +25622,71 @@
     {
         "source_sentence": "勝鬘經義記卷上",
         "from": "X19n0351_001:0880a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正治二年六月二十日於東大寺本房以珍海已講本書寫了。",
+        "from": "X19n0351_001:0880a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同七月二日以同本一校了。",
+        "from": "X19n0351_001:0880b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "年齡乃七旬。",
+        "from": "X19n0351_001:0880b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖病眼彌闇。",
+        "from": "X19n0351_001:0880b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為興隆佛法。",
+        "from": "X19n0351_001:0880b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乍苦惱書寫。",
+        "from": "X19n0351_001:0880b02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大師并三寶。",
+        "from": "X19n0351_001:0880b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令知見宿趣。",
+        "from": "X19n0351_001:0880b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生生奉值遇。",
+        "from": "X19n0351_001:0880b03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自他等利益。",
+        "from": "X19n0351_001:0880b03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三論宗沙門　秀惠",
+        "from": "X19n0351_001:0880b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "延德四壬子三月下旬令相傳之破損之間加修補了。",
+        "from": "X19n0351_001:0880b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "英憲",
+        "from": "X19n0351_001:0880b06_1",
         "context_with_next_sentence": false
     }
 ]

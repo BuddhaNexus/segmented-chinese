@@ -1100,7 +1100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "例皆懡[怡台+羅]放過。",
+        "source_sentence": "例皆懡[怡-台+羅]放過。",
         "from": "X84n1583_032:0585a08_13",
         "context_with_next_sentence": true
     },
@@ -3120,7 +3120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任[跳兆+孛]跳。",
+        "source_sentence": "一任[跳-兆+孛]跳。",
         "from": "X84n1583_032:0586b14_10",
         "context_with_next_sentence": true
     },
@@ -3720,7 +3720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "缽盂峰頂。",
+        "source_sentence": "盋盂峰頂。",
         "from": "X84n1583_032:0586c21_9",
         "context_with_next_sentence": true
     },
@@ -6025,7 +6025,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "復舉六祖傳衣缽之後。",
+        "source_sentence": "復舉六祖傳衣盋之後。",
         "from": "X84n1583_032:0588b21_0",
         "context_with_next_sentence": true
     },

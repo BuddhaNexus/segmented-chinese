@@ -1145,7 +1145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "X79n1559_011:0358c02_4",
         "context_with_next_sentence": true
     },
@@ -1390,7 +1390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一場懡[怡台+羅]。",
+        "source_sentence": "一場懡[怡-台+羅]。",
         "from": "X79n1559_011:0358c15_0",
         "context_with_next_sentence": true
     },
@@ -9707,6 +9707,16 @@
     {
         "source_sentence": "嘉泰普燈錄卷第十一",
         "from": "X79n1559_011:0364b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_011:0364b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　閦初六切　丱音慣　爕蘇恊切　嶔音欽　耍沙瓦切　齧五結切　駱音落　骰音投　創音瘡　矍居角切　渥於角切　楔音屑　螣音藤　洵音荀　歙音攝　閬音浪　鼇五勞切　堋方鄧切　瘞依厲切",
+        "from": "X79n1559_011:0364b06_0",
         "context_with_next_sentence": false
     }
 ]

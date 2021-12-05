@@ -125,7 +125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "敢忘參請歸心[惇子+几]。",
+        "source_sentence": "敢忘參請歸心[惇-子+几]。",
         "from": "X71n1416_005:0432c06_1",
         "context_with_next_sentence": true
     },
@@ -280,7 +280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一聲窗外婆餅焦。",
+        "source_sentence": "一聲窻外婆餅焦。",
         "from": "X71n1416_005:0432c19_0",
         "context_with_next_sentence": true
     },
@@ -290,7 +290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "帚長汀解開布袋包。",
+        "source_sentence": "箒長汀解開布袋包。",
         "from": "X71n1416_005:0432c19_2",
         "context_with_next_sentence": true
     },
@@ -2780,7 +2780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[仁二+(ㄠ*刀)]性獨與常牛別。",
+        "source_sentence": "[仁-二+(ㄠ*刀)]性獨與常牛別。",
         "from": "X71n1416_005:0435b20_1",
         "context_with_next_sentence": true
     },

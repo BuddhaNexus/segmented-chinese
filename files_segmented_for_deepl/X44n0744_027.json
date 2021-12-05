@@ -6855,7 +6855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[麩夫+廣]麥。",
+        "source_sentence": "&#;麥。",
         "from": "X44n0744_027:0614a03_7",
         "context_with_next_sentence": true
     },
@@ -6965,12 +6965,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[麾毛+黍]米",
+        "source_sentence": "[麾-毛+黍]米",
         "from": "X44n0744_027:0614a09_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[麾毛+黍]。",
+        "source_sentence": "[麾-毛+黍]。",
         "from": "X44n0744_027:0614a10_0",
         "context_with_next_sentence": true
     },
@@ -6995,7 +6995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "關西謂之[麾毛+黍]。",
+        "source_sentence": "關西謂之[麾-毛+黍]。",
         "from": "X44n0744_027:0614a10_5",
         "context_with_next_sentence": true
     },
@@ -7215,7 +7215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "南方地[(白日+田)/廾]。",
+        "source_sentence": "南方地[(白-日+田)/廾]。",
         "from": "X44n0744_027:0614a21_26",
         "context_with_next_sentence": true
     },
@@ -7632,6 +7632,46 @@
     {
         "source_sentence": "四分律名義標釋卷第二十七",
         "from": "X44n0744_027:0614b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_027:0614c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[糸*屬]音竹。",
+        "from": "X44n0744_027:0614c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帶也。",
+        "from": "X44n0744_027:0614c02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "擐患。",
+        "from": "X44n0744_027:0614c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "灌。",
+        "from": "X44n0744_027:0614c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二音。",
+        "from": "X44n0744_027:0614c03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "璅音鎖。",
+        "from": "X44n0744_027:0614c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　四分律名義標釋卷第二十八目錄訶黎勒鞞醯勒阿棃勒蕤羅質多羅藥罽沙藥娑棃娑婆藥式渠帝[少/兔]蓽茇胡桐馬耳樹舍摩羅簸箕簁零香若瘑鹽者灰藥闍婆藥眼藥阿耨大池伊羅婆尼馬廐蘇卑生死比丘學人耶輸伽父涎沫私呵毗羅罽尼磨飡緻烏婆陀頗尼鉢籢時藥栴檀畢陵祇沉水伽羅[少/兔]婆羅鼠檻毗樓勒叉伽寗瞿曇寘施婆彌多羅多奢伊羅婆尼伽毗羅溼波羅提頭賴吒揵闥婆羅剎娑婆伽婆鈹刀三種藥私訶米泔盪滌蘇彌琝荼壟出多呵樓支阿牟多羅國翅[少/兔]施盧八種漿摩羅波婆城盧夷阿頭迦摩羅國根藥沙蔓那杏子仁得鐏四種淨地胡瓜五種淨法自煑循杓澡豆婆陀菴婆羅阿婆利迦婆陀蔆芰斗斛作銖",
+        "from": "X44n0744_027:0614c08_0",
         "context_with_next_sentence": false
     }
 ]

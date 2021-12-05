@@ -7475,7 +7475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "十一依性弊[怡台+龍]明無犯。",
+        "source_sentence": "十一依性弊[怡-台+龍]明無犯。",
         "from": "T85n2801_004:0894b25_1",
         "context_with_next_sentence": true
     },
@@ -11425,8 +11425,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "忍品大門分五中第五明修忍果利功德分",
+        "source_sentence": "忍品大門分五中第五明修忍果利功德分二。",
         "from": "T85n2801_004:0899a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一立因。",
+        "from": "T85n2801_004:0899a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二顯果。",
+        "from": "T85n2801_004:0899a05_2",
         "context_with_next_sentence": false
     }
 ]

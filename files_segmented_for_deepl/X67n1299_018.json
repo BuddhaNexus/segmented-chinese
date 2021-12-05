@@ -1850,7 +1850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大似為黃門[栽木+土]鬚。",
+        "source_sentence": "大似為黃門[栽-木+土]鬚。",
         "from": "X67n1299_018:0107a01_20",
         "context_with_next_sentence": true
     },
@@ -2285,7 +2285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拏雲攫霧不動波瀾。",
+        "source_sentence": "拏雲㸕霧不動波瀾。",
         "from": "X67n1299_018:0107b05_16",
         "context_with_next_sentence": true
     },
@@ -2540,7 +2540,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "劉鐵磨遂懡[怡台+羅]而行。",
+        "source_sentence": "劉鐵磨遂懡[怡-台+羅]而行。",
         "from": "X67n1299_018:0107c02_4",
         "context_with_next_sentence": true
     },
@@ -3860,7 +3860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也是拈[飢几+追]舐指人。",
+        "source_sentence": "也是拈[飢-几+追]舐指人。",
         "from": "X67n1299_018:0109a04_7",
         "context_with_next_sentence": true
     },
@@ -5020,7 +5020,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "龐老雖則擂鼓[打丁+麼]旗。",
+        "source_sentence": "龐老雖則擂鼓[打-丁+麼]旗。",
         "from": "X67n1299_018:0110a13_0",
         "context_with_next_sentence": true
     },
@@ -6445,7 +6445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "陶潛彭澤唯[栽木+土]柳。",
+        "source_sentence": "陶潛彭澤唯[栽-木+土]柳。",
         "from": "X67n1299_018:0111b10_5",
         "context_with_next_sentence": true
     },

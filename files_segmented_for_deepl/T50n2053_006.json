@@ -470,7 +470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遂苑弱木而池濛氾，圃炎火而照積氷，梯赤坂而承朔，泛滄津而委[書曰+貝]，史曠前良，事絕故府，豈如漢開張棭，近接金城，秦戍桂林，纔通珠浦而已。",
+        "source_sentence": "遂苑弱木而池濛氾，圃炎火而照積氷，梯赤坂而承朔，泛滄津而委[書-曰+貝]，史曠前良，事絕故府，豈如漢開張棭，近接金城，秦戍桂林，纔通珠浦而已。",
         "from": "T50n2053_006:0254b14_46",
         "context_with_next_sentence": true
     },
@@ -645,7 +645,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "法師謝曰：「四海黎庶依　陛下而生，聖躬不安則率土惶[怡台+勺]。",
+        "source_sentence": "法師謝曰：「四海黎庶依　陛下而生，聖躬不安則率土惶[怡-台+勺]。",
         "from": "T50n2053_006:0255a10_2",
         "context_with_next_sentence": true
     },

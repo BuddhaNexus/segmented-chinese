@@ -5005,7 +5005,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "七者膚[跳兆+專]膓如伊尼近鹿王。",
+        "source_sentence": "七者膚[跳-兆+專]膓如伊尼近鹿王。",
         "from": "T54n2124_001:0199a01_6",
         "context_with_next_sentence": true
     },
@@ -5160,7 +5160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "兩踝兩膝兩[阿可+坐]兩肩兩腕兩股兩臂藏相兩圓兩膊兩脇兩腋兩乳腰背心臍咽覆(悉皆妙好。",
+        "source_sentence": "兩踝兩膝兩[阿-可+坐]兩肩兩腕兩股兩臂藏相兩圓兩膊兩脇兩腋兩乳腰背心臍咽覆(悉皆妙好。",
         "from": "T54n2124_001:0199a17_5",
         "context_with_next_sentence": true
     },
@@ -6205,7 +6205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "彌猿奉蜜[竺二+品]白項猶聽法。",
+        "source_sentence": "彌猿奉蜜[竺-二+品]白項猶聽法。",
         "from": "T54n2124_001:0200a12_1",
         "context_with_next_sentence": true
     },
@@ -8475,7 +8475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則無所羈礙故。",
+        "source_sentence": "則無所覊礙故。",
         "from": "T54n2124_001:0202a16_43",
         "context_with_next_sentence": true
     },

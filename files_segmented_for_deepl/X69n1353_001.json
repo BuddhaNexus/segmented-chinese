@@ -60,7 +60,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 潭州開福報慈禪寺道寧師語錄序",
+        "source_sentence": "潭州開福報慈禪寺道寧師語錄序",
         "from": "X69n1353_001:0328c16_0",
         "context_with_next_sentence": true
     },
@@ -4485,7 +4485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "日高一缽和羅飯。",
+        "source_sentence": "日高一盋和羅飯。",
         "from": "X69n1353_001:0333a03_11",
         "context_with_next_sentence": true
     },
@@ -5925,7 +5925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "薄[利禾+((白日+田)/廾)]明月待高賢。",
+        "source_sentence": "薄&#;明月待高賢。",
         "from": "X69n1353_001:0334b03_13",
         "context_with_next_sentence": true
     },
@@ -5995,7 +5995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師曰買賣交關[宋木+取]為玅。",
+        "source_sentence": "師曰買賣交關[宋-木+取]為玅。",
         "from": "X69n1353_001:0334b09_3",
         "context_with_next_sentence": true
     },
@@ -8045,7 +8045,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一[打丁+羕]泉聲落檻前。",
+        "source_sentence": "一[打-丁+羕]泉聲落檻前。",
         "from": "X69n1353_001:0336b09_9",
         "context_with_next_sentence": true
     },
@@ -8750,8 +8750,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "莫將",
+        "source_sentence": "莫將三歲竹。",
         "from": "X69n1353_001:0337a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "擬比萬秊松。",
+        "from": "X69n1353_001:0337a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "擊禪牀。",
+        "from": "X69n1353_001:0337a12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卷上",
+        "from": "X69n1353_001:0337a12_5",
         "context_with_next_sentence": false
     }
 ]

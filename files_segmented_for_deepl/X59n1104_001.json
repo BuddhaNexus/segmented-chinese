@@ -55,7 +55,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]眄先賢後進。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]眄先賢後進。",
         "from": "X59n1104_001:0620b11_3",
         "context_with_next_sentence": true
     },
@@ -9620,7 +9620,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "除結無罣礙。",
+        "source_sentence": "除結無&#;礙。",
         "from": "X59n1104_001:0627a06_2",
         "context_with_next_sentence": true
     },

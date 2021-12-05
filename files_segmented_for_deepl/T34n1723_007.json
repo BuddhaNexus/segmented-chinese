@@ -4895,7 +4895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "「抹香」者，若手[撤育+言]摩作「抹」，細壤土作「抹」。",
+        "source_sentence": "「抹香」者，若手[撤-育+言]摩作「抹」，細壤土作「抹」。",
         "from": "T34n1723_007:0788c03_3",
         "context_with_next_sentence": true
     },
@@ -4905,7 +4905,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今既別有塗香，故應作「[土*未]」。",
+        "source_sentence": "今既別有塗香，故應作「&#;」。",
         "from": "T34n1723_007:0788c04_5",
         "context_with_next_sentence": true
     },
@@ -4920,7 +4920,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "碎香如細壞土，應作「[土*未]」。",
+        "source_sentence": "碎香如細壞土，應作「&#;」。",
         "from": "T34n1723_007:0788c06_8",
         "context_with_next_sentence": true
     },
@@ -5285,8 +5285,3888 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "◎妙法蓮華經玄贊卷第七(本)",
+        "source_sentence": "◎妙法蓮華經玄贊卷第七(本)保安三年十二月八日移點已了，以興福寺圓和房之本，法隆寺僧覺印。",
         "from": "T34n1723_007:0789b05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為令法久住、往生極樂為之。",
+        "from": "T34n1723_007:0789b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　本ト者皆點本也，本(ニモ)入(リ)者□付也，異樣也。",
+        "from": "T34n1723_007:0789b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙法蓮華經玄贊卷第七(末)",
+        "from": "T34n1723_007:0789b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙門基撰",
+        "from": "T34n1723_007:0789b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "化城喻品",
+        "from": "T34n1723_007:0789b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "◎三門分別：一來意，二釋名，三解妨。",
+        "from": "T34n1723_007:0789b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "來意有四：一者上中根類聞法得記，下根之徒猶未明解，故陳過去已結大乘之緣，并說現在小果化城之喻。",
+        "from": "T34n1723_007:0789b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陳往因令其證實，述今果令其捨權，遣生覺解方可為記，故此品來。",
+        "from": "T34n1723_007:0789b19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者論解為對治七種具足煩惱性眾生，有七種增上慢中第四有定人，實無而有增上慢，以有世間三昧三摩跋提，實無涅槃而生涅槃想，對治此故說化城喻。",
+        "from": "T34n1723_007:0789b21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又云第四人者，方便令入涅槃城故。",
+        "from": "T34n1723_007:0789b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "涅槃城者，諸禪三昧城。",
+        "from": "T34n1723_007:0789b25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "過彼城已，令入大涅槃城。",
+        "from": "T34n1723_007:0789b26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故有定人者，彼已得定諸有學凡夫人，今說往事令憶念故。",
+        "from": "T34n1723_007:0789b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此所起慢，或欲界分別、或上界煩惱。",
+        "from": "T34n1723_007:0789b28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三昧城者，謂有學凡夫專心所求，在無學身盡無生智後，世間禪定所變解脫離能變無，總名三昧。",
+        "from": "T34n1723_007:0789b29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此定有漏，名為世間。",
+        "from": "T34n1723_007:0789c02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此中意說，佛說三事名大般涅槃，三乘同得擇滅解脫，即是無學解脫道中所證生空理。",
+        "from": "T34n1723_007:0789c03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此後時惑苦不生，名為解脫。",
+        "from": "T34n1723_007:0789c05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說此解脫名為化城。",
+        "from": "T34n1723_007:0789c05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生空智證名為暫入，以息眾苦故言方便入涅槃城，後引至寶所方至大涅槃城。",
+        "from": "T34n1723_007:0789c06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二乘之人加行智求變作此相，至於無學解脫道中正證解脫，都無分別種種之想。",
+        "from": "T34n1723_007:0789c08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出解脫道後，世間定心重緣所得，以心麁故不知真智所證之法，但見加行所求涅槃解脫相狀便謂涅槃，謂有實滅。",
+        "from": "T34n1723_007:0789c10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈非彼解是世間定，故言以有世間三昧，實無涅槃而生涅槃想。",
+        "from": "T34n1723_007:0789c13_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡夫有學聞此假解，不識知故，謂有實涅槃，起堅執心作意欣趣。",
+        "from": "T34n1723_007:0789c14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故今破之，說彼所證猶如化城，尚為不實、不應趣求，況在無學假所變耶。",
+        "from": "T34n1723_007:0789c16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如二乘人所起四倒正智證生空猶未起執，後時觀前正智行相不親得故，乃見加行所求行相，便謂為真遂起四倒。",
+        "from": "T34n1723_007:0789c18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此亦如是，非無漏心及世間定皆是法執，出彼心後方起執故。",
+        "from": "T34n1723_007:0789c21_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此護法義。",
+        "from": "T34n1723_007:0789c22_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若安慧師，即無學位解脫道等諸無漏心、世間定心，皆有法執，所證擇滅名為化城。",
+        "from": "T34n1723_007:0789c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘人求之，理增上慢。",
+        "from": "T34n1723_007:0789c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論說具足煩惱性眾生所起，故非無學。",
+        "from": "T34n1723_007:0789c25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又有釋言，此是世間凡夫所執所得世間三摩䟦提；六行所得假非擇滅謂真涅槃。",
+        "from": "T34n1723_007:0789c26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說二乘無學所得擇滅涅槃方便令入，猶如化城，中路息苦、擬向寶所，尚非真滅，況汝凡夫所得世間假解三昧，執實滅耶？",
+        "from": "T34n1723_007:0789c28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有學之人不起此執，凡夫有故。",
+        "from": "T34n1723_007:0790a01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下言導師知無疲倦即滅化城，云向者大城是我化作，說化滅化破執二乘涅槃實城，為滅凡夫所執城故。",
+        "from": "T34n1723_007:0790a02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此中應如護法等解。",
+        "from": "T34n1723_007:0790a04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者十無上中第二示現行無上，故說大通智勝如來本事。",
+        "from": "T34n1723_007:0790a05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大乘菩提難得、行亦難成，非如二乘菩提疾得、行亦易修，故說大通智勝佛十劫坐道場方得菩提事。",
+        "from": "T34n1723_007:0790a06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此為文殘，說古事故。",
+        "from": "T34n1723_007:0790a09_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或說大通佛事者，說佛自身彼時修行為十六王子，今始得菩提。",
+        "from": "T34n1723_007:0790a09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又諸聲聞彼時發心，今時方熟。",
+        "from": "T34n1723_007:0790a11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故大因行非卒修成，名行無上，不說大通佛之行也。",
+        "from": "T34n1723_007:0790a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即將說今，要先說古，雖以今果為品號，其因亦在其中明，故此品來。",
+        "from": "T34n1723_007:0790a13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者十無上中第三示現增長力無上，故說商主喻。",
+        "from": "T34n1723_007:0790a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前說化城知非真滅，未說商主能長商人能引至於佛果寶所，今此說之，故此品來。",
+        "from": "T34n1723_007:0790a16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此乃義殘，非文殘也。",
+        "from": "T34n1723_007:0790a18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋名者，禦寇安神之所曰城，本無而有曰化。",
+        "from": "T34n1723_007:0790a18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禦寇者息生死之疲，安神者證恬寂之樂，故喻於城。",
+        "from": "T34n1723_007:0790a19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛假權施，名之為化，城即是化，名曰化城。",
+        "from": "T34n1723_007:0790a21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今是喻、法，此品廣明，名化城喻品。",
+        "from": "T34n1723_007:0790a22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "解妨難者。",
+        "from": "T34n1723_007:0790a22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：此品所明乃有二義：一大通往事，即行無上；二說化城今事，即增長力無上。",
+        "from": "T34n1723_007:0790a23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何故唯以化城為名，不以佛事為目？",
+        "from": "T34n1723_007:0790a24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：正教之說本除生病，生有本無而有增上慢，執非擇滅為真，今說擇滅為化除之，令捨漸進寶所，故以化城為品、不以佛事為品。",
+        "from": "T34n1723_007:0790a25_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《正法華》名「往古品」，謂顯過去佛曾教化發大乘種，令其憶念為今熟因，望其意解引入大乘非正破病，故今此經不以往古為品號。",
+        "from": "T34n1723_007:0790a29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又化城果今現得，大通事在往因，以顯果為品名，不以隱因為品稱，亦無失也。",
+        "from": "T34n1723_007:0790b02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「佛告諸比丘(至)阿僧祇劫」。",
+        "from": "T34n1723_007:0790b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下第三周為下根說。",
+        "from": "T34n1723_007:0790b05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "准前二周亦為四段：此品佛以喻正化，第二後品之初滿慈領悟，第三後品之中次領悟後云「爾時佛告諸比丘汝等見是」下佛重述成，第四「諸比丘富樓那亦於七佛」下為之授記。",
+        "from": "T34n1723_007:0790b06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初文有二：初說宿因令念退大以就小，後「諸比丘若如來自知涅槃時到眾又清淨」下，顯今果令知捨權以取實。",
+        "from": "T34n1723_007:0790b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初是說古因緣，令自了達往修大因退住小果，論名行無上說大通如來本事。",
+        "from": "T34n1723_007:0790b13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後是述今得果，論名為破有定人實無而有增上慢，又為示現增長力無上故說商主喻。",
+        "from": "T34n1723_007:0790b15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說初發大心，令今取大果；次說後果為化，令今捨小果。",
+        "from": "T34n1723_007:0790b17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此分二，初文有二：初說過去因緣結會佛自身事，後「諸比丘我等為沙彌時各各教化」下，明過去結緣會弟子事。",
+        "from": "T34n1723_007:0790b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此意總明過去曾化，已結大乘之緣，令生信解。",
+        "from": "T34n1723_007:0790b21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故為此解。",
+        "from": "T34n1723_007:0790b22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初文復二：初一長行、一偈頌明大通佛去今久近，後「佛告諸比丘大通智勝佛壽」下正明彼事。",
+        "from": "T34n1723_007:0790b22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初長行有二：初明彼佛久近，後顯已能見。",
+        "from": "T34n1723_007:0790b24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初中復二：初總告，後問答。",
+        "from": "T34n1723_007:0790b25_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初中有四：一時，二名，三國，四劫。",
+        "from": "T34n1723_007:0790b26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0790b27_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時有佛(至)劫名大相」。",
+        "from": "T34n1723_007:0790b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此告後三。",
+        "from": "T34n1723_007:0790b28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「諸比丘(至)盡地種墨」。",
+        "from": "T34n1723_007:0790b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下問答。",
+        "from": "T34n1723_007:0790b29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有三：一問，二答，三明久近。",
+        "from": "T34n1723_007:0790b29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問中有二：初挍量，後問。",
+        "from": "T34n1723_007:0790b30_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0790c01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「種」音之隴反，「磨」音莫箇反，「若」莫波反。",
+        "from": "T34n1723_007:0790c01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應作「摩」，「摩」研也，鬼作「魔」，尼作「&#;」，病作「[膺-倠+(林/(ㄇ@人))]」，都無「磨」作摩音。",
+        "from": "T34n1723_007:0790c02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「於汝等意(至)不也世尊」。",
+        "from": "T34n1723_007:0790c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此問及答。",
+        "from": "T34n1723_007:0790c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「諸比丘(至)阿僧祇劫」。",
+        "from": "T34n1723_007:0790c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此明久近。",
+        "from": "T34n1723_007:0790c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下前塵盡，取此著塵、不著塵界總以為墨，一塵一劫，彼佛滅度更多於彼。",
+        "from": "T34n1723_007:0790c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其「抹」者以手摩也。",
+        "from": "T34n1723_007:0790c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「我以如來(至)猶如今日」。",
+        "from": "T34n1723_007:0790c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此顯已能見宿命智知、慧眼見故。",
+        "from": "T34n1723_007:0790c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：釋迦修行不越三祇，何故塵劫極多，彼時猶稱王子？",
+        "from": "T34n1723_007:0790c10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：意趣有四：一平等意趣，謂佛說言我於爾時曾名勝觀，法身平等故。",
+        "from": "T34n1723_007:0790c11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二別時意趣，謂願生極樂皆得往生，暫聞無垢月光佛名定於菩提得不退轉。",
+        "from": "T34n1723_007:0790c13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三別義意趣，謂說諸法皆無自性無生滅等，本來涅槃。",
+        "from": "T34n1723_007:0790c15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四眾生意樂意趣，謂於一善根或讚或毀，令增進故。",
+        "from": "T34n1723_007:0790c16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今此依於平等意趣說餘佛事，即是我身身平等故。",
+        "from": "T34n1723_007:0790c17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若不爾者，云何乃言爾許劫數？",
+        "from": "T34n1723_007:0790c19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又善心相續劫滿三祇，諸心通論，何妨爾劫在彼佛時猶稱王子？",
+        "from": "T34n1723_007:0790c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又依晝夜月時年，何妨許時釋迦自身三僧祇劫內？",
+        "from": "T34n1723_007:0790c21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時世尊(至)名大通智勝」。",
+        "from": "T34n1723_007:0790c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：七頌，分二：初五頌頌久時，後二頌頌能見。",
+        "from": "T34n1723_007:0790c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初復分二：初一頌告佛名，後四頌告劫數。",
+        "from": "T34n1723_007:0790c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0790c25_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「如人以力磨(至)如是無量劫」。",
+        "from": "T34n1723_007:0790c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此告劫數。",
+        "from": "T34n1723_007:0790c26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「如來無礙智(至)通達無量劫」。",
+        "from": "T34n1723_007:0790c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此頌能見也。",
+        "from": "T34n1723_007:0790c28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「佛告諸比丘(至)那由他劫」。",
+        "from": "T34n1723_007:0790c30_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下第二段正明彼事。",
+        "from": "T34n1723_007:0790c30_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以下諸長行方頌有文，初會自身事。",
+        "from": "T34n1723_007:0791a01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文有四：第一佛壽成道；第二「其佛未出家時有十六子」下轉正法輪；第三「爾時十六王子皆以童子出家」下子繼傳燈；第四「諸比丘我今語汝，彼佛弟子十六沙彌」下會成今佛。",
+        "from": "T34n1723_007:0791a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初文有三：一明佛壽，二法難得，三說得道。",
+        "from": "T34n1723_007:0791a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0791a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「其佛本坐道場(至)猶不在前」。",
+        "from": "T34n1723_007:0791a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下明法難得。",
+        "from": "T34n1723_007:0791a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有四：一不現前，二諸天敷坐，三散華，四作樂長時。",
+        "from": "T34n1723_007:0791a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0791a10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "報身成道理實為難，化身成道何妨化現，今他報身示相起也。",
+        "from": "T34n1723_007:0791a10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論云欲顯菩提難得故。",
+        "from": "T34n1723_007:0791a12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依《華嚴經》有十事故坐於道場，始從震動一切佛剎，乃至自善根力悉能受持一切眾生故坐道場。",
+        "from": "T34n1723_007:0791a12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "破諸魔軍亦有十義，始從五濁惡世眾生互相征伐欲顯菩薩功德力故，乃至順五濁世諸眾生故示現降魔。",
+        "from": "T34n1723_007:0791a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不爾，魔怨有何勝力與大菩薩、如來競力？",
+        "from": "T34n1723_007:0791a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又釋迦佛破魔軍，諸部不同，有說成道後方破魔軍，依《涅槃經》亦作此說；有說破魔後方成道。",
+        "from": "T34n1723_007:0791a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經文現有此二說，故此佛破魔後方成道。",
+        "from": "T34n1723_007:0791a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此事不定，隨示現故。",
+        "from": "T34n1723_007:0791a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又彌勒佛於出家日即得成道，釋迦苦行先經六年，今此成道十劫空坐，皆是示相不同，不可一其所以。",
+        "from": "T34n1723_007:0791a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時忉利(至)三藐三菩提」。",
+        "from": "T34n1723_007:0791a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：二敷坐。",
+        "from": "T34n1723_007:0791a25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《勝天王般若》說「諸天各獻一座，佛為受之，坐取菩提。",
+        "from": "T34n1723_007:0791a26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以神力故合為一座，令彼諸天各唯見佛納己之座以取菩提，發心歡喜，不見納受餘座而坐。」",
+        "from": "T34n1723_007:0791a27_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故此亦言諸天作座，非共造一。",
+        "from": "T34n1723_007:0791a29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「適坐此座時(至)常雨此華」。",
+        "from": "T34n1723_007:0791b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：三散華。",
+        "from": "T34n1723_007:0791b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "華積如須彌，明知他受用身也。",
+        "from": "T34n1723_007:0791b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「四王諸天(至)亦復如是」。",
+        "from": "T34n1723_007:0791b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：四作樂。",
+        "from": "T34n1723_007:0791b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「伎」音渠倚反，藝也，女樂作妓。",
+        "from": "T34n1723_007:0791b03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有作「伎」，立也。",
+        "from": "T34n1723_007:0791b04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經文乘便，故說乃至終恒樂供養。",
+        "from": "T34n1723_007:0791b04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「諸比丘(至)三菩提」。",
+        "from": "T34n1723_007:0791b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第三說得道。",
+        "from": "T34n1723_007:0791b06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「其佛未出家時(至)名曰智積」。",
+        "from": "T34n1723_007:0791b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下第二大段轉正法輪。",
+        "from": "T34n1723_007:0791b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初供養請轉，後「爾時大通智勝如來受十方諸梵天請已」下許可為轉。",
+        "from": "T34n1723_007:0791b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初文有二：初明十六子供養請轉；後明梵天王供養請轉，親族現前故、非親族不現前故。",
+        "from": "T34n1723_007:0791b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初文又二：初詣佛供養，後請轉法輪。",
+        "from": "T34n1723_007:0791b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初文復二：初明詣佛，後明禮讚。",
+        "from": "T34n1723_007:0791b13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "詣佛有五：一明佛子，二明往詣，三母送，四祖送，五詣意。",
+        "from": "T34n1723_007:0791b14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0791b15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "他受用身有父母等，《鼓音王經》說「阿彌陀佛父名月上，母名殊勝妙顏」，有子有魔等。",
+        "from": "T34n1723_007:0791b15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "化七地已前有分段死，故有父母等；化八地已上有變易生，理無此事，不死生故、他受用身得與金輪俱出故。",
+        "from": "T34n1723_007:0791b17_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此佛祖轉輪聖王。",
+        "from": "T34n1723_007:0791b20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「諸子各有(至)往詣佛所」。",
+        "from": "T34n1723_007:0791b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：二詣佛也。",
+        "from": "T34n1723_007:0791b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「諸母涕泣(至)隨至道場」。",
+        "from": "T34n1723_007:0791b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：三母送，四祖送。",
+        "from": "T34n1723_007:0791b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「涕泣」者，他禮反，目出淚曰涕，無聲出淚曰泣。",
+        "from": "T34n1723_007:0791b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「咸欲親近(至)尊重讚歎」。",
+        "from": "T34n1723_007:0791b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：五詣意也。",
+        "from": "T34n1723_007:0791b25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「到已頭面(至)善哉吉無上」。",
+        "from": "T34n1723_007:0791b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第二禮讚。",
+        "from": "T34n1723_007:0791b26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：一身禮，二語讚。",
+        "from": "T34n1723_007:0791b27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八頌為三：初一頌半讚佛願滿勝德，次二頌讚佛修因勝德，後四頌半申歸禮意。",
+        "from": "T34n1723_007:0791b27_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0791b29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吉謂吉祥，善事滿故。",
+        "from": "T34n1723_007:0791b29_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「世尊甚希有(至)安住無漏法」。",
+        "from": "T34n1723_007:0791c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：二讚修因勝德。",
+        "from": "T34n1723_007:0791c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「一坐十小劫」者，《華嚴經》說有十種坐：一轉輪王坐，與十善故；二四天王坐，欲於一切世界諸佛正法行自在故；三帝釋坐，於一切眾生行自在故；四梵天王坐，自心他心得自在故；五師子坐，分別演說甚深義故；六正法坐，欲明總持、諸力、辨故；七堅固三昧坐，究竟大菩提故；八大慈坐，令惡心者悉歡喜故；九大悲坐，能忍一切諸苦惱故；十金剛坐，降伏眾魔諸外道故。",
+        "from": "T34n1723_007:0791c02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今此乃是堅固三昧，金剛坐故。",
+        "from": "T34n1723_007:0791c10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「靜然」者，身定也。",
+        "from": "T34n1723_007:0791c11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「心憺怕」者，心定也。",
+        "from": "T34n1723_007:0791c11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「憺」音徒濫反，《說文》「安也靜也，謂憺然安樂」。",
+        "from": "T34n1723_007:0791c12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《切韻》「靜應為憺，無味作淡，恬靜作惔憺」。",
+        "from": "T34n1723_007:0791c13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《玉篇》「憺，音徒敢反，靜也安也」。",
+        "from": "T34n1723_007:0791c14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有作「惔」，《說文》徒甘反，憂也，非此中義。",
+        "from": "T34n1723_007:0791c14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《字書》作「倓」，亦徒濫反。",
+        "from": "T34n1723_007:0791c15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「怕」音疋白反，亦靜也。",
+        "from": "T34n1723_007:0791c16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《玉篇》「無為也」。",
+        "from": "T34n1723_007:0791c16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "憺怕則是安靜之義。",
+        "from": "T34n1723_007:0791c17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有作「淡泊」，無味也，非此中義。",
+        "from": "T34n1723_007:0791c17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「今者見世尊(至)稱慶大歡喜」。",
+        "from": "T34n1723_007:0791c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：三有四頌半申歸禮意。",
+        "from": "T34n1723_007:0791c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初一頌標佛得道我等獲益，後三頌半釋其所由。",
+        "from": "T34n1723_007:0791c20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0791c21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「眾生常苦惱(至)永不聞佛名」。",
+        "from": "T34n1723_007:0791c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下釋所由。",
+        "from": "T34n1723_007:0791c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初二頌明諸眾生不近善友輪迴受苦，後一頌半遇益故歸禮。",
+        "from": "T34n1723_007:0791c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0791c24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「常苦」苦諦，「盲冥」集諦，「不識苦盡」道諦，「不求解脫」滅諦，於此四諦都不能識，天眾損減、從闇入闇、不聞佛名。",
+        "from": "T34n1723_007:0791c24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「冥」音莫經反，暗也。",
+        "from": "T34n1723_007:0791c27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《玉篇》「莫定反，夜也昧也」。",
+        "from": "T34n1723_007:0791c27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「冥冥」者，蔽人目令無所見。",
+        "from": "T34n1723_007:0791c28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「今佛得最上(至)歸命無上尊」。",
+        "from": "T34n1723_007:0791c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：遇益故歸禮。",
+        "from": "T34n1723_007:0791c29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時十六王子(至)諸天人民」。",
+        "from": "T34n1723_007:0792a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此下第二請轉法輪。",
+        "from": "T34n1723_007:0792a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初長行，後偈頌。",
+        "from": "T34n1723_007:0792a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0792a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安隱與樂，憐愍拔苦。",
+        "from": "T34n1723_007:0792a02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「重說偈言(至)願為世間說」。",
+        "from": "T34n1723_007:0792a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下四頌半，分三：初一頌佛具內外德故請，次一頌半有大利益故請，後二頌明佛識達故請。",
+        "from": "T34n1723_007:0792a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0792a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「倫」匹也等也。",
+        "from": "T34n1723_007:0792a07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「度脫於我等(至)眾生亦復然」。",
+        "from": "T34n1723_007:0792a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：二有大利益故請。",
+        "from": "T34n1723_007:0792a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「世尊知眾生(至)當轉無上輪」。",
+        "from": "T34n1723_007:0792a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：三明佛識達故請。",
+        "from": "T34n1723_007:0792a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此知五種：一所念，即欲樂、勝解；二所行道，遍趣行；三智慧力，即根勝劣；四宿命，即宿住力；五業，即自業智力。",
+        "from": "T34n1723_007:0792a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其欲樂即所念，修福即業，故略舉此攝餘五力。",
+        "from": "T34n1723_007:0792a13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「佛告諸比丘(至)六種震動」。",
+        "from": "T34n1723_007:0792a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下梵天供養請轉法輪。",
+        "from": "T34n1723_007:0792a15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初神光動照，後供養請轉。",
+        "from": "T34n1723_007:0792a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初文有三：初動十方世界，次光照幽冥，後動照梵宮。",
+        "from": "T34n1723_007:0792a17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0792a18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「其國中間(至)忽生眾生」。",
+        "from": "T34n1723_007:0792a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：光照幽冥，即二世界鐵圍山間。",
+        "from": "T34n1723_007:0792a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「又其國界(至)勝諸天光」。",
+        "from": "T34n1723_007:0792a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：動照梵宮，為供請之漸。",
+        "from": "T34n1723_007:0792a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時東方(至)共議此事」。",
+        "from": "T34n1723_007:0792a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下供養請轉。",
+        "from": "T34n1723_007:0792a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大文分五：一東方，二東南方，三南方，四例六方，五上方。",
+        "from": "T34n1723_007:0792a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除後二方，餘一一中文皆分四：一覩光驚議，二尋光詣佛，三禮讚請轉，四默然許之。",
+        "from": "T34n1723_007:0792a25_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初文有二：初眾梵驚問，後一天請求。",
+        "from": "T34n1723_007:0792a27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0792a28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此皆通四禪梵王。",
+        "from": "T34n1723_007:0792a28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或唯初禪請轉法輪，梵福量故。",
+        "from": "T34n1723_007:0792a28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此文有三：一光，二念，三議。",
+        "from": "T34n1723_007:0792a29_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「時彼眾中(至)遍照於十方」。",
+        "from": "T34n1723_007:0792b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此一天請求。",
+        "from": "T34n1723_007:0792b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸天之中具威德者，將生之時光明先現，故此疑言為大德天生。",
+        "from": "T34n1723_007:0792b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時五百(至)推尋是相」。",
+        "from": "T34n1723_007:0792b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：二尋光詣佛。",
+        "from": "T34n1723_007:0792b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初持宮、華以推覓，後見佛、眾以忻然。",
+        "from": "T34n1723_007:0792b05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0792b06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「見大通智勝(至)請佛轉法輪」。",
+        "from": "T34n1723_007:0792b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：見佛眾以忻然也。",
+        "from": "T34n1723_007:0792b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「即時諸梵天王(至)高十由旬」。",
+        "from": "T34n1723_007:0792b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下第三段禮讚請轉。",
+        "from": "T34n1723_007:0792b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初供養，後請轉。",
+        "from": "T34n1723_007:0792b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初長行有二：初歸禮散華，後獻宮請納。",
+        "from": "T34n1723_007:0792b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0792b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「華供養已(至)願垂納受」。",
+        "from": "T34n1723_007:0792b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此請納安處。",
+        "from": "T34n1723_007:0792b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「時諸梵天王(至)普皆蒙饒益」。",
+        "from": "T34n1723_007:0792b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：四頌，分三：初二頌讚五德，次一頌陳來由，後一頌請納受。",
+        "from": "T34n1723_007:0792b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0792b15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「我等所從來(至)唯願哀納受」。",
+        "from": "T34n1723_007:0792b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：初頌來由，後頌請納。",
+        "from": "T34n1723_007:0792b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時諸梵天王(至)度苦惱眾生」。",
+        "from": "T34n1723_007:0792b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此請轉法輪。",
+        "from": "T34n1723_007:0792b18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時大通(至)默然許之」。",
+        "from": "T34n1723_007:0792b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第四大段佛默然許。",
+        "from": "T34n1723_007:0792b20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：何故涅槃時默然不受他供，今者默然遂許他說？",
+        "from": "T34n1723_007:0792b21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古解以佛顏有舒歛，請者覺許、不許。",
+        "from": "T34n1723_007:0792b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又云以佛身光表知受與不受。",
+        "from": "T34n1723_007:0792b23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又云佛初成道時自唱號言「凡時默然受請，涅槃時默然是不受請」。",
+        "from": "T34n1723_007:0792b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又受食理須呪願，默然知佛不許。",
+        "from": "T34n1723_007:0792b25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "許說默已順請，不假出言而許。",
+        "from": "T34n1723_007:0792b26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「又諸比丘(至)共議此事」。",
+        "from": "T34n1723_007:0792b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第二東南方。",
+        "from": "T34n1723_007:0792b28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大文亦四：初眾梵驚議。",
+        "from": "T34n1723_007:0792b29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「時彼眾中(至)度脫苦眾生」。",
+        "from": "T34n1723_007:0792b30_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此一天請求。",
+        "from": "T34n1723_007:0792b30_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時五百(至)請佛轉法輪」。",
+        "from": "T34n1723_007:0792c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第二尋光詣佛。",
+        "from": "T34n1723_007:0792c02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初持宮、華以推覓，後見佛、眾以忻然。",
+        "from": "T34n1723_007:0792c03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「時諸梵天王(至)願垂納受」。",
+        "from": "T34n1723_007:0792c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下第三段禮讚請轉。",
+        "from": "T34n1723_007:0792c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初供養，後請轉。",
+        "from": "T34n1723_007:0792c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此長行供養。",
+        "from": "T34n1723_007:0792c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時諸梵天王(至)我等今敬禮」。",
+        "from": "T34n1723_007:0792c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：四頌半讚。",
+        "from": "T34n1723_007:0792c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分四：一頌讚禮，一頌半歎希有，一頌歎為眼目，一頌歎為慈父。",
+        "from": "T34n1723_007:0792c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0792c10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「迦陵頻伽」，妙音鳥也，以聲柔軟清亮哀雅，故以為喻。",
+        "from": "T34n1723_007:0792c10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「世尊甚希有(至)諸天眾減少」。",
+        "from": "T34n1723_007:0792c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：歎希有也。",
+        "from": "T34n1723_007:0792c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「今佛出於世(至)今得值世尊」。",
+        "from": "T34n1723_007:0792c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：初一歎眼目，後一頌慈父。",
+        "from": "T34n1723_007:0792c15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時諸梵天王(至)忍善者增益」。",
+        "from": "T34n1723_007:0792c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此請轉也。",
+        "from": "T34n1723_007:0792c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歎佛生益、忍善者增益，謂入聖道，其義可知。",
+        "from": "T34n1723_007:0792c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時大通(至)默然許之」。",
+        "from": "T34n1723_007:0792c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第四大段佛默然許。",
+        "from": "T34n1723_007:0792c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「又諸比丘(至)為佛出世間」。",
+        "from": "T34n1723_007:0792c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第三南方。",
+        "from": "T34n1723_007:0792c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "准前有四，此覩光驚議。",
+        "from": "T34n1723_007:0792c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初眾梵驚議，後一天請求。",
+        "from": "T34n1723_007:0792c23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時五百(至)轉法輪」。",
+        "from": "T34n1723_007:0792c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第二尋光詣佛。",
+        "from": "T34n1723_007:0792c25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初持宮、華以推覓，後見佛、眾以忻然。",
+        "from": "T34n1723_007:0792c26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「時諸梵天王(至)唯願垂納受」。",
+        "from": "T34n1723_007:0792c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下第三段供養請轉中初供養，後請轉。",
+        "from": "T34n1723_007:0792c28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0792c29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初二頌半歎佛，後一頌請受。",
+        "from": "T34n1723_007:0792c30_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時諸梵天王(至)當演深遠音」。",
+        "from": "T34n1723_007:0793a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：請轉中初長行，後偈頌。",
+        "from": "T34n1723_007:0793a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文意可知。",
+        "from": "T34n1723_007:0793a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時(至)默然許之」。",
+        "from": "T34n1723_007:0793a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第四大段，佛默然許。",
+        "from": "T34n1723_007:0793a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「西南方(至)亦復如是」。",
+        "from": "T34n1723_007:0793a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第四，例餘六方。",
+        "from": "T34n1723_007:0793a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "事意同前，恐繁故例。",
+        "from": "T34n1723_007:0793a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時上方(至)為佛出世間」。",
+        "from": "T34n1723_007:0793a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰。",
+        "from": "T34n1723_007:0793a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第五上方。",
+        "from": "T34n1723_007:0793a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有三，無第四許，此即覩光驚議。",
+        "from": "T34n1723_007:0793a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初眾梵驚議，後一天請求。",
+        "from": "T34n1723_007:0793a08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時五百(至)轉法輪」。",
+        "from": "T34n1723_007:0793a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第二尋光詣佛。",
+        "from": "T34n1723_007:0793a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初持宮、華以推覓，後見佛、眾以忻然。",
+        "from": "T34n1723_007:0793a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「時諸梵天王(至)願垂納處」。",
+        "from": "T34n1723_007:0793a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下第三段供養請轉。",
+        "from": "T34n1723_007:0793a13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初供養，後請轉。",
+        "from": "T34n1723_007:0793a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初中又二，此長行也。",
+        "from": "T34n1723_007:0793a14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「時諸梵天王(至)廣度於一切」。",
+        "from": "T34n1723_007:0793a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：十頌半，分四：初七頌半讚佛德，次一頌見佛生喜，次一頌請納，後一頌迴向。",
+        "from": "T34n1723_007:0793a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初中有二：初二頌標，後五頌半釋。",
+        "from": "T34n1723_007:0793a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0793a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初頌歎能拔苦，後頌歎能與樂。",
+        "from": "T34n1723_007:0793a19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「免」音無遠反，引也，作「挽」。",
+        "from": "T34n1723_007:0793a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有作「勉」，亡辨反，勗勵也。",
+        "from": "T34n1723_007:0793a20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《國語》云「父勉其子，兄勉其弟」，猶勤強也。",
+        "from": "T34n1723_007:0793a21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「萌」音莫耕反，芽也始也，冥昧貌，眾無知也。",
+        "from": "T34n1723_007:0793a22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《漢書》「氓，群黎也」。",
+        "from": "T34n1723_007:0793a23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "涅槃名甘露門，謂聖道或理名甘露，教名為門。",
+        "from": "T34n1723_007:0793a23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「於昔無量劫(至)死多墮惡道」。",
+        "from": "T34n1723_007:0793a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下五頌半釋。",
+        "from": "T34n1723_007:0793a25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中有二：初四頌半生死輪迴，後一頌釋佛能拔。",
+        "from": "T34n1723_007:0793a26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初中又二：初二頌受苦果，後二頌半行惡因。",
+        "from": "T34n1723_007:0793a27_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0793a28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「不從佛聞法(至)常墮於惡道」。",
+        "from": "T34n1723_007:0793a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此行惡因，意可知也。",
+        "from": "T34n1723_007:0793a29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文有二：初二頌半在家行惡行，後一頌外道行惡行。",
+        "from": "T34n1723_007:0793a30_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「樂」謂人天樂果，「樂想」者謂樂因。",
+        "from": "T34n1723_007:0793b01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又樂者所取樂境，樂想者能取樂之想。",
+        "from": "T34n1723_007:0793b02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又樂謂樂受自體，樂想謂苦對治樂，謂寒熱等暫息滅時假名樂故。",
+        "from": "T34n1723_007:0793b03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「佛為世間眼(至)故現於世間」。",
+        "from": "T34n1723_007:0793b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此一頌釋佛能拔。",
+        "from": "T34n1723_007:0793b05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「超出成正覺(至)喜歎未曾有」。",
+        "from": "T34n1723_007:0793b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：二明見佛生喜。",
+        "from": "T34n1723_007:0793b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「我等諸宮殿(至)皆共成佛道」。",
+        "from": "T34n1723_007:0793b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第三段一頌請納。",
+        "from": "T34n1723_007:0793b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第四段一頌迴向。",
+        "from": "T34n1723_007:0793b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時五百(至)無量劫習法」。",
+        "from": "T34n1723_007:0793b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此讚請轉也。",
+        "from": "T34n1723_007:0793b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一頌讚，一頌請。",
+        "from": "T34n1723_007:0793b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時大通智勝如來(至)十二行法輪」。",
+        "from": "T34n1723_007:0793b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：上明供養請轉，下第二段明許可為轉。",
+        "from": "T34n1723_007:0793b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有四：一標許可為轉，二明餘所不能，三彰所轉之法，四顯生聞獲益。",
+        "from": "T34n1723_007:0793b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0793b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三轉有二：一自，二他。",
+        "from": "T34n1723_007:0793b16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今為他轉，非佛自轉。",
+        "from": "T34n1723_007:0793b17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此苦聖諦，名示相轉；此應遍知，是勸修轉；此已遍知，是作證轉。",
+        "from": "T34n1723_007:0793b17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此行法輪以移動運，是轉義故。",
+        "from": "T34n1723_007:0793b19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是一一轉，令聞法者發生無漏真聖慧眼。",
+        "from": "T34n1723_007:0793b20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨其次第，於去、來、今苦諦之中，生智、明、覺。",
+        "from": "T34n1723_007:0793b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是一轉總別四行，三轉諦諦皆有十二行相。",
+        "from": "T34n1723_007:0793b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然數等故，但說三轉十二行相。",
+        "from": "T34n1723_007:0793b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三轉如次顯示，令入見、修、無學等三。",
+        "from": "T34n1723_007:0793b23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如前第四卷疏中解。",
+        "from": "T34n1723_007:0793b24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「若沙門(至)所不能轉」。",
+        "from": "T34n1723_007:0793b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：二明餘所不能，未正證故。",
+        "from": "T34n1723_007:0793b26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯佛可為一切師故，知一切故。",
+        "from": "T34n1723_007:0793b27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「謂是苦(至)是苦滅道」。",
+        "from": "T34n1723_007:0793b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下彰所轉輪之境，於此生智名行法輪。",
+        "from": "T34n1723_007:0793b28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法輪境有二：一四諦，二十二緣。",
+        "from": "T34n1723_007:0793b29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0793b30_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且舉示相，餘例可知。",
+        "from": "T34n1723_007:0793b30_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四諦略以五門分別：一出體，二釋名，三廢立，四釋妨，五諸門。",
+        "from": "T34n1723_007:0793c01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出體者，《對法》等說，有情世間及器世間，諸有漏法性逼迫故，皆是苦諦。",
+        "from": "T34n1723_007:0793c02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "集有二義：一招感異熟無記果義。",
+        "from": "T34n1723_007:0793c04_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《對法》等說，謂諸煩惱及所起業名為集諦。",
+        "from": "T34n1723_007:0793c05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《唯識》等說，十二支中五亦集諦攝，業煩惱性故，餘無記法皆非集諦。",
+        "from": "T34n1723_007:0793c06_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然唯說愛為集諦者，由最勝故。",
+        "from": "T34n1723_007:0793c07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二為因能得有漏果義。",
+        "from": "T34n1723_007:0793c08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即諸有漏在內身中，三性諸法能為依因，有異熟者皆是集諦。",
+        "from": "T34n1723_007:0793c09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《瑜伽》等說十二支中逆觀老死有二種因：一者麁生，謂即生支；二者細生，謂愛、取、有，乃至觀前齊識退還，此等皆名老死之集。",
+        "from": "T34n1723_007:0793c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故知依因，無記等法亦名為集，不說非支亦名為集。",
+        "from": "T34n1723_007:0793c13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真如、擇滅、不動、想受滅，諸無為名為滅諦。",
+        "from": "T34n1723_007:0793c14_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《對法論》說真如、聖道、煩惱不生名為滅諦。",
+        "from": "T34n1723_007:0793c15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此說滅依、能滅、滅性，正智所證真如境上有漏法滅，假實合是滅諦之相。",
+        "from": "T34n1723_007:0793c16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無漏五蘊名為道諦，對法等說，資糧道、加行道、見道、修道、究竟道皆名道諦，依道自性及道眷屬以顯道諦。",
+        "from": "T34n1723_007:0793c18_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此四諦攝諸法盡，故《涅槃經》「迦葉問言：如佛一時入申首林，取小樹葉告諸比丘：『我已所說如手中葉，所未說法如林中葉。』",
+        "from": "T34n1723_007:0793c21_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而言四諦攝諸法盡。",
+        "from": "T34n1723_007:0793c24_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若攝盡者，則是已說一切法盡，云何言未說如林中葉；若不攝盡者，應有五諦。",
+        "from": "T34n1723_007:0793c24_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊告言：四諦攝盡，然總說言此是苦諦，二乘不能知分別諸苦有無量相，非諸聲聞、緣覺所知；乃至道諦亦復如是。」",
+        "from": "T34n1723_007:0793c26_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此中意說，然雖四諦攝諸法盡，巨細分別二乘等不知，故言未說，非有五諦。",
+        "from": "T34n1723_007:0793c29_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依詮顯實，真如亦是滅諦所攝，故《對法》言「滅性正是滅諦所攝」。",
+        "from": "T34n1723_007:0794a01_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《涅槃》亦說「四諦所攝」，故言二乘有苦有諦而無有實，菩薩具有；餘三亦然。",
+        "from": "T34n1723_007:0794a02_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "癈詮談旨即非滅諦，故《瑜伽》中四諦之外說非安立諦。",
+        "from": "T34n1723_007:0794a04_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上依種類總說四諦，若依法體有麁有妙，能知之智有上有下。",
+        "from": "T34n1723_007:0794a05_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《勝鬘》依此說有八諦，謂有作四聖諦、無作四聖諦。",
+        "from": "T34n1723_007:0794a07_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是八聖諦非二乘所知。",
+        "from": "T34n1723_007:0794a08_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即新翻經云「安立諦、非安立諦」。",
+        "from": "T34n1723_007:0794a08_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有作四聖諦者，分段生死十二因緣名苦，煩惱及業名集，擇滅名滅，生空智品名道。",
+        "from": "T34n1723_007:0794a09_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無作四聖諦者，變易生死五蘊名苦，所知障名集，無住涅槃名滅，法空智品名道。",
+        "from": "T34n1723_007:0794a11_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如前已說。",
+        "from": "T34n1723_007:0794a13_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今依總相或依分段轉四諦輪，為二乘故。",
+        "from": "T34n1723_007:0794a13_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋名者，「四」者是數，「諦」者實義，唯聖知實，故名四聖諦。",
+        "from": "T34n1723_007:0794a14_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "苦真是苦，更無異苦等。",
+        "from": "T34n1723_007:0794a16_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五十五云：「諦義云何？",
+        "from": "T34n1723_007:0794a16_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如所說相不捨離義。",
+        "from": "T34n1723_007:0794a17_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由觀此故到清淨究竟義是諦義。」",
+        "from": "T34n1723_007:0794a17_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帶數釋也。",
+        "from": "T34n1723_007:0794a18_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "苦者逼迫，煩惱所生義。",
+        "from": "T34n1723_007:0794a18_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "集者招感，能生苦諦義。",
+        "from": "T34n1723_007:0794a19_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "滅者寂靜義，彼俱寂靜義。",
+        "from": "T34n1723_007:0794a19_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道者通因，能成三義。",
+        "from": "T34n1723_007:0794a20_44",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三義者，此中苦事、苦理、苦如；乃至道諦有三亦爾。",
+        "from": "T34n1723_007:0794a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "苦事名諦，持業釋。",
+        "from": "T34n1723_007:0794a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘二名諦，依主釋。",
+        "from": "T34n1723_007:0794a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "理、如二種，與其苦事雖非一異，然此皆非逼迫等故。",
+        "from": "T34n1723_007:0794a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廢立者，九十五云：「苦諦如諸病體，集諦如諸病因，滅諦如病生已而得除愈，道諦如病除已令後不生。",
+        "from": "T34n1723_007:0794a24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸有病者詣良醫所，但應尋求爾所正法；諸有良醫亦但應授爾所正法，是故更無第五聖諦。",
+        "from": "T34n1723_007:0794a26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸佛如來拔大毒箭無上良醫，亦但宣說爾所正法。",
+        "from": "T34n1723_007:0794a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如療病者知病、病因、病除之法；觀生死苦、苦因、苦滅、滅法亦爾，故復說言趣苦滅行。」",
+        "from": "T34n1723_007:0794a30_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋妨難者，五十五說：「何因故說知苦、斷集、證滅、修道四差別耶。",
+        "from": "T34n1723_007:0794b01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：由彼苦諦是四顛倒所依處故、為除顛倒故，應遍知苦。",
+        "from": "T34n1723_007:0794b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既遍知已，即遍知集，由彼集諦苦諦攝故。",
+        "from": "T34n1723_007:0794b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖遍知苦，仍為集諦之所隨逐，故須更說永斷集諦。",
+        "from": "T34n1723_007:0794b05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言觸證者是現見義，由於滅諦現前見故，不生怖畏、愛樂攝受，是故須說觸證滅諦。",
+        "from": "T34n1723_007:0794b06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若勤修道乃能成辦所說三義，是故次說修習道諦。",
+        "from": "T34n1723_007:0794b08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何故四諦如是次第？",
+        "from": "T34n1723_007:0794b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此故苦為初，如此故苦為次，此二攝黑品究竟；由此故樂為第三，如此故樂為第四，此二攝白品究竟。",
+        "from": "T34n1723_007:0794b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如重病、病因、病愈、良藥。",
+        "from": "T34n1723_007:0794b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如遭苦次第建立聖諦。",
+        "from": "T34n1723_007:0794b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如諸世間曾所遭苦，即於此處先發作意。",
+        "from": "T34n1723_007:0794b14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次於遭苦因，次於苦解脫，後於解脫方便發起作意。」",
+        "from": "T34n1723_007:0794b15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸門分別者，以十門分別：一幾蘊所攝？",
+        "from": "T34n1723_007:0794b16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三諦五蘊更互相攝，滅諦不爾，彼寂靜故。",
+        "from": "T34n1723_007:0794b17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二誰各幾行？",
+        "from": "T34n1723_007:0794b18_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答各四如次，謂無常、苦、空、無我。",
+        "from": "T34n1723_007:0794b18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因、集、生、緣，滅、靜、妙、離，道、如、行、出。",
+        "from": "T34n1723_007:0794b19_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三何故苦諦為四行、觀為除四倒？",
+        "from": "T34n1723_007:0794b20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無常除常倒，苦除二倒謂樂、淨倒，空無我除我倒，集諦四觀除四愛故。",
+        "from": "T34n1723_007:0794b21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由依常倒起後有愛，次依樂、淨二倒起貪喜俱行愛及彼彼希樂愛，次依我倒起獨愛。",
+        "from": "T34n1723_007:0794b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "滅為四觀，四種愛滅之所顯故。",
+        "from": "T34n1723_007:0794b25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道為四觀，由能證彼四愛滅故。",
+        "from": "T34n1723_007:0794b25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四誰解脫門攝幾行？",
+        "from": "T34n1723_007:0794b26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五入諦現觀有幾種？",
+        "from": "T34n1723_007:0794b27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六三乘觀諦有何差別？",
+        "from": "T34n1723_007:0794b27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七此四諦為世俗為勝義？",
+        "from": "T34n1723_007:0794b28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五十五涅槃唯勝義，六十四對非安立唯世俗攝，實通二種。",
+        "from": "T34n1723_007:0794b28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八諸諦相攝。",
+        "from": "T34n1723_007:0794b30_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九苦有幾種，餘三亦爾。",
+        "from": "T34n1723_007:0794b30_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十虛空、非擇滅，何諦所攝？",
+        "from": "T34n1723_007:0794b31_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "並如《瑜伽》、《對法》、《唯識》、《顯揚》等抄說，恐繁故止。",
+        "from": "T34n1723_007:0794b31_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「及廣說(至)憂悲苦惱」。",
+        "from": "T34n1723_007:0794c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下明十二緣起。",
+        "from": "T34n1723_007:0794c02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此有雜染、清淨，雜染、清淨皆有順逆觀。",
+        "from": "T34n1723_007:0794c03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此中有二：舉雜染順觀及清淨順觀，例雜染逆觀及例清淨逆觀。",
+        "from": "T34n1723_007:0794c04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此即染順觀也。",
+        "from": "T34n1723_007:0794c05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生死相生，故例染逆觀。",
+        "from": "T34n1723_007:0794c06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「無明滅(至)憂悲苦惱滅」。",
+        "from": "T34n1723_007:0794c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此清淨順觀。",
+        "from": "T34n1723_007:0794c07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初斷生死，故例逆觀也。",
+        "from": "T34n1723_007:0794c08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十二緣起以六門分別：一出體，二釋名，三緣相，四依世，五諸緣生攝，六染淨順逆。",
+        "from": "T34n1723_007:0794c08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出體者，無明支體，煩惱障中正取分別及兼任運愚癡為體。",
+        "from": "T34n1723_007:0794c10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《成唯識》云「此中無明唯取能發、正感後世善惡業者」，又云「正發業者唯見所斷，助者不定。",
+        "from": "T34n1723_007:0794c11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能發行者方是此支」。",
+        "from": "T34n1723_007:0794c14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "通相應、不共、纏及隨眠。",
+        "from": "T34n1723_007:0794c14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行支體通善及不善身、語、意業。",
+        "from": "T34n1723_007:0794c15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯感總報及通感總、別，二業為性。",
+        "from": "T34n1723_007:0794c15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯別報業則非行支，故《唯識》云「即彼所發乃名為行」。",
+        "from": "T34n1723_007:0794c16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此一切順現受業、別助當業皆非行支。",
+        "from": "T34n1723_007:0794c17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦通現、種，色、思為體。",
+        "from": "T34n1723_007:0794c18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "識支唯取第八異熟識種為體，故《唯識》云「此中識種謂本識因，唯取行支所集異熟第八識種，初結生故；總異熟故，唯在種位不取現行」。",
+        "from": "T34n1723_007:0794c19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有處說通前六識身，汎明一切識身為論，及依當來現起分位說有現行，乃至受支亦復如是。",
+        "from": "T34n1723_007:0794c22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名色支體，《成唯識》云「除後三因，餘因皆是名色種攝」。",
+        "from": "T34n1723_007:0794c24_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後之三因，如名次第即後三種。",
+        "from": "T34n1723_007:0794c26_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此說五支不相雜亂，於一剎那為行所集緣起支說，謂異熟六根種名六處支。",
+        "from": "T34n1723_007:0794c26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "異熟觸受種名觸受支，除本識種及此三種，餘諸異熟蘊種皆名色支。",
+        "from": "T34n1723_007:0794c28_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "契經又說，名謂非色四蘊，色謂羯剌藍等者。",
+        "from": "T34n1723_007:0795a01_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依當起時分位前後，於因中說雜緣起支，不爾如何得通五蘊？",
+        "from": "T34n1723_007:0795a02_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或汎通說一切名色，《唯識》又依雜體說云「或名色種總攝五因，於中隨勝立餘四種」。",
+        "from": "T34n1723_007:0795a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六處與識總別亦然，愛支唯是中下品貪。",
+        "from": "T34n1723_007:0795a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此雖通緣內外二果，諸論多取緣外境愛增上果生。",
+        "from": "T34n1723_007:0795a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "取支通用一切煩惱以為自體，全界煩惱皆結生故。",
+        "from": "T34n1723_007:0795a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能取、若所取、若所為取，所為取中隨順煩惱不取餘法。",
+        "from": "T34n1723_007:0795a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有處唯說愛增名取。",
+        "from": "T34n1723_007:0795a10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《唯識》會云「雖取支中攝餘煩惱，而愛閏勝，說是愛增。",
+        "from": "T34n1723_007:0795a11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且依初後分愛取二，實攝餘惑。」",
+        "from": "T34n1723_007:0795a12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愛、取二支通現及種，俱能閏故。",
+        "from": "T34n1723_007:0795a13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有支體即行等六支為愛、取閏，轉名為有。",
+        "from": "T34n1723_007:0795a14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有說唯業。",
+        "from": "T34n1723_007:0795a15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《唯識》會云：「此能正感異熟果故」。",
+        "from": "T34n1723_007:0795a15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有說唯五，《唯識》復云：「親生當來生老死位，識等五故。",
+        "from": "T34n1723_007:0795a16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此唯種子，能有果故」。",
+        "from": "T34n1723_007:0795a17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生支體者，《成唯識》云「始從中有至本有中，未衰變來，皆生支攝。",
+        "from": "T34n1723_007:0795a17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸衰變位總名為老。",
+        "from": "T34n1723_007:0795a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身壞命終乃名為死。",
+        "from": "T34n1723_007:0795a19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此三支體皆通五蘊，唯是現行異熟果攝。」",
+        "from": "T34n1723_007:0795a20_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有處亦說通種子者，如《緣起經》，能所引生一時而有，次第宣說義類無別，非是二支亦通種子。",
+        "from": "T34n1723_007:0795a21_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "憂悲苦惱因老死起，非是支攝。",
+        "from": "T34n1723_007:0795a23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《十地經》云：「死別離時，意根相對名憂，五根相對名苦，出聲啼哭名悲，愚人心熱名惱。",
+        "from": "T34n1723_007:0795a24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在下二界具色等支，無色不然。",
+        "from": "T34n1723_007:0795a26_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨所應有。」",
+        "from": "T34n1723_007:0795a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋名者，《瑜伽》有五釋：一云由煩惱繫縛，往諸趣中數數生起，故名緣起，依緣字起字釋名。",
+        "from": "T34n1723_007:0795a27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二依託眾緣速謝滅已，續和合生故名緣起。",
+        "from": "T34n1723_007:0795a29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此依剎那義釋名。",
+        "from": "T34n1723_007:0795a30_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "簡大眾部等十二緣起是無為法，亦簡正量部一期四相。",
+        "from": "T34n1723_007:0795a31_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三眾緣過去而不捨離，依自相續而得生起，故名緣起。",
+        "from": "T34n1723_007:0795b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如說此有故彼有，此生故彼生，非餘。",
+        "from": "T34n1723_007:0795b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今依此義以釋緣起。",
+        "from": "T34n1723_007:0795b03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此有故彼有者，顯無作緣生義。",
+        "from": "T34n1723_007:0795b04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此生故彼生者，顯無常緣生義。",
+        "from": "T34n1723_007:0795b04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非餘者，唯由有緣、果法得有，非緣有實作用能生果法，亦非無生法為因故，少所生法而得成立。",
+        "from": "T34n1723_007:0795b05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四數數謝滅、復相續起，故名緣起。",
+        "from": "T34n1723_007:0795b07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此依數壞數滅義釋。",
+        "from": "T34n1723_007:0795b08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五於過去世覺緣性已，等相續起，故名緣起。",
+        "from": "T34n1723_007:0795b09_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如世尊說，我已覺悟等起宣說。",
+        "from": "T34n1723_007:0795b10_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即由此名展轉傳說，故名緣起。",
+        "from": "T34n1723_007:0795b10_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又云離有情義，無自然我故。",
+        "from": "T34n1723_007:0795b11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至自業所作義是緣起義，於餘相續不受果故。",
+        "from": "T34n1723_007:0795b12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又《對法》及《緣起經》各十一釋。",
+        "from": "T34n1723_007:0795b13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《對法》又云「無作緣生故，無常緣生故，勢用緣生故。",
+        "from": "T34n1723_007:0795b14_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初二如前。",
+        "from": "T34n1723_007:0795b15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無明緣行等者，顯勢用緣生，雖復諸法無作無常，然不隨一法為緣故一切果生，諸法功能各差別故。」",
+        "from": "T34n1723_007:0795b15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "緣相者，無明有二：一真實義，愚通下中品；二異熟，愚唯是上品。",
+        "from": "T34n1723_007:0795b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此之二愚皆緣內身異熟果起。",
+        "from": "T34n1723_007:0795b19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行有二種：一善，二不善。",
+        "from": "T34n1723_007:0795b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或分為三：一不動、二福、三非福。",
+        "from": "T34n1723_007:0795b20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此為有分熏習所攝。",
+        "from": "T34n1723_007:0795b21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "識等五種名言熏習，此五無記，勢力羸劣，不能自生，處所未定，要待有分熏習方起。",
+        "from": "T34n1723_007:0795b22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由下品愚發不動業，由中品愚發於福業，由上品愚發非福業。",
+        "from": "T34n1723_007:0795b24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨發業已遂集識等五支種子，攝屬於行，有當生處，即是當來生老死種種位定。",
+        "from": "T34n1723_007:0795b25_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無五體前後差別之相，依當起位說因為五。",
+        "from": "T34n1723_007:0795b27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故《唯識》云：「謂緣迷內異熟果愚，發正能招後有諸業為緣，引發親生當來生老死位五果種已，次依迷外增上果愚緣境界受，發起貪愛，緣愛復生欲等四取，愛、取合閏能引業種及所引因，轉名為有。",
+        "from": "T34n1723_007:0795b28_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自從中有至本有中未衰變來，生支體起，衰變命終老死支現，憂悲苦惱種種隨生。」",
+        "from": "T34n1723_007:0795c02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此說由迷內身無明，緣異熟受能發諸業，遂集當來生老死位五支種子，有當生處。",
+        "from": "T34n1723_007:0795c04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復由迷外境界無明，緣境界受起愛及取，閏前行等六支種子，近有後果，轉立有名。",
+        "from": "T34n1723_007:0795c06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自後五支現行遂起，名生老死。",
+        "from": "T34n1723_007:0795c08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名緣起為緣之相。",
+        "from": "T34n1723_007:0795c09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《瑜伽》復有三釋，相生次第如《瑜伽》說。",
+        "from": "T34n1723_007:0795c09_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依世者，《成唯識》云「十因二果定不同世，要生後報方名為支，現報非故」。",
+        "from": "T34n1723_007:0795c10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂過去十支因，現在二支果；現在十支因，未來二支果。",
+        "from": "T34n1723_007:0795c12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因中前七與愛、取、有或異或同。",
+        "from": "T34n1723_007:0795c13_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生報定同，後報便異，謂過去七、現在三、未來二故。",
+        "from": "T34n1723_007:0795c14_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若二三七各定同世者、生、老死二支，愛、取有三，及前七支各定同世，勢相生故、力相似故。",
+        "from": "T34n1723_007:0795c15_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸緣生攝者，《攝論》第二云「若略說緣起有其二種：一分別自性緣起，謂依阿賴耶識諸法生起；二分別愛非愛緣起，謂十二緣起於善惡趣，能分別愛非愛自體為緣性故。」",
+        "from": "T34n1723_007:0795c17_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今此正說後一緣起，義亦攝前不正明之。",
+        "from": "T34n1723_007:0795c21_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復說三種，此二之中加受用緣生。",
+        "from": "T34n1723_007:0795c22_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《辨中邊》云「一則名緣識，第二名受者，此中能受用、分別、推心所。」",
+        "from": "T34n1723_007:0795c23_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受用緣生即六轉識，亦此義攝，非正辨之。",
+        "from": "T34n1723_007:0795c25_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《瑜伽》復說四種緣生：一能引，謂無明、行；二所引，謂識等五；三能生，謂愛、取、有；四所生，謂生、老死。",
+        "from": "T34n1723_007:0795c26_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《集論》說識亦是能引，識中業種名識支故，異熟識種名色攝故。",
+        "from": "T34n1723_007:0795c28_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《緣起經》說識支通能所引，業種、識種俱名識故，識是名色依、非名色攝故。",
+        "from": "T34n1723_007:0795c29_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《俱舍》第九復說四種：一者剎那，二者連縛，三者分位，四者遠續。",
+        "from": "T34n1723_007:0796a02_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何剎那？",
+        "from": "T34n1723_007:0796a03_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂剎那頃由貪行殺具十二支。",
+        "from": "T34n1723_007:0796a04_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "癡謂無明，思即是行，於諸境事了別名識。",
+        "from": "T34n1723_007:0796a04_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "識俱三蘊，總稱名色。",
+        "from": "T34n1723_007:0796a05_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住名色根說為六處。",
+        "from": "T34n1723_007:0796a06_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六處對餘和合有觸。",
+        "from": "T34n1723_007:0796a06_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "領觸名受。",
+        "from": "T34n1723_007:0796a07_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貪即是愛。",
+        "from": "T34n1723_007:0796a07_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與此相應諸纏名取。",
+        "from": "T34n1723_007:0796a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所起身語二業名有。",
+        "from": "T34n1723_007:0796a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是諸法起即名生。",
+        "from": "T34n1723_007:0796a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "熟變名老，滅壞名死。",
+        "from": "T34n1723_007:0796a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今者大乘，八識俱起、煩惱齊生，與彼不同。",
+        "from": "T34n1723_007:0796a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "理應思准。",
+        "from": "T34n1723_007:0796a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復有說者，剎那連縛如品類足，俱遍有為，非同前義。",
+        "from": "T34n1723_007:0796a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十二支位所有五蘊皆分位攝，即此懸遠相續無始，說名遠續。",
+        "from": "T34n1723_007:0796a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大乘業同，未爽通理。",
+        "from": "T34n1723_007:0796a13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "染淨順逆者，《對法》第四云：「雜染順逆故，清淨順逆故」。",
+        "from": "T34n1723_007:0796a14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雜染順逆者，或依流轉次第說，謂無明緣行乃至生緣老死，順次第說，此說生死次第相生。",
+        "from": "T34n1723_007:0796a15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或依安立諦說，謂老死、老死集、老死滅、老死趣滅行，如是乃至行、行集、行滅、行趣滅行，作四十四智。",
+        "from": "T34n1723_007:0796a17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無明無因，故非四十八，智種闕故。",
+        "from": "T34n1723_007:0796a20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此為後觀。",
+        "from": "T34n1723_007:0796a21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於前加行亦作七十七智，謂緣現在生而有老死，非不緣現在生而有老死。",
+        "from": "T34n1723_007:0796a21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現在自身自已作故便成二智，緣過去生、緣未來生亦各二智，合以成六。",
+        "from": "T34n1723_007:0796a23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀無始來一切老死皆緣於生，未來雖未起容有雜染還滅義故，今觀雜染，故成二智。",
+        "from": "T34n1723_007:0796a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此三際中初智觀果有因，顯其所由。",
+        "from": "T34n1723_007:0796a27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第二智觀果有因非不決定，破外妄計無因等生。",
+        "from": "T34n1723_007:0796a27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第七即觀前所不攝諸有漏慧，遍知義故。",
+        "from": "T34n1723_007:0796a29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即法住智遍知三世緣起教法，名支不攝，以為第七。",
+        "from": "T34n1723_007:0796a30_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前六真實智，此一法住智，合成七智，異生聖者俱有此智。",
+        "from": "T34n1723_007:0796a31_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今是見道已前凡位觀行，此後方入四十四智，四十四智近四諦故，住教等法是聞慧故，名法住智。",
+        "from": "T34n1723_007:0796b01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如實義而知是思、修慧，名真實智。",
+        "from": "T34n1723_007:0796b04_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此有漏觀，故名雜染。",
+        "from": "T34n1723_007:0796b05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文唯有順而無逆也。",
+        "from": "T34n1723_007:0796b05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清淨順逆者，謂無明滅故行滅乃至生滅故老死滅，順次第說，此依斷位次第而說。",
+        "from": "T34n1723_007:0796b06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由誰無故老死無，由誰滅故老死滅，乃至由誰無故行無，由誰滅故行滅。",
+        "from": "T34n1723_007:0796b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此依得果究竟位觀，逆次第說，文唯有順而無逆觀。",
+        "from": "T34n1723_007:0796b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣如《幽贊》下卷，恐繁故止。",
+        "from": "T34n1723_007:0796b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖無現前成獨覺者，令證聲聞亦說此緣，依之說諦亦成三周十二行相。",
+        "from": "T34n1723_007:0796b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「佛於天人(至)具八解脫」。",
+        "from": "T34n1723_007:0796b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第四顯生獲益。",
+        "from": "T34n1723_007:0796b14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初明獲益，後明眾多。",
+        "from": "T34n1723_007:0796b15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初中復二：初明初會，後明第二第三第四會事。",
+        "from": "T34n1723_007:0796b15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0796b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「受」者著也，不貪著一切法，故得心解脫。",
+        "from": "T34n1723_007:0796b17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心解脫者，由無明等煩惱解脫故，成慧解脫相應之心，不復緣境起於煩惱，名心解脫。",
+        "from": "T34n1723_007:0796b18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或禪定名心，能住心故，得俱解脫名心解脫。",
+        "from": "T34n1723_007:0796b20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「第二(至)得解脫」。",
+        "from": "T34n1723_007:0796b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此明第二第三第四會也。",
+        "from": "T34n1723_007:0796b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彌勒三會說，釋迦不說會，利益生機各不同故。",
+        "from": "T34n1723_007:0796b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「從是已後(至)不可稱數」。",
+        "from": "T34n1723_007:0796b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此明眾多。",
+        "from": "T34n1723_007:0796b25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上明聲聞法輪，故無菩薩。",
+        "from": "T34n1723_007:0796b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時十六王子(至)三菩提」。",
+        "from": "T34n1723_007:0796b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下第三大段，子繼傳燈。",
+        "from": "T34n1723_007:0796b27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有五：初出家啟請；二「爾時彼佛受沙彌請」下許可正說；三「說此經已即入靜室」下諸子傳燈；四「大通智勝佛過八萬四千劫」下佛起讚歎；五「佛告諸比丘是十六菩薩」下所化常益。",
+        "from": "T34n1723_007:0796b28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初文有二：初諸子出家啟請，後臣佐隨從出家。",
+        "from": "T34n1723_007:0796c01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初中復三：初明子德，次明啟請，後明請意。",
+        "from": "T34n1723_007:0796c02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0796c03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有六德：一已超羈網出家為沙彌，二聞法速悟諸根通利，三性情鑒達智慧明了，四久遇良緣曾供養佛，五堅持勝戒淨修梵行，六志希大果求正等覺。",
+        "from": "T34n1723_007:0796c03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「俱白佛言(至)佛自證知」。",
+        "from": "T34n1723_007:0796c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：初明啟請。",
+        "from": "T34n1723_007:0796c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔說小乘法輪利益聲聞乘訖，我意求大，請說大乘法輪。",
+        "from": "T34n1723_007:0796c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後明請意，我等志願大乘正法如來之知見，佛自證悉、佛自證明，願為我說。",
+        "from": "T34n1723_007:0796c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：何故前請，王子在前；今為說法，王子居後？",
+        "from": "T34n1723_007:0796c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：前據親疎，後明權實。",
+        "from": "T34n1723_007:0796c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時轉輪聖王(至)王即聽許」。",
+        "from": "T34n1723_007:0796c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此明臣佐隨從出家。",
+        "from": "T34n1723_007:0796c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初請、後許。",
+        "from": "T34n1723_007:0796c15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時彼佛(至)佛所護念」。",
+        "from": "T34n1723_007:0796c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下第二段許可正說。",
+        "from": "T34n1723_007:0796c16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有五，此中有二：初將說法時待機熟，故過二萬劫；二陳所說法妙法蓮華。",
+        "from": "T34n1723_007:0796c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙法蓮華正為聲聞，無量義經正為菩薩。",
+        "from": "T34n1723_007:0796c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何故此中為諸菩薩說於法華？",
+        "from": "T34n1723_007:0796c20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如前日月燈明因妙光法師、二十億菩薩樂欲聞法中釋。",
+        "from": "T34n1723_007:0796c20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：何故轉二乘法輪名為三轉十二行相，大乘不爾？",
+        "from": "T34n1723_007:0796c22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：理應如是。",
+        "from": "T34n1723_007:0796c23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但以聲聞者一坐可有成見及脩無學道義，菩薩不爾，由是不同。",
+        "from": "T34n1723_007:0796c23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此說十二緣，亦依四諦故。",
+        "from": "T34n1723_007:0796c25_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「說是經已(至)諷誦通利」。",
+        "from": "T34n1723_007:0796c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第三沙彌領悟。",
+        "from": "T34n1723_007:0796c26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「說是經時(至)未曾休廢」。",
+        "from": "T34n1723_007:0796c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此中有二：第四三根領悟，第五說法時節。",
+        "from": "T34n1723_007:0796c28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上根菩薩聞之信受，中根聲聞亦有信解，下根餘類皆生疑惑，是法華經難信解故、下根眾生機未熟故。",
+        "from": "T34n1723_007:0796c29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為今時漸，故說彼時有疑惑者。",
+        "from": "T34n1723_007:0797a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「說此經已(至)四千劫」。",
+        "from": "T34n1723_007:0797a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下第三段諸子傳燈。",
+        "from": "T34n1723_007:0797a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有三：一佛入寂定，二諸子說法，三所度多少。",
+        "from": "T34n1723_007:0797a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0797a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知子根熟，令子傳燈，故入寂定。",
+        "from": "T34n1723_007:0797a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「是時十六菩薩(至)妙法華經」。",
+        "from": "T34n1723_007:0797a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：諸子請法利益既眾，說法時長。",
+        "from": "T34n1723_007:0797a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「一一皆度(至)三菩提心」。",
+        "from": "T34n1723_007:0797a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：所度多少。",
+        "from": "T34n1723_007:0797a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "示教利喜，即新翻經云示現、教導、讚勵、慶喜。",
+        "from": "T34n1723_007:0797a10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《顯揚》第十二更加令離欲，謂訶毀諸行令離愛染，名令離欲。",
+        "from": "T34n1723_007:0797a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "示現四種真實道理名為示現，已得信解令正受行名為教導。",
+        "from": "T34n1723_007:0797a13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若彼退屈策發令進名為讚勵，彼隨法行讚令忻悅名為慶喜。",
+        "from": "T34n1723_007:0797a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼更有釋，恐繁且止。",
+        "from": "T34n1723_007:0797a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今此說四，除初離欲。",
+        "from": "T34n1723_007:0797a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此與示現俱令脩行，信解別故；譯家疎脫，義必應然。",
+        "from": "T34n1723_007:0797a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五漸化法故，義准定然。",
+        "from": "T34n1723_007:0797a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「大通智勝佛(至)令入其中」。",
+        "from": "T34n1723_007:0797a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下第四段佛起讚歎。",
+        "from": "T34n1723_007:0797a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初昇座讚歎，後勸人親信。",
+        "from": "T34n1723_007:0797a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0797a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讚歎有七：一希有，二根利，三智明，四近聖，五脩行，六受持佛智，七開示眾生。",
+        "from": "T34n1723_007:0797a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「汝等皆當(至)如來之慧」。",
+        "from": "T34n1723_007:0797a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此勸人親信。",
+        "from": "T34n1723_007:0797a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初標勸親近，後釋令信受。",
+        "from": "T34n1723_007:0797a25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「佛告諸比丘(至)悉皆信解」。",
+        "from": "T34n1723_007:0797a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下第五段所化常益。",
+        "from": "T34n1723_007:0797a26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有三，此中有二：初常說法華，二所化常益。",
+        "from": "T34n1723_007:0797a27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常益有二：一與菩薩俱，二聞法信解。",
+        "from": "T34n1723_007:0797a28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「以此因緣(至)於今不盡」。",
+        "from": "T34n1723_007:0797a30_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：第三釋成常義。",
+        "from": "T34n1723_007:0797a30_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯今法華會上，皆是彼時常益眾生。",
+        "from": "T34n1723_007:0797b01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾生世世常為友益，益猶未盡，生下結會之由漸也。",
+        "from": "T34n1723_007:0797b01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「諸比丘(至)以為眷屬」。",
+        "from": "T34n1723_007:0797b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下第四大段會成今佛。",
+        "from": "T34n1723_007:0797b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初標成佛現利群生，後顯異名成佛處所。",
+        "from": "T34n1723_007:0797b05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0797b06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「其二沙彌(至)二名師子相」。",
+        "from": "T34n1723_007:0797b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此顯異名成佛處所。",
+        "from": "T34n1723_007:0797b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿閦者，無動義，故相用煩惱等一切不動故。",
+        "from": "T34n1723_007:0797b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「閦」音初六反。",
+        "from": "T34n1723_007:0797b09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若齊作「珿」，直貌作「矗」，廉謹狀作「齪」，不知「閦」字所出。",
+        "from": "T34n1723_007:0797b09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「須彌頂」極尊高故。",
+        "from": "T34n1723_007:0797b10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「師子音」示無畏故。",
+        "from": "T34n1723_007:0797b11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「師子相」示降魔怨故。",
+        "from": "T34n1723_007:0797b11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「南方二佛(至)二名梵相」。",
+        "from": "T34n1723_007:0797b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：常證法性名虛空住，恒寂生死名為常滅。",
+        "from": "T34n1723_007:0797b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得大自在名帝相，能生群聖名梵相。",
+        "from": "T34n1723_007:0797b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「西方二佛(至)二名須彌相」。",
+        "from": "T34n1723_007:0797b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：阿彌陀云無量壽，慧命長故。",
+        "from": "T34n1723_007:0797b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "度世苦惱，常起悲故。",
+        "from": "T34n1723_007:0797b17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多摩羅跋栴檀香，云性無垢賢香。",
+        "from": "T34n1723_007:0797b18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾德莊嚴，名須彌相。",
+        "from": "T34n1723_007:0797b18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「北方二佛(至)三菩提」。",
+        "from": "T34n1723_007:0797b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：能施法雨，名雲自在。",
+        "from": "T34n1723_007:0797b20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "極廣覆蔭，名雲自在王。",
+        "from": "T34n1723_007:0797b21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能破生死，名懷怖畏。",
+        "from": "T34n1723_007:0797b21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能寂三業生死囂煩、證寂默理，名釋迦牟尼，此云能寂。",
+        "from": "T34n1723_007:0797b22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故娑婆世界，此云堪忍。",
+        "from": "T34n1723_007:0797b23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此土眾生不孝父母、不敬沙門，行十惡業道，日夜增長三塗八難無量辛楚，菩薩於中堪忍苦惱而行利益，名為堪忍。",
+        "from": "T34n1723_007:0797b24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「諸比丘(至)三菩提。」",
+        "from": "T34n1723_007:0797b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：上會佛事，下會弟子事。",
+        "from": "T34n1723_007:0797b27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有二：初正會弟子事，後「我滅度後復有」下釋疑難。",
+        "from": "T34n1723_007:0797b28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初文復二：初明昔化，後「爾時所化」下正結會之。",
+        "from": "T34n1723_007:0797b29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初文復二：初明昔化，後「是諸人等」下明住小所以。",
+        "from": "T34n1723_007:0797b30_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此初也。",
+        "from": "T34n1723_007:0797c01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本化大乘，於今有住聲聞地者，然於法華會前常為說《般若》等經，方便密化大乘，然彼不知我之所化事。",
+        "from": "T34n1723_007:0797c01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「是諸人等(至)難信難解」。",
+        "from": "T34n1723_007:0797c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此明住小所以。",
+        "from": "T34n1723_007:0797c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是人退性，不定姓攝，宜以權化令漸入道。",
+        "from": "T34n1723_007:0797c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以佛智慧難信難解故，非卒能學，故我化之初權後實。",
+        "from": "T34n1723_007:0797c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「爾時所化(至)弟子是也」。",
+        "from": "T34n1723_007:0797c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：正結會之。",
+        "from": "T34n1723_007:0797c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「我滅度後(至)當入涅槃」。",
+        "from": "T34n1723_007:0797c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：下釋疑難。",
+        "from": "T34n1723_007:0797c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂有難言：若諸聲聞皆當作佛，其遇佛者蒙佛教化可當住佛，佛滅度後有求聲聞不聞是經，不覺不知菩薩之行廣大弘遠，於自所證有為、無為二功德中，作有餘涅槃滅度想，求當入無餘涅槃，是人云何當得作佛？",
+        "from": "T34n1723_007:0797c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故下釋之。",
+        "from": "T34n1723_007:0797c16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文有其三：初牒所疑之人，次釋彼亦作佛，後解所由。",
+        "from": "T34n1723_007:0797c16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此牒所疑聲聞也。",
+        "from": "T34n1723_007:0797c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「我於餘國(至)得聞是經」。",
+        "from": "T34n1723_007:0797c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此釋彼亦作佛。",
+        "from": "T34n1723_007:0797c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我於餘國作佛，更有異名」者，《菩薩處胎經》說：「從此滅度，於十方面各三十二姟諸佛國土而復成佛教化眾生。」",
+        "from": "T34n1723_007:0797c20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下醫師喻中具顯是義。",
+        "from": "T34n1723_007:0797c22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是人雖生滅度之想，求入無餘涅槃，於我有緣，我以神通接引於彼，遇我得聞是經。",
+        "from": "T34n1723_007:0797c23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或是凡夫、若是有學，求有無餘涅槃，將此涅槃謂實滅度之想，求入證此二種涅槃，脩二乘行；種姓所排、慈悲所引，生彼遇我求佛智慧，或我從此餘國作佛，是人於我生滅度想，謂我入無餘，我引至彼令求佛智。",
+        "from": "T34n1723_007:0797c25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此說於我有遇緣者。",
+        "from": "T34n1723_007:0797c30_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或雖於我無此因緣，亦蒙他佛及菩薩等接引教化，聞是經典當得作佛。",
+        "from": "T34n1723_007:0797c31_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦有潛化成就此人，說法化導令向大乘。",
+        "from": "T34n1723_007:0798a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今說顯化於我有緣，故說於彼求佛智慧。",
+        "from": "T34n1723_007:0798a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或雖於餘佛有緣往彼，平等意趣故亦說是我。",
+        "from": "T34n1723_007:0798a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「唯以佛乘(至)方便說法」。",
+        "from": "T34n1723_007:0798a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贊曰：此解所由。",
+        "from": "T34n1723_007:0798a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由一佛乘究竟滅度，無異二乘究竟體故。",
+        "from": "T34n1723_007:0798a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方便說教可有三乘，或唯一極果體方便說有三因。",
+        "from": "T34n1723_007:0798a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因言長理。",
+        "from": "T34n1723_007:0798a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其《涅槃經．高貴德王品》「云何涅槃？",
+        "from": "T34n1723_007:0798a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何大涅槃？",
+        "from": "T34n1723_007:0798a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聲聞、緣覺，八萬劫、六萬劫、四萬劫、二萬劫、一萬劫所住，名為涅槃。",
+        "from": "T34n1723_007:0798a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無上法王聖主住處，名大涅槃。」",
+        "from": "T34n1723_007:0798a11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古人解云，二乘諸果經爾所時入彼無餘涅槃，後起迴心，便引《楞伽》菩薩佛等化作文，經爾所時耽三昧酒醉，然從彼起迴向大乘。",
+        "from": "T34n1723_007:0798a11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今解不然，彼二乘位經爾所時脩行向大者，彼於先時未迴心前，所應證得有餘涅槃者名為涅槃，法王所得名大涅槃，非二乘者。",
+        "from": "T34n1723_007:0798a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸有學位已經八萬劫乃至四萬已入涅槃，亦非無學入無餘依身智並無，入涅槃已便起身智，經二萬劫等脩行大行。",
+        "from": "T34n1723_007:0798a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "〈信解品〉云「我等長夜脩習空法。",
+        "from": "T34n1723_007:0798a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至住最後身有餘涅槃，則為已得報佛之恩。」",
+        "from": "T34n1723_007:0798a21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《莊嚴論》云「餘人善根涅槃時盡，菩薩不爾。」",
+        "from": "T34n1723_007:0798a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其二乘者入無餘涅槃善根若盡，同《莊嚴論》，云何經一萬劫等脩行始入十信，後經三無數劫方得菩提？",
+        "from": "T34n1723_007:0798a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本識既無，無識持種其身都盡，將何脩行？",
+        "from": "T34n1723_007:0798a26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誰得菩提？",
+        "from": "T34n1723_007:0798a27_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入無餘已若有善根，非但違教亦違正理。",
+        "from": "T34n1723_007:0798a27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身智既在，云何名為無餘涅槃？",
+        "from": "T34n1723_007:0798a28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不同如來無漏依在，名有餘依；有漏依盡，名無餘依。",
+        "from": "T34n1723_007:0798a29_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《勝鬘》亦言「二乘得涅槃者是佛方便」。",
+        "from": "T34n1723_007:0798a30_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《成唯識》云「不得無住，故名方便；或住有餘迴心向大，不得無餘，名得方便。」",
+        "from": "T34n1723_007:0798b01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《涅槃經．病行品》云「須陀洹人天七返斷結入於涅槃，是人未來過八萬劫當得成阿耨菩提。",
+        "from": "T34n1723_007:0798b03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斯陀含人一往來斷結入於涅槃，未來過六萬劫得阿耨菩提。",
+        "from": "T34n1723_007:0798b05_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿那含人不還，未來過四萬劫當得菩提。",
+        "from": "T34n1723_007:0798b06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿羅漢人過二萬劫當得菩提。",
+        "from": "T34n1723_007:0798b07_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辟支佛人過十千劫當得菩提。」",
+        "from": "T34n1723_007:0798b08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼經又云「過八萬劫當得阿耨多羅三藐三菩提心，非成正覺，名得菩提。」",
+        "from": "T34n1723_007:0798b09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古師解云：阿羅漢曾經七生者，以須陀洹名說；曾經二生者，以斯陀含名說；曾經上界生者，以阿那含名說；不經生而藉教者，以阿羅漢名說；不經生而得獨覺，以辟支佛名說。",
+        "from": "T34n1723_007:0798b11_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此前三人，凡身得果、聖身涅槃；後之二人，凡身得果、凡身涅槃。",
+        "from": "T34n1723_007:0798b15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "逕多生者鈍，所以經寂時多；經生少者利，所以逕寂時小。",
+        "from": "T34n1723_007:0798b16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所經八萬劫，引菩提留支解，仍以悲想八萬劫為一日夜，積此歲數成大劫。",
+        "from": "T34n1723_007:0798b18_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼壽無量大劫，過此已後方始發心。",
+        "from": "T34n1723_007:0798b20_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "驗之釋之未為典據。",
+        "from": "T34n1723_007:0798b20_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經釋須陀洹者，七生斷結得入涅槃，是須陀洹經八萬劫始得大菩提心。",
+        "from": "T34n1723_007:0798b21_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十信初位，誰言八萬劫住於涅槃？",
+        "from": "T34n1723_007:0798b23_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此阿羅漢，名須陀洹。",
+        "from": "T34n1723_007:0798b23_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經八萬劫始得發心，甚成可咲。",
+        "from": "T34n1723_007:0798b24_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又若入無餘，身依永盡，云何無因而後起耶？",
+        "from": "T34n1723_007:0798b25_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不爾無餘說是何義？",
+        "from": "T34n1723_007:0798b26_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若如佛入無餘涅槃；有漏永盡更得無漏，無漏既圓何不名佛？",
+        "from": "T34n1723_007:0798b26_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若斷縛盡名入無餘，身智不亡，無餘何在？",
+        "from": "T34n1723_007:0798b28_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有依身故，無餘、有餘二種何別？",
+        "from": "T34n1723_007:0798b29_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種種推徵，義難符信。",
+        "from": "T34n1723_007:0798b30_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然《涅槃經》「須陀洹人八萬劫」等，義如前說，實是彼果，非阿羅漢以彼名說，亦非阿羅漢有經生者。",
+        "from": "T34n1723_007:0798b30_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若彼經意但總說阿羅漢人，實有學人發心向大，復經幾時，應《涅槃經》無有學中而迴心者。",
+        "from": "T34n1723_007:0798c02_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此應以《涅槃等》經同《瑜伽》等最為善說。",
+        "from": "T34n1723_007:0798c04_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法華經玄贊卷第七(末)",
+        "from": "T34n1723_007:0798c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "保安三年五月晦日書了，法隆寺僧覺印之。",
+        "from": "T34n1723_007:0798c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同年十二月十日移點已了，以興福寺圓如房之本。",
+        "from": "T34n1723_007:0798c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法隆寺僧覺印，為令法久住、往生極樂為也。",
+        "from": "T34n1723_007:0798c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　高名點本也。",
+        "from": "T34n1723_007:0798c10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　與□摺本校(〔云云〕)。",
+        "from": "T34n1723_007:0798c10_3",
         "context_with_next_sentence": false
     }
 ]

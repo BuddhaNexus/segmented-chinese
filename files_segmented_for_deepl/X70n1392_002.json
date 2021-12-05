@@ -1605,7 +1605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "戲將老手拔鯨牙。",
+        "source_sentence": "戲將老手㧞鯨牙。",
         "from": "X70n1392_002:0525c20_5",
         "context_with_next_sentence": true
     },
@@ -2725,7 +2725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "我亦黃龍長老兒。",
+        "source_sentence": "我亦黃竜長老兒。",
         "from": "X70n1392_002:0527a15_4",
         "context_with_next_sentence": true
     },
@@ -3560,7 +3560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "汝今直往虎[俟ㄙ+亡]溪。",
+        "source_sentence": "汝今直往虎[俟-ㄙ+亡]溪。",
         "from": "X70n1392_002:0528a05_4",
         "context_with_next_sentence": true
     },
@@ -3965,7 +3965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不堪惆悵淚交頤。",
+        "source_sentence": "不堪惆悵淚交頥。",
         "from": "X70n1392_002:0528b17_1",
         "context_with_next_sentence": true
     },
@@ -4075,7 +4075,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "錢塘潮[袖由+感]宋王城。",
+        "source_sentence": "錢塘潮[袖-由+感]宋王城。",
         "from": "X70n1392_002:0528c06_3",
         "context_with_next_sentence": true
     },
@@ -4760,7 +4760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "這些柄杷捻得定。",
+        "source_sentence": "這些柄&#;捻得定。",
         "from": "X70n1392_002:0529c13_2",
         "context_with_next_sentence": true
     },
@@ -4850,7 +4850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "等閑[拚ㄙ+ㄊ]取娘生手。",
+        "source_sentence": "等閑[拚-ㄙ+ㄊ]取娘生手。",
         "from": "X70n1392_002:0530a01_0",
         "context_with_next_sentence": true
     },
@@ -5910,7 +5910,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "老眸近覺淚霑頤。",
+        "source_sentence": "老眸近覺淚霑頥。",
         "from": "X70n1392_002:0531b15_1",
         "context_with_next_sentence": true
     },
@@ -7310,7 +7310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]身親扶得。",
+        "source_sentence": "[拚-ㄙ+ㄊ]身親扶得。",
         "from": "X70n1392_002:0533a04_2",
         "context_with_next_sentence": true
     },
@@ -9362,6 +9362,86 @@
     {
         "source_sentence": "月磵和尚語錄卷下(終)",
         "from": "X70n1392_002:0535a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歲己未。",
+        "from": "X70n1392_002:0535b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自智者移仰山。",
+        "from": "X70n1392_002:0535b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "月磵撰榜疏。",
+        "from": "X70n1392_002:0535b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出惡語詈余一上。",
+        "from": "X70n1392_002:0535b04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歲丁酉。",
+        "from": "X70n1392_002:0535b05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "哲侍者持月磵五會錄至。",
+        "from": "X70n1392_002:0535b05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因自首至尾。",
+        "from": "X70n1392_002:0535b05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一閱過。",
+        "from": "X70n1392_002:0535b05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而若佛若祖。",
+        "from": "X70n1392_002:0535b06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "咸被呵罵。",
+        "from": "X70n1392_002:0535b06_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "老氣不平。",
+        "from": "X70n1392_002:0535b06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以德報德。",
+        "from": "X70n1392_002:0535b06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦出穢言。",
+        "from": "X70n1392_002:0535b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "罵伊一上云。",
+        "from": "X70n1392_002:0535b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大德元年結夏後五日。",
+        "from": "X70n1392_002:0535b07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨慈佛心老叔　　題。",
+        "from": "X70n1392_002:0535b07_3",
         "context_with_next_sentence": false
     }
 ]

@@ -4890,7 +4890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而[狂王+羊]狂。",
+        "source_sentence": "而[狂-王+羊]狂。",
         "from": "X85n1594_033:0652a08_37",
         "context_with_next_sentence": true
     },
@@ -20135,12 +20135,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "首座[妳女+口]曰在。",
+        "source_sentence": "首座[妳-女+口]曰在。",
         "from": "X85n1594_033:0663a09_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寺主[妳女+口]。",
+        "source_sentence": "寺主[妳-女+口]。",
         "from": "X85n1594_033:0663a09_1",
         "context_with_next_sentence": true
     },
@@ -20150,7 +20150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "維那[妳女+口]曰在。",
+        "source_sentence": "維那[妳-女+口]曰在。",
         "from": "X85n1594_033:0663a09_3",
         "context_with_next_sentence": true
     },

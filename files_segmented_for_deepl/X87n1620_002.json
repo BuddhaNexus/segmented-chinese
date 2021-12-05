@@ -1260,7 +1260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "落在肇法師圈[袖由+貴]裏。",
+        "source_sentence": "落在肇法師圈[袖-由+貴]裏。",
         "from": "X87n1620_002:0187a02_16",
         "context_with_next_sentence": true
     },
@@ -2760,7 +2760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "(大溈哲云。",
+        "source_sentence": "(大溈喆云。",
         "from": "X87n1620_002:0187c17_3",
         "context_with_next_sentence": true
     },
@@ -2810,7 +2810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "要且出他圈[袖由+貴]不得。",
+        "source_sentence": "要且出他圈[袖-由+貴]不得。",
         "from": "X87n1620_002:0187c18_13",
         "context_with_next_sentence": true
     },
@@ -4865,7 +4865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "這畜生更[跳兆+孛]跳在。",
+        "source_sentence": "這畜生更[跳-兆+孛]跳在。",
         "from": "X87n1620_002:0189a17_12",
         "context_with_next_sentence": true
     },
@@ -5395,7 +5395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任[跳兆+孛]跳。",
+        "source_sentence": "一任[跳-兆+孛]跳。",
         "from": "X87n1620_002:0189b18_12",
         "context_with_next_sentence": true
     },

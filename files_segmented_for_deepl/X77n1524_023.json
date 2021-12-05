@@ -1915,7 +1915,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更新其精舍之在成都與[郫卑+((白日+田)/廾)]者。",
+        "source_sentence": "更新其精舍之在成都與[郫-卑+((白-日+田)/廾)]者。",
         "from": "X77n1524_023:0517c08_17",
         "context_with_next_sentence": true
     },

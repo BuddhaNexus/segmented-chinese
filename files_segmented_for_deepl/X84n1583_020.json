@@ -1325,7 +1325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "者畜生更[跳兆+孛]跳在。",
+        "source_sentence": "者畜生更[跳-兆+孛]跳在。",
         "from": "X84n1583_020:0520a12_4",
         "context_with_next_sentence": true
     },
@@ -1855,7 +1855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "台州府瑞巖雲巢嵒禪師舉經題[丱(丌一)+八]字話。",
+        "source_sentence": "台州府瑞巖雲巢嵒禪師舉經題[丱-(丌-一)+八]字話。",
         "from": "X84n1583_020:0520b18_0",
         "context_with_next_sentence": true
     },
@@ -2985,7 +2985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遂府缽盂。",
+        "source_sentence": "遂府盋盂。",
         "from": "X84n1583_020:0521b15_6",
         "context_with_next_sentence": true
     },

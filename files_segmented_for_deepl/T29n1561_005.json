@@ -425,7 +425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "世尊曠劫為諸眾生修行[(妳女)小+水]引。",
+        "source_sentence": "世尊曠劫為諸眾生修行&#;引。",
         "from": "T29n1561_005:0327c18_14",
         "context_with_next_sentence": true
     },
@@ -817,6 +817,11 @@
     {
         "source_sentence": "　梵行妙成立　　聖道已善修",
         "from": "T29n1561_005:0328a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　壽盡時歡喜　　猶如捨眾病",
+        "from": "T29n1561_005:0328a27_0",
         "context_with_next_sentence": false
     }
 ]

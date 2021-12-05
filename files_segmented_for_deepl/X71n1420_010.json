@@ -245,7 +245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "總落拄杖圈[袖由+貴]。",
+        "source_sentence": "總落拄杖圈[袖-由+貴]。",
         "from": "X71n1420_010:0595b01_7",
         "context_with_next_sentence": true
     },
@@ -1980,7 +1980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "兩箇更是懡[怡台+羅]。",
+        "source_sentence": "兩箇更是懡[怡-台+羅]。",
         "from": "X71n1420_010:0596c01_41",
         "context_with_next_sentence": true
     },
@@ -2255,7 +2255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]而歸。",
+        "source_sentence": "懡[怡-台+羅]而歸。",
         "from": "X71n1420_010:0596c15_39",
         "context_with_next_sentence": true
     },
@@ -3495,7 +3495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "抽却釘拔却楔。",
+        "source_sentence": "抽却釘㧞却楔。",
         "from": "X71n1420_010:0597c07_1",
         "context_with_next_sentence": true
     },
@@ -7175,7 +7175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "邨歌社舞且淈[泳永+盾]。",
+        "source_sentence": "邨歌社舞且淈[泳-永+盾]。",
         "from": "X71n1420_010:0600b01_3",
         "context_with_next_sentence": true
     },
@@ -7835,7 +7835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不勝懡[怡台+羅]。",
+        "source_sentence": "不勝懡[怡-台+羅]。",
         "from": "X71n1420_010:0600c12_28",
         "context_with_next_sentence": true
     },
@@ -8075,7 +8075,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蝦蟇[跳兆+孛]跳上天。",
+        "source_sentence": "蝦蟇[跳-兆+孛]跳上天。",
         "from": "X71n1420_010:0601a01_6",
         "context_with_next_sentence": true
     },
@@ -8542,6 +8542,16 @@
     {
         "source_sentence": "佛日普照慧辯楚石禪師語錄卷第十",
         "from": "X71n1420_010:0601b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音切",
+        "from": "X71n1420_010:0601b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剜(於丸切)　窟竉(上口骨切下力董切)　橈(女交切)　[袖-由+貴](丘畏切)　髭(子移切)　葦(屬鬼切)　[尸@豕](丁木切)　攙(仕銜切)　蔕(都計切)　蝕(林直切)　餿(色求切)　貶(悲檢切)　[口*佛](佛音)　[口*后](呼垢切)　啒(古兀切)　[口*律](力述切)　奯(許活切)　龕(苦含切)",
+        "from": "X71n1420_010:0601b07_0",
         "context_with_next_sentence": false
     }
 ]

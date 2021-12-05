@@ -1745,12 +1745,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "牙關[跳兆+孛]跳。",
+        "source_sentence": "牙關[跳-兆+孛]跳。",
         "from": "X82n1571_045:0113c04_8",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也出他圈[袖由+貴]不得。",
+        "source_sentence": "也出他圈[袖-由+貴]不得。",
         "from": "X82n1571_045:0113c05_9",
         "context_with_next_sentence": true
     },
@@ -2685,7 +2685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鸕鶿語鶴　上堂。",
+        "source_sentence": "鸕鷀語鶴　上堂。",
         "from": "X82n1571_045:0114b10_8",
         "context_with_next_sentence": true
     },
@@ -2755,7 +2755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雲門扇子[跳兆+孛]跳。",
+        "source_sentence": "雲門扇子[跳-兆+孛]跳。",
         "from": "X82n1571_045:0114b13_22",
         "context_with_next_sentence": true
     },
@@ -10115,7 +10115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "諸方為人抽釘拔楔。",
+        "source_sentence": "諸方為人抽釘㧞楔。",
         "from": "X82n1571_045:0120a02_10",
         "context_with_next_sentence": true
     },
@@ -10915,7 +10915,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "和王即以庄隸本山。",
+        "source_sentence": "和王即以庄隷本山。",
         "from": "X82n1571_045:0120b21_13",
         "context_with_next_sentence": true
     },

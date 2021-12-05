@@ -150,7 +150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "千古萬古作話杷。",
+        "source_sentence": "千古萬古作話&#;。",
         "from": "X72n1440_003:0659c15_5",
         "context_with_next_sentence": true
     },
@@ -2695,7 +2695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "非心非佛尤懡[怡台+羅]。",
+        "source_sentence": "非心非佛尤懡[怡-台+羅]。",
         "from": "X72n1440_003:0663a15_16",
         "context_with_next_sentence": true
     },
@@ -4020,8 +4020,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "上紙墨",
+        "source_sentence": "上紙墨觸汙他眸。",
         "from": "X72n1440_003:0664b06_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "呵呵。",
+        "from": "X72n1440_003:0664b07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古洞且存這一滴。",
+        "from": "X72n1440_003:0664b07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫教舉世盡隨流。",
+        "from": "X72n1440_003:0664b07_17",
         "context_with_next_sentence": false
     }
 ]

@@ -2665,12 +2665,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "([(白日+田)/廾]慢類)有我勝。",
+        "source_sentence": "([(白-日+田)/廾]慢類)有我勝。",
         "from": "X58n1013_001:0516c14_8",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "([(白日+田)/廾]慢)有我劣。",
+        "source_sentence": "([(白-日+田)/廾]慢)有我劣。",
         "from": "X58n1013_001:0516c14_9",
         "context_with_next_sentence": true
     },
@@ -2685,7 +2685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "([(白日+田)/廾]慢類)無我等。",
+        "source_sentence": "([(白-日+田)/廾]慢類)無我等。",
         "from": "X58n1013_001:0516c15_12",
         "context_with_next_sentence": true
     },
@@ -15757,6 +15757,31 @@
     {
         "source_sentence": "華嚴法相槃節(終)",
         "from": "X58n1013_001:0527c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紹興十九年己巳歲正月望日。",
+        "from": "X58n1013_001:0527c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幹緣小師僧文質。",
+        "from": "X58n1013_001:0527c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前住廬山羅漢院傅賢首祖教明悟大師(道通)迴施此板。",
+        "from": "X58n1013_001:0527c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入臨安府南山慧因教院。",
+        "from": "X58n1013_001:0527c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常住流通。",
+        "from": "X58n1013_001:0527c06_2",
         "context_with_next_sentence": false
     }
 ]

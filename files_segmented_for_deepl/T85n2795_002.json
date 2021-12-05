@@ -4445,7 +4445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不可分者若錦若綺若毛[毯炎+旁]若氈若拘執毛過五指。",
+        "source_sentence": "不可分者若錦若綺若毛[毯-炎+旁]若氈若拘執毛過五指。",
         "from": "T85n2795_002:0709c01_10",
         "context_with_next_sentence": true
     },
@@ -10295,7 +10295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若護[跳兆+專]衣護髀衣拭手巾等。",
+        "source_sentence": "若護[跳-兆+專]衣護髀衣拭手巾等。",
         "from": "T85n2795_002:0714c24_2",
         "context_with_next_sentence": true
     },
@@ -14510,7 +14510,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "出",
+        "source_sentence": "出分律)。",
         "from": "T85n2795_002:0719a18_14",
         "context_with_next_sentence": false
     }

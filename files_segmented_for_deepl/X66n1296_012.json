@@ -2645,7 +2645,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "管教者老漢一場懡[怡台+羅]。",
+        "source_sentence": "管教者老漢一場懡[怡-台+羅]。",
         "from": "X66n1296_012:0070c16_5",
         "context_with_next_sentence": true
     },
@@ -3625,7 +3625,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "者僧自遠趨風[拚ㄙ+ㄊ]得喫棒。",
+        "source_sentence": "者僧自遠趨風[拚-ㄙ+ㄊ]得喫棒。",
         "from": "X66n1296_012:0071c19_2",
         "context_with_next_sentence": true
     },

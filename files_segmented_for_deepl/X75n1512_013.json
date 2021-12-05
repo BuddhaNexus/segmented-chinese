@@ -970,7 +970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "任我慢之[怡台+匾]心。",
+        "source_sentence": "任我慢之[怡-台+匾]心。",
         "from": "X75n1512_013:0172b04_10",
         "context_with_next_sentence": true
     },
@@ -2240,7 +2240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "榮曰[牙(必心)+?]得。",
+        "source_sentence": "榮曰[牙-(必-心)+?]得。",
         "from": "X75n1512_013:0173c14_7",
         "context_with_next_sentence": true
     },
@@ -2280,12 +2280,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若本際與道[牙(必心)+?]得相通。",
+        "source_sentence": "若本際與道[牙-(必-心)+?]得相通。",
         "from": "X75n1512_013:0173c15_15",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則亦可自然與道[牙(必心)+?]相法也。",
+        "source_sentence": "則亦可自然與道[牙-(必-心)+?]相法也。",
         "from": "X75n1512_013:0173c16_16",
         "context_with_next_sentence": true
     },
@@ -3035,7 +3035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "黃頤以蔭名來難。",
+        "source_sentence": "黃頥以蔭名來難。",
         "from": "X75n1512_013:0174b21_15",
         "context_with_next_sentence": true
     },

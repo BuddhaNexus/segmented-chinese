@@ -2550,7 +2550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不應入城村落生緣伽藍[撘合+言]底外道神祀。",
+        "source_sentence": "不應入城村落生緣伽藍[撘-合+言]底外道神祀。",
         "from": "T18n0895b_002:0742c25_4",
         "context_with_next_sentence": true
     },
@@ -6507,6 +6507,11 @@
     {
         "source_sentence": "蘇磨呼童子請問經卷下",
         "from": "T18n0895b_002:0746b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右大唐中天竺國三藏輸波迦羅(唐云善無畏)譯(沙門一行筆)承曆三年三月一日於大谷阿闍梨御　房奉受了",
+        "from": "T18n0895b_002:0746b18_0",
         "context_with_next_sentence": false
     }
 ]

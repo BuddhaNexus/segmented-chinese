@@ -9525,7 +9525,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "運普賢行入[利禾+廛]利生。",
+        "source_sentence": "運普賢行入[利-禾+廛]利生。",
         "from": "X08n0238_001:0462b11_16",
         "context_with_next_sentence": true
     },
@@ -10495,7 +10495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皆[泳永+曶]然不可得矣。",
+        "source_sentence": "皆[泳-永+曶]然不可得矣。",
         "from": "X08n0238_001:0463b17_12",
         "context_with_next_sentence": true
     },

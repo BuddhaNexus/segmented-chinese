@@ -1610,7 +1610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如[夢夕+棐]囊中風，開時即滅。",
+        "source_sentence": "譬如[夢-夕+棐]囊中風，開時即滅。",
         "from": "T15n0614_001:0275a18_20",
         "context_with_next_sentence": true
     },
@@ -1770,7 +1770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如[夢夕+棐]囊入出皆滿，口鼻風入出亦爾！",
+        "source_sentence": "譬如[夢-夕+棐]囊入出皆滿，口鼻風入出亦爾！",
         "from": "T15n0614_001:0275b28_6",
         "context_with_next_sentence": true
     },
@@ -2035,7 +2035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "七者、伊尼延鹿[蹲酋+(十/田/ㄙ)]。",
+        "source_sentence": "七者、伊尼延鹿[蹲-酋+(十/田/ㄙ)]。",
         "from": "T15n0614_001:0276a29_9",
         "context_with_next_sentence": true
     },

@@ -11650,7 +11650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "我之不[怡台+采]無窮。",
+        "source_sentence": "我之不[怡-台+采]無窮。",
         "from": "X12n0275_009:0445b15_5",
         "context_with_next_sentence": true
     },
@@ -24175,7 +24175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "心愛綿[泳永+曶]。",
+        "source_sentence": "心愛綿[泳-永+曶]。",
         "from": "X12n0275_009:0456c06_0",
         "context_with_next_sentence": true
     },
@@ -24190,7 +24190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "愛綿[泳永+曶]者。",
+        "source_sentence": "愛綿[泳-永+曶]者。",
         "from": "X12n0275_009:0456c07_0",
         "context_with_next_sentence": true
     },

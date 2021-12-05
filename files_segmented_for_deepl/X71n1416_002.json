@@ -500,12 +500,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不是冷落門[這言+(序予+手)]。",
+        "source_sentence": "不是冷落門[這-言+(序-予+手)]。",
         "from": "X71n1416_002:0413b13_5",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "正是光顯門[這言+(序予+手)]。",
+        "source_sentence": "正是光顯門[這-言+(序-予+手)]。",
         "from": "X71n1416_002:0413b14_6",
         "context_with_next_sentence": true
     },
@@ -585,7 +585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "由此[這言+(虎儿+几)]相傳授。",
+        "source_sentence": "由此&#;相傳授。",
         "from": "X71n1416_002:0413b19_0",
         "context_with_next_sentence": true
     },
@@ -1165,7 +1165,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "家無白[狂王+睪]之圖。",
+        "source_sentence": "家無白[狂-王+睪]之圖。",
         "from": "X71n1416_002:0414a01_9",
         "context_with_next_sentence": true
     },
@@ -2160,7 +2160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "X71n1416_002:0414c02_15",
         "context_with_next_sentence": true
     },

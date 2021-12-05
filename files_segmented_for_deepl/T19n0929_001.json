@@ -160,7 +160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "左手屈臂五指[网(ㄨ*ㄨ)+又]上。",
+        "source_sentence": "左手屈臂五指[网-(ㄨ*ㄨ)+又]上。",
         "from": "T19n0929_001:0066c11_6",
         "context_with_next_sentence": true
     },
@@ -555,7 +555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其色黃色駕[荻火+隹]。",
+        "source_sentence": "其色黃色駕[荻-火+隹]。",
         "from": "T19n0929_001:0067a26_1",
         "context_with_next_sentence": true
     },
@@ -742,6 +742,11 @@
     {
         "source_sentence": "　　　　　　　　二校了",
         "from": "T19n0929_001:0067b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　長治二秊六月二十五日奉寫畢",
+        "from": "T19n0929_001:0067b19_0",
         "context_with_next_sentence": false
     }
 ]

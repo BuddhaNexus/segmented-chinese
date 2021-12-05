@@ -840,7 +840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "麥中之麵。",
+        "source_sentence": "麥中之麫。",
         "from": "X85n1587_010:0060c24_5",
         "context_with_next_sentence": true
     },
@@ -1405,7 +1405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "石頭城[跳兆+孛]跳上梵天。",
+        "source_sentence": "石頭城[跳-兆+孛]跳上梵天。",
         "from": "X85n1587_010:0061b11_5",
         "context_with_next_sentence": true
     },
@@ -5270,8 +5270,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "龍喜[汁*(十/甲/寸)]禪師法嗣龍王山清涼千智幢毅禪師茶話。",
+        "source_sentence": "龍喜&#;禪師法嗣",
         "from": "X85n1587_010:0064c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍王山清涼千智幢毅禪師茶話。",
+        "from": "X85n1587_010:0064c09_0",
         "context_with_next_sentence": true
     },
     {
@@ -6610,7 +6615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若無舉鼎拔山力。",
+        "source_sentence": "若無舉鼎㧞山力。",
         "from": "X85n1587_010:0065c11_3",
         "context_with_next_sentence": true
     },
@@ -7575,8 +7580,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一",
+        "source_sentence": "一任丹霄獨步。",
         "from": "X85n1587_010:0066b21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假饒漆桶不快。",
+        "from": "X85n1587_010:0066b22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "切忌前途路滑。",
+        "from": "X85n1587_010:0066b22_13",
         "context_with_next_sentence": false
     }
 ]

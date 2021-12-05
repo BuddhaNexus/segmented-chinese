@@ -1630,7 +1630,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "在都俞[病丙+(臾/貝)]歌之列。",
+        "source_sentence": "在都俞[病-丙+(臾/貝)]歌之列。",
         "from": "T52n2117_002:0789a01_10",
         "context_with_next_sentence": true
     },
@@ -2405,7 +2405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "比之黃霸治頴州。",
+        "source_sentence": "比之黃覇治頴州。",
         "from": "T52n2117_002:0789c13_13",
         "context_with_next_sentence": true
     },

@@ -975,7 +975,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是名佛[門@(幅巾)]塞虗空。",
+        "source_sentence": "是名佛[門@(幅-巾)]塞虗空。",
         "from": "X68n1315_002:0010b11_8",
         "context_with_next_sentence": true
     },
@@ -1580,7 +1580,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦如麵體。",
+        "source_sentence": "亦如麫體。",
         "from": "X68n1315_002:0010c23_6",
         "context_with_next_sentence": true
     },
@@ -1590,12 +1590,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有人乞[飢几+追]。",
+        "source_sentence": "有人乞[飢-几+追]。",
         "from": "X68n1315_002:0010c24_8",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "變麵為[飢几+追]與他。",
+        "source_sentence": "變麫為[飢-几+追]與他。",
         "from": "X68n1315_002:0010c24_9",
         "context_with_next_sentence": true
     },
@@ -4985,7 +4985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "疼痛[病丙+習][病丙+習]。",
+        "source_sentence": "疼痛[病-丙+習][病-丙+習]。",
         "from": "X68n1315_002:0013b22_2",
         "context_with_next_sentence": true
     },

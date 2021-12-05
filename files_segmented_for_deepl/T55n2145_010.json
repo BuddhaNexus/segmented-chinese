@@ -5650,7 +5650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "嶮徑與夷路爭[跳兆+(轍車)]。",
+        "source_sentence": "嶮徑與夷路爭[跳-兆+(轍-車)]。",
         "from": "T55n2145_010:0075a22_54",
         "context_with_next_sentence": true
     },
@@ -6260,7 +6260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "玄[跳兆+(轍車)]一焉。",
+        "source_sentence": "玄[跳-兆+(轍-車)]一焉。",
         "from": "T55n2145_010:0075c21_10",
         "context_with_next_sentence": true
     },

@@ -600,7 +600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上三十三天。",
+        "source_sentence": "[跳-兆+孛]跳上三十三天。",
         "from": "X85n1591_002:0234a14_3",
         "context_with_next_sentence": true
     },
@@ -2300,7 +2300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大乘經首題[米木+八]字。",
+        "source_sentence": "大乘經首題[米-木+八]字。",
         "from": "X85n1591_002:0235b04_1",
         "context_with_next_sentence": true
     },
@@ -4245,7 +4245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "沒傝[仁二+(天/韭)]。",
+        "source_sentence": "沒傝&#;。",
         "from": "X85n1591_002:0236c12_4",
         "context_with_next_sentence": true
     },
@@ -4480,7 +4480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "露柱[跳兆+孛]跳時。",
+        "source_sentence": "露柱[跳-兆+孛]跳時。",
         "from": "X85n1591_002:0236c24_7",
         "context_with_next_sentence": true
     },
@@ -4930,7 +4930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔楔抽釘。",
+        "source_sentence": "㧞楔抽釘。",
         "from": "X85n1591_002:0237b02_1",
         "context_with_next_sentence": true
     },

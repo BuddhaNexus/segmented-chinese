@@ -5,7 +5,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "日本　(佐伯定胤　中野達慧)　共編 大慈恩寺大法師基公塔銘(并序)朝散大夫撿挍太子左庶子使持節金州諸軍事守金州刺史兼御史中丞輕車都尉賜紫金魚袋　　李宏慶　撰安國寺內供奉講論大德　建初　書按吏部李侍郎又碣文法師。",
+        "source_sentence": "日本　(佐伯定胤　中野達慧)　共編大慈恩寺大法師基公塔銘(并序)朝散大夫撿挍太子左庶子使持節金州諸軍事守金州刺史兼御史中丞輕車都尉賜紫金魚袋　　李宏慶　撰安國寺內供奉講論大德　建初　書按吏部李侍郎又碣文法師。",
         "from": "X88n1651_002:0381a14_0",
         "context_with_next_sentence": true
     },
@@ -180,7 +180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "字[序予+(朝/諱)]道。",
+        "source_sentence": "字[序-予+(朝/諱)]道。",
         "from": "X88n1651_002:0381b07_15",
         "context_with_next_sentence": true
     },
@@ -215,7 +215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[序予+(朝/諱)]道身長六尺五寸。",
+        "source_sentence": "[序-予+(朝/諱)]道身長六尺五寸。",
         "from": "X88n1651_002:0381b09_22",
         "context_with_next_sentence": true
     },
@@ -240,7 +240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三藏法師[序予+(朝/諱)]奘者。",
+        "source_sentence": "三藏法師[序-予+(朝/諱)]奘者。",
         "from": "X88n1651_002:0381b10_27",
         "context_with_next_sentence": true
     },
@@ -250,7 +250,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "見[序予+(朝/諱)]道。",
+        "source_sentence": "見[序-予+(朝/諱)]道。",
         "from": "X88n1651_002:0381b11_0",
         "context_with_next_sentence": true
     },
@@ -360,7 +360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "嗟乎[序予+(朝/諱)]道。",
+        "source_sentence": "嗟乎[序-予+(朝/諱)]道。",
         "from": "X88n1651_002:0381b16_22",
         "context_with_next_sentence": true
     },
@@ -445,7 +445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　佳城之南兮面南山　　[序予+(朝/諱)]奘法師兮葬其閒　基公既歿兮陪其後　　甲子一百兮四十九　碣文移入兮本寺中　　曇景取信兮田舍翁　義林高足兮曰令撿　　親承師言兮精誠感　試具畚鍤兮發[序予+(朝/諱)]堂　　全身不朽兮滿異香　銘誌分明兮是[序予+(朝/諱)]道　　齒白骨鮮兮無銷耗　瑞雲甘雨兮晝濛濛　　神祇悉窣兮羅壽宮　依教茶毗兮得舍利　　金瓶盛之兮埋厚地　建塔其上兮高巍巍　　銘勒貞石兮無媿辭　深谷為岸兮田為瀛　　此道寂然兮感則靈 大唐大慈恩寺法師基公碑朝請大夫撿校史部侍郎　李又　撰東郡荷渾寺主　沙門　正演　書法師諱基。",
+        "source_sentence": "　佳城之南兮面南山　　[序-予+(朝/諱)]奘法師兮葬其閒　基公既歿兮陪其後　　甲子一百兮四十九　碣文移入兮本寺中　　曇景取信兮田舍翁　義林高足兮曰令撿　　親承師言兮精誠感　試具畚鍤兮發[序-予+(朝/諱)]堂　　全身不朽兮滿異香　銘誌分明兮是[序-予+(朝/諱)]道　　齒白骨鮮兮無銷耗　瑞雲甘雨兮晝濛濛　　神祇悉窣兮羅壽宮　依教茶毗兮得舍利　　金瓶盛之兮埋厚地　建塔其上兮高巍巍　　銘勒貞石兮無媿辭　深谷為岸兮田為瀛　　此道寂然兮感則靈大唐大慈恩寺法師基公碑朝請大夫撿校史部侍郎　李又　撰東郡荷渾寺主　沙門　正演　書法師諱基。",
         "from": "X88n1651_002:0381b21_0",
         "context_with_next_sentence": true
     },
@@ -610,7 +610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鍾鼓[手于+ㄎ]宮而聞外。",
+        "source_sentence": "鍾鼓[手-于+ㄎ]宮而聞外。",
         "from": "X88n1651_002:0381c21_2",
         "context_with_next_sentence": true
     },
@@ -950,7 +950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[序予+(保/禾)]弉公而加廟侍。",
+        "source_sentence": "[序-予+(保/禾)]弉公而加廟侍。",
         "from": "X88n1651_002:0382a17_2",
         "context_with_next_sentence": true
     },
@@ -995,7 +995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "膺闕[這言+(序予+手)]之問。",
+        "source_sentence": "膺闕[這-言+(序-予+手)]之問。",
         "from": "X88n1651_002:0382a19_8",
         "context_with_next_sentence": true
     },
@@ -1190,12 +1190,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 大唐大慈恩寺大師畫讚",
+        "source_sentence": "大唐大慈恩寺大師畫讚",
         "from": "X88n1651_002:0382c02_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "特進行門下侍郎兼鎮西員外都督江滿昌文　慈恩大師尉遲氏　　諱大乘基長安人　族貴五陵光三輔　　鄂公敬德是其親　智勇冠世超衛霍　　李唐之初大功臣　文皇崇師稱大聖　　生立碑文垂絲綸　羯羅藍位多正夢　　漠月入口母方娠　金人持神珠寶杵　　託干胎中吉兆頻　身相圓滿載誕育　　肜雲成盖覆菓脣　眼浮紫電夏天影　　面駐素娥秋夜輪　少少之時早拔萃　　齠齔之間含慈惇　依止三藏學性相　　三千徒裏絕等倫　七十達者四賢聖　　就中大師深入神　亞聖具體比顏子　　窮源盡性同大鉤　三性五重唯識義　　愽涉學海到要津　百部疏主五明祖　　著述以來誰得均　字字句句不空置　　皆有證據永因循　伯牙響琴徒秘典　　卞和泣玉獨霑巾　論鼓一振疑關破　　他宗望風自委塵　對龍象眾能降伏　　昇師子座檀嚬伸　每月必造慈氏像　　一生偏慕兜率身　每日必誦菩薩戒　　唯杖木叉制波旬　一時高樓秋燈下　　有人窺見偷逡巡　大光普照觀自在　　金手染翰顯其真　不圖漢土化等覺　　開甘露門利兆民　自書般若何所至　　清凉山曉五臺春　瑞光赫赫慶雲起　　文殊正現示宿因　遊愽陵原製玄贊　　法華賾旨傳遠賓　當寶塔品人有夢　　諸佛證明遍照隣　二十八字一挑句　　文章微婉柢獲麟　傳導大師以此偈　　千佛滅度讚大仁　不嫌暗漏作章疏　　齒牙煥炳光曜新　咫尺龍顏奉鳳詔　　出入金殿陪紫震　天不與善化緣盡　　歲五十三俄已泯　永淳二年十一月　　仲旬三日為忌辰　先師慕側行祔禮　　風悲雲愁慘松筠　本願不回奉彌勒　　生第四天步華茵　名垂萬古涉五竺　　玄蹤雖多盡難陳 心經幽贊序(苗神容製)云。",
+        "source_sentence": "特進行門下侍郎兼鎮西員外都督江滿昌文　慈恩大師尉遲氏　　諱大乘基長安人　族貴五陵光三輔　　鄂公敬德是其親　智勇冠世超衛霍　　李唐之初大功臣　文皇崇師稱大聖　　生立碑文垂絲綸　羯羅藍位多正夢　　漠月入口母方娠　金人持神珠寶杵　　託干胎中吉兆頻　身相圓滿載誕育　　肜雲成盖覆菓脣　眼浮紫電夏天影　　面駐素娥秋夜輪　少少之時早拔萃　　齠齔之間含慈惇　依止三藏學性相　　三千徒裏絕等倫　七十達者四賢聖　　就中大師深入神　亞聖具體比顏子　　窮源盡性同大鉤　三性五重唯識義　　愽涉學海到要津　百部疏主五明祖　　著述以來誰得均　字字句句不空置　　皆有證據永因循　伯牙響琴徒秘典　　卞和泣玉獨霑巾　論鼓一振疑關破　　他宗望風自委塵　對龍象眾能降伏　　昇師子座檀嚬伸　每月必造慈氏像　　一生偏慕兜率身　每日必誦菩薩戒　　唯杖木叉制波旬　一時高樓秋燈下　　有人窺見偷逡巡　大光普照觀自在　　金手染翰顯其真　不圖漢土化等覺　　開甘露門利兆民　自書般若何所至　　清凉山曉五臺春　瑞光赫赫慶雲起　　文殊正現示宿因　遊愽陵原製玄贊　　法華賾旨傳遠賓　當寶塔品人有夢　　諸佛證明遍照隣　二十八字一挑句　　文章微婉柢獲麟　傳導大師以此偈　　千佛滅度讚大仁　不嫌暗漏作章疏　　齒牙煥炳光曜新　咫尺龍顏奉鳳詔　　出入金殿陪紫震　天不與善化緣盡　　歲五十三俄已泯　永淳二年十一月　　仲旬三日為忌辰　先師慕側行祔禮　　風悲雲愁慘松筠　本願不回奉彌勒　　生第四天步華茵　名垂萬古涉五竺　　玄蹤雖多盡難陳心經幽贊序(苗神容製)云。",
         "from": "X88n1651_002:0382c03_0",
         "context_with_next_sentence": true
     },
@@ -1230,7 +1230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "門啟[這言+(厂@若)]犀之貴。",
+        "source_sentence": "門啟[這-言+(厂@若)]犀之貴。",
         "from": "X88n1651_002:0383a20_7",
         "context_with_next_sentence": true
     },
@@ -1255,7 +1255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "辭[((└*且)/(句口+匕))*(白日+片)]。",
+        "source_sentence": "辭[((└*且)/(句-口+匕))*(白-日+片)]。",
         "from": "X88n1651_002:0383a21_12",
         "context_with_next_sentence": true
     },
@@ -1395,7 +1395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "代郡清凉之[阜(白日)+大]。",
+        "source_sentence": "代郡清凉之[阜-(白-日)+大]。",
         "from": "X88n1651_002:0383b04_6",
         "context_with_next_sentence": true
     },
@@ -1640,7 +1640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 唐故白馬寺主翻譯惠沼神塔碑(并序)刺史　李邕　撰觀夫譯悲智者。",
+        "source_sentence": "唐故白馬寺主翻譯惠沼神塔碑(并序)刺史　李邕　撰觀夫譯悲智者。",
         "from": "X88n1651_002:0383b20_0",
         "context_with_next_sentence": true
     },
@@ -1850,7 +1850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "交親權途僶俛旋[竺二+索]秊秊廿。",
+        "source_sentence": "交親權途僶俛旋[竺-二+索]秊秊廿。",
         "from": "X88n1651_002:0383c09_3",
         "context_with_next_sentence": true
     },
@@ -2335,7 +2335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "(明治三十八年十二月十一日　　末學定胤) 大周西明寺故大德圓測法師佛舍利塔銘(并序)貢士　宋復　撰并書法師諱文雅。",
+        "source_sentence": "(明治三十八年十二月十一日　　末學定胤)大周西明寺故大德圓測法師佛舍利塔銘(并序)貢士　宋復　撰并書法師諱文雅。",
         "from": "X88n1651_002:0384b07_0",
         "context_with_next_sentence": true
     },

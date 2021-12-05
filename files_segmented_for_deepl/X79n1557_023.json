@@ -305,7 +305,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳。",
+        "source_sentence": "扇子[跳-兆+孛]跳。",
         "from": "X79n1557_023:0197a21_5",
         "context_with_next_sentence": true
     },
@@ -2325,7 +2325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "必然明窗下安排。",
+        "source_sentence": "必然明窻下安排。",
         "from": "X79n1557_023:0198c02_13",
         "context_with_next_sentence": true
     },
@@ -5660,7 +5660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如稻麻竹[竺二+韋]。",
+        "source_sentence": "如稻麻竹[竺-二+韋]。",
         "from": "X79n1557_023:0201a05_14",
         "context_with_next_sentence": true
     },

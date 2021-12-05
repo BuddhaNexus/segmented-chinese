@@ -490,7 +490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如大寶珠名曰安眾，所處年歲，若放雨時，眾生即悉而得安隱，休息諸[病丙+(止/(止*止))]。",
+        "source_sentence": "如大寶珠名曰安眾，所處年歲，若放雨時，眾生即悉而得安隱，休息諸[病-丙+(止/(止*止))]。",
         "from": "T10n0291_002:0600b05_3",
         "context_with_next_sentence": true
     },

@@ -720,7 +720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "香風[颱台+弗][颱台+弗]吹。",
+        "source_sentence": "香風[颱-台+弗][颱-台+弗]吹。",
         "from": "X68n1315_029:0187a08_32",
         "context_with_next_sentence": true
     },
@@ -5635,7 +5635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "赤肐[骨*(歷秝+林)]身無妄想。",
+        "source_sentence": "赤肐[骨*(歷-秝+林)]身無妄想。",
         "from": "X68n1315_029:0190c01_10",
         "context_with_next_sentence": true
     },
@@ -5690,12 +5690,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "哩哩[怡台+羅]。",
+        "source_sentence": "哩哩[怡-台+羅]。",
         "from": "X68n1315_029:0190c03_9",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[怡台+羅][怡台+羅]哩。",
+        "source_sentence": "[怡-台+羅][怡-台+羅]哩。",
         "from": "X68n1315_029:0190c03_10",
         "context_with_next_sentence": true
     },
@@ -9380,12 +9380,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "打鼓說禪無尾杷。",
+        "source_sentence": "打鼓說禪無尾&#;。",
         "from": "X68n1315_029:0193b05_9",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無尾杷。",
+        "source_sentence": "無尾&#;。",
         "from": "X68n1315_029:0193b06_10",
         "context_with_next_sentence": true
     },

@@ -3150,7 +3150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "開眼落人圈[袖由+貴]。",
+        "source_sentence": "開眼落人圈[袖-由+貴]。",
         "from": "T47n1998A_005:0831c13_17",
         "context_with_next_sentence": true
     },
@@ -4732,6 +4732,11 @@
     {
         "source_sentence": "鄮山山下是真歸。",
         "from": "T47n1998A_005:0833a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大慧普覺禪師住阿育王山廣利禪寺語錄卷第五",
+        "from": "T47n1998A_005:0833a16_0",
         "context_with_next_sentence": false
     }
 ]

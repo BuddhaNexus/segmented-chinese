@@ -490,7 +490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[吭几+(坐工+十)]啄同時。",
+        "source_sentence": "[吭-几+(坐-工+十)]啄同時。",
         "from": "X73n1452_002:0155c05_35",
         "context_with_next_sentence": true
     },
@@ -4440,7 +4440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如能[拚ㄙ+ㄊ]命挨久轉得。",
+        "source_sentence": "如能[拚-ㄙ+ㄊ]命挨久轉得。",
         "from": "X73n1452_002:0158c14_21",
         "context_with_next_sentence": true
     },

@@ -230,7 +230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "久之和手中箇杷柄子一齊拈却。",
+        "source_sentence": "久之和手中箇&#;柄子一齊拈却。",
         "from": "X72n1442_002:0690a09_13",
         "context_with_next_sentence": true
     },
@@ -685,7 +685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一曲冷然越[打丁+羕]新。",
+        "source_sentence": "一曲冷然越[打-丁+羕]新。",
         "from": "X72n1442_002:0690b16_3",
         "context_with_next_sentence": true
     },
@@ -4985,8 +4985,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "擬議鋒鋩失却威(苟非",
+        "source_sentence": "擬議鋒鋩失却威(苟非親悟親證而以比智知。",
         "from": "X72n1442_002:0694c11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是擬議。",
+        "from": "X72n1442_002:0694c12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而不離正位。",
+        "from": "X72n1442_002:0694c12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是犯鋒鋩失却威光也)。",
+        "from": "X72n1442_002:0694c12_10",
         "context_with_next_sentence": false
     }
 ]

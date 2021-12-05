@@ -3280,7 +3280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(虎儿+巾)*ㄆ]者虎文也。",
+        "source_sentence": "[(虎-儿+巾)*ㄆ]者虎文也。",
         "from": "X37n0661_008:0279c11_0",
         "context_with_next_sentence": true
     },
@@ -5880,7 +5880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂權[狂王+(魚*予)]刊定。",
+        "source_sentence": "謂權[狂-王+(魚*予)]刊定。",
         "from": "X37n0661_008:0282b12_43",
         "context_with_next_sentence": true
     },
@@ -6860,7 +6860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[序予+禾](美皮涉公云和[打丁+崇]類又述音[序予+禾]粟也)黎(洛嵇反)。",
+        "source_sentence": "[序-予+禾](美皮涉公云和[打-丁+崇]類又述音[序-予+禾]粟也)黎(洛嵇反)。",
         "from": "X37n0661_008:0283b19_3",
         "context_with_next_sentence": true
     },
@@ -13107,6 +13107,11 @@
     {
         "source_sentence": "涅槃疏私記卷第八",
         "from": "X37n0661_008:0290c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "承保四年五月書寫之了",
+        "from": "X37n0661_008:0290c24_0",
         "context_with_next_sentence": false
     }
 ]

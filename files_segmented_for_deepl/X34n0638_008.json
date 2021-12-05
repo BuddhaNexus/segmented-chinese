@@ -3370,7 +3370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "夏月行著向北[澗日+活]路。",
+        "source_sentence": "夏月行著向北[澗-日+活]路。",
         "from": "X34n0638_008:0336c22_23",
         "context_with_next_sentence": true
     },
@@ -10000,7 +10000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "據由[((〡*〡)*(素糸))/(疋(足口)+廾)]也(上解住義)。",
+        "source_sentence": "據由[((〡*〡)*(素-糸))/(疋-(足-口)+廾)]也(上解住義)。",
         "from": "X34n0638_008:0342b23_22",
         "context_with_next_sentence": true
     },
@@ -20930,7 +20930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "漸悟小[乘*(百日+ㄎ)]菩薩。",
+        "source_sentence": "漸悟小[乘*(百-日+ㄎ)]菩薩。",
         "from": "X34n0638_008:0352a20_7",
         "context_with_next_sentence": true
     },
@@ -21440,7 +21440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一不得[得彳+言]詐現異相。",
+        "source_sentence": "一不得[得-彳+言]詐現異相。",
         "from": "X34n0638_008:0352c02_18",
         "context_with_next_sentence": true
     },
@@ -21950,7 +21950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "言諸眾中[宋木+取]大者。",
+        "source_sentence": "言諸眾中[宋-木+取]大者。",
         "from": "X34n0638_008:0353a13_0",
         "context_with_next_sentence": true
     },

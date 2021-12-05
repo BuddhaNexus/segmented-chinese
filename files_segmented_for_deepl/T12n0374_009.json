@@ -1540,7 +1540,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "王不肯服，爾時良醫以呪術力，令王糞門遍生瘡疱，兼復[病丙+帶]下，虫血雜出。",
+        "source_sentence": "王不肯服，爾時良醫以呪術力，令王糞門遍生瘡疱，兼復[病-丙+帶]下，虫血雜出。",
         "from": "T12n0374_009:0420b19_29",
         "context_with_next_sentence": true
     },

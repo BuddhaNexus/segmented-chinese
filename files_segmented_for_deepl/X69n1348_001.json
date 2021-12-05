@@ -560,7 +560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "冷却构欄懡[怡台+羅]休。",
+        "source_sentence": "冷却构欄懡[怡-台+羅]休。",
         "from": "X69n1348_001:0273a11_3",
         "context_with_next_sentence": true
     },
@@ -1245,8 +1245,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "憑仗高樓莫吹",
+        "source_sentence": "憑仗高樓莫吹笛。",
         "from": "X69n1348_001:0274a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大家留取倚闌看。",
+        "from": "X69n1348_001:0274a07_5",
         "context_with_next_sentence": false
     }
 ]

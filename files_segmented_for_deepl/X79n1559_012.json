@@ -1780,7 +1780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拂子[跳兆+孛]跳過流沙。",
+        "source_sentence": "拂子[跳-兆+孛]跳過流沙。",
         "from": "X79n1559_012:0365c10_19",
         "context_with_next_sentence": true
     },
@@ -6192,6 +6192,16 @@
     {
         "source_sentence": "嘉泰普燈錄卷第十二",
         "from": "X79n1559_012:0369b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_012:0369b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　蹣音盤　泐音勒　琂音言　璘音隣　於音烏　菟音徒　與去聲　眨音劄　髼音蓬　鬆音松　榾音骨　柮音咄　飫音瘀　扱初洽切　巘魚蹇切　譊女交初　岍口強切　[薿-(予-(丁-一))+(了-(丁-一))]音紀切",
+        "from": "X79n1559_012:0369b04_0",
         "context_with_next_sentence": false
     }
 ]

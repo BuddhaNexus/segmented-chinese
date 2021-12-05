@@ -450,7 +450,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "所謂無量法雲雨[澍士+上]及一切眾生者。",
+        "source_sentence": "所謂無量法雲雨[澍-士+上]及一切眾生者。",
         "from": "X39n0705_002:0241c02_2",
         "context_with_next_sentence": true
     },
@@ -19055,8 +19055,273 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "本業經疏卷下　　　　　　　　釋元曉撰",
+        "source_sentence": "本業經疏卷下　　　　　　　　釋元曉撰菩薩瓔珞本業經二卷　南職　北篤　宋剋姚秦涼州沙門竺佛念譯集眾品(第一)佛重遊道場樹下。",
         "from": "X39n0705_002:0259a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "放四十二光。",
+        "from": "X39n0705_002:0259a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "集十首菩薩。",
+        "from": "X39n0705_002:0259a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從十林剎十精進佛所來及集一切諸天眾等。",
+        "from": "X39n0705_002:0259a22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "賢聖名字品(第二)說十行十迴向十地等覺妙覺名字。",
+        "from": "X39n0705_002:0259a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆華梵雙舉。",
+        "from": "X39n0705_002:0259b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又說住前十心信念精進定慧戒迴向護法捨願。",
+        "from": "X39n0705_002:0259b01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又說二十四願偈。",
+        "from": "X39n0705_002:0259b02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦說十不可悔戒。",
+        "from": "X39n0705_002:0259b02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "賢聖學觀品(第三)謂十住名習種性。",
+        "from": "X39n0705_002:0259b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十行名性種性。",
+        "from": "X39n0705_002:0259b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十向名道種性。",
+        "from": "X39n0705_002:0259b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十地名聖種性。",
+        "from": "X39n0705_002:0259b05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次等覺性。",
+        "from": "X39n0705_002:0259b05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次妙覺性。",
+        "from": "X39n0705_002:0259b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又名六堅。",
+        "from": "X39n0705_002:0259b06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又名六忍。",
+        "from": "X39n0705_002:0259b06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又名六慧。",
+        "from": "X39n0705_002:0259b06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又名六定。",
+        "from": "X39n0705_002:0259b06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又名六觀。",
+        "from": "X39n0705_002:0259b06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又名六寶瓔珞。",
+        "from": "X39n0705_002:0259b07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一銅寶。",
+        "from": "X39n0705_002:0259b07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二銀寶。",
+        "from": "X39n0705_002:0259b07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三金寶。",
+        "from": "X39n0705_002:0259b07_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四瑠璃寶。",
+        "from": "X39n0705_002:0259b07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五摩尼寶。",
+        "from": "X39n0705_002:0259b08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六水精寶。",
+        "from": "X39n0705_002:0259b08_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "并說六位所修諸行(已上經上)。",
+        "from": "X39n0705_002:0259b08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋義品(第四)仍釋前十信及四十二位之義。",
+        "from": "X39n0705_002:0259b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛母品(第五)答敬首菩薩問二諦義。",
+        "from": "X39n0705_002:0259b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "并說小中大劫差別。",
+        "from": "X39n0705_002:0259b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因果品(第六)明十波羅蜜。",
+        "from": "X39n0705_002:0259b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各有三緣。",
+        "from": "X39n0705_002:0259b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及說七財四攝四辨四依等為因。",
+        "from": "X39n0705_002:0259b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二種法身為果。",
+        "from": "X39n0705_002:0259b14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大眾受學品(第七)佛復放光集眾。",
+        "from": "X39n0705_002:0259b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "囑文殊及善財等七大菩薩。",
+        "from": "X39n0705_002:0259b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各領大眾受學。",
+        "from": "X39n0705_002:0259b16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因分別三種受戒。",
+        "from": "X39n0705_002:0259b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及受戒儀式。",
+        "from": "X39n0705_002:0259b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由受戒故。",
+        "from": "X39n0705_002:0259b17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次第入於住行向地等妙覺中集散品(第八)三勸大眾發菩提心。",
+        "from": "X39n0705_002:0259b17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至再囑須受菩薩戒已。",
+        "from": "X39n0705_002:0259b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方可為說此大法門。",
+        "from": "X39n0705_002:0259b19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右出于閱藏知津卷第三十二大乘律藏部內。",
+        "from": "X39n0705_002:0259b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上有佛說梵網經二卷。",
+        "from": "X39n0705_002:0259b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "素革禪師評曰。",
+        "from": "X39n0705_002:0259b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此經本與華嚴同部。",
+        "from": "X39n0705_002:0259b21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今性品單行故。",
+        "from": "X39n0705_002:0259b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南北二藏皆歸於律(此經下曰)。",
+        "from": "X39n0705_002:0259b22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此亦仍似華嚴部攝。",
+        "from": "X39n0705_002:0259b23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者大師依此判別圖位次。",
+        "from": "X39n0705_002:0259b23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今因始終申明十重戒法故。",
+        "from": "X39n0705_002:0259b24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南北皆歸律藏。",
+        "from": "X39n0705_002:0259b24_8",
         "context_with_next_sentence": false
     }
 ]

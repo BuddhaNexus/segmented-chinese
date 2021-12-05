@@ -5730,7 +5730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[嚶賏+吉]後二。",
+        "source_sentence": "[嚶-賏+吉]後二。",
         "from": "X50n0816_001:0005b14_3",
         "context_with_next_sentence": true
     },
@@ -8610,7 +8610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂於色根名[窱(ㄆ/木)+(唚口)]於窟。",
+        "source_sentence": "謂於色根名[窱-(ㄆ/木)+(唚-口)]於窟。",
         "from": "X50n0816_001:0007c08_1",
         "context_with_next_sentence": true
     },
@@ -23105,7 +23105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[阜十]宗解也。",
+        "source_sentence": "[阜-十]宗解也。",
         "from": "X50n0816_001:0019a19_2",
         "context_with_next_sentence": true
     },
@@ -24607,6 +24607,16 @@
     {
         "source_sentence": "成唯識論演秘釋",
         "from": "X50n0816_001:0020b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "東域傳灯目錄云演秘釋五卷如理今獲其第一卷一冊於藥師寺經庫便寫得了。",
+        "from": "X50n0816_001:0020b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明治三十一年春南京應理末學　定胤",
+        "from": "X50n0816_001:0020b19_0",
         "context_with_next_sentence": false
     }
 ]

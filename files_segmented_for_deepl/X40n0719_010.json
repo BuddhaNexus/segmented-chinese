@@ -45,7 +45,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或風吹鳥[銜金+缶]而墮生草菜中。",
+        "source_sentence": "或風吹鳥[銜-金+缶]而墮生草菜中。",
         "from": "X40n0719_010:0423b13_4",
         "context_with_next_sentence": true
     },
@@ -185,7 +185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "脚[跳兆+專]垢汙。",
+        "source_sentence": "脚[跳-兆+專]垢汙。",
         "from": "X40n0719_010:0423b21_2",
         "context_with_next_sentence": true
     },
@@ -8292,6 +8292,781 @@
     {
         "source_sentence": "重治毗尼事義集要卷第十",
         "from": "X40n0719_010:0431a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音義",
+        "from": "X40n0719_010:0431a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "肘隱人隱蔽也。",
+        "from": "X40n0719_010:0431a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又安也。",
+        "from": "X40n0719_010:0431a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦憑著也。",
+        "from": "X40n0719_010:0431a23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "楯乳允切。",
+        "from": "X40n0719_010:0431a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與盾同。",
+        "from": "X40n0719_010:0431a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "富羅此翻短靿靴。",
+        "from": "X40n0719_010:0431b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靿音要。",
+        "from": "X40n0719_010:0431b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靴統也。",
+        "from": "X40n0719_010:0431b01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菴羅果亦云菴婆羅。",
+        "from": "X40n0719_010:0431b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦云菴摩羅。",
+        "from": "X40n0719_010:0431b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舊翻為奈。",
+        "from": "X40n0719_010:0431b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "新翻為難分別。",
+        "from": "X40n0719_010:0431b02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其果似桃非桃。",
+        "from": "X40n0719_010:0431b03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "似柰非柰。",
+        "from": "X40n0719_010:0431b03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又生熟難分。",
+        "from": "X40n0719_010:0431b03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鉾音矛。",
+        "from": "X40n0719_010:0431b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同矛。",
+        "from": "X40n0719_010:0431b05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "長二丈。",
+        "from": "X40n0719_010:0431b05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "建於兵車。",
+        "from": "X40n0719_010:0431b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其端如劒。",
+        "from": "X40n0719_010:0431b05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鑷音聶。",
+        "from": "X40n0719_010:0431b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[竺-二+拍]也。",
+        "from": "X40n0719_010:0431b06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "璫音當。",
+        "from": "X40n0719_010:0431b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "穿耳垂珠。",
+        "from": "X40n0719_010:0431b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "犍音堅。",
+        "from": "X40n0719_010:0431b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "犗牛也。",
+        "from": "X40n0719_010:0431b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "犗音界。",
+        "from": "X40n0719_010:0431b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡畜之強健者曰犗。",
+        "from": "X40n0719_010:0431b08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讟音讀。",
+        "from": "X40n0719_010:0431b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "怨謗也。",
+        "from": "X40n0719_010:0431b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿含亦云阿笈多。",
+        "from": "X40n0719_010:0431b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此翻教又翻無比法。",
+        "from": "X40n0719_010:0431b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即如來所說之言教也。",
+        "from": "X40n0719_010:0431b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又翻法歸。",
+        "from": "X40n0719_010:0431b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂萬法之淵府。",
+        "from": "X40n0719_010:0431b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "總持之林苑也。",
+        "from": "X40n0719_010:0431b11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又翻傳所說義。",
+        "from": "X40n0719_010:0431b12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "通則大小二教皆號阿含。",
+        "from": "X40n0719_010:0431b12_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "別則小開四部。",
+        "from": "X40n0719_010:0431b13_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂增一阿含。",
+        "from": "X40n0719_010:0431b13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明人天因果。",
+        "from": "X40n0719_010:0431b13_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "長阿含。",
+        "from": "X40n0719_010:0431b13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "破邪見。",
+        "from": "X40n0719_010:0431b14_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中阿含。",
+        "from": "X40n0719_010:0431b14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明諸深義。",
+        "from": "X40n0719_010:0431b14_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雜阿含。",
+        "from": "X40n0719_010:0431b14_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明諸禪法。",
+        "from": "X40n0719_010:0431b14_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "罪名罪種五篇七聚為罪名。",
+        "from": "X40n0719_010:0431b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二百五十事為罪種。",
+        "from": "X40n0719_010:0431b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "之楚北轅楚在中州之南。",
+        "from": "X40n0719_010:0431b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲往楚而北其轅。",
+        "from": "X40n0719_010:0431b17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則愈馳愈遠。",
+        "from": "X40n0719_010:0431b17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "海運圖南決起控地莊子逍遙游篇。",
+        "from": "X40n0719_010:0431b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明北溟鯤魚。",
+        "from": "X40n0719_010:0431b19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "化為鵬鳥。",
+        "from": "X40n0719_010:0431b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "海風發動。",
+        "from": "X40n0719_010:0431b20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃徙於南溟。",
+        "from": "X40n0719_010:0431b20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "水擊三千里。",
+        "from": "X40n0719_010:0431b20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摶風而上者九萬里。",
+        "from": "X40n0719_010:0431b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "去以六月乃息。",
+        "from": "X40n0719_010:0431b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此譬大人境界。",
+        "from": "X40n0719_010:0431b21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所養者厚。",
+        "from": "X40n0719_010:0431b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所行者遠。",
+        "from": "X40n0719_010:0431b22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所持者久也。",
+        "from": "X40n0719_010:0431b22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又云。",
+        "from": "X40n0719_010:0431b22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斥鷃笑之曰。",
+        "from": "X40n0719_010:0431b22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我決起而飛搶榆枋。",
+        "from": "X40n0719_010:0431b23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時則不至而控於地而已矣。",
+        "from": "X40n0719_010:0431b23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奚以之九萬里而南為。",
+        "from": "X40n0719_010:0431b24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此譬庸流境界。",
+        "from": "X40n0719_010:0431b24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "急於自用。",
+        "from": "X40n0719_010:0431b24_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶如決起。",
+        "from": "X40n0719_010:0431c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眼前活計。",
+        "from": "X40n0719_010:0431c01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如搶榆枋。",
+        "from": "X40n0719_010:0431c01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無有忍力。",
+        "from": "X40n0719_010:0431c01_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如不至則控於地也。",
+        "from": "X40n0719_010:0431c01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "決起者。",
+        "from": "X40n0719_010:0431c02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "輕急妄舉。",
+        "from": "X40n0719_010:0431c02_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "搶者。",
+        "from": "X40n0719_010:0431c02_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "飛集。",
+        "from": "X40n0719_010:0431c02_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "榆枋者。",
+        "from": "X40n0719_010:0431c02_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "小樹。",
+        "from": "X40n0719_010:0431c03_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "控者。",
+        "from": "X40n0719_010:0431c03_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仆地以自安息也。",
+        "from": "X40n0719_010:0431c03_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五住煩惱一者見一切住地煩惱。",
+        "from": "X40n0719_010:0431c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三界中分別見惑。",
+        "from": "X40n0719_010:0431c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見道之所斷也。",
+        "from": "X40n0719_010:0431c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者欲愛住地煩惱。",
+        "from": "X40n0719_010:0431c05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲界中任運俱生思惑。",
+        "from": "X40n0719_010:0431c05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者色愛住地煩惱。",
+        "from": "X40n0719_010:0431c06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四禪天任運俱生思惑。",
+        "from": "X40n0719_010:0431c06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者無色愛住地煩惱。",
+        "from": "X40n0719_010:0431c07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四空天任運俱生思惑。",
+        "from": "X40n0719_010:0431c07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆修道之所斷也。",
+        "from": "X40n0719_010:0431c08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者無始無明住地煩惱。",
+        "from": "X40n0719_010:0431c08_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即界外二種別惑。",
+        "from": "X40n0719_010:0431c09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "障俗諦者。",
+        "from": "X40n0719_010:0431c09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名為塵沙。",
+        "from": "X40n0719_010:0431c09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "障中道者。",
+        "from": "X40n0719_010:0431c09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名為無明。",
+        "from": "X40n0719_010:0431c10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非二乘見修之所能斷。",
+        "from": "X40n0719_010:0431c10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故但合為一住。",
+        "from": "X40n0719_010:0431c10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩諸佛修假中二觀。",
+        "from": "X40n0719_010:0431c11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃能斷之前四住名煩惱障。",
+        "from": "X40n0719_010:0431c11_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後一住即所知障。",
+        "from": "X40n0719_010:0431c12_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "根本從生方便等流二百五十戒。",
+        "from": "X40n0719_010:0431c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各就本條結罪。",
+        "from": "X40n0719_010:0431c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名根本罪。",
+        "from": "X40n0719_010:0431c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非僅以四重為根本也。",
+        "from": "X40n0719_010:0431c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "犯罪而不發露懺悔。",
+        "from": "X40n0719_010:0431c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則覆藏之罪日日倍增。",
+        "from": "X40n0719_010:0431c15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名從生罪。",
+        "from": "X40n0719_010:0431c15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "將犯罪而其事未成。",
+        "from": "X40n0719_010:0431c15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名方便罪。",
+        "from": "X40n0719_010:0431c16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "罪已成而輕於根本。",
+        "from": "X40n0719_010:0431c16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名等流罪。",
+        "from": "X40n0719_010:0431c16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後文治罪法中。",
+        "from": "X40n0719_010:0431c17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有從生偷蘭遮。",
+        "from": "X40n0719_010:0431c17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知即是此中初篇二篇之方便罪所攝。",
+        "from": "X40n0719_010:0431c17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與今從生二字不同。",
+        "from": "X40n0719_010:0431c18_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼約從罪前生。",
+        "from": "X40n0719_010:0431c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今約從罪後生也。",
+        "from": "X40n0719_010:0431c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有獨頭偷蘭遮。",
+        "from": "X40n0719_010:0431c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知即是此中初篇二篇之等流罪所攝。",
+        "from": "X40n0719_010:0431c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以其自成罪性。",
+        "from": "X40n0719_010:0431c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故名獨頭。",
+        "from": "X40n0719_010:0431c21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以是兩篇根本罪之同等流類。",
+        "from": "X40n0719_010:0431c21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故名等流也。",
+        "from": "X40n0719_010:0431c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五常仁義禮智信。",
+        "from": "X40n0719_010:0431c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不龜手藥龜。",
+        "from": "X40n0719_010:0431c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音均。",
+        "from": "X40n0719_010:0431c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手凍拆也。",
+        "from": "X40n0719_010:0431c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莊子中明。",
+        "from": "X40n0719_010:0431c24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宋人有善為不龜手之藥者。",
+        "from": "X40n0719_010:0431c24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世世以漂布為業。",
+        "from": "X40n0719_010:0432a01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "客聞之。",
+        "from": "X40n0719_010:0432a01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請以百金買其方。",
+        "from": "X40n0719_010:0432a01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "往說吳王。",
+        "from": "X40n0719_010:0432a02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "冬與越人水戰。",
+        "from": "X40n0719_010:0432a02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此藥力。",
+        "from": "X40n0719_010:0432a02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手不凍拆。",
+        "from": "X40n0719_010:0432a03_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大敗越人。",
+        "from": "X40n0719_010:0432a03_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吳王遂分地而封之。",
+        "from": "X40n0719_010:0432a03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此藥是一。",
+        "from": "X40n0719_010:0432a03_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或以封爵。",
+        "from": "X40n0719_010:0432a04_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或不免於作漂工。",
+        "from": "X40n0719_010:0432a04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則所用者異耳。",
+        "from": "X40n0719_010:0432a04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今此比丘戒法亦爾。",
+        "from": "X40n0719_010:0432a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聲聞持之。",
+        "from": "X40n0719_010:0432a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僅得阿羅漢果。",
+        "from": "X40n0719_010:0432a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如彼漂工。",
+        "from": "X40n0719_010:0432a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩持之。",
+        "from": "X40n0719_010:0432a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迴向眾生同成無上菩提。",
+        "from": "X40n0719_010:0432a06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶如吳客之受封也。",
+        "from": "X40n0719_010:0432a06_6",
         "context_with_next_sentence": false
     }
 ]

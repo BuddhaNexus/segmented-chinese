@@ -2455,7 +2455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "第四是其蘇[葶丁+呆]果報。",
+        "source_sentence": "第四是其蘇[葶-丁+呆]果報。",
         "from": "T39n1793_001:0514c14_3",
         "context_with_next_sentence": true
     },
@@ -3722,6 +3722,66 @@
     {
         "source_sentence": "溫室經義記畢",
         "from": "T39n1793_001:0516a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "往昔淨影大師嘗製溫室經義記。",
+        "from": "T39n1793_001:0516b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宣暢其幽旨。",
+        "from": "T39n1793_001:0516b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "千歲之久。",
+        "from": "T39n1793_001:0516b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相傳至今。",
+        "from": "T39n1793_001:0516b02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可謂法門大幸也。",
+        "from": "T39n1793_001:0516b02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予前年得之珍祕。",
+        "from": "T39n1793_001:0516b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比日逐節隨科分會本經。",
+        "from": "T39n1793_001:0516b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以便看讀。",
+        "from": "T39n1793_001:0516b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更命梓工謀作活字。",
+        "from": "T39n1793_001:0516b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以公海內同好云。",
+        "from": "T39n1793_001:0516b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "于時寬保三癸亥冬十月",
+        "from": "T39n1793_001:0516b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三緣山袋谷沙門心應謹書",
+        "from": "T39n1793_001:0516b07_0",
         "context_with_next_sentence": false
     }
 ]

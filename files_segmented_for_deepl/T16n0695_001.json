@@ -182,6 +182,26 @@
     {
         "source_sentence": "佛說灌洗佛形像經",
         "from": "T16n0695_001:0797b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此經宋藏題云摩訶剎頭經聖堅譯，今按《開元錄》，宋藏錯亂，故依丹本改為灌洗佛形像經，法炬譯。",
+        "from": "T16n0695_001:0797b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又宋藏此經初首即云「摩訶剎等乃至二紙經文」，全是《摩訶剎頭經》文，二經不殊。",
+        "from": "T16n0695_001:0797b18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今依丹本，以爾時佛告摩訶剎頭乃至從是因緣得成佛道等二紙遆之。",
+        "from": "T16n0695_001:0797b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從佛言浴佛形像已下三十一行經文，於宋本中本自有之，而今仍存。",
+        "from": "T16n0695_001:0797b22_0",
         "context_with_next_sentence": false
     }
 ]

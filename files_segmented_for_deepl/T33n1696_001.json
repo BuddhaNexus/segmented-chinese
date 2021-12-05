@@ -540,7 +540,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "阿闍世王墮[毯炎+白]毱地獄也。",
+        "source_sentence": "阿闍世王墮[毯-炎+白]毱地獄也。",
         "from": "T33n1696_001:0063c04_15",
         "context_with_next_sentence": true
     },
@@ -3660,7 +3660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "第二家[袖由+鳥]法師云。",
+        "source_sentence": "第二家[袖-由+鳥]法師云。",
         "from": "T33n1696_001:0065c23_17",
         "context_with_next_sentence": true
     },

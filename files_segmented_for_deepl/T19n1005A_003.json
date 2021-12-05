@@ -1030,7 +1030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵薩嚩怛他孽多毘三冒馱娜嚩日[口*(黍禾+利)](二合)吽纔結此印誦真言。",
+        "source_sentence": "唵薩嚩怛他孽多毘三冒馱娜嚩日[口*(黍-禾+利)](二合)吽纔結此印誦真言。",
         "from": "T19n1005A_003:0631b18_0",
         "context_with_next_sentence": true
     },
@@ -1565,7 +1565,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+必]在無名指背。",
+        "source_sentence": "[打-丁+必]在無名指背。",
         "from": "T19n1005A_003:0632a13_11",
         "context_with_next_sentence": true
     },

@@ -8080,7 +8080,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "作[(ㄇ@(企止))/(糸*貞)]。",
+        "source_sentence": "作[(ㄇ@(企-止))/(糸*貞)]。",
         "from": "X40n0717_002:0207c24_11",
         "context_with_next_sentence": true
     },
@@ -8095,7 +8095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若比丘為人作坑桁弶[(ㄇ@(企止))/(糸*貞)]撥等。",
+        "source_sentence": "若比丘為人作坑桁弶[(ㄇ@(企-止))/(糸*貞)]撥等。",
         "from": "X40n0717_002:0207c24_14",
         "context_with_next_sentence": true
     },
@@ -15332,6 +15332,66 @@
     {
         "source_sentence": "四分戒本如釋卷第二",
         "from": "X40n0717_002:0212b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X40n0717_002:0212b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "杙音亦。",
+        "from": "X40n0717_002:0212b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "橜也。",
+        "from": "X40n0717_002:0212b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "關塞塞音賽。",
+        "from": "X40n0717_002:0212b22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隔也。",
+        "from": "X40n0717_002:0212b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邊界也。",
+        "from": "X40n0717_002:0212b22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "桁弶上音杭。",
+        "from": "X40n0717_002:0212b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "械夾足及頸皆曰桁。",
+        "from": "X40n0717_002:0212b23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音強去聲。",
+        "from": "X40n0717_002:0212b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設詈於道也。",
+        "from": "X40n0717_002:0212b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二形即二根人。",
+        "from": "X40n0717_002:0212c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂一身具有男女二根。",
+        "from": "X40n0717_002:0212c01_1",
         "context_with_next_sentence": false
     }
 ]

@@ -1095,7 +1095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "興使沙門僧肇僧[契大+石]僧邈僧叡等八百餘人諮受什旨。",
+        "source_sentence": "興使沙門僧肇僧[契-大+石]僧邈僧叡等八百餘人諮受什旨。",
         "from": "T55n2157_006:0811c08_2",
         "context_with_next_sentence": true
     },
@@ -2315,7 +2315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "父遂手脚[戀心+足]躄不能行止。",
+        "source_sentence": "父遂手脚&#;躄不能行止。",
         "from": "T55n2157_006:0813b12_6",
         "context_with_next_sentence": true
     },
@@ -4640,7 +4640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "志用強果少遊[葸十+夕]右遍歷諸國。",
+        "source_sentence": "志用強果少遊[葸-十+夕]右遍歷諸國。",
         "from": "T55n2157_006:0818a19_9",
         "context_with_next_sentence": true
     },

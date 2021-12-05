@@ -270,7 +270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[葸十+夕]蒜韭薤興渠也。",
+        "source_sentence": "[葸-十+夕]蒜韭薤興渠也。",
         "from": "X15n0301_003:0268c04_5",
         "context_with_next_sentence": true
     },
@@ -4295,7 +4295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "悲願[宋木+取]深。",
+        "source_sentence": "悲願[宋-木+取]深。",
         "from": "X15n0301_003:0271c22_8",
         "context_with_next_sentence": true
     },
@@ -5265,7 +5265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "少需[打丁+雙]進。",
+        "source_sentence": "少需[打-丁+雙]進。",
         "from": "X15n0301_003:0272c07_11",
         "context_with_next_sentence": true
     },
@@ -15975,7 +15975,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即所謂心精通[泳永+曶]。",
+        "source_sentence": "即所謂心精通[泳-永+曶]。",
         "from": "X15n0301_003:0281b11_27",
         "context_with_next_sentence": true
     },
@@ -16270,7 +16270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "通同[泳永+曶]合。",
+        "source_sentence": "通同[泳-永+曶]合。",
         "from": "X15n0301_003:0281b28_6",
         "context_with_next_sentence": true
     },
@@ -18695,7 +18695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "名[(白日+田)/廾]劣慢。",
+        "source_sentence": "名[(白-日+田)/廾]劣慢。",
         "from": "X15n0301_003:0283b17_2",
         "context_with_next_sentence": true
     },
@@ -19650,7 +19650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "愛綿[泳永+曶]者。",
+        "source_sentence": "愛綿[泳-永+曶]者。",
         "from": "X15n0301_003:0284a20_1",
         "context_with_next_sentence": true
     },
@@ -25590,7 +25590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "覺知通[泳永+曶]能入圓元者。",
+        "source_sentence": "覺知通[泳-永+曶]能入圓元者。",
         "from": "X15n0301_003:0289a16_3",
         "context_with_next_sentence": true
     },
@@ -25665,7 +25665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[泳永+曶]合無隔。",
+        "source_sentence": "[泳-永+曶]合無隔。",
         "from": "X15n0301_003:0289a21_10",
         "context_with_next_sentence": true
     },
@@ -27220,7 +27220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此則圓覺[泳永+曶]為因心。",
+        "source_sentence": "此則圓覺[泳-永+曶]為因心。",
         "from": "X15n0301_003:0290b13_1",
         "context_with_next_sentence": true
     },
@@ -27230,17 +27230,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "覺[泳永+曶]如心精通[泳永+曶]覺知。",
+        "source_sentence": "覺[泳-永+曶]如心精通[泳-永+曶]覺知。",
         "from": "X15n0301_003:0290b14_3",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "通[泳永+曶]之[泳永+曶]。",
+        "source_sentence": "通[泳-永+曶]之[泳-永+曶]。",
         "from": "X15n0301_003:0290b14_4",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂僅與正覺通[泳永+曶]。",
+        "source_sentence": "謂僅與正覺通[泳-永+曶]。",
         "from": "X15n0301_003:0290b14_5",
         "context_with_next_sentence": true
     },
@@ -29555,7 +29555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 楞嚴經後序行簡",
+        "source_sentence": "楞嚴經後序行簡",
         "from": "X15n0301_003:0292b07_0",
         "context_with_next_sentence": true
     },
@@ -29800,8 +29800,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "冀人",
+        "source_sentence": "冀人人各悟本心。",
         "from": "X15n0301_003:0292b21_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剎塵徧□。",
+        "from": "X15n0301_003:0292b22_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "□□□□□□□謹言。",
+        "from": "X15n0301_003:0292b22_22",
         "context_with_next_sentence": false
     }
 ]

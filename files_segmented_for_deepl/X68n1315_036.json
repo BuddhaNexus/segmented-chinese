@@ -1680,7 +1680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛[吃乙+小]。",
+        "source_sentence": "佛&#;。",
         "from": "X68n1315_036:0234b17_1",
         "context_with_next_sentence": true
     },
@@ -5475,7 +5475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "者箇[妳女+口]。",
+        "source_sentence": "者箇[妳-女+口]。",
         "from": "X68n1315_036:0236b10_8",
         "context_with_next_sentence": true
     },
@@ -8042,6 +8042,196 @@
     {
         "source_sentence": "古尊宿語錄卷之三十六",
         "from": "X68n1315_036:0237c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "投子和尚語錄序鄮山野叟居素　述",
+        "from": "X68n1315_036:0237c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "投子和尚。",
+        "from": "X68n1315_036:0237c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王化舒州桐城投子山寂住院。",
+        "from": "X68n1315_036:0237c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師初參翠微。",
+        "from": "X68n1315_036:0237c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問。",
+        "from": "X68n1315_036:0237c24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如何是祖師西來意。",
+        "from": "X68n1315_036:0237c24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "微以目顧視。",
+        "from": "X68n1315_036:0237c24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　師欲進語。",
+        "from": "X68n1315_036:0237c24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "微云。",
+        "from": "X68n1315_036:0237c24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更要第二杓惡水潑。",
+        "from": "X68n1315_036:0238a01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從此識通超諸三昧。",
+        "from": "X68n1315_036:0238a01_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智辯猶雷發雲漢。",
+        "from": "X68n1315_036:0238a01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瀑瀉懸崖。",
+        "from": "X68n1315_036:0238a02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "函蓋相應。",
+        "from": "X68n1315_036:0238a02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸方取則。",
+        "from": "X68n1315_036:0238a02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而有陞堂問答語要盛行叢林。",
+        "from": "X68n1315_036:0238a02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入道禪者。",
+        "from": "X68n1315_036:0238a03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆以師語參問知識。",
+        "from": "X68n1315_036:0238a03_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其有所歸。",
+        "from": "X68n1315_036:0238a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "數亦多矣。",
+        "from": "X68n1315_036:0238a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　子因僧入室。",
+        "from": "X68n1315_036:0238a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舉師之訛舛眾矣。",
+        "from": "X68n1315_036:0238a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃於閑暇披閱詳究。",
+        "from": "X68n1315_036:0238a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "內有繁詞不涉理者與除之。",
+        "from": "X68n1315_036:0238a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後語不及初者與刪之。",
+        "from": "X68n1315_036:0238a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以為一集。",
+        "from": "X68n1315_036:0238a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庶叢林學者於郢匠前無誚乳水而失醍醐者也。",
+        "from": "X68n1315_036:0238a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時辛酉季夏月。",
+        "from": "X68n1315_036:0238a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四明鄮山紫璘供奉山堂刊定云耳。",
+        "from": "X68n1315_036:0238a07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "投子和尚。",
+        "from": "X68n1315_036:0238a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名大同。",
+        "from": "X68n1315_036:0238a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舒州人。",
+        "from": "X68n1315_036:0238a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "姓劉氏。",
+        "from": "X68n1315_036:0238a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "洛下保唐寺受業。",
+        "from": "X68n1315_036:0238a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得法於翠微無學和尚。",
+        "from": "X68n1315_036:0238a10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壽九十六。",
+        "from": "X68n1315_036:0238a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "石頭第四世。",
+        "from": "X68n1315_036:0238a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五代梁乾化中示寂。",
+        "from": "X68n1315_036:0238a11_0",
         "context_with_next_sentence": false
     }
 ]

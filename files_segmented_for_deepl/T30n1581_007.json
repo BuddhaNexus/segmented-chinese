@@ -2530,7 +2530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乃至一[聲耳+牛]牛頃。",
+        "source_sentence": "乃至一[聲-耳+牛]牛頃。",
         "from": "T30n1581_007:0926b14_3",
         "context_with_next_sentence": true
     },
@@ -6775,8 +6775,1908 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "◎菩薩地持經卷第七",
+        "source_sentence": "◎菩薩地持經卷第七方便處攝品第十五云何菩薩愛語。",
         "from": "T30n1581_007:0930b29_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "略說有九種。",
+        "from": "T30n1581_007:0930c03_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者自性愛語。",
+        "from": "T30n1581_007:0930c03_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者一切愛語。",
+        "from": "T30n1581_007:0930c04_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者難愛語。",
+        "from": "T30n1581_007:0930c04_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者一切門愛語。",
+        "from": "T30n1581_007:0930c04_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者善人愛語。",
+        "from": "T30n1581_007:0930c05_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六者一切行愛語。",
+        "from": "T30n1581_007:0930c05_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七者除惱愛語。",
+        "from": "T30n1581_007:0930c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八者此世他世樂愛語。",
+        "from": "T30n1581_007:0930c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九者清淨愛語。",
+        "from": "T30n1581_007:0930c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自性愛語者。",
+        "from": "T30n1581_007:0930c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是菩薩可喜語真實語如法語義饒益語與眾生語。",
+        "from": "T30n1581_007:0930c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名自性愛語。",
+        "from": "T30n1581_007:0930c08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切愛語者略說二種。",
+        "from": "T30n1581_007:0930c09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者菩薩見人舒顏平視讚言善來等念在前。",
+        "from": "T30n1581_007:0930c09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先語安慰。",
+        "from": "T30n1581_007:0930c10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道路清泰四大調適臥覺安不。",
+        "from": "T30n1581_007:0930c11_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是等隨順世間巧便調言等心慰問。",
+        "from": "T30n1581_007:0930c11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復呪。",
+        "from": "T30n1581_007:0930c12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願妻子眷屬錢財穀米增長具足。",
+        "from": "T30n1581_007:0930c12_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見具功德者。",
+        "from": "T30n1581_007:0930c13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勸其信戒施聞智慧令其歡喜。",
+        "from": "T30n1581_007:0930c14_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者說一切種功德用應法。",
+        "from": "T30n1581_007:0930c14_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安樂眾生。",
+        "from": "T30n1581_007:0930c15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常說等說第一勝妙饒益言說。",
+        "from": "T30n1581_007:0930c15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名菩薩一切愛語。",
+        "from": "T30n1581_007:0930c16_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩愛語二種分別。",
+        "from": "T30n1581_007:0930c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慰問讚歎者。",
+        "from": "T30n1581_007:0930c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名隨世間語。",
+        "from": "T30n1581_007:0930c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第一勝妙饒益言說者。",
+        "from": "T30n1581_007:0930c18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名正說法語。",
+        "from": "T30n1581_007:0930c18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "難愛語者略說三種。",
+        "from": "T30n1581_007:0930c19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者於怨憎所。",
+        "from": "T30n1581_007:0930c19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以清淨心思惟慰喻。",
+        "from": "T30n1581_007:0930c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "發喜饒益而共言語。",
+        "from": "T30n1581_007:0930c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者於增上愚癡鈍根眾生。",
+        "from": "T30n1581_007:0930c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無厭心思惟籌量。",
+        "from": "T30n1581_007:0930c21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忍諸疲苦以法攝取為具足說。",
+        "from": "T30n1581_007:0930c22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者於諸諂曲幻偽眾生。",
+        "from": "T30n1581_007:0930c22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欺和尚阿闍梨及尊重福田。",
+        "from": "T30n1581_007:0930c23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或惡邪見。",
+        "from": "T30n1581_007:0930c24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無害心方便慰喻。",
+        "from": "T30n1581_007:0930c24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "發喜饒益而為說法。",
+        "from": "T30n1581_007:0930c24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名難愛語。",
+        "from": "T30n1581_007:0930c25_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切門愛語者略說四種。",
+        "from": "T30n1581_007:0930c25_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者斷除諸蓋向於善趣。",
+        "from": "T30n1581_007:0930c26_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說初所作法。",
+        "from": "T30n1581_007:0930c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者斷除諸蓋實心增進。",
+        "from": "T30n1581_007:0930c27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說應四真諦法。",
+        "from": "T30n1581_007:0930c27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者見在家出家放逸眾生。",
+        "from": "T30n1581_007:0930c28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "等心訶責令離放逸。",
+        "from": "T30n1581_007:0930c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者已起疑惑能為開解。",
+        "from": "T30n1581_007:0930c29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若說法若決定論。",
+        "from": "T30n1581_007:0931a01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善人愛語者略說五種。",
+        "from": "T30n1581_007:0931a01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者說佛菩薩正因調伏法。",
+        "from": "T30n1581_007:0931a02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者正出。",
+        "from": "T30n1581_007:0931a02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者正依。",
+        "from": "T30n1581_007:0931a03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者正度。",
+        "from": "T30n1581_007:0931a03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者正示現。",
+        "from": "T30n1581_007:0931a03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "處所因緣制戒。",
+        "from": "T30n1581_007:0931a03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故此法名為正因。",
+        "from": "T30n1581_007:0931a04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於所受戒有所缺犯。",
+        "from": "T30n1581_007:0931a04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "教令還淨。",
+        "from": "T30n1581_007:0931a05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故此法名為正出。",
+        "from": "T30n1581_007:0931a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說四依所攝正法律至處道。",
+        "from": "T30n1581_007:0931a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故此法名為正依。",
+        "from": "T30n1581_007:0931a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯示出一切苦不退還道。",
+        "from": "T30n1581_007:0931a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故此法名為正度。",
+        "from": "T30n1581_007:0931a07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三種示現於一切說無礙。",
+        "from": "T30n1581_007:0931a08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故此法名為正示現。",
+        "from": "T30n1581_007:0931a08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切行愛語者謂六種七種。",
+        "from": "T30n1581_007:0931a09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "略說十三種。",
+        "from": "T30n1581_007:0931a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聽所應聽法愛語。",
+        "from": "T30n1581_007:0931a10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "制所應制法愛語。",
+        "from": "T30n1581_007:0931a10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現諸經法愛語。",
+        "from": "T30n1581_007:0931a11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現諸法相愛語。",
+        "from": "T30n1581_007:0931a11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現諸法名字不顛倒愛語。",
+        "from": "T30n1581_007:0931a12_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法句種種分別愛語。",
+        "from": "T30n1581_007:0931a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慰喻愛語。",
+        "from": "T30n1581_007:0931a13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "發喜愛語。",
+        "from": "T30n1581_007:0931a13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自恣安以眾具代其所作虛受愛語。",
+        "from": "T30n1581_007:0931a13_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種種恐怖施安愛語。",
+        "from": "T30n1581_007:0931a14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具足說法攝取愛語。",
+        "from": "T30n1581_007:0931a15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開覺不善安立善法見聞疑舉罪折伏愛語。",
+        "from": "T30n1581_007:0931a15_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勸有力說法愛語。",
+        "from": "T30n1581_007:0931a16_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是十三種名為一切行愛語。",
+        "from": "T30n1581_007:0931a17_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除惱愛語者略說八種。",
+        "from": "T30n1581_007:0931a17_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依口四淨。",
+        "from": "T30n1581_007:0931a18_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八種聖語。",
+        "from": "T30n1581_007:0931a18_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "口四淨者。",
+        "from": "T30n1581_007:0931a18_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離妄語兩舌惡口綺語。",
+        "from": "T30n1581_007:0931a19_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八種聖語者。",
+        "from": "T30n1581_007:0931a19_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見聞識知見聞覺知說。",
+        "from": "T30n1581_007:0931a19_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不見不聞不識不知不見不聞不覺不知說。",
+        "from": "T30n1581_007:0931a20_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此世他世樂愛語者略說九種。",
+        "from": "T30n1581_007:0931a21_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷親屬難憂苦故。",
+        "from": "T30n1581_007:0931a22_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愛語說法。",
+        "from": "T30n1581_007:0931a22_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷財物難憂苦故。",
+        "from": "T30n1581_007:0931a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愛語說法。",
+        "from": "T30n1581_007:0931a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷疾病難憂苦故。",
+        "from": "T30n1581_007:0931a23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愛語說法。",
+        "from": "T30n1581_007:0931a24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷戒難憂苦故。",
+        "from": "T30n1581_007:0931a24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愛語說法。",
+        "from": "T30n1581_007:0931a24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷見難憂苦故。",
+        "from": "T30n1581_007:0931a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愛語說法。",
+        "from": "T30n1581_007:0931a25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "戒具足見具足威儀具足正命具足故。",
+        "from": "T30n1581_007:0931a25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愛語說法。",
+        "from": "T30n1581_007:0931a26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清淨愛語者有二十種說法。",
+        "from": "T30n1581_007:0931a26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如前力種性品說。",
+        "from": "T30n1581_007:0931a27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何菩薩利益。",
+        "from": "T30n1581_007:0931a27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "利益者。",
+        "from": "T30n1581_007:0931a28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如愛語廣說。",
+        "from": "T30n1581_007:0931a28_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "異利益今當說。",
+        "from": "T30n1581_007:0931a28_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂菩薩一切行愛語。",
+        "from": "T30n1581_007:0931a29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨所說義利安眾生。",
+        "from": "T30n1581_007:0931a29_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自性利益者。",
+        "from": "T30n1581_007:0931b01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是愛語具足。",
+        "from": "T30n1581_007:0931b01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯示眾生如所應學。",
+        "from": "T30n1581_007:0931b01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨利益行法次法向。",
+        "from": "T30n1581_007:0931b02_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住於悲心無貪心。",
+        "from": "T30n1581_007:0931b02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勸導教授調伏安立。",
+        "from": "T30n1581_007:0931b03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名自性利益。",
+        "from": "T30n1581_007:0931b03_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切利益者略說二種。",
+        "from": "T30n1581_007:0931b04_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者一切眾生未熟者方便令熟。",
+        "from": "T30n1581_007:0931b04_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者已熟者令至解脫。",
+        "from": "T30n1581_007:0931b05_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復有三種。",
+        "from": "T30n1581_007:0931b06_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者與現世利。",
+        "from": "T30n1581_007:0931b06_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者與後世利。",
+        "from": "T30n1581_007:0931b06_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者與現世後世利。",
+        "from": "T30n1581_007:0931b07_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勸教眾生如法德業獲大財寶。",
+        "from": "T30n1581_007:0931b07_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "守護增長與現世利。",
+        "from": "T30n1581_007:0931b08_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於此現世得大名稱及眾具樂。",
+        "from": "T30n1581_007:0931b08_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "攝受安立勸捨大財。",
+        "from": "T30n1581_007:0931b09_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在家出家乞求活命。",
+        "from": "T30n1581_007:0931b10_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與後世利樂。",
+        "from": "T30n1581_007:0931b10_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已必定得故。",
+        "from": "T30n1581_007:0931b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現則不定。",
+        "from": "T30n1581_007:0931b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勸在家出家次第離欲。",
+        "from": "T30n1581_007:0931b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於此現世身心息止安隱樂住。",
+        "from": "T30n1581_007:0931b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後世則生淨妙天上。",
+        "from": "T30n1581_007:0931b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及無餘涅槃界而般涅槃。",
+        "from": "T30n1581_007:0931b13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名現世後世利。",
+        "from": "T30n1581_007:0931b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "難利益者略說三種。",
+        "from": "T30n1581_007:0931b14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切眾生本不修善因而能利益。",
+        "from": "T30n1581_007:0931b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以苦勸化故。",
+        "from": "T30n1581_007:0931b15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者本修善根得大財寶深起貪著。",
+        "from": "T30n1581_007:0931b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而能利益彼大放逸故。",
+        "from": "T30n1581_007:0931b16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者外道異學著本邪見而能利益彼。",
+        "from": "T30n1581_007:0931b17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "極愚癡違正法故。",
+        "from": "T30n1581_007:0931b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切門利益者略說四種。",
+        "from": "T30n1581_007:0931b18_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者不信者勸令生信。",
+        "from": "T30n1581_007:0931b19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至建立。",
+        "from": "T30n1581_007:0931b20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者惡戒者勸修淨戒。",
+        "from": "T30n1581_007:0931b20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者惡慧者勸修正慧。",
+        "from": "T30n1581_007:0931b20_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者慳貪者勸修慧施。",
+        "from": "T30n1581_007:0931b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至建立。",
+        "from": "T30n1581_007:0931b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善人利益者略說五種。",
+        "from": "T30n1581_007:0931b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者於眾生真實利與。",
+        "from": "T30n1581_007:0931b22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者時與。",
+        "from": "T30n1581_007:0931b23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者義饒益與。",
+        "from": "T30n1581_007:0931b23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者柔軟與。",
+        "from": "T30n1581_007:0931b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者慈心與。",
+        "from": "T30n1581_007:0931b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切行利益者謂六種七種。",
+        "from": "T30n1581_007:0931b24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "略說十三種。",
+        "from": "T30n1581_007:0931b25_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應攝等攝。",
+        "from": "T30n1581_007:0931b25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應伏等伏。",
+        "from": "T30n1581_007:0931b25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "違佛法者除其障礙。",
+        "from": "T30n1581_007:0931b26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中住眾生令入法律。",
+        "from": "T30n1581_007:0931b26_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已入者以三乘法而成熟之。",
+        "from": "T30n1581_007:0931b27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已成熟者令得解脫。",
+        "from": "T30n1581_007:0931b27_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾具護養勸導成就。",
+        "from": "T30n1581_007:0931b28_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂勸捨小乘守護大乘。",
+        "from": "T30n1581_007:0931b28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獨靜一心。",
+        "from": "T30n1581_007:0931b29_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨諸障礙。",
+        "from": "T30n1581_007:0931b29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "憶念及修勸令成就。",
+        "from": "T30n1581_007:0931b29_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有聲聞緣覺種性者。",
+        "from": "T30n1581_007:0931c01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以聲聞緣覺乘而成就之。",
+        "from": "T30n1581_007:0931c01_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有如來種性者。",
+        "from": "T30n1581_007:0931c02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無上菩提而成就之。",
+        "from": "T30n1581_007:0931c02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除惱利益者略說八種。",
+        "from": "T30n1581_007:0931c03_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生。",
+        "from": "T30n1581_007:0931c04_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所應慚處令無慚纏心得開覺。",
+        "from": "T30n1581_007:0931c04_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無愧纏。",
+        "from": "T30n1581_007:0931c05_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "睡纏。",
+        "from": "T30n1581_007:0931c05_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眠纏。",
+        "from": "T30n1581_007:0931c05_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "掉纏。",
+        "from": "T30n1581_007:0931c05_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悔纏。",
+        "from": "T30n1581_007:0931c05_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慳纏。",
+        "from": "T30n1581_007:0931c05_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嫉纏。",
+        "from": "T30n1581_007:0931c05_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悉令開覺亦復如是。",
+        "from": "T30n1581_007:0931c06_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此世他世樂利益者略說九種。",
+        "from": "T30n1581_007:0931c06_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "普令眾生身業清淨。",
+        "from": "T30n1581_007:0931c07_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂授一切種不殺不盜不邪婬不飲酒。",
+        "from": "T30n1581_007:0931c07_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "普令眾生口業清淨。",
+        "from": "T30n1581_007:0931c08_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂授一切種不妄語不兩舌不惡口不綺語普令眾生意業清淨。",
+        "from": "T30n1581_007:0931c09_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂授無貪無恚正見。",
+        "from": "T30n1581_007:0931c10_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清淨利益者略說十種。",
+        "from": "T30n1581_007:0931c11_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五種外清淨。",
+        "from": "T30n1581_007:0931c11_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五種內清淨。",
+        "from": "T30n1581_007:0931c12_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五種外清淨者。",
+        "from": "T30n1581_007:0931c12_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者無罪。",
+        "from": "T30n1581_007:0931c12_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者不隨轉。",
+        "from": "T30n1581_007:0931c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者次第。",
+        "from": "T30n1581_007:0931c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者一切。",
+        "from": "T30n1581_007:0931c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者隨所應。",
+        "from": "T30n1581_007:0931c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雜惡行者。",
+        "from": "T30n1581_007:0931c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先惡行者。",
+        "from": "T30n1581_007:0931c14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一向惡行者。",
+        "from": "T30n1581_007:0931c14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "等以善法而成就之。",
+        "from": "T30n1581_007:0931c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名無罪利安眾生。",
+        "from": "T30n1581_007:0931c15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樂解脫者勸令解脫。",
+        "from": "T30n1581_007:0931c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名不隨轉利安眾生。",
+        "from": "T30n1581_007:0931c16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "童蒙眾生為說近法。",
+        "from": "T30n1581_007:0931c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "近教誡而隨順之。",
+        "from": "T30n1581_007:0931c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中智者為說中法。",
+        "from": "T30n1581_007:0931c18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "教誡而隨順之。",
+        "from": "T30n1581_007:0931c18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上智者為說深法。",
+        "from": "T30n1581_007:0931c18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勝微細誡而隨順之。",
+        "from": "T30n1581_007:0931c19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令其次第漸得善法。",
+        "from": "T30n1581_007:0931c19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名次第利安眾生。",
+        "from": "T30n1581_007:0931c20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四姓乃至天人一切眾生。",
+        "from": "T30n1581_007:0931c20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨能隨力利益安樂。",
+        "from": "T30n1581_007:0931c21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名一切利安眾生。",
+        "from": "T30n1581_007:0931c21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下中上善隨其所應方便利益。",
+        "from": "T30n1581_007:0931c22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名五種外清淨。",
+        "from": "T30n1581_007:0931c23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六種內清淨者。",
+        "from": "T30n1581_007:0931c23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣住悲心利安眾生。",
+        "from": "T30n1581_007:0931c24_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忍一切苦而不懈惓。",
+        "from": "T30n1581_007:0931c24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心常歡喜利安眾生。",
+        "from": "T30n1581_007:0931c25_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以自在身謙卑忍下猶如僕使。",
+        "from": "T30n1581_007:0931c25_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦如旃陀羅子。",
+        "from": "T30n1581_007:0931c26_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離於我慢利安眾生。",
+        "from": "T30n1581_007:0931c26_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離於利養捨於虛偽。",
+        "from": "T30n1581_007:0931c27_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心在勝妙利安眾生。",
+        "from": "T30n1581_007:0931c27_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於究竟處終不退轉。",
+        "from": "T30n1581_007:0931c28_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常以慈心利安眾生。",
+        "from": "T30n1581_007:0931c28_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名五種內清淨。",
+        "from": "T30n1581_007:0931c29_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是外內五種清淨。",
+        "from": "T30n1581_007:0931c29_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名十種清淨利安眾生。",
+        "from": "T30n1581_007:0932a01_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何菩薩同事。",
+        "from": "T30n1581_007:0932a01_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是菩薩此義此善。",
+        "from": "T30n1581_007:0932a02_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若等若勝。",
+        "from": "T30n1581_007:0932a02_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受與眾生悉與己同。",
+        "from": "T30n1581_007:0932a02_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名同事菩薩。",
+        "from": "T30n1581_007:0932a03_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得此同事調伏眾生。",
+        "from": "T30n1581_007:0932a03_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "堅固決定終不退轉。",
+        "from": "T30n1581_007:0932a04_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於勸授善法。",
+        "from": "T30n1581_007:0932a04_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故。",
+        "from": "T30n1581_007:0932a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼作是念。",
+        "from": "T30n1581_007:0932a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是菩薩與我同事。",
+        "from": "T30n1581_007:0932a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必能令我安隱快樂是菩薩所授我者。",
+        "from": "T30n1581_007:0932a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自修行故。",
+        "from": "T30n1581_007:0932a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非不樂因而自修行。",
+        "from": "T30n1581_007:0932a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若以同事教授眾生。",
+        "from": "T30n1581_007:0932a07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼終不言汝自不行。",
+        "from": "T30n1581_007:0932a08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何勸授教誡於人。",
+        "from": "T30n1581_007:0932a08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝應從人諮受教誡。",
+        "from": "T30n1581_007:0932a09_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有菩薩同事。",
+        "from": "T30n1581_007:0932a09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是同事不示他。",
+        "from": "T30n1581_007:0932a09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有菩薩不同事。",
+        "from": "T30n1581_007:0932a10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是同事示他。",
+        "from": "T30n1581_007:0932a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有菩薩同事。",
+        "from": "T30n1581_007:0932a11_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦示同事。",
+        "from": "T30n1581_007:0932a11_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有菩薩不同事。",
+        "from": "T30n1581_007:0932a11_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦不示同事。",
+        "from": "T30n1581_007:0932a12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不示他者。",
+        "from": "T30n1581_007:0932a12_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸菩薩等功德。",
+        "from": "T30n1581_007:0932a12_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住菩薩道等功德。",
+        "from": "T30n1581_007:0932a13_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩隱覆真實功德。",
+        "from": "T30n1581_007:0932a13_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不為顯示他者。",
+        "from": "T30n1581_007:0932a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下劣眾生怖畏深法。",
+        "from": "T30n1581_007:0932a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩思惟方便調伏。",
+        "from": "T30n1581_007:0932a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現同彼法如旃陀羅。",
+        "from": "T30n1581_007:0932a15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疾得利益息惱調伏故。",
+        "from": "T30n1581_007:0932a15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現與彼同。",
+        "from": "T30n1581_007:0932a16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "示亦同事者為調伏彼受動搖善根眾生故。",
+        "from": "T30n1581_007:0932a16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩以住善根若上善根。",
+        "from": "T30n1581_007:0932a17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯示同事。",
+        "from": "T30n1581_007:0932a18_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦不示同事者。",
+        "from": "T30n1581_007:0932a18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心自放逸。",
+        "from": "T30n1581_007:0932a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "棄捨他利從種種施。",
+        "from": "T30n1581_007:0932a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如前說。",
+        "from": "T30n1581_007:0932a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至同事諸波羅蜜。",
+        "from": "T30n1581_007:0932a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自成熟佛法。",
+        "from": "T30n1581_007:0932a20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "成熟眾生。",
+        "from": "T30n1581_007:0932a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名略說菩薩善法業從種種施。",
+        "from": "T30n1581_007:0932a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至同事。",
+        "from": "T30n1581_007:0932a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是無量善法菩提分。",
+        "from": "T30n1581_007:0932a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知三種行。",
+        "from": "T30n1581_007:0932a22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二種勝。",
+        "from": "T30n1581_007:0932a22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三種淨身口意行。",
+        "from": "T30n1581_007:0932a23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名為行上妙無染。",
+        "from": "T30n1581_007:0932a23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名為勝上妙。",
+        "from": "T30n1581_007:0932a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有三種眾生等事等時等。",
+        "from": "T30n1581_007:0932a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾生等者。",
+        "from": "T30n1581_007:0932a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是菩薩為一切眾生行施等善根。",
+        "from": "T30n1581_007:0932a25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不自為己。",
+        "from": "T30n1581_007:0932a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "事等者。",
+        "from": "T30n1581_007:0932a26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是菩薩行施等一切種善根。",
+        "from": "T30n1581_007:0932a26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時等者。",
+        "from": "T30n1581_007:0932a27_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是菩薩不離方便。",
+        "from": "T30n1581_007:0932a27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時節日夜今世後世。",
+        "from": "T30n1581_007:0932a27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常修施等善根。",
+        "from": "T30n1581_007:0932a28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心不休息。",
+        "from": "T30n1581_007:0932a28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無染有四種。",
+        "from": "T30n1581_007:0932a28_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是菩薩歡喜心修習善法。",
+        "from": "T30n1581_007:0932a29_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不因是故生憂苦悔恨。",
+        "from": "T30n1581_007:0932a29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是菩薩不惱他人。",
+        "from": "T30n1581_007:0932b01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不著諸見不雜惡行。",
+        "from": "T30n1581_007:0932b01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行施等善根。",
+        "from": "T30n1581_007:0932b02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是菩薩一切自己功德。",
+        "from": "T30n1581_007:0932b02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "專至顯現堅固顯現。",
+        "from": "T30n1581_007:0932b03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寂滅決定不由於他。",
+        "from": "T30n1581_007:0932b03_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行施戒等諸善法。",
+        "from": "T30n1581_007:0932b04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是菩薩不於施等善法而求果報。",
+        "from": "T30n1581_007:0932b04_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若轉輪聖王帝釋魔梵。",
+        "from": "T30n1581_007:0932b05_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不求他報。",
+        "from": "T30n1581_007:0932b05_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不依此等求名利身命。",
+        "from": "T30n1581_007:0932b06_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於此等行淨歡喜。",
+        "from": "T30n1581_007:0932b06_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俱不惱亂他。",
+        "from": "T30n1581_007:0932b07_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "專至無依。",
+        "from": "T30n1581_007:0932b07_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從施等乃至同事諸善法行。",
+        "from": "T30n1581_007:0932b07_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名無染熾然不動快淨。",
+        "from": "T30n1581_007:0932b08_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名清淨菩薩入淨心地。",
+        "from": "T30n1581_007:0932b09_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切善根熾然不動。",
+        "from": "T30n1581_007:0932b09_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名熾然淨心地。",
+        "from": "T30n1581_007:0932b10_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩一切善法不思惟起。",
+        "from": "T30n1581_007:0932b10_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名不動淨心地。",
+        "from": "T30n1581_007:0932b11_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩隨所得所修善法則不退轉。",
+        "from": "T30n1581_007:0932b11_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於未來世必定不退。",
+        "from": "T30n1581_007:0932b12_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如明分月。",
+        "from": "T30n1581_007:0932b12_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日夜增長善法不退亦復如是。",
+        "from": "T30n1581_007:0932b13_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "代究竟地菩薩一生相續若最後身所得善根。",
+        "from": "T30n1581_007:0932b13_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名快淨。",
+        "from": "T30n1581_007:0932b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於上更無菩薩淨地故。",
+        "from": "T30n1581_007:0932b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名三種行二種勝。",
+        "from": "T30n1581_007:0932b15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三種淨當知從檀波羅蜜乃至同事。",
+        "from": "T30n1581_007:0932b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切施乃至一切同事。",
+        "from": "T30n1581_007:0932b17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修習清淨如來。",
+        "from": "T30n1581_007:0932b17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具足充滿無上菩提。",
+        "from": "T30n1581_007:0932b18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛法身正法久住。",
+        "from": "T30n1581_007:0932b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果報生。",
+        "from": "T30n1581_007:0932b19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "難施乃至難同事。",
+        "from": "T30n1581_007:0932b19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修習清淨如來。",
+        "from": "T30n1581_007:0932b19_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "平等奇特未曾有法成就。",
+        "from": "T30n1581_007:0932b20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果報生。",
+        "from": "T30n1581_007:0932b20_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切門施乃至一切門同事。",
+        "from": "T30n1581_007:0932b20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修習清淨如來。",
+        "from": "T30n1581_007:0932b21_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切取勝天人供養。",
+        "from": "T30n1581_007:0932b21_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果報生。",
+        "from": "T30n1581_007:0932b22_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善人施乃至善人同事。",
+        "from": "T30n1581_007:0932b22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修習清淨如來。",
+        "from": "T30n1581_007:0932b23_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於無足二足四足多足。",
+        "from": "T30n1581_007:0932b23_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "色無色想無想非想非非想一切眾生。",
+        "from": "T30n1581_007:0932b24_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最上果報生。",
+        "from": "T30n1581_007:0932b25_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切行施乃至一切行同事。",
+        "from": "T30n1581_007:0932b25_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修習清淨如來。",
+        "from": "T30n1581_007:0932b26_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種種無量功德攝受。",
+        "from": "T30n1581_007:0932b26_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三十二大人相。",
+        "from": "T30n1581_007:0932b26_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八十隨形好果報生。",
+        "from": "T30n1581_007:0932b27_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除惱施乃至除惱同事。",
+        "from": "T30n1581_007:0932b27_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修習清淨如來。",
+        "from": "T30n1581_007:0932b28_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於菩提樹下。",
+        "from": "T30n1581_007:0932b28_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切魔怨不能傾動。",
+        "from": "T30n1581_007:0932b29_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果報生。",
+        "from": "T30n1581_007:0932b29_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此世他世樂施乃至此世他世樂同事。",
+        "from": "T30n1581_007:0932b29_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修習清淨如來。",
+        "from": "T30n1581_007:0932c01_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最勝禪解脫三昧正受安樂。",
+        "from": "T30n1581_007:0932c02_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果報生。",
+        "from": "T30n1581_007:0932c02_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清淨施乃至清淨同事。",
+        "from": "T30n1581_007:0932c02_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修習清淨如來。",
+        "from": "T30n1581_007:0932c03_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切種淨。",
+        "from": "T30n1581_007:0932c03_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂四種身淨緣淨心淨智淨。",
+        "from": "T30n1581_007:0932c04_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果報生。",
+        "from": "T30n1581_007:0932c04_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三不護十力四無畏三念處。",
+        "from": "T30n1581_007:0932c05_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切不共佛法清淨。",
+        "from": "T30n1581_007:0932c05_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果報生。",
+        "from": "T30n1581_007:0932c06_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名菩薩施等。",
+        "from": "T30n1581_007:0932c06_44",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善法果報無上無量。",
+        "from": "T30n1581_007:0932c06_45",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩無罪行之所出生。",
+        "from": "T30n1581_007:0932c07_46",
         "context_with_next_sentence": false
     }
 ]

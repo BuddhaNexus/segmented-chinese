@@ -11220,7 +11220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "秦有陽[邱丘+(夸ㄅ+(万一))]。",
+        "source_sentence": "秦有陽[邱-丘+(夸-ㄅ+(万-一))]。",
         "from": "X34n0638_021:0661b13_6",
         "context_with_next_sentence": true
     },
@@ -12060,7 +12060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛坐東度莫河池。",
+        "source_sentence": "佛坐東度&#;河池。",
         "from": "X34n0638_021:0662a14_13",
         "context_with_next_sentence": true
     },
@@ -30582,6 +30582,11 @@
     {
         "source_sentence": "法華經玄贊要集卷第二十一",
         "from": "X34n0638_021:0678b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乾符六年冬溫州開元寺講大慈恩比丘弘舉(傳寫供養)",
+        "from": "X34n0638_021:0678b20_0",
         "context_with_next_sentence": false
     }
 ]

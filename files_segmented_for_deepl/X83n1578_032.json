@@ -3300,7 +3300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則落在龐公圈[袖由+貴]裏。",
+        "source_sentence": "則落在龐公圈[袖-由+貴]裏。",
         "from": "X83n1578_032:0751c16_39",
         "context_with_next_sentence": true
     },
@@ -3310,7 +3310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則落在楊無為圈[袖由+貴]裏。",
+        "source_sentence": "則落在楊無為圈[袖-由+貴]裏。",
         "from": "X83n1578_032:0751c17_41",
         "context_with_next_sentence": true
     },
@@ -3320,7 +3320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則落在海印禪師圈[袖由+貴]裏。",
+        "source_sentence": "則落在海印禪師圈[袖-由+貴]裏。",
         "from": "X83n1578_032:0751c18_0",
         "context_with_next_sentence": true
     },
@@ -3340,17 +3340,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又落在妙喜圈[袖由+貴]裏。",
+        "source_sentence": "又落在妙喜圈[袖-由+貴]裏。",
         "from": "X83n1578_032:0751c19_4",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "要出三老圈[袖由+貴]則易。",
+        "source_sentence": "要出三老圈[袖-由+貴]則易。",
         "from": "X83n1578_032:0751c19_5",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "要出妙喜圈[袖由+貴]則難。",
+        "source_sentence": "要出妙喜圈[袖-由+貴]則難。",
         "from": "X83n1578_032:0751c20_6",
         "context_with_next_sentence": true
     },
@@ -6550,7 +6550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "X83n1578_032:0754b12_13",
         "context_with_next_sentence": true
     },
@@ -10595,7 +10595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眼[皾買+耳]眵地。",
+        "source_sentence": "眼[皾-買+耳]眵地。",
         "from": "X83n1578_032:0757b10_12",
         "context_with_next_sentence": true
     },
@@ -16100,7 +16100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不入他圈[袖由+貴]。",
+        "source_sentence": "不入他圈[袖-由+貴]。",
         "from": "X83n1578_032:0761c13_2",
         "context_with_next_sentence": true
     },
@@ -20245,7 +20245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "涕淚交頤。",
+        "source_sentence": "涕淚交頥。",
         "from": "X83n1578_032:0764c20_4",
         "context_with_next_sentence": true
     },
@@ -21185,7 +21185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自然[打丁+瓜]著人癢處。",
+        "source_sentence": "自然[打-丁+瓜]著人癢處。",
         "from": "X83n1578_032:0765b20_1",
         "context_with_next_sentence": true
     },
@@ -23805,8 +23805,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "指月錄卷之",
+        "source_sentence": "指月錄卷之三十二(終)",
         "from": "X83n1578_032:0767b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋　卷三十一之三十二",
+        "from": "X83n1578_032:0767b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頰(古洽切音甲面兩旁也)　珵(直貞切音澄美玉也)　劊(古外切音膾斷也)　剮(同咼)　鮎(魚占切音黏魚名)　駁(伯各切音博馬色不純)　孜(津私切音咨勤也)　矻(苦骨切音窟勞極也)　溽(而六切音肉溼熱)　謎(彌計切音寐隱語)　牸(疾二切音字牝牛)　稊(杜兮切音題穢草)　稗(薄邁切音敗草似稻)　[(太/耳)*皮](都合切擔入聲皮瘦寬貌)　眵(音鴟目汁凝也)　黠(胡八切音轄□□也)　窖(居效切音教地藏也)　蠡(良以切音里蚌屬)　辴(丑忍切瞋上聲大笑貌)　鍔(逆各切音諤鋒稜)魈(先彫切音宵山魈獨足鬼也)　賡(古衡切音耕續也)　憧(昌中切音充意不定也又行不絕貌)",
+        "from": "X83n1578_032:0767b21_0",
         "context_with_next_sentence": false
     }
 ]

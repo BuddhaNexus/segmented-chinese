@@ -7580,7 +7580,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五箇餬餅三箇[飢几+追]。",
+        "source_sentence": "五箇餬餅三箇[飢-几+追]。",
         "from": "X68n1315_017:0112a02_33",
         "context_with_next_sentence": true
     },
@@ -8930,7 +8930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "還將得饆饠[飢几+追]子來麼。",
+        "source_sentence": "還將得饆饠[飢-几+追]子來麼。",
         "from": "X68n1315_017:0112c05_1",
         "context_with_next_sentence": true
     },
@@ -9175,7 +9175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "來這裡[瞞目+耳]我。",
+        "source_sentence": "來這裡[瞞-目+耳]我。",
         "from": "X68n1315_017:0112c15_46",
         "context_with_next_sentence": true
     },

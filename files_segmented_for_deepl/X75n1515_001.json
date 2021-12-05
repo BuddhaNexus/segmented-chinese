@@ -290,7 +290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自代[閫木+(夭(乂(必心)))]師奪寺園為酒庫。",
+        "source_sentence": "自代[閫-木+(夭-(乂-(必-心)))]師奪寺園為酒庫。",
         "from": "X75n1515_001:0739b23_26",
         "context_with_next_sentence": true
     },
@@ -800,7 +800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "綠[竺二+哀]青箬西還大江之南。",
+        "source_sentence": "綠[竺-二+哀]青箬西還大江之南。",
         "from": "X75n1515_001:0740a07_5",
         "context_with_next_sentence": true
     },
@@ -2115,7 +2115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "筌[(ㄇ@(企止))/弟]名句。",
+        "source_sentence": "筌罤名句。",
         "from": "X75n1515_001:0741a19_0",
         "context_with_next_sentence": true
     },
@@ -2875,7 +2875,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "中順大夫牟[嶽狺+巿]為作塔上之。",
+        "source_sentence": "中順大夫牟[嶽-狺+巿]為作塔上之。",
         "from": "X75n1515_001:0741c24_66",
         "context_with_next_sentence": true
     },
@@ -3400,7 +3400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]謂左右曰。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]謂左右曰。",
         "from": "X75n1515_001:0742b11_3",
         "context_with_next_sentence": true
     },
@@ -6290,7 +6290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "尤不耐紛[(虺兀+(完、))虫+((厂@(既旡))/寸)]。",
+        "source_sentence": "尤不耐紛[(虺-兀+(完-、))-虫+((厂@(既-旡))/寸)]。",
         "from": "X75n1515_001:0745b05_19",
         "context_with_next_sentence": true
     },
@@ -6300,7 +6300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]延慶酬應煩劇。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]延慶酬應煩劇。",
         "from": "X75n1515_001:0745b06_21",
         "context_with_next_sentence": true
     },
@@ -7160,7 +7160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "止觀一部即法華三昧之筌[(ㄇ@(企止))/弟]。",
+        "source_sentence": "止觀一部即法華三昧之筌罤。",
         "from": "X75n1515_001:0746b01_6",
         "context_with_next_sentence": true
     },

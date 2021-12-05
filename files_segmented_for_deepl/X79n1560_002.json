@@ -1900,7 +1900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "和尚京中喫麵多。",
+        "source_sentence": "和尚京中喫麫多。",
         "from": "X79n1560_002:0495c18_3",
         "context_with_next_sentence": true
     },
@@ -2235,7 +2235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "每[(厂@((既旡)日+口))*頁]見僧即曰。",
+        "source_sentence": "每[(厂@((既-旡)-日+口))*頁]見僧即曰。",
         "from": "X79n1560_002:0496a10_53",
         "context_with_next_sentence": true
     },
@@ -2250,7 +2250,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "曰[(厂@((既旡)日+口))*頁]鑒咦。",
+        "source_sentence": "曰[(厂@((既-旡)-日+口))*頁]鑒咦。",
         "from": "X79n1560_002:0496a11_56",
         "context_with_next_sentence": true
     },
@@ -2260,7 +2260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "刪去[(厂@((既旡)日+口))*頁]字。",
+        "source_sentence": "刪去[(厂@((既-旡)-日+口))*頁]字。",
         "from": "X79n1560_002:0496a11_58",
         "context_with_next_sentence": true
     },
@@ -2270,7 +2270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "叢林目以為抽[(厂@((既旡)日+口))*頁]頌。",
+        "source_sentence": "叢林目以為抽[(厂@((既-旡)-日+口))*頁]頌。",
         "from": "X79n1560_002:0496a12_60",
         "context_with_next_sentence": true
     },
@@ -2280,12 +2280,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雲門[(厂@((既旡)日+口))*頁]鑑笑嘻嘻。",
+        "source_sentence": "雲門[(厂@((既-旡)-日+口))*頁]鑑笑嘻嘻。",
         "from": "X79n1560_002:0496a12_62",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "擬議遭渠[(厂@((既旡)日+口))*頁]鑒咦。",
+        "source_sentence": "擬議遭渠[(厂@((既-旡)-日+口))*頁]鑒咦。",
         "from": "X79n1560_002:0496a13_63",
         "context_with_next_sentence": true
     },

@@ -4825,7 +4825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "數列[葷車+于]者。",
+        "source_sentence": "數列[葷-車+于]者。",
         "from": "X43n0737_006:0113b14_1",
         "context_with_next_sentence": true
     },
@@ -5355,7 +5355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "缽受捨(十)。",
+        "source_sentence": "盋受捨(十)。",
         "from": "X43n0737_006:0113c19_4",
         "context_with_next_sentence": true
     },
@@ -6710,7 +6710,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "法[宋木+取]在初為上。",
+        "source_sentence": "法[宋-木+取]在初為上。",
         "from": "X43n0737_006:0114c24_20",
         "context_with_next_sentence": true
     },
@@ -9300,7 +9300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "除乞缽捨懺者。",
+        "source_sentence": "除乞盋捨懺者。",
         "from": "X43n0737_006:0117a17_18",
         "context_with_next_sentence": true
     },
@@ -11845,7 +11845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+宗]謂自然界小作法標遠故。",
+        "source_sentence": "[打-丁+宗]謂自然界小作法標遠故。",
         "from": "X43n0737_006:0119a23_6",
         "context_with_next_sentence": true
     },
@@ -29980,7 +29980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於[楒心+廾]牒上。",
+        "source_sentence": "於[楒-心+廾]牒上。",
         "from": "X43n0737_006:0133c21_13",
         "context_with_next_sentence": true
     },
@@ -39812,6 +39812,11 @@
     {
         "source_sentence": "四分律鈔簡正記卷第六",
         "from": "X43n0737_006:0141c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吳越國天長寺長講律臨壇崇福普濟戒光大德賜紫　志貞寫此一部丁巳歲記焉",
+        "from": "X43n0737_006:0141c13_0",
         "context_with_next_sentence": false
     }
 ]

@@ -1800,7 +1800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "泉拈火筋便[打丁+慼]。",
+        "source_sentence": "泉拈火筋便[打-丁+慼]。",
         "from": "T51n2077_002:0476b15_10",
         "context_with_next_sentence": true
     },
@@ -3540,7 +3540,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更住少林兮懡[怡台+羅]却西歸。",
+        "source_sentence": "更住少林兮懡[怡-台+羅]却西歸。",
         "from": "T51n2077_002:0477c28_8",
         "context_with_next_sentence": true
     },
@@ -7685,7 +7685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "王婆煮[飢几+追]。",
+        "source_sentence": "王婆煮[飢-几+追]。",
         "from": "T51n2077_002:0481b05_4",
         "context_with_next_sentence": true
     },
@@ -8287,6 +8287,81 @@
     {
         "source_sentence": "續傳燈錄卷第二",
         "from": "T51n2077_002:0481c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "續傳燈錄卷第三目錄",
+        "from": "T51n2077_002:0481c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大鑑下第十一世",
+        "from": "T51n2077_002:0481c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汾陽昭禪師法嗣十六人",
+        "from": "T51n2077_002:0481c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "石霜楚圓禪師琅邪慧覺禪師",
+        "from": "T51n2077_002:0481c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大愚守芝禪師石霜法永禪師",
+        "from": "T51n2077_002:0481c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法華全舉禪師芭蕉谷泉禪師",
+        "from": "T51n2077_002:0481c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍華曉愚禪師天聖皓泰禪師",
+        "from": "T51n2077_002:0481c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍潭智圓禪師投子圓修禪師",
+        "from": "T51n2077_002:0482a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "太子道一禪師(已上十一人見錄)",
+        "from": "T51n2077_002:0482a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乾明了同禪師疎山曉珠禪師",
+        "from": "T51n2077_002:0482a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "荊南竹園禪師湖州羅漢興禪師",
+        "from": "T51n2077_002:0482a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汾陽侍者(立化已上五人無錄)",
+        "from": "T51n2077_002:0482a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "葉縣省禪師法嗣八人",
+        "from": "T51n2077_002:0482a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "浮山法遠禪師寶應法昭禪師",
+        "from": "T51n2077_002:0482a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大乘慧果禪師(已上三人見錄)石門守進禪師廣慧懷慶禪師承天遐猛禪師什邡方水禪師香巖海仙禪師(已上五人無錄)",
+        "from": "T51n2077_002:0482a08_0",
         "context_with_next_sentence": false
     }
 ]

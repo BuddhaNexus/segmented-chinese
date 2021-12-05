@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 滁州琅邪山覺和尚中後四錄",
+        "source_sentence": "滁州琅邪山覺和尚中後四錄",
         "from": "X69n1339_001:0197b03_0",
         "context_with_next_sentence": true
     },
@@ -345,8 +345,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不復煩",
+        "source_sentence": "不復煩紀。",
         "from": "X69n1339_001:0197c01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂開正法眼藏。",
+        "from": "X69n1339_001:0197c02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "直指以示人者。",
+        "from": "X69n1339_001:0197c02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其惟我師。",
+        "from": "X69n1339_001:0197c02_13",
         "context_with_next_sentence": false
     }
 ]

@@ -1,7 +1,12 @@
 [
     {
-        "source_sentence": " 蘇州靈岩妙空佛海和尚註證道歌序余甞覽吾家漁獵文字語言極多。",
+        "source_sentence": "蘇州靈岩妙空佛海和尚註證道歌序",
         "from": "X63n1241_001:0260a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余甞覽吾家漁獵文字語言極多。",
+        "from": "X63n1241_001:0260a05_0",
         "context_with_next_sentence": true
     },
     {
@@ -290,7 +295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 靈岩妙空和尚註證道歌",
+        "source_sentence": "靈岩妙空和尚註證道歌",
         "from": "X63n1241_001:0260b08_0",
         "context_with_next_sentence": true
     },
@@ -365,8 +370,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 舒州梵天琪和尚註證道謌(并)序浮梁參學　慧光　錄永嘉真覺大師者。",
+        "source_sentence": "舒州梵天琪和尚註證道謌(并)序",
         "from": "X63n1241_001:0260b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "浮梁參學　慧光　錄",
+        "from": "X63n1241_001:0260b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永嘉真覺大師者。",
+        "from": "X63n1241_001:0260b24_0",
         "context_with_next_sentence": true
     },
     {
@@ -1150,7 +1165,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "心無罣礙。",
+        "source_sentence": "心無&#;礙。",
         "from": "X63n1241_001:0261b14_3",
         "context_with_next_sentence": true
     },
@@ -2090,7 +2105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自招拔舌塵沙劫。",
+        "source_sentence": "自招㧞舌塵沙劫。",
         "from": "X63n1241_001:0262b18_1",
         "context_with_next_sentence": true
     },
@@ -5940,7 +5955,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "沙細如麵。",
+        "source_sentence": "沙細如麫。",
         "from": "X63n1241_001:0266c18_11",
         "context_with_next_sentence": true
     },
@@ -16010,7 +16025,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "凡所應用無有罣碍。",
+        "source_sentence": "凡所應用無有&#;碍。",
         "from": "X63n1241_001:0277c04_20",
         "context_with_next_sentence": true
     },
@@ -18345,8 +18360,918 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "旹嘉定(己卯)建安虞八宣散位　刊行舒州梵天珙和尚(註)",
+        "source_sentence": "旹嘉定(己卯)建安虞八宣散位　刊行舒州梵天珙和尚(註)永嘉證道歌(終)後序余元豐間與大學二三友至相國東林。",
         "from": "X63n1241_001:0280a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "會翰苑鄧公龍圖子發浩然明甫諸公。",
+        "from": "X63n1241_001:0280b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "始識師於座中。",
+        "from": "X63n1241_001:0280b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從容道論。",
+        "from": "X63n1241_001:0280b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知師之所蘊也。",
+        "from": "X63n1241_001:0280b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次又聞師內殿賜衣服。",
+        "from": "X63n1241_001:0280b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因而致賀。",
+        "from": "X63n1241_001:0280b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "再見之。",
+        "from": "X63n1241_001:0280b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吐珠璣。",
+        "from": "X63n1241_001:0280b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "示眼目。",
+        "from": "X63n1241_001:0280b12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蕭洒有古人風操。",
+        "from": "X63n1241_001:0280b12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尤恨相得之晚。",
+        "from": "X63n1241_001:0280b12_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世之學者甞患所守異趣。",
+        "from": "X63n1241_001:0280b13_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偏執一隅。",
+        "from": "X63n1241_001:0280b13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不知大道之不二。",
+        "from": "X63n1241_001:0280b13_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂相詆軋者皆是也。",
+        "from": "X63n1241_001:0280b14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師性謙和。",
+        "from": "X63n1241_001:0280b14_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於傳法禪悅之外。",
+        "from": "X63n1241_001:0280b14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曉教源。",
+        "from": "X63n1241_001:0280b15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喜文章。",
+        "from": "X63n1241_001:0280b15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不以殊途二其志。",
+        "from": "X63n1241_001:0280b15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "良可尚矣。",
+        "from": "X63n1241_001:0280b15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元祐改元仲春過泗上。",
+        "from": "X63n1241_001:0280b15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見圓明上人自匡廬至。",
+        "from": "X63n1241_001:0280b16_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得師所惠歌頌。",
+        "from": "X63n1241_001:0280b16_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "玩之洒然。",
+        "from": "X63n1241_001:0280b17_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則知師之所守高簡。",
+        "from": "X63n1241_001:0280b17_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不混利名。",
+        "from": "X63n1241_001:0280b17_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "逍遙趍競之外也。",
+        "from": "X63n1241_001:0280b17_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紹聖丙子解官單馬赴吏部磨勘。",
+        "from": "X63n1241_001:0280b18_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至壽春遇友人吳純甫。",
+        "from": "X63n1241_001:0280b18_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出師所注永嘉證道歌。",
+        "from": "X63n1241_001:0280b19_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "發輝如來大智慧海。",
+        "from": "X63n1241_001:0280b19_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "利益四眾。",
+        "from": "X63n1241_001:0280b20_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈小緣哉。",
+        "from": "X63n1241_001:0280b20_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師浙人也。",
+        "from": "X63n1241_001:0280b20_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗣法圓照禪師。",
+        "from": "X63n1241_001:0280b20_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喜其故識。",
+        "from": "X63n1241_001:0280b21_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謹書於卷後。",
+        "from": "X63n1241_001:0280b21_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是歲孟夏望日天倪敘。",
+        "from": "X63n1241_001:0280b21_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永嘉石碑",
+        "from": "X63n1241_001:0280c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪師每日陞座提綱正令。",
+        "from": "X63n1241_001:0280c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "撮其法要。",
+        "from": "X63n1241_001:0280c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以示證道。",
+        "from": "X63n1241_001:0280c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "默然揮一下云。",
+        "from": "X63n1241_001:0280c05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "還會麼。",
+        "from": "X63n1241_001:0280c06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃說伽陀。",
+        "from": "X63n1241_001:0280c06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　一擊天地空　　驚開死盲聾　　靈光亘今古　徧含法界中音釋　拆。",
+        "from": "X63n1241_001:0280c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音析。",
+        "from": "X63n1241_001:0280c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先擊反。",
+        "from": "X63n1241_001:0280c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分也。",
+        "from": "X63n1241_001:0280c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　調。",
+        "from": "X63n1241_001:0280c13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "去聲。",
+        "from": "X63n1241_001:0280c13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "選也。",
+        "from": "X63n1241_001:0280c13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　顇。",
+        "from": "X63n1241_001:0280c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音悴。",
+        "from": "X63n1241_001:0280c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顦亦作憔。",
+        "from": "X63n1241_001:0280c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　恡。",
+        "from": "X63n1241_001:0280c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音吝。",
+        "from": "X63n1241_001:0280c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "力刃反也。",
+        "from": "X63n1241_001:0280c14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　訕。",
+        "from": "X63n1241_001:0280c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所晏反。",
+        "from": "X63n1241_001:0280c15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毀語謂之。",
+        "from": "X63n1241_001:0280c15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　蘭若。",
+        "from": "X63n1241_001:0280c15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下爾者反。",
+        "from": "X63n1241_001:0280c15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　崟。",
+        "from": "X63n1241_001:0280c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音吟。",
+        "from": "X63n1241_001:0280c16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "高也。",
+        "from": "X63n1241_001:0280c16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　閴。",
+        "from": "X63n1241_001:0280c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音乞。",
+        "from": "X63n1241_001:0280c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "苦壁古覓二反。",
+        "from": "X63n1241_001:0280c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靜也。",
+        "from": "X63n1241_001:0280c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　蹴。",
+        "from": "X63n1241_001:0280c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音足。",
+        "from": "X63n1241_001:0280c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七六子。",
+        "from": "X63n1241_001:0280c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六二反。",
+        "from": "X63n1241_001:0280c18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蹈也。",
+        "from": "X63n1241_001:0280c18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蹵同。",
+        "from": "X63n1241_001:0280c18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　犴。",
+        "from": "X63n1241_001:0280c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音寒。",
+        "from": "X63n1241_001:0280c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "午旦午諫二切。",
+        "from": "X63n1241_001:0280c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "胡狗。",
+        "from": "X63n1241_001:0280c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　駭。",
+        "from": "X63n1241_001:0280c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "語駭切。",
+        "from": "X63n1241_001:0280c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "馬行也。",
+        "from": "X63n1241_001:0280c20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又無知也。",
+        "from": "X63n1241_001:0280c20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　靼。",
+        "from": "X63n1241_001:0280c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音怛。",
+        "from": "X63n1241_001:0280c21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多達之別二切。",
+        "from": "X63n1241_001:0280c21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "柔革也。",
+        "from": "X63n1241_001:0280c21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "註中",
+        "from": "X63n1241_001:0280c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　煨。",
+        "from": "X63n1241_001:0280c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "呼羅切。",
+        "from": "X63n1241_001:0280c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南人呼火也。",
+        "from": "X63n1241_001:0280c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　炙。",
+        "from": "X63n1241_001:0280c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "之亦切。",
+        "from": "X63n1241_001:0280c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "熱也。",
+        "from": "X63n1241_001:0280c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又之夜反。",
+        "from": "X63n1241_001:0280c24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　嗁。",
+        "from": "X63n1241_001:0281a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "呼交反。",
+        "from": "X63n1241_001:0281a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "虎聲。",
+        "from": "X63n1241_001:0281a01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又古伯反。",
+        "from": "X63n1241_001:0281a01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　嚯。",
+        "from": "X63n1241_001:0281a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音霍。",
+        "from": "X63n1241_001:0281a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　懈。",
+        "from": "X63n1241_001:0281a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居隘反。",
+        "from": "X63n1241_001:0281a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倦怠也。",
+        "from": "X63n1241_001:0281a02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　驪。",
+        "from": "X63n1241_001:0281a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音梨。",
+        "from": "X63n1241_001:0281a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "千里馬。",
+        "from": "X63n1241_001:0281a03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　膱。",
+        "from": "X63n1241_001:0281a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "之力反。",
+        "from": "X63n1241_001:0281a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "油敗也。",
+        "from": "X63n1241_001:0281a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又膱脡。",
+        "from": "X63n1241_001:0281a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　[虺-虫+骨]。",
+        "from": "X63n1241_001:0281a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "胡骨反。",
+        "from": "X63n1241_001:0281a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "膝[病-丙+告]也。",
+        "from": "X63n1241_001:0281a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　餧。",
+        "from": "X63n1241_001:0281a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音畏。",
+        "from": "X63n1241_001:0281a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "飼也。",
+        "from": "X63n1241_001:0281a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奴羅反。",
+        "from": "X63n1241_001:0281a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "飢也。",
+        "from": "X63n1241_001:0281a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　憒。",
+        "from": "X63n1241_001:0281a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古對反。",
+        "from": "X63n1241_001:0281a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心也。",
+        "from": "X63n1241_001:0281a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　絆。",
+        "from": "X63n1241_001:0281a07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音半。",
+        "from": "X63n1241_001:0281a07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "羈也。",
+        "from": "X63n1241_001:0281a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　挹。",
+        "from": "X63n1241_001:0281a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於入反。",
+        "from": "X63n1241_001:0281a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斟也幟。",
+        "from": "X63n1241_001:0281a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　睫。",
+        "from": "X63n1241_001:0281a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即涉切。",
+        "from": "X63n1241_001:0281a08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "目傍毛。",
+        "from": "X63n1241_001:0281a08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　瞤。",
+        "from": "X63n1241_001:0281a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如倫反。",
+        "from": "X63n1241_001:0281a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獲。",
+        "from": "X63n1241_001:0281a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禾聲。",
+        "from": "X63n1241_001:0281a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　幖。",
+        "from": "X63n1241_001:0281a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俾消反。",
+        "from": "X63n1241_001:0281a09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幟。",
+        "from": "X63n1241_001:0281a09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　幟釋志巾也。",
+        "from": "X63n1241_001:0281a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　鋩。",
+        "from": "X63n1241_001:0281a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無方切。",
+        "from": "X63n1241_001:0281a10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "刀刃端也。",
+        "from": "X63n1241_001:0281a10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　挃。",
+        "from": "X63n1241_001:0281a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音皈。",
+        "from": "X63n1241_001:0281a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又竹栗反。",
+        "from": "X63n1241_001:0281a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獲。",
+        "from": "X63n1241_001:0281a11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禾聲。",
+        "from": "X63n1241_001:0281a11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　輥。",
+        "from": "X63n1241_001:0281a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古混反。",
+        "from": "X63n1241_001:0281a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "車轂齊等貌。",
+        "from": "X63n1241_001:0281a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　汾。",
+        "from": "X63n1241_001:0281a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "扶云切。",
+        "from": "X63n1241_001:0281a12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "水出太源。",
+        "from": "X63n1241_001:0281a12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　胝。",
+        "from": "X63n1241_001:0281a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "竹尼反。",
+        "from": "X63n1241_001:0281a13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手胼足胝也。",
+        "from": "X63n1241_001:0281a13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　胼。",
+        "from": "X63n1241_001:0281a13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "步田反。",
+        "from": "X63n1241_001:0281a13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "胼胝。",
+        "from": "X63n1241_001:0281a13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　抉。",
+        "from": "X63n1241_001:0281a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一決反。",
+        "from": "X63n1241_001:0281a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "排也。",
+        "from": "X63n1241_001:0281a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　盰。",
+        "from": "X63n1241_001:0281a14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "公旦反。",
+        "from": "X63n1241_001:0281a14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "目白貌。",
+        "from": "X63n1241_001:0281a14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　竛。",
+        "from": "X63n1241_001:0281a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音零。",
+        "from": "X63n1241_001:0281a15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行不正也。",
+        "from": "X63n1241_001:0281a15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　竮。",
+        "from": "X63n1241_001:0281a15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音平。",
+        "from": "X63n1241_001:0281a15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　螻。",
+        "from": "X63n1241_001:0281a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音樓。",
+        "from": "X63n1241_001:0281a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "螻蛄。",
+        "from": "X63n1241_001:0281a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　搏。",
+        "from": "X63n1241_001:0281a16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "徒官切。",
+        "from": "X63n1241_001:0281a16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "搏擊也。",
+        "from": "X63n1241_001:0281a16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　拏。",
+        "from": "X63n1241_001:0281a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尼矛切。",
+        "from": "X63n1241_001:0281a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手拏也。",
+        "from": "X63n1241_001:0281a17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "證道歌卷下(終)",
+        "from": "X63n1241_001:0281a19_0",
         "context_with_next_sentence": false
     }
 ]

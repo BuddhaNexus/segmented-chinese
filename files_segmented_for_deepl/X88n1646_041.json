@@ -730,7 +730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一日忽舉首視窗外。",
+        "source_sentence": "一日忽舉首視窻外。",
         "from": "X88n1646_041:0256a17_3",
         "context_with_next_sentence": true
     },
@@ -1445,8 +1445,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一以堅人決定",
+        "source_sentence": "一以堅人決定心。",
         "from": "X88n1646_041:0256c22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一以發人精進心。",
+        "from": "X88n1646_041:0256c23_3",
         "context_with_next_sentence": false
     }
 ]

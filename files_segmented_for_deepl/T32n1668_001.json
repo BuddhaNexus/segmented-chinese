@@ -30,7 +30,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "達於恒剎舉極喜之珠[玨/(冗几+(樂白+〡))]。",
+        "source_sentence": "達於恒剎舉極喜之珠[玨/(冗-几+(樂-白+〡))]。",
         "from": "T32n1668_001:0591c29_1",
         "context_with_next_sentence": true
     },
@@ -460,7 +460,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "朕將無以于[(迷(這言)+└)*下]月文請。",
+        "source_sentence": "朕將無以于[(迷-(這-言)+└)*下]月文請。",
         "from": "T32n1668_001:0592b08_23",
         "context_with_next_sentence": true
     },
@@ -535,7 +535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "漠漠冥冥實絕窺[穴/(烈歹+(跳兆))](莫昉反)。",
+        "source_sentence": "漠漠冥冥實絕窺[穴/(烈-歹+(跳-兆))](莫昉反)。",
         "from": "T32n1668_001:0592b23_4",
         "context_with_next_sentence": true
     },

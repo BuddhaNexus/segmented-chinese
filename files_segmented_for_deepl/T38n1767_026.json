@@ -305,7 +305,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[矛*(替曰+貝)]矛離手遂到彼方。",
+        "source_sentence": "[矛*(替-曰+貝)]矛離手遂到彼方。",
         "from": "T38n1767_026:0186b13_24",
         "context_with_next_sentence": true
     },

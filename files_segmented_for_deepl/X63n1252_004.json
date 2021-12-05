@@ -1950,7 +1950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雷[怡台+(奐大+(一/八))]得之。",
+        "source_sentence": "雷[怡-台+(奐-大+(一/八))]得之。",
         "from": "X63n1252_004:0719c04_2",
         "context_with_next_sentence": true
     },
@@ -5320,7 +5320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "普拔幽關之苦毒。",
+        "source_sentence": "普㧞幽關之苦毒。",
         "from": "X63n1252_004:0724c05_3",
         "context_with_next_sentence": true
     },
@@ -5632,6 +5632,41 @@
     {
         "source_sentence": "禪林疏語考證卷之四(終)",
         "from": "X63n1252_004:0725a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪林疏語者明永覺禪師所撰也。",
+        "from": "X63n1252_004:0725a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而此書中多用事實。",
+        "from": "X63n1252_004:0725a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是以(予)偶考一二。",
+        "from": "X63n1252_004:0725a17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自書鋟梓。",
+        "from": "X63n1252_004:0725a17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如其闕誤。",
+        "from": "X63n1252_004:0725a17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俟來哲云。",
+        "from": "X63n1252_004:0725a17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙門超然書于逍遙軒",
+        "from": "X63n1252_004:0725a18_0",
         "context_with_next_sentence": false
     }
 ]

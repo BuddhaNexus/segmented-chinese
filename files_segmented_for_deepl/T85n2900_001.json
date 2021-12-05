@@ -335,7 +335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此人於先甞[飢几+兌]者。",
+        "source_sentence": "此人於先甞[飢-几+兌]者。",
         "from": "T85n2900_001:1432a03_20",
         "context_with_next_sentence": true
     },
@@ -365,7 +365,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "藏蓋實莫甞[飢几+兌]。",
+        "source_sentence": "藏蓋實莫甞[飢-几+兌]。",
         "from": "T85n2900_001:1432a05_2",
         "context_with_next_sentence": true
     },

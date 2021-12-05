@@ -530,7 +530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "向搕[打丁+(天/韭)]堆頭。",
+        "source_sentence": "向搕[打-丁+(天/韭)]堆頭。",
         "from": "X85n1587_006:0036a05_6",
         "context_with_next_sentence": true
     },
@@ -795,7 +795,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "饅頭[飢几+追]子齊拈出。",
+        "source_sentence": "饅頭[飢-几+追]子齊拈出。",
         "from": "X85n1587_006:0036a20_21",
         "context_with_next_sentence": true
     },
@@ -4280,7 +4280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為君拔却頂門楔。",
+        "source_sentence": "為君㧞却頂門楔。",
         "from": "X85n1587_006:0039a09_35",
         "context_with_next_sentence": true
     },
@@ -7840,7 +7840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拈得寒山禿掃帚。",
+        "source_sentence": "拈得寒山禿掃箒。",
         "from": "X85n1587_006:0041c21_6",
         "context_with_next_sentence": true
     },
@@ -8467,6 +8467,16 @@
     {
         "source_sentence": "居士祇知格物。",
         "from": "X85n1587_006:0042b06_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而不知物格。",
+        "from": "X85n1587_006:0042b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "李罔測。",
+        "from": "X85n1587_006:0042b07_1",
         "context_with_next_sentence": false
     }
 ]

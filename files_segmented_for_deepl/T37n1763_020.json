@@ -6315,7 +6315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五道是[這言+至]。",
+        "source_sentence": "五道是[這-言+至]。",
         "from": "T37n1763_020:0463c06_1",
         "context_with_next_sentence": true
     },

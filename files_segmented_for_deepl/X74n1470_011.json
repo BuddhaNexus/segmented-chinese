@@ -175,7 +175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵悉麻囉悉麻囉眉麻捺悉葛囉麻曷令[口*(椔田+夕)]斡吽次不空摩尼印呪唵啞麼遏布[口*(椔田+夕)]麻禰巴能麻末唧呤怛達遏怛眉浪雞矴薩慢怛不囉薩囉吽梵音讚佛　佛身不在內　　亦復不在外　　神力故顯現　導師法如是　　隨諸眾生類　　生世所集業　如是種種神　　示現各不同　　諸佛身如是　無量不可數　　惟除大覺尊　　無有能思議直言讚佛如來成正覺時。",
+        "source_sentence": "唵悉麻囉悉麻囉眉麻捺悉葛囉麻曷令[口*(椔-田+夕)]斡吽次不空摩尼印呪唵啞麼遏布[口*(椔-田+夕)]麻禰巴能麻末唧呤怛達遏怛眉浪雞矴薩慢怛不囉薩囉吽梵音讚佛　佛身不在內　　亦復不在外　　神力故顯現　導師法如是　　隨諸眾生類　　生世所集業　如是種種神　　示現各不同　　諸佛身如是　無量不可數　　惟除大覺尊　　無有能思議直言讚佛如來成正覺時。",
         "from": "X74n1470_011:0193b13_0",
         "context_with_next_sentence": true
     },
@@ -1420,12 +1420,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以嗔心[描田+((ㄇ@人)/戍)]。",
+        "source_sentence": "以嗔心[描-田+((ㄇ@人)/戍)]。",
         "from": "X74n1470_011:0197b24_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+屑]殺蟣蝨。",
+        "source_sentence": "[打-丁+屑]殺蟣蝨。",
         "from": "X74n1470_011:0197b24_3",
         "context_with_next_sentence": true
     },
@@ -1880,7 +1880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四十五曰[打丁+蒙]弄。",
+        "source_sentence": "四十五曰[打-丁+蒙]弄。",
         "from": "X74n1470_011:0198a09_0",
         "context_with_next_sentence": true
     },
@@ -1900,7 +1900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四十六曰[打丁+蒙]弄。",
+        "source_sentence": "四十六曰[打-丁+蒙]弄。",
         "from": "X74n1470_011:0198a11_0",
         "context_with_next_sentence": true
     },
@@ -1910,7 +1910,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "見眾生入[打丁+蒙]弄中。",
+        "source_sentence": "見眾生入[打-丁+蒙]弄中。",
         "from": "X74n1470_011:0198a11_2",
         "context_with_next_sentence": true
     },
@@ -2025,7 +2025,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五十曰[怡台+(屬(厂一))]懦。",
+        "source_sentence": "五十曰[怡-台+(屬-(厂-一))]懦。",
         "from": "X74n1470_011:0198a19_0",
         "context_with_next_sentence": true
     },
@@ -2625,7 +2625,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　壯色不停　　猶如奔馬　　人命無常　過踰山水　　今日雖存　　明亦難保　云何縱心　　今住惡法　　云何恃怙　而生驕慢　　猶如惡鬼　　伺求人過　四大惡鬼　　亦復如是　　猶如朽宅　垂崩之室　　我身亦爾　　云何起惡",
+        "source_sentence": "　壯色不停　　猶如奔馬　　人命無常　過踰山水　　今日雖存　　明亦難保　云何縱心　　今住惡法　　云何恃怙　而生驕慢　　猶如惡鬼　　伺求人過　四大惡鬼　　亦復如是　　猶如朽宅　垂崩之室　　我身亦爾　　云何起惡大方廣佛華嚴經海印道場十重行願常徧禮懺儀卷第十一",
         "from": "X74n1470_011:0198c19_0",
         "context_with_next_sentence": false
     }

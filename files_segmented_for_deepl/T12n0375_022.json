@@ -695,7 +695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "菩薩摩訶薩修大涅槃微妙經典，先取明相，所謂日、月、星宿、[這言+(序予+手)]燎、燈燭、珠火之明、藥草等光。",
+        "source_sentence": "菩薩摩訶薩修大涅槃微妙經典，先取明相，所謂日、月、星宿、[這-言+(序-予+手)]燎、燈燭、珠火之明、藥草等光。",
         "from": "T12n0375_022:0749a29_6",
         "context_with_next_sentence": true
     },

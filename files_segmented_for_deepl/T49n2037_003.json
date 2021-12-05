@@ -3810,7 +3810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "太宗召荊州都督武士[穫禾+(尋口+几)](欝縛反)女入後宮為才人。",
+        "source_sentence": "太宗召荊州都督武士[穫-禾+(尋-口+几)](欝縛反)女入後宮為才人。",
         "from": "T49n2037_003:0816c20_0",
         "context_with_next_sentence": true
     },
@@ -4055,7 +4055,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[竺二+面]赤城憩雲門法華諸暨漁浦赤符大巖。",
+        "source_sentence": "[竺-二+面]赤城憩雲門法華諸暨漁浦赤符大巖。",
         "from": "T49n2037_003:0817a12_23",
         "context_with_next_sentence": true
     },
@@ -6665,7 +6665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "諱[昍/(宋木+生)](之少反)姓武氏。",
+        "source_sentence": "諱[昍/(宋-木+生)](之少反)姓武氏。",
         "from": "T49n2037_003:0819c07_0",
         "context_with_next_sentence": true
     },
@@ -7080,7 +7080,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "星為○君為[了(丁一)+(夙歹+(王/口))]。",
+        "source_sentence": "星為○君為[了-(丁-一)+(夙-歹+(王/口))]。",
         "from": "T49n2037_003:0820a18_14",
         "context_with_next_sentence": true
     },
@@ -7095,12 +7095,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "年為[十/((坐(人*人)+(刀*刀))土+十)]。",
+        "source_sentence": "年為[十/((坐-(人*人)+(刀*刀))-土+十)]。",
         "from": "T49n2037_003:0820a19_17",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "初為[夙歹+熏]。",
+        "source_sentence": "初為[夙-歹+熏]。",
         "from": "T49n2037_003:0820a19_18",
         "context_with_next_sentence": true
     },
@@ -10780,7 +10780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "父行[啗口+王]高祖武德年謫官新州生能。",
+        "source_sentence": "父行&#;高祖武德年謫官新州生能。",
         "from": "T49n2037_003:0824a16_3",
         "context_with_next_sentence": true
     },
@@ -16615,7 +16615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "持篠帚金田掃地。",
+        "source_sentence": "持篠箒金田掃地。",
         "from": "T49n2037_003:0830b01_10",
         "context_with_next_sentence": true
     },
@@ -16820,7 +16820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[濡而+言]之晝能清秀(高僧傳)。",
+        "source_sentence": "[濡-而+言]之晝能清秀(高僧傳)。",
         "from": "T49n2037_003:0830b17_32",
         "context_with_next_sentence": true
     },
@@ -17050,7 +17050,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[濡而+言]之晝能清秀。",
+        "source_sentence": "[濡-而+言]之晝能清秀。",
         "from": "T49n2037_003:0830c12_6",
         "context_with_next_sentence": true
     },
@@ -21495,7 +21495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何以異於蚊虻爭穢壤於積[葶丁+呆]之間哉。",
+        "source_sentence": "何以異於蚊虻爭穢壤於積[葶-丁+呆]之間哉。",
         "from": "T49n2037_003:0835a25_18",
         "context_with_next_sentence": true
     },
@@ -30005,7 +30005,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "中尉樞密皆[袖由+癸](睽桂反)衫侍從故事也。",
+        "source_sentence": "中尉樞密皆[袖-由+癸](睽桂反)衫侍從故事也。",
         "from": "T49n2037_003:0844a18_3",
         "context_with_next_sentence": true
     },
@@ -31450,7 +31450,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "逾四年使劉霸鴆哀帝。",
+        "source_sentence": "逾四年使劉覇鴆哀帝。",
         "from": "T49n2037_003:0845c07_10",
         "context_with_next_sentence": true
     },
@@ -31905,7 +31905,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "字霸圖。",
+        "source_sentence": "字覇圖。",
         "from": "T49n2037_003:0846b01_1",
         "context_with_next_sentence": true
     },
@@ -34310,7 +34310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師喚院主與我做箇木枴子。",
+        "source_sentence": "師喚院主與我做箇木柺子。",
         "from": "T49n2037_003:0849b11_19",
         "context_with_next_sentence": true
     },
@@ -34365,7 +34365,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師擲下枴子端坐而逝。",
+        "source_sentence": "師擲下柺子端坐而逝。",
         "from": "T49n2037_003:0849b15_5",
         "context_with_next_sentence": true
     },
@@ -39815,7 +39815,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "朕周室之裔[(采木+ㄎ)*(后口+(一/巾))]叔之後。",
+        "source_sentence": "朕周室之裔[(采-木+ㄎ)*(后-口+(一/巾))]叔之後。",
         "from": "T49n2037_003:0856b03_16",
         "context_with_next_sentence": true
     },

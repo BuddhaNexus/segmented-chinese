@@ -2490,7 +2490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一曲歸家唱[這言+里]邏。",
+        "source_sentence": "一曲歸家唱[這-言+里]邏。",
         "from": "X82n1571_078:0412c02_11",
         "context_with_next_sentence": true
     },

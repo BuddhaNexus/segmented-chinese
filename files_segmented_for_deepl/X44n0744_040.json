@@ -25,7 +25,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或作羯[飢几+夌]伽。",
+        "source_sentence": "或作羯[飢-几+夌]伽。",
         "from": "X44n0744_040:0699c07_1",
         "context_with_next_sentence": true
     },
@@ -60,7 +60,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "羯[飢几+夌]伽國。",
+        "source_sentence": "羯[飢-几+夌]伽國。",
         "from": "X44n0744_040:0699c09_5",
         "context_with_next_sentence": true
     },
@@ -6145,7 +6145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[起巳+真]。",
+        "source_sentence": "[起-巳+真]。",
         "from": "X44n0744_040:0703b09_1",
         "context_with_next_sentence": true
     },
@@ -6180,7 +6180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[起巳+真]。",
+        "source_sentence": "[起-巳+真]。",
         "from": "X44n0744_040:0703b10_0",
         "context_with_next_sentence": true
     },
@@ -7860,12 +7860,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "宣傳法[礪萬+勱]。",
+        "source_sentence": "宣傳法&#;。",
         "from": "X44n0744_040:0704b23_40",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[礪萬+勱]傳意滿。",
+        "source_sentence": "&#;傳意滿。",
         "from": "X44n0744_040:0704b23_41",
         "context_with_next_sentence": true
     },
@@ -7962,6 +7962,851 @@
     {
         "source_sentence": "四分律名義標釋卷第四十(終)",
         "from": "X44n0744_040:0704c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_040:0704c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "氓音萌。",
+        "from": "X44n0744_040:0704c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "民也。",
+        "from": "X44n0744_040:0704c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悋音吝。",
+        "from": "X44n0744_040:0704c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慳惜也。",
+        "from": "X44n0744_040:0704c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覼音羅。",
+        "from": "X44n0744_040:0704c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "荑題。",
+        "from": "X44n0744_040:0704c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夷。",
+        "from": "X44n0744_040:0704c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二音。",
+        "from": "X44n0744_040:0704c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "草名也。",
+        "from": "X44n0744_040:0704c12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "跲極葉切。",
+        "from": "X44n0744_040:0704c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "箝入聲。",
+        "from": "X44n0744_040:0704c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "躓也。",
+        "from": "X44n0744_040:0704c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "礙也。",
+        "from": "X44n0744_040:0704c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仆音赴。",
+        "from": "X44n0744_040:0704c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偃也。",
+        "from": "X44n0744_040:0704c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僵也。",
+        "from": "X44n0744_040:0704c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四分律名義標釋跋語",
+        "from": "X44n0744_040:0704c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫宗者佛心。",
+        "from": "X44n0744_040:0704c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "律者佛行。",
+        "from": "X44n0744_040:0704c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "教者佛語。",
+        "from": "X44n0744_040:0704c22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喻如身形影。",
+        "from": "X44n0744_040:0704c22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舉一即三。",
+        "from": "X44n0744_040:0704c22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無有孤致者。",
+        "from": "X44n0744_040:0704c23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊出世。",
+        "from": "X44n0744_040:0704c23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鹿野初年。",
+        "from": "X44n0744_040:0704c23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與諸弟子演教明心。",
+        "from": "X44n0744_040:0704c23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未遂制律。",
+        "from": "X44n0744_040:0704c24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以教演心明。",
+        "from": "X44n0744_040:0704c24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即律也。",
+        "from": "X44n0744_040:0704c24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故有未許可舍利弗制律之請。",
+        "from": "X44n0744_040:0704c24_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而曰。",
+        "from": "X44n0744_040:0705a01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於清淨眾中。",
+        "from": "X44n0744_040:0705a01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不宜說是事。",
+        "from": "X44n0744_040:0705a01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令人謂世尊。",
+        "from": "X44n0744_040:0705a01_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疑良人作賊也。",
+        "from": "X44n0744_040:0705a02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十二年後。",
+        "from": "X44n0744_040:0705a02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因事制律。",
+        "from": "X44n0744_040:0705a02_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說五篇七聚。",
+        "from": "X44n0744_040:0705a02_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "涅槃末會。",
+        "from": "X44n0744_040:0705a03_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遺言屬累。",
+        "from": "X44n0744_040:0705a03_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敕諸弟子。",
+        "from": "X44n0744_040:0705a03_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依波羅木叉為師。",
+        "from": "X44n0744_040:0705a03_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸重毗尼。",
+        "from": "X44n0744_040:0705a04_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以行解脫。",
+        "from": "X44n0744_040:0705a04_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即心清淨。",
+        "from": "X44n0744_040:0705a04_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "教敷宣也。",
+        "from": "X44n0744_040:0705a04_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有曰。",
+        "from": "X44n0744_040:0705a04_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "末世眾生。",
+        "from": "X44n0744_040:0705a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "希望成道。",
+        "from": "X44n0744_040:0705a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無令求悟。",
+        "from": "X44n0744_040:0705a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯益多聞。",
+        "from": "X44n0744_040:0705a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "增長我見。",
+        "from": "X44n0744_040:0705a05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但當精勤降伏煩惱。",
+        "from": "X44n0744_040:0705a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又曰。",
+        "from": "X44n0744_040:0705a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四十九年。",
+        "from": "X44n0744_040:0705a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未甞說一字。",
+        "from": "X44n0744_040:0705a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓋以能宗。",
+        "from": "X44n0744_040:0705a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即律教。",
+        "from": "X44n0744_040:0705a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無別為律教也。",
+        "from": "X44n0744_040:0705a07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能律即宗教。",
+        "from": "X44n0744_040:0705a07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無別為宗教也。",
+        "from": "X44n0744_040:0705a07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能教即宗律。",
+        "from": "X44n0744_040:0705a08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無別為宗律也。",
+        "from": "X44n0744_040:0705a08_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是以不妨偏舉。",
+        "from": "X44n0744_040:0705a08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正法眼藏。",
+        "from": "X44n0744_040:0705a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "付尊者迦葉。",
+        "from": "X44n0744_040:0705a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毗柰耶藏。",
+        "from": "X44n0744_040:0705a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "付尊者波離。",
+        "from": "X44n0744_040:0705a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修多羅藏。",
+        "from": "X44n0744_040:0705a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "付尊者阿難。",
+        "from": "X44n0744_040:0705a10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖舉之偏。",
+        "from": "X44n0744_040:0705a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而付之實全。",
+        "from": "X44n0744_040:0705a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故迦葉有上座部之結集。",
+        "from": "X44n0744_040:0705a10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿難入五百之結集。",
+        "from": "X44n0744_040:0705a11_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆律學也。",
+        "from": "X44n0744_040:0705a11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未嘗曰。",
+        "from": "X44n0744_040:0705a11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我專宗任教。",
+        "from": "X44n0744_040:0705a12_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而不及于律也。",
+        "from": "X44n0744_040:0705a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "達摩初來。",
+        "from": "X44n0744_040:0705a12_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流支三藏。",
+        "from": "X44n0744_040:0705a12_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譯教。",
+        "from": "X44n0744_040:0705a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "闡律師也。",
+        "from": "X44n0744_040:0705a13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而蠱毒達摩。",
+        "from": "X44n0744_040:0705a13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及後之律師法師。",
+        "from": "X44n0744_040:0705a13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無不毀謗于宗乘。",
+        "from": "X44n0744_040:0705a13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人以為其未明宗。",
+        "from": "X44n0744_040:0705a14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾以為其正未明律教也。",
+        "from": "X44n0744_040:0705a14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "達摩西來。",
+        "from": "X44n0744_040:0705a15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "單傳直指。",
+        "from": "X44n0744_040:0705a15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而以楞伽為心印。",
+        "from": "X44n0744_040:0705a15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曷甞滅教也。",
+        "from": "X44n0744_040:0705a15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "百丈離律寺居止。",
+        "from": "X44n0744_040:0705a16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "別建叢林。",
+        "from": "X44n0744_040:0705a16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "規矩多軌法乎律本。",
+        "from": "X44n0744_040:0705a16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曷甞敗律也。",
+        "from": "X44n0744_040:0705a17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今之禪者。",
+        "from": "X44n0744_040:0705a17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "呵教為如來禪。",
+        "from": "X44n0744_040:0705a17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "詆律為聲聞學。",
+        "from": "X44n0744_040:0705a17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "滅教敗律。",
+        "from": "X44n0744_040:0705a18_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無所不至。",
+        "from": "X44n0744_040:0705a18_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人以為其未明教律。",
+        "from": "X44n0744_040:0705a18_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾以為其正未明宗也。",
+        "from": "X44n0744_040:0705a18_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未明宗。",
+        "from": "X44n0744_040:0705a19_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而稱為宗師。",
+        "from": "X44n0744_040:0705a19_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "烏乎宗。",
+        "from": "X44n0744_040:0705a19_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未明教律。",
+        "from": "X44n0744_040:0705a19_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而稱為法師律師。",
+        "from": "X44n0744_040:0705a20_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "烏乎教律。",
+        "from": "X44n0744_040:0705a20_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三學狂瀾。",
+        "from": "X44n0744_040:0705a20_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "于今極哉。",
+        "from": "X44n0744_040:0705a20_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非有荷擔如來。",
+        "from": "X44n0744_040:0705a21_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舟濟四生者。",
+        "from": "X44n0744_040:0705a21_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "起而砥柱之。",
+        "from": "X44n0744_040:0705a21_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛法滅壞。",
+        "from": "X44n0744_040:0705a21_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無多日矣。",
+        "from": "X44n0744_040:0705a22_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西乾聖眾。",
+        "from": "X44n0744_040:0705a22_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五百七百之結集。",
+        "from": "X44n0744_040:0705a22_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "實切愍此。",
+        "from": "X44n0744_040:0705a22_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "東震結集。",
+        "from": "X44n0744_040:0705a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不百而十。",
+        "from": "X44n0744_040:0705a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不十而人。",
+        "from": "X44n0744_040:0705a23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邀五聚七。",
+        "from": "X44n0744_040:0705a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾將誰望。",
+        "from": "X44n0744_040:0705a23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "對在犙兄。",
+        "from": "X44n0744_040:0705a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "興言及此。",
+        "from": "X44n0744_040:0705a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "恒相泣從。",
+        "from": "X44n0744_040:0705a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兄曰。",
+        "from": "X44n0744_040:0705a24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宗不明。",
+        "from": "X44n0744_040:0705a24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而天下尊宗。",
+        "from": "X44n0744_040:0705a24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "律日滅。",
+        "from": "X44n0744_040:0705b01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而天下毀律。",
+        "from": "X44n0744_040:0705b01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不明者。",
+        "from": "X44n0744_040:0705b01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無當于尊。",
+        "from": "X44n0744_040:0705b01_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日滅者。",
+        "from": "X44n0744_040:0705b01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奚堪更毀。",
+        "from": "X44n0744_040:0705b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在彼之毀之也。",
+        "from": "X44n0744_040:0705b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "實彼之未知之也。",
+        "from": "X44n0744_040:0705b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲去彼所毀。",
+        "from": "X44n0744_040:0705b02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其急與所知乎。",
+        "from": "X44n0744_040:0705b03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "律文具在。",
+        "from": "X44n0744_040:0705b03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾其舉在文之名義。",
+        "from": "X44n0744_040:0705b03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "于人所難解者。",
+        "from": "X44n0744_040:0705b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而標釋之。",
+        "from": "X44n0744_040:0705b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斯則與所知也。",
+        "from": "X44n0744_040:0705b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃積精數年。",
+        "from": "X44n0744_040:0705b04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帙成一旦。",
+        "from": "X44n0744_040:0705b05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今將發梓。",
+        "from": "X44n0744_040:0705b05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "屬余校訂。",
+        "from": "X44n0744_040:0705b05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比經按論。",
+        "from": "X44n0744_040:0705b05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "義諦無差。",
+        "from": "X44n0744_040:0705b05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "私衷慶慰曰。",
+        "from": "X44n0744_040:0705b06_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此足當震旦之一結集乎。",
+        "from": "X44n0744_040:0705b06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛法其不速滅壞乎。",
+        "from": "X44n0744_040:0705b06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生佛仔肩。",
+        "from": "X44n0744_040:0705b07_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其吾在犙兄乎。",
+        "from": "X44n0744_040:0705b07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天下固不於余目為宗師。",
+        "from": "X44n0744_040:0705b07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更不得于在犙氏目為律師也。",
+        "from": "X44n0744_040:0705b08_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曾無有不教不律之宗師。",
+        "from": "X44n0744_040:0705b08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈有不宗不教之律師乎。",
+        "from": "X44n0744_040:0705b09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若必分宗分律分教。",
+        "from": "X44n0744_040:0705b09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必其為宗律教。",
+        "from": "X44n0744_040:0705b10_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非如來之宗律教者矣。",
+        "from": "X44n0744_040:0705b10_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今天下號為宗律教師者。",
+        "from": "X44n0744_040:0705b10_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓋宜知返。",
+        "from": "X44n0744_040:0705b11_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懷切在此。",
+        "from": "X44n0744_040:0705b11_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "校成書之為跋。",
+        "from": "X44n0744_040:0705b11_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "旹",
+        "from": "X44n0744_040:0705b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "崇禎癸未迦提四日新安沙門同參弟弘麗書于粵之英德西來山白象林中",
+        "from": "X44n0744_040:0705b14_0",
         "context_with_next_sentence": false
     }
 ]

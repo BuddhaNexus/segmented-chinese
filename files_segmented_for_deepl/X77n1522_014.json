@@ -3440,7 +3440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "嶽[打丁+(改己)]淚曰。",
+        "source_sentence": "嶽[打-丁+(改-己)]淚曰。",
         "from": "X77n1522_014:0186a17_27",
         "context_with_next_sentence": true
     },
@@ -4120,7 +4120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[賜勿+月]贈如禮。",
+        "source_sentence": "[賜-勿+月]贈如禮。",
         "from": "X77n1522_014:0186c06_0",
         "context_with_next_sentence": true
     },
@@ -7265,7 +7265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]曰。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]曰。",
         "from": "X77n1522_014:0189b02_1",
         "context_with_next_sentence": true
     },
@@ -7360,7 +7360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "禮師[(厂@((既旡)日+口))*頁]左右。",
+        "source_sentence": "禮師[(厂@((既-旡)-日+口))*頁]左右。",
         "from": "X77n1522_014:0189b07_20",
         "context_with_next_sentence": true
     },
@@ -8635,7 +8635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即踰[葸十+夕]嶺。",
+        "source_sentence": "即踰[葸-十+夕]嶺。",
         "from": "X77n1522_014:0190b07_10",
         "context_with_next_sentence": true
     },
@@ -12475,7 +12475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大頤方口。",
+        "source_sentence": "大頥方口。",
         "from": "X77n1522_014:0193b18_5",
         "context_with_next_sentence": true
     },
@@ -13965,7 +13965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而兩淛又以缽盂一萬副。",
+        "source_sentence": "而兩淛又以盋盂一萬副。",
         "from": "X77n1522_014:0194c04_13",
         "context_with_next_sentence": true
     },

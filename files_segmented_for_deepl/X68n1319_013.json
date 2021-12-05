@@ -140,7 +140,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "豈有為念佛所罣礙哉。",
+        "source_sentence": "豈有為念佛所&#;礙哉。",
         "from": "X68n1319_013:0577b14_0",
         "context_with_next_sentence": true
     },
@@ -10185,7 +10185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "示沈廣[這言+率]",
+        "source_sentence": "示沈廣[這-言+率]",
         "from": "X68n1319_013:0586c06_0",
         "context_with_next_sentence": true
     },
@@ -19990,7 +19990,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "老宿欣然大悅解頤。",
+        "source_sentence": "老宿欣然大悅解頥。",
         "from": "X68n1319_013:0595c15_24",
         "context_with_next_sentence": true
     },
@@ -21180,7 +21180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "耽麴[薜/米]也。",
+        "source_sentence": "耽麯[薜/米]也。",
         "from": "X68n1319_013:0596c20_3",
         "context_with_next_sentence": true
     },
@@ -21230,7 +21230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今出家兒耽麴[薜/米]者固少。",
+        "source_sentence": "今出家兒耽麯[薜/米]者固少。",
         "from": "X68n1319_013:0596c23_6",
         "context_with_next_sentence": true
     },
@@ -23757,6 +23757,16 @@
     {
         "source_sentence": "日新又新。",
         "from": "X68n1319_013:0599b07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以報德。",
+        "from": "X68n1319_013:0599b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忽悟水因。",
+        "from": "X68n1319_013:0599b08_1",
         "context_with_next_sentence": false
     }
 ]

@@ -2680,7 +2680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "捐弃[冗几+豕]間如朽敗木。",
+        "source_sentence": "捐弃[冗-几+豕]間如朽敗木。",
         "from": "X56n0923_004:0170b20_2",
         "context_with_next_sentence": true
     },
@@ -8440,7 +8440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "反為珍寶之所罣礙。",
+        "source_sentence": "反為珍寶之所&#;礙。",
         "from": "X56n0923_004:0176c02_24",
         "context_with_next_sentence": true
     },

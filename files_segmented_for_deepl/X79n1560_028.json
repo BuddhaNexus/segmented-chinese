@@ -1270,7 +1270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[栽木+土]許多松作麼。",
+        "source_sentence": "[栽-木+土]許多松作麼。",
         "from": "X79n1560_028:0547b09_75",
         "context_with_next_sentence": true
     },
@@ -1290,7 +1290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[栽木+土]得多少。",
+        "source_sentence": "[栽-木+土]得多少。",
         "from": "X79n1560_028:0547b10_79",
         "context_with_next_sentence": true
     },
@@ -1315,7 +1315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "這裏何不[栽木+土]。",
+        "source_sentence": "這裏何不[栽-木+土]。",
         "from": "X79n1560_028:0547b11_84",
         "context_with_next_sentence": true
     },
@@ -3270,7 +3270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其門風峻拔如此。",
+        "source_sentence": "其門風峻㧞如此。",
         "from": "X79n1560_028:0548c13_0",
         "context_with_next_sentence": true
     },

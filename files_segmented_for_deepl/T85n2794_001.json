@@ -6450,7 +6450,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "十具十[萉巴+(日/(句口+匕))]成就。",
+        "source_sentence": "十具十[萉-巴+(日/(句-口+匕))]成就。",
         "from": "T85n2794_001:0690a28_12",
         "context_with_next_sentence": true
     },
@@ -6480,7 +6480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "比丘不滿五[萉巴+(日/(句口+匕))]。",
+        "source_sentence": "比丘不滿五[萉-巴+(日/(句-口+匕))]。",
         "from": "T85n2794_001:0690b03_18",
         "context_with_next_sentence": true
     },
@@ -6785,7 +6785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "十者二十[萉巴+(日/(句口+匕))]。",
+        "source_sentence": "十者二十[萉-巴+(日/(句-口+匕))]。",
         "from": "T85n2794_001:0690b26_1",
         "context_with_next_sentence": true
     },
@@ -6995,7 +6995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "上坐應使受囑人次第問僧二十[萉巴+(日/(句口+匕))]以上。",
+        "source_sentence": "上坐應使受囑人次第問僧二十[萉-巴+(日/(句-口+匕))]以上。",
         "from": "T85n2794_001:0690c13_20",
         "context_with_next_sentence": true
     },
@@ -7107,6 +7107,11 @@
     {
         "source_sentence": "律抄壹卷",
         "from": "T85n2794_001:0690c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "照平元年七月十三日於昌梨寺寫訖故記之道人僧誕許",
+        "from": "T85n2794_001:0690c24_0",
         "context_with_next_sentence": false
     }
 ]

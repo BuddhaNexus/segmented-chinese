@@ -45,7 +45,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "婆羅門言：「牛在彼間，自[穀禾+牛]取之。」",
+        "source_sentence": "婆羅門言：「牛在彼間，自[穀-禾+牛]取之。」",
         "from": "T17n0808_001:0754a12_0",
         "context_with_next_sentence": true
     },
@@ -60,7 +60,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "阿難即自思惟：「我法不應自[穀禾+牛]取牛乳。」",
+        "source_sentence": "阿難即自思惟：「我法不應自[穀-禾+牛]取牛乳。」",
         "from": "T17n0808_001:0754a13_3",
         "context_with_next_sentence": true
     },
@@ -75,7 +75,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為我[穀禾+牛]取牛乳。」",
+        "source_sentence": "為我[穀-禾+牛]取牛乳。」",
         "from": "T17n0808_001:0754a16_2",
         "context_with_next_sentence": true
     },
@@ -185,7 +185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有一婆羅門為我[穀禾+牛]乳，牛即調善。",
+        "source_sentence": "有一婆羅門為我[穀-禾+牛]乳，牛即調善。",
         "from": "T17n0808_001:0754b04_3",
         "context_with_next_sentence": true
     },

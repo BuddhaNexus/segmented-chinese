@@ -110,7 +110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "八聖未甞窺其[這言+(序予+手)]。",
+        "source_sentence": "八聖未甞窺其[這-言+(序-予+手)]。",
         "from": "T38n1773_001:0299b03_8",
         "context_with_next_sentence": true
     },
@@ -4822,6 +4822,21 @@
     {
         "source_sentence": "彌勒上生經宗要(終)",
         "from": "T38n1773_001:0303a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "波羅捺(此云江遶)劫波利(此云捉髑髏鬼)波波利(此云守護)祇陀(此云戰勝)須達(此云善溫)。",
+        "from": "T38n1773_001:0303a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元慶二年七月十日定心院政所交了",
+        "from": "T38n1773_001:0303a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　　　　　　釋圓敏",
+        "from": "T38n1773_001:0303a20_0",
         "context_with_next_sentence": false
     }
 ]

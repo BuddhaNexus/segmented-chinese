@@ -9790,7 +9790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "意在自[(白日+田)/廾]。",
+        "source_sentence": "意在自[(白-日+田)/廾]。",
         "from": "X40n0717_010:0278b13_41",
         "context_with_next_sentence": true
     },
@@ -13667,6 +13667,41 @@
     {
         "source_sentence": "四分戒本如釋卷第十",
         "from": "X40n0717_010:0281a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X40n0717_010:0281a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "閾音域。",
+        "from": "X40n0717_010:0281a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樗蒱上音摳。",
+        "from": "X40n0717_010:0281a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音蒲。",
+        "from": "X40n0717_010:0281a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "賻戲也。",
+        "from": "X40n0717_010:0281a20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "笏音忽。",
+        "from": "X40n0717_010:0281a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "娑那此言賊。",
+        "from": "X40n0717_010:0281a22_0",
         "context_with_next_sentence": false
     }
 ]

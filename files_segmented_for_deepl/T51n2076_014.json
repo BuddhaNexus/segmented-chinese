@@ -1690,7 +1690,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[婺女+(厂@女)]州東陽人也。",
+        "source_sentence": "[婺-女+(厂@女)]州東陽人也。",
         "from": "T51n2076_014:0310b08_65",
         "context_with_next_sentence": true
     },
@@ -6070,7 +6070,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "須要執巾帚作麼。",
+        "source_sentence": "須要執巾箒作麼。",
         "from": "T51n2076_014:0313c08_5",
         "context_with_next_sentence": true
     },
@@ -7275,7 +7275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有人道得與他一[袖由+要]裩。",
+        "source_sentence": "有人道得與他一[袖-由+要]裩。",
         "from": "T51n2076_014:0314b24_8",
         "context_with_next_sentence": true
     },
@@ -8280,7 +8280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師竪起掃帚云是第幾月。",
+        "source_sentence": "師竪起掃箒云是第幾月。",
         "from": "T51n2076_014:0315a29_12",
         "context_with_next_sentence": true
     },

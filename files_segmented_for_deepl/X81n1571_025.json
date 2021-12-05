@@ -775,7 +775,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "露柱[跳兆+孛]跳。",
+        "source_sentence": "露柱[跳-兆+孛]跳。",
         "from": "X81n1571_025:0634c20_29",
         "context_with_next_sentence": true
     },
@@ -810,7 +810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何異曲[(乏之+虫)*善]穿靴。",
+        "source_sentence": "何異曲[(乏-之+虫)*善]穿靴。",
         "from": "X81n1571_025:0634c22_36",
         "context_with_next_sentence": true
     },
@@ -3445,7 +3445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "惟留隻履[曰/月]輕埃　示眾。",
+        "source_sentence": "惟留隻履冐輕埃　示眾。",
         "from": "X81n1571_025:0637a04_5",
         "context_with_next_sentence": true
     },
@@ -4180,7 +4180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "西天以蠟人為驗。",
+        "source_sentence": "西天以蠟人為騐。",
         "from": "X81n1571_025:0637b23_10",
         "context_with_next_sentence": true
     },
@@ -4190,7 +4190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此間以何為驗。",
+        "source_sentence": "此間以何為騐。",
         "from": "X81n1571_025:0637b23_12",
         "context_with_next_sentence": true
     },
@@ -4240,7 +4240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "盡在這裏[跳兆+孛]跳。",
+        "source_sentence": "盡在這裏[跳-兆+孛]跳。",
         "from": "X81n1571_025:0637c02_0",
         "context_with_next_sentence": true
     },
@@ -8760,7 +8760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "燈籠[跳兆+孛]跳過青天。",
+        "source_sentence": "燈籠[跳-兆+孛]跳過青天。",
         "from": "X81n1571_025:0641a22_12",
         "context_with_next_sentence": true
     },
@@ -9415,7 +9415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "螟[虫*靈]成蜾[虫*(嬴口+(罩卓))]。",
+        "source_sentence": "螟[虫*靈]成蜾[虫*(嬴-口+(罩-卓))]。",
         "from": "X81n1571_025:0641c14_45",
         "context_with_next_sentence": true
     },
@@ -11040,7 +11040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拂子[跳兆+孛]跳過流沙。",
+        "source_sentence": "拂子[跳-兆+孛]跳過流沙。",
         "from": "X81n1571_025:0643a02_1",
         "context_with_next_sentence": true
     },

@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 刻修禪要訣序",
+        "source_sentence": "刻修禪要訣序",
         "from": "X63n1222_001:0014c03_0",
         "context_with_next_sentence": true
     },
@@ -2230,7 +2230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "周利般陀誦箕忘帚成大羅漢。",
+        "source_sentence": "周利般陀誦箕忘箒成大羅漢。",
         "from": "X63n1222_001:0016b18_9",
         "context_with_next_sentence": true
     },
@@ -3457,6 +3457,11 @@
     {
         "source_sentence": "修禪要訣一卷",
         "from": "X63n1222_001:0017b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "承保三年六月二十二日於光明書寫畢",
+        "from": "X63n1222_001:0017b22_0",
         "context_with_next_sentence": false
     }
 ]

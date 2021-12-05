@@ -60,7 +60,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　　皎潔鮮淨，　　如白玻[王*(黍禾+利)]，　　具足六牙，　　飾以金勒。",
+        "source_sentence": "　　皎潔鮮淨，　　如白玻[王*(黍-禾+利)]，　　具足六牙，　　飾以金勒。",
         "from": "T03n0187_002:0546a09_0",
         "context_with_next_sentence": true
     },

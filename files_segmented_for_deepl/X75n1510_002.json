@@ -155,7 +155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "帶白[(畾/(冗几+互))*毛]畫釋迦像及舍利。",
+        "source_sentence": "帶白[(畾/(冗-几+互))*毛]畫釋迦像及舍利。",
         "from": "X75n1510_002:0038b07_4",
         "context_with_next_sentence": true
     },
@@ -10600,7 +10600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乃至大如[麩夫+廣]麥。",
+        "source_sentence": "乃至大如&#;麥。",
         "from": "X75n1510_002:0048a02_5",
         "context_with_next_sentence": true
     },
@@ -11875,7 +11875,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "飯百求道人。",
+        "source_sentence": "飰百求道人。",
         "from": "X75n1510_002:0048c24_4",
         "context_with_next_sentence": true
     },
@@ -11885,7 +11885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "飯百初果人。",
+        "source_sentence": "飰百初果人。",
         "from": "X75n1510_002:0048c24_6",
         "context_with_next_sentence": true
     },
@@ -11895,12 +11895,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "飯百二果人。",
+        "source_sentence": "飰百二果人。",
         "from": "X75n1510_002:0049a01_8",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不如一三果飯。",
+        "source_sentence": "不如一三果飰。",
         "from": "X75n1510_002:0049a01_9",
         "context_with_next_sentence": true
     },
@@ -11915,7 +11915,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "飯百四果人。",
+        "source_sentence": "飰百四果人。",
         "from": "X75n1510_002:0049a02_12",
         "context_with_next_sentence": true
     },
@@ -12690,17 +12690,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若人飯百辟支佛。",
+        "source_sentence": "若人飰百辟支佛。",
         "from": "X75n1510_002:0049b24_4",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不如飯一佛。",
+        "source_sentence": "不如飰一佛。",
         "from": "X75n1510_002:0049b24_5",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "飯百佛不如有人作佛塔。",
+        "source_sentence": "飰百佛不如有人作佛塔。",
         "from": "X75n1510_002:0049c01_6",
         "context_with_next_sentence": true
     },
@@ -12770,7 +12770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以一飯上佛。",
+        "source_sentence": "以一飰上佛。",
         "from": "X75n1510_002:0049c06_9",
         "context_with_next_sentence": true
     },
@@ -12785,7 +12785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "汝以飯施我。",
+        "source_sentence": "汝以飰施我。",
         "from": "X75n1510_002:0049c07_2",
         "context_with_next_sentence": true
     },
@@ -18375,7 +18375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乃至朝中粥飯。",
+        "source_sentence": "乃至朝中粥飰。",
         "from": "X75n1510_002:0054b23_2",
         "context_with_next_sentence": true
     },
@@ -18705,7 +18705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "淨飯王勑為太子友。",
+        "source_sentence": "淨飰王勑為太子友。",
         "from": "X75n1510_002:0054c16_0",
         "context_with_next_sentence": true
     },
@@ -22257,6 +22257,261 @@
     {
         "source_sentence": "釋迦如來行蹟頌卷下(終)",
         "from": "X75n1510_002:0057c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天台始祖龍樹大士云。",
+        "from": "X75n1510_002:0057c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有聞無智慧。",
+        "from": "X75n1510_002:0057c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦不知實相。",
+        "from": "X75n1510_002:0057c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如大暗中。",
+        "from": "X75n1510_002:0057c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有目無所見。",
+        "from": "X75n1510_002:0057c15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有慧無多聞。",
+        "from": "X75n1510_002:0057c15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦不知實相。",
+        "from": "X75n1510_002:0057c15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如大明中。",
+        "from": "X75n1510_002:0057c16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有燈無所照。",
+        "from": "X75n1510_002:0057c16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有聞有智慧。",
+        "from": "X75n1510_002:0057c16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是所說應受。",
+        "from": "X75n1510_002:0057c16_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無聞無智慧。",
+        "from": "X75n1510_002:0057c17_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名人身牛。",
+        "from": "X75n1510_002:0057c17_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今有浮庵長老無寄。",
+        "from": "X75n1510_002:0057c17_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "早投於白蓮社第四世真淨國師之嫡嗣釋教都僧統覺海圓明佛印靜照大禪師。",
+        "from": "X75n1510_002:0057c18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而安堂下。",
+        "from": "X75n1510_002:0057c19_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "落髮披緇。",
+        "from": "X75n1510_002:0057c19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法名雲默。",
+        "from": "X75n1510_002:0057c20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "學通一家文義。",
+        "from": "X75n1510_002:0057c20_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "赴於選席。",
+        "from": "X75n1510_002:0057c20_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中上上科。",
+        "from": "X75n1510_002:0057c20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得窟嵓住持之名。",
+        "from": "X75n1510_002:0057c21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "高步名途。",
+        "from": "X75n1510_002:0057c21_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一旦唾弃。",
+        "from": "X75n1510_002:0057c21_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶弊屣也。",
+        "from": "X75n1510_002:0057c21_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃遊歷金剛五臺等。",
+        "from": "X75n1510_002:0057c22_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名山勝地。",
+        "from": "X75n1510_002:0057c22_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "竟到始興山卓一庵而樓遲。",
+        "from": "X75n1510_002:0057c22_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以誦蓮經。",
+        "from": "X75n1510_002:0057c23_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "念彌陀畫佛書經。",
+        "from": "X75n1510_002:0057c23_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為日用者。",
+        "from": "X75n1510_002:0057c23_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "垂二十年矣。",
+        "from": "X75n1510_002:0057c24_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘力搜尋佛典祖文。",
+        "from": "X75n1510_002:0057c24_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "撰述本師行迹頌并註。",
+        "from": "X75n1510_002:0057c24_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃成兩軸。",
+        "from": "X75n1510_002:0058a01_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以啟童蒙。",
+        "from": "X75n1510_002:0058a01_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "利莫廣焉。",
+        "from": "X75n1510_002:0058a01_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "噫娑婆世界成住壞空劫數長短。",
+        "from": "X75n1510_002:0058a01_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三界五趣壽福優劣苦樂差別。",
+        "from": "X75n1510_002:0058a02_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來方便隨類示現四土三身。",
+        "from": "X75n1510_002:0058a03_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五時說法年月次第。",
+        "from": "X75n1510_002:0058a03_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸經部內半滿偏圓本迹權實。",
+        "from": "X75n1510_002:0058a04_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至滅後遺法流行隆夷處近。",
+        "from": "X75n1510_002:0058a04_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及後進學者修行入道方便之規。",
+        "from": "X75n1510_002:0058a05_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如明鏡當臺。",
+        "from": "X75n1510_002:0058a06_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無一毫差。",
+        "from": "X75n1510_002:0058a06_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真可謂吾祖所云是所說應受者明矣。",
+        "from": "X75n1510_002:0058a06_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善哉未曾有也。",
+        "from": "X75n1510_002:0058a07_44",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其文辭之格。",
+        "from": "X75n1510_002:0058a07_45",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾欽袵無間然矣。",
+        "from": "X75n1510_002:0058a08_46",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時天歷三年庚午二月八日萬德山白蓮社沙門豈跋。",
+        "from": "X75n1510_002:0058a08_47",
         "context_with_next_sentence": false
     }
 ]

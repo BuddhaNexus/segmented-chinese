@@ -85,7 +85,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "然至析丹丘[(爽(爻*爻)+(目*目))*斗]酌於光宅，鋤剗乎玄論之意，令人嘅焉不能無議。",
+        "source_sentence": "然至析丹丘[(爽-(爻*爻)+(目*目))*斗]酌於光宅，鋤剗乎玄論之意，令人嘅焉不能無議。",
         "from": "T33n1715_001:0572b02_8",
         "context_with_next_sentence": true
     },
@@ -1975,7 +1975,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "「阿[少/兔]樓馱」者，亦是外國音，此間翻者，阿之言無，[菟?+?]樓馱言貧，謂無貧比丘。",
+        "source_sentence": "「阿[少/兔]樓馱」者，亦是外國音，此間翻者，阿之言無，[菟-?+?]樓馱言貧，謂無貧比丘。",
         "from": "T33n1715_001:0579a13_43",
         "context_with_next_sentence": true
     },

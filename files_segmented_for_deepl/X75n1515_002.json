@@ -1890,7 +1890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "勤舊僧[訊言+木]欲揭示名字。",
+        "source_sentence": "勤舊僧[訊-言+木]欲揭示名字。",
         "from": "X75n1515_002:0748b23_1",
         "context_with_next_sentence": true
     },
@@ -2500,7 +2500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "隄岸築垣墻供[怡台+(玄ㄙ+ㄥ)]營繕置廩局。",
+        "source_sentence": "隄岸築垣墻供[怡-台+(玄-ㄙ+ㄥ)]營繕置廩局。",
         "from": "X75n1515_002:0749a23_16",
         "context_with_next_sentence": true
     },
@@ -2585,7 +2585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其貲費裨然。",
+        "source_sentence": "其貲費禆然。",
         "from": "X75n1515_002:0749b05_12",
         "context_with_next_sentence": true
     },
@@ -3110,7 +3110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "敕止宿翰林院以備[(厂@((既旡)日+口))*頁]問。",
+        "source_sentence": "敕止宿翰林院以備[(厂@((既-旡)-日+口))*頁]問。",
         "from": "X75n1515_002:0749c20_26",
         "context_with_next_sentence": true
     },
@@ -3225,12 +3225,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "尤為翰林宋公．侍講[后口+(戶尸+巳)]公所知。",
+        "source_sentence": "尤為翰林宋公．侍講[后-口+(戶-尸+巳)]公所知。",
         "from": "X75n1515_002:0750a04_10",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又善任[打丁+雚]智。",
+        "source_sentence": "又善任[打-丁+雚]智。",
         "from": "X75n1515_002:0750a04_11",
         "context_with_next_sentence": true
     },
@@ -3725,7 +3725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而靈山懺堂為功[宋木+取]鉅。",
+        "source_sentence": "而靈山懺堂為功[宋-木+取]鉅。",
         "from": "X75n1515_002:0750b16_13",
         "context_with_next_sentence": true
     },
@@ -5410,7 +5410,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "庚子歲行宣政院以師於五十名中[鬮龜+?]中棲真。",
+        "source_sentence": "庚子歲行宣政院以師於五十名中䰗中棲真。",
         "from": "X75n1515_002:0752a13_19",
         "context_with_next_sentence": true
     },
@@ -5500,7 +5500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[鬮龜+?]師住上竺。",
+        "source_sentence": "䰗師住上竺。",
         "from": "X75n1515_002:0752a20_5",
         "context_with_next_sentence": true
     },

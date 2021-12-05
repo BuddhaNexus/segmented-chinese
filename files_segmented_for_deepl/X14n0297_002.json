@@ -8780,7 +8780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "栢[這言+(序予+手)]玄覧云。",
+        "source_sentence": "栢[這-言+(序-予+手)]玄覧云。",
         "from": "X14n0297_002:0704a01_6",
         "context_with_next_sentence": true
     },
@@ -15015,8 +15015,28 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "初不論起止□",
+        "source_sentence": "初不論起止□目。",
         "from": "X14n0297_002:0709b12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若於此義。",
+        "from": "X14n0297_002:0709b13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一答通。",
+        "from": "X14n0297_002:0709b13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "許交光法師。",
+        "from": "X14n0297_002:0709b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入楞嚴和□",
+        "from": "X14n0297_002:0709b13_14",
         "context_with_next_sentence": false
     }
 ]

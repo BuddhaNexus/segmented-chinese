@@ -1140,12 +1140,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上。",
+        "source_sentence": "[跳-兆+孛]跳上。",
         "from": "X85n1591_008:0261b18_6",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "搕[打丁+(天/韭)]堆頭。",
+        "source_sentence": "搕[打-丁+(天/韭)]堆頭。",
         "from": "X85n1591_008:0261b18_7",
         "context_with_next_sentence": true
     },
@@ -3380,7 +3380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上岸。",
+        "source_sentence": "[跳-兆+孛]跳上岸。",
         "from": "X85n1591_008:0263a15_6",
         "context_with_next_sentence": true
     },
@@ -5602,6 +5602,306 @@
     {
         "source_sentence": "黔南會燈錄卷第八(終)",
         "from": "X85n1591_008:0264c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黔南會燈補續錄",
+        "from": "X85n1591_008:0264c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖可玉禪師法嗣",
+        "from": "X85n1591_008:0264c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "都勻續燈寂常禪師楚鄂蒲邑王氏子。",
+        "from": "X85n1591_008:0264c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "母岑氏。",
+        "from": "X85n1591_008:0264c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "適亂入黔始生。",
+        "from": "X85n1591_008:0264c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "年十三。",
+        "from": "X85n1591_008:0264c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞母誦金剛經。",
+        "from": "X85n1591_008:0264c19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "動出塵念。",
+        "from": "X85n1591_008:0264c19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從本菴巨徹芟染。",
+        "from": "X85n1591_008:0264c19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依貴筑東山梅溪和尚具足。",
+        "from": "X85n1591_008:0264c20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "參四川華巖聖可和尚印證。",
+        "from": "X85n1591_008:0264c20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "示眾。",
+        "from": "X85n1591_008:0264c21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真空本湛然。",
+        "from": "X85n1591_008:0264c21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幻翳從何起。",
+        "from": "X85n1591_008:0264c21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛祖假虗名。",
+        "from": "X85n1591_008:0264c21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "度生亦昧語。",
+        "from": "X85n1591_008:0264c22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若是過量人。",
+        "from": "X85n1591_008:0264c22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不用頻頻舉。",
+        "from": "X85n1591_008:0264c22_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一口涸西江。",
+        "from": "X85n1591_008:0264c22_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一擊忘所止。",
+        "from": "X85n1591_008:0264c23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "掉臂出長安。",
+        "from": "X85n1591_008:0264c23_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "難瞞拄杖子。",
+        "from": "X85n1591_008:0264c23_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且道。",
+        "from": "X85n1591_008:0264c23_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "拄杖子有甚長處。",
+        "from": "X85n1591_008:0264c24_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "腦後見腮。",
+        "from": "X85n1591_008:0264c24_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不與往來。",
+        "from": "X85n1591_008:0264c24_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "都勻無瑕玉禪師(尊宿)本郡徐氏子。",
+        "from": "X85n1591_008:0265a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出家於開化殿。",
+        "from": "X85n1591_008:0265a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禮參實為師。",
+        "from": "X85n1591_008:0265a01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依天野廣恩和尚圓具。",
+        "from": "X85n1591_008:0265a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師善操守。",
+        "from": "X85n1591_008:0265a02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有不出為人之舉。",
+        "from": "X85n1591_008:0265a02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "數十年。",
+        "from": "X85n1591_008:0265a03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以枯澹自若。",
+        "from": "X85n1591_008:0265a03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "臨終據座示眾坐脫。",
+        "from": "X85n1591_008:0265a03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世壽五十一。",
+        "from": "X85n1591_008:0265a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧臘三十六。",
+        "from": "X85n1591_008:0265a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "璧林門禪師法嗣",
+        "from": "X85n1591_008:0265a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "平越蘆坪慈門竺崖性禪師蜀東墊邑朱氏子。",
+        "from": "X85n1591_008:0265a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出家於安順圓通寺。",
+        "from": "X85n1591_008:0265a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禮恒明剃染。",
+        "from": "X85n1591_008:0265a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依語嵩老人具足。",
+        "from": "X85n1591_008:0265a07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "參璧林和尚印可。",
+        "from": "X85n1591_008:0265a07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛誕日上堂。",
+        "from": "X85n1591_008:0265a08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "指天指地獨稱尊。",
+        "from": "X85n1591_008:0265a08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "個事還他過量人。",
+        "from": "X85n1591_008:0265a08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瞿曇露盡深深意。",
+        "from": "X85n1591_008:0265a09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幾個知恩解報恩。",
+        "from": "X85n1591_008:0265a09_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即今還有知恩底麼。",
+        "from": "X85n1591_008:0265a09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有。",
+        "from": "X85n1591_008:0265a10_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慈門拄杖子打教拆。",
+        "from": "X85n1591_008:0265a10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "也未放手在。",
+        "from": "X85n1591_008:0265a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何故。",
+        "from": "X85n1591_008:0265a11_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衲僧門下。",
+        "from": "X85n1591_008:0265a11_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "賞罰分明。",
+        "from": "X85n1591_008:0265a11_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師臨終說偈示眾坐化。",
+        "from": "X85n1591_008:0265a11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "塔於本山之陽。",
+        "from": "X85n1591_008:0265a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世壽六十三。",
+        "from": "X85n1591_008:0265a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧臘四十餘。",
+        "from": "X85n1591_008:0265a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黔南會燈補續錄",
+        "from": "X85n1591_008:0265a14_0",
         "context_with_next_sentence": false
     }
 ]

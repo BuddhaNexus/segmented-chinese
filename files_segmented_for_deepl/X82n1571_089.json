@@ -2205,7 +2205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "看脚下　頌經首[米木+八]字曰。",
+        "source_sentence": "看脚下　頌經首[米-木+八]字曰。",
         "from": "X82n1571_089:0495c18_23",
         "context_with_next_sentence": true
     },
@@ -4655,7 +4655,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "禪板蒲團齊[跳兆+孛]跳。",
+        "source_sentence": "禪板蒲團齊[跳-兆+孛]跳。",
         "from": "X82n1571_089:0497c19_2",
         "context_with_next_sentence": true
     },
@@ -5692,6 +5692,356 @@
     {
         "source_sentence": "五燈全書卷第八十九",
         "from": "X82n1571_089:0498c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五燈全書卷第八十九補遺",
+        "from": "X82n1571_089:0498c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　臨濟宗",
+        "from": "X82n1571_089:0498c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　南嶽下第三十六世隨錄",
+        "from": "X82n1571_089:0498c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "福建寧德玉象龍華無得寧禪師出隊小參。",
+        "from": "X82n1571_089:0498c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乘熏風訪明月。",
+        "from": "X82n1571_089:0498c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "踏遍雲霞何卓越。",
+        "from": "X82n1571_089:0498c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昨夜西巖太白峰。",
+        "from": "X82n1571_089:0498c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "放光動地千山悅。",
+        "from": "X82n1571_089:0498c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且道悅個甚麼。",
+        "from": "X82n1571_089:0498c15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一人有慶。",
+        "from": "X82n1571_089:0498c15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬人樂業　冬夜小參。",
+        "from": "X82n1571_089:0498c15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陰消陽長。",
+        "from": "X82n1571_089:0498c16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "化運推遷。",
+        "from": "X82n1571_089:0498c16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "枯木生花。",
+        "from": "X82n1571_089:0498c16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道人活計。",
+        "from": "X82n1571_089:0498c16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫學鑽龜打瓦。",
+        "from": "X82n1571_089:0498c16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "要知時節因緣。",
+        "from": "X82n1571_089:0498c17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "語默動靜。",
+        "from": "X82n1571_089:0498c17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "須得其宜。",
+        "from": "X82n1571_089:0498c17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舉措施為。",
+        "from": "X82n1571_089:0498c17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應當回互不回互。",
+        "from": "X82n1571_089:0498c18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "撞頭磕額人無數(隱元琦嗣)。",
+        "from": "X82n1571_089:0498c18_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "閩南超山良冶樂禪師小參。",
+        "from": "X82n1571_089:0498c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "千山突兀。",
+        "from": "X82n1571_089:0498c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬木蒼翠。",
+        "from": "X82n1571_089:0498c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "門外鷄啼。",
+        "from": "X82n1571_089:0498c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "堂前狗吠。",
+        "from": "X82n1571_089:0498c20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一天真。",
+        "from": "X82n1571_089:0498c20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本無忌諱。",
+        "from": "X82n1571_089:0498c20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無忌諱。",
+        "from": "X82n1571_089:0498c20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大開兩眼對青天。",
+        "from": "X82n1571_089:0498c20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫向閒時打瞌睡　僧問。",
+        "from": "X82n1571_089:0498c21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "路逢達道人。",
+        "from": "X82n1571_089:0498c21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不將語默對。",
+        "from": "X82n1571_089:0498c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未審將甚麼對。",
+        "from": "X82n1571_089:0498c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師曰。",
+        "from": "X82n1571_089:0498c22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不是拳打。",
+        "from": "X82n1571_089:0498c22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "便是脚踢(隱元琦嗣)。",
+        "from": "X82n1571_089:0498c22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "福州聖泉中柱砥禪師小參。",
+        "from": "X82n1571_089:0498c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前十五日。",
+        "from": "X82n1571_089:0498c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "玉兔金烏劈箭急。",
+        "from": "X82n1571_089:0498c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後十五日。",
+        "from": "X82n1571_089:0499a01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "泥牛入海無消息。",
+        "from": "X82n1571_089:0499a01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正當十五日。",
+        "from": "X82n1571_089:0499a01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "個個眼橫與鼻直。",
+        "from": "X82n1571_089:0499a01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此事由來本現成。",
+        "from": "X82n1571_089:0499a02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何須特地去尋覔(隱元琦嗣)。",
+        "from": "X82n1571_089:0499a02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "福建福廬時學[(臨-品+(必-心))/王]禪師上堂。",
+        "from": "X82n1571_089:0499a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "個事無藏□當。",
+        "from": "X82n1571_089:0499a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陽脫體真。",
+        "from": "X82n1571_089:0499a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四維山色秀。",
+        "from": "X82n1571_089:0499a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遍地野花新。",
+        "from": "X82n1571_089:0499a05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三十年前□作境會。",
+        "from": "X82n1571_089:0499a05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三十年後。",
+        "from": "X82n1571_089:0499a05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了物惟心。",
+        "from": "X82n1571_089:0499a06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "到者裏莫作等閒。",
+        "from": "X82n1571_089:0499a06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是□□□□□悉麼。",
+        "from": "X82n1571_089:0499a06_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "長恨春光無覔處。",
+        "from": "X82n1571_089:0499a07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今朝轉入此山來(亘信彌嗣)。",
+        "from": "X82n1571_089:0499a07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "福建泉州招慶重眉況禪師同安蔡氏子。",
+        "from": "X82n1571_089:0499a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "示眾。",
+        "from": "X82n1571_089:0499a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "碧□醉日舖千錦。",
+        "from": "X82n1571_089:0499a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "綠柳隨風布萬條。",
+        "from": "X82n1571_089:0499a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觸目都來成現事。",
+        "from": "X82n1571_089:0499a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何須開口話時韶。",
+        "from": "X82n1571_089:0499a09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無一物不為諸人啟圓通妙門。",
+        "from": "X82n1571_089:0499a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無一時不為諸人闡正法眼藏。",
+        "from": "X82n1571_089:0499a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何須更待山僧鼓兩片皮。",
+        "from": "X82n1571_089:0499a11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假饒搆得將來。",
+        "from": "X82n1571_089:0499a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦是劍去久矣(亘信彌嗣)。",
+        "from": "X82n1571_089:0499a12_1",
         "context_with_next_sentence": false
     }
 ]

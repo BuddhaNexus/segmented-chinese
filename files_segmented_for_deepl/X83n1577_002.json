@@ -3780,7 +3780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[羇革+馬]官之故。",
+        "source_sentence": "[羇-革+馬]官之故。",
         "from": "X83n1577_002:0389a11_14",
         "context_with_next_sentence": true
     },
@@ -5200,7 +5200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "至於[癸天+虫]善戴嵩之筆。",
+        "source_sentence": "至於[癸-天+虫]善戴嵩之筆。",
         "from": "X83n1577_002:0390b01_18",
         "context_with_next_sentence": true
     },
@@ -6835,7 +6835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "妙喜老師[癸天+虫]甞為源見知。",
+        "source_sentence": "妙喜老師[癸-天+虫]甞為源見知。",
         "from": "X83n1577_002:0391c02_15",
         "context_with_next_sentence": true
     },
@@ -12647,6 +12647,141 @@
     {
         "source_sentence": "羅湖野錄下(終)",
         "from": "X83n1577_002:0396b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "羅湖野錄跋",
+        "from": "X83n1577_002:0396b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前哲入道機緣。",
+        "from": "X83n1577_002:0396b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪書多不備具者。",
+        "from": "X83n1577_002:0396b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其過在當時英俊失於編次。",
+        "from": "X83n1577_002:0396b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是無衛宗弘法之心而然。",
+        "from": "X83n1577_002:0396b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂致有見賢思齊者。",
+        "from": "X83n1577_002:0396b13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "徒增大息耳。",
+        "from": "X83n1577_002:0396b14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙總窮居村落。",
+        "from": "X83n1577_002:0396b14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不聞叢林勝事久矣。",
+        "from": "X83n1577_002:0396b14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比者江西瑩仲溫遠自雙徑來訪山舍。",
+        "from": "X83n1577_002:0396b15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "娓娓談前言往行。",
+        "from": "X83n1577_002:0396b15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殊慰此懷。",
+        "from": "X83n1577_002:0396b16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "徐探囊中。",
+        "from": "X83n1577_002:0396b16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂得羅湖野錄一編。",
+        "from": "X83n1577_002:0396b16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所載皆命世宗師與賢士大夫言行之粹美。",
+        "from": "X83n1577_002:0396b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "機鋒之醻酢。",
+        "from": "X83n1577_002:0396b17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雄文可以輔宗教。",
+        "from": "X83n1577_002:0396b18_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明誨可以警後昆。",
+        "from": "X83n1577_002:0396b18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於是詳覧熟思。",
+        "from": "X83n1577_002:0396b18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不忍釋手。",
+        "from": "X83n1577_002:0396b19_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦足以見仲溫為道為學之要。",
+        "from": "X83n1577_002:0396b19_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其操心亦賢於人遠矣。",
+        "from": "X83n1577_002:0396b19_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與天下好事者共之。",
+        "from": "X83n1577_002:0396b20_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庶幾後世英俊繼而為之。",
+        "from": "X83n1577_002:0396b20_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使夫佛祖之道光明盛大。",
+        "from": "X83n1577_002:0396b21_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其功豈不愽哉。",
+        "from": "X83n1577_002:0396b21_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紹興庚辰十月二十日　毗陵無著道人妙總謹書。",
+        "from": "X83n1577_002:0396b22_0",
         "context_with_next_sentence": false
     }
 ]

@@ -1570,7 +1570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此七成[麩夫+廣]麥。",
+        "source_sentence": "此七成&#;麥。",
         "from": "X44n0744_009:0469a03_24",
         "context_with_next_sentence": true
     },
@@ -4600,7 +4600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "別作[暻京+恭]。",
+        "source_sentence": "別作[暻-京+恭]。",
         "from": "X44n0744_009:0471c05_4",
         "context_with_next_sentence": true
     },
@@ -8485,7 +8485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[卄/(麩夫+壬)]。",
+        "source_sentence": "[卄/(麩-夫+壬)]。",
         "from": "X44n0744_009:0474b19_8",
         "context_with_next_sentence": true
     },
@@ -8862,6 +8862,206 @@
     {
         "source_sentence": "四分律名義標釋卷第九",
         "from": "X44n0744_009:0474c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_009:0474c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瘙騷去聲。",
+        "from": "X44n0744_009:0474c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疥瘙。",
+        "from": "X44n0744_009:0474c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瘭音標。",
+        "from": "X44n0744_009:0474c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疽病。",
+        "from": "X44n0744_009:0474c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "笏音忽。",
+        "from": "X44n0744_009:0474c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蟣音已。",
+        "from": "X44n0744_009:0474c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蝨子也。",
+        "from": "X44n0744_009:0474c21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蝨音瑟。",
+        "from": "X44n0744_009:0474c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "虐娘入聲。",
+        "from": "X44n0744_009:0474c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又音逆。",
+        "from": "X44n0744_009:0474c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "酷也。",
+        "from": "X44n0744_009:0474c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殘也。",
+        "from": "X44n0744_009:0474c23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "暴虐也。",
+        "from": "X44n0744_009:0474c23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "栘延知切。",
+        "from": "X44n0744_009:0474c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音夷。",
+        "from": "X44n0744_009:0474c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凸音突。",
+        "from": "X44n0744_009:0475a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "高起也。",
+        "from": "X44n0744_009:0475a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凹於交切。",
+        "from": "X44n0744_009:0475a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音坳。",
+        "from": "X44n0744_009:0475a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "土窪曰凹。",
+        "from": "X44n0744_009:0475a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "搜同搜。",
+        "from": "X44n0744_009:0475a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音蒐。",
+        "from": "X44n0744_009:0475a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "撝音灰。",
+        "from": "X44n0744_009:0475a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "裂也。",
+        "from": "X44n0744_009:0475a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雰霏上音紛。",
+        "from": "X44n0744_009:0475a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音非。",
+        "from": "X44n0744_009:0475a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "酢倉故切。",
+        "from": "X44n0744_009:0475a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音措。",
+        "from": "X44n0744_009:0475a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今俗作在各切。",
+        "from": "X44n0744_009:0475a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以為酬醋字。",
+        "from": "X44n0744_009:0475a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非也。",
+        "from": "X44n0744_009:0475a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　四分律名義標釋卷第十目錄",
+        "from": "X44n0744_009:0475a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蘇摩國鉢烏伽羅國優伽賖國",
+        "from": "X44n0744_009:0475a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大小鉢五綴閾內",
+        "from": "X44n0744_009:0475a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "戶扉作繀禪帶",
+        "from": "X44n0744_009:0475a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "腰帶先不受自恣請",
+        "from": "X44n0744_009:0475a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一食直難陀弟子橛上",
+        "from": "X44n0744_009:0475a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍牙杙摩竭魚",
+        "from": "X44n0744_009:0475a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "千二百五十人私訶毗羅[口*荼]象師畢陵伽婆磋蹉巵中簜中酥油生酥蜜石蜜閻浮提四天下不與人過願阿那頻頭國阿夷羅跋提河雨浴衣波斯匿王反叛梨師達多富那羅十日未竟急施衣衣時應畜自恣迦提月遮摩羅國五百弓僧物入己",
+        "from": "X44n0744_009:0475a18_0",
         "context_with_next_sentence": false
     }
 ]

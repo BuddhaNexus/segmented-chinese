@@ -90,7 +90,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五百除饉女陳辭如上，佛亦可之也，為說身患生死憂悲苦、不如意[病丙+(止/(止*止))]之難，無欲清淨空不願無相滅度之安若干淨品。",
+        "source_sentence": "五百除饉女陳辭如上，佛亦可之也，為說身患生死憂悲苦、不如意[病-丙+(止/(止*止))]之難，無欲清淨空不願無相滅度之安若干淨品。",
         "from": "T02n0145_001:0869c15_8",
         "context_with_next_sentence": true
     },

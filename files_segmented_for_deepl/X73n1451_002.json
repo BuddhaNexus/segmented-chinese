@@ -4525,7 +4525,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "垂手入[廓享+墨]公正時。",
+        "source_sentence": "垂手入[廓-享+墨]公正時。",
         "from": "X73n1451_002:0114b23_1",
         "context_with_next_sentence": true
     },
@@ -6267,6 +6267,816 @@
     {
         "source_sentence": "慈受深和尚廣錄卷第二",
         "from": "X73n1451_002:0116c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "補遺",
+        "from": "X73n1451_002:0116c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　擬寒山詩(共二十首)",
+        "from": "X73n1451_002:0117a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我愛寒山子。",
+        "from": "X73n1451_002:0117a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身貧心自如。",
+        "from": "X73n1451_002:0117a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吟詩無韻度。",
+        "from": "X73n1451_002:0117a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "燒火賸工夫。",
+        "from": "X73n1451_002:0117a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敝垢衣慵洗。",
+        "from": "X73n1451_002:0117a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鬅鬙髮懶梳。",
+        "from": "X73n1451_002:0117a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相逢但長嘯。",
+        "from": "X73n1451_002:0117a03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "肉眼豈知渠。",
+        "from": "X73n1451_002:0117a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "拾得詩清苦。",
+        "from": "X73n1451_002:0117a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "風騷道自存。",
+        "from": "X73n1451_002:0117a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "看雲歌竹石。",
+        "from": "X73n1451_002:0117a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "步月出松門。",
+        "from": "X73n1451_002:0117a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "識取心中印。",
+        "from": "X73n1451_002:0117a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "休磨鏡上痕。",
+        "from": "X73n1451_002:0117a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時時多漏泄。",
+        "from": "X73n1451_002:0117a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "塵世少知恩。",
+        "from": "X73n1451_002:0117a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人生萍托水。",
+        "from": "X73n1451_002:0117a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流轉成愛河。",
+        "from": "X73n1451_002:0117a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鼓激無明風。",
+        "from": "X73n1451_002:0117a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出入生死波。",
+        "from": "X73n1451_002:0117a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一念若知歇。",
+        "from": "X73n1451_002:0117a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸緣皆息魔。",
+        "from": "X73n1451_002:0117a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "急須登覺岸。",
+        "from": "X73n1451_002:0117a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勸子莫蹉跎。",
+        "from": "X73n1451_002:0117a07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人生貪愛重。",
+        "from": "X73n1451_002:0117a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所欲未嘗周。",
+        "from": "X73n1451_002:0117a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一飯飽足矣。",
+        "from": "X73n1451_002:0117a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬鍾心未休。",
+        "from": "X73n1451_002:0117a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黑業何時了。",
+        "from": "X73n1451_002:0117a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紅裙也自羞。",
+        "from": "X73n1451_002:0117a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鬚毛已侵雪。",
+        "from": "X73n1451_002:0117a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶自日悠悠。",
+        "from": "X73n1451_002:0117a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何曾食萬錢。",
+        "from": "X73n1451_002:0117a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顏子飲一瓢。",
+        "from": "X73n1451_002:0117a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "賢者心念道。",
+        "from": "X73n1451_002:0117a10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愚人志在庖。",
+        "from": "X73n1451_002:0117a10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "賢愚趣不同。",
+        "from": "X73n1451_002:0117a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何翅雲泥遙。",
+        "from": "X73n1451_002:0117a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豢養恐非福。",
+        "from": "X73n1451_002:0117a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可信如昭昭。",
+        "from": "X73n1451_002:0117a11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人生貴無業。",
+        "from": "X73n1451_002:0117a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不貴多伎能。",
+        "from": "X73n1451_002:0117a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "伎能人看好。",
+        "from": "X73n1451_002:0117a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "業能灾汝形。",
+        "from": "X73n1451_002:0117a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文章妙天下。",
+        "from": "X73n1451_002:0117a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "氣宇吞滄溟。",
+        "from": "X73n1451_002:0117a13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此身若一失。",
+        "from": "X73n1451_002:0117a13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六趣且飄零。",
+        "from": "X73n1451_002:0117a13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世間聰明人。",
+        "from": "X73n1451_002:0117a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必欲聞其過。",
+        "from": "X73n1451_002:0117a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寧知業所使。",
+        "from": "X73n1451_002:0117a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大抵貪成祻。",
+        "from": "X73n1451_002:0117a14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因果鏡中容。",
+        "from": "X73n1451_002:0117a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "容豈非是我。",
+        "from": "X73n1451_002:0117a15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陰報最分明。",
+        "from": "X73n1451_002:0117a15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "詎論官職大。",
+        "from": "X73n1451_002:0117a15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人生如春花。",
+        "from": "X73n1451_002:0117a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能得幾時好。",
+        "from": "X73n1451_002:0117a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "朝吹與暮洗。",
+        "from": "X73n1451_002:0117a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "朱顏變枯槁。",
+        "from": "X73n1451_002:0117a16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "花落有後生。",
+        "from": "X73n1451_002:0117a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人老不復少。",
+        "from": "X73n1451_002:0117a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬事只今休。",
+        "from": "X73n1451_002:0117a17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫更招煩惱。",
+        "from": "X73n1451_002:0117a17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世人怕說死。",
+        "from": "X73n1451_002:0117a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說著死便諱。",
+        "from": "X73n1451_002:0117a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及到死期來。",
+        "from": "X73n1451_002:0117a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "老眼先垂淚。",
+        "from": "X73n1451_002:0117a18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "戀妻復戀妾。",
+        "from": "X73n1451_002:0117a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見神并見鬼。",
+        "from": "X73n1451_002:0117a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不入祖師門。",
+        "from": "X73n1451_002:0117a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "癡迷直到底。",
+        "from": "X73n1451_002:0117a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六十休造屋。",
+        "from": "X73n1451_002:0117a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七十莫置衣。",
+        "from": "X73n1451_002:0117a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縱然得受用。",
+        "from": "X73n1451_002:0117a20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能得幾多時。",
+        "from": "X73n1451_002:0117a20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身心要早歇。",
+        "from": "X73n1451_002:0117a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "準擬與死期。",
+        "from": "X73n1451_002:0117a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正如人遠出。",
+        "from": "X73n1451_002:0117a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "預辦為便宜。",
+        "from": "X73n1451_002:0117a21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道力與福力。",
+        "from": "X73n1451_002:0117a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "平時似亂真。",
+        "from": "X73n1451_002:0117a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "福力有盛衰。",
+        "from": "X73n1451_002:0117a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道力無富貧。",
+        "from": "X73n1451_002:0117a22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人生不學道。",
+        "from": "X73n1451_002:0117a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "只種輪迴因。",
+        "from": "X73n1451_002:0117a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "君看天福盡。",
+        "from": "X73n1451_002:0117a23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "滿眼生埃塵。",
+        "from": "X73n1451_002:0117a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自料七十歲。",
+        "from": "X73n1451_002:0117a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "匆遽那能期。",
+        "from": "X73n1451_002:0117a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "況今五六十。",
+        "from": "X73n1451_002:0117a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "形骸覺漸衰。",
+        "from": "X73n1451_002:0117a24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正如春暮後。",
+        "from": "X73n1451_002:0117b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "青多紅少時。",
+        "from": "X73n1451_002:0117b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "去住呼吸間。",
+        "from": "X73n1451_002:0117b01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斯言真不欺。",
+        "from": "X73n1451_002:0117b01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如臨明鏡。",
+        "from": "X73n1451_002:0117b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "面目各相對。",
+        "from": "X73n1451_002:0117b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "好者默自欣。",
+        "from": "X73n1451_002:0117b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "醜者亦知愧。",
+        "from": "X73n1451_002:0117b02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟鏡兩無情。",
+        "from": "X73n1451_002:0117b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "光明常一體。",
+        "from": "X73n1451_002:0117b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人心似鏡。",
+        "from": "X73n1451_002:0117b03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "成佛在彈指。",
+        "from": "X73n1451_002:0117b03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "厚葬非孝心。",
+        "from": "X73n1451_002:0117b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "死者必遭辱。",
+        "from": "X73n1451_002:0117b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "君看離亂時。",
+        "from": "X73n1451_002:0117b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何墓不伐斵。",
+        "from": "X73n1451_002:0117b04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黃金眾賊分。",
+        "from": "X73n1451_002:0117b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "白日孤魂哭。",
+        "from": "X73n1451_002:0117b05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最愛莊周叟。",
+        "from": "X73n1451_002:0117b05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天地為棺木。",
+        "from": "X73n1451_002:0117b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出家要省緣。",
+        "from": "X73n1451_002:0117b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "省緣易入道。",
+        "from": "X73n1451_002:0117b06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如何無事人。",
+        "from": "X73n1451_002:0117b06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婁攬閒煩惱。",
+        "from": "X73n1451_002:0117b06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奔赴富貴門。",
+        "from": "X73n1451_002:0117b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莊嚴房舍好。",
+        "from": "X73n1451_002:0117b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不知被物使。",
+        "from": "X73n1451_002:0117b07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "區區直到老。",
+        "from": "X73n1451_002:0117b07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若以爭止爭。",
+        "from": "X73n1451_002:0117b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其諍轉不已。",
+        "from": "X73n1451_002:0117b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟忍能止諍。",
+        "from": "X73n1451_002:0117b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是法中尊貴。",
+        "from": "X73n1451_002:0117b08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不見老瞿曇。",
+        "from": "X73n1451_002:0117b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙相三十二。",
+        "from": "X73n1451_002:0117b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "魔軍刀劒來。",
+        "from": "X73n1451_002:0117b09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "只以無心對。",
+        "from": "X73n1451_002:0117b09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人身苟無業。",
+        "from": "X73n1451_002:0117b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生死何足疑。",
+        "from": "X73n1451_002:0117b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生也不須戀。",
+        "from": "X73n1451_002:0117b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "死亦不須悲。",
+        "from": "X73n1451_002:0117b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一身真逆旅。",
+        "from": "X73n1451_002:0117b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬事皆兒嬉。",
+        "from": "X73n1451_002:0117b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請來綠岩畔。",
+        "from": "X73n1451_002:0117b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與君歌紫芝。",
+        "from": "X73n1451_002:0117b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靜看營巢燕。",
+        "from": "X73n1451_002:0117b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "銜口泥千轉。",
+        "from": "X73n1451_002:0117b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一洒貧家梁。",
+        "from": "X73n1451_002:0117b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一宿王宮殿。",
+        "from": "X73n1451_002:0117b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寄托暫時間。",
+        "from": "X73n1451_002:0117b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何暇分貴賤。",
+        "from": "X73n1451_002:0117b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人生達此理。",
+        "from": "X73n1451_002:0117b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沒齒無欣怨。",
+        "from": "X73n1451_002:0117b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貧窮難作福。",
+        "from": "X73n1451_002:0117b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "富貴易造罪。",
+        "from": "X73n1451_002:0117b14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有力無道心。",
+        "from": "X73n1451_002:0117b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有心無貨賄。",
+        "from": "X73n1451_002:0117b14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有福有道心。",
+        "from": "X73n1451_002:0117b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "百中無一二。",
+        "from": "X73n1451_002:0117b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不見老瞿曇。",
+        "from": "X73n1451_002:0117b15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "福慧雙嚴美。",
+        "from": "X73n1451_002:0117b15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛為大醫王。",
+        "from": "X73n1451_002:0117b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "留經治眾病。",
+        "from": "X73n1451_002:0117b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾生雖讀經。",
+        "from": "X73n1451_002:0117b16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "展轉不相應。",
+        "from": "X73n1451_002:0117b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "病是貪瞋癡。",
+        "from": "X73n1451_002:0117b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "掃除須淨盡。",
+        "from": "X73n1451_002:0117b17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貪瞋癡不除。",
+        "from": "X73n1451_002:0117b17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無緣了真性。",
+        "from": "X73n1451_002:0117b17_3",
         "context_with_next_sentence": false
     }
 ]

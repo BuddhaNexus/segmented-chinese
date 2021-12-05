@@ -110,7 +110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "渺[泳永+晶]。",
+        "source_sentence": "渺[泳-永+晶]。",
         "from": "X64n1261_006:0388c06_3",
         "context_with_next_sentence": true
     },
@@ -210,7 +210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "深山裏[栽木+土]許多樹作麼。",
+        "source_sentence": "深山裏[栽-木+土]許多樹作麼。",
         "from": "X64n1261_006:0388c11_2",
         "context_with_next_sentence": true
     },
@@ -440,7 +440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[((白日+田)/廾)*頁]面上匹米切。",
+        "source_sentence": "䫌面上匹米切。",
         "from": "X64n1261_006:0389a01_0",
         "context_with_next_sentence": true
     },
@@ -1470,7 +1470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "常[勞力+(企止+(白日+虫))]其蹄角。",
+        "source_sentence": "常[勞-力+(企-止+(白-日+虫))]其蹄角。",
         "from": "X64n1261_006:0389c19_16",
         "context_with_next_sentence": true
     },
@@ -3670,7 +3670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "目動即[褒保+(共八)]也。",
+        "source_sentence": "目動即[褒-保+(共-八)]也。",
         "from": "X64n1261_006:0391c12_5",
         "context_with_next_sentence": true
     },
@@ -3875,7 +3875,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "因作土人持勒[靽干+(工/十)]於水旁。",
+        "source_sentence": "因作土人持勒[靽-干+(工/十)]於水旁。",
         "from": "X64n1261_006:0392a03_6",
         "context_with_next_sentence": true
     },
@@ -3885,7 +3885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遂以人代持勒[靽干+(工/十)]。",
+        "source_sentence": "遂以人代持勒[靽-干+(工/十)]。",
         "from": "X64n1261_006:0392a03_8",
         "context_with_next_sentence": true
     },
@@ -4060,7 +4060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "畫龜蛇曰[施也+(非〡+(乳孚))]。",
+        "source_sentence": "畫龜蛇曰[施-也+(非-〡+(乳-孚))]。",
         "from": "X64n1261_006:0392a13_7",
         "context_with_next_sentence": true
     },
@@ -4435,7 +4435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "悖訴當作悖[打丁+素]。",
+        "source_sentence": "悖訴當作悖[打-丁+素]。",
         "from": "X64n1261_006:0392b09_1",
         "context_with_next_sentence": true
     },
@@ -4445,17 +4445,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+素]暗取物也。",
+        "source_sentence": "[打-丁+素]暗取物也。",
         "from": "X64n1261_006:0392b10_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "悖[打丁+素]亦方言。",
+        "source_sentence": "悖[打-丁+素]亦方言。",
         "from": "X64n1261_006:0392b10_1",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂摸[打丁+索]。",
+        "source_sentence": "謂摸[打-丁+索]。",
         "from": "X64n1261_006:0392b10_2",
         "context_with_next_sentence": true
     },
@@ -5095,7 +5095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "縣令楊[流ㄊ+口]．刺史柳無添。",
+        "source_sentence": "縣令楊[流-ㄊ+口]．刺史柳無添。",
         "from": "X64n1261_006:0393a06_0",
         "context_with_next_sentence": true
     },
@@ -6135,7 +6135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[契大+石]。",
+        "source_sentence": "[契-大+石]。",
         "from": "X64n1261_006:0393c15_5",
         "context_with_next_sentence": true
     },
@@ -6385,7 +6385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "外顯有[(?/(舛夕))*殳]疵。",
+        "source_sentence": "外顯有[(?/(舛-夕))*殳]疵。",
         "from": "X64n1261_006:0394a04_11",
         "context_with_next_sentence": true
     },
@@ -6855,7 +6855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "千猱當作[狂王+農]。",
+        "source_sentence": "千猱當作[狂-王+農]。",
         "from": "X64n1261_006:0394b08_0",
         "context_with_next_sentence": true
     },
@@ -8000,7 +8000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "性[億音+喿]蘇到切。",
+        "source_sentence": "性&#;蘇到切。",
         "from": "X64n1261_006:0395b09_0",
         "context_with_next_sentence": true
     },
@@ -9930,7 +9930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "後公主患[病丙+(虎儿+且)]。",
+        "source_sentence": "後公主患[病-丙+(虎-儿+且)]。",
         "from": "X64n1261_006:0397a10_0",
         "context_with_next_sentence": true
     },
@@ -10740,7 +10740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "曲[彔*見]當作曲[跳兆+彔]。",
+        "source_sentence": "曲䚄當作曲[跳-兆+彔]。",
         "from": "X64n1261_006:0397c08_0",
         "context_with_next_sentence": true
     },
@@ -10755,7 +10755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[彔*見]。",
+        "source_sentence": "䚄。",
         "from": "X64n1261_006:0397c08_3",
         "context_with_next_sentence": true
     },
@@ -11090,7 +11090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "孟浪猶率裕也。",
+        "source_sentence": "孟浪猶率&#;也。",
         "from": "X64n1261_006:0398a03_0",
         "context_with_next_sentence": true
     },
@@ -11100,7 +11100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[前刖+(八/鳥)]也。",
+        "source_sentence": "[前-刖+(八/鳥)]也。",
         "from": "X64n1261_006:0398a04_1",
         "context_with_next_sentence": true
     },
@@ -11145,7 +11145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[目/(巠工)]首上音澆。",
+        "source_sentence": "&#;首上音澆。",
         "from": "X64n1261_006:0398a07_0",
         "context_with_next_sentence": true
     },
@@ -11155,7 +11155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "賈字說此斷首倒懸[目/(巠工)]侍中。",
+        "source_sentence": "賈字說此斷首倒懸&#;侍中。",
         "from": "X64n1261_006:0398a07_2",
         "context_with_next_sentence": true
     },
@@ -11570,7 +11570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]上當作懡。",
+        "source_sentence": "懡[怡-台+羅]上當作懡。",
         "from": "X64n1261_006:0398b14_0",
         "context_with_next_sentence": true
     },
@@ -11585,7 +11585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]。",
+        "source_sentence": "懡[怡-台+羅]。",
         "from": "X64n1261_006:0398b14_3",
         "context_with_next_sentence": true
     },
@@ -13000,7 +13000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "侏[仁二+張]侏與倜同。",
+        "source_sentence": "侏[仁-二+張]侏與倜同。",
         "from": "X64n1261_006:0399c14_0",
         "context_with_next_sentence": true
     },
@@ -13270,7 +13270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[言*宰]正作諕。",
+        "source_sentence": "[言*宰]正作&#;。",
         "from": "X64n1261_006:0400a08_0",
         "context_with_next_sentence": true
     },
@@ -16365,7 +16365,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鬧正作[企止+(土/巾)]。",
+        "source_sentence": "鬧正作[企-止+(土/巾)]。",
         "from": "X64n1261_006:0403a03_0",
         "context_with_next_sentence": true
     },
@@ -18195,7 +18195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[桓旦+(前(一/刖)+回)]約自安。",
+        "source_sentence": "[桓-旦+(前-(一/刖)+回)]約自安。",
         "from": "X64n1261_006:0404b24_13",
         "context_with_next_sentence": true
     },
@@ -19335,7 +19335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[飢几+匱]求貴切。",
+        "source_sentence": "[飢-几+匱]求貴切。",
         "from": "X64n1261_006:0405c05_0",
         "context_with_next_sentence": true
     },
@@ -21210,7 +21210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "陟更名[(龍月+日)/大]。",
+        "source_sentence": "陟更名[(龍-月+日)/大]。",
         "from": "X64n1261_006:0407b12_7",
         "context_with_next_sentence": true
     },

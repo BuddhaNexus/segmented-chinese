@@ -400,7 +400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "中有金[這言+(序予+手)]不死之鄉。",
+        "source_sentence": "中有金[這-言+(序-予+手)]不死之鄉。",
         "from": "T51n2096_001:1052b19_61",
         "context_with_next_sentence": true
     },
@@ -510,7 +510,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "越桐柏之金[這言+(序予+手)]。",
+        "source_sentence": "越桐柏之金[這-言+(序-予+手)]。",
         "from": "T51n2096_001:1052b27_1",
         "context_with_next_sentence": true
     },
@@ -675,7 +675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "晉宗至于梁陳咸以日中星[后/((焉正)(烈列)+一)]望秩茲山藏壁獻琛率為常興。",
+        "source_sentence": "晉宗至于梁陳咸以日中星[后/((焉-正)-(烈-列)+一)]望秩茲山藏壁獻琛率為常興。",
         "from": "T51n2096_001:1052c10_5",
         "context_with_next_sentence": true
     },
@@ -1010,7 +1010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "過靈溪而一灌疏煩憲於心[((巨匚)@一)/(工*几)/木]寺引溪水經厨中。",
+        "source_sentence": "過靈溪而一灌疏煩憲於心[((巨-匚)@一)/(工*几)/木]寺引溪水經厨中。",
         "from": "T51n2096_001:1053a08_12",
         "context_with_next_sentence": true
     },
@@ -1165,7 +1165,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[〦/(刀*了*(留刀田))/二]閤號曰。",
+        "source_sentence": "[〦/(刀*了*(留-刀-田))/二]閤號曰。",
         "from": "T51n2096_001:1053a21_14",
         "context_with_next_sentence": true
     },
@@ -2360,7 +2360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "怪石[崁土+音][山/(?*ㄆ)]。",
+        "source_sentence": "怪石[崁-土+音][山/(?*ㄆ)]。",
         "from": "T51n2096_001:1054a23_8",
         "context_with_next_sentence": true
     },
@@ -2925,7 +2925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故[這言+聿]思真之堂。",
+        "source_sentence": "故[這-言+聿]思真之堂。",
         "from": "T51n2096_001:1054c10_13",
         "context_with_next_sentence": true
     },
@@ -3135,7 +3135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "高遊碧落之[這言+(序予+手)]。",
+        "source_sentence": "高遊碧落之[這-言+(序-予+手)]。",
         "from": "T51n2096_001:1054c23_4",
         "context_with_next_sentence": true
     },
@@ -3815,7 +3815,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以標[柩久+(厂@臾)]靈異。",
+        "source_sentence": "以標[柩-久+(厂@臾)]靈異。",
         "from": "T51n2096_001:1055b16_12",
         "context_with_next_sentence": true
     },
@@ -3952,6 +3952,61 @@
     {
         "source_sentence": "天台山記一卷",
         "from": "T51n2096_001:1055b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "直齋書錄解題",
+        "from": "T51n2096_001:1055c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天台山記一卷",
+        "from": "T51n2096_001:1055c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唐道士徐靈府譔。",
+        "from": "T51n2096_001:1055c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元和中人也。",
+        "from": "T51n2096_001:1055c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余假守臨海就使本道。",
+        "from": "T51n2096_001:1055c03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嘉熙丙申十月解郡符趨會稽治所道過之。",
+        "from": "T51n2096_001:1055c04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "銳欲往遊。",
+        "from": "T51n2096_001:1055c05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "會大雪不果。",
+        "from": "T51n2096_001:1055c05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "改轅由驛道至。",
+        "from": "T51n2096_001:1055c05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今以為恨。",
+        "from": "T51n2096_001:1055c06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偶見此記錄之以寄臥遊之意。",
+        "from": "T51n2096_001:1055c06_8",
         "context_with_next_sentence": false
     }
 ]

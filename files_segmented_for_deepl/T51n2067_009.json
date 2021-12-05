@@ -550,7 +550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不得[但日+木]息。",
+        "source_sentence": "不得[但-日+木]息。",
         "from": "T51n2067_009:0040c24_24",
         "context_with_next_sentence": true
     },

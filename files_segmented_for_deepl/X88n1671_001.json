@@ -90,7 +90,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "道峯山慧炬國師(已上高麗人)萬恒混立惠勤冠宣法言(已上亦高麗人)順應理貞希朗普照大師李居仁(已上亦新羅人)普德(高勾麗人)西山大禪師松雲洪濟大師(已上本朝)嘿行者尼姑金氏(新羅人)詩僧大覺國師無[得彳]智國師大鑑國師龜山曇秀禪師無己卓然師雉岳老僧三重空空麟角禪師靜明禪師聖能無畏坦然冲奯惠文圓鏡寸真義砧正思逆僧辛旽(麗朝人)奸僧普雨(本朝人)東國僧尼錄名僧本如禪師(南嶽讓禪師法嗣)慧徹禪師洪陟禪師(西堂藏禪師法嗣)無染禪師(麻谷徹禪師法嗣)玄昱禪師覺體禪師(章敬惲禪師法嗣)道均禪師(南泉願禪師法嗣)品日禪師(鹽官安禪師法嗣)迦智禪師(大梅常禪師法嗣)僧問。",
+        "source_sentence": "道峯山慧炬國師(已上高麗人)萬恒混立惠勤冠宣法言(已上亦高麗人)順應理貞希朗普照大師李居仁(已上亦新羅人)普德(高勾麗人)西山大禪師松雲洪濟大師(已上本朝)嘿行者尼姑金氏(新羅人)詩僧大覺國師無[得-彳]智國師大鑑國師龜山曇秀禪師無己卓然師雉岳老僧三重空空麟角禪師靜明禪師聖能無畏坦然冲奯惠文圓鏡寸真義砧正思逆僧辛旽(麗朝人)奸僧普雨(本朝人)東國僧尼錄名僧本如禪師(南嶽讓禪師法嗣)慧徹禪師洪陟禪師(西堂藏禪師法嗣)無染禪師(麻谷徹禪師法嗣)玄昱禪師覺體禪師(章敬惲禪師法嗣)道均禪師(南泉願禪師法嗣)品日禪師(鹽官安禪師法嗣)迦智禪師(大梅常禪師法嗣)僧問。",
         "from": "X88n1671_001:0643c02_0",
         "context_with_next_sentence": true
     },
@@ -1115,7 +1115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若[醨禸]而醒。",
+        "source_sentence": "若[醨-禸]而醒。",
         "from": "X88n1671_001:0645a24_4",
         "context_with_next_sentence": true
     },
@@ -3975,7 +3975,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "象[网(ㄨ*ㄨ)+又]撢玄。",
+        "source_sentence": "象[网-(ㄨ*ㄨ)+又]撢玄。",
         "from": "X88n1671_001:0647c04_7",
         "context_with_next_sentence": true
     },
@@ -4655,7 +4655,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無暇[打丁+良]善矣。",
+        "source_sentence": "無暇[打-丁+良]善矣。",
         "from": "X88n1671_001:0648b01_51",
         "context_with_next_sentence": true
     },
@@ -5495,7 +5495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "聚眾恊助　天討克[贇武+ㄆ]。",
+        "source_sentence": "聚眾恊助　天討克[贇-武+ㄆ]。",
         "from": "X88n1671_001:0649a07_10",
         "context_with_next_sentence": true
     },
@@ -6410,7 +6410,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "千家豪士若[醢右+(乞乙+口)]雞。",
+        "source_sentence": "千家豪士若[醢-右+(乞-乙+口)]雞。",
         "from": "X88n1671_001:0649c17_9",
         "context_with_next_sentence": true
     },
@@ -6580,7 +6580,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "山人遍□別章于[打丁+普]紳間。",
+        "source_sentence": "山人遍□別章于[打-丁+普]紳間。",
         "from": "X88n1671_001:0650a04_6",
         "context_with_next_sentence": true
     },
@@ -6615,7 +6615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "羈縻事恐危。",
+        "source_sentence": "覊縻事恐危。",
         "from": "X88n1671_001:0650a06_13",
         "context_with_next_sentence": true
     },
@@ -7485,7 +7485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "古有一道買大[緄比+月]八疋。",
+        "source_sentence": "古有一道買大[緄-比+月]八疋。",
         "from": "X88n1671_001:0650c09_1",
         "context_with_next_sentence": true
     },
@@ -7835,7 +7835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "具威儀[咒几+尢]服資裝。",
+        "source_sentence": "具威儀[咒-几+尢]服資裝。",
         "from": "X88n1671_001:0651a06_8",
         "context_with_next_sentence": true
     },
@@ -9280,7 +9280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "城人擊鳴[咒几+尢]以噪之。",
+        "source_sentence": "城人擊鳴[咒-几+尢]以噪之。",
         "from": "X88n1671_001:0652a24_16",
         "context_with_next_sentence": true
     },
@@ -10720,7 +10720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "元曉[企止+(口/土)]詩。",
+        "source_sentence": "元曉[企-止+(口/土)]詩。",
         "from": "X88n1671_001:0653c09_0",
         "context_with_next_sentence": true
     },
@@ -10760,7 +10760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "薄暮登臨元曉[企止+(口/土)](北漢志)。",
+        "source_sentence": "薄暮登臨元曉[企-止+(口/土)](北漢志)。",
         "from": "X88n1671_001:0653c11_2",
         "context_with_next_sentence": true
     },
@@ -13075,7 +13075,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "顯思遠鄭[采木+(電雨)]漢陳允儉奇仲脩韓乙松高仁[咒几+尢]鞠之。",
+        "source_sentence": "顯思遠鄭[采-木+(電-雨)]漢陳允儉奇仲脩韓乙松高仁[咒-几+尢]鞠之。",
         "from": "X88n1671_001:0655c20_1",
         "context_with_next_sentence": true
     },
@@ -13235,7 +13235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "頤指氣使。",
+        "source_sentence": "頥指氣使。",
         "from": "X88n1671_001:0656a07_6",
         "context_with_next_sentence": true
     },

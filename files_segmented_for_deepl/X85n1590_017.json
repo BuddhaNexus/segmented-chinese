@@ -5535,7 +5535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "本惟[穎禾+木]川。",
+        "source_sentence": "本惟[穎-禾+木]川。",
         "from": "X85n1590_017:0208b09_1",
         "context_with_next_sentence": true
     },
@@ -5955,7 +5955,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "徒眾缽中皆空無物。",
+        "source_sentence": "徒眾盋中皆空無物。",
         "from": "X85n1590_017:0208c05_6",
         "context_with_next_sentence": true
     },
@@ -7325,7 +7325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "錦江禪燈卷第",
+        "source_sentence": "錦江禪燈卷第十七",
         "from": "X85n1590_017:0209c04_0",
         "context_with_next_sentence": false
     }

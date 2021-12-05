@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 御製總序",
+        "source_sentence": "御製總序",
         "from": "X68n1319_001:0523c06_0",
         "context_with_next_sentence": true
     },
@@ -880,7 +880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]雙眉拖地以悟眾生。",
+        "source_sentence": "[拚-ㄙ+ㄊ]雙眉拖地以悟眾生。",
         "from": "X68n1319_001:0524b08_4",
         "context_with_next_sentence": true
     },
@@ -1385,7 +1385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[葸十+夕]嶺隻履邊。",
+        "source_sentence": "[葸-十+夕]嶺隻履邊。",
         "from": "X68n1319_001:0525c16_33",
         "context_with_next_sentence": true
     },
@@ -1770,8 +1770,28 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則肇法師之以吉祥滅",
+        "source_sentence": "則肇法師之以吉祥滅度。",
         "from": "X68n1319_001:0526a19_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "信矣。",
+        "from": "X68n1319_001:0526a20_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "事既子虗。",
+        "from": "X68n1319_001:0526a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偈非師作。",
+        "from": "X68n1319_001:0526a20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓋訛傳焉。",
+        "from": "X68n1319_001:0526a20_15",
         "context_with_next_sentence": false
     }
 ]

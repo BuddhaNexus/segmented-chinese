@@ -1345,7 +1345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何王何歲國土豐儉[泳永+旱]澇等。",
+        "source_sentence": "何王何歲國土豐儉[泳-永+旱]澇等。",
         "from": "T85n2795_001:0692b22_1",
         "context_with_next_sentence": true
     },
@@ -9340,7 +9340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "下品人聽受別房堂閣床坐氍[毯炎+(梳木)]被褥。",
+        "source_sentence": "下品人聽受別房堂閣床坐氍[毯-炎+(梳-木)]被褥。",
         "from": "T85n2795_001:0699c13_2",
         "context_with_next_sentence": true
     },
@@ -9760,7 +9760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "與[萉巴+(日/(句口+匕))]數大者。",
+        "source_sentence": "與[萉-巴+(日/(句-口+匕))]數大者。",
         "from": "T85n2795_001:0700a14_0",
         "context_with_next_sentence": true
     },
@@ -11465,7 +11465,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二[利禾+皮]淨。",
+        "source_sentence": "二[利-禾+皮]淨。",
         "from": "T85n2795_001:0701c07_55",
         "context_with_next_sentence": true
     },
@@ -15045,12 +15045,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "但執氍[毯炎+(梳木)]氀枕疊腰帶刀子鉹傘蓋扇革屣針筒揃扴刀澡灌。",
+        "source_sentence": "但執氍[毯-炎+(梳-木)]氀枕疊腰帶刀子鉹傘蓋扇革屣針筒揃扴刀澡灌。",
         "from": "T85n2795_001:0704c19_25",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是中床蓐俱執氍[毯炎+(梳木)]氀枕。",
+        "source_sentence": "是中床蓐俱執氍[毯-炎+(梳-木)]氀枕。",
         "from": "T85n2795_001:0704c20_26",
         "context_with_next_sentence": true
     },
@@ -15190,7 +15190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "◎四部律并論要用抄卷上",
+        "source_sentence": "◎四部律并論要用抄卷上申年八月二十七日沙門明潤於此曩恭禮寫記淨土寺藏經",
         "from": "T85n2795_001:0705a03_22",
         "context_with_next_sentence": false
     }

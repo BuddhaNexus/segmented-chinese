@@ -295,7 +295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唯刻藏一事最為肯[啟口+月]。",
+        "source_sentence": "唯刻藏一事最為肯[啟-口+月]。",
         "from": "X73n1452_005:0182b03_15",
         "context_with_next_sentence": true
     },
@@ -2075,7 +2075,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "由是終拔也。",
+        "source_sentence": "由是終㧞也。",
         "from": "X73n1452_005:0183c08_5",
         "context_with_next_sentence": true
     },
@@ -2090,7 +2090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔。",
+        "source_sentence": "㧞。",
         "from": "X73n1452_005:0183c08_8",
         "context_with_next_sentence": true
     },
@@ -2310,7 +2310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]命赤身捱得過。",
+        "source_sentence": "[拚-ㄙ+ㄊ]命赤身捱得過。",
         "from": "X73n1452_005:0183c20_21",
         "context_with_next_sentence": true
     },
@@ -2390,7 +2390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "非四禪四空可匹也(示王仲[壹豆+((昝人+├)日+呆)])。",
+        "source_sentence": "非四禪四空可匹也(示王仲[壹-豆+((昝-人+├)-日+呆)])。",
         "from": "X73n1452_005:0183c23_37",
         "context_with_next_sentence": true
     },
@@ -3450,12 +3450,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "身之[榦木+禾]也。",
+        "source_sentence": "身之[榦-木+禾]也。",
         "from": "X73n1452_005:0184c11_1",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[榦木+禾]而不端。",
+        "source_sentence": "[榦-木+禾]而不端。",
         "from": "X73n1452_005:0184c11_2",
         "context_with_next_sentence": true
     },
@@ -5145,7 +5145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "須從憎愛關頭[拚ㄙ+ㄊ]命做去。",
+        "source_sentence": "須從憎愛關頭[拚-ㄙ+ㄊ]命做去。",
         "from": "X73n1452_005:0186a09_10",
         "context_with_next_sentence": true
     },
@@ -6575,7 +6575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "特羣拔類。",
+        "source_sentence": "特羣㧞類。",
         "from": "X73n1452_005:0187a13_27",
         "context_with_next_sentence": true
     },
@@ -7425,7 +7425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不待拔而自斷矣(示張才茂)。",
+        "source_sentence": "不待㧞而自斷矣(示張才茂)。",
         "from": "X73n1452_005:0187c13_16",
         "context_with_next_sentence": true
     },

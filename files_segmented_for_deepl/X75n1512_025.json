@@ -1125,7 +1125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "高顙高目大頤方口。",
+        "source_sentence": "高顙高目大頥方口。",
         "from": "X75n1512_025:0232a20_23",
         "context_with_next_sentence": true
     },
@@ -1310,7 +1310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "常承[(厂@((既旡)日+口))*頁]問。",
+        "source_sentence": "常承[(厂@((既-旡)-日+口))*頁]問。",
         "from": "X75n1512_025:0232b10_15",
         "context_with_next_sentence": true
     },
@@ -1880,7 +1880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寵重恩[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "寵重恩[(厂@((既-旡)-日+口))*頁]。",
         "from": "X75n1512_025:0232c21_1",
         "context_with_next_sentence": true
     },
@@ -2460,7 +2460,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "幾回天[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "幾回天[(厂@((既-旡)-日+口))*頁]。",
         "from": "X75n1512_025:0233b01_60",
         "context_with_next_sentence": true
     },
@@ -2930,7 +2930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]此法。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]此法。",
         "from": "X75n1512_025:0233c03_0",
         "context_with_next_sentence": true
     },
@@ -2990,7 +2990,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "荷澤傳磁州如。",
+        "source_sentence": "荷澤傳礠州如。",
         "from": "X75n1512_025:0233c06_12",
         "context_with_next_sentence": true
     },

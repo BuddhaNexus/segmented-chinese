@@ -1565,7 +1565,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "月非[起巳+孚]水而遽來。",
+        "source_sentence": "月非[起-巳+孚]水而遽來。",
         "from": "T47n1970_002:0259a06_10",
         "context_with_next_sentence": true
     },

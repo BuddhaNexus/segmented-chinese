@@ -2090,7 +2090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "酉年作[咢二+一]。",
+        "source_sentence": "酉年作[咢-二+一]。",
         "from": "T45n1859_002:0176b09_47",
         "context_with_next_sentence": true
     },
@@ -13130,7 +13130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "僧[契大+石]等以為顯異惑眾。",
+        "source_sentence": "僧[契-大+石]等以為顯異惑眾。",
         "from": "T45n1859_002:0185b10_9",
         "context_with_next_sentence": true
     },
@@ -18117,6 +18117,76 @@
     {
         "source_sentence": "肇論疏卷中",
         "from": "T45n1859_002:0189c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(東南院本記云)。",
+        "from": "T45n1859_002:0189c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "保安元年十一月十一日。",
+        "from": "T45n1859_002:0189c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於太宰府點了。",
+        "from": "T45n1859_002:0189c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疏本草書。",
+        "from": "T45n1859_002:0189c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仍有不定。",
+        "from": "T45n1859_002:0189c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後者正之云云。",
+        "from": "T45n1859_002:0189c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令同法寫點之。",
+        "from": "T45n1859_002:0189c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "□移點敷々。",
+        "from": "T45n1859_002:0189c15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "重以正本。",
+        "from": "T45n1859_002:0189c15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可挍合而已。",
+        "from": "T45n1859_002:0189c15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如本記云。",
+        "from": "T45n1859_002:0189c16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覺樹僧都御點也。",
+        "from": "T45n1859_002:0189c16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尤可沈思(云云)。",
+        "from": "T45n1859_002:0189c16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　　　　　　　沙門聖然",
+        "from": "T45n1859_002:0189c18_0",
         "context_with_next_sentence": false
     }
 ]

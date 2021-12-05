@@ -9070,7 +9070,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "祐聖法[宋木+居]禪師法嗣",
+        "source_sentence": "祐聖法[宋-木+居]禪師法嗣",
         "from": "X79n1559_007:0335b23_0",
         "context_with_next_sentence": true
     },
@@ -9257,6 +9257,16 @@
     {
         "source_sentence": "嘉泰普燈錄卷第七",
         "from": "X79n1559_007:0335c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_007:0335c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　夔音逵　毫音泊　[宋-木+居]音居　郴丑林切　贛音紺　饋音匱　瀏音留　胾側史切　顥音晧　戌傷遇切　[辟/一/尢]扶歷切　鞏音拱　莞胡官切　靘千定切　肄羊至切　厙音舍",
+        "from": "X79n1559_007:0335c12_0",
         "context_with_next_sentence": false
     }
 ]

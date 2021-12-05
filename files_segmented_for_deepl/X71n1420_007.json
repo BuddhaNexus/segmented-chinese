@@ -1195,7 +1195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今時沒底[革*(華(十*〡*十)+(人*〡*人))]。",
+        "source_sentence": "今時沒底[革*(華-(十*〡*十)+(人*〡*人))]。",
         "from": "X71n1420_007:0578b23_1",
         "context_with_next_sentence": true
     },
@@ -2815,7 +2815,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[銜金+缶]鐵負鞍有日在。",
+        "source_sentence": "[銜-金+缶]鐵負鞍有日在。",
         "from": "X71n1420_007:0579c10_4",
         "context_with_next_sentence": true
     },
@@ -2880,7 +2880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[宋木+取]難治却重。",
+        "source_sentence": "[宋-木+取]難治却重。",
         "from": "X71n1420_007:0579c14_12",
         "context_with_next_sentence": true
     },
@@ -4825,7 +4825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今日這裏拔本。",
+        "source_sentence": "今日這裏㧞本。",
         "from": "X71n1420_007:0581a20_47",
         "context_with_next_sentence": true
     },
@@ -5507,6 +5507,16 @@
     {
         "source_sentence": "佛日普照慧辯楚石禪師語錄卷第七",
         "from": "X71n1420_007:0581c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音切",
+        "from": "X71n1420_007:0581c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餿(色求切)　[革*(華-(十*〡*十)+(人*〡*人))](旰瘸切)　佃(同見切)",
+        "from": "X71n1420_007:0581c11_0",
         "context_with_next_sentence": false
     }
 ]

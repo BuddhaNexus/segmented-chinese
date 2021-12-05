@@ -6270,7 +6270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "受已即以苦酒煑[嘹口+豆]豆食之。",
+        "source_sentence": "受已即以苦酒煑[嘹-口+豆]豆食之。",
         "from": "X53n0846_002:0644c24_19",
         "context_with_next_sentence": true
     },
@@ -6345,7 +6345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "苦酒[嘹口+豆]豆食。",
+        "source_sentence": "苦酒[嘹-口+豆]豆食。",
         "from": "X53n0846_002:0645a04_34",
         "context_with_next_sentence": true
     },
@@ -7575,7 +7575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一[夢夕+登]瞢。",
+        "source_sentence": "一[夢-夕+登]瞢。",
         "from": "X53n0846_002:0645c21_37",
         "context_with_next_sentence": true
     },
@@ -11540,7 +11540,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三[(白日+田)/廾]劣慢也。",
+        "source_sentence": "三[(白-日+田)/廾]劣慢也。",
         "from": "X53n0846_002:0648c20_8",
         "context_with_next_sentence": true
     },
@@ -17312,6 +17312,11 @@
     {
         "source_sentence": "遺教經論記卷第二",
         "from": "X53n0846_002:0652c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正德壬辰二年佛成道前二日淨確謹書",
+        "from": "X53n0846_002:0652c24_0",
         "context_with_next_sentence": false
     }
 ]

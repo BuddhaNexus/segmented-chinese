@@ -50,7 +50,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此王城內，里巷相當、[這言+(序予+手)]園廣博、臺觀嚴麗、堂室綺妙、高軒敞朗，周匝欄楯。",
+        "source_sentence": "此王城內，里巷相當、[這-言+(序-予+手)]園廣博、臺觀嚴麗、堂室綺妙、高軒敞朗，周匝欄楯。",
         "from": "T16n0703_001:0808c01_1",
         "context_with_next_sentence": true
     },
@@ -155,7 +155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其兒指光徹照宮[這言+(序予+手)]赫然大明，照于王身及以宮觀，一切雜物斯皆金色。",
+        "source_sentence": "其兒指光徹照宮[這-言+(序-予+手)]赫然大明，照于王身及以宮觀，一切雜物斯皆金色。",
         "from": "T16n0703_001:0808c27_15",
         "context_with_next_sentence": true
     },

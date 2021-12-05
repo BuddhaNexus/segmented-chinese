@@ -4405,7 +4405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遮婁王[跳兆+專]上生一胞。",
+        "source_sentence": "遮婁王[跳-兆+專]上生一胞。",
         "from": "T85n2749_001:0184b07_14",
         "context_with_next_sentence": true
     },
@@ -9592,6 +9592,16 @@
     {
         "source_sentence": "四□□□□□□□□□□□□□□善此稟□道也。",
         "from": "T85n2749_001:0189b18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經曰。",
+        "from": "T85n2749_001:0189b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即得。",
+        "from": "T85n2749_001:0189b20_1",
         "context_with_next_sentence": false
     }
 ]

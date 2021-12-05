@@ -405,7 +405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "漢武垂惠纔致[銜金+缶]珠之答。",
+        "source_sentence": "漢武垂惠纔致[銜-金+缶]珠之答。",
         "from": "X88n1646_016:0213c02_11",
         "context_with_next_sentence": true
     },
@@ -1655,7 +1655,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "宏法深心",
+        "source_sentence": "宏法深心所成故。",
         "from": "X88n1646_016:0214c03_5",
         "context_with_next_sentence": false
     }

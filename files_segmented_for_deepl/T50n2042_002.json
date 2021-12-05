@@ -350,7 +350,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　佛足躡地　　大地山河　　踊躍[跳兆+叵][跳兆+我]　六種震動　　如來身光　　遏絕日月　普照十方　　一切蒙益王於此處起塔而去。",
+        "source_sentence": "　佛足躡地　　大地山河　　踊躍[跳-兆+叵][跳-兆+我]　六種震動　　如來身光　　遏絕日月　普照十方　　一切蒙益王於此處起塔而去。",
         "from": "T50n2042_002:0104a07_0",
         "context_with_next_sentence": true
     },

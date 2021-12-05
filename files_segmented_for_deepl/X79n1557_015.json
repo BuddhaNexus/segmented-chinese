@@ -380,7 +380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鷺鶿立雪非同色。",
+        "source_sentence": "鷺鷀立雪非同色。",
         "from": "X79n1557_015:0128a02_13",
         "context_with_next_sentence": true
     },
@@ -390,7 +390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[怡台+龍][怡台+龍]鬆鬆。",
+        "source_sentence": "[怡-台+龍][怡-台+龍]鬆鬆。",
         "from": "X79n1557_015:0128a03_1",
         "context_with_next_sentence": true
     },
@@ -5270,7 +5270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拄杖子[跳兆+孛]跳。",
+        "source_sentence": "拄杖子[跳-兆+孛]跳。",
         "from": "X79n1557_015:0131b16_4",
         "context_with_next_sentence": true
     },
@@ -8065,7 +8065,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一場摩[怡台+羅]。",
+        "source_sentence": "一場摩[怡-台+羅]。",
         "from": "X79n1557_015:0133b20_9",
         "context_with_next_sentence": true
     },
@@ -10280,7 +10280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不比尋常曲[(彔(彖豕)+(┐@一))*頁]枝。",
+        "source_sentence": "不比尋常曲&#;枝。",
         "from": "X79n1557_015:0135a12_9",
         "context_with_next_sentence": true
     },

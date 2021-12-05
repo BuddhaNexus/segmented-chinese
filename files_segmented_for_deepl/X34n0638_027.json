@@ -3390,7 +3390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "似苽[卄/((虺一)虫+罪)]。",
+        "source_sentence": "似苽[卄/((虺-一)-虫+罪)]。",
         "from": "X34n0638_027:0756a06_8",
         "context_with_next_sentence": true
     },
@@ -4300,7 +4300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是兒喚作士無士[乾乞+夸]。",
+        "source_sentence": "是兒喚作士無士[乾-乞+夸]。",
         "from": "X34n0638_027:0756c17_4",
         "context_with_next_sentence": true
     },
@@ -15390,7 +15390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有[狂王+斛]或從蒙。",
+        "source_sentence": "有[狂-王+斛]或從蒙。",
         "from": "X34n0638_027:0766a03_4",
         "context_with_next_sentence": true
     },
@@ -16865,7 +16865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "跉[跳兆+屏]辛苦。",
+        "source_sentence": "跉[跳-兆+屏]辛苦。",
         "from": "X34n0638_027:0767a08_13",
         "context_with_next_sentence": true
     },
@@ -31107,6 +31107,21 @@
     {
         "source_sentence": "法華經玄贊要集卷第二十七",
         "from": "X34n0638_027:0780a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元久元年八月二日於福光院書寫了。",
+        "from": "X34n0638_027:0780a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是偏為令法久住利益人天而已。",
+        "from": "X34n0638_027:0780a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假名比丘　凝圓(生　年五十八)",
+        "from": "X34n0638_027:0780a12_0",
         "context_with_next_sentence": false
     }
 ]

@@ -855,7 +855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "落地枯枝纔[跳兆+孛]跳。",
+        "source_sentence": "落地枯枝纔[跳-兆+孛]跳。",
         "from": "X84n1583_035:0604c11_9",
         "context_with_next_sentence": true
     },
@@ -985,7 +985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "木葉墮蕭[颱台+(癸天+虫)]。",
+        "source_sentence": "木葉墮蕭[颱-台+(癸-天+虫)]。",
         "from": "X84n1583_035:0604c17_3",
         "context_with_next_sentence": true
     },
@@ -1795,7 +1795,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "打箇[跳兆+孛]跳。",
+        "source_sentence": "打箇[跳-兆+孛]跳。",
         "from": "X84n1583_035:0605b09_36",
         "context_with_next_sentence": true
     },

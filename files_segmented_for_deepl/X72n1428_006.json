@@ -500,7 +500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此是祐密首座從生至老底[打丁+羕]子。",
+        "source_sentence": "此是祐密首座從生至老底[打-丁+羕]子。",
         "from": "X72n1428_006:0148c07_4",
         "context_with_next_sentence": true
     },
@@ -905,7 +905,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "且道竪拳之[打丁+羕]子。",
+        "source_sentence": "且道竪拳之[打-丁+羕]子。",
         "from": "X72n1428_006:0149a17_0",
         "context_with_next_sentence": true
     },
@@ -1472,6 +1472,516 @@
     {
         "source_sentence": "靈竺淨慈自得禪師錄卷第六(終)",
         "from": "X72n1428_006:0149c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "塔銘曰",
+        "from": "X72n1428_006:0150a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師諱慧暉。",
+        "from": "X72n1428_006:0150a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金州安城人也。",
+        "from": "X72n1428_006:0150a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俗姓王氏子也。",
+        "from": "X72n1428_006:0150a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幼歲而敏黠也。",
+        "from": "X72n1428_006:0150a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七歲而依理性寺法恩禪師為丫角童子矣。",
+        "from": "X72n1428_006:0150a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十一歲而出家。",
+        "from": "X72n1428_006:0150a06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讀華嚴淨行品。",
+        "from": "X72n1428_006:0150a07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自捫面門曰。",
+        "from": "X72n1428_006:0150a07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸佛心源非老少。",
+        "from": "X72n1428_006:0150a07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得真者必證佛果。",
+        "from": "X72n1428_006:0150a08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法恩默而知異之。",
+        "from": "X72n1428_006:0150a08_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十六歲而恩遷化。",
+        "from": "X72n1428_006:0150a08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一夕不言。",
+        "from": "X72n1428_006:0150a09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師默然而坐。",
+        "from": "X72n1428_006:0150a09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忽夢見恩撫師之背曰。",
+        "from": "X72n1428_006:0150a09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝久不得住此。",
+        "from": "X72n1428_006:0150a10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "須依付雪峯契禪師矣。",
+        "from": "X72n1428_006:0150a10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師夢醒自惟曰。",
+        "from": "X72n1428_006:0150a10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "契公是法眼之流裔也。",
+        "from": "X72n1428_006:0150a11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我恩之因緣在彼宗。",
+        "from": "X72n1428_006:0150a11_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃問同學曰。",
+        "from": "X72n1428_006:0150a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雪峯路遠多少。",
+        "from": "X72n1428_006:0150a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "學曰。",
+        "from": "X72n1428_006:0150a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一百里餘。",
+        "from": "X72n1428_006:0150a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "箇中有嶮難。",
+        "from": "X72n1428_006:0150a12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "你欲到彼乎。",
+        "from": "X72n1428_006:0150a13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若去須相送。",
+        "from": "X72n1428_006:0150a13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師曰是是。",
+        "from": "X72n1428_006:0150a13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃到契禪師處。",
+        "from": "X72n1428_006:0150a13_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "契見師至而問曰。",
+        "from": "X72n1428_006:0150a14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "甚奇恠。",
+        "from": "X72n1428_006:0150a14_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "老僧昨夜夢見一彌子來吾室曰。",
+        "from": "X72n1428_006:0150a14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "和尚是龍巢鳳也。",
+        "from": "X72n1428_006:0150a15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾是鳳巢龍也。",
+        "from": "X72n1428_006:0150a15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "須是一種。",
+        "from": "X72n1428_006:0150a15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "老僧不覺作禮矣。",
+        "from": "X72n1428_006:0150a16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今日見你甚是奇特也。",
+        "from": "X72n1428_006:0150a16_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師從此依止。",
+        "from": "X72n1428_006:0150a16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十九年後又契曰。",
+        "from": "X72n1428_006:0150a17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "你因緣因事不在此。",
+        "from": "X72n1428_006:0150a17_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且可去天童。",
+        "from": "X72n1428_006:0150a17_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今正覺和尚盛化。",
+        "from": "X72n1428_006:0150a18_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾已踰千數。",
+        "from": "X72n1428_006:0150a18_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "你若去乃可居第一座。",
+        "from": "X72n1428_006:0150a18_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師乃承契教而到天童。",
+        "from": "X72n1428_006:0150a19_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其問答見前章乎。",
+        "from": "X72n1428_006:0150a19_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師乃居第一座。",
+        "from": "X72n1428_006:0150a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一眾皆貴之而已。",
+        "from": "X72n1428_006:0150a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨宏智禪師一十七年。",
+        "from": "X72n1428_006:0150a20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "徑山悟空禪師者是師之師叔也。",
+        "from": "X72n1428_006:0150a21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天童覺和尚者是師之師尊也。",
+        "from": "X72n1428_006:0150a21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "共作證明。",
+        "from": "X72n1428_006:0150a22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受二師之受印而行脚五歲。",
+        "from": "X72n1428_006:0150a22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃參見尊宿二十五人也。",
+        "from": "X72n1428_006:0150a23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後得歸天童而受淨慈之請。",
+        "from": "X72n1428_006:0150a23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二月二十五日入院。",
+        "from": "X72n1428_006:0150a24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃當紹興二十五年。",
+        "from": "X72n1428_006:0150a24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同二十六年七月十九日退院。",
+        "from": "X72n1428_006:0150a24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師為僧六十八年。",
+        "from": "X72n1428_006:0150b01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此中出世一十二年。",
+        "from": "X72n1428_006:0150b01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七十歲即遷化。",
+        "from": "X72n1428_006:0150b02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十一歲時剃髮而以來。",
+        "from": "X72n1428_006:0150b02_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曾不到尼公寺庵。",
+        "from": "X72n1428_006:0150b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其軀清淨宛如水中月。",
+        "from": "X72n1428_006:0150b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師看閱經論書籍一十二萬卷也。",
+        "from": "X72n1428_006:0150b03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人無知其所以。",
+        "from": "X72n1428_006:0150b04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "玉田居士．聰林居士．祐普居士等皆是大守輩也。",
+        "from": "X72n1428_006:0150b04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師出世時共作佐贊。",
+        "from": "X72n1428_006:0150b05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法嗣之出世人一十三人也。",
+        "from": "X72n1428_006:0150b06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "石霜總．東谷光等為首。",
+        "from": "X72n1428_006:0150b06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "會下雲眾七百餘員也。",
+        "from": "X72n1428_006:0150b07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸方尊宿等雖多一天下。",
+        "from": "X72n1428_006:0150b07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至師推轂曰。",
+        "from": "X72n1428_006:0150b08_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "內外全該。",
+        "from": "X72n1428_006:0150b08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其餘莫測。",
+        "from": "X72n1428_006:0150b08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是則摩訶大梵也。",
+        "from": "X72n1428_006:0150b08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皇帝賜自得禪師。",
+        "from": "X72n1428_006:0150b09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃敕號也。",
+        "from": "X72n1428_006:0150b09_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "浪馳管子記師大槩。",
+        "from": "X72n1428_006:0150b09_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其旨十之八九不能及者乎。",
+        "from": "X72n1428_006:0150b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　銘曰。",
+        "from": "X72n1428_006:0150b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "祖室光明。",
+        "from": "X72n1428_006:0150b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "挑少林之妙清。",
+        "from": "X72n1428_006:0150b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宗旨派脉。",
+        "from": "X72n1428_006:0150b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紹新豐之洞靈。",
+        "from": "X72n1428_006:0150b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛照輝朗。",
+        "from": "X72n1428_006:0150b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帶鷲嶺之精精。",
+        "from": "X72n1428_006:0150b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪林繁茂。",
+        "from": "X72n1428_006:0150b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知天童之契情。",
+        "from": "X72n1428_006:0150b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "麟角通氣。",
+        "from": "X72n1428_006:0150b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "賀賞一天太平。",
+        "from": "X72n1428_006:0150b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鳳觜出象。",
+        "from": "X72n1428_006:0150b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "制開三段要誠。",
+        "from": "X72n1428_006:0150b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自得和尚。",
+        "from": "X72n1428_006:0150b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紹宏智百歲蹱。",
+        "from": "X72n1428_006:0150b14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "家傳密用。",
+        "from": "X72n1428_006:0150b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舉大陽千年行。",
+        "from": "X72n1428_006:0150b14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師游步七十年華。",
+        "from": "X72n1428_006:0150b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後豈以言思細可形乎。",
+        "from": "X72n1428_006:0150b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住瑞巖法弟比丘石窓洪恭謹撰",
+        "from": "X72n1428_006:0150b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紹興二十九年除月十五日馳筆書",
+        "from": "X72n1428_006:0150b17_0",
         "context_with_next_sentence": false
     }
 ]

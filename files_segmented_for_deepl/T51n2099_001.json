@@ -335,7 +335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "尚繇羈官。",
+        "source_sentence": "尚繇覊官。",
         "from": "T51n2099_001:1101a27_22",
         "context_with_next_sentence": true
     },
@@ -5420,7 +5420,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "西瞢[夢夕+登]山。",
+        "source_sentence": "西瞢[夢-夕+登]山。",
         "from": "T51n2099_001:1105b12_15",
         "context_with_next_sentence": true
     },
@@ -5845,7 +5845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大孚靈鷲寺王子寺靈峯寺飯仙",
+        "source_sentence": "大孚靈鷲寺王子寺靈峯寺飰仙",
         "from": "T51n2099_001:1105c11_0",
         "context_with_next_sentence": true
     },
@@ -5915,7 +5915,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "金剛窟亦相通徹古有八寺寶積寺淨明寺木爪寺普濟寺公主寺甘泉寺大谷寺聖壽寺今益寺二寶山寺太平興國寺靈跡十六七佛池羅漢臺九女泉公主臺孝文教鷹臺孝文打毬場仙人庵禪菴蘽亞走柏生死蘽空心蘽生地獄鄧隱峯塔憨山玉泉金井異草二雞足草瞢[夢夕+登]草東臺。",
+        "source_sentence": "金剛窟亦相通徹古有八寺寶積寺淨明寺木爪寺普濟寺公主寺甘泉寺大谷寺聖壽寺今益寺二寶山寺太平興國寺靈跡十六七佛池羅漢臺九女泉公主臺孝文教鷹臺孝文打毬場仙人庵禪菴蘽亞走柏生死蘽空心蘽生地獄鄧隱峯塔憨山玉泉金井異草二雞足草瞢[夢-夕+登]草東臺。",
         "from": "T51n2099_001:1105c23_2",
         "context_with_next_sentence": true
     },
@@ -5950,7 +5950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "與祕[(序予+林)/女]巖相連。",
+        "source_sentence": "與祕&#;巖相連。",
         "from": "T51n2099_001:1106a24_9",
         "context_with_next_sentence": true
     },
@@ -6190,8 +6190,63 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "娑婆寺殊公寺郭[(序予+林)/女]寺嵌巖寺浮圖寺高嶺寺石臺寺小柏寺赤崖寺今益寺三福聖寺靈境寺法華寺靈跡九七佛谷龍宮勝堆萬畝平東王相西王相神龜東車尖西車尖石罅藥二人參鐘乳中臺北。",
+        "source_sentence": "娑婆寺殊公寺郭&#;寺嵌巖寺",
         "from": "T51n2099_001:1106b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "浮圖寺高嶺寺石臺寺小柏寺",
+        "from": "T51n2099_001:1106b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "赤崖寺",
+        "from": "T51n2099_001:1106b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今益寺三",
+        "from": "T51n2099_001:1106b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "福聖寺靈境寺法華寺",
+        "from": "T51n2099_001:1106b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靈跡九",
+        "from": "T51n2099_001:1106b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七佛谷龍宮勝堆萬畝平東王相",
+        "from": "T51n2099_001:1106c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西王相神龜東車尖西車尖石",
+        "from": "T51n2099_001:1106c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "罅",
+        "from": "T51n2099_001:1106c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "藥二",
+        "from": "T51n2099_001:1106c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人參鐘乳",
+        "from": "T51n2099_001:1106c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中臺北。",
+        "from": "T51n2099_001:1106c06_0",
         "context_with_next_sentence": true
     },
     {
@@ -7270,7 +7325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "名祕[(序予+林)/女]嚴。",
+        "source_sentence": "名祕&#;嚴。",
         "from": "T51n2099_001:1107b16_3",
         "context_with_next_sentence": true
     },
@@ -7840,7 +7895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其傍亦有帚。",
+        "source_sentence": "其傍亦有箒。",
         "from": "T51n2099_001:1107c20_4",
         "context_with_next_sentence": true
     },
@@ -8340,7 +8395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "號曰吳[(序予+林)/女]葱薗二寺。",
+        "source_sentence": "號曰吳&#;葱薗二寺。",
         "from": "T51n2099_001:1108a23_2",
         "context_with_next_sentence": true
     },

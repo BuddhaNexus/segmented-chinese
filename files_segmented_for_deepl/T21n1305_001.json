@@ -300,8 +300,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "行者雖樂",
+        "source_sentence": "行者雖樂世間樂。",
         "from": "T21n1305_001:0424b02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "深迴向無上正等菩提。",
+        "from": "T21n1305_001:0424b03_7",
         "context_with_next_sentence": false
     }
 ]

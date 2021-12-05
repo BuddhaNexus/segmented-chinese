@@ -1,7 +1,17 @@
 [
     {
-        "source_sentence": " 靈峰蕅益大師選定淨土十要重刻序(此序西蜀潘存評點)淨土法門者何。",
+        "source_sentence": "靈峰蕅益大師選定淨土十要重刻序",
         "from": "X61n1164_001:0641a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(此序西蜀潘存評點)",
+        "from": "X61n1164_001:0641a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨土法門者何。",
+        "from": "X61n1164_001:0641a04_0",
         "context_with_next_sentence": true
     },
     {
@@ -1660,7 +1670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 佛說阿彌陀經要解重刻序",
+        "source_sentence": "佛說阿彌陀經要解重刻序",
         "from": "X61n1164_001:0643c11_0",
         "context_with_next_sentence": true
     },
@@ -1875,7 +1885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時戊申端陽後三日也古歙學人成時和南書 佛說阿彌陀經要解三藏法師　鳩摩羅什　譯西有沙門　智旭　解原夫諸佛憫念羣迷隨機施化。",
+        "source_sentence": "時戊申端陽後三日也古歙學人成時和南書佛說阿彌陀經要解三藏法師　鳩摩羅什　譯西有沙門　智旭　解原夫諸佛憫念羣迷隨機施化。",
         "from": "X61n1164_001:0644a11_15",
         "context_with_next_sentence": true
     },
@@ -10305,7 +10315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無論頑修狂慧懡[怡台+羅]無功。",
+        "source_sentence": "無論頑修狂慧懡[怡-台+羅]無功。",
         "from": "X61n1164_001:0655b03_7",
         "context_with_next_sentence": true
     },
@@ -12830,7 +12840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 原跋",
+        "source_sentence": "原跋",
         "from": "X61n1164_001:0659a05_0",
         "context_with_next_sentence": true
     },
@@ -12950,7 +12960,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "古吳淨業弟子正知去病氏謹識 歙浦講錄跋此本係性旦癸巳歲在歙浦栖雲院所聽錄者。",
+        "source_sentence": "古吳淨業弟子正知去病氏謹識歙浦講錄跋此本係性旦癸巳歲在歙浦栖雲院所聽錄者。",
         "from": "X61n1164_001:0659a14_23",
         "context_with_next_sentence": true
     },

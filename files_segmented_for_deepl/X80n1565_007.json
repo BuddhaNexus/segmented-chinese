@@ -11995,7 +11995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "九女不[橘矛+隹]。",
+        "source_sentence": "九女不[橘-矛+隹]。",
         "from": "X80n1565_007:0148b04_28",
         "context_with_next_sentence": true
     },
@@ -17330,12 +17330,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "盡落裷[袖由+貴]。",
+        "source_sentence": "盡落裷[袖-由+貴]。",
         "from": "X80n1565_007:0152a04_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不落裷[袖由+貴]。",
+        "source_sentence": "不落裷[袖-由+貴]。",
         "from": "X80n1565_007:0152a04_3",
         "context_with_next_sentence": true
     },
@@ -20010,7 +20010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "安國[啗口+王]和尚得師號。",
+        "source_sentence": "安國&#;和尚得師號。",
         "from": "X80n1565_007:0153c01_8",
         "context_with_next_sentence": true
     },
@@ -28690,7 +28690,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "福州安國院弘[啗口+王]明真禪師泉州陳氏子。",
+        "source_sentence": "福州安國院弘&#;明真禪師泉州陳氏子。",
         "from": "X80n1565_007:0158b23_0",
         "context_with_next_sentence": true
     },
@@ -28790,7 +28790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "和尚怪弘[啗口+王]不得。",
+        "source_sentence": "和尚怪弘&#;不得。",
         "from": "X80n1565_007:0158c03_1",
         "context_with_next_sentence": true
     },
@@ -31590,7 +31590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "福州遷宗院行[啗口+王]仁慧禪師泉州王氏子。",
+        "source_sentence": "福州遷宗院行&#;仁慧禪師泉州王氏子。",
         "from": "X80n1565_007:0160a24_0",
         "context_with_next_sentence": true
     },
@@ -32880,7 +32880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不從[葸十+夕]嶺帶將來。",
+        "source_sentence": "不從[葸-十+夕]嶺帶將來。",
         "from": "X80n1565_007:0161a12_10",
         "context_with_next_sentence": true
     },
@@ -36202,6 +36202,16 @@
     {
         "source_sentence": "五燈會元卷第七",
         "from": "X80n1565_007:0163a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X80n1565_007:0163a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謴(古困切)　[狂-王+谷](余玉切)　譸(竹尤切)　嗢(烏汶切)　噦(乙劣切)",
+        "from": "X80n1565_007:0163a19_0",
         "context_with_next_sentence": false
     }
 ]

@@ -285,7 +285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "赤脚[跳兆+叉]泥冷似冰。",
+        "source_sentence": "赤脚[跳-兆+叉]泥冷似冰。",
         "from": "X82n1571_039:0053c14_3",
         "context_with_next_sentence": true
     },
@@ -5865,7 +5865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一場懡[怡台+羅]　師頌野狐話曰。",
+        "source_sentence": "一場懡[怡-台+羅]　師頌野狐話曰。",
         "from": "X82n1571_039:0058b10_4",
         "context_with_next_sentence": true
     },
@@ -9325,7 +9325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "十方無罣礙。",
+        "source_sentence": "十方無&#;礙。",
         "from": "X82n1571_039:0061a08_8",
         "context_with_next_sentence": true
     },
@@ -10475,7 +10475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "但知隨例餐[飢几+追]子。",
+        "source_sentence": "但知隨例餐[飢-几+追]子。",
         "from": "X82n1571_039:0062a01_5",
         "context_with_next_sentence": true
     },
@@ -12505,7 +12505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "松窗五七片閑雲。",
+        "source_sentence": "松窻五七片閑雲。",
         "from": "X82n1571_039:0063b14_27",
         "context_with_next_sentence": true
     },

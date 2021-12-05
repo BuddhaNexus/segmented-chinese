@@ -4660,7 +4660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "依[聲耳+卵]而生曰卵。",
+        "source_sentence": "依[聲-耳+卵]而生曰卵。",
         "from": "T54n2123_012:0112c29_6",
         "context_with_next_sentence": true
     },
@@ -6245,7 +6245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "卵生眾生在卵[聲耳+卵]時。",
+        "source_sentence": "卵生眾生在卵[聲-耳+卵]時。",
         "from": "T54n2123_012:0114b02_10",
         "context_with_next_sentence": true
     },

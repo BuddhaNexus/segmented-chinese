@@ -2860,7 +2860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不望[葶丁+呆]幹。",
+        "source_sentence": "不望[葶-丁+呆]幹。",
         "from": "T18n0895b_001:0737c24_14",
         "context_with_next_sentence": true
     },
@@ -2875,7 +2875,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[葶丁+呆]幹不求而自然得。",
+        "source_sentence": "[葶-丁+呆]幹不求而自然得。",
         "from": "T18n0895b_001:0737c25_17",
         "context_with_next_sentence": true
     },
@@ -3970,7 +3970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鷲鳥鷺鴛及[狂王+薰]胡。",
+        "source_sentence": "鷲鳥鷺鴛及[狂-王+薰]胡。",
         "from": "T18n0895b_001:0738c22_7",
         "context_with_next_sentence": true
     },
@@ -4335,7 +4335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(魍ㄙ)罔+(鹵├)]魎所著。",
+        "source_sentence": "[(魍-ㄙ)-罔+(鹵-├)]魎所著。",
         "from": "T18n0895b_001:0739a24_27",
         "context_with_next_sentence": true
     },
@@ -5747,6 +5747,11 @@
     {
         "source_sentence": "蘇摩呼童子經卷上",
         "from": "T18n0895b_001:0740c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　承歷二年四月八日於西房書了",
+        "from": "T18n0895b_001:0740c03_0",
         "context_with_next_sentence": false
     }
 ]

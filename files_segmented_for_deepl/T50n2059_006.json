@@ -540,7 +540,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "暉相炳[火*(敻人+(〡*〡))]若隱而顯。",
+        "source_sentence": "暉相炳[火*(敻-人+(〡*〡))]若隱而顯。",
         "from": "T50n2059_006:0358b13_11",
         "context_with_next_sentence": true
     },
@@ -6260,7 +6260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "叡風韻[罩卓+注]流含吐彬蔚。",
+        "source_sentence": "叡風韻[罩-卓+注]流含吐彬蔚。",
         "from": "T50n2059_006:0364a28_35",
         "context_with_next_sentence": true
     },

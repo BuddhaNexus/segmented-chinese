@@ -1425,7 +1425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "南舍[打丁+虎](此云具諂)。",
+        "source_sentence": "南舍[打-丁+虎](此云具諂)。",
         "from": "T32n1645_001:0227b20_1",
         "context_with_next_sentence": true
     },
@@ -2945,7 +2945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有烏駮狗[齒*(虎儿+且)]掣食之。",
+        "source_sentence": "有烏駮狗[齒*(虎-儿+且)]掣食之。",
         "from": "T32n1645_001:0228c23_2",
         "context_with_next_sentence": true
     },
@@ -5330,7 +5330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "取[嚐旨+甘]便食。",
+        "source_sentence": "取[嚐-旨+甘]便食。",
         "from": "T32n1645_001:0231a01_2",
         "context_with_next_sentence": true
     },

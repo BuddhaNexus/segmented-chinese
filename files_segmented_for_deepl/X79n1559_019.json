@@ -3095,12 +3095,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "明果齩定牙關[跳兆+孛]跳。",
+        "source_sentence": "明果齩定牙關[跳-兆+孛]跳。",
         "from": "X79n1559_019:0408b03_5",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也出他圈[袖由+貴]不得。",
+        "source_sentence": "也出他圈[袖-由+貴]不得。",
         "from": "X79n1559_019:0408b04_6",
         "context_with_next_sentence": true
     },
@@ -3635,7 +3635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "丹霞佛智蓬庵端裕禪師法嗣",
+        "source_sentence": "丹霞佛智蓬庵端&#;禪師法嗣",
         "from": "X79n1559_019:0408c06_0",
         "context_with_next_sentence": true
     },
@@ -5632,6 +5632,16 @@
     {
         "source_sentence": "嘉泰普燈錄卷第十九",
         "from": "X79n1559_019:0410a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_019:0410a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　灝音浩　醴音禮　沔音緬　澧音禮　巄力空切　蹴七宿切　鞠音菊　釃音犁　霈音沛　膱音織　尳音鶻　舷音絃　嗄所嫁切　觱音必　篥音栗　廖音溜　轂音糓",
+        "from": "X79n1559_019:0410a22_0",
         "context_with_next_sentence": false
     }
 ]

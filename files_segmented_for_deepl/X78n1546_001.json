@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 新修淨土往生傳序",
+        "source_sentence": "新修淨土往生傳序",
         "from": "X78n1546_001:0147a04_0",
         "context_with_next_sentence": true
     },
@@ -750,7 +750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更廣[社土+旬]求續增編次。",
+        "source_sentence": "更廣[社-土+旬]求續增編次。",
         "from": "X78n1546_001:0147c10_18",
         "context_with_next_sentence": true
     },
@@ -1015,7 +1015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "恐要)乃於[(富一)曰+口]下。",
+        "source_sentence": "恐要)乃於[(富-一)-曰+口]下。",
         "from": "X78n1546_001:0148b05_2",
         "context_with_next_sentence": true
     },
@@ -1125,7 +1125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[窪圭+?]加困篤。",
+        "source_sentence": "[窪-圭+?]加困篤。",
         "from": "X78n1546_001:0148b12_0",
         "context_with_next_sentence": true
     },
@@ -2805,7 +2805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "程之又[宋木+取]有文。",
+        "source_sentence": "程之又[宋-木+取]有文。",
         "from": "X78n1546_001:0149c21_4",
         "context_with_next_sentence": true
     },
@@ -2885,7 +2885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "愈益怡[怡台+死](〔考〕[怡台+死]寶集作悅)居山十五年。",
+        "source_sentence": "愈益怡[怡-台+死](〔考〕[怡-台+死]寶集作悅)居山十五年。",
         "from": "X78n1546_001:0150a02_6",
         "context_with_next_sentence": true
     },
@@ -3240,7 +3240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "示以[迋土+非](〔考〕[迋土+非]恐非)冥。",
+        "source_sentence": "示以[迋-土+非](〔考〕[迋-土+非]恐非)冥。",
         "from": "X78n1546_001:0150b01_21",
         "context_with_next_sentence": true
     },
@@ -3610,7 +3610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "出[宋木+取](〔考〕[宋木+取]恐叡)之旁(〔考〕旁寶集作房)盤旋西(〔考〕西寶集作而)去。",
+        "source_sentence": "出[宋-木+取](〔考〕[宋-木+取]恐叡)之旁(〔考〕旁寶集作房)盤旋西(〔考〕西寶集作而)去。",
         "from": "X78n1546_001:0150c01_0",
         "context_with_next_sentence": true
     },
@@ -3935,7 +3935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "東[較父+眾]釋道廣。",
+        "source_sentence": "東[較-父+眾]釋道廣。",
         "from": "X78n1546_001:0150c21_1",
         "context_with_next_sentence": true
     },
@@ -4075,7 +4075,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "然其所焚半身[嫻木+(古/小)](〔考〕[嫻木+(古/小)]寶集作已爛)未經月餘。",
+        "source_sentence": "然其所焚半身[嫻-木+(古/小)](〔考〕[嫻-木+(古/小)]寶集作已爛)未經月餘。",
         "from": "X78n1546_001:0151a07_21",
         "context_with_next_sentence": true
     },
@@ -4430,7 +4430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "每欲救(〔考〕救寶集作拔)跡三界。",
+        "source_sentence": "每欲救(〔考〕救寶集作㧞)跡三界。",
         "from": "X78n1546_001:0151b08_0",
         "context_with_next_sentence": true
     },
@@ -5570,7 +5570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "艮(〔考〕艮恐即)時[遷(這言)](〔考〕[遷(這言)]集作遷)神焉。",
+        "source_sentence": "艮(〔考〕艮恐即)時[遷-(這-言)](〔考〕[遷-(這-言)]集作遷)神焉。",
         "from": "X78n1546_001:0152b13_8",
         "context_with_next_sentence": true
     },
@@ -6822,6 +6822,11 @@
     {
         "source_sentence": "新修淨土往生傳卷上",
         "from": "X78n1546_001:0153c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大治五-八月十八日書之　　　　□　　□同日交點了",
+        "from": "X78n1546_001:0153c06_0",
         "context_with_next_sentence": false
     }
 ]

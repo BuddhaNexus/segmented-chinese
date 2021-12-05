@@ -135,7 +135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "人求良材擔斧入林，見大芭蕉鴻直不曲，因斷其本、斬其末、劈其葉，理分分[利禾+皮]而解之，中了無心何有牢固？",
+        "source_sentence": "人求良材擔斧入林，見大芭蕉鴻直不曲，因斷其本、斬其末、劈其葉，理分分[利-禾+皮]而解之，中了無心何有牢固？",
         "from": "T02n0105_001:0501a29_1",
         "context_with_next_sentence": true
     },

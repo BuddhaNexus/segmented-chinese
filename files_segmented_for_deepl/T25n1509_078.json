@@ -890,7 +890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如歌羅頻伽鳥在[聲耳+卵]中，未發聲已能勝諸鳥，何況成就！",
+        "source_sentence": "如歌羅頻伽鳥在[聲-耳+卵]中，未發聲已能勝諸鳥，何況成就！",
         "from": "T25n1509_078:0609c25_8",
         "context_with_next_sentence": true
     },

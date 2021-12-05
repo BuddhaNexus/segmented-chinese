@@ -1060,7 +1060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即遺[(鹵/米)*(產文+(立一))]米。",
+        "source_sentence": "即遺[(鹵/米)*(產-文+(立-一))]米。",
         "from": "T53n2122_034:0549c14_25",
         "context_with_next_sentence": true
     },
@@ -2065,7 +2065,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其野干者樂向[塚豖+(一/豖)]間。",
+        "source_sentence": "其野干者樂向[塚-豖+(一/豖)]間。",
         "from": "T53n2122_034:0550c14_0",
         "context_with_next_sentence": true
     },

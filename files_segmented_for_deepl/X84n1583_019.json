@@ -810,12 +810,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "明果咬定牙關[跳兆+孛]跳。",
+        "source_sentence": "明果咬定牙關[跳-兆+孛]跳。",
         "from": "X84n1583_019:0514b19_8",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也出他圈[袖由+貴]不得。",
+        "source_sentence": "也出他圈[袖-由+貴]不得。",
         "from": "X84n1583_019:0514b19_9",
         "context_with_next_sentence": true
     },
@@ -1515,7 +1515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雖未付缽袋。",
+        "source_sentence": "雖未付盋袋。",
         "from": "X84n1583_019:0515a09_20",
         "context_with_next_sentence": true
     },
@@ -1795,7 +1795,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "糞掃堆頭重添擸[打丁+(天/韭)]。",
+        "source_sentence": "糞掃堆頭重添擸[打-丁+(天/韭)]。",
         "from": "X84n1583_019:0515a23_6",
         "context_with_next_sentence": true
     },
@@ -2590,7 +2590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "透過古今圈[袖由+貴]後。",
+        "source_sentence": "透過古今圈[袖-由+貴]後。",
         "from": "X84n1583_019:0515c17_4",
         "context_with_next_sentence": true
     },
@@ -4960,7 +4960,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "便請明[腮田+(囟乂+ㄆ)]下安排。",
+        "source_sentence": "便請明[腮-田+(囟-乂+ㄆ)]下安排。",
         "from": "X84n1583_019:0517c02_9",
         "context_with_next_sentence": true
     },
@@ -6525,7 +6525,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "直至如今無人拔。",
+        "source_sentence": "直至如今無人㧞。",
         "from": "X84n1583_019:0518c13_3",
         "context_with_next_sentence": true
     },
@@ -6535,7 +6535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為他拔去也。",
+        "source_sentence": "為他㧞去也。",
         "from": "X84n1583_019:0518c13_5",
         "context_with_next_sentence": true
     },

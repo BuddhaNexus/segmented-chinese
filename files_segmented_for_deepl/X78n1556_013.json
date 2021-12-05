@@ -7035,7 +7035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "摩[怡台+羅]西歸。",
+        "source_sentence": "摩[怡-台+羅]西歸。",
         "from": "X78n1556_013:0724b20_21",
         "context_with_next_sentence": true
     },
@@ -7930,7 +7930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "打麵還佗州土麥。",
+        "source_sentence": "打麫還佗州土麥。",
         "from": "X78n1556_013:0725a16_5",
         "context_with_next_sentence": true
     },
@@ -8862,6 +8862,46 @@
     {
         "source_sentence": "建中靖國續燈錄卷第十三",
         "from": "X78n1556_013:0725c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "都勾當藏主沙門　靈肇。",
+        "from": "X78n1556_013:0725c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "都勸首住持傳法沙門　普明。",
+        "from": "X78n1556_013:0725c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同勾當住聖泉寺傳法沙門　紹登。",
+        "from": "X78n1556_013:0725c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勸首應賢良方正能直言極諫科陽晹。",
+        "from": "X78n1556_013:0725c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "朝請丈夫知福州軍州兼管內勸農事。",
+        "from": "X78n1556_013:0726a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兌福建路丘馬鈐轄柱國借柴王祖道。",
+        "from": "X78n1556_013:0726a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請主參知政事元絳。",
+        "from": "X78n1556_013:0726a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "證會　靈應侯王。",
+        "from": "X78n1556_013:0726a04_0",
         "context_with_next_sentence": false
     }
 ]

@@ -70,7 +70,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "當彼十歲人壽命時，純以羖羊毛[毯炎+旁]為衣，猶如今日迦尸迦嬌奢耶衣、芻摩繒衣、度究邏衣、句路摩娑衣、劫貝衣、甘婆羅寶衣，最為勝妙，其毛[毯炎+旁]衣，亦復如是。",
+        "source_sentence": "當彼十歲人壽命時，純以羖羊毛[毯-炎+旁]為衣，猶如今日迦尸迦嬌奢耶衣、芻摩繒衣、度究邏衣、句路摩娑衣、劫貝衣、甘婆羅寶衣，最為勝妙，其毛[毯-炎+旁]衣，亦復如是。",
         "from": "T01n0025_009:0408c04_11",
         "context_with_next_sentence": true
     },
@@ -590,7 +590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若有於彼三摩耶時，及無量時、長遠道時，天下[午〡+几]旱，無復雨澤，所有草木，一切乾枯，悉無復有。",
+        "source_sentence": "若有於彼三摩耶時，及無量時、長遠道時，天下[午-〡+几]旱，無復雨澤，所有草木，一切乾枯，悉無復有。",
         "from": "T01n0025_009:0410a06_3",
         "context_with_next_sentence": true
     },
@@ -1550,7 +1550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如有力壯健丈夫，手撮一把麥[麩夫+戈]令碎，擲向虛空，分散飄颺，無形無影。",
+        "source_sentence": "譬如有力壯健丈夫，手撮一把麥䴰令碎，擲向虛空，分散飄颺，無形無影。",
         "from": "T01n0025_009:0413a12_3",
         "context_with_next_sentence": true
     },

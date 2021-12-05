@@ -1610,7 +1610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "論[璅土+上]析[璅土+上]。",
+        "source_sentence": "論[璅-土+上]析[璅-土+上]。",
         "from": "X55n0920_004:0902b03_0",
         "context_with_next_sentence": true
     },
@@ -5205,7 +5205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "論[病丙+習]思習切。",
+        "source_sentence": "論[病-丙+習]思習切。",
         "from": "X55n0920_004:0906b13_0",
         "context_with_next_sentence": true
     },
@@ -5235,7 +5235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "應作[泳永+董]。",
+        "source_sentence": "應作[泳-永+董]。",
         "from": "X55n0920_004:0906b16_1",
         "context_with_next_sentence": true
     },
@@ -5490,7 +5490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "壁[書曰+皿]虵影晉書樂彥輔有親客。",
+        "source_sentence": "壁[書-曰+皿]虵影晉書樂彥輔有親客。",
         "from": "X55n0920_004:0906c18_0",
         "context_with_next_sentence": true
     },
@@ -5550,7 +5550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "弓邊漆[書曰+皿]作虵。",
+        "source_sentence": "弓邊漆[書-曰+皿]作虵。",
         "from": "X55n0920_004:0906c20_12",
         "context_with_next_sentence": true
     },
@@ -6340,7 +6340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[怡台+追]愓[怡台+追]。",
+        "source_sentence": "[怡-台+追]愓[怡-台+追]。",
         "from": "X55n0920_004:0907c11_0",
         "context_with_next_sentence": true
     },
@@ -6430,7 +6430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[狂王+夬][狂王+吏]音決使。",
+        "source_sentence": "[狂-王+夬][狂-王+吏]音決使。",
         "from": "X55n0920_004:0907c19_0",
         "context_with_next_sentence": true
     },
@@ -6440,7 +6440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今江東呼豼為[狂王+夬][狂王+吏]。",
+        "source_sentence": "今江東呼豼為[狂-王+夬][狂-王+吏]。",
         "from": "X55n0920_004:0907c19_2",
         "context_with_next_sentence": true
     },
@@ -7000,7 +7000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[怡台+龍]悷上力董切。",
+        "source_sentence": "[怡-台+龍]悷上力董切。",
         "from": "X55n0920_004:0908b17_0",
         "context_with_next_sentence": true
     },
@@ -7160,7 +7160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "熱[榷木+月]黑各切。",
+        "source_sentence": "熱[榷-木+月]黑各切。",
         "from": "X55n0920_004:0908c03_0",
         "context_with_next_sentence": true
     },
@@ -7935,7 +7935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[狦(狂王)+月]先安切。",
+        "source_sentence": "[狦-(狂-王)+月]先安切。",
         "from": "X55n0920_004:0909b05_0",
         "context_with_next_sentence": true
     },
@@ -8600,7 +8600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[泳永+柴]時介切。",
+        "source_sentence": "[泳-永+柴]時介切。",
         "from": "X55n0920_004:0909c24_0",
         "context_with_next_sentence": true
     },
@@ -8615,7 +8615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(鼬臼+((巢果)/(ㄇ@人)))由+皮][(大/目)*皮]上臘。",
+        "source_sentence": "[(鼬-臼+((巢-果)/(ㄇ@人)))-由+皮][(大/目)*皮]上臘。",
         "from": "X55n0920_004:0910a02_0",
         "context_with_next_sentence": true
     },
@@ -11780,7 +11780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "夫仁義[怡台+(替曰+貝)]然乃憤吾心。",
+        "source_sentence": "夫仁義[怡-台+(替-曰+貝)]然乃憤吾心。",
         "from": "X55n0920_004:0913b21_8",
         "context_with_next_sentence": true
     },
@@ -12717,6 +12717,466 @@
     {
         "source_sentence": "止觀輔行傳弘決助覽卷第四(終)",
         "from": "X55n0920_004:0914b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "注三大部後總序",
+        "from": "X55n0920_004:0914c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(有巖)伊昔承乏三易住持。",
+        "from": "X55n0920_004:0914c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後以董眾無堪。",
+        "from": "X55n0920_004:0914c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂築庵自處。",
+        "from": "X55n0920_004:0914c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖然而有志翼扶宗教。",
+        "from": "X55n0920_004:0914c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願結鴻因。",
+        "from": "X55n0920_004:0914c06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "注法華玄籤曰備撿者四卷。",
+        "from": "X55n0920_004:0914c06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "注文句記曰箋難者五卷。",
+        "from": "X55n0920_004:0914c07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "注止觀輔行傳弘決曰助覧者四卷。",
+        "from": "X55n0920_004:0914c07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二十來載。",
+        "from": "X55n0920_004:0914c08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手披目閱。",
+        "from": "X55n0920_004:0914c08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖心勦形瘵而日得游泳法華性海。",
+        "from": "X55n0920_004:0914c08_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不敢告勞。",
+        "from": "X55n0920_004:0914c09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因茲發願。",
+        "from": "X55n0920_004:0914c09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願憑輔道之福。",
+        "from": "X55n0920_004:0914c09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "神生極樂。",
+        "from": "X55n0920_004:0914c10_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "早證法忍。",
+        "from": "X55n0920_004:0914c10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分身十方。",
+        "from": "X55n0920_004:0914c10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盡未來際每弘正法。",
+        "from": "X55n0920_004:0914c10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開導眾生。",
+        "from": "X55n0920_004:0914c11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使諸眾生於己心中開佛知見。",
+        "from": "X55n0920_004:0914c11_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又從頌曰。",
+        "from": "X55n0920_004:0914c12_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "祖師三大部。",
+        "from": "X55n0920_004:0914c12_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "留贈意何深。",
+        "from": "X55n0920_004:0914c12_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "展卷迷文處。",
+        "from": "X55n0920_004:0914c12_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "焚香大藏尋。",
+        "from": "X55n0920_004:0914c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖然形小注。",
+        "from": "X55n0920_004:0914c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不是謾勞心。",
+        "from": "X55n0920_004:0914c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願以此功德。",
+        "from": "X55n0920_004:0914c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "資歸七寶林。",
+        "from": "X55n0920_004:0914c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後序",
+        "from": "X55n0920_004:0914c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾祖智者三部之教。",
+        "from": "X55n0920_004:0914c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其旨深遠。",
+        "from": "X55n0920_004:0914c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其辭浩博。",
+        "from": "X55n0920_004:0914c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "苟非識洞天人。",
+        "from": "X55n0920_004:0914c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智該今古。",
+        "from": "X55n0920_004:0914c20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未易探其所蘊矣。",
+        "from": "X55n0920_004:0914c20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余自游學丹丘。",
+        "from": "X55n0920_004:0914c20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "每聞　摣庵法師年彌高而德彌邵。",
+        "from": "X55n0920_004:0914c20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智識明遠。",
+        "from": "X55n0920_004:0914c21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得心傳獨到之學。",
+        "from": "X55n0920_004:0914c21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常造古人超軼處。",
+        "from": "X55n0920_004:0914c22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖間世名聞之士。",
+        "from": "X55n0920_004:0914c22_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "往往莫能肩其右。",
+        "from": "X55n0920_004:0914c22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀其為人。",
+        "from": "X55n0920_004:0914c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "好學不厭。",
+        "from": "X55n0920_004:0914c23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樂教不倦。",
+        "from": "X55n0920_004:0914c23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仁智兩全而世所希有。",
+        "from": "X55n0920_004:0914c23_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夙夜匪懈。",
+        "from": "X55n0920_004:0914c24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陶成晚進。",
+        "from": "X55n0920_004:0914c24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使人人皆歸模範之中。",
+        "from": "X55n0920_004:0914c24_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設心可謂至矣。",
+        "from": "X55n0920_004:0915a01_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　師猶以為未也。",
+        "from": "X55n0920_004:0915a01_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其於講訓之外。",
+        "from": "X55n0920_004:0915a01_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "箋三部之文。",
+        "from": "X55n0920_004:0915a02_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疑者辨之。",
+        "from": "X55n0920_004:0915a02_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "晦者彰之。",
+        "from": "X55n0920_004:0915a02_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使　吾祖之教若青天白日。",
+        "from": "X55n0920_004:0915a02_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人皆知其清明。",
+        "from": "X55n0920_004:0915a03_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鳳凰芝草。",
+        "from": "X55n0920_004:0915a03_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人皆知其為瑞。",
+        "from": "X55n0920_004:0915a03_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "輔翼吾教豈小輔哉。",
+        "from": "X55n0920_004:0915a04_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故止觀四卷名為助覧。",
+        "from": "X55n0920_004:0915a04_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余晚還故里。",
+        "from": "X55n0920_004:0915a04_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師亦圓寂。",
+        "from": "X55n0920_004:0915a05_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "每恐埋沒斯文。",
+        "from": "X55n0920_004:0915a05_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常形寤寐。",
+        "from": "X55n0920_004:0915a05_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偶因潘處士首話此集有補於世。",
+        "from": "X55n0920_004:0915a05_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勉之鏤板流行。",
+        "from": "X55n0920_004:0915a06_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "處士躣然而從。",
+        "from": "X55n0920_004:0915a06_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃曰非敢規錐刀之利。",
+        "from": "X55n0920_004:0915a07_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓋欲便乎學者抄寫之勞。",
+        "from": "X55n0920_004:0915a07_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "抑亦廣布法師之教矣。",
+        "from": "X55n0920_004:0915a08_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余加其志。",
+        "from": "X55n0920_004:0915a08_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故附書於天台白蓮草首座以求藁本。",
+        "from": "X55n0920_004:0915a08_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "章師喜成人之美。",
+        "from": "X55n0920_004:0915a09_44",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樂揚人之善。",
+        "from": "X55n0920_004:0915a09_45",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "每以弘道為心。",
+        "from": "X55n0920_004:0915a10_46",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覧余之書。",
+        "from": "X55n0920_004:0915a10_47",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即叩依闍梨。",
+        "from": "X55n0920_004:0915a10_48",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然依公乃　法師之裔。",
+        "from": "X55n0920_004:0915a10_49",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非特喜余之書樂與其本。",
+        "from": "X55n0920_004:0915a11_50",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦將答先師之恩也。",
+        "from": "X55n0920_004:0915a11_51",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "噫。",
+        "from": "X55n0920_004:0915a12_52",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法師之教。",
+        "from": "X55n0920_004:0915a12_53",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永傳不朽。",
+        "from": "X55n0920_004:0915a12_54",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而名振千古。",
+        "from": "X55n0920_004:0915a12_55",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自今日始矣。",
+        "from": "X55n0920_004:0915a12_56",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余覩斯文。",
+        "from": "X55n0920_004:0915a13_57",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喜不自勝。",
+        "from": "X55n0920_004:0915a13_58",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "輙為之序以繼其後焉。",
+        "from": "X55n0920_004:0915a13_59",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時政和四年二月　日永嘉橫陽禪林住持傳教沙門　眘徽　序",
+        "from": "X55n0920_004:0915a14_0",
         "context_with_next_sentence": false
     }
 ]

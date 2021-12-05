@@ -425,7 +425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "南摩三曼多勃馱喃(一)耽令令閻微枳履儞弭履訶娑難羅娑難特[怡台+暮]娑難[糸*晝]莎呵印相。",
+        "source_sentence": "南摩三曼多勃馱喃(一)耽令令閻微枳履儞弭履訶娑難羅娑難特[怡-台+暮]娑難[糸*晝]莎呵印相。",
         "from": "T19n1028B_001:0743b17_0",
         "context_with_next_sentence": true
     },
@@ -807,6 +807,71 @@
     {
         "source_sentence": "童子經念誦法",
         "from": "T19n1028B_001:0744a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壇上有惡字。",
+        "from": "T19n1028B_001:0744a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "字變成七寶樓閣。",
+        "from": "T19n1028B_001:0744a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樓閣上張天蓋。",
+        "from": "T19n1028B_001:0744a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以眾寶自莊嚴。",
+        "from": "T19n1028B_001:0744a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其宮殿中有荷葉座座上有鉢羅字。",
+        "from": "T19n1028B_001:0744a05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "變成大梵天王。",
+        "from": "T19n1028B_001:0744a06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王邊荷葉座有尾字。",
+        "from": "T19n1028B_001:0744a06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "變成栴檀乾闥婆大王。",
+        "from": "T19n1028B_001:0744a07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其荷葉邊有吽字。",
+        "from": "T19n1028B_001:0744a07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "成十五鬼王將。",
+        "from": "T19n1028B_001:0744a08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七萬八千鬼神前後圍匝。",
+        "from": "T19n1028B_001:0744a08_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　平治元年八月八日。",
+        "from": "T19n1028B_001:0744a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於四條壇所書了　交了　　　　　　　　　　　　興然",
+        "from": "T19n1028B_001:0744a10_1",
         "context_with_next_sentence": false
     }
 ]

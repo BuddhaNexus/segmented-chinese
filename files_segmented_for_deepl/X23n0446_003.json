@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": "七俱胝佛母所說準提陀羅尼經會釋卷下　附五悔儀并持誦法要唐天竺三藏法師大廣智不空奉　詔譯清粵東鼎湖山菩提心沙門弘贊　會釋○次說準泥佛母畫像法(亦名尊那菩薩)取不截白[(畾/(冗几+互))*毛]去毛髮者。",
+        "source_sentence": "七俱胝佛母所說準提陀羅尼經會釋卷下　附五悔儀并持誦法要唐天竺三藏法師大廣智不空奉　詔譯清粵東鼎湖山菩提心沙門弘贊　會釋○次說準泥佛母畫像法(亦名尊那菩薩)取不截白[(畾/(冗-几+互))*毛]去毛髮者。",
         "from": "X23n0446_003:0770b14_0",
         "context_with_next_sentence": true
     },
@@ -515,7 +515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "白[(畾/(冗几+互))*毛]若無。",
+        "source_sentence": "白[(畾/(冗-几+互))*毛]若無。",
         "from": "X23n0446_003:0771a06_0",
         "context_with_next_sentence": true
     },
@@ -2835,7 +2835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有一梵書 [口*藍]字。",
+        "source_sentence": "有一梵書[口*藍]字。",
         "from": "X23n0446_003:0773b11_18",
         "context_with_next_sentence": true
     },
@@ -2910,7 +2910,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[口*藍]或作囕)○  (此是梵書唵[口*藍]字)此淨法界[口*藍]字。",
+        "source_sentence": "[口*藍]或作囕)○(此是梵書唵[口*藍]字)此淨法界[口*藍]字。",
         "from": "X23n0446_003:0773b16_1",
         "context_with_next_sentence": true
     },
@@ -3030,7 +3030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "梵書 囉字上。",
+        "source_sentence": "梵書囉字上。",
         "from": "X23n0446_003:0773b23_0",
         "context_with_next_sentence": true
     },
@@ -3040,7 +3040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即成 [口*藍]字矣。",
+        "source_sentence": "即成[口*藍]字矣。",
         "from": "X23n0446_003:0773b23_2",
         "context_with_next_sentence": true
     },
@@ -3240,7 +3240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "  (此是梵書唵齒[口*臨]字)(此亦唵齒[口*臨]字。",
+        "source_sentence": "(此是梵書唵齒[口*臨]字)(此亦唵齒[口*臨]字。",
         "from": "X23n0446_003:0773c12_4",
         "context_with_next_sentence": true
     },
@@ -4145,7 +4145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "(引)          (此是梵書準提真言)若所求事。",
+        "source_sentence": "(引)(此是梵書準提真言)若所求事。",
         "from": "X23n0446_003:0774b14_6",
         "context_with_next_sentence": true
     },
@@ -4745,7 +4745,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "所謂部林字 。",
+        "source_sentence": "所謂部林字。",
         "from": "X23n0446_003:0775a05_2",
         "context_with_next_sentence": true
     },
@@ -4770,7 +4770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或作[口*普][口*(隆一)]。",
+        "source_sentence": "或作[口*普][口*(隆-一)]。",
         "from": "X23n0446_003:0775a07_4",
         "context_with_next_sentence": true
     },
@@ -5535,7 +5535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "想一梵書 [口*藍]字。",
+        "source_sentence": "想一梵書[口*藍]字。",
         "from": "X23n0446_003:0775c05_3",
         "context_with_next_sentence": true
     },
@@ -6110,12 +6110,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或觀梵書 囉字。",
+        "source_sentence": "或觀梵書囉字。",
         "from": "X23n0446_003:0776a14_1",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或觀 阿字。",
+        "source_sentence": "或觀阿字。",
         "from": "X23n0446_003:0776a14_2",
         "context_with_next_sentence": true
     },
@@ -6140,7 +6140,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "當觀 灑字。",
+        "source_sentence": "當觀灑字。",
         "from": "X23n0446_003:0776a16_7",
         "context_with_next_sentence": true
     },
@@ -6155,7 +6155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "應觀 含字。",
+        "source_sentence": "應觀含字。",
         "from": "X23n0446_003:0776a17_0",
         "context_with_next_sentence": true
     },
@@ -6220,42 +6220,42 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "先於口門想其 [牟*含]字。",
+        "source_sentence": "先於口門想其[牟*含]字。",
         "from": "X23n0446_003:0776a20_13",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於右肩上想 暗字。",
+        "source_sentence": "於右肩上想暗字。",
         "from": "X23n0446_003:0776a20_14",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於左肩上想 惡字。",
+        "source_sentence": "於左肩上想惡字。",
         "from": "X23n0446_003:0776a20_15",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於頭上復想 暗字。",
+        "source_sentence": "於頭上復想暗字。",
         "from": "X23n0446_003:0776a21_16",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於右臂上想 阿(引)字。",
+        "source_sentence": "於右臂上想阿(引)字。",
         "from": "X23n0446_003:0776a21_17",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "左臂上想 嚩字。",
+        "source_sentence": "左臂上想嚩字。",
         "from": "X23n0446_003:0776a22_18",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於臍輪中想 吽字。",
+        "source_sentence": "於臍輪中想吽字。",
         "from": "X23n0446_003:0776a22_19",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "復於遍身想 阿(引)字。",
+        "source_sentence": "復於遍身想阿(引)字。",
         "from": "X23n0446_003:0776a22_20",
         "context_with_next_sentence": true
     },
@@ -7055,7 +7055,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皆加持此 [口*藍]字。",
+        "source_sentence": "皆加持此[口*藍]字。",
         "from": "X23n0446_003:0777a02_3",
         "context_with_next_sentence": true
     },
@@ -8530,7 +8530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故緻(引)    ?          喃(引)。",
+        "source_sentence": "故緻(引)喃(引)。",
         "from": "X23n0446_003:0778a19_3",
         "context_with_next_sentence": true
     },
@@ -9695,7 +9695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "阿囉跛者娜(梵書)     金剛頂經五字真言勝相云。",
+        "source_sentence": "阿囉跛者娜(梵書)金剛頂經五字真言勝相云。",
         "from": "X23n0446_003:0779b16_0",
         "context_with_next_sentence": true
     },
@@ -10040,17 +10040,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不必書其句下別譯之文)      (引)   (引)(一) (二)     (三)    (四)   (五)    (六)    (七)   (八)   (九) (引)  (十)   (十一) (十二) (十三)    (十四)      (十五)       (十六)  (十七)○心呪。",
+        "source_sentence": "不必書其句下別譯之文)(引)(引)(一)(二)(三)(四)(五)(六)(七)(八)(九)(引)(十)(十一)(十二)(十三)(十四)(十五)(十六)(十七)○心呪。",
         "from": "X23n0446_003:0779c12_35",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)麼抳嚩日囉(二合)(二)吽(三) (一)    (二) (三)○隨心呪。",
+        "source_sentence": "唵(一)麼抳嚩日囉(二合)(二)吽(三)(一)(二)(三)○隨心呪。",
         "from": "X23n0446_003:0779c17_36",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)麼抳(尾軫切)駄(上聲)哩(二合)(二)吽(三)泮吒(半音)(四) (一)   (二) (三)  (四)此呪前後三譯。",
+        "source_sentence": "唵(一)麼抳(尾軫切)駄(上聲)哩(二合)(二)吽(三)泮吒(半音)(四)(一)(二)(三)(四)此呪前後三譯。",
         "from": "X23n0446_003:0779c18_37",
         "context_with_next_sentence": true
     },
@@ -10585,7 +10585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵啞吽(啞亦作阿)   (此是梵書唵啞吽字)瑜伽大教王經云。",
+        "source_sentence": "唵啞吽(啞亦作阿)(此是梵書唵啞吽字)瑜伽大教王經云。",
         "from": "X23n0446_003:0780b13_0",
         "context_with_next_sentence": true
     },
@@ -11700,8 +11700,708 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "七俱胝佛母所說準提陀羅尼經會釋卷下(終)",
+        "source_sentence": "七俱胝佛母所說準提陀羅尼經會釋卷下(終)音釋郝音壑。",
         "from": "X23n0446_003:0781c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幀音諍。",
+        "from": "X23n0446_003:0781c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "張開畵繒也。",
+        "from": "X23n0446_003:0781c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縠音斛。",
+        "from": "X23n0446_003:0781c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紡絲織之。",
+        "from": "X23n0446_003:0781c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "細如霧。",
+        "from": "X23n0446_003:0781c20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一名方空。",
+        "from": "X23n0446_003:0781c20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言其紗薄如空也。",
+        "from": "X23n0446_003:0781c20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "那由他此云萬億。",
+        "from": "X23n0446_003:0781c21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "拔折羅此云金剛即金剛杵。",
+        "from": "X23n0446_003:0781c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "棓同棒。",
+        "from": "X23n0446_003:0781c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "部多鬼也。",
+        "from": "X23n0446_003:0781c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨居天子色界第四禪。",
+        "from": "X23n0446_003:0781c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "共有九天。",
+        "from": "X23n0446_003:0781c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上五天。",
+        "from": "X23n0446_003:0781c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名五淨居天也。",
+        "from": "X23n0446_003:0781c24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瘻音閭。",
+        "from": "X23n0446_003:0782a01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "痀瘻。",
+        "from": "X23n0446_003:0782a01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曲脊病。",
+        "from": "X23n0446_003:0782a01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必舍左此云啖精氣。",
+        "from": "X23n0446_003:0782a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂噉人。",
+        "from": "X23n0446_003:0782a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及五穀之精氣。",
+        "from": "X23n0446_003:0782a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殑伽河舊云恒河。",
+        "from": "X23n0446_003:0782a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三障一煩惱障。",
+        "from": "X23n0446_003:0782a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二業障。",
+        "from": "X23n0446_003:0782a03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三報障。",
+        "from": "X23n0446_003:0782a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五悔法一禮佛。",
+        "from": "X23n0446_003:0782a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二懺悔。",
+        "from": "X23n0446_003:0782a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三隨喜。",
+        "from": "X23n0446_003:0782a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四勸請。",
+        "from": "X23n0446_003:0782a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五發願。",
+        "from": "X23n0446_003:0782a05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘經或不以禮佛為五。",
+        "from": "X23n0446_003:0782a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以迴向足五。",
+        "from": "X23n0446_003:0782a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元迴向即兼發願。",
+        "from": "X23n0446_003:0782a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若本經初入道場時。",
+        "from": "X23n0446_003:0782a07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令發願。",
+        "from": "X23n0446_003:0782a07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "持誦畢。",
+        "from": "X23n0446_003:0782a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃兼迴向。",
+        "from": "X23n0446_003:0782a07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意謂以現所修真言功德。",
+        "from": "X23n0446_003:0782a08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迴向三處也。",
+        "from": "X23n0446_003:0782a08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有以隨喜在勸請後。",
+        "from": "X23n0446_003:0782a08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂先懺滌身器。",
+        "from": "X23n0446_003:0782a09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次欣法雨。",
+        "from": "X23n0446_003:0782a09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後攝他同己迴向三處。",
+        "from": "X23n0446_003:0782a09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若勸請在隨喜後。",
+        "from": "X23n0446_003:0782a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以隨喜是懺悔中別義。",
+        "from": "X23n0446_003:0782a10_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "事勢相連。",
+        "from": "X23n0446_003:0782a11_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故先明之。",
+        "from": "X23n0446_003:0782a11_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "平等廣大。",
+        "from": "X23n0446_003:0782a11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方堪聞法也。",
+        "from": "X23n0446_003:0782a11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大金光明經云。",
+        "from": "X23n0446_003:0782a12_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有四種重業。",
+        "from": "X23n0446_003:0782a12_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "難可滅除。",
+        "from": "X23n0446_003:0782a12_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者於諸菩薩律儀。",
+        "from": "X23n0446_003:0782a12_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "犯極重罪。",
+        "from": "X23n0446_003:0782a13_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者於大乘經。",
+        "from": "X23n0446_003:0782a13_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心生誹謗。",
+        "from": "X23n0446_003:0782a13_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者於自善根。",
+        "from": "X23n0446_003:0782a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不能增長。",
+        "from": "X23n0446_003:0782a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者貪著三有。",
+        "from": "X23n0446_003:0782a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無出離心。",
+        "from": "X23n0446_003:0782a14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有四對治。",
+        "from": "X23n0446_003:0782a15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能滅四罪。",
+        "from": "X23n0446_003:0782a15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者於十方佛。",
+        "from": "X23n0446_003:0782a15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至心親近。",
+        "from": "X23n0446_003:0782a15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說一切罪。",
+        "from": "X23n0446_003:0782a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者為一切眾生。",
+        "from": "X23n0446_003:0782a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勸請諸佛說深妙法。",
+        "from": "X23n0446_003:0782a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者隨喜一切眾生所有功德。",
+        "from": "X23n0446_003:0782a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者所有善根。",
+        "from": "X23n0446_003:0782a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悉皆迴向無上菩提。",
+        "from": "X23n0446_003:0782a17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是隨喜。",
+        "from": "X23n0446_003:0782a18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當德無量功德之聚如恒河沙三千大千。",
+        "from": "X23n0446_003:0782a18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世界眾生。",
+        "from": "X23n0446_003:0782a19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆成阿羅漢。",
+        "from": "X23n0446_003:0782a19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有人盡其形壽。",
+        "from": "X23n0446_003:0782a19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以上妙四事供養。",
+        "from": "X23n0446_003:0782a20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不及隨喜功德十分之一。",
+        "from": "X23n0446_003:0782a20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其勸請所得功德。",
+        "from": "X23n0446_003:0782a21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假使人以滿恒河沙數大千世界七寶。",
+        "from": "X23n0446_003:0782a21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "供養一切諸佛。",
+        "from": "X23n0446_003:0782a22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所德功德。",
+        "from": "X23n0446_003:0782a22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其勸請功德。",
+        "from": "X23n0446_003:0782a22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦勝於彼。",
+        "from": "X23n0446_003:0782a23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云云。",
+        "from": "X23n0446_003:0782a23_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "跋鞞揭切。",
+        "from": "X23n0446_003:0782a23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "數珠一百八表除一百八煩惱。",
+        "from": "X23n0446_003:0782a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂九十八使。",
+        "from": "X23n0446_003:0782a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更加十纏。",
+        "from": "X23n0446_003:0782a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是也。",
+        "from": "X23n0446_003:0782b01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "儗偶起切音擬。",
+        "from": "X23n0446_003:0782b01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有清信士問曰。",
+        "from": "X23n0446_003:0782b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "準提有懺法否。",
+        "from": "X23n0446_003:0782b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答曰。",
+        "from": "X23n0446_003:0782b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經云每入道場。",
+        "from": "X23n0446_003:0782b02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先應禮佛。",
+        "from": "X23n0446_003:0782b03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懺悔。",
+        "from": "X23n0446_003:0782b03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨喜。",
+        "from": "X23n0446_003:0782b03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勸請。",
+        "from": "X23n0446_003:0782b03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "發願。",
+        "from": "X23n0446_003:0782b03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此之五悔。",
+        "from": "X23n0446_003:0782b03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即是懺法。",
+        "from": "X23n0446_003:0782b03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無別有以為懺也。",
+        "from": "X23n0446_003:0782b04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問曰。",
+        "from": "X23n0446_003:0782b04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "近見有云夢授懺儀。",
+        "from": "X23n0446_003:0782b04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或云鏡中所現。",
+        "from": "X23n0446_003:0782b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復圖諸形像。",
+        "from": "X23n0446_003:0782b05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今某甲未辯邪正。",
+        "from": "X23n0446_003:0782b05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "特請師決。",
+        "from": "X23n0446_003:0782b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答曰。",
+        "from": "X23n0446_003:0782b06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若不與本經文合。",
+        "from": "X23n0446_003:0782b06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆是魔事。",
+        "from": "X23n0446_003:0782b06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或持呪行人。",
+        "from": "X23n0446_003:0782b06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不善作法。",
+        "from": "X23n0446_003:0782b07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "魔現佛像。",
+        "from": "X23n0446_003:0782b07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩像。",
+        "from": "X23n0446_003:0782b07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種種異相。",
+        "from": "X23n0446_003:0782b07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令行人生喜生怖。",
+        "from": "X23n0446_003:0782b07_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆不足信。",
+        "from": "X23n0446_003:0782b08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倘行人遇斯境者。",
+        "from": "X23n0446_003:0782b08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀其所現。",
+        "from": "X23n0446_003:0782b08_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不合經文。",
+        "from": "X23n0446_003:0782b09_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即當以無能勝呪印辟除之。",
+        "from": "X23n0446_003:0782b09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "魔遂不得便。",
+        "from": "X23n0446_003:0782b09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問曰。",
+        "from": "X23n0446_003:0782b10_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鏡上可用梵書九字否。",
+        "from": "X23n0446_003:0782b10_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答曰。",
+        "from": "X23n0446_003:0782b10_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行者不能如法結壇。",
+        "from": "X23n0446_003:0782b10_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故以鏡為壇。",
+        "from": "X23n0446_003:0782b11_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元梵書。",
+        "from": "X23n0446_003:0782b11_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "只宜想布於心月輪中。",
+        "from": "X23n0446_003:0782b11_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奚用書於鏡為。",
+        "from": "X23n0446_003:0782b12_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問曰。",
+        "from": "X23n0446_003:0782b12_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世云五月初十日。",
+        "from": "X23n0446_003:0782b12_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復云某月日。",
+        "from": "X23n0446_003:0782b12_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是準提菩薩誕晨。",
+        "from": "X23n0446_003:0782b13_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果否。",
+        "from": "X23n0446_003:0782b13_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答曰。",
+        "from": "X23n0446_003:0782b13_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "準提乃法身菩薩。",
+        "from": "X23n0446_003:0782b13_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既不降生人間。",
+        "from": "X23n0446_003:0782b14_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何有誕耶。",
+        "from": "X23n0446_003:0782b14_35",
         "context_with_next_sentence": false
     }
 ]

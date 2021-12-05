@@ -2010,7 +2010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無名氏懡[怡台+羅]而退。",
+        "source_sentence": "無名氏懡[怡-台+羅]而退。",
         "from": "X68n1319_014:0601b16_6",
         "context_with_next_sentence": true
     },
@@ -8870,7 +8870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "常見自家過[億音+(天*天)]。",
+        "source_sentence": "常見自家過[億-音+(天*天)]。",
         "from": "X68n1319_014:0606a15_4",
         "context_with_next_sentence": true
     },
@@ -27940,7 +27940,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有甚麼饆饠[飢几+追]子。",
+        "source_sentence": "有甚麼饆饠[飢-几+追]子。",
         "from": "X68n1319_014:0620a05_3",
         "context_with_next_sentence": true
     },
@@ -31007,6 +31007,26 @@
     {
         "source_sentence": "木杓。",
         "from": "X68n1319_014:0622a23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問。",
+        "from": "X68n1319_014:0622b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如何是清平家風。",
+        "from": "X68n1319_014:0622b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　師曰。",
+        "from": "X68n1319_014:0622b01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一斗麫作三箇蒸餅。",
+        "from": "X68n1319_014:0622b01_3",
         "context_with_next_sentence": false
     }
 ]

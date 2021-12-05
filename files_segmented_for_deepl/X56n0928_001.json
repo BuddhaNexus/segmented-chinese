@@ -1370,7 +1370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此念之體廓周十界徹三際果上徧應何莫由斯易曰神無方而易無體[泳永+韓]康伯曰不可以一方一體明也。",
+        "source_sentence": "此念之體廓周十界徹三際果上徧應何莫由斯易曰神無方而易無體[泳-永+韓]康伯曰不可以一方一體明也。",
         "from": "X56n0928_001:0350a10_0",
         "context_with_next_sentence": true
     },
@@ -2287,6 +2287,11 @@
     {
         "source_sentence": "十不二門文心解(終)",
         "from": "X56n0928_001:0355c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自天聖六年冬十月寓錢唐石室蘭若隨講私解至皇祐四年秋八月於吳興西溪草堂因門人請勤版次方再治定見此注者可別新故。",
+        "from": "X56n0928_001:0355c09_0",
         "context_with_next_sentence": false
     }
 ]

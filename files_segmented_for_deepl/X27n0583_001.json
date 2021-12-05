@@ -105,7 +105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "猶馳走五乘以分[鏕比+七]。",
+        "source_sentence": "猶馳走五乘以分[鏕-比+七]。",
         "from": "X27n0583_001:0532a12_5",
         "context_with_next_sentence": true
     },
@@ -3225,7 +3225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懷慶於實相[這言+(序予+手)]。",
+        "source_sentence": "懷慶於實相[這-言+(序-予+手)]。",
         "from": "X27n0583_001:0535a01_12",
         "context_with_next_sentence": true
     },
@@ -4415,7 +4415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]二乘而懷懼。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]二乘而懷懼。",
         "from": "X27n0583_001:0536a02_4",
         "context_with_next_sentence": true
     },
@@ -7835,7 +7835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自[(厂@((既旡)日+口))*頁]力[苟*苟]。",
+        "source_sentence": "自[(厂@((既-旡)-日+口))*頁]力[苟*苟]。",
         "from": "X27n0583_001:0538c08_13",
         "context_with_next_sentence": true
     },
@@ -16030,7 +16030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "圓寂之[這言+(序予+手)]。",
+        "source_sentence": "圓寂之[這-言+(序-予+手)]。",
         "from": "X27n0583_001:0546a18_19",
         "context_with_next_sentence": true
     },
@@ -19925,8 +19925,63 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "毗陵沙門湛然述法華品釋(終)",
+        "source_sentence": "毗陵沙門湛然述法華品釋(終)明曆丁酉初秋十七。",
         "from": "X27n0583_001:0549c19_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謹點譯焉。",
+        "from": "X27n0583_001:0550a04_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "竊謂語辭不類。",
+        "from": "X27n0583_001:0550a04_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "失祖笔力。",
+        "from": "X27n0583_001:0550a04_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "統紀典志。",
+        "from": "X27n0583_001:0550a05_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦無&#;目。",
+        "from": "X27n0583_001:0550a05_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真虖贋虖。",
+        "from": "X27n0583_001:0550a05_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具眼擇之。",
+        "from": "X27n0583_001:0550a05_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若見若聞。",
+        "from": "X27n0583_001:0550a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "互為善識。",
+        "from": "X27n0583_001:0550a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相助解行。",
+        "from": "X27n0583_001:0550a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "共證妙法。",
+        "from": "X27n0583_001:0550a06_3",
         "context_with_next_sentence": false
     }
 ]

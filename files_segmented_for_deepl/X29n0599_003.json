@@ -2235,7 +2235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(白日+田)/廾]溼淤泥。",
+        "source_sentence": "[(白-日+田)/廾]溼淤泥。",
         "from": "X29n0599_003:0675b09_38",
         "context_with_next_sentence": true
     },
@@ -16935,7 +16935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "向前[據豕+旦]。",
+        "source_sentence": "向前[據-豕+旦]。",
         "from": "X29n0599_003:0687b15_8",
         "context_with_next_sentence": true
     },

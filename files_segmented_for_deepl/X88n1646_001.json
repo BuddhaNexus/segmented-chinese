@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 居士傳序",
+        "source_sentence": "居士傳序",
         "from": "X88n1646_001:0180a04_0",
         "context_with_next_sentence": true
     },
@@ -3155,7 +3155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "斯皆死者報生之驗也。",
+        "source_sentence": "斯皆死者報生之騐也。",
         "from": "X88n1646_001:0185c17_5",
         "context_with_next_sentence": true
     },
@@ -4380,8 +4380,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛者",
+        "source_sentence": "佛者覺也。",
         "from": "X88n1646_001:0187a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盡之矣。",
+        "from": "X88n1646_001:0187a08_3",
         "context_with_next_sentence": false
     }
 ]

@@ -4590,7 +4590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂以長行綴[糸*((世廿+口)/日)]略說所應說義。",
+        "source_sentence": "謂以長行綴[糸*((世-廿+口)/日)]略說所應說義。",
         "from": "X21n0369_006:0302a07_13",
         "context_with_next_sentence": true
     },
@@ -25185,7 +25185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如[褒保+可]壹鄔等。",
+        "source_sentence": "如[褒-保+可]壹鄔等。",
         "from": "X21n0369_006:0319c18_7",
         "context_with_next_sentence": true
     },
@@ -25235,12 +25235,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "非[褒保+可]壹等字。",
+        "source_sentence": "非[褒-保+可]壹等字。",
         "from": "X21n0369_006:0319c21_17",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "離[褒保+可]壹等差別外。",
+        "source_sentence": "離[褒-保+可]壹等差別外。",
         "from": "X21n0369_006:0319c21_18",
         "context_with_next_sentence": true
     },

@@ -2390,8 +2390,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "恐畏世者梵云颰陀此云賢(劫有千佛故)梵云沙悖此",
+        "source_sentence": "恐畏世者梵云颰陀此云賢(劫有千佛故)梵云沙悖此云恐畏(而又具五濁八苦故)劫之異名耳。",
         "from": "X31n0606_004:0105c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卷第四",
+        "from": "X31n0606_004:0105c19_1",
         "context_with_next_sentence": false
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 序",
+        "source_sentence": "序",
         "from": "X23n0447_001:0782c03_0",
         "context_with_next_sentence": true
     },
@@ -265,7 +265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "翰林院檢討史舘纂修官西河九十翁毛奇齡頓首拜題 如意呪經疏序全心而呪。",
+        "source_sentence": "翰林院檢討史舘纂修官西河九十翁毛奇齡頓首拜題如意呪經疏序全心而呪。",
         "from": "X23n0447_001:0782c22_0",
         "context_with_next_sentence": true
     },
@@ -3305,7 +3305,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二智[泳永+曶]合無二故。",
+        "source_sentence": "二智[泳-永+曶]合無二故。",
         "from": "X23n0447_001:0786a10_1",
         "context_with_next_sentence": true
     },
@@ -6815,7 +6815,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)跋剌陀(二)鉢亶謎(三)吽(四)初呪名。",
+        "source_sentence": "唵(一)䟦剌陀(二)鉢亶謎(三)吽(四)初呪名。",
         "from": "X23n0447_001:0789b03_1",
         "context_with_next_sentence": true
     },
@@ -7145,8 +7145,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "觀自在菩薩如意陀羅尼呪經略疏卷上",
+        "source_sentence": "觀自在菩薩如意陀羅尼呪經略疏卷上音釋篅(市悅切音熱)。",
         "from": "X23n0447_001:0789b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "侘(丑佳切音吒)。",
+        "from": "X23n0447_001:0789c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亶(多早切音怛)。",
+        "from": "X23n0447_001:0789c03_2",
         "context_with_next_sentence": false
     }
 ]

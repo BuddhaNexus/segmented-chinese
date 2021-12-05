@@ -1050,7 +1050,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "翻身[跳兆+孛]跳。",
+        "source_sentence": "翻身[跳-兆+孛]跳。",
         "from": "X85n1587_005:0030c11_18",
         "context_with_next_sentence": true
     },
@@ -4550,7 +4550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]著性命。",
+        "source_sentence": "[拚-ㄙ+ㄊ]著性命。",
         "from": "X85n1587_005:0033b11_0",
         "context_with_next_sentence": true
     },
@@ -5340,7 +5340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "檐囊挈缽。",
+        "source_sentence": "檐囊挈盋。",
         "from": "X85n1587_005:0034a11_1",
         "context_with_next_sentence": true
     },
@@ -6285,7 +6285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "禿掃帚銜金勒馬。",
+        "source_sentence": "禿掃箒銜金勒馬。",
         "from": "X85n1587_005:0034c18_3",
         "context_with_next_sentence": true
     },
@@ -6897,6 +6897,11 @@
     {
         "source_sentence": "何故。",
         "from": "X85n1587_005:0035b09_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南禪不肯撒泥砂。",
+        "from": "X85n1587_005:0035b10_0",
         "context_with_next_sentence": false
     }
 ]

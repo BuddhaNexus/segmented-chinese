@@ -120,7 +120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "行者將笤帚柄。",
+        "source_sentence": "行者將笤箒柄。",
         "from": "X82n1571_110:0678c17_1",
         "context_with_next_sentence": true
     },
@@ -285,7 +285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上十八梵天。",
+        "source_sentence": "[跳-兆+孛]跳上十八梵天。",
         "from": "X82n1571_110:0679a03_34",
         "context_with_next_sentence": true
     },
@@ -2740,7 +2740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以如意打[十〡+○]相曰。",
+        "source_sentence": "以如意打[十-〡+○]相曰。",
         "from": "X82n1571_110:0681a04_2",
         "context_with_next_sentence": true
     },
@@ -4667,6 +4667,181 @@
     {
         "source_sentence": "五燈全書卷第一百十",
         "from": "X82n1571_110:0682b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五燈全書卷第一百十補遺",
+        "from": "X82n1571_110:0682b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　曹洞宗",
+        "from": "X82n1571_110:0682b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　青原下第三十七世隨錄",
+        "from": "X82n1571_110:0682b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸暨寶壽道曉悅禪師本邑邵氏子。",
+        "from": "X82n1571_110:0682c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "年十九出家。",
+        "from": "X82n1571_110:0682c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從龍華音稟具。",
+        "from": "X82n1571_110:0682c01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "往參弁山雪於百丈。",
+        "from": "X82n1571_110:0682c02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蒙山激勵。",
+        "from": "X82n1571_110:0682c02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "刻苦參究。",
+        "from": "X82n1571_110:0682c02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一日聞鐘聲有省。",
+        "from": "X82n1571_110:0682c03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "呈偈曰。",
+        "from": "X82n1571_110:0682c03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[囗@力]地一聲如夢醒。",
+        "from": "X82n1571_110:0682c03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乾坤撞破露全身。",
+        "from": "X82n1571_110:0682c03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覷破分明無別意。",
+        "from": "X82n1571_110:0682c04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "東西南北任通津。",
+        "from": "X82n1571_110:0682c04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "山頷之。",
+        "from": "X82n1571_110:0682c04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後參愚庵盂於雲門。",
+        "from": "X82n1571_110:0682c05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "值上堂。",
+        "from": "X82n1571_110:0682c05_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師問。",
+        "from": "X82n1571_110:0682c05_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日映千峰外。",
+        "from": "X82n1571_110:0682c05_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "光舒萬壑前。",
+        "from": "X82n1571_110:0682c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意旨如何。",
+        "from": "X82n1571_110:0682c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庵曰。",
+        "from": "X82n1571_110:0682c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當道種青松。",
+        "from": "X82n1571_110:0682c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師曰。",
+        "from": "X82n1571_110:0682c06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人人本有。",
+        "from": "X82n1571_110:0682c06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為甚麼今日三明日四。",
+        "from": "X82n1571_110:0682c07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庵曰。",
+        "from": "X82n1571_110:0682c07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "脚跟下道一句看。",
+        "from": "X82n1571_110:0682c07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師曰。",
+        "from": "X82n1571_110:0682c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "朔風凜凜通消息。",
+        "from": "X82n1571_110:0682c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "滿地霜花徹骨寒。",
+        "from": "X82n1571_110:0682c08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庵曰。",
+        "from": "X82n1571_110:0682c08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "怎怪得今日三明日四。",
+        "from": "X82n1571_110:0682c08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師禮拜歸眾(愚庵盂嗣)。",
+        "from": "X82n1571_110:0682c09_5",
         "context_with_next_sentence": false
     }
 ]

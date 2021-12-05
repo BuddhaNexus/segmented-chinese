@@ -5045,7 +5045,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "非[穀禾+牛]牛頃或多。",
+        "source_sentence": "非[穀-禾+牛]牛頃或多。",
         "from": "T28n1548_009:0594a23_37",
         "context_with_next_sentence": true
     },
@@ -5065,7 +5065,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[穀禾+牛]牛頃或多。",
+        "source_sentence": "[穀-禾+牛]牛頃或多。",
         "from": "T28n1548_009:0594a24_41",
         "context_with_next_sentence": true
     },
@@ -5120,7 +5120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "非[穀禾+牛]牛頃或多。",
+        "source_sentence": "非[穀-禾+牛]牛頃或多。",
         "from": "T28n1548_009:0594a27_52",
         "context_with_next_sentence": true
     },
@@ -5140,7 +5140,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若中住[穀禾+牛]牛頃或多。",
+        "source_sentence": "若中住[穀-禾+牛]牛頃或多。",
         "from": "T28n1548_009:0594a29_56",
         "context_with_next_sentence": true
     },
@@ -5195,7 +5195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或非[穀禾+牛]牛頃或多。",
+        "source_sentence": "或非[穀-禾+牛]牛頃或多。",
         "from": "T28n1548_009:0594b04_2",
         "context_with_next_sentence": true
     },
@@ -5215,7 +5215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "中間住[穀禾+牛]牛頃或多。",
+        "source_sentence": "中間住[穀-禾+牛]牛頃或多。",
         "from": "T28n1548_009:0594b06_6",
         "context_with_next_sentence": true
     },
@@ -5270,7 +5270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "非[穀禾+牛]牛頃或多。",
+        "source_sentence": "非[穀-禾+牛]牛頃或多。",
         "from": "T28n1548_009:0594b10_6",
         "context_with_next_sentence": true
     },
@@ -5295,7 +5295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[穀禾+牛]牛頃或多。",
+        "source_sentence": "[穀-禾+牛]牛頃或多。",
         "from": "T28n1548_009:0594b12_11",
         "context_with_next_sentence": true
     },

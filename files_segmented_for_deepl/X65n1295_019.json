@@ -1060,7 +1060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "落地枯枝纔[跳兆+孛]跳。",
+        "source_sentence": "落地枯枝纔[跳-兆+孛]跳。",
         "from": "X65n1295_019:0588b23_2",
         "context_with_next_sentence": true
     },
@@ -2405,7 +2405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "往往反成話杷。",
+        "source_sentence": "往往反成話&#;。",
         "from": "X65n1295_019:0589c21_1",
         "context_with_next_sentence": true
     },

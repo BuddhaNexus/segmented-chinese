@@ -1105,7 +1105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "每欽惟於竺[(畾/(冗几+互))*毛]。",
+        "source_sentence": "每欽惟於竺[(畾/(冗-几+互))*毛]。",
         "from": "X75n1512_029:0253a19_10",
         "context_with_next_sentence": true
     },
@@ -1795,7 +1795,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "仰師論語堯曰之意",
+        "source_sentence": "仰師論語堯曰之意焉耳。",
         "from": "X75n1512_029:0254a05_3",
         "context_with_next_sentence": false
     }

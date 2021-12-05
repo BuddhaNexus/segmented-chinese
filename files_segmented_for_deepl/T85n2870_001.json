@@ -1395,7 +1395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "返更於中借取乞[仁二+貳]。",
+        "source_sentence": "返更於中借取乞[仁-二+貳]。",
         "from": "T85n2870_001:1337b13_11",
         "context_with_next_sentence": true
     },
@@ -1945,7 +1945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+參]擾多務狂亂失心。",
+        "source_sentence": "[跳-兆+參]擾多務狂亂失心。",
         "from": "T85n2870_001:1338a09_9",
         "context_with_next_sentence": true
     },

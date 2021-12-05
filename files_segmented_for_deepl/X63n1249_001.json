@@ -8470,7 +8470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "及看[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "及看[(厂@((既-旡)-日+口))*頁]。",
         "from": "X63n1249_001:0600b13_6",
         "context_with_next_sentence": true
     },

@@ -175,7 +175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有車[卄/((寮一)(日/小)+山)]蕃居士。",
+        "source_sentence": "有車[卄/((寮-一)-(日/小)+山)]蕃居士。",
         "from": "T47n1974_001:0354b21_13",
         "context_with_next_sentence": true
     },
@@ -10325,7 +10325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若謂此說是曹溪門下搕[打丁+(天/韭)]堆頭觸著得底。",
+        "source_sentence": "若謂此說是曹溪門下搕[打-丁+(天/韭)]堆頭觸著得底。",
         "from": "T47n1974_001:0364c02_4",
         "context_with_next_sentence": true
     },
@@ -10400,7 +10400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則糞箕苕帚皆可酬彼所問。",
+        "source_sentence": "則糞箕苕箒皆可酬彼所問。",
         "from": "T47n1974_001:0364c07_19",
         "context_with_next_sentence": true
     },

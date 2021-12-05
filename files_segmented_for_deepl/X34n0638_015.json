@@ -2430,7 +2430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今為汝等說[宋木+取]實事。",
+        "source_sentence": "今為汝等說[宋-木+取]實事。",
         "from": "X34n0638_015:0516c02_19",
         "context_with_next_sentence": true
     },
@@ -5050,7 +5050,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一个買一个[飢几+蒸]餅。",
+        "source_sentence": "一个買一个[飢-几+蒸]餅。",
         "from": "X34n0638_015:0519a08_14",
         "context_with_next_sentence": true
     },
@@ -13265,7 +13265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而身先不[(厂@((既旡)日+口))*頁]自身。",
+        "source_sentence": "而身先不[(厂@((既-旡)-日+口))*頁]自身。",
         "from": "X34n0638_015:0525c01_26",
         "context_with_next_sentence": true
     },
@@ -29027,6 +29027,21 @@
     {
         "source_sentence": "法華經玄贊要集卷第十五",
         "from": "X34n0638_015:0539a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乾符六年冬溫州開元寺講大慈恩比丘弘舉傳寫供養。",
+        "from": "X34n0638_015:0539a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "承元二年三月二十一日書寫了。",
+        "from": "X34n0638_015:0539b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　凝圓　諸有書寫□□福　　後後勝善等流果　願此相續盡未來　　利益安樂諸含識",
+        "from": "X34n0638_015:0539b01_1",
         "context_with_next_sentence": false
     }
 ]

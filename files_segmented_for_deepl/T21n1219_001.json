@@ -397,6 +397,21 @@
     {
         "source_sentence": "焰摩德迦萬愛法一卷",
         "from": "T21n1219_001:0098a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "保元二年七月二十三日。",
+        "from": "T21n1219_001:0098a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於勸修寺西明院住房　一校了。",
+        "from": "T21n1219_001:0098a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　　　　　　僧智海",
+        "from": "T21n1219_001:0098a04_0",
         "context_with_next_sentence": false
     }
 ]

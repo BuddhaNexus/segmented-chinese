@@ -70,7 +70,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時有一天，光色倍常，來詣佛所，身光顯照，遍於祇洹，赫然大明，却坐一面，而說偈言：「若有賢善人，　　能具修慚愧，　譬如彼良馬，　　不為[怡台+龍]悷惡。」",
+        "source_sentence": "時有一天，光色倍常，來詣佛所，身光顯照，遍於祇洹，赫然大明，却坐一面，而說偈言：「若有賢善人，　　能具修慚愧，　譬如彼良馬，　　不為[怡-台+龍]悷惡。」",
         "from": "T02n0100_009:0435b09_1",
         "context_with_next_sentence": true
     },
@@ -1455,7 +1455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如力人以繩繫於弱劣者頭，[打丁+(稯禾)]搣掣頓，揉捺其頭，我患首疾，亦復如是。",
+        "source_sentence": "譬如力人以繩繫於弱劣者頭，[打-丁+(稯-禾)]搣掣頓，揉捺其頭，我患首疾，亦復如是。",
         "from": "T02n0100_009:0441b05_4",
         "context_with_next_sentence": true
     },
@@ -1730,7 +1730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如有力之人，以手[打丁+(稯禾)]搣無力者頭，揉捺牽掣，我患頭痛，亦復如是。",
+        "source_sentence": "譬如有力之人，以手[打-丁+(稯-禾)]搣無力者頭，揉捺牽掣，我患頭痛，亦復如是。",
         "from": "T02n0100_009:0442a24_6",
         "context_with_next_sentence": true
     },

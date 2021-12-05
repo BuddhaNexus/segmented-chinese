@@ -105,7 +105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "且使[卄/(辛*丸)/(衣〦)]近魔魅之。",
+        "source_sentence": "且使[卄/(辛*丸)/(衣-〦)]近魔魅之。",
         "from": "X75n1512_015:0181a10_0",
         "context_with_next_sentence": true
     },
@@ -2025,7 +2025,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "帝驚異[(厂@((既旡)日+口))*頁]謂左右曰聖人也。",
+        "source_sentence": "帝驚異[(厂@((既-旡)-日+口))*頁]謂左右曰聖人也。",
         "from": "X75n1512_015:0182c18_21",
         "context_with_next_sentence": true
     },
@@ -3110,7 +3110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "因追[書曰+皿]工授以形段圖于殿壁。",
+        "source_sentence": "因追[書-曰+皿]工授以形段圖于殿壁。",
         "from": "X75n1512_015:0183c10_5",
         "context_with_next_sentence": true
     },
@@ -4525,7 +4525,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "見一室繩床竹窗氣象蕭索。",
+        "source_sentence": "見一室繩床竹窻氣象蕭索。",
         "from": "X75n1512_015:0185a13_4",
         "context_with_next_sentence": true
     },

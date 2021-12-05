@@ -120,7 +120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　阿[合*牛]　密[口*栗](二合)　多　[合*牛]　[打丁+巿]　吒(半音)事事皆呪三遍或七遍。",
+        "source_sentence": "唵　阿[合*牛]　密[口*栗](二合)　多　[合*牛]　[打-丁+巿]　吒(半音)事事皆呪三遍或七遍。",
         "from": "T18n0913_001:0935a05_0",
         "context_with_next_sentence": true
     },
@@ -185,7 +185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "然後稱 吽字三聲。",
+        "source_sentence": "然後稱吽字三聲。",
         "from": "T18n0913_001:0935a12_8",
         "context_with_next_sentence": true
     },
@@ -220,7 +220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "次想 [口*藍]字焚殄世界。",
+        "source_sentence": "次想[口*藍]字焚殄世界。",
         "from": "T18n0913_001:0935a16_1",
         "context_with_next_sentence": true
     },
@@ -230,7 +230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "次想 唅字猶如黑風。",
+        "source_sentence": "次想唅字猶如黑風。",
         "from": "T18n0913_001:0935a17_1",
         "context_with_next_sentence": true
     },
@@ -240,7 +240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "次想 鑁字門。",
+        "source_sentence": "次想鑁字門。",
         "from": "T18n0913_001:0935a18_3",
         "context_with_next_sentence": true
     },
@@ -250,7 +250,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "復於其上想 蘇字門成妙高山。",
+        "source_sentence": "復於其上想蘇字門成妙高山。",
         "from": "T18n0913_001:0935a19_5",
         "context_with_next_sentence": true
     },
@@ -295,7 +295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "行列遍布矜羯羅網絞絡其間(謂帝釋綱皆是寶珠珠珠相射瑩映明徹)復觀 阿字成窣覩婆。",
+        "source_sentence": "行列遍布矜羯羅網絞絡其間(謂帝釋綱皆是寶珠珠珠相射瑩映明徹)復觀阿字成窣覩婆。",
         "from": "T18n0913_001:0935a24_3",
         "context_with_next_sentence": true
     },
@@ -675,7 +675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[序予+言]唐二兩。",
+        "source_sentence": "[序-予+言]唐二兩。",
         "from": "T18n0913_001:0935c16_7",
         "context_with_next_sentence": true
     },
@@ -1160,7 +1160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "火[合*牛]",
+        "source_sentence": "火[合*牛]供養儀軌",
         "from": "T18n0913_001:0936b22_0",
         "context_with_next_sentence": false
     }

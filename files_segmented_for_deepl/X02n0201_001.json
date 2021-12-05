@@ -225,7 +225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵半怛[仁二+坒]俐邪羅惹怛羅莎呵次說五大牛玉根本心印明。",
+        "source_sentence": "唵半怛[仁-二+坒]俐邪羅惹怛羅莎呵次說五大牛玉根本心印明。",
         "from": "X02n0201_001:0877a07_0",
         "context_with_next_sentence": true
     },
@@ -245,7 +245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵縛日羅[金*(离禸+ㄆ)]莎呵次金剛牛玉印明。",
+        "source_sentence": "唵縛日羅[金*(离-禸+ㄆ)]莎呵次金剛牛玉印明。",
         "from": "X02n0201_001:0877a10_0",
         "context_with_next_sentence": true
     },
@@ -625,7 +625,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵[金*(离禸+ㄆ)]吽怛羅(二合)訖里(二合)惡曳醯呬莎呵次軍吒利身印明。",
+        "source_sentence": "唵[金*(离-禸+ㄆ)]吽怛羅(二合)訖里(二合)惡曳醯呬莎呵次軍吒利身印明。",
         "from": "X02n0201_001:0877c03_0",
         "context_with_next_sentence": true
     },
@@ -820,7 +820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵[金*(离禸+ㄆ)]吽怛羅紇哩惡憾莎呵次結三昧耶印。",
+        "source_sentence": "唵[金*(离-禸+ㄆ)]吽怛羅紇哩惡憾莎呵次結三昧耶印。",
         "from": "X02n0201_001:0878a04_0",
         "context_with_next_sentence": true
     },
@@ -1177,6 +1177,51 @@
     {
         "source_sentence": "牛玉雨寶陀羅尼儀軌",
         "from": "X02n0201_001:0878b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慈智上人黑谷示之。",
+        "from": "X02n0201_001:0878b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此法極密故絕不流行。",
+        "from": "X02n0201_001:0878b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而慈覺大師在虗時。",
+        "from": "X02n0201_001:0878b15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為令此法令斷絕。",
+        "from": "X02n0201_001:0878b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖傳受之深隱心腑。",
+        "from": "X02n0201_001:0878b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不敢披露俱能知彼器。",
+        "from": "X02n0201_001:0878b17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可傳受之云云。",
+        "from": "X02n0201_001:0878b17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出自如意輪法中。",
+        "from": "X02n0201_001:0878b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文保三年正月三日　以不退寺入真房本於東南院院主坊書寫之了莫出竹木目底金剛資賴心(三十七二十二)",
+        "from": "X02n0201_001:0878b19_0",
         "context_with_next_sentence": false
     }
 ]

@@ -2505,7 +2505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "未知關[槴邑+大]子。",
+        "source_sentence": "未知關[槴-邑+大]子。",
         "from": "T51n2077_026:0645c28_22",
         "context_with_next_sentence": true
     },
@@ -2765,12 +2765,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三世諸佛六代祖師總出這圈[袖由+貴]不得。",
+        "source_sentence": "三世諸佛六代祖師總出這圈[袖-由+貴]不得。",
         "from": "T51n2077_026:0646a18_36",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如何是這圈[袖由+貴]。",
+        "source_sentence": "如何是這圈[袖-由+貴]。",
         "from": "T51n2077_026:0646a18_37",
         "context_with_next_sentence": true
     },
@@ -5912,6 +5912,41 @@
     {
         "source_sentence": "續傳燈錄卷第二十六",
         "from": "T51n2077_026:0649a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "續傳燈錄卷第二十七目錄",
+        "from": "T51n2077_026:0649a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大鑑下第十六世",
+        "from": "T51n2077_026:0649a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昭覺圓悟勤禪師法嗣上十六人",
+        "from": "T51n2077_026:0649a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "徑山宗杲禪師虎丘紹隆禪師",
+        "from": "T51n2077_026:0649a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "育王端裕禪師大溈法泰禪師",
+        "from": "T51n2077_026:0649a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "護國景元禪師",
+        "from": "T51n2077_026:0649a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "玄沙僧昭禪師(已上六人見錄)普照奉勝禪師虎丘宗達禪師正法化冲禪師清溪常禪師普慧因淨禪師天寧道成禪師寶相道智禪師長松曉禪師信相圓禪師九頂希問禪師(已上十人無錄)續傳燈錄卷第二十七目錄(終)",
+        "from": "T51n2077_026:0649a11_0",
         "context_with_next_sentence": false
     }
 ]

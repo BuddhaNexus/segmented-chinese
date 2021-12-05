@@ -650,7 +650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "氣殺曹州小[病丙+斯]兒。",
+        "source_sentence": "氣殺曹州小[病-丙+斯]兒。",
         "from": "X70n1403_003:0778b04_8",
         "context_with_next_sentence": true
     },
@@ -1295,7 +1295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]取窮徹骨。",
+        "source_sentence": "[拚-ㄙ+ㄊ]取窮徹骨。",
         "from": "X70n1403_003:0779a09_10",
         "context_with_next_sentence": true
     },
@@ -1310,7 +1310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更[拚ㄙ+ㄊ]取唇生醭。",
+        "source_sentence": "更[拚-ㄙ+ㄊ]取唇生醭。",
         "from": "X70n1403_003:0779a10_13",
         "context_with_next_sentence": true
     },

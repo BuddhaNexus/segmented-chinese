@@ -1015,7 +1015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "北面玻[王*(黍禾+利)]。",
+        "source_sentence": "北面玻[王*(黍-禾+利)]。",
         "from": "T53n2122_002:0278c14_8",
         "context_with_next_sentence": true
     },
@@ -2775,7 +2775,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如[聲耳+牛]牛乳頃以八味水潤澤普洽。",
+        "source_sentence": "如[聲-耳+牛]牛乳頃以八味水潤澤普洽。",
         "from": "T53n2122_002:0280c01_10",
         "context_with_next_sentence": true
     },

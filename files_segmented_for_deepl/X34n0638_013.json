@@ -4670,7 +4670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為一[口/(同(一/口)+古)]。",
+        "source_sentence": "為一[口/(同-(一/口)+古)]。",
         "from": "X34n0638_013:0469a18_8",
         "context_with_next_sentence": true
     },
@@ -4900,7 +4900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或從石作碼[石*(巢果+石)]。",
+        "source_sentence": "或從石作碼[石*(巢-果+石)]。",
         "from": "X34n0638_013:0469b08_18",
         "context_with_next_sentence": true
     },
@@ -15395,7 +15395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "汝何安樂[窱(ㄆ/木)+(唚口)]。",
+        "source_sentence": "汝何安樂[窱-(ㄆ/木)+(唚-口)]。",
         "from": "X34n0638_013:0477c02_22",
         "context_with_next_sentence": true
     },
@@ -27200,7 +27200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[副田+(扁戶)]者繼嗣。",
+        "source_sentence": "[副-田+(扁-戶)]者繼嗣。",
         "from": "X34n0638_013:0487b15_2",
         "context_with_next_sentence": true
     },

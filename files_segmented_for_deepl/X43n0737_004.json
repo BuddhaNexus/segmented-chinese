@@ -225,7 +225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遮中[嬗旦+示]房得殘即重。",
+        "source_sentence": "遮中[嬗-旦+示]房得殘即重。",
         "from": "X43n0737_004:0053c17_15",
         "context_with_next_sentence": true
     },
@@ -1575,7 +1575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是[利禾+湆]境。",
+        "source_sentence": "是[利-禾+湆]境。",
         "from": "X43n0737_004:0055a03_43",
         "context_with_next_sentence": true
     },
@@ -1890,7 +1890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+(耜耒)]之得知佛制之本懷。",
+        "source_sentence": "[打-丁+(耜-耒)]之得知佛制之本懷。",
         "from": "X43n0737_004:0055a21_9",
         "context_with_next_sentence": true
     },
@@ -2165,7 +2165,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皆載於簡冊故。",
+        "source_sentence": "皆載於簡&#;故。",
         "from": "X43n0737_004:0055b14_13",
         "context_with_next_sentence": true
     },
@@ -3605,7 +3605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦取登昇著望之[菧氐+里]。",
+        "source_sentence": "亦取登昇著望之[菧-氐+里]。",
         "from": "X43n0737_004:0056c01_1",
         "context_with_next_sentence": true
     },
@@ -11465,7 +11465,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以就唐之[肄聿+余]字。",
+        "source_sentence": "以就唐之[肄-聿+余]字。",
         "from": "X43n0737_004:0062c22_21",
         "context_with_next_sentence": true
     },
@@ -21370,7 +21370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "外國祇跋陀羅與此僧[泳永+徛](依音)譯(廣州竹林寺)摩得伽論十卷。",
+        "source_sentence": "外國祇跋陀羅與此僧[泳-永+徛](依音)譯(廣州竹林寺)摩得伽論十卷。",
         "from": "X43n0737_004:0070c02_3",
         "context_with_next_sentence": true
     },
@@ -26255,7 +26255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "可以載於簡冊。",
+        "source_sentence": "可以載於簡&#;。",
         "from": "X43n0737_004:0074c02_8",
         "context_with_next_sentence": true
     },
@@ -26307,6 +26307,11 @@
     {
         "source_sentence": "四分律鈔簡正記卷第四",
         "from": "X43n0737_004:0074c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吳越天長寺大德賜紫志貞(丁巳歲記)吳越國真身寺傳律沙門　靖安照遠丁巳歲記",
+        "from": "X43n0737_004:0074c10_0",
         "context_with_next_sentence": false
     }
 ]

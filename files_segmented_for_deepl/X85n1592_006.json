@@ -4730,7 +4730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "脫下衲衣痛與一頓　師舉雲門拈扇子[跳兆+孛]跳上三十三天築著帝釋鼻孔。",
+        "source_sentence": "脫下衲衣痛與一頓　師舉雲門拈扇子[跳-兆+孛]跳上三十三天築著帝釋鼻孔。",
         "from": "X85n1592_006:0332b10_0",
         "context_with_next_sentence": true
     },
@@ -11655,7 +11655,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "天陰沒處曬[晅旦+艮])進云。",
+        "source_sentence": "天陰沒處曬㫰)進云。",
         "from": "X85n1592_006:0337c02_11",
         "context_with_next_sentence": true
     },
@@ -12940,7 +12940,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "者畜生更[跳兆+孛]跳)師云。",
+        "source_sentence": "者畜生更[跳-兆+孛]跳)師云。",
         "from": "X85n1592_006:0338b12_7",
         "context_with_next_sentence": true
     },
@@ -15075,7 +15075,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時一僧[跳兆+孛]跳作舞而出。",
+        "source_sentence": "時一僧[跳-兆+孛]跳作舞而出。",
         "from": "X85n1592_006:0340a07_17",
         "context_with_next_sentence": true
     },
@@ -15440,7 +15440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "X85n1592_006:0340b08_6",
         "context_with_next_sentence": true
     },
@@ -15465,7 +15465,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳入一十八重地獄。",
+        "source_sentence": "扇子[跳-兆+孛]跳入一十八重地獄。",
         "from": "X85n1592_006:0340b09_11",
         "context_with_next_sentence": true
     },
@@ -15570,7 +15570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳。",
+        "source_sentence": "扇子[跳-兆+孛]跳。",
         "from": "X85n1592_006:0340b15_32",
         "context_with_next_sentence": true
     },
@@ -16235,7 +16235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師深肯之　舉天缽元。",
+        "source_sentence": "師深肯之　舉天盋元。",
         "from": "X85n1592_006:0341a09_16",
         "context_with_next_sentence": true
     },
@@ -18160,7 +18160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自後不得草草匆匆　師晚號夢隱道人。",
+        "source_sentence": "自後不得草草悤悤　師晚號夢隱道人。",
         "from": "X85n1592_006:0342b15_10",
         "context_with_next_sentence": true
     },
@@ -19362,6 +19362,11 @@
     {
         "source_sentence": "自無地可寄。",
         "from": "X85n1592_006:0343b09_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方纔胸次得安樂。",
+        "from": "X85n1592_006:0343b10_0",
         "context_with_next_sentence": false
     }
 ]

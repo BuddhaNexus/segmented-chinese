@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 四家語錄序",
+        "source_sentence": "四家語錄序",
         "from": "X69n1320_001:0001a03_0",
         "context_with_next_sentence": true
     },
@@ -515,7 +515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　　　毗陵唐鶴徵書 讀四家語錄引解君。",
+        "source_sentence": "　　　毗陵唐鶴徵書讀四家語錄引解君。",
         "from": "X69n1320_001:0001b05_6",
         "context_with_next_sentence": true
     },
@@ -700,7 +700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "萬曆丁未秋八一日　　　荊溪釋正傳書 刻四家語錄跋客有以四家語錄示者。",
+        "source_sentence": "萬曆丁未秋八一日　　　荊溪釋正傳書刻四家語錄跋客有以四家語錄示者。",
         "from": "X69n1320_001:0001b18_0",
         "context_with_next_sentence": true
     },
@@ -912,6 +912,16 @@
     {
         "source_sentence": "時",
         "from": "X69n1320_001:0001c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬曆己丑臘八日。",
+        "from": "X69n1320_001:0001c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "東安靜山居士　解寧　識",
+        "from": "X69n1320_001:0001c18_1",
         "context_with_next_sentence": false
     }
 ]

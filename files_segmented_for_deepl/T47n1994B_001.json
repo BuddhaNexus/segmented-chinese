@@ -520,7 +520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "喫飯去也。",
+        "source_sentence": "喫飰去也。",
         "from": "T47n1994B_001:0646b28_12",
         "context_with_next_sentence": true
     },
@@ -805,7 +805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大洋海裏[跳兆+孛]跳。",
+        "source_sentence": "大洋海裏[跳-兆+孛]跳。",
         "from": "T47n1994B_001:0646c17_5",
         "context_with_next_sentence": true
     },
@@ -1585,7 +1585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "露柱[跳兆+孛]跳。",
+        "source_sentence": "露柱[跳-兆+孛]跳。",
         "from": "T47n1994B_001:0647b05_12",
         "context_with_next_sentence": true
     },
@@ -1795,7 +1795,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爾乾[跳兆+孛]跳作什麼。",
+        "source_sentence": "爾乾[跳-兆+孛]跳作什麼。",
         "from": "T47n1994B_001:0647b16_21",
         "context_with_next_sentence": true
     },
@@ -3870,8 +3870,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "巧拙常現",
+        "source_sentence": "巧拙常現前。",
         "from": "T47n1994B_001:0648c28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勞君安寫邈。",
+        "from": "T47n1994B_001:0648c29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　楊岐方會和尚後錄(終)",
+        "from": "T47n1994B_001:0648c29_8",
         "context_with_next_sentence": false
     }
 ]

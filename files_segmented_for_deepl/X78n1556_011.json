@@ -1080,7 +1080,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "卒難摸[打丁+索]。",
+        "source_sentence": "卒難摸[打-丁+索]。",
         "from": "X78n1556_011:0706b23_30",
         "context_with_next_sentence": true
     },
@@ -2865,7 +2865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眉毛上[跳兆+孛]跳。",
+        "source_sentence": "眉毛上[跳-兆+孛]跳。",
         "from": "X78n1556_011:0707c09_29",
         "context_with_next_sentence": true
     },
@@ -5945,7 +5945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "浘[泳永+閭]水急。",
+        "source_sentence": "浘[泳-永+閭]水急。",
         "from": "X78n1556_011:0709c14_11",
         "context_with_next_sentence": true
     },
@@ -6330,7 +6330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任摸[打丁+索]。",
+        "source_sentence": "一任摸[打-丁+索]。",
         "from": "X78n1556_011:0710a08_29",
         "context_with_next_sentence": true
     },
@@ -7175,7 +7175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三人證龜成鱉。",
+        "source_sentence": "三人證龜成龞。",
         "from": "X78n1556_011:0710c04_3",
         "context_with_next_sentence": true
     },
@@ -8290,12 +8290,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師將坐具[打丁+慼]。",
+        "source_sentence": "師將坐具[打-丁+慼]。",
         "from": "X78n1556_011:0711b14_9",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一[打丁+慼]僧拍掌。",
+        "source_sentence": "一[打-丁+慼]僧拍掌。",
         "from": "X78n1556_011:0711b15_10",
         "context_with_next_sentence": true
     },
@@ -8305,7 +8305,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任[跳兆+孛]跳。",
+        "source_sentence": "一任[跳-兆+孛]跳。",
         "from": "X78n1556_011:0711b15_12",
         "context_with_next_sentence": true
     },
@@ -8345,7 +8345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[齒*(虎儿+且)]齖露齒。",
+        "source_sentence": "[齒*(虎-儿+且)]齖露齒。",
         "from": "X78n1556_011:0711b16_20",
         "context_with_next_sentence": true
     },

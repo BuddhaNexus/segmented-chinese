@@ -10315,7 +10315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以遠離[羇革+馬]縛業緣。",
+        "source_sentence": "以遠離[羇-革+馬]縛業緣。",
         "from": "X53n0846_001:0636a12_3",
         "context_with_next_sentence": true
     },
@@ -15597,6 +15597,11 @@
     {
         "source_sentence": "遺教經論記卷第一",
         "from": "X53n0846_001:0640a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貞應二年癸未七月二十四日於石水御房以新渡唐本書寫畢沙門賢辨法師生歲三十五歲正德壬辰二秊臘月十七日靈鷲峰龍興沙門元暉謹書於榮古堂中",
+        "from": "X53n0846_001:0640a07_0",
         "context_with_next_sentence": false
     }
 ]

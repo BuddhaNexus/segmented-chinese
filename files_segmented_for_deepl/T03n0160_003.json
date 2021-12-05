@@ -255,7 +255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時諸惡人奮力勇銳，執持利刀[利禾+(黎(暴(日/共))+小)]剖而去。",
+        "source_sentence": "時諸惡人奮力勇銳，執持利刀[利-禾+(黎-(暴-(日/共))+小)]剖而去。",
         "from": "T03n0160_003:0339b20_10",
         "context_with_next_sentence": true
     },
@@ -635,7 +635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時諸賈客各得還國，咸詣佛所稽首作禮，持彼海神所寄之物及己所施，長跪合掌白言：「世尊！",
+        "source_sentence": "時諸賈客各得還國，咸詣佛所[旃-方+示]首作禮，持彼海神所寄之物及己所施，長跪合掌白言：「世尊！",
         "from": "T03n0160_003:0340c28_5",
         "context_with_next_sentence": true
     },

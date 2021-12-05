@@ -3120,7 +3120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "阿梨(此云富有)那梨(此云調戲)[菟(色巴)+(〦一)]那梨(此云無戲)阿那盧(此云無量)那履(此云無富)拘那履(此云何富)持國說呪。",
+        "source_sentence": "阿梨(此云富有)那梨(此云調戲)[菟-(色-巴)+(〦-一)]那梨(此云無戲)阿那盧(此云無量)那履(此云無富)拘那履(此云何富)持國說呪。",
         "from": "T34n1721_012:0630b06_4",
         "context_with_next_sentence": true
     },
@@ -3837,6 +3837,41 @@
     {
         "source_sentence": "法華義疏卷第十二",
         "from": "T34n1721_012:0633a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自去永仁元至同三年送首尾三箇年之星霜，開《義疏》十二卷之印板訖，即就澄禪宗師之講肆事討論，因聚南都北嶺之舊疏，加刊定加以擇統略新選之相亂，紏文字點畫之紕繆，儻有宋本豈加旃新雕木聯爾哉！",
+        "from": "T34n1721_012:0633a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尚恐庸愚揆文，英賢察是。",
+        "from": "T34n1721_012:0633a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "風聞馬鳴、龍樹負貝葉於五天也，八不正觀之月獨輝震嶺，提婆羅睺灑法雨於三國也，絁待妙法之華盛薰金陵，從爾以降漢家本朝專弘此宗，異鄉邊方雖翫斯教，代屬末法鑽仰無人，時覃季澆書寫莫處。",
+        "from": "T34n1721_012:0633a15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗚呼從推古天皇御宇至當代七百餘年，相承僅傳、宗綱將亂，三論章疏一無印板。",
+        "from": "T34n1721_012:0633a20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爰素慶幸逢難逢大乘、忝聞難聞宏宗，宛似雪山上士為半偈兮投身，相同香城薩埵求般若兮灑血，冀結緣緇素同志兄弟早駕非三非一之妙乘、速到非近非遠之寶所。",
+        "from": "T34n1721_012:0633a22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殊當卷檀那清原氏女擬七，又逆修顯如，又妙理七世恩，所通自他三界群生豈差別，然則發破邪顯正之覺、成革凡入聖之粧也。",
+        "from": "T34n1721_012:0633a25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　都幹緣沙門　素慶虔跋　　　　　　再入宋桑門　慧海謹書　　　　　　雕刻諸人等　勝弘明眷　　　　　　　　　　　　　　父信　　　　　　　　　　　　伐祐快賢　　　　　　　　　　　　嚴順",
+        "from": "T34n1721_012:0633a29_0",
         "context_with_next_sentence": false
     }
 ]

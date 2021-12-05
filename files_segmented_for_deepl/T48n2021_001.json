@@ -180,7 +180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "迤[這言+里]至于蘷府何堂主庵。",
+        "source_sentence": "迤[這-言+里]至于蘷府何堂主庵。",
         "from": "T48n2021_001:1009c22_6",
         "context_with_next_sentence": true
     },
@@ -1195,7 +1195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "任其所往無可羈絆。",
+        "source_sentence": "任其所往無可覊絆。",
         "from": "T48n2021_001:1011a03_5",
         "context_with_next_sentence": true
     },
@@ -2625,7 +2625,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "至於行住坐臥著衣喫飯搬柴運水大小便利語默動靜折[打丁+(旋方)]俯仰迎賓待客苦樂逆順道在其中。",
+        "source_sentence": "至於行住坐臥著衣喫飯搬柴運水大小便利語默動靜折[打-丁+(旋-方)]俯仰迎賓待客苦樂逆順道在其中。",
         "from": "T48n2021_001:1012b27_2",
         "context_with_next_sentence": true
     },

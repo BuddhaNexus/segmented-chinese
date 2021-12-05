@@ -1190,7 +1190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "秦[仁二+矢]弔焉三號而出。",
+        "source_sentence": "秦[仁-二+矢]弔焉三號而出。",
         "from": "T52n2110_006:0526a12_3",
         "context_with_next_sentence": true
     },
@@ -1205,7 +1205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "秦[仁二+矢]曰。",
+        "source_sentence": "秦[仁-二+矢]曰。",
         "from": "T52n2110_006:0526a13_6",
         "context_with_next_sentence": true
     },
@@ -3000,7 +3000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "豈可[仁二+熏]鬻之小匠。",
+        "source_sentence": "豈可[仁-二+熏]鬻之小匠。",
         "from": "T52n2110_006:0527c18_9",
         "context_with_next_sentence": true
     },
@@ -5670,7 +5670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寄靈儀於銑[(沷乂+又)/金]。",
+        "source_sentence": "寄靈儀於銑[(沷-乂+又)/金]。",
         "from": "T52n2110_006:0530b15_1",
         "context_with_next_sentence": true
     },
@@ -9945,7 +9945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "偏裨以剪梟鏡。",
+        "source_sentence": "偏禆以剪梟鏡。",
         "from": "T52n2110_006:0534b10_5",
         "context_with_next_sentence": true
     },
@@ -10415,7 +10415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "人有災禍及無子者。",
+        "source_sentence": "人有災&#;及無子者。",
         "from": "T52n2110_006:0534c22_1",
         "context_with_next_sentence": true
     },

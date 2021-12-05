@@ -230,7 +230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "顯已盡人中扇[打丁+虎]半擇迦無形二形。",
+        "source_sentence": "顯已盡人中扇[打-丁+虎]半擇迦無形二形。",
         "from": "T27n1545_014:0066c29_9",
         "context_with_next_sentence": true
     },
@@ -1700,7 +1700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "八婆死瑟[打丁+虎]。",
+        "source_sentence": "八婆死瑟[打-丁+虎]。",
         "from": "T27n1545_014:0068b24_18",
         "context_with_next_sentence": true
     },
@@ -4620,8 +4620,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "說一切有部發智大毘婆沙論卷第十四",
+        "source_sentence": "說一切有部發智大毘婆沙論卷第十四此卷宋本第十六幅末。",
         "from": "T27n1545_014:0071c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "便不生瞋復次行者得(之下)所起名中(之上)脫他罵時便審觀察(乃至)依二十字四字等六十八行文今依二本足。",
+        "from": "T27n1545_014:0071c17_1",
         "context_with_next_sentence": false
     }
 ]

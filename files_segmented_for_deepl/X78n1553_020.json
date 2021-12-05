@@ -265,7 +265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "身披四[袖由+貴]衣　進云。",
+        "source_sentence": "身披四[袖-由+貴]衣　進云。",
         "from": "X78n1553_020:0518b21_3",
         "context_with_next_sentence": true
     },
@@ -700,7 +700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更[跳兆+孛]跳。",
+        "source_sentence": "更[跳-兆+孛]跳。",
         "from": "X78n1553_020:0519a04_11",
         "context_with_next_sentence": true
     },
@@ -1860,7 +1860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "松高人[悍干+夕]小。",
+        "source_sentence": "松高人[悍-干+夕]小。",
         "from": "X78n1553_020:0520a05_26",
         "context_with_next_sentence": true
     },
@@ -3565,7 +3565,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更[跳兆+孛]跳　師便打。",
+        "source_sentence": "更[跳-兆+孛]跳　師便打。",
         "from": "X78n1553_020:0521b20_2",
         "context_with_next_sentence": true
     },
@@ -4815,7 +4815,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "襴衫新翦無衣[袖由+貴]　進云。",
+        "source_sentence": "襴衫新翦無衣[袖-由+貴]　進云。",
         "from": "X78n1553_020:0522c07_0",
         "context_with_next_sentence": true
     },

@@ -760,7 +760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若能拔得。",
+        "source_sentence": "若能㧞得。",
         "from": "X87n1623_002:0237b14_11",
         "context_with_next_sentence": true
     },
@@ -945,7 +945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "行至[邱丘+共]亭湖廟。",
+        "source_sentence": "行至[邱-丘+共]亭湖廟。",
         "from": "X87n1623_002:0237c02_12",
         "context_with_next_sentence": true
     },
@@ -995,7 +995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今為[邱丘+共]亭神。",
+        "source_sentence": "今為[邱-丘+共]亭神。",
         "from": "X87n1623_002:0237c04_7",
         "context_with_next_sentence": true
     },
@@ -1070,7 +1070,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[邱丘+共]亭神已離惡形矣。",
+        "source_sentence": "[邱-丘+共]亭神已離惡形矣。",
         "from": "X87n1623_002:0237c09_11",
         "context_with_next_sentence": true
     },
@@ -6000,17 +6000,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "見僧[契大+石]道人。",
+        "source_sentence": "見僧[契-大+石]道人。",
         "from": "X87n1623_002:0242a09_4",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "忽喚[契大+石]名。",
+        "source_sentence": "忽喚[契-大+石]名。",
         "from": "X87n1623_002:0242a10_5",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[契大+石]曰童子何以呼宿老名。",
+        "source_sentence": "[契-大+石]曰童子何以呼宿老名。",
         "from": "X87n1623_002:0242a10_6",
         "context_with_next_sentence": true
     },
@@ -6035,7 +6035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[契大+石]初不憶之。",
+        "source_sentence": "[契-大+石]初不憶之。",
         "from": "X87n1623_002:0242a11_11",
         "context_with_next_sentence": true
     },
@@ -6055,7 +6055,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[契大+石]乃泣曰。",
+        "source_sentence": "[契-大+石]乃泣曰。",
         "from": "X87n1623_002:0242a13_15",
         "context_with_next_sentence": true
     },
@@ -6070,7 +6070,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[契大+石]為都講。",
+        "source_sentence": "[契-大+石]為都講。",
         "from": "X87n1623_002:0242a14_18",
         "context_with_next_sentence": true
     },
@@ -8185,7 +8185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "玄高入魏　帛遠□□(二字[蠹虫]滅。",
+        "source_sentence": "玄高入魏　帛遠□□(二字[蠹-虫]滅。",
         "from": "X87n1623_002:0243c23_0",
         "context_with_next_sentence": true
     },
@@ -9127,6 +9127,11 @@
     {
         "source_sentence": "釋氏蒙求(終)",
         "from": "X87n1623_002:0244c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大僧都釋　義空四擇　校訂",
+        "from": "X87n1623_002:0244c18_0",
         "context_with_next_sentence": false
     }
 ]

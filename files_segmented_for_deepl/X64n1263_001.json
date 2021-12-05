@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 禪林寶訓序",
+        "source_sentence": "禪林寶訓序",
         "from": "X64n1263_001:0468a03_0",
         "context_with_next_sentence": true
     },
@@ -220,7 +220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "崇禎甲申春　七十三衲如祐稽首拜錄 禪林寶訓合註序寶訓其來久矣。",
+        "source_sentence": "崇禎甲申春　七十三衲如祐稽首拜錄禪林寶訓合註序寶訓其來久矣。",
         "from": "X64n1263_001:0468a19_0",
         "context_with_next_sentence": true
     },
@@ -435,7 +435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "順治己丑年除夕前三日武林慧雲禪寺住持釋行盛譔 禪林寶訓合註敘古德有云。",
+        "source_sentence": "順治己丑年除夕前三日武林慧雲禪寺住持釋行盛譔禪林寶訓合註敘古德有云。",
         "from": "X64n1263_001:0468b18_0",
         "context_with_next_sentence": true
     },
@@ -935,7 +935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "庚寅夏日武林淨慧居士張文嘉仲嘉甫述 禪林寶訓序寶訓者。",
+        "source_sentence": "庚寅夏日武林淨慧居士張文嘉仲嘉甫述禪林寶訓序寶訓者。",
         "from": "X64n1263_001:0469a12_0",
         "context_with_next_sentence": true
     },
@@ -2615,7 +2615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "梁惠王魏侯[葷車+(卸ㄗ)]也。",
+        "source_sentence": "梁惠王魏侯[葷-車+(卸-ㄗ)]也。",
         "from": "X64n1263_001:0470c24_0",
         "context_with_next_sentence": true
     },
@@ -18247,6 +18247,61 @@
     {
         "source_sentence": "禪林寶訓合註卷第一",
         "from": "X64n1263_001:0485c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音切",
+        "from": "X64n1263_001:0485c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蠧丁護切　節子結切　葺七入切",
+        "from": "X64n1263_001:0485c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　裨補移切　澆公堯切　鴆除禁切",
+        "from": "X64n1263_001:0485c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　綈徒兮切　躄婢亦切　訾子爾切",
+        "from": "X64n1263_001:0485c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　邸都禮切　翮諧革切　倨九魚切",
+        "from": "X64n1263_001:0485c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　雘於縛切　猥於隗切　礪力制切",
+        "from": "X64n1263_001:0485c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　慊口恬切　諮子辭切　糅粈音",
+        "from": "X64n1263_001:0485c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　溽如屬切　蹙子六切　頞遏音",
+        "from": "X64n1263_001:0485c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　夯呼講切　窪烏華切　伎巨寄切",
+        "from": "X64n1263_001:0485c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　喆除列切　縑古廉切　骯口朗切",
+        "from": "X64n1263_001:0485c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　髒子朗切",
+        "from": "X64n1263_001:0485c15_0",
         "context_with_next_sentence": false
     }
 ]

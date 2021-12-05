@@ -605,7 +605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "索麵上堂。",
+        "source_sentence": "索麫上堂。",
         "from": "X69n1364_001:0653a01_0",
         "context_with_next_sentence": true
     },
@@ -615,7 +615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "觀引麵示之。",
+        "source_sentence": "觀引麫示之。",
         "from": "X69n1364_001:0653a01_2",
         "context_with_next_sentence": true
     },
@@ -2365,7 +2365,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "電光裡[跳兆+孛]跳。",
+        "source_sentence": "電光裡[跳-兆+孛]跳。",
         "from": "X69n1364_001:0654b08_1",
         "context_with_next_sentence": true
     },
@@ -4665,7 +4665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "(竪拂子云)拂子[跳兆+孛]跳。",
+        "source_sentence": "(竪拂子云)拂子[跳-兆+孛]跳。",
         "from": "X69n1364_001:0656b01_6",
         "context_with_next_sentence": true
     },
@@ -5245,7 +5245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一毫頭上[宋木+取]難逢。",
+        "source_sentence": "一毫頭上[宋-木+取]難逢。",
         "from": "X69n1364_001:0656c08_10",
         "context_with_next_sentence": true
     },
@@ -5430,7 +5430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "忽然[跳兆+孛]跳。",
+        "source_sentence": "忽然[跳-兆+孛]跳。",
         "from": "X69n1364_001:0656c18_6",
         "context_with_next_sentence": true
     },
@@ -5690,7 +5690,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眉毛上[跳兆+孛]跳。",
+        "source_sentence": "眉毛上[跳-兆+孛]跳。",
         "from": "X69n1364_001:0657a10_5",
         "context_with_next_sentence": true
     },
@@ -6860,7 +6860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "住箇菴兒[宋木+取]好嬉。",
+        "source_sentence": "住箇菴兒[宋-木+取]好嬉。",
         "from": "X69n1364_001:0657c24_2",
         "context_with_next_sentence": true
     },
@@ -7000,7 +7000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "住箇庵兒[宋木+取]孤絕。",
+        "source_sentence": "住箇庵兒[宋-木+取]孤絕。",
         "from": "X69n1364_001:0658a10_1",
         "context_with_next_sentence": true
     },
@@ -7330,7 +7330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爐中燒些木[打丁+費]。",
+        "source_sentence": "爐中燒些木[打-丁+費]。",
         "from": "X69n1364_001:0658b05_2",
         "context_with_next_sentence": true
     },
@@ -7690,7 +7690,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無分無曉[宋木+取]分明。",
+        "source_sentence": "無分無曉[宋-木+取]分明。",
         "from": "X69n1364_001:0658c01_11",
         "context_with_next_sentence": true
     },
@@ -9695,7 +9695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "入林[宋木+取]容易。",
+        "source_sentence": "入林[宋-木+取]容易。",
         "from": "X69n1364_001:0661b16_2",
         "context_with_next_sentence": true
     },
@@ -9937,6 +9937,16 @@
     {
         "source_sentence": "雲居卒菴和尚語錄卷(終)",
         "from": "X69n1364_001:0661c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(更有外集二卷。",
+        "from": "X69n1364_001:0661c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "板留東湖錢堰高路分宅)。",
+        "from": "X69n1364_001:0661c17_1",
         "context_with_next_sentence": false
     }
 ]

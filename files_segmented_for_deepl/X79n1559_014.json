@@ -135,7 +135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "東海鯉魚[跳兆+孛]跳上三十三天。",
+        "source_sentence": "東海鯉魚[跳-兆+孛]跳上三十三天。",
         "from": "X79n1559_014:0375a23_5",
         "context_with_next_sentence": true
     },
@@ -1195,7 +1195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+慼]拂子曰。",
+        "source_sentence": "[打-丁+慼]拂子曰。",
         "from": "X79n1559_014:0376a06_46",
         "context_with_next_sentence": true
     },
@@ -5030,7 +5030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "部使者大監榮公[薿(予(丁一))+(了(丁一))]以成都信相延之。",
+        "source_sentence": "部使者大監榮公[薿-(予-(丁-一))+(了-(丁-一))]以成都信相延之。",
         "from": "X79n1559_014:0378c03_6",
         "context_with_next_sentence": true
     },
@@ -8737,6 +8737,16 @@
     {
         "source_sentence": "嘉泰普燈錄卷第十四",
         "from": "X79n1559_014:0381b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_014:0381b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　[、/(、*、)]音伊　頵於倫切　挺音鋌　嶷魚力切　摵沙獲切　[車*度]音鐸　輅盧各切誤作轢　巵音支　厙音舍　謦去挺切　欬音慨　蒞音利　咀才與切　噍才笑切　菽音叔　匳音廉　鄮音茂　髀房禮切　嶠音轎　贅之芮切　瘳音抽　敞昌兩切　歆許金切　埵音朵　浚音峻　泝音素　薿音擬　卭渠容切　剜一九切　倜音剔　翥韋恕切　髯女監切",
+        "from": "X79n1559_014:0381b07_0",
         "context_with_next_sentence": false
     }
 ]

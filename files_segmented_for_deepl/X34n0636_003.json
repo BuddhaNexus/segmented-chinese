@@ -11820,7 +11820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故其足[跳兆+呂]。",
+        "source_sentence": "故其足[跳-兆+呂]。",
         "from": "X34n0636_003:0073b08_9",
         "context_with_next_sentence": true
     },
@@ -14015,7 +14015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "性經[跳兆+參]故。",
+        "source_sentence": "性經[跳-兆+參]故。",
         "from": "X34n0636_003:0075a12_34",
         "context_with_next_sentence": true
     },
@@ -21515,7 +21515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[刀*刀][彳*((起土+口)巳+右)]為[止*止]。",
+        "source_sentence": "[刀*刀][彳*((起-土+口)-巳+右)]為[止*止]。",
         "from": "X34n0636_003:0080c08_4",
         "context_with_next_sentence": true
     },
@@ -23910,7 +23910,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "按爾[冗几+(足口)]云。",
+        "source_sentence": "按爾[冗-几+(足-口)]云。",
         "from": "X34n0636_003:0082b18_1",
         "context_with_next_sentence": true
     },
@@ -26115,7 +26115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "疏[(毤八+ㄙ)毛+ㄆ]者。",
+        "source_sentence": "疏[(毤-八+ㄙ)-毛+ㄆ]者。",
         "from": "X34n0636_003:0084a11_0",
         "context_with_next_sentence": true
     },
@@ -26770,7 +26770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "與[虺兀+瓦]字同。",
+        "source_sentence": "與[虺-兀+瓦]字同。",
         "from": "X34n0636_003:0084b21_1",
         "context_with_next_sentence": true
     },
@@ -34220,7 +34220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "匱[迋土+(臾臼+曰)]也。",
+        "source_sentence": "匱[迋-土+(臾-臼+曰)]也。",
         "from": "X34n0636_003:0090a13_3",
         "context_with_next_sentence": true
     },
@@ -34255,7 +34255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "囊[迋土+(臾臼+曰)]而藏之。",
+        "source_sentence": "囊[迋-土+(臾-臼+曰)]而藏之。",
         "from": "X34n0636_003:0090a15_2",
         "context_with_next_sentence": true
     },
@@ -39860,7 +39860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何故疏言百穀甘蔗蒲桃。",
+        "source_sentence": "何故疏言百穀甘&#;蒲桃。",
         "from": "X34n0636_003:0094a20_3",
         "context_with_next_sentence": true
     },

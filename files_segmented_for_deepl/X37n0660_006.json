@@ -7100,12 +7100,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "天如圓[竺二+散]者(散音)。",
+        "source_sentence": "天如圓[竺-二+散]者(散音)。",
         "from": "X37n0660_006:0063c24_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[竺二+散]者葢也。",
+        "source_sentence": "[竺-二+散]者葢也。",
         "from": "X37n0660_006:0063c24_1",
         "context_with_next_sentence": true
     },
@@ -7200,7 +7200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "彗字(蘇醉反)字林([网(ㄨ*ㄨ)+又]苪反)。",
+        "source_sentence": "彗字(蘇醉反)字林([网-(ㄨ*ㄨ)+又]苪反)。",
         "from": "X37n0660_006:0064a09_1",
         "context_with_next_sentence": true
     },
@@ -11227,6 +11227,11 @@
     {
         "source_sentence": "天台涅槃疏私記卷第六(二末)",
         "from": "X37n0660_006:0069b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "承保四年夏五月二十八日一校已了二交已了",
+        "from": "X37n0660_006:0069b14_0",
         "context_with_next_sentence": false
     }
 ]

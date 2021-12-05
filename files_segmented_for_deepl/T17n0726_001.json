@@ -120,7 +120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　若人不饒益，　　當受多種形，　兩山夾其身，　　逼切復加[打丁+屑]。",
+        "source_sentence": "　若人不饒益，　　當受多種形，　兩山夾其身，　　逼切復加[打-丁+屑]。",
         "from": "T17n0726_001:0455c22_0",
         "context_with_next_sentence": true
     },

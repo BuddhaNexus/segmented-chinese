@@ -1810,7 +1810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如是至竟，心意不專，[怡台+(公/心)]恫不安。",
+        "source_sentence": "如是至竟，心意不專，[怡-台+(公/心)]恫不安。",
         "from": "T12n0362_002:0315c28_0",
         "context_with_next_sentence": true
     },
@@ -2150,7 +2150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "他方異國，第五佛，名樓波黎波蔡[跳兆+蔡]，其國有六百億菩薩，皆當往生阿彌陀佛國。",
+        "source_sentence": "他方異國，第五佛，名樓波黎波蔡[跳-兆+蔡]，其國有六百億菩薩，皆當往生阿彌陀佛國。",
         "from": "T12n0362_002:0317a22_36",
         "context_with_next_sentence": true
     },
@@ -2160,7 +2160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "他方異國，第七佛，名維黎波羅潘蔡[跳兆+蔡]，其國有十五菩薩，皆當往生阿彌陀佛國。",
+        "source_sentence": "他方異國，第七佛，名維黎波羅潘蔡[跳-兆+蔡]，其國有十五菩薩，皆當往生阿彌陀佛國。",
         "from": "T12n0362_002:0317a25_38",
         "context_with_next_sentence": true
     },
@@ -2180,12 +2180,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "他方異國，第十一佛，名和羅那惟于蔡[跳兆+蔡]，其國有萬二千菩薩，皆當往生阿彌陀佛國。",
+        "source_sentence": "他方異國，第十一佛，名和羅那惟于蔡[跳-兆+蔡]，其國有萬二千菩薩，皆當往生阿彌陀佛國。",
         "from": "T12n0362_002:0317b03_42",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "他方異國，第十二佛，名沸霸圖耶蔡，其國有諸菩薩，無央數不可復計，皆阿惟越致，皆智慧勇猛，各供養無央數諸佛，以一時俱心願欲往，皆當生阿彌陀佛國。",
+        "source_sentence": "他方異國，第十二佛，名沸覇圖耶蔡，其國有諸菩薩，無央數不可復計，皆阿惟越致，皆智慧勇猛，各供養無央數諸佛，以一時俱心願欲往，皆當生阿彌陀佛國。",
         "from": "T12n0362_002:0317b05_43",
         "context_with_next_sentence": true
     },

@@ -575,7 +575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "八字無兩[白日]。",
+        "source_sentence": "八字無兩[白-日]。",
         "from": "T48n2006_002:0307b06_1",
         "context_with_next_sentence": true
     },
@@ -6925,7 +6925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拄杖子[跳兆+孛]跳上天。",
+        "source_sentence": "拄杖子[跳-兆+孛]跳上天。",
         "from": "T48n2006_002:0313b03_12",
         "context_with_next_sentence": true
     },

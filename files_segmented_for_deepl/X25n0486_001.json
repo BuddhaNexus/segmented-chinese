@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 金剛經會解了義自敘",
+        "source_sentence": "金剛經會解了義自敘",
         "from": "X25n0486_001:0207a06_0",
         "context_with_next_sentence": true
     },
@@ -430,7 +430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "順治辛丑季春徐昌治覲周父書於大業堂中金剛經會解了義三藏法師　鳩摩羅什　原譯兄　徐從治肩虞父　徐光治孟[烈列+勛]父　仝訂無依道人徐昌治覲周父　纂男　徐升貞　徐乾貞　徐拱樞孫　徐頤貞　徐儲元　仝校金剛般若波羅蜜經金剛二字。",
+        "source_sentence": "順治辛丑季春徐昌治覲周父書於大業堂中金剛經會解了義三藏法師　鳩摩羅什　原譯兄　徐從治肩虞父　徐光治孟[烈-列+勛]父　仝訂無依道人徐昌治覲周父　纂男　徐升貞　徐乾貞　徐拱樞孫　徐頥貞　徐儲元　仝校金剛般若波羅蜜經金剛二字。",
         "from": "X25n0486_001:0207b07_0",
         "context_with_next_sentence": true
     },
@@ -19077,6 +19077,11 @@
     {
         "source_sentence": "宜於此處力加猛省。",
         "from": "X25n0486_001:0224c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛般若波羅蜜經(竟)",
+        "from": "X25n0486_001:0224c21_0",
         "context_with_next_sentence": false
     }
 ]

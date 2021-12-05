@@ -1345,7 +1345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以小心明加[打丁+(姊女)]字。",
+        "source_sentence": "以小心明加[打-丁+(姊-女)]字。",
         "from": "T20n1080_001:0190c08_7",
         "context_with_next_sentence": true
     },
@@ -1715,7 +1715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)賀佉理理(二)虎[合*牛](二合)[打丁+(姊女)](三)若洗浴訖。",
+        "source_sentence": "唵(一)賀佉理理(二)虎[合*牛](二合)[打-丁+(姊-女)](三)若洗浴訖。",
         "from": "T20n1080_001:0191b09_0",
         "context_with_next_sentence": true
     },
@@ -1765,7 +1765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "取水明三遍[泳永+截]灑衣服。",
+        "source_sentence": "取水明三遍[泳-永+截]灑衣服。",
         "from": "T20n1080_001:0191b16_1",
         "context_with_next_sentence": true
     },
@@ -1925,7 +1925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)入縛(二合)攞囊野(二)虎[合*牛](二合)[打丁+(姊女)](三)又作前護身印明印三遍。",
+        "source_sentence": "唵(一)入縛(二合)攞囊野(二)虎[合*牛](二合)[打-丁+(姊-女)](三)又作前護身印明印三遍。",
         "from": "T20n1080_001:0191c11_0",
         "context_with_next_sentence": true
     },
@@ -3275,7 +3275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "加牛五淨[泳永+截]灑藥上。",
+        "source_sentence": "加牛五淨[泳-永+截]灑藥上。",
         "from": "T20n1080_001:0194a03_22",
         "context_with_next_sentence": true
     },

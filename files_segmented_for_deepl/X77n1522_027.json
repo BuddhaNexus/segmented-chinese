@@ -1870,7 +1870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蜀郡[郫卑+((白日+田)/廾)]人也。",
+        "source_sentence": "蜀郡[郫-卑+((白-日+田)/廾)]人也。",
         "from": "X77n1522_027:0310a04_1",
         "context_with_next_sentence": true
     },
@@ -3185,7 +3185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "出家居人頭山銜草寺。",
+        "source_sentence": "出家居人頭山&#;草寺。",
         "from": "X77n1522_027:0311a05_1",
         "context_with_next_sentence": true
     },
@@ -3225,7 +3225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今日北方山荏縣人頭山銜草寺。",
+        "source_sentence": "今日北方山荏縣人頭山&#;草寺。",
         "from": "X77n1522_027:0311a08_9",
         "context_with_next_sentence": true
     },
@@ -4240,7 +4240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "禪學於[葸十+夕]嶺迤東。",
+        "source_sentence": "禪學於[葸-十+夕]嶺迤東。",
         "from": "X77n1522_027:0311c18_0",
         "context_with_next_sentence": true
     },
@@ -6895,12 +6895,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "久之[郫卑+((白日+田)/廾)]縣人。",
+        "source_sentence": "久之[郫-卑+((白-日+田)/廾)]縣人。",
         "from": "X77n1522_027:0313c13_11",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於[郫卑+((白日+田)/廾)]江邊。",
+        "source_sentence": "於[郫-卑+((白-日+田)/廾)]江邊。",
         "from": "X77n1522_027:0313c13_12",
         "context_with_next_sentence": true
     },
@@ -8775,7 +8775,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即出臂窗中。",
+        "source_sentence": "即出臂窻中。",
         "from": "X77n1522_027:0315a24_13",
         "context_with_next_sentence": true
     },

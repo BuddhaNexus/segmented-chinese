@@ -1205,7 +1205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "虗空[跳兆+孛]跳須彌舞。",
+        "source_sentence": "虗空[跳-兆+孛]跳須彌舞。",
         "from": "X70n1396_002:0587b19_2",
         "context_with_next_sentence": true
     },
@@ -1630,7 +1630,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "山蠻杜[仁二+(ㄠ*刀)]全不改。",
+        "source_sentence": "山蠻杜[仁-二+(ㄠ*刀)]全不改。",
         "from": "X70n1396_002:0588a09_4",
         "context_with_next_sentence": true
     },
@@ -2830,7 +2830,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鳥不銜花事悄然。",
+        "source_sentence": "鳥不&#;花事悄然。",
         "from": "X70n1396_002:0589b08_0",
         "context_with_next_sentence": true
     },
@@ -5305,8 +5305,958 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "妙明真覺無見覩和尚住華頂善興禪寺語錄卷下",
+        "source_sentence": "妙明真覺無見覩和尚住華頂善興禪寺語錄卷下無見覩和尚塔銘(并序)天台山景德國清禪寺佛真文懿大師曇噩撰至元大德間。",
         "from": "X70n1396_002:0591c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無見覩禪師。",
+        "from": "X70n1396_002:0592a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以方山寶公之道唱東南。",
+        "from": "X70n1396_002:0592a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於是天下英儁之儔。",
+        "from": "X70n1396_002:0592a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "高潔之侶。",
+        "from": "X70n1396_002:0592a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雄豪魁傑之士聞其風而神馳。",
+        "from": "X70n1396_002:0592a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覯其跡而心服。",
+        "from": "X70n1396_002:0592a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫不雜肩屩足。",
+        "from": "X70n1396_002:0592a08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忍饑渴。",
+        "from": "X70n1396_002:0592a08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "冐寒暑。",
+        "from": "X70n1396_002:0592a08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "形駢影屬。",
+        "from": "X70n1396_002:0592a09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以趨座下。",
+        "from": "X70n1396_002:0592a09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪師則煦之嫗之。",
+        "from": "X70n1396_002:0592a09_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又從而呵怒之。",
+        "from": "X70n1396_002:0592a09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "憑之凌之。",
+        "from": "X70n1396_002:0592a10_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又從而撫矜之。",
+        "from": "X70n1396_002:0592a10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "飛而上則繒繳之。",
+        "from": "X70n1396_002:0592a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "走而下則網罟之。",
+        "from": "X70n1396_002:0592a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾惟其得而已。",
+        "from": "X70n1396_002:0592a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於弋[木*豕]之勤奚恤。",
+        "from": "X70n1396_002:0592a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金之鍛也器成。",
+        "from": "X70n1396_002:0592a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "木之斵也材就。",
+        "from": "X70n1396_002:0592a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宜其棄榮華而甘澹泊。",
+        "from": "X70n1396_002:0592a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黜聰明而返淳朴。",
+        "from": "X70n1396_002:0592a13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靡然而就弟子之列。",
+        "from": "X70n1396_002:0592a13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫之牴牾也。",
+        "from": "X70n1396_002:0592a13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪師諱先覩。",
+        "from": "X70n1396_002:0592a14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "字無見。",
+        "from": "X70n1396_002:0592a14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "姓葉氏。",
+        "from": "X70n1396_002:0592a14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世為天台仙居顯族。",
+        "from": "X70n1396_002:0592a14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以宋之咸淳乙丑五月六日生。",
+        "from": "X70n1396_002:0592a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　皇之元統甲戌五月二日卒。",
+        "from": "X70n1396_002:0592a15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壽七十。",
+        "from": "X70n1396_002:0592a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "臘五十。",
+        "from": "X70n1396_002:0592a16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即以卒之九日茶毗。",
+        "from": "X70n1396_002:0592a16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而瘞其舍利塔於寺之西偏五十步。",
+        "from": "X70n1396_002:0592a16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗚呼。",
+        "from": "X70n1396_002:0592a17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪師其果亡乎。",
+        "from": "X70n1396_002:0592a17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其有不可亡者乎。",
+        "from": "X70n1396_002:0592a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪師資性秀頴。",
+        "from": "X70n1396_002:0592a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幼絕腥醲。",
+        "from": "X70n1396_002:0592a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗜讀書。",
+        "from": "X70n1396_002:0592a18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "過目成誦。",
+        "from": "X70n1396_002:0592a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "父母素期以儒業起家。",
+        "from": "X70n1396_002:0592a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "會沙門東州善公者。",
+        "from": "X70n1396_002:0592a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "過而識之曰。",
+        "from": "X70n1396_002:0592a20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此法器。",
+        "from": "X70n1396_002:0592a20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宜毋滯鄉里。",
+        "from": "X70n1396_002:0592a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "率敬信善許諾。",
+        "from": "X70n1396_002:0592a20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "逮冠從古田垕和尚。",
+        "from": "X70n1396_002:0592a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "薙染於郡之天寧。",
+        "from": "X70n1396_002:0592a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既具戒俾歸侍司。",
+        "from": "X70n1396_002:0592a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尤旦夕以此道加策進。",
+        "from": "X70n1396_002:0592a22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪師即事徧參。",
+        "from": "X70n1396_002:0592a22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見藏室珍公於天封。",
+        "from": "X70n1396_002:0592a22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方山寶公於瑞岩西菴。",
+        "from": "X70n1396_002:0592a23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而往來二公間。",
+        "from": "X70n1396_002:0592a23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖有所契。",
+        "from": "X70n1396_002:0592a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未臻其極。",
+        "from": "X70n1396_002:0592a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂築室華頂。",
+        "from": "X70n1396_002:0592a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "精苦自勵。",
+        "from": "X70n1396_002:0592a24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一日作務次。",
+        "from": "X70n1396_002:0592a24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "渙然發省。",
+        "from": "X70n1396_002:0592b01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "平生凝滯。",
+        "from": "X70n1396_002:0592b01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當下氷釋。",
+        "from": "X70n1396_002:0592b01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃走西菴呈所解。",
+        "from": "X70n1396_002:0592b01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "山以偈印之。",
+        "from": "X70n1396_002:0592b02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辭還峯頂。",
+        "from": "X70n1396_002:0592b02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "山不能留也。",
+        "from": "X70n1396_002:0592b02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且華頂之勝。",
+        "from": "X70n1396_002:0592b02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自智者顗大寂韶高菴悟諸鉅公。",
+        "from": "X70n1396_002:0592b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以徽名懿德賁泉石。",
+        "from": "X70n1396_002:0592b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而天子之尊。",
+        "from": "X70n1396_002:0592b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王公將相之貴。",
+        "from": "X70n1396_002:0592b04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必詔問法要。",
+        "from": "X70n1396_002:0592b04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "躬禮慈容。",
+        "from": "X70n1396_002:0592b04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日馳軺騁。",
+        "from": "X70n1396_002:0592b05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "驛致香幣。",
+        "from": "X70n1396_002:0592b05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使者冠葢旁午。",
+        "from": "X70n1396_002:0592b05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然其地高寒幽僻。",
+        "from": "X70n1396_002:0592b05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人莫能久處。",
+        "from": "X70n1396_002:0592b06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟禪師一坐四十年。",
+        "from": "X70n1396_002:0592b06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "足未嘗輒閱戶限。",
+        "from": "X70n1396_002:0592b06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其拈提開示勘辨之辭。",
+        "from": "X70n1396_002:0592b07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌偈蕳牘之筆。",
+        "from": "X70n1396_002:0592b07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誠般若之餘膏。",
+        "from": "X70n1396_002:0592b07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "涅槃之賸馥也。",
+        "from": "X70n1396_002:0592b08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方近騰遠播。",
+        "from": "X70n1396_002:0592b08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖販夫竈婦之愚。",
+        "from": "X70n1396_002:0592b08_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入之耳而出之口。",
+        "from": "X70n1396_002:0592b09_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶將薰其風裁。",
+        "from": "X70n1396_002:0592b09_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "飱其義味。",
+        "from": "X70n1396_002:0592b09_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "況虗靈之器。",
+        "from": "X70n1396_002:0592b09_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "警拔之機。",
+        "from": "X70n1396_002:0592b10_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "神領意會其妙於文身句身之表乎。",
+        "from": "X70n1396_002:0592b10_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故錄而集之。",
+        "from": "X70n1396_002:0592b11_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以貽永久。",
+        "from": "X70n1396_002:0592b11_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "茲不復一二贅舉。",
+        "from": "X70n1396_002:0592b11_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其妙明真覺之號。",
+        "from": "X70n1396_002:0592b11_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寂光之塔。",
+        "from": "X70n1396_002:0592b12_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "葢　上所賜也。",
+        "from": "X70n1396_002:0592b12_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "銘曰。",
+        "from": "X70n1396_002:0592b12_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "華頂之峯。",
+        "from": "X70n1396_002:0592b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嶄絕空碧。",
+        "from": "X70n1396_002:0592b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下闞滄溟。",
+        "from": "X70n1396_002:0592b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "澒洞潮汐。",
+        "from": "X70n1396_002:0592b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如楞伽于海中。",
+        "from": "X70n1396_002:0592b13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛徇機而遊入。",
+        "from": "X70n1396_002:0592b14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誕闡教乘。",
+        "from": "X70n1396_002:0592b14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰心曰識。",
+        "from": "X70n1396_002:0592b14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "識乃心之資。",
+        "from": "X70n1396_002:0592b14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心乃識之質。",
+        "from": "X70n1396_002:0592b15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三界宛爾而存。",
+        "from": "X70n1396_002:0592b15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬法樅然而立。",
+        "from": "X70n1396_002:0592b15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心於三界其本。",
+        "from": "X70n1396_002:0592b15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "識於萬法其迹。",
+        "from": "X70n1396_002:0592b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "苟本泯而迹亡。",
+        "from": "X70n1396_002:0592b16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "肆識空而心寂。",
+        "from": "X70n1396_002:0592b16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "達磨西來弗作而述。",
+        "from": "X70n1396_002:0592b17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "子孫詵詵虎丘孔碩。",
+        "from": "X70n1396_002:0592b17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "茲無見之是承。",
+        "from": "X70n1396_002:0592b17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "透金圈而吞栗棘。",
+        "from": "X70n1396_002:0592b18_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "楞伽之指于焉以塞。",
+        "from": "X70n1396_002:0592b18_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "達磨之傳于焉以得。",
+        "from": "X70n1396_002:0592b18_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斯華頂於世間獨崢嶸而高出。",
+        "from": "X70n1396_002:0592b19_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "會得西菴轉身句。",
+        "from": "X70n1396_002:0592b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十方世界無蹲坐處。",
+        "from": "X70n1396_002:0592b23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四十餘年華頂峯。",
+        "from": "X70n1396_002:0592b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖不下山教化眾生。",
+        "from": "X70n1396_002:0592b24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而道行世間。",
+        "from": "X70n1396_002:0592b24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖不開談玄之口。",
+        "from": "X70n1396_002:0592b24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而話在諸方。",
+        "from": "X70n1396_002:0592c01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "門人集此錄。",
+        "from": "X70n1396_002:0592c01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "刻舟記劍耳。",
+        "from": "X70n1396_002:0592c01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "閱是錄者。",
+        "from": "X70n1396_002:0592c01_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂此是法語小參偈頌。",
+        "from": "X70n1396_002:0592c02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夏蟲不可與語氷。",
+        "from": "X70n1396_002:0592c02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住天台萬年法弟了達題。",
+        "from": "X70n1396_002:0592c02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佩聵祖無口刀。",
+        "from": "X70n1396_002:0592c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大坐華頂一峯。",
+        "from": "X70n1396_002:0592c07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "戒檢精嚴。",
+        "from": "X70n1396_002:0592c07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "機語深穩。",
+        "from": "X70n1396_002:0592c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有回石頭不下釣魚山風軌。",
+        "from": "X70n1396_002:0592c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無見之見由是洞然明白。",
+        "from": "X70n1396_002:0592c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂余不信。",
+        "from": "X70n1396_002:0592c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "試以此錄驗焉。",
+        "from": "X70n1396_002:0592c09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元統閼逢閹茂八月上吉。",
+        "from": "X70n1396_002:0592c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雙徑山主元叟行端跋。",
+        "from": "X70n1396_002:0592c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無見覩和尚語錄跋",
+        "from": "X70n1396_002:0592c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當胡元之末。",
+        "from": "X70n1396_002:0592c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中華法道尚盛于吳浙間。",
+        "from": "X70n1396_002:0592c15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知識輩出。",
+        "from": "X70n1396_002:0592c15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各踞雄席。",
+        "from": "X70n1396_002:0592c15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "交振化聲。",
+        "from": "X70n1396_002:0592c16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時無見覩公高遁天台華頂。",
+        "from": "X70n1396_002:0592c16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四十年影不出山。",
+        "from": "X70n1396_002:0592c16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中峰本公菴居天目。",
+        "from": "X70n1396_002:0592c17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸方爭請而不應。",
+        "from": "X70n1396_002:0592c17_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道風並峻。",
+        "from": "X70n1396_002:0592c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敻古鮮儔。",
+        "from": "X70n1396_002:0592c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以故天下指為二甘露門。",
+        "from": "X70n1396_002:0592c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "湖海玄學之士。",
+        "from": "X70n1396_002:0592c18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嚮風趨慕。",
+        "from": "X70n1396_002:0592c19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "只恐其後。",
+        "from": "X70n1396_002:0592c19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至我日域求法之侶。",
+        "from": "X70n1396_002:0592c19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫不航海梯山。",
+        "from": "X70n1396_002:0592c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願一瞻禮。",
+        "from": "X70n1396_002:0592c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吁。",
+        "from": "X70n1396_002:0592c20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道德感人乃如是耶。",
+        "from": "X70n1396_002:0592c20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "逮乎明季。",
+        "from": "X70n1396_002:0592c20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸家法脉悉皆斷絕。",
+        "from": "X70n1396_002:0592c21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯有二翁雲仍繩繩如綫。",
+        "from": "X70n1396_002:0592c21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得非源遠而流長者乎。",
+        "from": "X70n1396_002:0592c22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余嘗憾中峯廣錄梓行已久。",
+        "from": "X70n1396_002:0592c22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獨無見語要未見傳世。",
+        "from": "X70n1396_002:0592c23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殊為缺典。",
+        "from": "X70n1396_002:0592c23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頃撿續藏中。",
+        "from": "X70n1396_002:0592c23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獲睹其錄。",
+        "from": "X70n1396_002:0592c23_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正如陰晦長夜忽見夜光之珠。",
+        "from": "X70n1396_002:0592c24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其喜可勝言哉。",
+        "from": "X70n1396_002:0592c24_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且其語簡古超邁。",
+        "from": "X70n1396_002:0593a01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "足以開發學者。",
+        "from": "X70n1396_002:0593a01_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及閱山居諸篇。",
+        "from": "X70n1396_002:0593a01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一皆從真參實踐中渾然流出。",
+        "from": "X70n1396_002:0593a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "固非韻人高士可以擬厥萬一者也。",
+        "from": "X70n1396_002:0593a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亟宜綉梨以垂將來。",
+        "from": "X70n1396_002:0593a03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倘樂道忘勢頂門具眼者覽之。",
+        "from": "X70n1396_002:0593a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "焉得不重為至寶歟。",
+        "from": "X70n1396_002:0593a04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "旹延寶甲寅歲仲夏月。",
+        "from": "X70n1396_002:0593a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後學峩山沙門道澄月潭和。",
+        "from": "X70n1396_002:0593a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南敬跋。",
+        "from": "X70n1396_002:0593a06_0",
         "context_with_next_sentence": false
     }
 ]

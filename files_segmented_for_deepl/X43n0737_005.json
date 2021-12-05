@@ -155,7 +155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "還發[(雨/(並(前刖)+二))*(號虎)]光瀉裨未足。",
+        "source_sentence": "還發[(雨/(並-(前-刖)+二))*(號-虎)]光瀉裨未足。",
         "from": "X43n0737_005:0075a03_11",
         "context_with_next_sentence": true
     },
@@ -1560,7 +1560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "良由非法無以[咶古+尢]其義者。",
+        "source_sentence": "良由非法無以[咶-古+尢]其義者。",
         "from": "X43n0737_005:0076a10_7",
         "context_with_next_sentence": true
     },
@@ -4380,7 +4380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "前八法九法七[ㄐ*((巨匚)/又)]我門之類。",
+        "source_sentence": "前八法九法七[ㄐ*((巨-匚)/又)]我門之類。",
         "from": "X43n0737_005:0078b05_1",
         "context_with_next_sentence": true
     },
@@ -5290,7 +5290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此[ㄐ*((巨匚)/又)]鈔文是重。",
+        "source_sentence": "此[ㄐ*((巨-匚)/又)]鈔文是重。",
         "from": "X43n0737_005:0079a10_37",
         "context_with_next_sentence": true
     },
@@ -12180,7 +12180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若不觀心慧[跳兆+參]動。",
+        "source_sentence": "若不觀心慧[跳-兆+參]動。",
         "from": "X43n0737_005:0084b16_10",
         "context_with_next_sentence": true
     },
@@ -13290,7 +13290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不[收ㄆ+喜]近破戒有二犯臰。",
+        "source_sentence": "不[收-ㄆ+喜]近破戒有二犯臰。",
         "from": "X43n0737_005:0085b06_2",
         "context_with_next_sentence": true
     },
@@ -16325,7 +16325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "王尋患[病丙+虎]。",
+        "source_sentence": "王尋患[病-丙+虎]。",
         "from": "X43n0737_005:0088a15_41",
         "context_with_next_sentence": true
     },
@@ -22260,7 +22260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如受人懺罪[怡台+赤]名入法。",
+        "source_sentence": "如受人懺罪[怡-台+赤]名入法。",
         "from": "X43n0737_005:0092c23_17",
         "context_with_next_sentence": true
     },
@@ -26050,7 +26050,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[山/(咢二+一)]記云。",
+        "source_sentence": "[山/(咢-二+一)]記云。",
         "from": "X43n0737_005:0095c23_42",
         "context_with_next_sentence": true
     },
@@ -41060,7 +41060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又迴[(厂@((既旡)日+口))*頁]不見前來起心處。",
+        "source_sentence": "又迴[(厂@((既-旡)-日+口))*頁]不見前來起心處。",
         "from": "X43n0737_005:0107c03_98",
         "context_with_next_sentence": true
     },
@@ -41845,7 +41845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[這言+(序予+手)]中不失。",
+        "source_sentence": "[這-言+(序-予+手)]中不失。",
         "from": "X43n0737_005:0108a24_7",
         "context_with_next_sentence": true
     },
@@ -41855,7 +41855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "簷下[這言+(序予+手)]中。",
+        "source_sentence": "簷下[這-言+(序-予+手)]中。",
         "from": "X43n0737_005:0108a24_9",
         "context_with_next_sentence": true
     },
@@ -43427,6 +43427,21 @@
     {
         "source_sentence": "四分律鈔簡正記卷第五",
         "from": "X43n0737_005:0109b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吳越國天長寺長講律臨壇崇福普濟戒光大德賜紫(志貞)寫此記。",
+        "from": "X43n0737_005:0109b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故記焉。",
+        "from": "X43n0737_005:0109b20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "丁巳歲。",
+        "from": "X43n0737_005:0109b20_2",
         "context_with_next_sentence": false
     }
 ]

@@ -285,7 +285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵莊叶都羅縛[棣木+齒]縛[棣木+齒]都禁縛禁嚩惡惡十羅剎形樣　藍婆形如藥叉。",
+        "source_sentence": "唵莊叶都羅縛[棣-木+齒]縛[棣-木+齒]都禁縛禁嚩惡惡十羅剎形樣　藍婆形如藥叉。",
         "from": "T21n1292_001:0377b20_0",
         "context_with_next_sentence": true
     },
@@ -572,6 +572,11 @@
     {
         "source_sentence": "九唵百帝百帝真陀莎呵",
         "from": "T21n1292_001:0378a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十唵室里鉢里可毘羅帝莎呵",
+        "from": "T21n1292_001:0378a07_0",
         "context_with_next_sentence": false
     }
 ]

@@ -2235,7 +2235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "藏臣惶恐即以兩手[打丁+毛]攪水中。",
+        "source_sentence": "藏臣惶恐即以兩手[打-丁+毛]攪水中。",
         "from": "T27n1545_150:0767a09_0",
         "context_with_next_sentence": true
     },
@@ -2760,7 +2760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "彼洲無有扇[打丁+虎]半擇迦無形二形。",
+        "source_sentence": "彼洲無有扇[打-丁+虎]半擇迦無形二形。",
         "from": "T27n1545_150:0767c05_1",
         "context_with_next_sentence": true
     },
@@ -3582,6 +3582,11 @@
     {
         "source_sentence": "是謂遍知作證差別。",
         "from": "T27n1545_150:0768b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說一切有部發智大毘婆沙論卷第一百五十",
+        "from": "T27n1545_150:0768b18_0",
         "context_with_next_sentence": false
     }
 ]

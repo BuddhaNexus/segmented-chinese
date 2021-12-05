@@ -16935,7 +16935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而有不會攝大乘意妄□非[序予+干]深不可依。",
+        "source_sentence": "而有不會攝大乘意妄□非[序-予+干]深不可依。",
         "from": "T85n2814_005:1172c18_4",
         "context_with_next_sentence": true
     },
@@ -18172,6 +18172,11 @@
     {
         "source_sentence": "大乘起信論廣釋品第五",
         "from": "T85n2814_005:1174a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大曆八年六月十七日　齊奉道寫",
+        "from": "T85n2814_005:1174a18_0",
         "context_with_next_sentence": false
     }
 ]

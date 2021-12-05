@@ -705,7 +705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以法無[得彳]智。",
+        "source_sentence": "以法無[得-彳]智。",
         "from": "X55n0902_001:0490b22_2",
         "context_with_next_sentence": true
     },
@@ -715,7 +715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以義無[得彳]智。",
+        "source_sentence": "以義無[得-彳]智。",
         "from": "X55n0902_001:0490b23_4",
         "context_with_next_sentence": true
     },
@@ -725,7 +725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以辭無[得彳]智。",
+        "source_sentence": "以辭無[得-彳]智。",
         "from": "X55n0902_001:0490b24_6",
         "context_with_next_sentence": true
     },
@@ -2470,7 +2470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[宋木+取]為勝故。",
+        "source_sentence": "[宋-木+取]為勝故。",
         "from": "X55n0902_001:0491c19_71",
         "context_with_next_sentence": true
     },
@@ -2485,7 +2485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大乘得至究竟[宋木+取]勝名一。",
+        "source_sentence": "大乘得至究竟[宋-木+取]勝名一。",
         "from": "X55n0902_001:0491c19_74",
         "context_with_next_sentence": true
     },
@@ -4025,7 +4025,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自性成[聲耳+卵]。",
+        "source_sentence": "自性成[聲-耳+卵]。",
         "from": "X55n0902_001:0493a05_24",
         "context_with_next_sentence": true
     },
@@ -4330,7 +4330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無相無[得彳]智等。",
+        "source_sentence": "無相無[得-彳]智等。",
         "from": "X55n0902_001:0493a18_33",
         "context_with_next_sentence": true
     },

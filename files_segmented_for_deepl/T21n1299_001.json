@@ -1715,7 +1715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "食蜜[飢几+少]糖稻穀華及乳粥。",
+        "source_sentence": "食蜜[飢-几+少]糖稻穀華及乳粥。",
         "from": "T21n1299_001:0389a14_4",
         "context_with_next_sentence": true
     },
@@ -2715,7 +2715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "食蜜[飢几+少]稻花。",
+        "source_sentence": "食蜜[飢-几+少]稻花。",
         "from": "T21n1299_001:0390a09_4",
         "context_with_next_sentence": true
     },
@@ -3285,7 +3285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "食肉及飲[飢几+少]。",
+        "source_sentence": "食肉及飲[飢-几+少]。",
         "from": "T21n1299_001:0390b25_4",
         "context_with_next_sentence": true
     },
@@ -5922,6 +5922,11 @@
     {
         "source_sentence": "學戒善事求法大吉。",
         "from": "T21n1299_001:0393c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文殊師利菩薩及諸仙所說吉凶時日善惡宿曜經卷上",
+        "from": "T21n1299_001:0393c07_0",
         "context_with_next_sentence": false
     }
 ]

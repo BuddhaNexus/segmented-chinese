@@ -9435,7 +9435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[尬介+(二/(必心))]經所謂因緣所生法是也)。",
+        "source_sentence": "[尬-介+(二/(必-心))]經所謂因緣所生法是也)。",
         "from": "X18n0333_001:0076a27_0",
         "context_with_next_sentence": true
     },
@@ -34537,6 +34537,11 @@
     {
         "source_sentence": "清　淨挺著",
         "from": "X18n0333_001:0098b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "收于閱經十二種之第三。",
+        "from": "X18n0333_001:0098b06_0",
         "context_with_next_sentence": false
     }
 ]

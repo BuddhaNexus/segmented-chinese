@@ -855,7 +855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上三十三天。",
+        "source_sentence": "[跳-兆+孛]跳上三十三天。",
         "from": "X85n1588_001:0105a21_5",
         "context_with_next_sentence": true
     },
@@ -1555,7 +1555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "金陵保寧嵋樵[汁*(十/甲/寸)]禪師上堂。",
+        "source_sentence": "金陵保寧嵋樵&#;禪師上堂。",
         "from": "X85n1588_001:0105c19_0",
         "context_with_next_sentence": true
     },
@@ -2110,7 +2110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "山僧驗來總不是。",
+        "source_sentence": "山僧騐來總不是。",
         "from": "X85n1588_001:0106b08_7",
         "context_with_next_sentence": true
     },
@@ -3190,8 +3190,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "且於不難不易一",
+        "source_sentence": "且於不難不易一句。",
         "from": "X85n1588_001:0107a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又作麼生。",
+        "from": "X85n1588_001:0107a24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彈指頓超千聖外。",
+        "from": "X85n1588_001:0107a24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "揚眉不是目前機。",
+        "from": "X85n1588_001:0107a24_6",
         "context_with_next_sentence": false
     }
 ]

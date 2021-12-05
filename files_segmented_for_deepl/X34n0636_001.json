@@ -135,7 +135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "人寶振[茫亡+(滕月)]富婁慈恩學襲洛聖。",
+        "source_sentence": "人寶振[茫-亡+(滕-月)]富婁慈恩學襲洛聖。",
         "from": "X34n0636_001:0018b15_12",
         "context_with_next_sentence": true
     },
@@ -9220,7 +9220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "云何得有謗法之[億音+(天*天)]。",
+        "source_sentence": "云何得有謗法之[億-音+(天*天)]。",
         "from": "X34n0636_001:0025a08_3",
         "context_with_next_sentence": true
     },
@@ -19410,7 +19410,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[利禾+登]炫論語疏云。",
+        "source_sentence": "[利-禾+登]炫論語疏云。",
         "from": "X34n0636_001:0032b09_1",
         "context_with_next_sentence": true
     },
@@ -19530,7 +19530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以輗[軏儿+几]相類之物。",
+        "source_sentence": "以輗[軏-儿+几]相類之物。",
         "from": "X34n0636_001:0032b15_15",
         "context_with_next_sentence": true
     },

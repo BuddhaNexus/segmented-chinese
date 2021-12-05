@@ -265,7 +265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "婬行罪故，身生毛羽，隔諸細滑，嘴[口*(甚其+庚)]麁[革*卬]，不別觸味。",
+        "source_sentence": "婬行罪故，身生毛羽，隔諸細滑，嘴[口*(甚-其+庚)]麁[革*卬]，不別觸味。",
         "from": "T25n1509_016:0175a18_24",
         "context_with_next_sentence": true
     },
@@ -290,7 +290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "慳貪、嫉妬、輕躁、短促故，受獼猴、[狂王+哥]玃、熊、羆之形。",
+        "source_sentence": "慳貪、嫉妬、輕躁、短促故，受獼猴、[狂-王+哥]玃、熊、羆之形。",
         "from": "T25n1509_016:0175a23_29",
         "context_with_next_sentence": true
     },

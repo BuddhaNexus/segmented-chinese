@@ -1045,12 +1045,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "前得人家見門裏有一雙馬[打丁+昴]。",
+        "source_sentence": "前得人家見門裏有一雙馬[打-丁+昴]。",
         "from": "T55n2145_015:0108b02_71",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+昴]間懸一馬[笐〦+(兜儿)]可容一斛。",
+        "source_sentence": "[打-丁+昴]間懸一馬篼可容一斛。",
         "from": "T55n2145_015:0108b03_72",
         "context_with_next_sentence": true
     },
@@ -1095,7 +1095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[笐〦+(兜儿)]容伯升也。",
+        "source_sentence": "篼容伯升也。",
         "from": "T55n2145_015:0108b06_81",
         "context_with_next_sentence": true
     },
@@ -2790,7 +2790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雖晨祈云同夕歸悠[阿可+聶]。",
+        "source_sentence": "雖晨祈云同夕歸悠[阿-可+聶]。",
         "from": "T55n2145_015:0109c28_11",
         "context_with_next_sentence": true
     },
@@ -2860,7 +2860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "藉[(冰水+〡)*夫]容於中流。",
+        "source_sentence": "藉[(冰-水+〡)*夫]容於中流。",
         "from": "T55n2145_015:0110a05_2",
         "context_with_next_sentence": true
     },

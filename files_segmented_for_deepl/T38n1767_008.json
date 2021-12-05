@@ -820,7 +820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不求乳酪不期人天二乘無常[(殼一)/牛]以自食。",
+        "source_sentence": "不求乳酪不期人天二乘無常[(殼-一)/牛]以自食。",
         "from": "T38n1767_008:0081c02_29",
         "context_with_next_sentence": true
     },
@@ -860,7 +860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(殼一)/牛]以自食。",
+        "source_sentence": "[(殼-一)/牛]以自食。",
         "from": "T38n1767_008:0081c05_4",
         "context_with_next_sentence": true
     },
@@ -975,7 +975,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有少梵行合[殼/牛]已自食。",
+        "source_sentence": "有少梵行合&#;已自食。",
         "from": "T38n1767_008:0081c15_15",
         "context_with_next_sentence": true
     },
@@ -4840,7 +4840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "實受割[利禾+皮]之痛。",
+        "source_sentence": "實受割[利-禾+皮]之痛。",
         "from": "T38n1767_008:0085b08_8",
         "context_with_next_sentence": true
     },

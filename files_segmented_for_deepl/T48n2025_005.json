@@ -2865,7 +2865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其[矛*(替曰+貝)]用鐵為堅牢故。",
+        "source_sentence": "其[矛*(替-曰+貝)]用鐵為堅牢故。",
         "from": "T48n2025_005:1139b26_2",
         "context_with_next_sentence": true
     },
@@ -3080,7 +3080,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若[茲/瓦]瓦者是淨用。",
+        "source_sentence": "若甆瓦者是淨用。",
         "from": "T48n2025_005:1139c14_5",
         "context_with_next_sentence": true
     },

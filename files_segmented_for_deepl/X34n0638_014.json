@@ -180,7 +180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "會[打丁+雚]入實。",
+        "source_sentence": "會[打-丁+雚]入實。",
         "from": "X34n0638_014:0490c09_3",
         "context_with_next_sentence": true
     },
@@ -3065,7 +3065,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "由如[麩夫+主]子。",
+        "source_sentence": "由如[麩-夫+主]子。",
         "from": "X34n0638_014:0493a09_8",
         "context_with_next_sentence": true
     },
@@ -5155,7 +5155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "喫飯著衣。",
+        "source_sentence": "喫飰著衣。",
         "from": "X34n0638_014:0494c14_14",
         "context_with_next_sentence": true
     },
@@ -16095,7 +16095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "與[宋木+取]初一个燈明佛同。",
+        "source_sentence": "與[宋-木+取]初一个燈明佛同。",
         "from": "X34n0638_014:0503c19_46",
         "context_with_next_sentence": true
     },
@@ -27942,6 +27942,26 @@
     {
         "source_sentence": "法華經玄贊要集卷第十四",
         "from": "X34n0638_014:0514b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乾符六年冬溫洲開元寺講大慈恩比丘弘舉傳寫供養。",
+        "from": "X34n0638_014:0514b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元久三年丙寅正月二二日書寫了。",
+        "from": "X34n0638_014:0514b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為興隆佛法利樂有情而已。",
+        "from": "X34n0638_014:0514b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　凝圓(生年五十八)",
+        "from": "X34n0638_014:0514b21_1",
         "context_with_next_sentence": false
     }
 ]

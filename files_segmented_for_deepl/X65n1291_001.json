@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 南明泉頌永嘉證道謌序",
+        "source_sentence": "南明泉頌永嘉證道謌序",
         "from": "X65n1291_001:0439a03_0",
         "context_with_next_sentence": true
     },
@@ -1575,7 +1575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "相逢不用笑襤縿。",
+        "source_sentence": "相逢不用笑繿縿。",
         "from": "X65n1291_001:0441a05_1",
         "context_with_next_sentence": true
     },
@@ -5275,7 +5275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[毯炎+瑟][毯炎+瑟]金毛才拂時。",
+        "source_sentence": "[毯-炎+瑟][毯-炎+瑟]金毛才拂時。",
         "from": "X65n1291_001:0446a01_2",
         "context_with_next_sentence": true
     },
@@ -7222,6 +7222,11 @@
     {
         "source_sentence": "乃師之賜也。",
         "from": "X65n1291_001:0448b21_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "熈寧九年七月十日　括蒼　祝況　後序",
+        "from": "X65n1291_001:0448b22_0",
         "context_with_next_sentence": false
     }
 ]

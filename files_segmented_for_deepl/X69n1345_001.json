@@ -3785,7 +3785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無你摸[打丁+索]處。",
+        "source_sentence": "無你摸[打-丁+索]處。",
         "from": "X69n1345_001:0236a19_6",
         "context_with_next_sentence": true
     },
@@ -7080,7 +7080,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "未免閙市裏[毯炎+昆]毬。",
+        "source_sentence": "未免閙市裏[毯-炎+昆]毬。",
         "from": "X69n1345_001:0238c14_2",
         "context_with_next_sentence": true
     },

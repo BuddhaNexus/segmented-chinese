@@ -1300,7 +1300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "復有廣大寒[冰水+(洗冼+水)]地獄。",
+        "source_sentence": "復有廣大寒[冰-水+(洗-冼+水)]地獄。",
         "from": "T32n1671_005:0728a01_51",
         "context_with_next_sentence": true
     },
@@ -1330,7 +1330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "結成[冰水+(洗冼+水)]臼。",
+        "source_sentence": "結成[冰-水+(洗-冼+水)]臼。",
         "from": "T32n1671_005:0728a02_57",
         "context_with_next_sentence": true
     },

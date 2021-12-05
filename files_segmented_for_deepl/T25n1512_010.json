@@ -810,7 +810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "明若不碎世界，則有彼此之殊；既碎為微塵，使無此彼之[阿可+(可/(可*可))]。",
+        "source_sentence": "明若不碎世界，則有彼此之殊；既碎為微塵，使無此彼之[阿-可+(可/(可*可))]。",
         "from": "T25n1512_010:0870b20_3",
         "context_with_next_sentence": true
     },

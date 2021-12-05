@@ -2950,12 +2950,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如世工匠能[書曰+皿]書等。",
+        "source_sentence": "如世工匠能[書-曰+皿]書等。",
         "from": "X34n0639_001:0932b09_19",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "諸人解[書曰+皿]。",
+        "source_sentence": "諸人解[書-曰+皿]。",
         "from": "X34n0639_001:0932b10_20",
         "context_with_next_sentence": true
     },
@@ -11670,7 +11670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "呪魅益[竺二+下]植公等。",
+        "source_sentence": "呪魅益[竺-二+下]植公等。",
         "from": "X34n0639_001:0939b06_3",
         "context_with_next_sentence": true
     },
@@ -17325,7 +17325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又元[阿可+白]臣卿。",
+        "source_sentence": "又元[阿-可+白]臣卿。",
         "from": "X34n0639_001:0943c09_47",
         "context_with_next_sentence": true
     },
@@ -23705,7 +23705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[玩兀+正]公一。",
+        "source_sentence": "[玩-兀+正]公一。",
         "from": "X34n0639_001:0948b23_8",
         "context_with_next_sentence": true
     },
@@ -25665,7 +25665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "莫[怡台+存](云云)。",
+        "source_sentence": "莫[怡-台+存](云云)。",
         "from": "X34n0639_001:0950a11_3",
         "context_with_next_sentence": true
     },
@@ -31475,7 +31475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "言謂餘相續識差別故令餘相續差別識生彼此[牙(必心)+?]為增上緣故者。",
+        "source_sentence": "言謂餘相續識差別故令餘相續差別識生彼此[牙-(必-心)+?]為增上緣故者。",
         "from": "X34n0639_001:0954c15_21",
         "context_with_next_sentence": true
     },
@@ -35030,7 +35030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔邪說涅槃。",
+        "source_sentence": "㧞邪說涅槃。",
         "from": "X34n0639_001:0957c04_12",
         "context_with_next_sentence": true
     },
@@ -35825,7 +35825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以待君子之是正)",
+        "source_sentence": "以待君子之是正)(洞上沙門　中井義仙　謹誌)",
         "from": "X34n0639_001:0958b02_12",
         "context_with_next_sentence": false
     }

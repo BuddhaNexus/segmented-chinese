@@ -2945,7 +2945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]惟魯鈍之資。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]惟魯鈍之資。",
         "from": "X87n1624_002:0262b12_12",
         "context_with_next_sentence": true
     },
@@ -3505,7 +3505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[牙(必心)+?]有錯謬者。",
+        "source_sentence": "[牙-(必-心)+?]有錯謬者。",
         "from": "X87n1624_002:0262c24_16",
         "context_with_next_sentence": true
     },
@@ -4895,7 +4895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "因嘆其孤韻超拔。",
+        "source_sentence": "因嘆其孤韻超㧞。",
         "from": "X87n1624_002:0264a17_6",
         "context_with_next_sentence": true
     },
@@ -6780,7 +6780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "我佗日十字街頭做箇粥飯主人。",
+        "source_sentence": "我佗日十字街頭做箇粥飰主人。",
         "from": "X87n1624_002:0265c02_6",
         "context_with_next_sentence": true
     },
@@ -7365,7 +7365,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一日同飯。",
+        "source_sentence": "一日同飰。",
         "from": "X87n1624_002:0266a12_13",
         "context_with_next_sentence": true
     },
@@ -8145,7 +8145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "手[據豕+旦]水月。",
+        "source_sentence": "手[據-豕+旦]水月。",
         "from": "X87n1624_002:0266c07_6",
         "context_with_next_sentence": true
     },
@@ -9845,7 +9845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "我粥飯僧見之。",
+        "source_sentence": "我粥飰僧見之。",
         "from": "X87n1624_002:0268a07_8",
         "context_with_next_sentence": true
     },
@@ -9955,7 +9955,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "留與叢林作[打丁+羕]看。",
+        "source_sentence": "留與叢林作[打-丁+羕]看。",
         "from": "X87n1624_002:0268a13_11",
         "context_with_next_sentence": true
     },
@@ -10805,7 +10805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "劉君之子持此偈來飯僧。",
+        "source_sentence": "劉君之子持此偈來飰僧。",
         "from": "X87n1624_002:0268c20_18",
         "context_with_next_sentence": true
     },
@@ -11810,7 +11810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "達觀所謂偏正[牙(必心)+?]縱橫。",
+        "source_sentence": "達觀所謂偏正[牙-(必-心)+?]縱橫。",
         "from": "X87n1624_002:0269c11_5",
         "context_with_next_sentence": true
     },
@@ -12095,7 +12095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "涕交頤。",
+        "source_sentence": "涕交頥。",
         "from": "X87n1624_002:0270a03_5",
         "context_with_next_sentence": true
     },
@@ -13020,7 +13020,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "標致[宋木+取]高。",
+        "source_sentence": "標致[宋-木+取]高。",
         "from": "X87n1624_002:0270c12_1",
         "context_with_next_sentence": true
     },
@@ -15375,7 +15375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "淚交頤。",
+        "source_sentence": "淚交頥。",
         "from": "X87n1624_002:0272b22_5",
         "context_with_next_sentence": true
     },
@@ -15490,7 +15490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "楊岐會禪師從慈明游[宋木+取]久。",
+        "source_sentence": "楊岐會禪師從慈明游[宋-木+取]久。",
         "from": "X87n1624_002:0272c05_0",
         "context_with_next_sentence": true
     },
@@ -16225,7 +16225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時雲居法席[宋木+取]盛。",
+        "source_sentence": "時雲居法席[宋-木+取]盛。",
         "from": "X87n1624_002:0273a21_5",
         "context_with_next_sentence": true
     },
@@ -16985,7 +16985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無所罣礙。",
+        "source_sentence": "無所&#;礙。",
         "from": "X87n1624_002:0273c20_5",
         "context_with_next_sentence": true
     },
@@ -17395,7 +17395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則[牙(必心)+?]有長短。",
+        "source_sentence": "則[牙-(必-心)+?]有長短。",
         "from": "X87n1624_002:0274a21_10",
         "context_with_next_sentence": true
     },
@@ -17800,7 +17800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "覿體無差[牙(必心)+?]。",
+        "source_sentence": "覿體無差[牙-(必-心)+?]。",
         "from": "X87n1624_002:0274b19_12",
         "context_with_next_sentence": true
     },
@@ -18945,7 +18945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "永明和尚以賢首．慈恩．天台三宗[牙(必心)+?]相冰炭。",
+        "source_sentence": "永明和尚以賢首．慈恩．天台三宗[牙-(必-心)+?]相冰炭。",
         "from": "X87n1624_002:0275b13_5",
         "context_with_next_sentence": true
     },

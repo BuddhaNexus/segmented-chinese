@@ -55,7 +55,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鳥[銜金+缶]風吹雜處者。",
+        "source_sentence": "鳥[銜-金+缶]風吹雜處者。",
         "from": "X40n0719_014:0454b22_2",
         "context_with_next_sentence": true
     },
@@ -2930,7 +2930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[卄/(麩夫+玉)]果漿。",
+        "source_sentence": "[卄/(麩-夫+玉)]果漿。",
         "from": "X40n0719_014:0456b15_12",
         "context_with_next_sentence": true
     },
@@ -7305,7 +7305,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "僧應畜斧鑿刀鋸鏵鍬梯凳泥漫。",
+        "source_sentence": "僧應畜斧鑿刀鋸鏵鍬梯櫈泥漫。",
         "from": "X40n0719_014:0459b11_30",
         "context_with_next_sentence": true
     },
@@ -10377,6 +10377,321 @@
     {
         "source_sentence": "重治毗尼事義集要卷第十四",
         "from": "X40n0719_014:0461c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音義",
+        "from": "X40n0719_014:0461c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幬音道。",
+        "from": "X40n0719_014:0461c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又音陶。",
+        "from": "X40n0719_014:0461c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帳也。",
+        "from": "X40n0719_014:0461c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[糸*屬]音竹。",
+        "from": "X40n0719_014:0461c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "綴帶。",
+        "from": "X40n0719_014:0461c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縋音墜。",
+        "from": "X40n0719_014:0461c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以繩有所懸也。",
+        "from": "X40n0719_014:0461c07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[琝-乂+(必-心)]荼音[旻-乂+(必-心)]徒。",
+        "from": "X40n0719_014:0461c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不見翻譯。",
+        "from": "X40n0719_014:0461c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[卄/(麩-夫+玉)]應作蕤。",
+        "from": "X40n0719_014:0461c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "儒追切。",
+        "from": "X40n0719_014:0461c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大嚫或云達儭。",
+        "from": "X40n0719_014:0461c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或云檀噺。",
+        "from": "X40n0719_014:0461c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "報施之法。",
+        "from": "X40n0719_014:0461c10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即呪願也。",
+        "from": "X40n0719_014:0461c10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鉤鉢恐即次鉢小鉢之類。",
+        "from": "X40n0719_014:0461c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牸音字。",
+        "from": "X40n0719_014:0461c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牝牛。",
+        "from": "X40n0719_014:0461c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "馱音駝。",
+        "from": "X40n0719_014:0461c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牡馬。",
+        "from": "X40n0719_014:0461c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "闍維或云耶旬。",
+        "from": "X40n0719_014:0461c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或云茶毗。",
+        "from": "X40n0719_014:0461c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西域記云。",
+        "from": "X40n0719_014:0461c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "涅疊槃那。",
+        "from": "X40n0719_014:0461c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此翻焚燒。",
+        "from": "X40n0719_014:0461c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鏵音華。",
+        "from": "X40n0719_014:0461c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鍬此遙切。",
+        "from": "X40n0719_014:0461c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十衣西域布帛之類。",
+        "from": "X40n0719_014:0461c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡有十種。",
+        "from": "X40n0719_014:0461c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如麻布棉布等。",
+        "from": "X40n0719_014:0461c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "銚他彫切。",
+        "from": "X40n0719_014:0461c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又徒弔切。",
+        "from": "X40n0719_014:0461c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鐏音纘。",
+        "from": "X40n0719_014:0461c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "&#;音宵。",
+        "from": "X40n0719_014:0461c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鳥尾翹毛也。",
+        "from": "X40n0719_014:0461c21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "襻普患切。",
+        "from": "X40n0719_014:0461c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衣下絲。",
+        "from": "X40n0719_014:0461c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "撚乃殄切。",
+        "from": "X40n0719_014:0461c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以指搣物也。",
+        "from": "X40n0719_014:0461c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "犍椎鐘鼓魚磬之類。",
+        "from": "X40n0719_014:0461c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "打之以集眾者。",
+        "from": "X40n0719_014:0461c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "苦酒醋也。",
+        "from": "X40n0719_014:0462a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "窣堵波或云浮圖。",
+        "from": "X40n0719_014:0462a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或云偷婆。",
+        "from": "X40n0719_014:0462a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或云私偷簸。",
+        "from": "X40n0719_014:0462a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或云塔婆。",
+        "from": "X40n0719_014:0462a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今略云塔。",
+        "from": "X40n0719_014:0462a03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "翻為方墳。",
+        "from": "X40n0719_014:0462a03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦翻圓塜。",
+        "from": "X40n0719_014:0462a03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦翻高顯。",
+        "from": "X40n0719_014:0462a03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "義翻靈廟。",
+        "from": "X40n0719_014:0462a03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "涅槃後分云。",
+        "from": "X40n0719_014:0462a04_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛塔十三層。",
+        "from": "X40n0719_014:0462a04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上有輪相。",
+        "from": "X40n0719_014:0462a04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辟支塔十一層。",
+        "from": "X40n0719_014:0462a04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿羅漢四層。",
+        "from": "X40n0719_014:0462a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "輪王無復層級。",
+        "from": "X40n0719_014:0462a05_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未脫三界諸有苦故。",
+        "from": "X40n0719_014:0462a05_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婪音嵐。",
+        "from": "X40n0719_014:0462a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦貪也。",
+        "from": "X40n0719_014:0462a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "緤音屑。",
+        "from": "X40n0719_014:0462a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "係也。",
+        "from": "X40n0719_014:0462a08_1",
         "context_with_next_sentence": false
     }
 ]

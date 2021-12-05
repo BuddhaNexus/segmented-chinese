@@ -1180,12 +1180,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(阜十+止)*責]者即是妙中之妙。",
+        "source_sentence": "[(阜-十+止)*責]者即是妙中之妙。",
         "from": "X50n0819_001:0128a03_10",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "名之為[(阜十+止)*責]也。",
+        "source_sentence": "名之為[(阜-十+止)*責]也。",
         "from": "X50n0819_001:0128a03_11",
         "context_with_next_sentence": true
     },
@@ -1660,7 +1660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]者所以義。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]者所以義。",
         "from": "X50n0819_001:0128b07_53",
         "context_with_next_sentence": true
     },
@@ -5490,7 +5490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(阜十+止)*責]者妙中之妙也。",
+        "source_sentence": "[(阜-十+止)*責]者妙中之妙也。",
         "from": "X50n0819_001:0131c16_11",
         "context_with_next_sentence": true
     },
@@ -33237,6 +33237,91 @@
     {
         "source_sentence": "成唯識論疏抄卷第一",
         "from": "X50n0819_001:0159a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此抄者。",
+        "from": "X50n0819_001:0159a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "照迷闇夜光。",
+        "from": "X50n0819_001:0159a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而解本疏昆玉也。",
+        "from": "X50n0819_001:0159a10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古專寺有正本。",
+        "from": "X50n0819_001:0159a10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中古其書紛失。",
+        "from": "X50n0819_001:0159a11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "義學之徒。",
+        "from": "X50n0819_001:0159a11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常所憾慨也。",
+        "from": "X50n0819_001:0159a11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幸哉。",
+        "from": "X50n0819_001:0159a11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今歲得此抄。",
+        "from": "X50n0819_001:0159a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寔如河海得船筏。",
+        "from": "X50n0819_001:0159a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依之誘諸同老。",
+        "from": "X50n0819_001:0159a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "命愚弟而令書寫之。",
+        "from": "X50n0819_001:0159a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然風鳳之誤不少。",
+        "from": "X50n0819_001:0159a13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖欲正之。",
+        "from": "X50n0819_001:0159a13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如無正本何。",
+        "from": "X50n0819_001:0159a13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "冀來學者正之云爾。",
+        "from": "X50n0819_001:0159a14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元文二丁巳天六月二十六日一見了　基範(敬識)",
+        "from": "X50n0819_001:0159a15_0",
         "context_with_next_sentence": false
     }
 ]

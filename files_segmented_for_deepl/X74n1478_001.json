@@ -4430,7 +4430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]命鏖戰苦。",
+        "source_sentence": "[拚-ㄙ+ㄊ]命鏖戰苦。",
         "from": "X74n1478_001:0525c17_12",
         "context_with_next_sentence": true
     },
@@ -7715,8 +7715,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "依楞嚴究竟事懺卷上(禮佛十進計二百六十拜)",
+        "source_sentence": "依楞嚴究竟事懺卷上(禮佛十進計二百六十拜)創建牟尼菴香火大檀越大方伯二品服色麗陽奉佛弟子木增。",
         "from": "X74n1478_001:0530a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "損資刊。",
+        "from": "X74n1478_001:0530a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "用助此功德。",
+        "from": "X74n1478_001:0530a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所願壽躋籛鏗雲仍爪[瓜*生]者。",
+        "from": "X74n1478_001:0530a11_3",
         "context_with_next_sentence": false
     }
 ]

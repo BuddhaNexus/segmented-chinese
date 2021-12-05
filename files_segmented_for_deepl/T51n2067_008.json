@@ -1900,7 +1900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "覺轉[但日+木]健。",
+        "source_sentence": "覺轉[但-日+木]健。",
         "from": "T51n2067_008:0036c20_3",
         "context_with_next_sentence": true
     },
@@ -2685,12 +2685,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[米*(升┬+下)]五百遍。",
+        "source_sentence": "[米*(升-┬+下)]五百遍。",
         "from": "T51n2067_008:0037b08_19",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "六齋日[米*(升┬+下)]七遍。",
+        "source_sentence": "六齋日[米*(升-┬+下)]七遍。",
         "from": "T51n2067_008:0037b08_20",
         "context_with_next_sentence": true
     },
@@ -6525,7 +6525,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師自有[米*(升┬+下)]。",
+        "source_sentence": "師自有[米*(升-┬+下)]。",
         "from": "T51n2067_008:0039c24_16",
         "context_with_next_sentence": true
     },

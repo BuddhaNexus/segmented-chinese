@@ -1090,7 +1090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "臨安府中天竺[仁二+幻]堂中仁禪師。",
+        "source_sentence": "臨安府中天竺[仁-二+幻]堂中仁禪師。",
         "from": "T51n2077_028:0657b04_0",
         "context_with_next_sentence": true
     },
@@ -9332,6 +9332,46 @@
     {
         "source_sentence": "續傳燈錄卷第二十八",
         "from": "T51n2077_028:0664b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "續傳燈錄卷第二十九目錄",
+        "from": "T51n2077_028:0664c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大鑑下第十六世",
+        "from": "T51n2077_028:0664c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "太平懃禪師法嗣十六人",
+        "from": "T51n2077_028:0664c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文殊心道禪師南華知昺禪師",
+        "from": "T51n2077_028:0664c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍牙智才禪師蓬萊卿禪師",
+        "from": "T51n2077_028:0664c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何山守珣禪師泐潭擇明禪師",
+        "from": "T51n2077_028:0664c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶藏本禪師祥符清海禪師",
+        "from": "T51n2077_028:0664c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨眾了燦禪師谷山海禪師(已上十人見錄)靈岩晝禪師啟霞楚謙禪師福聖深禪師千山智嵩禪師融藏主發書記(已上六人無錄)龍門佛眼遠禪師法嗣二十一人龍翔士珪禪師雲居善悟禪師西禪文璉禪師黃龍法忠禪師烏巨道行禪師白楊法順禪師雲居法如禪師歸宗正賢禪師道場明辨禪師方廣深禪師成都世奇首座淨居尼惠溫禪師憑楫給事(已上十三人見錄)雲居圓禪師雲居祖禪師三聖道方禪師寂菴主三角劼禪師三聖真常禪師辨侍者越州石佛世奇禪師(已上八人無錄)開福道寧禪師法嗣一人大溈善果禪師(見錄)自得暉禪師法嗣四人雪竇德雲禪師仗錫崇堅禪師華藏慧祚禪師雪竇煥禪師(已上四人無錄)瑞巖石窓恭禪師法嗣二人淨慈重皎禪師淨慈壁禪師(已上二人無錄)大溈智禪師法嗣四人雪蓋澄禪師石霜能禪師泰岳久禪師陳與義居士(已上四人無錄)續傳燈錄卷第二十九目錄(終)",
+        "from": "T51n2077_028:0664c10_0",
         "context_with_next_sentence": false
     }
 ]

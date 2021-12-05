@@ -480,7 +480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "盈閣以[牣刀+ㄉ]房。",
+        "source_sentence": "盈閣以[牣-刀+ㄉ]房。",
         "from": "T55n2149_010:0326b28_0",
         "context_with_next_sentence": true
     },
@@ -8072,6 +8072,36 @@
     {
         "source_sentence": "大唐內典錄卷第十",
         "from": "T55n2149_010:0342a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余以從心之年。",
+        "from": "T55n2149_010:0342a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "強加直筆舒通經教。",
+        "from": "T55n2149_010:0342a15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庶幾無沒。",
+        "from": "T55n2149_010:0342a15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幸冀後賢捃其遠致使法寶流被津潤惟遠。",
+        "from": "T55n2149_010:0342a16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈不好耶。",
+        "from": "T55n2149_010:0342a17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍朔四年春正月於西明寺出之。",
+        "from": "T55n2149_010:0342a17_5",
         "context_with_next_sentence": false
     }
 ]

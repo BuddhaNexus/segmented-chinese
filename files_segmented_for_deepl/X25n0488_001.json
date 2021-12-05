@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 自序",
+        "source_sentence": "自序",
         "from": "X25n0488_001:0282a06_0",
         "context_with_next_sentence": true
     },
@@ -105,7 +105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]入無而不能出有。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]入無而不能出有。",
         "from": "X25n0488_001:0282a13_20",
         "context_with_next_sentence": true
     },

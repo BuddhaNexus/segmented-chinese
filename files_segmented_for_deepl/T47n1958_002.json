@@ -1730,7 +1730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自此之外唯有十五年在，於中，外則王官逼迫，長征遠防，或繫在牢獄；內則門戶吉、凶，眾事牽纏，[勞力+凡][勞力+凡]忪忪，常求不足。」",
+        "source_sentence": "自此之外唯有十五年在，於中，外則王官逼迫，長征遠防，或繫在牢獄；內則門戶吉、凶，眾事牽纏，[勞-力+凡][勞-力+凡]忪忪，常求不足。」",
         "from": "T47n1958_002:0020a19_3",
         "context_with_next_sentence": true
     },
@@ -2262,6 +2262,101 @@
     {
         "source_sentence": "安樂集卷下",
         "from": "T47n1958_002:0022a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此《集》，版有古今，古版殊誤，世所現行凡有六本，曰寬元(往成刻)、曰弘安(悟阿重刻，今共稱為古本)，曰正保、曰明曆、曰寬文(三本俱以古本為範)，曰元祿(義山刻，稱校觀中尋弘等諸本，務修文字，今稱為山本)，又別有崎陽所刻一本(今稱為崎陽本，有人誤為明本者，非辨如隨聞載)，其他則慧琳音義以降，諸注家亦不鮮也。",
+        "from": "T47n1958_002:0022a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "往往各辨魚魯，不無少差。",
+        "from": "T47n1958_002:0022a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "特至本立老師，承襲離塵、演暢兩講主之說，乃有正錯作專、辨定錯簡。",
+        "from": "T47n1958_002:0022a17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同室耆老芳山、僧檏二師各補其缺漏。",
+        "from": "T47n1958_002:0022a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庶乎逢&#;河之源與本立老師有甞言曰：「精刻本集以紹繼師意。」",
+        "from": "T47n1958_002:0022a20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "者，業期他日，不果而寂。",
+        "from": "T47n1958_002:0022a21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "老師，(吾)先師之義兄，先師亦有校鐫之志，甞向干耋，既蒙公許，桑榆暮景，亡幾亦寂。",
+        "from": "T47n1958_002:0022a22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "屬纊之際，託於(不肖)尚以斯事，於戲(朴)之無狀，不敢所當，而遺命不可辭也，強以應承。",
+        "from": "T47n1958_002:0022a24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾來幻緣鞅掌，身亦善病，荏苒裘葛三更，既及禫禮，不覺惻然嘆曰：「二老歸寂，而一編未上木，嗚呼！",
+        "from": "T47n1958_002:0022a26_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "事之間關，何至于斯也？」",
+        "from": "T47n1958_002:0022a28_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遺志不啻，雖(朴)不肖，豈當廢閣。",
+        "from": "T47n1958_002:0022a29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於是乎，躬不自揣，黽勉从事，一賴演慈院訂本，更校諸刊標揭異同，折衷改竄，則(予)豈敢乎？",
+        "from": "T47n1958_002:0022b01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且撮正錯要，聊便省覽，未得全其二老志者，辜抂(朴)之無似耳，冀者四方同志刪之補之。",
+        "from": "T47n1958_002:0022b03_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "維旹",
+        "from": "T47n1958_002:0022b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寬政第七龍集乙卯秋",
+        "from": "T47n1958_002:0022b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　南湖　&#;[卄/榮]幻住釋龍磎朴素欽識《安樂集》二卷，寬元以降繡梓而行世者，文字間有差誤。",
+        "from": "T47n1958_002:0022b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今會聚橫川觀中、三井尊弘、梅尾明慧、根來深淵、黑谷慧鎮等若干本，而偶以校焉，其當不之辨而判然趨捨之，彼此之間以為一本，至于其猶預而未可決，則闕而一任於後學也。",
+        "from": "T47n1958_002:0022b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且句逗四聲副之字傍，以使讀者易掛于牙齒耳。",
+        "from": "T47n1958_002:0022b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元祿十一(戊寅)年正月二十五日，禪蓮社釋義山募刻",
+        "from": "T47n1958_002:0022b16_0",
         "context_with_next_sentence": false
     }
 ]

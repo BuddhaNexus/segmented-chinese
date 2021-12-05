@@ -515,7 +515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[局口+(囗@夕)]土遠乎哉。",
+        "source_sentence": "[局-口+(囗@夕)]土遠乎哉。",
         "from": "X62n1210_001:0823a20_2",
         "context_with_next_sentence": true
     },
@@ -590,7 +590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "專持[肆聿+(爾(平十)+(釆木))]陀號。",
+        "source_sentence": "專持[肆-聿+(爾-(平-十)+(釆-木))]陀號。",
         "from": "X62n1210_001:0823a24_1",
         "context_with_next_sentence": true
     },
@@ -635,7 +635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[糸八]黃青白華。",
+        "source_sentence": "[糸-八]黃青白華。",
         "from": "X62n1210_001:0823b02_6",
         "context_with_next_sentence": true
     },
@@ -690,7 +690,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "都作[局口+(囗@夕)]方皃。",
+        "source_sentence": "都作[局-口+(囗@夕)]方皃。",
         "from": "X62n1210_001:0823b05_17",
         "context_with_next_sentence": true
     },
@@ -840,7 +840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(強ㄙ+口)/力](俗作強)欲成嘉饌。",
+        "source_sentence": "[(強-ㄙ+口)/力](俗作強)欲成嘉饌。",
         "from": "X62n1210_001:0823b13_23",
         "context_with_next_sentence": true
     },
@@ -1135,7 +1135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "羣生本[糸八]妙。",
+        "source_sentence": "羣生本[糸-八]妙。",
         "from": "X62n1210_001:0823c06_1",
         "context_with_next_sentence": true
     },
@@ -1330,7 +1330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "所[(百日+目)/(冗几+心)](俗作憂)業未成。",
+        "source_sentence": "所[(百-日+目)/(冗-几+心)](俗作憂)業未成。",
         "from": "X62n1210_001:0823c16_10",
         "context_with_next_sentence": true
     },
@@ -1400,7 +1400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "納想流[(舛夕)/(冗几+心)](俗作愛)間。",
+        "source_sentence": "納想流[(舛-夕)/(冗-几+心)](俗作愛)間。",
         "from": "X62n1210_001:0823c22_2",
         "context_with_next_sentence": true
     },
@@ -1480,7 +1480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[中/(冗几+心)]惡不停感。",
+        "source_sentence": "[中/(冗-几+心)]惡不停感。",
         "from": "X62n1210_001:0824a02_18",
         "context_with_next_sentence": true
     },
@@ -1615,7 +1615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[中/(冗几+心)]貪與殺貪。",
+        "source_sentence": "[中/(冗-几+心)]貪與殺貪。",
         "from": "X62n1210_001:0824a09_45",
         "context_with_next_sentence": true
     },
@@ -1665,7 +1665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "用[(舛夕)/(冗几+心)]涂炭基。",
+        "source_sentence": "用[(舛-夕)/(冗-几+心)]涂炭基。",
         "from": "X62n1210_001:0824a12_55",
         "context_with_next_sentence": true
     },
@@ -2080,7 +2080,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[瓝勺+血][瓝勺+血]如可即。",
+        "source_sentence": "[瓝-勺+血][瓝-勺+血]如可即。",
         "from": "X62n1210_001:0824b09_138",
         "context_with_next_sentence": true
     },
@@ -2370,7 +2370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "仰箭能無[受(冗几)]。",
+        "source_sentence": "仰箭能無[受-(冗-几)]。",
         "from": "X62n1210_001:0824b24_1",
         "context_with_next_sentence": true
     },
@@ -2430,7 +2430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "優曇缽華妙。",
+        "source_sentence": "優曇盋華妙。",
         "from": "X62n1210_001:0824c03_1",
         "context_with_next_sentence": true
     },
@@ -2855,7 +2855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(舛夕)/(冗几+心)]廬無端由。",
+        "source_sentence": "[(舛-夕)/(冗-几+心)]廬無端由。",
         "from": "X62n1210_001:0824c24_2",
         "context_with_next_sentence": true
     },
@@ -2875,7 +2875,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遙遙謂[(舛夕)/(冗几+心)]廬。",
+        "source_sentence": "遙遙謂[(舛-夕)/(冗-几+心)]廬。",
         "from": "X62n1210_001:0825a01_2",
         "context_with_next_sentence": true
     },
@@ -3377,6 +3377,121 @@
     {
         "source_sentence": "二林唱和詩(終)",
         "from": "X62n1210_001:0825b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二林唱和詩跋",
+        "from": "X62n1210_001:0825b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "羅有高",
+        "from": "X62n1210_001:0825b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乾隆四十一年。",
+        "from": "X62n1210_001:0825b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有高自浙東過蘇州。",
+        "from": "X62n1210_001:0825b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故人彭君。",
+        "from": "X62n1210_001:0825b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出是冊示予。",
+        "from": "X62n1210_001:0825b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且命校其字之違古甚者。",
+        "from": "X62n1210_001:0825b13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得一再讀之。",
+        "from": "X62n1210_001:0825b13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悲響玲瓏。",
+        "from": "X62n1210_001:0825b13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僾然迦陵頻伽二六時中和雅音也。",
+        "from": "X62n1210_001:0825b14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "芬然曼殊娑華新好華片也。",
+        "from": "X62n1210_001:0825b14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獨念予今去作詩時六年。",
+        "from": "X62n1210_001:0825b15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尚癡癡迷迷。",
+        "from": "X62n1210_001:0825b15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流落人間。",
+        "from": "X62n1210_001:0825b16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨業蕩無纖芥。",
+        "from": "X62n1210_001:0825b16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辠疾等於須彌。",
+        "from": "X62n1210_001:0825b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陳思王之詠飛蓬。",
+        "from": "X62n1210_001:0825b16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意欲同之。",
+        "from": "X62n1210_001:0825b17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不蓮界之思。",
+        "from": "X62n1210_001:0825b17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何思乎。",
+        "from": "X62n1210_001:0825b17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "思而不學。",
+        "from": "X62n1210_001:0825b17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自取怠焉。",
+        "from": "X62n1210_001:0825b18_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "念之哉。",
+        "from": "X62n1210_001:0825b18_20",
         "context_with_next_sentence": false
     }
 ]

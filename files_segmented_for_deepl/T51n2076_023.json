@@ -380,7 +380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "賣鞋老婆脚[起巳+歷]趚(上郎擊切。",
+        "source_sentence": "賣鞋老婆脚[起-巳+歷]趚(上郎擊切。",
         "from": "T51n2076_023:0389b29_19",
         "context_with_next_sentence": true
     },
@@ -2120,7 +2120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳便打。",
+        "source_sentence": "[跳-兆+孛]跳便打。",
         "from": "T51n2076_023:0391a08_13",
         "context_with_next_sentence": true
     },
@@ -7225,7 +7225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇車關[打丁+(隸木+匕)]良計斷。",
+        "source_sentence": "扇車關[打-丁+(隸-木+匕)]良計斷。",
         "from": "T51n2076_023:0395b26_3",
         "context_with_next_sentence": true
     },
@@ -7485,7 +7485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "升子裏[跳兆+孛]跳斗子內轉身。",
+        "source_sentence": "升子裏[跳-兆+孛]跳斗子內轉身。",
         "from": "T51n2076_023:0395c27_3",
         "context_with_next_sentence": true
     },

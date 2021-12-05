@@ -60,7 +60,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "喻陳惟遠[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "喻陳惟遠[(厂@((既-旡)-日+口))*頁]。",
         "from": "X25n0491_001:0373a07_6",
         "context_with_next_sentence": true
     },

@@ -55,7 +55,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "盛化於明州[鄖口+刀]山育王寺。",
+        "source_sentence": "盛化於明州[鄖-口+刀]山育王寺。",
         "from": "T47n1991_001:0588a27_8",
         "context_with_next_sentence": true
     },
@@ -5870,7 +5870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "窗上不要書窓字。",
+        "source_sentence": "窻上不要書窓字。",
         "from": "T47n1991_001:0592a02_3",
         "context_with_next_sentence": true
     },
@@ -8985,7 +8985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "摩[怡台+羅]而退。",
+        "source_sentence": "摩[怡-台+羅]而退。",
         "from": "T47n1991_001:0594a15_46",
         "context_with_next_sentence": true
     },
@@ -9210,8 +9210,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "命師門人玄覺言導",
+        "source_sentence": "命師門人玄覺言導師開法。",
         "from": "T47n1991_001:0594a28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "再諡師大智藏大導師(終)。",
+        "from": "T47n1991_001:0594a29_12",
         "context_with_next_sentence": false
     }
 ]

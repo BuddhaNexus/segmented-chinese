@@ -685,7 +685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "百鳥不復[銜金+缶]花。",
+        "source_sentence": "百鳥不復[銜-金+缶]花。",
         "from": "X65n1295_008:0516a24_18",
         "context_with_next_sentence": true
     },
@@ -850,7 +850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "百鳥[銜金+缶]花禍有根。",
+        "source_sentence": "百鳥[銜-金+缶]花禍有根。",
         "from": "X65n1295_008:0516b13_3",
         "context_with_next_sentence": true
     },
@@ -875,7 +875,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "百鳥[銜金+缶]花無處尋。",
+        "source_sentence": "百鳥[銜-金+缶]花無處尋。",
         "from": "X65n1295_008:0516b15_3",
         "context_with_next_sentence": true
     },
@@ -970,7 +970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "百鳥[銜金+缶]花去不來。",
+        "source_sentence": "百鳥[銜-金+缶]花去不來。",
         "from": "X65n1295_008:0516b23_3",
         "context_with_next_sentence": true
     },
@@ -5280,7 +5280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大溈哲云。",
+        "source_sentence": "大溈喆云。",
         "from": "X65n1295_008:0521a13_14",
         "context_with_next_sentence": true
     },
@@ -5790,8 +5790,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "永嘉城裏",
+        "source_sentence": "永嘉城裏闡宗風。",
         "from": "X65n1295_008:0521b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "江月松風無畔岸。",
+        "from": "X65n1295_008:0521b24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(無禪才)卷第八",
+        "from": "X65n1295_008:0521b24_4",
         "context_with_next_sentence": false
     }
 ]

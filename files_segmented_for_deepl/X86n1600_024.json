@@ -4730,7 +4730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "落地枯枝纔[跳兆+孛]跳。",
+        "source_sentence": "落地枯枝纔[跳-兆+孛]跳。",
         "from": "X86n1600_024:0243b03_8",
         "context_with_next_sentence": true
     },
@@ -5430,7 +5430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "打箇[跳兆+孛]跳。",
+        "source_sentence": "打箇[跳-兆+孛]跳。",
         "from": "X86n1600_024:0244a07_14",
         "context_with_next_sentence": true
     },
@@ -8015,7 +8015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "十利道拔生。",
+        "source_sentence": "十利道㧞生。",
         "from": "X86n1600_024:0246c01_1",
         "context_with_next_sentence": true
     },

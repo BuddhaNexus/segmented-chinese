@@ -6515,7 +6515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "從今日麁[打丁+坒]長繩床上，聽三人共坐。",
+        "source_sentence": "從今日麁[打-丁+坒]長繩床上，聽三人共坐。",
         "from": "T23n1435_061:0467b11_1",
         "context_with_next_sentence": true
     },
@@ -6525,7 +6525,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "細[打丁+坒]繩床上聽二人共坐，獨坐床上聽一人坐。」",
+        "source_sentence": "細[打-丁+坒]繩床上聽二人共坐，獨坐床上聽一人坐。」",
         "from": "T23n1435_061:0467b13_3",
         "context_with_next_sentence": true
     },

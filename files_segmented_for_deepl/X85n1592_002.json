@@ -145,7 +145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "便可打[跳兆+孛]跳。",
+        "source_sentence": "便可打[跳-兆+孛]跳。",
         "from": "X85n1592_002:0282a01_25",
         "context_with_next_sentence": true
     },
@@ -975,7 +975,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "(打破徑山柄杷子。",
+        "source_sentence": "(打破徑山柄&#;子。",
         "from": "X85n1592_002:0282b20_34",
         "context_with_next_sentence": true
     },
@@ -3055,7 +3055,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拈却缽盂匙箸。",
+        "source_sentence": "拈却盋盂匙箸。",
         "from": "X85n1592_002:0284a06_15",
         "context_with_next_sentence": true
     },
@@ -5605,7 +5605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "但只饑來喫飯。",
+        "source_sentence": "但只饑來喫飰。",
         "from": "X85n1592_002:0286a01_11",
         "context_with_next_sentence": true
     },
@@ -6280,7 +6280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以拂子[(中口+○)│+卜]云。",
+        "source_sentence": "以拂子[(中-口+○)-│+卜]云。",
         "from": "X85n1592_002:0286b13_8",
         "context_with_next_sentence": true
     },
@@ -8595,7 +8595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "前面是缽盂峰。",
+        "source_sentence": "前面是盋盂峰。",
         "from": "X85n1592_002:0288b05_0",
         "context_with_next_sentence": true
     },
@@ -9955,7 +9955,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "曰雲門扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "曰雲門扇子[跳-兆+孛]跳上三十三天。",
         "from": "X85n1592_002:0289b07_17",
         "context_with_next_sentence": true
     },
@@ -14000,12 +14000,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "九牛拔不出)　示眾。",
+        "source_sentence": "九牛㧞不出)　示眾。",
         "from": "X85n1592_002:0292b03_4",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "舉德山托缽因緣。",
+        "source_sentence": "舉德山托盋因緣。",
         "from": "X85n1592_002:0292b04_0",
         "context_with_next_sentence": true
     },
@@ -15360,7 +15360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "曰蝦蟆[跳兆+孛]跳上天。",
+        "source_sentence": "曰蝦蟆[跳-兆+孛]跳上天。",
         "from": "X85n1592_002:0293b05_4",
         "context_with_next_sentence": true
     },
@@ -15680,7 +15680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "細魚齩斷鸕鶿脚。",
+        "source_sentence": "細魚齩斷鸕鷀脚。",
         "from": "X85n1592_002:0293b21_26",
         "context_with_next_sentence": true
     },
@@ -17120,7 +17120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "缽盂口向天。",
+        "source_sentence": "盋盂口向天。",
         "from": "X85n1592_002:0294c02_15",
         "context_with_next_sentence": true
     },
@@ -17425,7 +17425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不如颺向擸[打丁+(天/韭)]堆頭。",
+        "source_sentence": "不如颺向擸[打-丁+(天/韭)]堆頭。",
         "from": "X85n1592_002:0294c17_19",
         "context_with_next_sentence": true
     },
@@ -17565,7 +17565,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "塔於",
+        "source_sentence": "塔於凌霄。",
         "from": "X85n1592_002:0294c24_47",
         "context_with_next_sentence": false
     }

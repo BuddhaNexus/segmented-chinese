@@ -2320,7 +2320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "迤[這言+里]次第。",
+        "source_sentence": "迤[這-言+里]次第。",
         "from": "X24n0469_002:0836c01_0",
         "context_with_next_sentence": true
     },
@@ -10175,7 +10175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無所罣礙。",
+        "source_sentence": "無所&#;礙。",
         "from": "X24n0469_002:0843b01_9",
         "context_with_next_sentence": true
     },
@@ -11610,7 +11610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "各無罣礙。",
+        "source_sentence": "各無&#;礙。",
         "from": "X24n0469_002:0844b15_3",
         "context_with_next_sentence": true
     },
@@ -13982,6 +13982,11 @@
     {
         "source_sentence": "盡入金剛大道場。",
         "from": "X24n0469_002:0846b05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛般若波羅蜜經補註卷下(終)",
+        "from": "X24n0469_002:0846b07_0",
         "context_with_next_sentence": false
     }
 ]

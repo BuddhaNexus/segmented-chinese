@@ -2510,7 +2510,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[飢几+僉]諸檀越欲與僧食。",
+        "source_sentence": "[飢-几+僉]諸檀越欲與僧食。",
         "from": "T85n2793_001:0675a23_20",
         "context_with_next_sentence": true
     },
@@ -4345,7 +4345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "十滿二十[萉巴+(日/(句口+匕))]　僧祇明。",
+        "source_sentence": "十滿二十[萉-巴+(日/(句-口+匕))]　僧祇明。",
         "from": "T85n2793_001:0677a06_0",
         "context_with_next_sentence": true
     },
@@ -4530,7 +4530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "七滿五[萉巴+(日/(句口+匕))]愚癡者。",
+        "source_sentence": "七滿五[萉-巴+(日/(句-口+匕))]愚癡者。",
         "from": "T85n2793_001:0677a19_37",
         "context_with_next_sentence": true
     },
@@ -4540,7 +4540,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "百[萉巴+(日/(句口+匕))]愚癡比丘應依止十[萉巴+(日/(句口+匕))]有智比丘。",
+        "source_sentence": "百[萉-巴+(日/(句-口+匕))]愚癡比丘應依止十[萉-巴+(日/(句-口+匕))]有智比丘。",
         "from": "T85n2793_001:0677a20_39",
         "context_with_next_sentence": true
     },
@@ -4755,7 +4755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "十[萉巴+(日/(句口+匕))]　僧祇曰。",
+        "source_sentence": "十[萉-巴+(日/(句-口+匕))]　僧祇曰。",
         "from": "T85n2793_001:0677b09_82",
         "context_with_next_sentence": true
     },
@@ -10900,7 +10900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[飢几+僉]諸檀越欲與僧食作念。",
+        "source_sentence": "[飢-几+僉]諸檀越欲與僧食作念。",
         "from": "T85n2793_001:0683b10_21",
         "context_with_next_sentence": true
     },
@@ -11087,6 +11087,11 @@
     {
         "source_sentence": "三部律抄一卷",
         "from": "T85n2793_001:0683b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二年八月三日寫訖曠許",
+        "from": "T85n2793_001:0683b26_0",
         "context_with_next_sentence": false
     }
 ]

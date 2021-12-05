@@ -3505,7 +3505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "攢刺[病丙+習][病丙+習]。",
+        "source_sentence": "攢刺[病-丙+習][病-丙+習]。",
         "from": "X45n0757_006:0237c04_12",
         "context_with_next_sentence": true
     },
@@ -7567,6 +7567,11 @@
     {
         "source_sentence": "大乘起信論疏記會本卷六(終)",
         "from": "X45n0757_006:0241a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "起信論別記(二卷)　　　新羅　元曉撰會入于起信論疏",
+        "from": "X45n0757_006:0241b03_0",
         "context_with_next_sentence": false
     }
 ]

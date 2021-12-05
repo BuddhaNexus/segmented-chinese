@@ -3880,7 +3880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[宋木+取]苦天衣喫賺深。",
+        "source_sentence": "[宋-木+取]苦天衣喫賺深。",
         "from": "X73n1454_002:0442c02_1",
         "context_with_next_sentence": true
     },
@@ -4210,7 +4210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "瀑布[泳永+　]千尋。",
+        "source_sentence": "瀑布[泳-永+　]千尋。",
         "from": "X73n1454_002:0443a18_1",
         "context_with_next_sentence": true
     },
@@ -4290,7 +4290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "墮在草[竺二+果]裏。",
+        "source_sentence": "墮在草[竺-二+果]裏。",
         "from": "X73n1454_002:0443a24_3",
         "context_with_next_sentence": true
     },
@@ -4395,7 +4395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寒山(執掃帚)",
+        "source_sentence": "寒山(執掃箒)",
         "from": "X73n1454_002:0443b10_0",
         "context_with_next_sentence": true
     },
@@ -5162,6 +5162,126 @@
     {
         "source_sentence": "雲谷和尚語錄卷下(終)",
         "from": "X73n1454_002:0444a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南堂說法。",
+        "from": "X73n1454_002:0444a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或誦貫休山居詩。",
+        "from": "X73n1454_002:0444a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或歌柳耆卿詞。",
+        "from": "X73n1454_002:0444a23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂之不是禪可乎。",
+        "from": "X73n1454_002:0444a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "近世尚奇怪生矯。",
+        "from": "X73n1454_002:0444a24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "苟見處不逮古人。",
+        "from": "X73n1454_002:0444a24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如優場演史。",
+        "from": "X73n1454_002:0444a24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "談劉項相似事。",
+        "from": "X73n1454_002:0444b01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "便體之者忘倦。",
+        "from": "X73n1454_002:0444b01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其奚非真史也。",
+        "from": "X73n1454_002:0444b01_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有所見。",
+        "from": "X73n1454_002:0444b02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖無此錄。",
+        "from": "X73n1454_002:0444b02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誰無此錄。",
+        "from": "X73n1454_002:0444b02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既無所見。",
+        "from": "X73n1454_002:0444b02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖有此錄。",
+        "from": "X73n1454_002:0444b02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誰有此錄。",
+        "from": "X73n1454_002:0444b03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或曰。",
+        "from": "X73n1454_002:0444b03_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "子論太高。",
+        "from": "X73n1454_002:0444b03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天下無語錄矣。",
+        "from": "X73n1454_002:0444b03_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雲谷望士。",
+        "from": "X73n1454_002:0444b03_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安可使之無傳。",
+        "from": "X73n1454_002:0444b04_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余拱手謝曰。",
+        "from": "X73n1454_002:0444b04_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善[珍-王+貝]得罪得罪。",
+        "from": "X73n1454_002:0444b04_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "戊辰九月朔日書。",
+        "from": "X73n1454_002:0444b04_23",
         "context_with_next_sentence": false
     }
 ]

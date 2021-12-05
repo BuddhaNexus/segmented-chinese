@@ -3950,7 +3950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "釣竿斫盡重[栽木+土]竹。",
+        "source_sentence": "釣竿斫盡重[栽-木+土]竹。",
         "from": "X67n1299_015:0094b03_6",
         "context_with_next_sentence": true
     },
@@ -4205,7 +4205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "脫籠卸馱飽齁齁。",
+        "source_sentence": "脫籠卸馱飽&#;齁。",
         "from": "X67n1299_015:0094b22_3",
         "context_with_next_sentence": true
     },

@@ -440,7 +440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "藥王之[跳兆+(轍車)]。",
+        "source_sentence": "藥王之[跳-兆+(轍-車)]。",
         "from": "T51n2067_005:0024a08_14",
         "context_with_next_sentence": true
     },
@@ -1095,7 +1095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "惆悵[打丁+(改己)]淚。",
+        "source_sentence": "惆悵[打-丁+(改-己)]淚。",
         "from": "T51n2067_005:0024b22_12",
         "context_with_next_sentence": true
     },
@@ -4522,6 +4522,96 @@
     {
         "source_sentence": "弘贊法華傳卷第五",
         "from": "T51n2067_005:0026c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "弘贊法華傳者。",
+        "from": "T51n2067_005:0026c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宋人永蘇景。",
+        "from": "T51n2067_005:0026c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依予之勸。",
+        "from": "T51n2067_005:0026c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且自高麗國所奉渡聖教百餘卷內也。",
+        "from": "T51n2067_005:0026c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依一本書。",
+        "from": "T51n2067_005:0026c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為恐散失勸俊源法師。",
+        "from": "T51n2067_005:0026c15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先乞書寫一本矣。",
+        "from": "T51n2067_005:0026c15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "就中蘇景等歸朝之間。",
+        "from": "T51n2067_005:0026c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於壹岐島。",
+        "from": "T51n2067_005:0026c16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遇海賊亂起。",
+        "from": "T51n2067_005:0026c16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此傳上五卷入海中少濕損。",
+        "from": "T51n2067_005:0026c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖然海賊等或為宋人被殺害。",
+        "from": "T51n2067_005:0026c17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或及島被溺死。",
+        "from": "T51n2067_005:0026c18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敢見散失物。",
+        "from": "T51n2067_005:0026c18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宋人等云。",
+        "from": "T51n2067_005:0026c19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偏依聖教之威力也(云云)保安元年七月五日。",
+        "from": "T51n2067_005:0026c19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於太宰府記之。",
+        "from": "T51n2067_005:0026c20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大法師覺樹。",
+        "from": "T51n2067_005:0026c20_10",
         "context_with_next_sentence": false
     }
 ]

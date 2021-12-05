@@ -1020,7 +1020,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "住黃龍法席之盛追媲泐潭馬祖百丈大智。",
+        "source_sentence": "住黃龍法席之盛追嫓泐潭馬祖百丈大智。",
         "from": "T51n2077_007:0506c06_16",
         "context_with_next_sentence": true
     },
@@ -2335,7 +2335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "席[葶丁+呆]于地轉側不少休。",
+        "source_sentence": "席[葶-丁+呆]于地轉側不少休。",
         "from": "T51n2077_007:0507c18_22",
         "context_with_next_sentence": true
     },
@@ -2840,7 +2840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "幽西度殘月。",
+        "source_sentence": "幽&#;度殘月。",
         "from": "T51n2077_007:0508a26_11",
         "context_with_next_sentence": true
     },
@@ -3220,7 +3220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "龍馬駒[跳兆+孛]跳。",
+        "source_sentence": "龍馬駒[跳-兆+孛]跳。",
         "from": "T51n2077_007:0508b25_0",
         "context_with_next_sentence": true
     },
@@ -3255,7 +3255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "剎竿頭上煎[飢几+追]子。",
+        "source_sentence": "剎竿頭上煎[飢-几+追]子。",
         "from": "T51n2077_007:0508b27_7",
         "context_with_next_sentence": true
     },
@@ -3435,7 +3435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "草鞋裏[跳兆+孛]跳。",
+        "source_sentence": "草鞋裏[跳-兆+孛]跳。",
         "from": "T51n2077_007:0508c10_25",
         "context_with_next_sentence": true
     },
@@ -3455,7 +3455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "草鞋底下常[跳兆+孛]跳。",
+        "source_sentence": "草鞋底下常[跳-兆+孛]跳。",
         "from": "T51n2077_007:0508c11_29",
         "context_with_next_sentence": true
     },
@@ -6872,6 +6872,126 @@
     {
         "source_sentence": "續傳燈錄卷第七(終)",
         "from": "T51n2077_007:0511b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "續傳燈錄卷第八目錄",
+        "from": "T51n2077_007:0511b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大鑑下第十二世",
+        "from": "T51n2077_007:0511b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天衣懷禪師法嗣八十三人",
+        "from": "T51n2077_007:0511b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慧林圓照本禪師法雲法秀禪師",
+        "from": "T51n2077_007:0511b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慧林覺海沖禪師長蘆應夫禪師",
+        "from": "T51n2077_007:0511b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛日智才禪師天盋重元禪師",
+        "from": "T51n2077_007:0511b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瑞巖子鴻禪師棲賢智遷禪師",
+        "from": "T51n2077_007:0511b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨眾梵言首座三祖冲會禪師",
+        "from": "T51n2077_007:0511b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "資壽捷禪師觀音啟禪師",
+        "from": "T51n2077_007:0511b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天童元善禪師長蘆體明禪師",
+        "from": "T51n2077_007:0511b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開元智孜禪師澄照慧慈禪師",
+        "from": "T51n2077_007:0511b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法雨慧源禪師崇德智澄禪師",
+        "from": "T51n2077_007:0511b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "棲隱有評禪師定慧雲禪師",
+        "from": "T51n2077_007:0511b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大同旺禪師鐵佛因禪師",
+        "from": "T51n2077_007:0511c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "報本法存禪師開聖棲禪師",
+        "from": "T51n2077_007:0511c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衡山惟禮禪師顯明善孜禪師",
+        "from": "T51n2077_007:0511c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "啟霞惠安禪師雲門靈侃禪師",
+        "from": "T51n2077_007:0511c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "太平元坦禪師佛日文祖禪師",
+        "from": "T51n2077_007:0511c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "望仙宗禪師五峯用機禪師",
+        "from": "T51n2077_007:0511c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛足處祥禪師明因慧贇禪師",
+        "from": "T51n2077_007:0511c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西臺其辯禪師開元智譚禪師",
+        "from": "T51n2077_007:0511c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永泰智覺禪師龍華文喜禪師",
+        "from": "T51n2077_007:0511c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永泰自仁禪師延恩法安禪師",
+        "from": "T51n2077_007:0511c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "侍郎楊傑居士(已上四十一人見錄)慈雲慶璫禪師靈岩洞偕禪師桐城詮禪師淨慧可證禪師寶林光寂禪師感慈道賓禪師泗洲宗尚禪師白塔晦禪師報恩和禪師偃峯簡諸禪師道吾元泰禪師無為楚仙禪師報恩應潭禪師龍門宗賁禪師顯親順宗禪師長耳相禪師薦福惠洪禪師延福恩禪師景德普俊禪師薦福明因禪師開化惠圓禪師萬壽和禪師定法本和尚長蘆鑑禪師墨山有琦禪師上藍文達禪師法海來山禪師同慶智珣禪師上方真禪師無錫應譚禪師寶林种禪師報恩如寶禪師芙容賁禪師白雲有禪師法雨慧深禪師淨眾擇言禪師靈泉和尚茶亭能和尚永泰和尚泗洲惠洪禪師崇化珣禪師全詠和尚(已上四十二人無錄)續傳燈錄卷第八目錄",
+        "from": "T51n2077_007:0511c11_0",
         "context_with_next_sentence": false
     }
 ]

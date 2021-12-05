@@ -2520,7 +2520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[宋木+鬼]因取龍故。",
+        "source_sentence": "[宋-木+鬼]因取龍故。",
         "from": "T43n1829_011:0140c28_11",
         "context_with_next_sentence": true
     },
@@ -12345,7 +12345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若米酒也　迷[肄聿+余]邪。",
+        "source_sentence": "若米酒也　迷[肄-聿+余]邪。",
         "from": "T43n1829_011:0150b13_5",
         "context_with_next_sentence": true
     },
@@ -14157,6 +14157,11 @@
     {
         "source_sentence": "瑜伽師地論略纂卷第十一",
         "from": "T43n1829_011:0152a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時享保八年癸卯七月八日此卷一校加點畢沙門高範(享年六十九)",
+        "from": "T43n1829_011:0152a15_0",
         "context_with_next_sentence": false
     }
 ]

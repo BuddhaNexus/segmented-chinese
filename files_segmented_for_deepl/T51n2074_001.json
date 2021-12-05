@@ -1285,7 +1285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有居士[樊大+木]玄智。",
+        "source_sentence": "有居士[樊-大+木]玄智。",
         "from": "T51n2074_001:0174b09_1",
         "context_with_next_sentence": true
     },
@@ -1945,7 +1945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[這言+(序予+手)]前有三五童子。",
+        "source_sentence": "[這-言+(序-予+手)]前有三五童子。",
         "from": "T51n2074_001:0174c19_10",
         "context_with_next_sentence": true
     },
@@ -2545,7 +2545,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遍於[這言+(序予+手)]宇。",
+        "source_sentence": "遍於[這-言+(序-予+手)]宇。",
         "from": "T51n2074_001:0175a29_1",
         "context_with_next_sentence": true
     },
@@ -3965,7 +3965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又於內苑[這言+(序予+手)]沼中。",
+        "source_sentence": "又於內苑[這-言+(序-予+手)]沼中。",
         "from": "T51n2074_001:0176b11_7",
         "context_with_next_sentence": true
     },
@@ -4020,7 +4020,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "詔出花[木*彔]使中官。",
+        "source_sentence": "詔出花椂使中官。",
         "from": "T51n2074_001:0176b15_18",
         "context_with_next_sentence": true
     },
@@ -4985,7 +4985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "芳[卄/(麩夫+玉)]榮艶。",
+        "source_sentence": "芳[卄/(麩-夫+玉)]榮艶。",
         "from": "T51n2074_001:0177a19_10",
         "context_with_next_sentence": true
     },

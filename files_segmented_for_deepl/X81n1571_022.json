@@ -10615,7 +10615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "山僧圈[袖由+貴]去。",
+        "source_sentence": "山僧圈[袖-由+貴]去。",
         "from": "X81n1571_022:0617b08_0",
         "context_with_next_sentence": true
     },
@@ -10635,7 +10635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上三十三天。",
+        "source_sentence": "[跳-兆+孛]跳上三十三天。",
         "from": "X81n1571_022:0617b08_4",
         "context_with_next_sentence": true
     },

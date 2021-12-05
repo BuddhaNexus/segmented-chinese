@@ -610,7 +610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "與黃門[栽木+土]鬚。",
+        "source_sentence": "與黃門[栽-木+土]鬚。",
         "from": "X68n1315_041:0266c01_10",
         "context_with_next_sentence": true
     },
@@ -5905,7 +5905,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳撞入燈籠。",
+        "source_sentence": "[跳-兆+孛]跳撞入燈籠。",
         "from": "X68n1315_041:0270b18_2",
         "context_with_next_sentence": true
     },
@@ -7157,6 +7157,131 @@
     {
         "source_sentence": "古尊宿語錄卷之四十一",
         "from": "X68n1315_041:0272b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "題雲峰悅禪師語錄",
+        "from": "X68n1315_041:0272b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悅禪師語者。",
+        "from": "X68n1315_041:0272b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "青山白雲。",
+        "from": "X68n1315_041:0272b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開遮自在。",
+        "from": "X68n1315_041:0272b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "碧潭明月。",
+        "from": "X68n1315_041:0272b08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "撈摝方知。",
+        "from": "X68n1315_041:0272b08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鐵石崩崖。",
+        "from": "X68n1315_041:0272b09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "霜弓劈箭。",
+        "from": "X68n1315_041:0272b09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不受然燈記莂。",
+        "from": "X68n1315_041:0272b09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自提三印正宗。",
+        "from": "X68n1315_041:0272b09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假令古佛出頭。",
+        "from": "X68n1315_041:0272b10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "也下一椎定當。",
+        "from": "X68n1315_041:0272b10_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前則激惠南老子。",
+        "from": "X68n1315_041:0272b10_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出泐潭死水而印慈明。",
+        "from": "X68n1315_041:0272b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後則勸祖心禪師。",
+        "from": "X68n1315_041:0272b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "撥大愚寒灰而見黃檗。",
+        "from": "X68n1315_041:0272b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "看儂兩著。",
+        "from": "X68n1315_041:0272b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "須天下碁客受。",
+        "from": "X68n1315_041:0272b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先破此一塵。",
+        "from": "X68n1315_041:0272b12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與四海□宗點眼。",
+        "from": "X68n1315_041:0272b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有懷疑者。",
+        "from": "X68n1315_041:0272b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是不肯山谷老人。",
+        "from": "X68n1315_041:0272b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "擬欲全提。",
+        "from": "X68n1315_041:0272b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且救取無為居士。",
+        "from": "X68n1315_041:0272b14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黃庭堅題。",
+        "from": "X68n1315_041:0272b14_5",
         "context_with_next_sentence": false
     }
 ]

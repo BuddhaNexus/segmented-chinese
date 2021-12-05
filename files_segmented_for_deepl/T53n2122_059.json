@@ -3195,7 +3195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "持[矛*(替曰+貝)]刺人斷其命根。",
+        "source_sentence": "持[矛*(替-曰+貝)]刺人斷其命根。",
         "from": "T53n2122_059:0731c24_8",
         "context_with_next_sentence": true
     },
@@ -3385,7 +3385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "便推崖底以石[序予+阜]之。",
+        "source_sentence": "便推崖底以石[序-予+阜]之。",
         "from": "T53n2122_059:0732a12_0",
         "context_with_next_sentence": true
     },
@@ -3445,7 +3445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為鐵山[序予+阜]壓。",
+        "source_sentence": "為鐵山[序-予+阜]壓。",
         "from": "T53n2122_059:0732a17_12",
         "context_with_next_sentence": true
     },

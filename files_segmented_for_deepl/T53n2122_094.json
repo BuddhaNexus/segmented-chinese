@@ -3100,7 +3100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "既曉覺口[腥生+土]唾出血。",
+        "source_sentence": "既曉覺口[腥-生+土]唾出血。",
         "from": "T53n2122_094:0980b06_21",
         "context_with_next_sentence": true
     },
@@ -3525,7 +3525,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "汝大襤縷。",
+        "source_sentence": "汝大繿縷。",
         "from": "T53n2122_094:0980c11_5",
         "context_with_next_sentence": true
     },
@@ -4650,7 +4650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "木竹[竺二+韋]作籌度量。",
+        "source_sentence": "木竹[竺-二+韋]作籌度量。",
         "from": "T53n2122_094:0981c24_3",
         "context_with_next_sentence": true
     },

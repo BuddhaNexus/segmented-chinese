@@ -135,7 +135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "依於涕唾、痰[病丙+(企止+(套大))]、膿血、筋骨、皮肉、心肝、五藏、腸胃、屎尿。」",
+        "source_sentence": "依於涕唾、痰[病-丙+(企-止+(套-大))]、膿血、筋骨、皮肉、心肝、五藏、腸胃、屎尿。」",
         "from": "T16n0657_008:0187b12_12",
         "context_with_next_sentence": true
     },

@@ -1100,7 +1100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[改己+易]歷中外。",
+        "source_sentence": "敡歷中外。",
         "from": "X88n1646_021:0220a12_3",
         "context_with_next_sentence": true
     },
@@ -1620,8 +1620,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦祇是一",
+        "source_sentence": "亦祇是一場大夢耳。",
         "from": "X88n1646_021:0220b19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讀至此。",
+        "from": "X88n1646_021:0220b20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令我勳名之念氷消矣。",
+        "from": "X88n1646_021:0220b20_4",
         "context_with_next_sentence": false
     }
 ]

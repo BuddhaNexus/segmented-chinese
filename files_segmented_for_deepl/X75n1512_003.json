@@ -395,7 +395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "堅[(厂@((既旡)日+口))*頁]謂安曰。",
+        "source_sentence": "堅[(厂@((既-旡)-日+口))*頁]謂安曰。",
         "from": "X75n1512_003:0121b06_5",
         "context_with_next_sentence": true
     },
@@ -1265,7 +1265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一昔風雷拔樹鼓沙石。",
+        "source_sentence": "一昔風雷㧞樹鼓沙石。",
         "from": "X75n1512_003:0122a23_9",
         "context_with_next_sentence": true
     },
@@ -1765,7 +1765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "秦王姚興致書餉遠龜茲細縷雜變像以伸[款士+止]敬。",
+        "source_sentence": "秦王姚興致書餉遠龜茲細縷雜變像以伸[款-士+止]敬。",
         "from": "X75n1512_003:0122c09_14",
         "context_with_next_sentence": true
     },
@@ -4060,7 +4060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "融[(厂@((既旡)日+口))*頁]外道經書。",
+        "source_sentence": "融[(厂@((既-旡)-日+口))*頁]外道經書。",
         "from": "X75n1512_003:0125a10_8",
         "context_with_next_sentence": true
     },

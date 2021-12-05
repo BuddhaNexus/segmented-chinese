@@ -1650,12 +1650,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "問：「若比丘船[簿尃+卑]筏上安居，得名安居不？」",
+        "source_sentence": "問：「若比丘船[簿-尃+卑]筏上安居，得名安居不？」",
         "from": "T23n1435_054:0400a17_28",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "答：「若是船[簿尃+卑]筏上水下水，不得；若繫在柱、若樹、若橛、若石沈不移，得安居。」",
+        "source_sentence": "答：「若是船[簿-尃+卑]筏上水下水，不得；若繫在柱、若樹、若橛、若石沈不移，得安居。」",
         "from": "T23n1435_054:0400a18_29",
         "context_with_next_sentence": true
     },
@@ -1665,7 +1665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "答：「即隨船[簿尃+卑]筏上所得。」",
+        "source_sentence": "答：「即隨船[簿-尃+卑]筏上所得。」",
         "from": "T23n1435_054:0400a21_31",
         "context_with_next_sentence": true
     },

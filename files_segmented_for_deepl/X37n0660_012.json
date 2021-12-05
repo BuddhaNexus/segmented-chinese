@@ -5485,17 +5485,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "經云粟[序予+禾]者。",
+        "source_sentence": "經云粟[序-予+禾]者。",
         "from": "X37n0660_012:0133a03_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[序予+禾]字(正攸反)禾穄也。",
+        "source_sentence": "[序-予+禾]字(正攸反)禾穄也。",
         "from": "X37n0660_012:0133a03_1",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "字體作穈[序予+(黍禾+林)]二形同。",
+        "source_sentence": "字體作穈[序-予+(黍-禾+林)]二形同。",
         "from": "X37n0660_012:0133a03_2",
         "context_with_next_sentence": true
     },
@@ -5520,7 +5520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今俗作[序予+禾]。",
+        "source_sentence": "今俗作[序-予+禾]。",
         "from": "X37n0660_012:0133a05_4",
         "context_with_next_sentence": true
     },
@@ -5675,7 +5675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "天台涅槃疏私記卷第十二(四末畢)",
+        "source_sentence": "天台涅槃疏私記卷第十二(四末畢)承保四年五月二十四日奉書寫已了僧定深之本",
         "from": "X37n0660_012:0133a20_0",
         "context_with_next_sentence": false
     }

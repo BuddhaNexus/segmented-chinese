@@ -565,7 +565,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "襄水[序予+邑]氏子。",
+        "source_sentence": "襄水[序-予+邑]氏子。",
         "from": "X64n1266_002:0651b11_3",
         "context_with_next_sentence": true
     },
@@ -5370,7 +5370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如瑯琊和尚即[泳永+徐]州廣照慧覺禪師。",
+        "source_sentence": "如瑯琊和尚即[泳-永+徐]州廣照慧覺禪師。",
         "from": "X64n1266_002:0656a02_6",
         "context_with_next_sentence": true
     },
@@ -5515,7 +5515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "與夫那一種[曰/月]竊法位。",
+        "source_sentence": "與夫那一種冐竊法位。",
         "from": "X64n1266_002:0656a12_7",
         "context_with_next_sentence": true
     },
@@ -10855,7 +10855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一缽囊鞵袋百綴千補。",
+        "source_sentence": "一盋囊鞵袋百綴千補。",
         "from": "X64n1266_002:0661b02_2",
         "context_with_next_sentence": true
     },
@@ -11495,7 +11495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其性極愛汲引提拔賢能之士。",
+        "source_sentence": "其性極愛汲引提㧞賢能之士。",
         "from": "X64n1266_002:0661c17_3",
         "context_with_next_sentence": true
     },
@@ -19160,7 +19160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "切宜加意而審察之△鷄窗夜雨。",
+        "source_sentence": "切宜加意而審察之△鷄窻夜雨。",
         "from": "X64n1266_002:0669b17_21",
         "context_with_next_sentence": true
     },
@@ -20985,7 +20985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一瓶一缽雲行鳥飛。",
+        "source_sentence": "一瓶一盋雲行鳥飛。",
         "from": "X64n1266_002:0671b06_2",
         "context_with_next_sentence": true
     },
@@ -22895,7 +22895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不畜衣缽。",
+        "source_sentence": "不畜衣盋。",
         "from": "X64n1266_002:0673a14_14",
         "context_with_next_sentence": true
     },
@@ -23620,7 +23620,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "因此[曰/月]凟法顏。",
+        "source_sentence": "因此冐凟法顏。",
         "from": "X64n1266_002:0673c19_1",
         "context_with_next_sentence": true
     },
@@ -24025,7 +24025,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "非特刮眾人缽盂中物。",
+        "source_sentence": "非特刮眾人盋盂中物。",
         "from": "X64n1266_002:0674b01_1",
         "context_with_next_sentence": true
     },
@@ -28160,7 +28160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "艸子飯也。",
+        "source_sentence": "艸子飰也。",
         "from": "X64n1266_002:0678b03_6",
         "context_with_next_sentence": true
     },
@@ -34385,7 +34385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若使飯梁囓肥。",
+        "source_sentence": "若使飰梁囓肥。",
         "from": "X64n1266_002:0684a23_4",
         "context_with_next_sentence": true
     },
@@ -34440,7 +34440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若使去飯粱囓肥。",
+        "source_sentence": "若使去飰粱囓肥。",
         "from": "X64n1266_002:0684b03_8",
         "context_with_next_sentence": true
     },
@@ -34575,7 +34575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "值出生飯。",
+        "source_sentence": "值出生飰。",
         "from": "X64n1266_002:0684b11_10",
         "context_with_next_sentence": true
     },
@@ -34660,7 +34660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "昔者趙州訪一菴主值出生飯。",
+        "source_sentence": "昔者趙州訪一菴主值出生飰。",
         "from": "X64n1266_002:0684b17_10",
         "context_with_next_sentence": true
     },
@@ -36650,7 +36650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[曰/月]瀆鈞聽。",
+        "source_sentence": "冐瀆鈞聽。",
         "from": "X64n1266_002:0686b09_7",
         "context_with_next_sentence": true
     },

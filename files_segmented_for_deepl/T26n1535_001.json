@@ -275,8 +275,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "《莊嚴經論》云",
+        "source_sentence": "《莊嚴經論》云「示處及於相，法義名為經」。",
         "from": "T26n1535_001:0365b08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋題竟。",
+        "from": "T26n1535_001:0365b09_10",
         "context_with_next_sentence": false
     }
 ]

@@ -4640,7 +4640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "權實者背上[洺口+王]得名。",
+        "source_sentence": "權實者背上[洺-口+王]得名。",
         "from": "X46n0784_009:0627c09_18",
         "context_with_next_sentence": true
     },
@@ -13985,7 +13985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[宋木+取]為奇特也。",
+        "source_sentence": "[宋-木+取]為奇特也。",
         "from": "X46n0784_009:0636b12_17",
         "context_with_next_sentence": true
     },
@@ -14795,12 +14795,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "因果義[宋木+取]短。",
+        "source_sentence": "因果義[宋-木+取]短。",
         "from": "X46n0784_009:0637a20_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "次境知處中能所[宋木+取]長而廣也。",
+        "source_sentence": "次境知處中能所[宋-木+取]長而廣也。",
         "from": "X46n0784_009:0637a20_3",
         "context_with_next_sentence": true
     },
@@ -14885,7 +14885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故[宋木+取][豆*寸]局也。",
+        "source_sentence": "故[宋-木+取][豆*寸]局也。",
         "from": "X46n0784_009:0637b02_5",
         "context_with_next_sentence": true
     },
@@ -19187,6 +19187,11 @@
     {
         "source_sentence": "無依無得大乘四論玄義記卷第九",
         "from": "X46n0784_009:0641c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯慶三年歲次戊午年十二月六日興輪寺學問僧法安為　大皇及內殿故敬奉義章也。",
+        "from": "X46n0784_009:0641c03_0",
         "context_with_next_sentence": false
     }
 ]

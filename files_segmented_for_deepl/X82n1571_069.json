@@ -175,7 +175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以拄杖又畫[中口+○]曰。",
+        "source_sentence": "以拄杖又畫[中-口+○]曰。",
         "from": "X82n1571_069:0325c06_32",
         "context_with_next_sentence": true
     },
@@ -190,7 +190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又以拄杖畫[※((鬯匕)凶)+○]曰。",
+        "source_sentence": "又以拄杖畫[※-((鬯-匕)-凶)+○]曰。",
         "from": "X82n1571_069:0325c07_35",
         "context_with_next_sentence": true
     },
@@ -7765,7 +7765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳。",
+        "source_sentence": "扇子[跳-兆+孛]跳。",
         "from": "X82n1571_069:0331b12_11",
         "context_with_next_sentence": true
     },

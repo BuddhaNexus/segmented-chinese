@@ -150,7 +150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "還見佛國山[跳兆+孛]跳撞破汝諸人鼻孔擢瞎汝諸人眼睛麼。",
+        "source_sentence": "還見佛國山[跳-兆+孛]跳撞破汝諸人鼻孔擢瞎汝諸人眼睛麼。",
         "from": "X64n1260_033:0248b05_2",
         "context_with_next_sentence": true
     },
@@ -320,7 +320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "看茶瓢從地[跳兆+孛]跳。",
+        "source_sentence": "看茶瓢從地[跳-兆+孛]跳。",
         "from": "X64n1260_033:0248b19_5",
         "context_with_next_sentence": true
     },
@@ -3620,7 +3620,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不羨人間裨販名。",
+        "source_sentence": "不羨人間禆販名。",
         "from": "X64n1260_033:0251c15_4",
         "context_with_next_sentence": true
     },
@@ -3855,7 +3855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "饅頭[飢几+追]子。",
+        "source_sentence": "饅頭[飢-几+追]子。",
         "from": "X64n1260_033:0252a07_5",
         "context_with_next_sentence": true
     },

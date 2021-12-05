@@ -1865,12 +1865,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂諸經典修環研竅摩[怡台+(日/工)]理迦。",
+        "source_sentence": "謂諸經典修環研竅摩[怡-台+(日/工)]理迦。",
         "from": "T85n2782_001:0545b27_22",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即一切了義經皆名摩[怡台+(日/工)]理迦。",
+        "source_sentence": "即一切了義經皆名摩[怡-台+(日/工)]理迦。",
         "from": "T85n2782_001:0545b27_23",
         "context_with_next_sentence": true
     },
@@ -11177,6 +11177,11 @@
     {
         "source_sentence": "大乘稻芉經隨聽手鏡記",
         "from": "T85n2782_001:0556b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永康寺後輩法律比丘福漸受持并兼通稻芉及坐禪並具足義",
+        "from": "T85n2782_001:0556b20_0",
         "context_with_next_sentence": false
     }
 ]

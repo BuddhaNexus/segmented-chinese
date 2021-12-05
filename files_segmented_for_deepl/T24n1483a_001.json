@@ -4060,7 +4060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "兩手擘胸裂皮，破肉[口*((甫、)/寸)]吹[口*孫]。",
+        "source_sentence": "兩手擘胸裂皮，破肉[口*((甫-、)/寸)]吹[口*孫]。",
         "from": "T24n1483a_001:0979b24_3",
         "context_with_next_sentence": true
     },
@@ -4075,7 +4075,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "問：『何以[口*((甫、)/寸)][口*集]吹[口*孫]？』",
+        "source_sentence": "問：『何以[口*((甫-、)/寸)][口*集]吹[口*孫]？』",
         "from": "T24n1483a_001:0979b25_6",
         "context_with_next_sentence": true
     },
@@ -6572,6 +6572,26 @@
     {
         "source_sentence": "佛說目連問戒律中五百輕重事",
         "from": "T24n1483a_001:0983c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "按文，國本有三百六十七問，丹本同此。",
+        "from": "T24n1483a_001:0983c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則宋本只有二百二十問者，脫之甚矣。",
+        "from": "T24n1483a_001:0983c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今取二本補之，然亦不滿五百。",
+        "from": "T24n1483a_001:0983c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今疑譯本不足；或恐題舉大數標為三百，而傳寫者錯三為五焉。",
+        "from": "T24n1483a_001:0983c14_3",
         "context_with_next_sentence": false
     }
 ]

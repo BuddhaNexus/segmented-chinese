@@ -1200,7 +1200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "出生[妳女+口]。",
+        "source_sentence": "出生[妳-女+口]。",
         "from": "X67n1299_009:0054a05_0",
         "context_with_next_sentence": true
     },
@@ -4270,7 +4270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "昭等懡[怡台+羅]而退。",
+        "source_sentence": "昭等懡[怡-台+羅]而退。",
         "from": "X67n1299_009:0057a01_11",
         "context_with_next_sentence": true
     },
@@ -6830,7 +6830,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何人[拚ㄙ+ㄊ]得親生子。",
+        "source_sentence": "何人[拚-ㄙ+ㄊ]得親生子。",
         "from": "X67n1299_009:0059b11_2",
         "context_with_next_sentence": true
     },
@@ -7185,7 +7185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[栽木+土]松何老。",
+        "source_sentence": "[栽-木+土]松何老。",
         "from": "X67n1299_009:0059c12_20",
         "context_with_next_sentence": true
     },

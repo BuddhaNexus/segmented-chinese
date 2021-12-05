@@ -1430,7 +1430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上三十三天。",
+        "source_sentence": "[跳-兆+孛]跳上三十三天。",
         "from": "X71n1420_005:0568a06_4",
         "context_with_next_sentence": true
     },
@@ -1685,7 +1685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上三十三天。",
+        "source_sentence": "[跳-兆+孛]跳上三十三天。",
         "from": "X71n1420_005:0568a21_1",
         "context_with_next_sentence": true
     },
@@ -1735,7 +1735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "至[宋木+取]後。",
+        "source_sentence": "至[宋-木+取]後。",
         "from": "X71n1420_005:0568a24_11",
         "context_with_next_sentence": true
     },
@@ -2590,7 +2590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "誰是[宋木+取]道者。",
+        "source_sentence": "誰是[宋-木+取]道者。",
         "from": "X71n1420_005:0568c18_10",
         "context_with_next_sentence": true
     },
@@ -2610,7 +2610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "家無白[狂王+睪]之圖。",
+        "source_sentence": "家無白[狂-王+睪]之圖。",
         "from": "X71n1420_005:0568c19_14",
         "context_with_next_sentence": true
     },
@@ -4705,7 +4705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "再歸[橘矛+隹]李。",
+        "source_sentence": "再歸[橘-矛+隹]李。",
         "from": "X71n1420_005:0570b10_12",
         "context_with_next_sentence": true
     },
@@ -4960,7 +4960,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "後來真如哲云。",
+        "source_sentence": "後來真如喆云。",
         "from": "X71n1420_005:0570c02_6",
         "context_with_next_sentence": true
     },
@@ -5280,7 +5280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是自己饅頭[飢几+追]子。",
+        "source_sentence": "是自己饅頭[飢-几+追]子。",
         "from": "X71n1420_005:0570c21_2",
         "context_with_next_sentence": true
     },
@@ -6900,7 +6900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "摩[目*(危(夗夕)+夫)]羅伽。",
+        "source_sentence": "摩[目*(危-(夗-夕)+夫)]羅伽。",
         "from": "X71n1420_005:0572a09_9",
         "context_with_next_sentence": true
     },
@@ -7715,7 +7715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眼[瞷日+壬]耳熱。",
+        "source_sentence": "眼[瞷-日+壬]耳熱。",
         "from": "X71n1420_005:0572c04_4",
         "context_with_next_sentence": true
     },
@@ -8260,7 +8260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上三十三天。",
+        "source_sentence": "[跳-兆+孛]跳上三十三天。",
         "from": "X71n1420_005:0573a09_4",
         "context_with_next_sentence": true
     },
@@ -8315,7 +8315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "剎竿頭上煎[飢几+追]子。",
+        "source_sentence": "剎竿頭上煎[飢-几+追]子。",
         "from": "X71n1420_005:0573a12_15",
         "context_with_next_sentence": true
     },
@@ -9237,6 +9237,16 @@
     {
         "source_sentence": "佛日普照慧辯楚石禪師語錄卷第五",
         "from": "X71n1420_005:0573c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音切",
+        "from": "X71n1420_005:0573c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "灊(徐林切)　儂(奴冬切)　[翟*支](丑角切)　鱉(并滅切)　聃(他甘切)　閬(籚宕切)　顢頇(上莫安切下許安切)　肇(直小切)　鳧(扶音)　揖(伊入切)　飣(丁定切)　轟(呼萌切)　蜎(於沿切)　蠕(汝朱切)　[狂-王+睪](亦鍍二音)　毿(先含切)　蹏(徒奚切)　[飢-几+追](丁因切)　翮(諧革切)　[(夕/臼)*鳥](竹咸切)　皚(牛哀切)　[瞷-日+壬](如倫切)　簸(補我切)　趯(他歷切)　煤(莫桮切)　鶚(五名切)",
+        "from": "X71n1420_005:0573c19_0",
         "context_with_next_sentence": false
     }
 ]

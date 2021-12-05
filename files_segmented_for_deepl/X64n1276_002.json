@@ -3740,7 +3740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此猶是建化門[這言+(序予+手)]。",
+        "source_sentence": "此猶是建化門[這-言+(序-予+手)]。",
         "from": "X64n1276_002:0813a14_10",
         "context_with_next_sentence": true
     },

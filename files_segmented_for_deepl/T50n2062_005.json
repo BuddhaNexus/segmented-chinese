@@ -3615,7 +3615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "道即以兩手捧鑑頭作口[吭几+(坐工+十)]而出呈偈曰。",
+        "source_sentence": "道即以兩手捧鑑頭作口[吭-几+(坐-工+十)]而出呈偈曰。",
         "from": "T50n2062_005:0918b12_12",
         "context_with_next_sentence": true
     },
@@ -5085,7 +5085,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "曰霸王到烏江。",
+        "source_sentence": "曰覇王到烏江。",
         "from": "T50n2062_005:0919c25_1",
         "context_with_next_sentence": true
     },

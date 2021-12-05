@@ -755,8 +755,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "上及七世父",
+        "source_sentence": "上及七世父母。",
         "from": "T85n2866_001:1327a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下及己身皆誠善[口*弟]之道。",
+        "from": "T85n2866_001:1327a19_2",
         "context_with_next_sentence": false
     }
 ]

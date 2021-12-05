@@ -5545,7 +5545,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[得彳]其二。",
+        "source_sentence": "[得-彳]其二。",
         "from": "X45n0755_001:0159b20_3",
         "context_with_next_sentence": true
     },
@@ -16442,6 +16442,71 @@
     {
         "source_sentence": "大乘起信論疏卷上(終)",
         "from": "X45n0755_001:0170a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "高野山妙瑞律師住如意輪寺之日。",
+        "from": "X45n0755_001:0170a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以寶庫本。",
+        "from": "X45n0755_001:0170a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謄寫者。",
+        "from": "X45n0755_001:0170a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上下二卷。",
+        "from": "X45n0755_001:0170a20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(予)請以寫之讎挍。",
+        "from": "X45n0755_001:0170a20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下卷仝海東疏。",
+        "from": "X45n0755_001:0170a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故不寫之。",
+        "from": "X45n0755_001:0170a21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下卷終記云。",
+        "from": "X45n0755_001:0170a21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天平十三年歲次(辛巳)十月二日。",
+        "from": "X45n0755_001:0170a21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隅寺溫室院寫竟。",
+        "from": "X45n0755_001:0170a22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌行曉。",
+        "from": "X45n0755_001:0170a22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安永八己亥年六月八日轉寫之功已竟。",
+        "from": "X45n0755_001:0170a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙門　快道",
+        "from": "X45n0755_001:0170a24_0",
         "context_with_next_sentence": false
     }
 ]

@@ -255,7 +255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一場懡[怡台+羅]。",
+        "source_sentence": "一場懡[怡-台+羅]。",
         "from": "X84n1579_014:0112a11_9",
         "context_with_next_sentence": true
     },
@@ -380,7 +380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "歸家穩坐(笑巖寶別曰若會得者箇無法且請上居門外○法音[沆几+桀]曰若會得者箇無法三生六十劫何也大似傍若無人)○一日舉金剛經滅度一切眾生話。",
+        "source_sentence": "歸家穩坐(笑巖寶別曰若會得者箇無法且請上居門外○法音[沆-几+桀]曰若會得者箇無法三生六十劫何也大似傍若無人)○一日舉金剛經滅度一切眾生話。",
         "from": "X84n1579_014:0112a18_5",
         "context_with_next_sentence": true
     },
@@ -2430,7 +2430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "未免落人圈[袖由+貴]。",
+        "source_sentence": "未免落人圈[袖-由+貴]。",
         "from": "X84n1579_014:0113c15_13",
         "context_with_next_sentence": true
     },
@@ -2440,7 +2440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如何得不落人圈[袖由+貴]。",
+        "source_sentence": "如何得不落人圈[袖-由+貴]。",
         "from": "X84n1579_014:0113c15_15",
         "context_with_next_sentence": true
     },
@@ -3970,7 +3970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "麥中有麵○僧問如何是君。",
+        "source_sentence": "麥中有麫○僧問如何是君。",
         "from": "X84n1579_014:0115a03_5",
         "context_with_next_sentence": true
     },
@@ -4090,7 +4090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "續指月錄卷",
+        "source_sentence": "續指月錄卷十四",
         "from": "X84n1579_014:0115a11_0",
         "context_with_next_sentence": false
     }

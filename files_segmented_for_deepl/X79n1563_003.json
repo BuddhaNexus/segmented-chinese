@@ -2400,7 +2400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "問陳尊宿房脫屨驀頭便[打丁+屑]是此門也。",
+        "source_sentence": "問陳尊宿房脫屨驀頭便[打-丁+屑]是此門也。",
         "from": "X79n1563_003:0709a17_6",
         "context_with_next_sentence": true
     },
@@ -2670,7 +2670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]所用如何耳。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]所用如何耳。",
         "from": "X79n1563_003:0709b13_3",
         "context_with_next_sentence": true
     },
@@ -4115,7 +4115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遮裏無餿飯。",
+        "source_sentence": "遮裏無&#;飯。",
         "from": "X79n1563_003:0710b22_19",
         "context_with_next_sentence": true
     },
@@ -5340,7 +5340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "僧皆回[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "僧皆回[(厂@((既-旡)-日+口))*頁]。",
         "from": "X79n1563_003:0711c06_22",
         "context_with_next_sentence": true
     },
@@ -5915,7 +5915,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "照[(厂@((既旡)日+口))*頁]不著。",
+        "source_sentence": "照[(厂@((既-旡)-日+口))*頁]不著。",
         "from": "X79n1563_003:0712a13_4",
         "context_with_next_sentence": true
     },
@@ -8495,7 +8495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "馬[(厂@((既旡)日+口))*頁]視良久曰。",
+        "source_sentence": "馬[(厂@((既-旡)-日+口))*頁]視良久曰。",
         "from": "X79n1563_003:0714a09_21",
         "context_with_next_sentence": true
     },
@@ -9215,7 +9215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "然而有觀[(厂@((既旡)日+口))*頁]怖悸而喪其所守者。",
+        "source_sentence": "然而有觀[(厂@((既-旡)-日+口))*頁]怖悸而喪其所守者。",
         "from": "X79n1563_003:0714c01_9",
         "context_with_next_sentence": true
     },
@@ -9980,7 +9980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "值師持經卷不[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "值師持經卷不[(厂@((既-旡)-日+口))*頁]。",
         "from": "X79n1563_003:0715a16_40",
         "context_with_next_sentence": true
     },
@@ -11215,7 +11215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雖巨口細鱗有所不[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "雖巨口細鱗有所不[(厂@((既-旡)-日+口))*頁]。",
         "from": "X79n1563_003:0716a16_8",
         "context_with_next_sentence": true
     },
@@ -12180,7 +12180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "喚維那來明西下安排著。",
+        "source_sentence": "喚維那來明&#;下安排著。",
         "from": "X79n1563_003:0716c19_46",
         "context_with_next_sentence": true
     },
@@ -14730,7 +14730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "龍銜海珠游魚不[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "龍銜海珠游魚不[(厂@((既-旡)-日+口))*頁]。",
         "from": "X79n1563_003:0718c23_11",
         "context_with_next_sentence": true
     },
@@ -15525,7 +15525,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "吐露則如驚麇脫兔不可救遏。",
+        "source_sentence": "吐露則如驚麕脫兔不可救遏。",
         "from": "X79n1563_003:0719b20_3",
         "context_with_next_sentence": true
     },
@@ -15605,7 +15605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無復一毫有所[(厂@((既旡)日+口))*頁]藉。",
+        "source_sentence": "無復一毫有所[(厂@((既-旡)-日+口))*頁]藉。",
         "from": "X79n1563_003:0719c03_19",
         "context_with_next_sentence": true
     },
@@ -17805,7 +17805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "青回[(厂@((既旡)日+口))*頁]曰。",
+        "source_sentence": "青回[(厂@((既-旡)-日+口))*頁]曰。",
         "from": "X79n1563_003:0721b13_8",
         "context_with_next_sentence": true
     },
@@ -19345,7 +19345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "坐而商略[(厂@((既旡)日+口))*頁]不可哉。",
+        "source_sentence": "坐而商略[(厂@((既-旡)-日+口))*頁]不可哉。",
         "from": "X79n1563_003:0722c12_27",
         "context_with_next_sentence": true
     },
@@ -19560,7 +19560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "慈明以手點有字[(厂@((既旡)日+口))*頁]師。",
+        "source_sentence": "慈明以手點有字[(厂@((既-旡)-日+口))*頁]師。",
         "from": "X79n1563_003:0723a01_11",
         "context_with_next_sentence": true
     },
@@ -19855,7 +19855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "追媲泐潭馬祖百丈大智。",
+        "source_sentence": "追嫓泐潭馬祖百丈大智。",
         "from": "X79n1563_003:0723a17_4",
         "context_with_next_sentence": true
     },
@@ -20175,7 +20175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "上堂[(厂@((既旡)日+口))*頁]視眾曰。",
+        "source_sentence": "上堂[(厂@((既-旡)-日+口))*頁]視眾曰。",
         "from": "X79n1563_003:0723b14_34",
         "context_with_next_sentence": true
     },
@@ -20880,7 +20880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乃[(厂@((既旡)日+口))*頁]旁僧。",
+        "source_sentence": "乃[(厂@((既-旡)-日+口))*頁]旁僧。",
         "from": "X79n1563_003:0724a09_2",
         "context_with_next_sentence": true
     },
@@ -23960,7 +23960,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師呌行者將糞箕掃帚來。",
+        "source_sentence": "師呌行者將糞箕掃箒來。",
         "from": "X79n1563_003:0726b23_2",
         "context_with_next_sentence": true
     },
@@ -24692,6 +24692,191 @@
     {
         "source_sentence": "大光明藏下卷(終)",
         "from": "X79n1563_003:0727a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寂音甞作僧寶傳矣。",
+        "from": "X79n1563_003:0727a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但載其出處。",
+        "from": "X79n1563_003:0727a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與夫師資相擊節而已。",
+        "from": "X79n1563_003:0727a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於羅紋結角處則罕有之。",
+        "from": "X79n1563_003:0727a22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頃之四明南郭見公如此編。",
+        "from": "X79n1563_003:0727a22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆鉤索佛祖玄奧。",
+        "from": "X79n1563_003:0727a23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂誥之曰。",
+        "from": "X79n1563_003:0727a23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從上的的相承。",
+        "from": "X79n1563_003:0727a23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果可以文字語言而發之乎。",
+        "from": "X79n1563_003:0727a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "公斥之曰。",
+        "from": "X79n1563_003:0727a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝依今育王者。",
+        "from": "X79n1563_003:0727a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼方蔽一曲。",
+        "from": "X79n1563_003:0727b01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猥見網罟。",
+        "from": "X79n1563_003:0727b01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後學大方之論。",
+        "from": "X79n1563_003:0727b01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未始聞也。",
+        "from": "X79n1563_003:0727b01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予以離言之說。",
+        "from": "X79n1563_003:0727b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "揚祖師妙處。",
+        "from": "X79n1563_003:0727b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "要皆順攷其宗。",
+        "from": "X79n1563_003:0727b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無一毫增損。",
+        "from": "X79n1563_003:0727b02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有能閱此。",
+        "from": "X79n1563_003:0727b03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若合符契。",
+        "from": "X79n1563_003:0727b03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我之願王立矣。",
+        "from": "X79n1563_003:0727b03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蒙愛其文精粹而敘機緣斷不可隱。",
+        "from": "X79n1563_003:0727b03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惜乎世故不成完書。",
+        "from": "X79n1563_003:0727b04_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "將欲修證而添續之。",
+        "from": "X79n1563_003:0727b04_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後世必有楊子雲者。",
+        "from": "X79n1563_003:0727b05_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淳祐辛丑歲夏序權轝天目[里*巿]樵文禮跋光明藏者。",
+        "from": "X79n1563_003:0727b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋曇橘洲之所譜也。",
+        "from": "X79n1563_003:0727b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余閱之。",
+        "from": "X79n1563_003:0727b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宗派歷歷。",
+        "from": "X79n1563_003:0727b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且愛其詞不涉恠誕。",
+        "from": "X79n1563_003:0727b10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真所謂文字般若。",
+        "from": "X79n1563_003:0727b11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因鋟以傳。",
+        "from": "X79n1563_003:0727b11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使無盡藏中一燈至千萬燈。",
+        "from": "X79n1563_003:0727b11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "照遍法界。",
+        "from": "X79n1563_003:0727b12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善哉。",
+        "from": "X79n1563_003:0727b12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "咸淳改元乙丑夏至日古汴趙(孟[序-予+(口/土)])書",
+        "from": "X79n1563_003:0727b13_0",
         "context_with_next_sentence": false
     }
 ]

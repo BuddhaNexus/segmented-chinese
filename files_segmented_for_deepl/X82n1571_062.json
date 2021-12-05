@@ -5160,7 +5160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳。",
+        "source_sentence": "扇子[跳-兆+孛]跳。",
         "from": "X82n1571_062:0271b01_79",
         "context_with_next_sentence": true
     },
@@ -9735,7 +9735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "猶是隔靴[打丁+瓜]癢。",
+        "source_sentence": "猶是隔靴[打-丁+瓜]癢。",
         "from": "X82n1571_062:0274c08_12",
         "context_with_next_sentence": true
     },
@@ -12600,7 +12600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "剎竿頭上煎[飢几+追]子。",
+        "source_sentence": "剎竿頭上煎[飢-几+追]子。",
         "from": "X82n1571_062:0276c10_4",
         "context_with_next_sentence": true
     },

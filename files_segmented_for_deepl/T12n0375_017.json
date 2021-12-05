@@ -785,7 +785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "曾從智者聞如是言：『寧於一日受三百[矛*(替曰+貝)]，不於父母生一念惡。』",
+        "source_sentence": "曾從智者聞如是言：『寧於一日受三百[矛*(替-曰+貝)]，不於父母生一念惡。』",
         "from": "T12n0375_017:0719a11_12",
         "context_with_next_sentence": true
     },

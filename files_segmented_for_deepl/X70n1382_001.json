@@ -1130,12 +1130,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "隨例大家[病丙+斯]淈[泳永+盾]。",
+        "source_sentence": "隨例大家[病-丙+斯]淈[泳-永+盾]。",
         "from": "X70n1382_001:0221c10_4",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雖然淈[泳永+盾]。",
+        "source_sentence": "雖然淈[泳-永+盾]。",
         "from": "X70n1382_001:0221c10_5",
         "context_with_next_sentence": true
     },
@@ -1450,7 +1450,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "直得懡[怡台+羅]散去。",
+        "source_sentence": "直得懡[怡-台+羅]散去。",
         "from": "X70n1382_001:0222a06_7",
         "context_with_next_sentence": true
     },
@@ -2210,7 +2210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "和麩糶麵。",
+        "source_sentence": "和麩糶麫。",
         "from": "X70n1382_001:0222c01_2",
         "context_with_next_sentence": true
     },
@@ -3755,7 +3755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "只麼低頭懡[怡台+羅]歸。",
+        "source_sentence": "只麼低頭懡[怡-台+羅]歸。",
         "from": "X70n1382_001:0223c15_16",
         "context_with_next_sentence": true
     },
@@ -9560,7 +9560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眼眼[病丙+斯]覰。",
+        "source_sentence": "眼眼[病-丙+斯]覰。",
         "from": "X70n1382_001:0228b16_5",
         "context_with_next_sentence": true
     },
@@ -10430,7 +10430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雲門扇子[跳兆+孛]跳上天。",
+        "source_sentence": "雲門扇子[跳-兆+孛]跳上天。",
         "from": "X70n1382_001:0229a23_11",
         "context_with_next_sentence": true
     },
@@ -11200,7 +11200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無杷柄。",
+        "source_sentence": "無&#;柄。",
         "from": "X70n1382_001:0229c20_3",
         "context_with_next_sentence": true
     },
@@ -11555,7 +11555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "兩手揶揄懡[怡台+羅]休。",
+        "source_sentence": "兩手揶揄懡[怡-台+羅]休。",
         "from": "X70n1382_001:0230a16_5",
         "context_with_next_sentence": true
     },
@@ -13205,7 +13205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眼眼[病丙+斯]覰。",
+        "source_sentence": "眼眼[病-丙+斯]覰。",
         "from": "X70n1382_001:0231b13_0",
         "context_with_next_sentence": true
     },
@@ -16570,7 +16570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "州放下苕帚。",
+        "source_sentence": "州放下苕箒。",
         "from": "X70n1382_001:0234a11_19",
         "context_with_next_sentence": true
     },
@@ -17430,7 +17430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二人懡[怡台+羅]散去。",
+        "source_sentence": "二人懡[怡-台+羅]散去。",
         "from": "X70n1382_001:0234c11_8",
         "context_with_next_sentence": true
     },
@@ -17490,7 +17490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二人懡[怡台+羅]散去。",
+        "source_sentence": "二人懡[怡-台+羅]散去。",
         "from": "X70n1382_001:0234c14_20",
         "context_with_next_sentence": true
     },

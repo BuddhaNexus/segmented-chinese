@@ -1045,7 +1045,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "「若諸比丘頭上生瘡、若面上生瘡、若脣上生瘡、若肩頭生瘡、若腋下生瘡、若脇上生瘡、若臍上生瘡、若坐處生瘡、若膝頭生瘡、若[蹲酋+(十/田/ㄙ)]上生瘡、若頭上有瘡者，聽裹頭覆頭入白衣舍。",
+        "source_sentence": "「若諸比丘頭上生瘡、若面上生瘡、若脣上生瘡、若肩頭生瘡、若腋下生瘡、若脇上生瘡、若臍上生瘡、若坐處生瘡、若膝頭生瘡、若[蹲-酋+(十/田/ㄙ)]上生瘡、若頭上有瘡者，聽裹頭覆頭入白衣舍。",
         "from": "T24n1463_004:0821a19_0",
         "context_with_next_sentence": true
     },
@@ -1105,7 +1105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若[跳兆+專]上有瘡者，聽高著泥洹僧入白衣舍。",
+        "source_sentence": "若[跳-兆+專]上有瘡者，聽高著泥洹僧入白衣舍。",
         "from": "T24n1463_004:0821b02_12",
         "context_with_next_sentence": true
     },

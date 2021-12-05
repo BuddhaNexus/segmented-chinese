@@ -2810,7 +2810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "黃河九[阿可+尻]。",
+        "source_sentence": "黃河九[阿-可+尻]。",
         "from": "X79n1557_013:0114b24_5",
         "context_with_next_sentence": true
     },
@@ -3835,7 +3835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳入儞鼻孔裏去也。",
+        "source_sentence": "[跳-兆+孛]跳入儞鼻孔裏去也。",
         "from": "X79n1557_013:0115b03_17",
         "context_with_next_sentence": true
     },
@@ -5540,7 +5540,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更[跳兆+孛]跳看。",
+        "source_sentence": "更[跳-兆+孛]跳看。",
         "from": "X79n1557_013:0116b14_22",
         "context_with_next_sentence": true
     },
@@ -10152,6 +10152,56 @@
     {
         "source_sentence": "聯燈會要卷第十三",
         "from": "X79n1557_013:0119c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南嶽芭蕉谷泉庵主。",
+        "from": "X79n1557_013:0119c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見汾陽昭禪師後。",
+        "from": "X79n1557_013:0119c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "省同參慈明禪師問答。",
+        "from": "X79n1557_013:0119c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有云。",
+        "from": "X79n1557_013:0119c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我見八十餘員知識。",
+        "from": "X79n1557_013:0119c13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "只有儞較些子。",
+        "from": "X79n1557_013:0119c13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後人見有此語。",
+        "from": "X79n1557_013:0119c14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宗派圖盡列為慈明嗣。",
+        "from": "X79n1557_013:0119c14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非也。",
+        "from": "X79n1557_013:0119c15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今収汾陽下。",
+        "from": "X79n1557_013:0119c15_9",
         "context_with_next_sentence": false
     }
 ]

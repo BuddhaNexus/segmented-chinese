@@ -10610,7 +10610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即以十二音中[褒保+可]．阿．壹．伊釋。",
+        "source_sentence": "即以十二音中[褒-保+可]．阿．壹．伊釋。",
         "from": "T41n1822_005:0552b16_7",
         "context_with_next_sentence": true
     },
@@ -13527,6 +13527,11 @@
     {
         "source_sentence": "俱舍論疏卷第五",
         "from": "T41n1822_005:0555c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "保延三年十月十日朝點了依維摩會□角壽　　　一交了",
+        "from": "T41n1822_005:0555c14_0",
         "context_with_next_sentence": false
     }
 ]

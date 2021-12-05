@@ -3025,7 +3025,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有諸心[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "有諸心[(厂@((既-旡)-日+口))*頁]。",
         "from": "X57n0964_002:0150b08_10",
         "context_with_next_sentence": true
     },
@@ -9850,7 +9850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為事蹶本為末者。",
+        "source_sentence": "為事蹷本為末者。",
         "from": "X57n0964_002:0155b16_12",
         "context_with_next_sentence": true
     },

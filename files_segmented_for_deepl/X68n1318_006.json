@@ -1470,7 +1470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "秋至鴈銜蘆。",
+        "source_sentence": "秋至鴈&#;蘆。",
         "from": "X68n1318_006:0494a03_7",
         "context_with_next_sentence": true
     },
@@ -5220,7 +5220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "天下人摸[打丁+索]不著。",
+        "source_sentence": "天下人摸[打-丁+索]不著。",
         "from": "X68n1318_006:0497a04_2",
         "context_with_next_sentence": true
     },
@@ -5635,7 +5635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自己鼻頭難摸[打丁+索]。",
+        "source_sentence": "自己鼻頭難摸[打-丁+索]。",
         "from": "X68n1318_006:0497b03_11",
         "context_with_next_sentence": true
     },
@@ -6330,7 +6330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "這裏如何摸[打丁+索]。",
+        "source_sentence": "這裏如何摸[打-丁+索]。",
         "from": "X68n1318_006:0497c18_11",
         "context_with_next_sentence": true
     },
@@ -11435,7 +11435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛祖既有榜[打丁+羕]。",
+        "source_sentence": "佛祖既有榜[打-丁+羕]。",
         "from": "X68n1318_006:0501c15_5",
         "context_with_next_sentence": true
     },
@@ -11780,7 +11780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "火落韈[袖由+幻]。",
+        "source_sentence": "火落韈[袖-由+幻]。",
         "from": "X68n1318_006:0502a10_39",
         "context_with_next_sentence": true
     },
@@ -18860,7 +18860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "與諸人作箇[打丁+羕]子。",
+        "source_sentence": "與諸人作箇[打-丁+羕]子。",
         "from": "X68n1318_006:0507b11_3",
         "context_with_next_sentence": true
     },
@@ -22120,7 +22120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "但知隨例飡[飢几+追]子。",
+        "source_sentence": "但知隨例飡[飢-几+追]子。",
         "from": "X68n1318_006:0510a13_28",
         "context_with_next_sentence": true
     },
@@ -28340,7 +28340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "傝[(宋木+几)*辱]杜禪和。",
+        "source_sentence": "傝䢇杜禪和。",
         "from": "X68n1318_006:0515a12_5",
         "context_with_next_sentence": true
     },
@@ -28645,7 +28645,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一時[跳兆+孛]跳出來。",
+        "source_sentence": "一時[跳-兆+孛]跳出來。",
         "from": "X68n1318_006:0515b07_8",
         "context_with_next_sentence": true
     },
@@ -32810,7 +32810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一時[飢几+殳]飣出來。",
+        "source_sentence": "一時[飢-几+殳]飣出來。",
         "from": "X68n1318_006:0518c02_0",
         "context_with_next_sentence": true
     },
@@ -35375,7 +35375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "終朝皮[(彰章+?)/(厂@毛)]街頭走。",
+        "source_sentence": "終朝皮[(彰-章+?)/(厂@毛)]街頭走。",
         "from": "X68n1318_006:0520c03_0",
         "context_with_next_sentence": true
     },
@@ -36695,7 +36695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]得焦口爛腸。",
+        "source_sentence": "[拚-ㄙ+ㄊ]得焦口爛腸。",
         "from": "X68n1318_006:0521c07_1",
         "context_with_next_sentence": true
     },
@@ -37665,7 +37665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "屈節從長也大[拚ㄙ+ㄊ]。",
+        "source_sentence": "屈節從長也大[拚-ㄙ+ㄊ]。",
         "from": "X68n1318_006:0522c05_0",
         "context_with_next_sentence": true
     },
@@ -38072,6 +38072,131 @@
     {
         "source_sentence": "續開古尊宿語要集第六(終)",
         "from": "X68n1318_006:0523a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬覧　晦室老人所集。",
+        "from": "X68n1318_006:0523a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前輩諸大尊宿語要。",
+        "from": "X68n1318_006:0523a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "深為叢林之助(宗源)。",
+        "from": "X68n1318_006:0523a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "募金鋟木。",
+        "from": "X68n1318_006:0523a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分為六策。",
+        "from": "X68n1318_006:0523a19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "併賾藏主元集四策。",
+        "from": "X68n1318_006:0523a19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "合成一部。",
+        "from": "X68n1318_006:0523a20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以廣其傳。",
+        "from": "X68n1318_006:0523a20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因憶飲光微笑破顏。",
+        "from": "X68n1318_006:0523a20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而吾佛為之斂袵。",
+        "from": "X68n1318_006:0523a20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "神光三拜依位。",
+        "from": "X68n1318_006:0523a21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而吾祖為之倒戈。",
+        "from": "X68n1318_006:0523a21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是皆表顯心行處滅。",
+        "from": "X68n1318_006:0523a21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言語道斷者之所作也。",
+        "from": "X68n1318_006:0523a22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "苟欲揭示如來正法眼藏。",
+        "from": "X68n1318_006:0523a22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "撈漉人天。",
+        "from": "X68n1318_006:0523a23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不假筌罤亦難矣。",
+        "from": "X68n1318_006:0523a23_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此錄乃真筌罤也。",
+        "from": "X68n1318_006:0523a23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其或智過二光。",
+        "from": "X68n1318_006:0523a24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "氣吞佛祖者。",
+        "from": "X68n1318_006:0523a24_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知我罪我。",
+        "from": "X68n1318_006:0523a24_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "總不離是錄。",
+        "from": "X68n1318_006:0523a24_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嘉熈戊戌臘月佛成道日。",
+        "from": "X68n1318_006:0523b01_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘(宗源)再拜書于卷末。",
+        "from": "X68n1318_006:0523b01_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(三山傅　詔刊)",
+        "from": "X68n1318_006:0523b03_0",
         "context_with_next_sentence": false
     }
 ]

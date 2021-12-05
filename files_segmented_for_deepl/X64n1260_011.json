@@ -2905,7 +2905,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[齒*(虎儿+且)][齒*(虎儿+且)]齖齖千變萬化。",
+        "source_sentence": "[齒*(虎-儿+且)][齒*(虎-儿+且)]齖齖千變萬化。",
         "from": "X64n1260_011:0085a06_1",
         "context_with_next_sentence": true
     },
@@ -5480,7 +5480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "正[打丁+瓜]著開先痒處。",
+        "source_sentence": "正[打-丁+瓜]著開先痒處。",
         "from": "X64n1260_011:0087c18_4",
         "context_with_next_sentence": true
     },
@@ -5740,7 +5740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[齒*(虎儿+且)][齒*(虎儿+且)]齖齖且過時。",
+        "source_sentence": "[齒*(虎-儿+且)][齒*(虎-儿+且)]齖齖且過時。",
         "from": "X64n1260_011:0088a14_18",
         "context_with_next_sentence": true
     },

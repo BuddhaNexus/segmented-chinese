@@ -1840,7 +1840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如有三種田，有一種田沃壤肥澤，第二田中，第三田[塉月+目]薄，云何？",
+        "source_sentence": "譬如有三種田，有一種田沃壤肥澤，第二田中，第三田[塉-月+目]薄，云何？",
         "from": "T02n0099_032:0231a08_16",
         "context_with_next_sentence": true
     },
@@ -1890,7 +1890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "聚落主言：「當於最下[塉月+目]薄之田，次耕下種。」",
+        "source_sentence": "聚落主言：「當於最下[塉-月+目]薄之田，次耕下種。」",
         "from": "T02n0099_032:0231a14_26",
         "context_with_next_sentence": true
     },

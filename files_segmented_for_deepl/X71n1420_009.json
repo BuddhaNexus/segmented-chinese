@@ -245,7 +245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上梵天去也。",
+        "source_sentence": "[跳-兆+孛]跳上梵天去也。",
         "from": "X71n1420_009:0590a09_10",
         "context_with_next_sentence": true
     },
@@ -4205,7 +4205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蝦蟇[跳兆+孛]跳上天。",
+        "source_sentence": "蝦蟇[跳-兆+孛]跳上天。",
         "from": "X71n1420_009:0593a06_18",
         "context_with_next_sentence": true
     },
@@ -5980,7 +5980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]命不死難。",
+        "source_sentence": "[拚-ㄙ+ㄊ]命不死難。",
         "from": "X71n1420_009:0594a24_17",
         "context_with_next_sentence": true
     },
@@ -6922,6 +6922,16 @@
     {
         "source_sentence": "佛日普照慧辯楚石禪師語錄卷第九",
         "from": "X71n1420_009:0594c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音切",
+        "from": "X71n1420_009:0594c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[跳-兆+孛]跳(上蒲沒切下徒叫切)　缾(蒲丁切)　礫(力的切)　橛(渠月切)　磕(苦闔切)　湫(即由切)　瞥(匹列切)　漉(祿音)　覊(居宜切)　臀(徒昆切)　胝(竹足切)　鄂(五各切)　獰(乃庚切)　膊(普各切)　覷(七據切)　樁(陟江切)　鷂(以照切)　蝦蟇(上下加切下莫加切)　蚯蚓(上丘音下戈忍切)　罽(居厲切)　憤悱(上扶粉切下孚匪切)　抓(側交切)　痒(於兩切)　颺(弋尚切)　碌(力木切)　絆(補畔切)　綟(力計切)　獐(章音)",
+        "from": "X71n1420_009:0595a01_0",
         "context_with_next_sentence": false
     }
 ]

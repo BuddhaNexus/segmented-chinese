@@ -635,7 +635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　 噁請勅如本教，　　自身加持等，　作已稱自名，　　應以金剛成，　薩埵金剛鉤，　　金剛師則結。",
+        "source_sentence": "　噁請勅如本教，　　自身加持等，　作已稱自名，　　應以金剛成，　薩埵金剛鉤，　　金剛師則結。",
         "from": "T18n0865_002:0217a26_0",
         "context_with_next_sentence": true
     },
@@ -677,6 +677,11 @@
     {
         "source_sentence": "　願作一切成，　　如是諸壇中，　金剛師事業。",
         "from": "T18n0865_002:0217b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛頂一切如來真實攝大乘現證大教王經卷中",
+        "from": "T18n0865_002:0217b16_0",
         "context_with_next_sentence": false
     }
 ]

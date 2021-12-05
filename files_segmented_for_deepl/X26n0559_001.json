@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 序",
+        "source_sentence": "序",
         "from": "X26n0559_001:0890c14_0",
         "context_with_next_sentence": true
     },
@@ -60,7 +60,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]儒之立言。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]儒之立言。",
         "from": "X26n0559_001:0890c19_8",
         "context_with_next_sentence": true
     },
@@ -425,7 +425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "康熈五十八年己亥清和月嘉禾守三韓吳永芳撰并書 序唐三藏元奘大師。",
+        "source_sentence": "康熈五十八年己亥清和月嘉禾守三韓吳永芳撰并書序唐三藏元奘大師。",
         "from": "X26n0559_001:0891a18_0",
         "context_with_next_sentence": true
     },
@@ -550,7 +550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "法弟邵泰衢拜題 序大聖說心經者。",
+        "source_sentence": "法弟邵泰衢拜題序大聖說心經者。",
         "from": "X26n0559_001:0891b15_1",
         "context_with_next_sentence": true
     },
@@ -1765,7 +1765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無罣礙故。",
+        "source_sentence": "無&#;礙故。",
         "from": "X26n0559_001:0892b24_5",
         "context_with_next_sentence": true
     },

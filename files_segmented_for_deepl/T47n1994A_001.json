@@ -4400,7 +4400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "幡竿頭上煎[飢几+追]子。",
+        "source_sentence": "幡竿頭上煎[飢-几+追]子。",
         "from": "T47n1994A_001:0643b08_4",
         "context_with_next_sentence": true
     },
@@ -4730,7 +4730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "龍馬駒[跳兆+孛]跳。",
+        "source_sentence": "龍馬駒[跳-兆+孛]跳。",
         "from": "T47n1994A_001:0643c04_2",
         "context_with_next_sentence": true
     },
@@ -7940,8 +7940,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無為",
+        "source_sentence": "無為子楊傑。",
         "from": "T47n1994A_001:0646a21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "書於望海樓。",
+        "from": "T47n1994A_001:0646a22_19",
         "context_with_next_sentence": false
     }
 ]

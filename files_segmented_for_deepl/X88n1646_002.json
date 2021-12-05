@@ -735,8 +735,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "知歸子",
+        "source_sentence": "知歸子已入此保社矣。",
         "from": "X88n1646_002:0187c16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大佳大佳。",
+        "from": "X88n1646_002:0187c17_4",
         "context_with_next_sentence": false
     }
 ]

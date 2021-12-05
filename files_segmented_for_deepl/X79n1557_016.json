@@ -170,7 +170,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[颱台+弗][颱台+弗]籬邊菊正黃。",
+        "source_sentence": "[颱-台+弗][颱-台+弗]籬邊菊正黃。",
         "from": "X79n1557_016:0135b08_1",
         "context_with_next_sentence": true
     },
@@ -1815,7 +1815,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今日這裏拔本。",
+        "source_sentence": "今日這裏㧞本。",
         "from": "X79n1557_016:0136c01_24",
         "context_with_next_sentence": true
     },
@@ -7595,7 +7595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "摩[怡台+羅]而退。",
+        "source_sentence": "摩[怡-台+羅]而退。",
         "from": "X79n1557_016:0140c05_11",
         "context_with_next_sentence": true
     },
@@ -12265,7 +12265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "東海鯉魚[跳兆+孛]跳。",
+        "source_sentence": "東海鯉魚[跳-兆+孛]跳。",
         "from": "X79n1557_016:0144a17_2",
         "context_with_next_sentence": true
     },

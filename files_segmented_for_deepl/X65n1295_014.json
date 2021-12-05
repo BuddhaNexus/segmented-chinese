@@ -595,7 +595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "([仁二+幻]堂仁)。",
+        "source_sentence": "([仁-二+幻]堂仁)。",
         "from": "X65n1295_014:0554c20_0",
         "context_with_next_sentence": true
     },
@@ -3325,7 +3325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三篾束來成話杷。",
+        "source_sentence": "三篾束來成話&#;。",
         "from": "X65n1295_014:0557c01_2",
         "context_with_next_sentence": true
     },

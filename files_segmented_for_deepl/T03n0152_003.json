@@ -655,7 +655,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "國人飲水，聾聽盲視，瘖語[病丙+區]申，眾疾皆然。",
+        "source_sentence": "國人飲水，聾聽盲視，瘖語[病-丙+區]申，眾疾皆然。",
         "from": "T03n0152_003:0013b05_30",
         "context_with_next_sentence": true
     },
@@ -720,7 +720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "婬婦之妖喻彼[魅未+失]魅，亡國危身靡不由之，而愚夫尊之；萬言無一誠也，而射師信之。",
+        "source_sentence": "婬婦之妖喻彼[魅-未+失]魅，亡國危身靡不由之，而愚夫尊之；萬言無一誠也，而射師信之。",
         "from": "T03n0152_003:0013b20_4",
         "context_with_next_sentence": true
     },

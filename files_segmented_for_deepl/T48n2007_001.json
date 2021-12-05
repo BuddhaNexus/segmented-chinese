@@ -3705,8 +3705,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "南宗頓教最上大乘壇經",
+        "source_sentence": "南宗頓教最上大乘壇經一卷",
         "from": "T48n2007_001:0345b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大乘志三十　大聖志四十　大通志五十　大寶志六十　大法志七十　大德志八十　清之藏志三十　清持藏志四十　清寶藏志五十　清蓮藏志六十　清海藏志七十　大法藏志八十　此是菩薩法號",
+        "from": "T48n2007_001:0345b13_0",
         "context_with_next_sentence": false
     }
 ]

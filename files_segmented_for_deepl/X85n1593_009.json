@@ -2720,7 +2720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "祐聖[宋木+居]禪師上堂。",
+        "source_sentence": "祐聖[宋-木+居]禪師上堂。",
         "from": "X85n1593_009:0518b21_0",
         "context_with_next_sentence": true
     },
@@ -5575,7 +5575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一場懡[怡台+羅]。",
+        "source_sentence": "一場懡[怡-台+羅]。",
         "from": "X85n1593_009:0520c08_11",
         "context_with_next_sentence": true
     },
@@ -12865,7 +12865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一場懡[怡台+羅]。",
+        "source_sentence": "一場懡[怡-台+羅]。",
         "from": "X85n1593_009:0526a17_3",
         "context_with_next_sentence": true
     },
@@ -18350,12 +18350,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "總出這圈[袖由+貴]不得。",
+        "source_sentence": "總出這圈[袖-由+貴]不得。",
         "from": "X85n1593_009:0530b06_8",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如何是這圈[袖由+貴]。",
+        "source_sentence": "如何是這圈[袖-由+貴]。",
         "from": "X85n1593_009:0530b06_9",
         "context_with_next_sentence": true
     },
@@ -20215,7 +20215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爭奈拈[飢几+追]舐指。",
+        "source_sentence": "爭奈拈[飢-几+追]舐指。",
         "from": "X85n1593_009:0531c21_29",
         "context_with_next_sentence": true
     },
@@ -20880,8 +20880,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "桃",
+        "source_sentence": "桃花雨後已零落。",
         "from": "X85n1593_009:0532b18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "染得一谿流水紅。",
+        "from": "X85n1593_009:0532b19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(會元十八卷終)禪宗正脉卷九音釋曙(市據切方明也)　鮎(乃謙切魚名)　櫺(力庭切屋梠也)　輥(古混切車轂也)　[宋-木+居](寄魚切居舍也)　湜(視力切水清也)　捂(吾故切受也)　膴(亡甫切土地腴美〡〡然也)　[口*耶](徐嗟切〡聲也)　凹(烏合切〡凸也)　凸(徒結切起貌)　咂(子答切入口也)　[若/(若*若)](以灼切〡氣吹水貌)　瑃(丑倫切玉名也)　磊(力罪切〡砢也)　覿(達寂切見也)　靸(先盍切履也)　屙(烏何切上廁也)　搐(許六切牽制也)　濄(古訛切水也)　汛(思見切灑掃也)　屁(匹避切氣下洩也)　[袖-由+貴](丘畏切〡紐也)　洵(相均切過水中也)　趯(他力切跳踊也)　嶄(音讒山石高貌)　[飢-几+追](丁回切蜀人呼蒸餅為〡也)　蟥(胡光切〡蛢也)　棼(扶云切複屋棟)",
+        "from": "X85n1593_009:0532b19_18",
         "context_with_next_sentence": false
     }
 ]

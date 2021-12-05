@@ -1345,7 +1345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更相[利禾+皮][罩卓+齊]。",
+        "source_sentence": "更相[利-禾+皮][罩-卓+齊]。",
         "from": "X88n1645_003:0135c11_10",
         "context_with_next_sentence": true
     },
@@ -4710,7 +4710,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "行達[邱丘+共]亭湖廟。",
+        "source_sentence": "行達[邱-丘+共]亭湖廟。",
         "from": "X88n1645_003:0137c16_1",
         "context_with_next_sentence": true
     },
@@ -4790,7 +4790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今為[邱丘+共]亭廟神。",
+        "source_sentence": "今為[邱-丘+共]亭廟神。",
         "from": "X88n1645_003:0137c20_13",
         "context_with_next_sentence": true
     },
@@ -5040,7 +5040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即[邱丘+共]亭廟神。",
+        "source_sentence": "即[邱-丘+共]亭廟神。",
         "from": "X88n1645_003:0138a07_6",
         "context_with_next_sentence": true
     },
@@ -6115,7 +6115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "頭上有范[瑤王+金]。",
+        "source_sentence": "頭上有范鎐。",
         "from": "X88n1645_003:0138c13_4",
         "context_with_next_sentence": true
     },
@@ -6140,7 +6140,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "頭髮及范[瑤王+金]之屬。",
+        "source_sentence": "頭髮及范鎐之屬。",
         "from": "X88n1645_003:0138c14_9",
         "context_with_next_sentence": true
     },
@@ -6180,7 +6180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "視范[瑤王+金]及釵牙梳。",
+        "source_sentence": "視范鎐及釵牙梳。",
         "from": "X88n1645_003:0138c16_17",
         "context_with_next_sentence": true
     },
@@ -7210,7 +7210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[戀心+廾]之女也。",
+        "source_sentence": "[戀-心+廾]之女也。",
         "from": "X88n1645_003:0139b18_2",
         "context_with_next_sentence": true
     },
@@ -9580,7 +9580,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "襄城○李頤者。",
+        "source_sentence": "襄城○李頥者。",
         "from": "X88n1645_003:0141a11_0",
         "context_with_next_sentence": true
     },
@@ -9780,7 +9780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "頤尚幼在抱。",
+        "source_sentence": "頥尚幼在抱。",
         "from": "X88n1645_003:0141a20_32",
         "context_with_next_sentence": true
     },
@@ -9805,7 +9805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "頤字景真。",
+        "source_sentence": "頥字景真。",
         "from": "X88n1645_003:0141a21_37",
         "context_with_next_sentence": true
     },
@@ -15745,7 +15745,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "汝能[仁二+戾]上帝東天行。",
+        "source_sentence": "汝能[仁-二+戾]上帝東天行。",
         "from": "X88n1645_003:0145a15_2",
         "context_with_next_sentence": true
     },
@@ -20342,6 +20342,1406 @@
     {
         "source_sentence": "六道集卷三",
         "from": "X88n1645_003:0148b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X88n1645_003:0148b31_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "攖音英。",
+        "from": "X88n1645_003:0148b32_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觸迫近也。",
+        "from": "X88n1645_003:0148b32_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "癭音潁。",
+        "from": "X88n1645_003:0148b32_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頸瘤也。",
+        "from": "X88n1645_003:0148b32_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[利-禾+皮][罩-卓+齊]上音披。",
+        "from": "X88n1645_003:0148b33_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "刀析也。",
+        "from": "X88n1645_003:0148b33_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音濟上聲。",
+        "from": "X88n1645_003:0148b33_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以手出汁也。",
+        "from": "X88n1645_003:0148b33_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頡胡結切。",
+        "from": "X88n1645_003:0148c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音纈。",
+        "from": "X88n1645_003:0148c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "直項也。",
+        "from": "X88n1645_003:0148c01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "塸音歐。",
+        "from": "X88n1645_003:0148c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "墓也。",
+        "from": "X88n1645_003:0148c02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又聚沙也。",
+        "from": "X88n1645_003:0148c02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慘音參上聲。",
+        "from": "X88n1645_003:0148c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愁也。",
+        "from": "X88n1645_003:0148c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "痛也。",
+        "from": "X88n1645_003:0148c03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又酷毒也。",
+        "from": "X88n1645_003:0148c03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "洟音剃。",
+        "from": "X88n1645_003:0148c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鼻出曰洟。",
+        "from": "X88n1645_003:0148c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "目出曰涕。",
+        "from": "X88n1645_003:0148c04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "涕音體。",
+        "from": "X88n1645_003:0148c04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[邱-丘+共]音恭。",
+        "from": "X88n1645_003:0148c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "范鎐女人冠飾也。",
+        "from": "X88n1645_003:0148c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[折/目]音志。",
+        "from": "X88n1645_003:0148c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "目光。",
+        "from": "X88n1645_003:0148c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剡音閃。",
+        "from": "X88n1645_003:0148c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縣名。",
+        "from": "X88n1645_003:0148c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在會稽。",
+        "from": "X88n1645_003:0148c06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "脯音府。",
+        "from": "X88n1645_003:0148c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乾肉。",
+        "from": "X88n1645_003:0148c07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眭蒨上音為姓也。",
+        "from": "X88n1645_003:0148c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下倉殿切。",
+        "from": "X88n1645_003:0148c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音倩。",
+        "from": "X88n1645_003:0148c08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邯鄲上音寒。",
+        "from": "X88n1645_003:0148c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音單。",
+        "from": "X88n1645_003:0148c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "趙縣也。",
+        "from": "X88n1645_003:0148c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倩七正切。",
+        "from": "X88n1645_003:0148c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清去聲。",
+        "from": "X88n1645_003:0148c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假借使人也。",
+        "from": "X88n1645_003:0148c10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[土*遂]音遂。",
+        "from": "X88n1645_003:0148c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龐塢上音旁。",
+        "from": "X88n1645_003:0148c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音烏上聲。",
+        "from": "X88n1645_003:0148c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隳音灰。",
+        "from": "X88n1645_003:0148c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "逶迤上音威。",
+        "from": "X88n1645_003:0148c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音駝。",
+        "from": "X88n1645_003:0148c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "浸音浸上聲。",
+        "from": "X88n1645_003:0148c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "礘圮上音泣。",
+        "from": "X88n1645_003:0148c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音痞。",
+        "from": "X88n1645_003:0148c16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "艮音杳。",
+        "from": "X88n1645_003:0148c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠望也。",
+        "from": "X88n1645_003:0148c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "姬音鷄。",
+        "from": "X88n1645_003:0148c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婦女美稱。",
+        "from": "X88n1645_003:0148c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "机音己。",
+        "from": "X88n1645_003:0148c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "几也。",
+        "from": "X88n1645_003:0148c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂設而不倚。",
+        "from": "X88n1645_003:0148c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[戀-心+廾]同[戀-心+斗]。",
+        "from": "X88n1645_003:0148c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音見。",
+        "from": "X88n1645_003:0148c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "麓音六。",
+        "from": "X88n1645_003:0148c20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "山足。",
+        "from": "X88n1645_003:0148c20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "漕漼上音曹。",
+        "from": "X88n1645_003:0148c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音催上聲。",
+        "from": "X88n1645_003:0148c21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多羅樹無枝節。",
+        "from": "X88n1645_003:0148c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身如棕櫚。",
+        "from": "X88n1645_003:0148c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩梵語具云。",
+        "from": "X88n1645_003:0148c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩提薩埵。",
+        "from": "X88n1645_003:0148c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此云覺有情。",
+        "from": "X88n1645_003:0148c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上求佛道。",
+        "from": "X88n1645_003:0148c23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下化眾生。",
+        "from": "X88n1645_003:0148c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故云覺有情。",
+        "from": "X88n1645_003:0148c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦云開士。",
+        "from": "X88n1645_003:0148c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂能開悟一切眾生也。",
+        "from": "X88n1645_003:0148c24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦云大士。",
+        "from": "X88n1645_003:0149a01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂上求下化。",
+        "from": "X88n1645_003:0149a01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "建立大事也。",
+        "from": "X88n1645_003:0149a01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靳音僅。",
+        "from": "X88n1645_003:0149a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "楚有大夫。",
+        "from": "X88n1645_003:0149a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "姓靳名尚。",
+        "from": "X88n1645_003:0149a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "附",
+        "from": "X88n1645_003:0149a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西湖○南天竺真觀法師。",
+        "from": "X88n1645_003:0149a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常講法華。",
+        "from": "X88n1645_003:0149a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "備五種法師之業。",
+        "from": "X88n1645_003:0149a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盥洗渧地不濡。",
+        "from": "X88n1645_003:0149a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍王化作老人。",
+        "from": "X88n1645_003:0149a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日至聽經。",
+        "from": "X88n1645_003:0149a06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師因久旱。",
+        "from": "X88n1645_003:0149a06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請其降雨。",
+        "from": "X88n1645_003:0149a07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王為諸龍求戒。",
+        "from": "X88n1645_003:0149a07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師作法召授。",
+        "from": "X88n1645_003:0149a07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即時降雨。",
+        "from": "X88n1645_003:0149a07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍王峩冠朱服夜來頂禮。",
+        "from": "X88n1645_003:0149a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師問以多旱之因。",
+        "from": "X88n1645_003:0149a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍曰。",
+        "from": "X88n1645_003:0149a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人無正信。",
+        "from": "X88n1645_003:0149a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多行惡行。",
+        "from": "X88n1645_003:0149a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天將地肥流入深土。",
+        "from": "X88n1645_003:0149a09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五穀食無肥膚。",
+        "from": "X88n1645_003:0149a09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "旱涸固有由也(出高僧傳)。",
+        "from": "X88n1645_003:0149a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "姑蘇○曹魯川居士。",
+        "from": "X88n1645_003:0149a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為予言。",
+        "from": "X88n1645_003:0149a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有女在夫家。",
+        "from": "X88n1645_003:0149a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夏坐室中。",
+        "from": "X88n1645_003:0149a11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一蛇從墻上逐鴿。",
+        "from": "X88n1645_003:0149a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "墮庭心。",
+        "from": "X88n1645_003:0149a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "家人見而死之。",
+        "from": "X88n1645_003:0149a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "數日後。",
+        "from": "X88n1645_003:0149a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蛇附女作語。",
+        "from": "X88n1645_003:0149a12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "魯川往視。",
+        "from": "X88n1645_003:0149a13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則云。",
+        "from": "X88n1645_003:0149a13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我昔為荊州守。",
+        "from": "X88n1645_003:0149a13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "高歡反。",
+        "from": "X88n1645_003:0149a13_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "追我至江滸。",
+        "from": "X88n1645_003:0149a13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂死江中。",
+        "from": "X88n1645_003:0149a14_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我父母妻子。",
+        "from": "X88n1645_003:0149a14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不知安否。",
+        "from": "X88n1645_003:0149a14_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "魯川驚曰。",
+        "from": "X88n1645_003:0149a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歡六朝時人。",
+        "from": "X88n1645_003:0149a15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今歷隋唐宋元而至大明矣。",
+        "from": "X88n1645_003:0149a15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鬼方悟死久。",
+        "from": "X88n1645_003:0149a15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "并知為蛇。",
+        "from": "X88n1645_003:0149a16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復曰。",
+        "from": "X88n1645_003:0149a16_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既作蛇。",
+        "from": "X88n1645_003:0149a16_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "死亦無恨。",
+        "from": "X88n1645_003:0149a16_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但為我禮梁皇懺一部。",
+        "from": "X88n1645_003:0149a16_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾行矣。",
+        "from": "X88n1645_003:0149a17_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃延泗洲寺僧定空禮懺。",
+        "from": "X88n1645_003:0149a17_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懺畢。",
+        "from": "X88n1645_003:0149a17_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "索齋。",
+        "from": "X88n1645_003:0149a17_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為施斛食一壇。",
+        "from": "X88n1645_003:0149a18_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明日。",
+        "from": "X88n1645_003:0149a18_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "女安隱如故。",
+        "from": "X88n1645_003:0149a18_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懺之功大矣哉(出雲棲大師竹窓隨筆)。",
+        "from": "X88n1645_003:0149a18_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "搜神記(晉于寶。",
+        "from": "X88n1645_003:0149a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "死而復穌。",
+        "from": "X88n1645_003:0149a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見天地間鬼神事。",
+        "from": "X88n1645_003:0149a20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂撰集古今神祇靈異。",
+        "from": "X88n1645_003:0149a20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名曰搜神記)釋法聰○說法於浙西之蘇杭嘉興縣。",
+        "from": "X88n1645_003:0149a20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有神曰高王。",
+        "from": "X88n1645_003:0149a21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "降其祝曰。",
+        "from": "X88n1645_003:0149a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為我請聰法師來受菩薩戒。",
+        "from": "X88n1645_003:0149a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居人依其言而請之。",
+        "from": "X88n1645_003:0149a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受戒訖。",
+        "from": "X88n1645_003:0149a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又降祝曰。",
+        "from": "X88n1645_003:0149a23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自今以往。",
+        "from": "X88n1645_003:0149a23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "酒肉五辛。",
+        "from": "X88n1645_003:0149a23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切悉斷。",
+        "from": "X88n1645_003:0149a23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後若祈福。",
+        "from": "X88n1645_003:0149a24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可請眾僧。",
+        "from": "X88n1645_003:0149a24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在廟設齋行道。",
+        "from": "X88n1645_003:0149a24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歷二年。",
+        "from": "X88n1645_003:0149a24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "秀州海鹽縣神。",
+        "from": "X88n1645_003:0149a24_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰鄱陽府君。",
+        "from": "X88n1645_003:0149b01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因常祭。",
+        "from": "X88n1645_003:0149b01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "降祝曰。",
+        "from": "X88n1645_003:0149b01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為我請聰法師講涅槃經。",
+        "from": "X88n1645_003:0149b01_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾乃迎師就講。",
+        "from": "X88n1645_003:0149b02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "神又降祝曰。",
+        "from": "X88n1645_003:0149b02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "神道業障。",
+        "from": "X88n1645_003:0149b02_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多有苦惱。",
+        "from": "X88n1645_003:0149b03_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自聽法來。",
+        "from": "X88n1645_003:0149b03_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身鱗甲內。",
+        "from": "X88n1645_003:0149b03_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已息細蟲噉苦。",
+        "from": "X88n1645_003:0149b03_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願為我請師。",
+        "from": "X88n1645_003:0149b03_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更講大品般若經。",
+        "from": "X88n1645_003:0149b04_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師復為講之。",
+        "from": "X88n1645_003:0149b04_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "神降祝謝(出高僧傳)。",
+        "from": "X88n1645_003:0149b04_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唐○慧稜法師。",
+        "from": "X88n1645_003:0149b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貞觀十四年正月半。",
+        "from": "X88n1645_003:0149b06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有感通寺昶法師曰。",
+        "from": "X88n1645_003:0149b06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夢見閻王請稜公講三論。",
+        "from": "X88n1645_003:0149b07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昶公講法華。",
+        "from": "X88n1645_003:0149b07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "啟稜公可否。",
+        "from": "X88n1645_003:0149b07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "稜曰。",
+        "from": "X88n1645_003:0149b08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善哉。",
+        "from": "X88n1645_003:0149b08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慧稜發願。",
+        "from": "X88n1645_003:0149b08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常處地獄。",
+        "from": "X88n1645_003:0149b08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "教化眾生。",
+        "from": "X88n1645_003:0149b08_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "講大乘經。",
+        "from": "X88n1645_003:0149b08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既有此徵。",
+        "from": "X88n1645_003:0149b09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斯願畢矣。",
+        "from": "X88n1645_003:0149b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至九月末。",
+        "from": "X88n1645_003:0149b09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蔣王見稜氣弱。",
+        "from": "X88n1645_003:0149b09_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "送韶州鐘乳。",
+        "from": "X88n1645_003:0149b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "逼令服之。",
+        "from": "X88n1645_003:0149b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其夕夢見一衣冠者曰。",
+        "from": "X88n1645_003:0149b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勿服此乳。",
+        "from": "X88n1645_003:0149b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "閻王莊嚴道場已竟。",
+        "from": "X88n1645_003:0149b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大有乳藥。",
+        "from": "X88n1645_003:0149b11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至十月半黃昏時。",
+        "from": "X88n1645_003:0149b11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂覺不愈。",
+        "from": "X88n1645_003:0149b12_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "告寺主寶度曰。",
+        "from": "X88n1645_003:0149b12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾憶年八歲。",
+        "from": "X88n1645_003:0149b12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "往龍泉寺禮觀音。",
+        "from": "X88n1645_003:0149b12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未至耆闍崛山。",
+        "from": "X88n1645_003:0149b13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已講三遍。",
+        "from": "X88n1645_003:0149b13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皎如目前。",
+        "from": "X88n1645_003:0149b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言未訖。",
+        "from": "X88n1645_003:0149b13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "外有大聲告曰。",
+        "from": "X88n1645_003:0149b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法師早起燒香。",
+        "from": "X88n1645_003:0149b14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使人即到。",
+        "from": "X88n1645_003:0149b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶度曰。",
+        "from": "X88n1645_003:0149b14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何人。",
+        "from": "X88n1645_003:0149b14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答曰。",
+        "from": "X88n1645_003:0149b15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "閻王使者。",
+        "from": "X88n1645_003:0149b15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迎稜法師。",
+        "from": "X88n1645_003:0149b15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即起燒香洗浴。",
+        "from": "X88n1645_003:0149b15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懺悔禮佛訖。",
+        "from": "X88n1645_003:0149b15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "還房中。",
+        "from": "X88n1645_003:0149b16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "取一生私記經旨。",
+        "from": "X88n1645_003:0149b16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "焚之曰。",
+        "from": "X88n1645_003:0149b16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此私記於他讀之。",
+        "from": "X88n1645_003:0149b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得其致矣。",
+        "from": "X88n1645_003:0149b17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至小食時。",
+        "from": "X88n1645_003:0149b17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "異香忽來。",
+        "from": "X88n1645_003:0149b17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "稜斂容便卒(出高僧傳)。",
+        "from": "X88n1645_003:0149b17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "海昌村民○某。",
+        "from": "X88n1645_003:0149b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有老媼死。",
+        "from": "X88n1645_003:0149b19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "附家人言平生事。",
+        "from": "X88n1645_003:0149b19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及陰府報應甚悉。",
+        "from": "X88n1645_003:0149b19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "家人環而聽之。",
+        "from": "X88n1645_003:0149b20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "某在眾中。",
+        "from": "X88n1645_003:0149b20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忽攝心念佛。",
+        "from": "X88n1645_003:0149b20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "媼謂曰。",
+        "from": "X88n1645_003:0149b20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝常如此。",
+        "from": "X88n1645_003:0149b21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何患不成佛道。",
+        "from": "X88n1645_003:0149b21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問何故。",
+        "from": "X88n1645_003:0149b21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰。",
+        "from": "X88n1645_003:0149b21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝心念阿彌陀佛故。",
+        "from": "X88n1645_003:0149b21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問何以知之。",
+        "from": "X88n1645_003:0149b22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰見汝身有光明故。",
+        "from": "X88n1645_003:0149b22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "村民不識一字。",
+        "from": "X88n1645_003:0149b22_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瞥爾顧念。",
+        "from": "X88n1645_003:0149b23_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尚使鬼敬。",
+        "from": "X88n1645_003:0149b23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "況久修者乎。",
+        "from": "X88n1645_003:0149b23_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故念佛功德。",
+        "from": "X88n1645_003:0149b23_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不可思議(出竹窓二筆)。",
+        "from": "X88n1645_003:0149b24_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "越王鏐○建龍冊寺。",
+        "from": "X88n1645_003:0149c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請僧可周於天寶堂。",
+        "from": "X88n1645_003:0149c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夜為冥司講經。",
+        "from": "X88n1645_003:0149c01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鬼神現形聽法。",
+        "from": "X88n1645_003:0149c02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兼施法食。",
+        "from": "X88n1645_003:0149c02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "賜可周金鉢紫衣。",
+        "from": "X88n1645_003:0149c02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "加精志通明之號。",
+        "from": "X88n1645_003:0149c02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(出高僧傳)護法論問曰。",
+        "from": "X88n1645_003:0149c03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或謂佛教有施食真言。",
+        "from": "X88n1645_003:0149c03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能變少為多。",
+        "from": "X88n1645_003:0149c04_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如七粒變十方之語。",
+        "from": "X88n1645_003:0149c04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈有是理。",
+        "from": "X88n1645_003:0149c04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無盡曰。",
+        "from": "X88n1645_003:0149c04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不然。",
+        "from": "X88n1645_003:0149c05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "子豈不聞勾踐一器之醪。",
+        "from": "X88n1645_003:0149c05_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而眾軍皆醉。",
+        "from": "X88n1645_003:0149c05_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欒巴一噀之酒。",
+        "from": "X88n1645_003:0149c05_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而蜀川為雨。",
+        "from": "X88n1645_003:0149c06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心靈所至。",
+        "from": "X88n1645_003:0149c06_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而無感不通。",
+        "from": "X88n1645_003:0149c06_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "況托諸佛廣大願力。",
+        "from": "X88n1645_003:0149c06_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廓其善心。",
+        "from": "X88n1645_003:0149c07_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "變少為多。",
+        "from": "X88n1645_003:0149c07_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何疑之有。",
+        "from": "X88n1645_003:0149c07_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故元世祖。",
+        "from": "X88n1645_003:0149c07_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問扮彌帝師曰。",
+        "from": "X88n1645_003:0149c08_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "施食至少。",
+        "from": "X88n1645_003:0149c08_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何普濟無量幽冥。",
+        "from": "X88n1645_003:0149c08_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帝師曰。",
+        "from": "X88n1645_003:0149c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛法真言力。",
+        "from": "X88n1645_003:0149c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶如飲馬珠。",
+        "from": "X88n1645_003:0149c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或曰。",
+        "from": "X88n1645_003:0149c09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "子今何以不用一器之醪。",
+        "from": "X88n1645_003:0149c09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令眾皆醉。",
+        "from": "X88n1645_003:0149c10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一噀之酒。",
+        "from": "X88n1645_003:0149c10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而令注雨。",
+        "from": "X88n1645_003:0149c10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答曰。",
+        "from": "X88n1645_003:0149c10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心生疑惑。",
+        "from": "X88n1645_003:0149c10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何能感格。",
+        "from": "X88n1645_003:0149c11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "信而無疑。",
+        "from": "X88n1645_003:0149c11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故曰。",
+        "from": "X88n1645_003:0149c11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寂然不動。",
+        "from": "X88n1645_003:0149c11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "感而遂通也。",
+        "from": "X88n1645_003:0149c11_14",
         "context_with_next_sentence": false
     }
 ]

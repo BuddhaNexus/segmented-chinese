@@ -245,7 +245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[媲囟+(色巴+囚)]從上佛祖而不愧。",
+        "source_sentence": "[媲-囟+(色-巴+囚)]從上佛祖而不愧。",
         "from": "X68n1319_011:0532c24_8",
         "context_with_next_sentence": true
     },
@@ -500,7 +500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一缽千家飯。",
+        "source_sentence": "一盋千家飯。",
         "from": "X68n1319_011:0533a20_29",
         "context_with_next_sentence": true
     },
@@ -915,7 +915,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "因什麼不得衣缽。",
+        "source_sentence": "因什麼不得衣盋。",
         "from": "X68n1319_011:0533b15_68",
         "context_with_next_sentence": true
     },
@@ -935,7 +935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "盧行者因什麼却得衣缽。",
+        "source_sentence": "盧行者因什麼却得衣盋。",
         "from": "X68n1319_011:0533b16_72",
         "context_with_next_sentence": true
     },
@@ -12600,7 +12600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今日在和尚處拔本。",
+        "source_sentence": "今日在和尚處㧞本。",
         "from": "X68n1319_011:0543a14_3",
         "context_with_next_sentence": true
     },
@@ -14915,7 +14915,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一缽霜華半榻雲。",
+        "source_sentence": "一盋霜華半榻雲。",
         "from": "X68n1319_011:0545b15_0",
         "context_with_next_sentence": true
     },
@@ -24712,6 +24712,31 @@
     {
         "source_sentence": "猶在一堂。",
         "from": "X68n1319_011:0553a04_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不次書之。",
+        "from": "X68n1319_011:0553a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以清座右。",
+        "from": "X68n1319_011:0553a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗟乎。",
+        "from": "X68n1319_011:0553a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金人三緘。",
+        "from": "X68n1319_011:0553a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "實惟我師。",
+        "from": "X68n1319_011:0553a05_4",
         "context_with_next_sentence": false
     }
 ]

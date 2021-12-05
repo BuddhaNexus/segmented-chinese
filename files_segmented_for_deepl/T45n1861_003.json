@@ -14780,7 +14780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如磁石雖不作意諸所有鐵來附於我。",
+        "source_sentence": "譬如礠石雖不作意諸所有鐵來附於我。",
         "from": "T45n1861_003:0308a20_47",
         "context_with_next_sentence": true
     },
@@ -14790,7 +14790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不由功用來附磁石。",
+        "source_sentence": "不由功用來附礠石。",
         "from": "T45n1861_003:0308a22_49",
         "context_with_next_sentence": true
     },
@@ -19650,7 +19650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如扇[打丁+虎]．半擇迦。",
+        "source_sentence": "如扇[打-丁+虎]．半擇迦。",
         "from": "T45n1861_003:0313a13_34",
         "context_with_next_sentence": true
     },
@@ -20640,7 +20640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若扇[打丁+虎]迦及半擇迦。",
+        "source_sentence": "若扇[打-丁+虎]迦及半擇迦。",
         "from": "T45n1861_003:0314a20_1",
         "context_with_next_sentence": true
     },
@@ -20730,12 +20730,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦名扇[打丁+虎]迦。",
+        "source_sentence": "亦名扇[打-丁+虎]迦。",
         "from": "T45n1861_003:0314a28_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "第二唯半擇迦非扇[打丁+虎]迦。",
+        "source_sentence": "第二唯半擇迦非扇[打-丁+虎]迦。",
         "from": "T45n1861_003:0314a29_3",
         "context_with_next_sentence": true
     },
@@ -20745,7 +20745,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唯扇[打丁+虎]迦非半擇迦。",
+        "source_sentence": "唯扇[打-丁+虎]迦非半擇迦。",
         "from": "T45n1861_003:0314b01_5",
         "context_with_next_sentence": true
     },
@@ -20755,7 +20755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "名半擇迦亦名扇[打丁+虎]迦。",
+        "source_sentence": "名半擇迦亦名扇[打-丁+虎]迦。",
         "from": "T45n1861_003:0314b02_7",
         "context_with_next_sentence": true
     },
@@ -22402,6 +22402,16 @@
     {
         "source_sentence": "大乘法苑義林章卷第三",
         "from": "T45n1861_003:0315c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寬文十二年壬子十月日",
+        "from": "T45n1861_003:0315c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令修補了　　　　　　　　　清兼法印",
+        "from": "T45n1861_003:0316a01_0",
         "context_with_next_sentence": false
     }
 ]

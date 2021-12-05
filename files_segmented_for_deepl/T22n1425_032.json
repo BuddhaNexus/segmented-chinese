@@ -1430,7 +1430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "灌筒者，佛住舍衛城，有比丘[病丙+干]痟病，語醫言：「長壽！",
+        "source_sentence": "灌筒者，佛住舍衛城，有比丘[病-丙+干]痟病，語醫言：「長壽！",
         "from": "T22n1425_032:0488b26_0",
         "context_with_next_sentence": true
     },

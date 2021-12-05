@@ -22155,7 +22155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若扇[打丁+虎]迦及半擇迦者。",
+        "source_sentence": "若扇[打-丁+虎]迦及半擇迦者。",
         "from": "X55n0884_001:0237a19_1",
         "context_with_next_sentence": true
     },
@@ -22165,7 +22165,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇[打丁+虎]迦。",
+        "source_sentence": "扇[打-丁+虎]迦。",
         "from": "X55n0884_001:0237a19_3",
         "context_with_next_sentence": true
     },
@@ -22235,7 +22235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是扇[打丁+虎]迦名半擇迦。",
+        "source_sentence": "是扇[打-丁+虎]迦名半擇迦。",
         "from": "X55n0884_001:0237a23_9",
         "context_with_next_sentence": true
     },
@@ -22255,7 +22255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或唯扇[打丁+虎]或得二名。",
+        "source_sentence": "或唯扇[打-丁+虎]或得二名。",
         "from": "X55n0884_001:0237b01_13",
         "context_with_next_sentence": true
     },
@@ -22270,7 +22270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "非扇[打丁+虎]迦。",
+        "source_sentence": "非扇[打-丁+虎]迦。",
         "from": "X55n0884_001:0237b02_16",
         "context_with_next_sentence": true
     },
@@ -22360,7 +22360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "對法論中說扇[打丁+虎]迦．半擇迦例二形故。",
+        "source_sentence": "對法論中說扇[打-丁+虎]迦．半擇迦例二形故。",
         "from": "X55n0884_001:0237b07_34",
         "context_with_next_sentence": true
     },
@@ -22840,7 +22840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何故此二(扇[打丁+虎]．半擇迦二)雖受歸依亦能隨受諸近事男所有學處而不得名近事男耶。",
+        "source_sentence": "何故此二(扇[打-丁+虎]．半擇迦二)雖受歸依亦能隨受諸近事男所有學處而不得名近事男耶。",
         "from": "X55n0884_001:0237c15_6",
         "context_with_next_sentence": true
     },
@@ -25652,6 +25652,41 @@
     {
         "source_sentence": "表無表章栖翫記(終)",
         "from": "X55n0884_001:0240b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "于時正德五(乙未)十月二十三日一交加點畢。",
+        "from": "X55n0884_001:0240b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寫本文字紛乱。",
+        "from": "X55n0884_001:0240b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令他書寫亦有錯濫。",
+        "from": "X55n0884_001:0240b05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故多難知。",
+        "from": "X55n0884_001:0240b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "重得良本應改正矣。",
+        "from": "X55n0884_001:0240b05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應理末學沙門　高範(胎生六十一歲)享保八年癸卯三月朔日以極樂院新禪院二本一交加點畢。",
+        "from": "X55n0884_001:0240b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諾樂藥師寺報恩院　高範(戒五十七年六十九)",
+        "from": "X55n0884_001:0240b10_0",
         "context_with_next_sentence": false
     }
 ]

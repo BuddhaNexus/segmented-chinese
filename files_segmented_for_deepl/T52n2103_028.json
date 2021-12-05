@@ -1830,7 +1830,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雖果謝菴園飯非香國。",
+        "source_sentence": "雖果謝菴園飰非香國。",
         "from": "T52n2103_028:0323c13_31",
         "context_with_next_sentence": true
     },
@@ -6050,7 +6050,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於是鳴[蒠心+(冗几+(止*(ㄇ/又)))]執鉞假道北隣。",
+        "source_sentence": "於是鳴[蒠-心+(冗-几+(止*(ㄇ/又)))]執鉞假道北隣。",
         "from": "T52n2103_028:0328a21_30",
         "context_with_next_sentence": true
     },
@@ -7760,7 +7760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雖時屬[卄/(麩夫+壬)]賓。",
+        "source_sentence": "雖時屬[卄/(麩-夫+壬)]賓。",
         "from": "T52n2103_028:0330a01_0",
         "context_with_next_sentence": true
     },
@@ -8025,7 +8025,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "負[筍/六]虡而將飛。",
+        "source_sentence": "負&#;虡而將飛。",
         "from": "T52n2103_028:0330a19_9",
         "context_with_next_sentence": true
     },
@@ -9580,7 +9580,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "庶[藉耒+糸]今誠要之咸達。",
+        "source_sentence": "庶[藉-耒+糸]今誠要之咸達。",
         "from": "T52n2103_028:0331c25_17",
         "context_with_next_sentence": true
     },
@@ -12547,6 +12547,11 @@
     {
         "source_sentence": "廣弘明集卷第二十八",
         "from": "T52n2103_028:0335a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唐太宗為戰亡人設齋行道詔　唐太宗度僧於天下詔　唐太宗斷賣佛像勅　與暹律師等書(褚亮)　唐太宗捨舊宅為寺詔　唐太宗為穆后追福手疏　周武帝二教鐘銘　唐太宗大興善寺鍾銘　唐東宮皇太子西明寺鍾銘",
+        "from": "T52n2103_028:0335a27_0",
         "context_with_next_sentence": false
     }
 ]

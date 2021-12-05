@@ -290,7 +290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "望於六塵相者[千┬+下]山本云六麤今誤。",
+        "source_sentence": "望於六塵相者[千-┬+下]山本云六麤今誤。",
         "from": "X46n0775_003:0142a06_0",
         "context_with_next_sentence": true
     },
@@ -535,7 +535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[企止+(十/思)](音惠)末那提者此云怖香。",
+        "source_sentence": "[企-止+(十/思)](音惠)末那提者此云怖香。",
         "from": "X46n0775_003:0145c21_1",
         "context_with_next_sentence": true
     },

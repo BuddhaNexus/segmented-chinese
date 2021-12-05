@@ -940,7 +940,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "義玄宣[竺二+金]之徒和於後。",
+        "source_sentence": "義玄宣[竺-二+金]之徒和於後。",
         "from": "X57n0953_001:0053a13_8",
         "context_with_next_sentence": true
     },
@@ -1305,7 +1305,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為挫[拖也+(廾〡+卜)]。",
+        "source_sentence": "為挫[拖-也+(廾-〡+卜)]。",
         "from": "X57n0953_001:0053b10_4",
         "context_with_next_sentence": true
     },
@@ -1905,8 +1905,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "我既",
+        "source_sentence": "我既藏之孰敢忘之。",
         "from": "X57n0953_001:0054a05_45",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "期遂見佛以評攸始。",
+        "from": "X57n0953_001:0054a06_46",
         "context_with_next_sentence": false
     }
 ]

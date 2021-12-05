@@ -2700,7 +2700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　三洲有無間　　非餘扇[打丁+虎]等　少恩少羞恥　　餘障通五趣論曰。",
+        "source_sentence": "　三洲有無間　　非餘扇[打-丁+虎]等　少恩少羞恥　　餘障通五趣論曰。",
         "from": "T29n1563_023:0886a09_0",
         "context_with_next_sentence": true
     },
@@ -2725,7 +2725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "非扇[打丁+虎]等。",
+        "source_sentence": "非扇[打-丁+虎]等。",
         "from": "T29n1563_023:0886a13_0",
         "context_with_next_sentence": true
     },

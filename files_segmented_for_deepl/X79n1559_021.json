@@ -2685,7 +2685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一毛拔九牛。",
+        "source_sentence": "一毛㧞九牛。",
         "from": "X79n1559_021:0417a08_1",
         "context_with_next_sentence": true
     },
@@ -6665,7 +6665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "糞埽堆頭重添榼[打丁+(天/韭)]。",
+        "source_sentence": "糞埽堆頭重添榼[打-丁+(天/韭)]。",
         "from": "X79n1559_021:0420a11_24",
         "context_with_next_sentence": true
     },
@@ -7152,6 +7152,16 @@
     {
         "source_sentence": "嘉泰普燈錄卷第二十一",
         "from": "X79n1559_021:0420b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_021:0420b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　玿音韶　遯音鈍　晷音鬼　昉音倣　騅音錐　瀏音留　纇盧對切　參音森　焠七內切　肄羊至切　贛音紺　霎山洽切　韞音蘊　籜音託　槲音斛　嚏音帝",
+        "from": "X79n1559_021:0420b23_0",
         "context_with_next_sentence": false
     }
 ]

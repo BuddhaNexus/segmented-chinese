@@ -6890,7 +6890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其題[書曰+皿]婆須密女云。",
+        "source_sentence": "其題[書-曰+皿]婆須密女云。",
         "from": "X75n1513_008:0355c02_7",
         "context_with_next_sentence": true
     },
@@ -12375,7 +12375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "杖策前邁至[葸十+夕]嶺。",
+        "source_sentence": "杖策前邁至[葸-十+夕]嶺。",
         "from": "X75n1513_008:0360a20_0",
         "context_with_next_sentence": true
     },
@@ -12490,7 +12490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "至凌山[葸十+夕]嶺北隅也。",
+        "source_sentence": "至凌山[葸-十+夕]嶺北隅也。",
         "from": "X75n1513_008:0360b02_9",
         "context_with_next_sentence": true
     },

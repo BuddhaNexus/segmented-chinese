@@ -2790,7 +2790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "和風[颱台+弗][颱台+弗]。",
+        "source_sentence": "和風[颱-台+弗][颱-台+弗]。",
         "from": "X78n1556_015:0734b08_15",
         "context_with_next_sentence": true
     },
@@ -3535,7 +3535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "麥中有麵。",
+        "source_sentence": "麥中有麫。",
         "from": "X78n1556_015:0734c17_16",
         "context_with_next_sentence": true
     },
@@ -9555,7 +9555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "建中靖國續燈錄",
+        "source_sentence": "建中靖國續燈錄卷第十五",
         "from": "X78n1556_015:0738c14_0",
         "context_with_next_sentence": false
     }

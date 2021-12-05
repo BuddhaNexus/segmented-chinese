@@ -8790,7 +8790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "恢[鎣(冗几)]覺體。",
+        "source_sentence": "恢[鎣-(冗-几)]覺體。",
         "from": "X09n0241_001:0310a23_3",
         "context_with_next_sentence": true
     },
@@ -11162,6 +11162,11 @@
     {
         "source_sentence": "開發慧性得大辯才者也。",
         "from": "X09n0241_001:0312c19_59",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂邑廣德寺釋子　永光　泉　敬撰。",
+        "from": "X09n0241_001:0312c21_0",
         "context_with_next_sentence": false
     }
 ]

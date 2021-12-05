@@ -1975,7 +1975,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "白嬰[病丙+何]瘵。",
+        "source_sentence": "白嬰[病-丙+何]瘵。",
         "from": "X78n1553_017:0501a19_1",
         "context_with_next_sentence": true
     },
@@ -2100,7 +2100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "洪鐘衽虡。",
+        "source_sentence": "洪鐘衽簴。",
         "from": "X78n1553_017:0501b01_26",
         "context_with_next_sentence": true
     },

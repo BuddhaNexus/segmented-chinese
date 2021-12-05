@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 佛說八大人覺經疏序",
+        "source_sentence": "佛說八大人覺經疏序",
         "from": "X37n0673_001:0738c06_0",
         "context_with_next_sentence": true
     },
@@ -1830,7 +1830,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "行達[邱丘+共]亭湖。",
+        "source_sentence": "行達[邱-丘+共]亭湖。",
         "from": "X37n0673_001:0740b12_26",
         "context_with_next_sentence": true
     },
@@ -1895,7 +1895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今為[邱丘+共]亭廟神。",
+        "source_sentence": "今為[邱-丘+共]亭廟神。",
         "from": "X37n0673_001:0740b15_3",
         "context_with_next_sentence": true
     },
@@ -1980,7 +1980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "向之少年即[邱丘+共]亭廟神。",
+        "source_sentence": "向之少年即[邱-丘+共]亭廟神。",
         "from": "X37n0673_001:0740b20_13",
         "context_with_next_sentence": true
     },
@@ -7417,6 +7417,66 @@
     {
         "source_sentence": "佛說八大人覺經疏(終)",
         "from": "X37n0673_001:0745a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X37n0673_001:0745a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[邱-丘+共](九容切音恭亭名)。",
+        "from": "X37n0673_001:0745a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "轄(胡瞎切音鎋)。",
+        "from": "X37n0673_001:0745a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨土三經論",
+        "from": "X37n0673_001:0745b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清　彭際清　述",
+        "from": "X37n0673_001:0745b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卍云。",
+        "from": "X37n0673_001:0745b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無量壽經起信論。",
+        "from": "X37n0673_001:0745b06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀無量壽佛經約論。",
+        "from": "X37n0673_001:0745b06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及阿彌陀經約論之三般。",
+        "from": "X37n0673_001:0745b06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "合稱三經解。",
+        "from": "X37n0673_001:0745b07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既分出別處。",
+        "from": "X37n0673_001:0745b07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故省于此。",
+        "from": "X37n0673_001:0745b07_6",
         "context_with_next_sentence": false
     }
 ]

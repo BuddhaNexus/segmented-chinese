@@ -2665,7 +2665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "被風塵日[暻京+恭]。",
+        "source_sentence": "被風塵日[暻-京+恭]。",
         "from": "X41n0730_007:0420b09_4",
         "context_with_next_sentence": true
     },
@@ -3155,7 +3155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "名[跳兆+荼]迦羅毗(上音茶翻云堅誓)。",
+        "source_sentence": "名[跳-兆+荼]迦羅毗(上音茶翻云堅誓)。",
         "from": "X41n0730_007:0420c17_5",
         "context_with_next_sentence": true
     },
@@ -7590,7 +7590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂一切麥粟稻麻荍米作麨餅。",
+        "source_sentence": "謂一切麥粟稻蔴荍米作麨餅。",
         "from": "X41n0730_007:0425b02_18",
         "context_with_next_sentence": true
     },
@@ -9550,7 +9550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "聽以梨棗[卄/(麩夫+生)]蔗等汁作漿。",
+        "source_sentence": "聽以梨棗[卄/(麩-夫+生)]蔗等汁作漿。",
         "from": "X41n0730_007:0427a14_1",
         "context_with_next_sentence": true
     },
@@ -9655,7 +9655,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五[卄/(麩夫+生)]果漿。",
+        "source_sentence": "五[卄/(麩-夫+生)]果漿。",
         "from": "X41n0730_007:0427a20_9",
         "context_with_next_sentence": true
     },
@@ -12792,6 +12792,646 @@
     {
         "source_sentence": "毗尼作持續釋卷第七",
         "from": "X41n0730_007:0430b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音義",
+        "from": "X41n0730_007:0430b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "章音張。",
+        "from": "X41n0730_007:0430b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "表也。",
+        "from": "X41n0730_007:0430b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂身外之威儀也。",
+        "from": "X41n0730_007:0430b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "御音遇。",
+        "from": "X41n0730_007:0430b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "用也。",
+        "from": "X41n0730_007:0430b14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "詐阻去聲。",
+        "from": "X41n0730_007:0430b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偽也又詭譎也。",
+        "from": "X41n0730_007:0430b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "逞稱上聲。",
+        "from": "X41n0730_007:0430b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "矜而自呈也。",
+        "from": "X41n0730_007:0430b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "抑音益。",
+        "from": "X41n0730_007:0430b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "按也。",
+        "from": "X41n0730_007:0430b17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "冤屈也。",
+        "from": "X41n0730_007:0430b17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贓賄上音臧。",
+        "from": "X41n0730_007:0430b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下灰上聲。",
+        "from": "X41n0730_007:0430b18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "財也。",
+        "from": "X41n0730_007:0430b18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金玉曰貨。",
+        "from": "X41n0730_007:0430b18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "布帛曰賄。",
+        "from": "X41n0730_007:0430b18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡非理所得財賄。",
+        "from": "X41n0730_007:0430b19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆曰贓賄也。",
+        "from": "X41n0730_007:0430b19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "削襄入聲。",
+        "from": "X41n0730_007:0430b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "去也。",
+        "from": "X41n0730_007:0430b20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曳音裔。",
+        "from": "X41n0730_007:0430b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "踝骨上華上聲。",
+        "from": "X41n0730_007:0430b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "脛兩旁內外曰踝骨。",
+        "from": "X41n0730_007:0430b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "畦音奚。",
+        "from": "X41n0730_007:0430b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "田五十畝為畦。",
+        "from": "X41n0730_007:0430b23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "畔田界也。",
+        "from": "X41n0730_007:0430b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四利之水謂檀越布施飲食衣服臥具湯藥四事供僧也。",
+        "from": "X41n0730_007:0430c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三善之苗謂三業發生眾善。",
+        "from": "X41n0730_007:0430c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而增長一切功德也。",
+        "from": "X41n0730_007:0430c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "褋音疊。",
+        "from": "X41n0730_007:0430c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "重也。",
+        "from": "X41n0730_007:0430c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "襵音摺。",
+        "from": "X41n0730_007:0430c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衣襵也。",
+        "from": "X41n0730_007:0430c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "穬音礦。",
+        "from": "X41n0730_007:0430c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "磔音窄。",
+        "from": "X41n0730_007:0430c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開張也。",
+        "from": "X41n0730_007:0430c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "擗音辟。",
+        "from": "X41n0730_007:0430c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開也。",
+        "from": "X41n0730_007:0430c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "褺音褋。",
+        "from": "X41n0730_007:0430c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "重衣也。",
+        "from": "X41n0730_007:0430c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "翮音核。",
+        "from": "X41n0730_007:0430c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "羽莖也。",
+        "from": "X41n0730_007:0430c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "早同皂。",
+        "from": "X41n0730_007:0430c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "充音沖。",
+        "from": "X41n0730_007:0430c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "備也。",
+        "from": "X41n0730_007:0430c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鎮壓也。",
+        "from": "X41n0730_007:0430c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廊廟所陳謂如宗廟爼豆陳設進退之事。",
+        "from": "X41n0730_007:0430c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爼豆祭器也。",
+        "from": "X41n0730_007:0430c15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "朝宗之服謂冠冕也。",
+        "from": "X41n0730_007:0430c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "坏音丕。",
+        "from": "X41n0730_007:0430c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未燒瓦也。",
+        "from": "X41n0730_007:0430c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鑞音蠟。",
+        "from": "X41n0730_007:0430c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鍚也。",
+        "from": "X41n0730_007:0430c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釜音輔。",
+        "from": "X41n0730_007:0430c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鍑屬無足也。",
+        "from": "X41n0730_007:0430c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[土*瓦]音射。",
+        "from": "X41n0730_007:0430c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瓦器也。",
+        "from": "X41n0730_007:0430c21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "綊音挾。",
+        "from": "X41n0730_007:0430c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "合也。",
+        "from": "X41n0730_007:0430c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摘音惕。",
+        "from": "X41n0730_007:0430c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "挑也。",
+        "from": "X41n0730_007:0430c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "棚音彭。",
+        "from": "X41n0730_007:0430c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "閣也。",
+        "from": "X41n0730_007:0430c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "細澡豆乃皂角子為末也。",
+        "from": "X41n0730_007:0431a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "襆同幞。",
+        "from": "X41n0730_007:0431a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音僕。",
+        "from": "X41n0730_007:0431a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帊音怕。",
+        "from": "X41n0730_007:0431a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倩千去聲。",
+        "from": "X41n0730_007:0431a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假借使人也。",
+        "from": "X41n0730_007:0431a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五臟臟者藏也。",
+        "from": "X41n0730_007:0431a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "精藏於腎。",
+        "from": "X41n0730_007:0431a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "神藏於心。",
+        "from": "X41n0730_007:0431a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "魂藏於肝。",
+        "from": "X41n0730_007:0431a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "魄藏於肺。",
+        "from": "X41n0730_007:0431a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "志藏於脾也。",
+        "from": "X41n0730_007:0431a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "浹音接。",
+        "from": "X41n0730_007:0431a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "浹洽謂潤澤周徧也。",
+        "from": "X41n0730_007:0431a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "洽音狎。",
+        "from": "X41n0730_007:0431a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "荍音喬。",
+        "from": "X41n0730_007:0431a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蒸音烝。",
+        "from": "X41n0730_007:0431a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "熱氣也。",
+        "from": "X41n0730_007:0431a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "稔壬上聲。",
+        "from": "X41n0730_007:0431a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "穀熟也。",
+        "from": "X41n0730_007:0431a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三解脫一空解脫。",
+        "from": "X41n0730_007:0431a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二無相解脫。",
+        "from": "X41n0730_007:0431a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三無作解脫。",
+        "from": "X41n0730_007:0431a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "措粗去聲。",
+        "from": "X41n0730_007:0431a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "布施也。",
+        "from": "X41n0730_007:0431a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辣蘭入聲。",
+        "from": "X41n0730_007:0431a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "酢同醋。",
+        "from": "X41n0730_007:0431a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "穫黃入聲。",
+        "from": "X41n0730_007:0431a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "刈禾也。",
+        "from": "X41n0730_007:0431a15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蹂音柔。",
+        "from": "X41n0730_007:0431a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "往來蹂踐也。",
+        "from": "X41n0730_007:0431a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[卄/(麩-夫+生)]與蕤同。",
+        "from": "X41n0730_007:0431a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誰上聲。",
+        "from": "X41n0730_007:0431a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音藥。",
+        "from": "X41n0730_007:0431a17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "渧音帝。",
+        "from": "X41n0730_007:0431a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "水滴也。",
+        "from": "X41n0730_007:0431a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "濺音箋。",
+        "from": "X41n0730_007:0431a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "水激蕩也。",
+        "from": "X41n0730_007:0431a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "漬音恣。",
+        "from": "X41n0730_007:0431a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "水浸也。",
+        "from": "X41n0730_007:0431a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "坼音策。",
+        "from": "X41n0730_007:0431a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "裂也。",
+        "from": "X41n0730_007:0431a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分開也。",
+        "from": "X41n0730_007:0431a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "態音雄。",
+        "from": "X41n0730_007:0431a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獸似豕山居。",
+        "from": "X41n0730_007:0431a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於冬蟄。",
+        "from": "X41n0730_007:0431a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當心白脂。",
+        "from": "X41n0730_007:0431a22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俗呼態。",
+        "from": "X41n0730_007:0431a22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "好舉木引氣。",
+        "from": "X41n0730_007:0431a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂之態。",
+        "from": "X41n0730_007:0431a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經美在掌。",
+        "from": "X41n0730_007:0431a23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "狹音狎。",
+        "from": "X41n0730_007:0431a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "窂也。",
+        "from": "X41n0730_007:0431a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捃均上聲。",
+        "from": "X41n0730_007:0431b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "拾取也。",
+        "from": "X41n0730_007:0431b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自貽伊戚謂憂戚自造。",
+        "from": "X41n0730_007:0431b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而成非關他事。",
+        "from": "X41n0730_007:0431b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶云自作孽不可活之謂也。",
+        "from": "X41n0730_007:0431b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貽音夷。",
+        "from": "X41n0730_007:0431b03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遺也。",
+        "from": "X41n0730_007:0431b03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "篋音怯。",
+        "from": "X41n0730_007:0431b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "藏也。",
+        "from": "X41n0730_007:0431b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂箱篋。",
+        "from": "X41n0730_007:0431b04_2",
         "context_with_next_sentence": false
     }
 ]

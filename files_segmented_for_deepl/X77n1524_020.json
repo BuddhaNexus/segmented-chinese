@@ -430,7 +430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "去來[郫卑+((白日+田)/廾)]繁間。",
+        "source_sentence": "去來[郫-卑+((白-日+田)/廾)]繁間。",
         "from": "X77n1524_020:0506c16_3",
         "context_with_next_sentence": true
     },
@@ -1040,7 +1040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鐵牛[跳兆+孛]跳過新羅。",
+        "source_sentence": "鐵牛[跳-兆+孛]跳過新羅。",
         "from": "X77n1524_020:0507a23_8",
         "context_with_next_sentence": true
     },

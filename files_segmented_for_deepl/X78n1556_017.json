@@ -1940,7 +1940,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任摸[打丁+索]。",
+        "source_sentence": "一任摸[打-丁+索]。",
         "from": "X78n1556_017:0746c12_0",
         "context_with_next_sentence": true
     },
@@ -2220,7 +2220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "卸却[(虺兀+元)虫+骨]臭布衫。",
+        "source_sentence": "卸却[(虺-兀+元)-虫+骨]臭布衫。",
         "from": "X78n1556_017:0746c24_4",
         "context_with_next_sentence": true
     },
@@ -9280,7 +9280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔萃優曇唯佛國。",
+        "source_sentence": "㧞萃優曇唯佛國。",
         "from": "X78n1556_017:0751c09_8",
         "context_with_next_sentence": true
     },

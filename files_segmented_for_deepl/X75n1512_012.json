@@ -1830,7 +1830,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]儒道九流猶汀瀅之方溟渤耳。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]儒道九流猶汀瀅之方溟渤耳。",
         "from": "X75n1512_012:0168b14_6",
         "context_with_next_sentence": true
     },
@@ -2455,7 +2455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遠惟羲冊覩奧不測其神。",
+        "source_sentence": "遠惟羲&#;覩奧不測其神。",
         "from": "X75n1512_012:0169a21_4",
         "context_with_next_sentence": true
     },
@@ -2495,7 +2495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "貝葉靈文咸歸冊府。",
+        "source_sentence": "貝葉靈文咸歸&#;府。",
         "from": "X75n1512_012:0169b01_12",
         "context_with_next_sentence": true
     },

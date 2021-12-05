@@ -85,7 +85,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "夫拔火宅而登清凉之山。",
+        "source_sentence": "夫㧞火宅而登清凉之山。",
         "from": "X68n1319_004:0527a21_16",
         "context_with_next_sentence": true
     },
@@ -237,6 +237,11 @@
     {
         "source_sentence": "是為序。",
         "from": "X68n1319_004:0527b06_46",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雍正十一年癸丑五月朔日",
+        "from": "X68n1319_004:0527b07_0",
         "context_with_next_sentence": false
     }
 ]

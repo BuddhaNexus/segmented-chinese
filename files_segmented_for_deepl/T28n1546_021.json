@@ -30,7 +30,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　畢竟無有利　　如陸地船[簿尃+卑]如此章及解章義。",
+        "source_sentence": "　畢竟無有利　　如陸地船[簿-尃+卑]如此章及解章義。",
         "from": "T28n1546_021:0152b09_0",
         "context_with_next_sentence": true
     },
@@ -295,7 +295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　畢竟無有利　　如陸地船[簿尃+卑]諸修苦行。",
+        "source_sentence": "　畢竟無有利　　如陸地船[簿-尃+卑]諸修苦行。",
         "from": "T28n1546_021:0152c03_0",
         "context_with_next_sentence": true
     },
@@ -460,7 +460,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "必竟無有利如陸地船[簿尃+卑]。",
+        "source_sentence": "必竟無有利如陸地船[簿-尃+卑]。",
         "from": "T28n1546_021:0152c14_2",
         "context_with_next_sentence": true
     },
@@ -1815,7 +1815,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "餅作皮想。",
+        "source_sentence": "䴵作皮想。",
         "from": "T28n1546_021:0153c28_12",
         "context_with_next_sentence": true
     },

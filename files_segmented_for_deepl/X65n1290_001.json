@@ -1970,7 +1970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "力[宋木+取]無上。",
+        "source_sentence": "力[宋-木+取]無上。",
         "from": "X65n1290_001:0428b12_7",
         "context_with_next_sentence": true
     },
@@ -2660,7 +2660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不如磁石吸鐵。",
+        "source_sentence": "不如礠石吸鐵。",
         "from": "X65n1290_001:0428c23_3",
         "context_with_next_sentence": true
     },
@@ -9300,7 +9300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "弃火焚[畣(一/口)+米]。",
+        "source_sentence": "弃火焚&#;。",
         "from": "X65n1290_001:0433c10_6",
         "context_with_next_sentence": true
     },
@@ -15635,7 +15635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寧隕[懂重+隻]於世途。",
+        "source_sentence": "寧隕[懂-重+隻]於世途。",
         "from": "X65n1290_001:0438a20_19",
         "context_with_next_sentence": true
     },
@@ -15822,6 +15822,11 @@
     {
         "source_sentence": "觀心玄樞一卷",
         "from": "X65n1290_001:0438b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "治曆五年正月二十三日酉時□書寫了",
+        "from": "X65n1290_001:0438c01_0",
         "context_with_next_sentence": false
     }
 ]

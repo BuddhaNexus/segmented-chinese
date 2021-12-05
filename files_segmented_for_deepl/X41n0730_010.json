@@ -4735,7 +4735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[暻京+恭]卷擗除。",
+        "source_sentence": "[暻-京+恭]卷擗除。",
         "from": "X41n0730_010:0460b03_4",
         "context_with_next_sentence": true
     },
@@ -4750,7 +4750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "僧應取物洗浣[暻京+恭]乾。",
+        "source_sentence": "僧應取物洗浣[暻-京+恭]乾。",
         "from": "X41n0730_010:0460b05_1",
         "context_with_next_sentence": true
     },
@@ -6325,7 +6325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "起[打丁+冒]臥揗。",
+        "source_sentence": "起[打-丁+冒]臥揗。",
         "from": "X41n0730_010:0461c02_9",
         "context_with_next_sentence": true
     },
@@ -9672,6 +9672,826 @@
     {
         "source_sentence": "毗尼作持續釋卷十",
         "from": "X41n0730_010:0464c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音義",
+        "from": "X41n0730_010:0465a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "屬音孰。",
+        "from": "X41n0730_010:0465a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "附也類也。",
+        "from": "X41n0730_010:0465a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "囂音鴞。",
+        "from": "X41n0730_010:0465a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喧也。",
+        "from": "X41n0730_010:0465a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "交易市合則囂。",
+        "from": "X41n0730_010:0465a03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "市散則墟。",
+        "from": "X41n0730_010:0465a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "墟音區。",
+        "from": "X41n0730_010:0465a03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故城也。",
+        "from": "X41n0730_010:0465a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頻音貧。",
+        "from": "X41n0730_010:0465a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "數數也。",
+        "from": "X41n0730_010:0465a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "憒音膾。",
+        "from": "X41n0730_010:0465a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心亂也。",
+        "from": "X41n0730_010:0465a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遷音千。",
+        "from": "X41n0730_010:0465a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "徙也。",
+        "from": "X41n0730_010:0465a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "移也。",
+        "from": "X41n0730_010:0465a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彫音彫。",
+        "from": "X41n0730_010:0465a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "零落也。",
+        "from": "X41n0730_010:0465a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓊鬱上音翁。",
+        "from": "X41n0730_010:0465a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下蘊入聲。",
+        "from": "X41n0730_010:0465a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "草木茂盛貌。",
+        "from": "X41n0730_010:0465a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "軼音鐵。",
+        "from": "X41n0730_010:0465a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "車相出也。",
+        "from": "X41n0730_010:0465a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "湋音為。",
+        "from": "X41n0730_010:0465a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "水回日湋。",
+        "from": "X41n0730_010:0465a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殯音鬢。",
+        "from": "X41n0730_010:0465a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殯殮也。",
+        "from": "X41n0730_010:0465a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "擗同擘。",
+        "from": "X41n0730_010:0465a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開也。",
+        "from": "X41n0730_010:0465a13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靡音米。",
+        "from": "X41n0730_010:0465a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無也。",
+        "from": "X41n0730_010:0465a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遯豚上聲。",
+        "from": "X41n0730_010:0465a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隱也。",
+        "from": "X41n0730_010:0465a15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "綺音起。",
+        "from": "X41n0730_010:0465a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂繪如細綾也。",
+        "from": "X41n0730_010:0465a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幮音除。",
+        "from": "X41n0730_010:0465a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牀帳也。",
+        "from": "X41n0730_010:0465a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鐲鏍上音孰。",
+        "from": "X41n0730_010:0465a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音羅。",
+        "from": "X41n0730_010:0465a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "溫器也。",
+        "from": "X41n0730_010:0465a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "桎音質。",
+        "from": "X41n0730_010:0465a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "弊音備。",
+        "from": "X41n0730_010:0465a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敗也。",
+        "from": "X41n0730_010:0465a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惡也。",
+        "from": "X41n0730_010:0465a20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[打-丁+冒]音冐。",
+        "from": "X41n0730_010:0465a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手扶也。",
+        "from": "X41n0730_010:0465a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "揗音旬。",
+        "from": "X41n0730_010:0465a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手相安慰也。",
+        "from": "X41n0730_010:0465a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "岐黃岐謂岐伯。",
+        "from": "X41n0730_010:0465a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黃謂黃帝。",
+        "from": "X41n0730_010:0465a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其醫之始。",
+        "from": "X41n0730_010:0465a23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黃問而岐答也。",
+        "from": "X41n0730_010:0465a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "癐音膾。",
+        "from": "X41n0730_010:0465b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "病甚也。",
+        "from": "X41n0730_010:0465b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偶音藕。",
+        "from": "X41n0730_010:0465b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "適然也。",
+        "from": "X41n0730_010:0465b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八福田佛聖人僧此三為敬福田。",
+        "from": "X41n0730_010:0465b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "和尚阿闍黎父母此四為恩福田。",
+        "from": "X41n0730_010:0465b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "救濟病人為病福田。",
+        "from": "X41n0730_010:0465b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦名悲福田。",
+        "from": "X41n0730_010:0465b04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一佛田者。",
+        "from": "X41n0730_010:0465b05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂覺道具圓。",
+        "from": "X41n0730_010:0465b05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "位登極果。",
+        "from": "X41n0730_010:0465b05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世出世間最勝無比。",
+        "from": "X41n0730_010:0465b05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人能恭敬供養。",
+        "from": "X41n0730_010:0465b06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈但獲一切福。",
+        "from": "X41n0730_010:0465b06_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦能滅一切罪。",
+        "from": "X41n0730_010:0465b06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故名佛福田。",
+        "from": "X41n0730_010:0465b07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二聖人田。",
+        "from": "X41n0730_010:0465b07_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂菩薩緣覺聲聞出離三界。",
+        "from": "X41n0730_010:0465b07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "證悟聖道。",
+        "from": "X41n0730_010:0465b08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具足無量功德。",
+        "from": "X41n0730_010:0465b08_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智慧人能恭敬供養。",
+        "from": "X41n0730_010:0465b08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即獲勝福。",
+        "from": "X41n0730_010:0465b09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故名聖人田。",
+        "from": "X41n0730_010:0465b09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三僧福田。",
+        "from": "X41n0730_010:0465b09_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧者和合。",
+        "from": "X41n0730_010:0465b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾謂處眾。",
+        "from": "X41n0730_010:0465b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "和同敬順無諍。",
+        "from": "X41n0730_010:0465b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是佛弟子人能恭敬供養。",
+        "from": "X41n0730_010:0465b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即獲福利。",
+        "from": "X41n0730_010:0465b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故名僧福田。",
+        "from": "X41n0730_010:0465b11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四和尚福田。",
+        "from": "X41n0730_010:0465b11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂出家者因師教誨之力。",
+        "from": "X41n0730_010:0465b12_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生長法身。",
+        "from": "X41n0730_010:0465b12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其恩實重。",
+        "from": "X41n0730_010:0465b12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人能供養恭敬。",
+        "from": "X41n0730_010:0465b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即獲福利。",
+        "from": "X41n0730_010:0465b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故名和尚福田。",
+        "from": "X41n0730_010:0465b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五闍黎田。",
+        "from": "X41n0730_010:0465b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂此師能糾正弟子之行。",
+        "from": "X41n0730_010:0465b14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即教授得戒等師也。",
+        "from": "X41n0730_010:0465b14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因依此戒。",
+        "from": "X41n0730_010:0465b15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得生禪定智慧。",
+        "from": "X41n0730_010:0465b15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其恩實重。",
+        "from": "X41n0730_010:0465b15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人能供養恭敬。",
+        "from": "X41n0730_010:0465b15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即獲福利。",
+        "from": "X41n0730_010:0465b16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故名闍黎福田。",
+        "from": "X41n0730_010:0465b16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六父田。",
+        "from": "X41n0730_010:0465b16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "父為資形之始。",
+        "from": "X41n0730_010:0465b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有生成之德。",
+        "from": "X41n0730_010:0465b17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自孩提以至於長。",
+        "from": "X41n0730_010:0465b17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "教誡育養。",
+        "from": "X41n0730_010:0465b17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其恩罔極。",
+        "from": "X41n0730_010:0465b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為人子者。",
+        "from": "X41n0730_010:0465b18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故當竭力奉養。",
+        "from": "X41n0730_010:0465b18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈有求福之念。",
+        "from": "X41n0730_010:0465b18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設若心之至孝之純。",
+        "from": "X41n0730_010:0465b19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則自然獲福。",
+        "from": "X41n0730_010:0465b19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故名父福田。",
+        "from": "X41n0730_010:0465b19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七母福田。",
+        "from": "X41n0730_010:0465b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂母始自懷孕分娩。",
+        "from": "X41n0730_010:0465b20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以至乳哺鞠育。",
+        "from": "X41n0730_010:0465b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "護持長養。",
+        "from": "X41n0730_010:0465b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愍念劬勞。",
+        "from": "X41n0730_010:0465b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其恩罔極。",
+        "from": "X41n0730_010:0465b21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為人子者。",
+        "from": "X41n0730_010:0465b21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "固當竭力奉養。",
+        "from": "X41n0730_010:0465b21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈有求福之念。",
+        "from": "X41n0730_010:0465b22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設若心之至孝之純。",
+        "from": "X41n0730_010:0465b22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則亦自然獲福。",
+        "from": "X41n0730_010:0465b22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故名母福田。",
+        "from": "X41n0730_010:0465b23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八病田。",
+        "from": "X41n0730_010:0465b23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂見人有病。",
+        "from": "X41n0730_010:0465b23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即當念其苦楚。",
+        "from": "X41n0730_010:0465b23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "用心救療。",
+        "from": "X41n0730_010:0465b24_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "給與湯藥。",
+        "from": "X41n0730_010:0465b24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則能獲福。",
+        "from": "X41n0730_010:0465b24_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故名病福田。",
+        "from": "X41n0730_010:0465b24_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "痼音故。",
+        "from": "X41n0730_010:0465c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "久病也。",
+        "from": "X41n0730_010:0465c02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "延音沿。",
+        "from": "X41n0730_010:0465c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "長遠也。",
+        "from": "X41n0730_010:0465c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餌音耳。",
+        "from": "X41n0730_010:0465c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂餈稻餅也。",
+        "from": "X41n0730_010:0465c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餈之言滋也。",
+        "from": "X41n0730_010:0465c04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餌之言堅潔也。",
+        "from": "X41n0730_010:0465c04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餈音慈。",
+        "from": "X41n0730_010:0465c05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貯除上聲。",
+        "from": "X41n0730_010:0465c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "積也。",
+        "from": "X41n0730_010:0465c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盛也。",
+        "from": "X41n0730_010:0465c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "投木桃詩云。",
+        "from": "X41n0730_010:0465c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "投我以木桃。",
+        "from": "X41n0730_010:0465c07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "報之以瓊瑤。",
+        "from": "X41n0730_010:0465c07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邀音腰。",
+        "from": "X41n0730_010:0465c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "招人也。",
+        "from": "X41n0730_010:0465c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慨歟上開去聲。",
+        "from": "X41n0730_010:0465c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懷激也。",
+        "from": "X41n0730_010:0465c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音于。",
+        "from": "X41n0730_010:0465c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歎辭也。",
+        "from": "X41n0730_010:0465c09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貞音征。",
+        "from": "X41n0730_010:0465c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正而固也。",
+        "from": "X41n0730_010:0465c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又治潔也。",
+        "from": "X41n0730_010:0465c10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僥倖上音驕。",
+        "from": "X41n0730_010:0465c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音幸。",
+        "from": "X41n0730_010:0465c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "優者有不遇。",
+        "from": "X41n0730_010:0465c11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "劣者有僥倖。",
+        "from": "X41n0730_010:0465c11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂不當得而得也。",
+        "from": "X41n0730_010:0465c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "充音冲。",
+        "from": "X41n0730_010:0465c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "備也。",
+        "from": "X41n0730_010:0465c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "實也。",
+        "from": "X41n0730_010:0465c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "褫音耻。",
+        "from": "X41n0730_010:0465c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "脫也。",
+        "from": "X41n0730_010:0465c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奪也。",
+        "from": "X41n0730_010:0465c14_2",
         "context_with_next_sentence": false
     }
 ]

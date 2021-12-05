@@ -1,11 +1,11 @@
 [
     {
-        "source_sentence": "安樂集卷上",
+        "source_sentence": "\t\t\t\t_║安樂集卷上",
         "from": "T47n1958_001:0004a05_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "釋道綽撰",
+        "source_sentence": "\t\t\t\t_║　　　　釋道綽撰",
         "from": "T47n1958_001:0004a07_0",
         "context_with_next_sentence": true
     },
@@ -535,7 +535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "問曰：「《鼓音經》云：『阿彌陀佛有父母。』",
+        "source_sentence": "問曰：「《鼓音經》\t\t問曰：「《鼓音經》云：『阿彌陀佛有父母。』",
         "from": "T47n1958_001:0006a12_11",
         "context_with_next_sentence": true
     },
@@ -545,143 +545,168 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "答曰：「子但聞名，不究尋經旨，致此疑。",
-        "from": "T47n1958_001:0006a14_13",
+        "source_sentence": "\t\t\t\t\t_║也。」",
+        "from": "T47n1958_001:0006a14_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "可謂錯之毫毛，失之千里。",
+        "source_sentence": "　答曰：「子但聞名，不究尋經旨，致此疑。",
+        "from": "T47n1958_001:0006a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "\t\t答曰：「子但聞名，不究尋經旨，致此疑。",
         "from": "T47n1958_001:0006a15_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "然阿彌陀佛亦具三身：極樂出現者，即是報身；今言有父母者，是穢土中示現化身父母也。",
+        "source_sentence": "可謂錯之毫毛，失之千里。",
         "from": "T47n1958_001:0006a15_1",
         "context_with_next_sentence": true
     },
     {
+        "source_sentence": "然阿彌陀佛亦具三身：極樂出現者，即是報身；今言有父母者，是穢土中示現化身父母也。",
+        "from": "T47n1958_001:0006a15_2",
+        "context_with_next_sentence": true
+    },
+    {
         "source_sentence": "亦如釋迦如來，淨土中成其報佛，應來此方示有父母，成其化佛。",
-        "from": "T47n1958_001:0006a17_2",
+        "from": "T47n1958_001:0006a15_3",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "阿彌陀佛亦復如是。",
-        "from": "T47n1958_001:0006a19_3",
+        "from": "T47n1958_001:0006a15_4",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又如《鼓音聲經》云：『爾時阿彌陀佛與聲聞眾俱，國號清泰，聖王所住，其城縱廣十千由旬。",
-        "from": "T47n1958_001:0006a19_4",
+        "source_sentence": "\t\t\t\t\t_║具三身：極樂出現者，即是報身；今言有父\t\t\t\t\t_║母者，是穢土中示現化身父母也。",
+        "from": "T47n1958_001:0006a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦如釋迦\t\t\t\t\t_║如來，淨土中成其報佛，應來此方示有父\t\t\t\t\t_║母，成其化佛。",
+        "from": "T47n1958_001:0006a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿彌陀佛亦復如是。",
+        "from": "T47n1958_001:0006a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音聲經》云：『爾時阿彌陀佛與聲聞眾俱，國號清泰，聖王所住，其城縱廣十千由旬。",
+        "from": "T47n1958_001:0006a20_0",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "阿彌陀佛父是轉輪聖王，王名月上，母名殊勝妙顏，魔王名無勝，佛子名月明，提婆達多名寂意，給侍弟子名無垢稱。』",
-        "from": "T47n1958_001:0006a21_5",
+        "from": "T47n1958_001:0006a21_1",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "又上來所引竝是化身之相，若是淨土，豈有輪王及城女人等也？",
-        "from": "T47n1958_001:0006a24_6",
+        "from": "T47n1958_001:0006a24_2",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "此即文義昞然，何待分別？",
-        "from": "T47n1958_001:0006a26_7",
+        "from": "T47n1958_001:0006a26_3",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "皆不善尋究，致使迷名生執也。」",
-        "from": "T47n1958_001:0006a26_8",
+        "from": "T47n1958_001:0006a26_4",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "問曰：「若報身有隱沒休息相者，亦可淨土有成壞事？」",
-        "from": "T47n1958_001:0006a27_9",
+        "from": "T47n1958_001:0006a27_5",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "答曰：「如斯難者，自古將今，義亦難通。",
-        "from": "T47n1958_001:0006a28_10",
+        "from": "T47n1958_001:0006a28_6",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "雖然今敢引經為證，義亦可知。",
-        "from": "T47n1958_001:0006a29_11",
+        "from": "T47n1958_001:0006a29_7",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "譬如佛身常住，眾生見有涅槃；淨土亦爾，體非成壞，隨眾生所見有成、有壞。",
-        "from": "T47n1958_001:0006b01_12",
+        "from": "T47n1958_001:0006b01_8",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "如《華嚴經》云：『由如見導師，種種無量色，隨眾生心行，見佛剎亦然。』",
-        "from": "T47n1958_001:0006b03_13",
+        "from": "T47n1958_001:0006b03_9",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "是故《淨土論》云：『一質不成故，淨穢有虧盈；異質不成故，搜原則冥一；無質不成故，緣起則萬形。』",
-        "from": "T47n1958_001:0006b04_14",
+        "from": "T47n1958_001:0006b04_10",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "故知若據法性淨土，則不論清濁；若據報化大悲，則非無淨穢也。",
-        "from": "T47n1958_001:0006b07_15",
+        "from": "T47n1958_001:0006b07_11",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "「又汎明佛土，對機感不同，有其三種差別：一者、從真垂報，名為報土。",
-        "from": "T47n1958_001:0006b08_16",
+        "from": "T47n1958_001:0006b08_12",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "猶如日光照四天下，法身如日，報化如光。",
-        "from": "T47n1958_001:0006b10_17",
+        "from": "T47n1958_001:0006b10_13",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "二者、無而忽有，名之為化。",
-        "from": "T47n1958_001:0006b11_18",
+        "from": "T47n1958_001:0006b11_14",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "即如《四分律》云：『錠光如來化提婆城與拔提城相近，共為親婚往來，後時忽然化火燒却，令諸眾生覩此無常，莫不生厭歸向佛道也。』",
-        "from": "T47n1958_001:0006b11_19",
+        "from": "T47n1958_001:0006b11_15",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "是故經云：『或現劫火燒，天地皆洞然，眾生有常想，照令知無常；或為濟貧乏，現立無盡藏，隨緣廣開導，令發菩提心。』",
-        "from": "T47n1958_001:0006b15_20",
+        "from": "T47n1958_001:0006b15_16",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "三者、隱穢顯淨。",
-        "from": "T47n1958_001:0006b17_21",
+        "from": "T47n1958_001:0006b17_17",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "如《維摩經》佛以足指按地，三千剎土莫不嚴淨。",
-        "from": "T47n1958_001:0006b18_22",
+        "from": "T47n1958_001:0006b18_18",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "今此無量壽國即是從真垂報國也。",
-        "from": "T47n1958_001:0006b19_23",
+        "from": "T47n1958_001:0006b19_19",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "何以得知？",
-        "from": "T47n1958_001:0006b20_24",
+        "from": "T47n1958_001:0006b20_20",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "依《觀音授記經》云：『未來觀音成佛，替阿彌陀佛處。』",
-        "from": "T47n1958_001:0006b20_25",
+        "from": "T47n1958_001:0006b20_21",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "故知是報也。」",
-        "from": "T47n1958_001:0006b21_26",
+        "from": "T47n1958_001:0006b21_22",
         "context_with_next_sentence": true
     },
     {
@@ -2665,7 +2690,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又如有人被狗所嚙，灸虎骨[(尉小+火)寸+又]之，患者即愈；或時無骨，好攋掌摩之，口中喚言：『虎來！",
+        "source_sentence": "又如有人被狗所嚙，灸虎骨[(尉-小+火)-寸+又]之，患者即愈；或時無骨，好攋掌摩之，口中喚言：『虎來！",
         "from": "T47n1958_001:0012a14_20",
         "context_with_next_sentence": true
     },
@@ -2680,7 +2705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或復有人患脚轉筋，炙木瓜枝[(尉小+火)寸+又]之，患者即愈；或無木瓜，炙手磨之，口喚：『木瓜！",
+        "source_sentence": "或復有人患脚轉筋，炙木瓜枝[(尉-小+火)-寸+又]之，患者即愈；或無木瓜，炙手磨之，口喚：『木瓜！",
         "from": "T47n1958_001:0012a16_23",
         "context_with_next_sentence": true
     },
@@ -3397,6 +3422,16 @@
     {
         "source_sentence": "安樂集卷上",
         "from": "T47n1958_001:0014a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "\t\t\t\t_║　　.",
+        "from": "T47n1958_001:0004a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "\t\t\t\t_║",
+        "from": "T47n1958_001:0004a06_0",
         "context_with_next_sentence": false
     }
 ]

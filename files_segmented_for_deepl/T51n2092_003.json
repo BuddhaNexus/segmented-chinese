@@ -2260,7 +2260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "久閭阿郍[肱月+舟]來朝。",
+        "source_sentence": "久閭阿郍[肱-月+舟]來朝。",
         "from": "T51n2092_003:1012b02_3",
         "context_with_next_sentence": true
     },
@@ -2285,7 +2285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "可班郍[肱月+舟]蕃王儀同之間。",
+        "source_sentence": "可班郍[肱-月+舟]蕃王儀同之間。",
         "from": "T51n2092_003:1012b04_8",
         "context_with_next_sentence": true
     },

@@ -405,12 +405,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皇皇焉農歌畎畆之中，濟濟焉商詠舟車之上，遂使雞貴象尊之國頓顙丹墀，金隣玉嶺之鄉投誠碧砌，為無為事無事，斯固無以加也(雞貴者，西方名高麗國，為俱俱吒[醫酉+言]說羅。",
+        "source_sentence": "皇皇焉農歌畎畆之中，濟濟焉商詠舟車之上，遂使雞貴象尊之國頓顙丹墀，金隣玉嶺之鄉投誠碧砌，為無為事無事，斯固無以加也(雞貴者，西方名高麗國，為俱俱吒[醫-酉+言]說羅。",
         "from": "T54n2125_001:0206a12_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "俱俱吒是雞，[醫酉+言]說羅是貴。",
+        "source_sentence": "俱俱吒是雞，[醫-酉+言]說羅是貴。",
         "from": "T54n2125_001:0206a15_1",
         "context_with_next_sentence": true
     },

@@ -475,7 +475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "到者裏有甚麼[跳兆+典]跣處。",
+        "source_sentence": "到者裏有甚麼[跳-兆+典]跣處。",
         "from": "X64n1260_010:0071c20_7",
         "context_with_next_sentence": true
     },
@@ -5310,7 +5310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "祖師在你頭上[跳兆+孛]跳。",
+        "source_sentence": "祖師在你頭上[跳-兆+孛]跳。",
         "from": "X64n1260_010:0076c16_3",
         "context_with_next_sentence": true
     },

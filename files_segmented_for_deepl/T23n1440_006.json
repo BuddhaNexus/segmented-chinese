@@ -1980,7 +1980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "實種子者，稻、麻、麥、大豆、小豆、粟[序予+禾]等，此皆是實種子。",
+        "source_sentence": "實種子者，稻、麻、麥、大豆、小豆、粟[序-予+禾]等，此皆是實種子。",
         "from": "T23n1440_006:0543c02_0",
         "context_with_next_sentence": true
     },

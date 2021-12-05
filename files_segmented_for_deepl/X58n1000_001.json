@@ -3970,7 +3970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "病根連拔。",
+        "source_sentence": "病根連㧞。",
         "from": "X58n1000_001:0413b21_15",
         "context_with_next_sentence": true
     },
@@ -6445,8 +6445,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "契大經",
+        "source_sentence": "契大經之冲玄。",
         "from": "X58n1000_001:0415c13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫若法真大師焚折薪者也。",
+        "from": "X58n1000_001:0415c14_6",
         "context_with_next_sentence": false
     }
 ]

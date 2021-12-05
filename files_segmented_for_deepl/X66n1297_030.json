@@ -120,7 +120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "未免起模畵[打丁+羕]。",
+        "source_sentence": "未免起模畵[打-丁+羕]。",
         "from": "X66n1297_030:0462b12_10",
         "context_with_next_sentence": true
     },
@@ -240,7 +240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "曲蟺蹋著兩頭[打丁+敖]。",
+        "source_sentence": "曲蟺蹋著兩頭[打-丁+敖]。",
         "from": "X66n1297_030:0462b21_0",
         "context_with_next_sentence": true
     },
@@ -3280,7 +3280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "者畜生更[跳兆+孛]跳在。",
+        "source_sentence": "者畜生更[跳-兆+孛]跳在。",
         "from": "X66n1297_030:0465c14_14",
         "context_with_next_sentence": true
     },
@@ -3620,7 +3620,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔得珊瑚幾樹來。",
+        "source_sentence": "㧞得珊瑚幾樹來。",
         "from": "X66n1297_030:0466a17_5",
         "context_with_next_sentence": true
     },

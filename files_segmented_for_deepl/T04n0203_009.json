@@ -295,7 +295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "八鸛雀[尸@(溧木+土)]頭。",
+        "source_sentence": "八鸛雀[尸@(溧-木+土)]頭。",
         "from": "T04n0203_009:0490b03_2",
         "context_with_next_sentence": true
     },
@@ -485,7 +485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鸛雀[尸@(溧木+土)]頭者，王與夫人，當有私密之事，事至後日自當知之。」",
+        "source_sentence": "鸛雀[尸@(溧-木+土)]頭者，王與夫人，當有私密之事，事至後日自當知之。」",
         "from": "T04n0203_009:0490c18_10",
         "context_with_next_sentence": true
     },
@@ -840,7 +840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "兄語弟言：「卿不耕田下於種子，財[聲耳+米]豐有，何由可獲？」",
+        "source_sentence": "兄語弟言：「卿不耕田下於種子，財[聲-耳+米]豐有，何由可獲？」",
         "from": "T04n0203_009:0491c26_2",
         "context_with_next_sentence": true
     },

@@ -5090,7 +5090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不[(厂@((既旡)日+口))*頁]一切有情利益安樂事故。",
+        "source_sentence": "不[(厂@((既-旡)-日+口))*頁]一切有情利益安樂事故。",
         "from": "X51n0822_010:0131a23_6",
         "context_with_next_sentence": true
     },

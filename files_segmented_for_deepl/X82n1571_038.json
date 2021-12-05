@@ -1705,7 +1705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一場懡[怡台+羅]　開堂上堂。",
+        "source_sentence": "一場懡[怡-台+羅]　開堂上堂。",
         "from": "X82n1571_038:0044a17_7",
         "context_with_next_sentence": true
     },
@@ -3350,7 +3350,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "但朝粥午飯而已。",
+        "source_sentence": "但朝粥午飰而已。",
         "from": "X82n1571_038:0045b14_9",
         "context_with_next_sentence": true
     },
@@ -7475,7 +7475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "把纜放船。",
+        "source_sentence": "把䌫放船。",
         "from": "X82n1571_038:0048b20_3",
         "context_with_next_sentence": true
     },

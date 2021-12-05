@@ -1435,7 +1435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "訪求荷澤禪師[書曰+皿]像。",
+        "source_sentence": "訪求荷澤禪師[書-曰+皿]像。",
         "from": "X75n1512_022:0217b06_3",
         "context_with_next_sentence": true
     },
@@ -1470,7 +1470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[書曰+皿]也得不[書曰+皿]也得。",
+        "source_sentence": "[書-曰+皿]也得不[書-曰+皿]也得。",
         "from": "X75n1512_022:0217b08_10",
         "context_with_next_sentence": true
     },
@@ -2760,7 +2760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "聦[宋木+(癸天+言)]嗜學。",
+        "source_sentence": "聦[宋-木+(癸-天+言)]嗜學。",
         "from": "X75n1512_022:0218c04_4",
         "context_with_next_sentence": true
     },

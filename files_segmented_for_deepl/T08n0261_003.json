@@ -180,7 +180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "復有眾生，被諸獄卒從足至頭[利禾+皮]取其皮，[利禾+皮]已作繩用充韁轡，銜勒眾生上高山頂，其山熱鐵驅迫令登，鞭撻萬般苦不可說。",
+        "source_sentence": "復有眾生，被諸獄卒從足至頭[利-禾+皮]取其皮，[利-禾+皮]已作繩用充韁轡，銜勒眾生上高山頂，其山熱鐵驅迫令登，鞭撻萬般苦不可說。",
         "from": "T08n0261_003:0876b28_6",
         "context_with_next_sentence": true
     },
@@ -345,7 +345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "生乏水草病無醫藥，死已[利禾+皮]剝為人噉食。",
+        "source_sentence": "生乏水草病無醫藥，死已[利-禾+皮]剝為人噉食。",
         "from": "T08n0261_003:0877b05_18",
         "context_with_next_sentence": true
     },

@@ -395,7 +395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "明[改己+易]列[穴/釆]。",
+        "source_sentence": "明敡列[穴/釆]。",
         "from": "X10n0264_001:0771b01_14",
         "context_with_next_sentence": true
     },
@@ -970,8 +970,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "劫火燒",
+        "source_sentence": "劫火燒天。",
         "from": "X10n0264_001:0771c14_49",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不壞多羅之典。",
+        "from": "X10n0264_001:0771c15_50",
         "context_with_next_sentence": false
     }
 ]

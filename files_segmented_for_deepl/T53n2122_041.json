@@ -570,7 +570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乃至於[穀禾+牛]牛頃。",
+        "source_sentence": "乃至於[穀-禾+牛]牛頃。",
         "from": "T53n2122_041:0605c26_7",
         "context_with_next_sentence": true
     },
@@ -1655,7 +1655,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蓬[葶丁+呆]為席。",
+        "source_sentence": "蓬[葶-丁+呆]為席。",
         "from": "T53n2122_041:0607a13_6",
         "context_with_next_sentence": true
     },

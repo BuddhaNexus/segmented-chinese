@@ -2865,7 +2865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何不[這言+(珍王)]色身強徤時撥教生死路頭明白。",
+        "source_sentence": "何不[這-言+(珍-王)]色身強徤時撥教生死路頭明白。",
         "from": "X64n1260_036:0269b22_7",
         "context_with_next_sentence": true
     },
@@ -4950,7 +4950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鸕鶿偏愛守空池。",
+        "source_sentence": "鸕鷀偏愛守空池。",
         "from": "X64n1260_036:0271c04_5",
         "context_with_next_sentence": true
     },

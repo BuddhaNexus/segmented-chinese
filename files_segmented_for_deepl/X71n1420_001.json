@@ -1,7 +1,12 @@
 [
     {
-        "source_sentence": " 佛日普照慧辯楚石禪師六會語錄序大慧提唱圜悟之道於徑山。",
+        "source_sentence": "佛日普照慧辯楚石禪師六會語錄序",
         "from": "X71n1420_001:0548a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大慧提唱圜悟之道於徑山。",
+        "from": "X71n1420_001:0548a05_0",
         "context_with_next_sentence": true
     },
     {
@@ -570,7 +575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 佛日普照慧辯楚石禪師語錄序",
+        "source_sentence": "佛日普照慧辯楚石禪師語錄序",
         "from": "X71n1420_001:0548b16_0",
         "context_with_next_sentence": true
     },
@@ -1840,7 +1845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "家無白[狂王+睪]之圖。",
+        "source_sentence": "家無白[狂-王+睪]之圖。",
         "from": "X71n1420_001:0550a19_3",
         "context_with_next_sentence": true
     },
@@ -3682,6 +3687,21 @@
     {
         "source_sentence": "佛日普照慧辯楚石禪師語錄卷第一",
         "from": "X71n1420_001:0551b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音切",
+        "from": "X71n1420_001:0551b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "序　脗(武粉切)　瓠(胡故切)　耄(莫告切)　瓛(胡官切)　蒺藜(上慈栗切下呂題切)　憩(去利切)　汾(扶云叨)　磊(力罪切)　掀(許言切)　揭(居竭切)。",
+        "from": "X71n1420_001:0551c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "錄　鶻(乎忽切)　濼(盧各切)　髑髏(上從木切下力候切)　橛(渠月切)　薅(呼槀切)　頷(戶感切)　靠(口告切)　顥(胡暠切)",
+        "from": "X71n1420_001:0551c03_0",
         "context_with_next_sentence": false
     }
 ]

@@ -1205,7 +1205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更若回頭[(厂@((既旡)日+口))*頁]渠。",
+        "source_sentence": "更若回頭[(厂@((既-旡)-日+口))*頁]渠。",
         "from": "X69n1362_002:0636a15_6",
         "context_with_next_sentence": true
     },
@@ -1355,7 +1355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "管取落他這般圈[袖由+貴]。",
+        "source_sentence": "管取落他這般圈[袖-由+貴]。",
         "from": "X69n1362_002:0636b04_4",
         "context_with_next_sentence": true
     },
@@ -1740,7 +1740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "熏風[颱台+弗][颱台+弗]今猶昔。",
+        "source_sentence": "熏風[颱-台+弗][颱-台+弗]今猶昔。",
         "from": "X69n1362_002:0636c01_7",
         "context_with_next_sentence": true
     },
@@ -3690,7 +3690,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "辱持盂而惠[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "辱持盂而惠[(厂@((既-旡)-日+口))*頁]。",
         "from": "X69n1362_002:0638a14_3",
         "context_with_next_sentence": true
     },
@@ -4300,7 +4300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "孰探其頤。",
+        "source_sentence": "孰探其頥。",
         "from": "X69n1362_002:0638b20_4",
         "context_with_next_sentence": true
     },
@@ -4440,7 +4440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "盡掃蝥[蟘代+忒]。",
+        "source_sentence": "盡掃蝥[蟘-代+忒]。",
         "from": "X69n1362_002:0638c02_32",
         "context_with_next_sentence": true
     },
@@ -6860,7 +6860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔邪歸正。",
+        "source_sentence": "㧞邪歸正。",
         "from": "X69n1362_002:0640b09_3",
         "context_with_next_sentence": true
     },
@@ -7455,7 +7455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "實有解黏釋縛抽釘拔楔之力也。",
+        "source_sentence": "實有解黏釋縛抽釘㧞楔之力也。",
         "from": "X69n1362_002:0640c14_20",
         "context_with_next_sentence": true
     },
@@ -7670,7 +7670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]其鈍根。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]其鈍根。",
         "from": "X69n1362_002:0641a01_3",
         "context_with_next_sentence": true
     },
@@ -8780,7 +8780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蝥(莫交切)　[蟘代+忒](徒得切)　顱(音盧)　癭(於井切)　嚇(呼嫁切)　鏕(音鹿)　睍(奴見切)　灺(徐也切)　欿(胡感切)　剽(疋妙切)　唶(將吉切)　惄(奴歷切)　渝(音余)　衋(□□□)　覼(力和切)　莨(魯當切草名也)　莠(音酉似禾非禾)　潏(余律切)　鄮(莫候切)　礨(力水切)　鼃(□□□)　媮(他侯切)　潛(所姦切)　熄(音息)　忱(氏林切)　楩(步連切)　柟(汝鹽切)　笈(□□□)　睕(於阮分)　憗(魚覲切)讚方外道友紫巖居士畫像讚(并序)士君子學先王之道。",
+        "source_sentence": "蝥(莫交切)　[蟘-代+忒](徒得切)　顱(音盧)　癭(於井切)　嚇(呼嫁切)　鏕(音鹿)　睍(奴見切)　灺(徐也切)　欿(胡感切)　剽(疋妙切)　唶(將吉切)　惄(奴歷切)　渝(音余)　衋(□□□)　覼(力和切)　莨(魯當切草名也)　莠(音酉似禾非禾)　潏(余律切)　鄮(莫候切)　礨(力水切)　鼃(□□□)　媮(他侯切)　潛(所姦切)　熄(音息)　忱(氏林切)　楩(步連切)　柟(汝鹽切)　笈(□□□)　睕(於阮分)　憗(魚覲切)讚方外道友紫巖居士畫像讚(并序)士君子學先王之道。",
         "from": "X69n1362_002:0642a04_0",
         "context_with_next_sentence": true
     },
@@ -8805,7 +8805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "予欲拔其尤揚於世以厚風俗。",
+        "source_sentence": "予欲㧞其尤揚於世以厚風俗。",
         "from": "X69n1362_002:0642a13_5",
         "context_with_next_sentence": true
     },
@@ -10075,7 +10075,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "太虗不受[(厂@((既旡)日+口))*頁]陸筆。",
+        "source_sentence": "太虗不受[(厂@((既-旡)-日+口))*頁]陸筆。",
         "from": "X69n1362_002:0643b07_10",
         "context_with_next_sentence": true
     },
@@ -12210,7 +12210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "莫恠胷中淈[泳永+盾]。",
+        "source_sentence": "莫恠胷中淈[泳-永+盾]。",
         "from": "X69n1362_002:0645c24_4",
         "context_with_next_sentence": true
     },
@@ -12395,7 +12395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "常將掃帚畫娥眉。",
+        "source_sentence": "常將掃箒畫娥眉。",
         "from": "X69n1362_002:0646a17_7",
         "context_with_next_sentence": true
     },
@@ -12885,7 +12885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]涉流沙。",
+        "source_sentence": "懡[怡-台+羅]涉流沙。",
         "from": "X69n1362_002:0646c08_1",
         "context_with_next_sentence": true
     },
@@ -13045,7 +13045,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "却來[廓享+墨]市要尋人。",
+        "source_sentence": "却來[廓-享+墨]市要尋人。",
         "from": "X69n1362_002:0646c21_2",
         "context_with_next_sentence": true
     },
@@ -13175,7 +13175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "却無隈隈[毯炎+崔][毯炎+崔]。",
+        "source_sentence": "却無隈隈[毯-炎+崔][毯-炎+崔]。",
         "from": "X69n1362_002:0647a07_3",
         "context_with_next_sentence": true
     },
@@ -13255,7 +13255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "却來[廓享+墨]市掣風顛。",
+        "source_sentence": "却來[廓-享+墨]市掣風顛。",
         "from": "X69n1362_002:0647a15_3",
         "context_with_next_sentence": true
     },
@@ -14802,6 +14802,236 @@
     {
         "source_sentence": "大慧普覺禪師語錄卷下(終)",
         "from": "X69n1362_002:0648c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大慧先師。",
+        "from": "X69n1362_002:0648c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無量三昧辯才。",
+        "from": "X69n1362_002:0648c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "秉佛慧炬。",
+        "from": "X69n1362_002:0648c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "洞燭人心。",
+        "from": "X69n1362_002:0648c23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "承學之徒。",
+        "from": "X69n1362_002:0648c23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨說抄錄。",
+        "from": "X69n1362_002:0648c24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "散落諸方。",
+        "from": "X69n1362_002:0648c24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "末後最庵道印法兄。",
+        "from": "X69n1362_002:0648c24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "裒次編正。",
+        "from": "X69n1362_002:0648c24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "總為一集。",
+        "from": "X69n1362_002:0649a01_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名曰廣錄。",
+        "from": "X69n1362_002:0649a01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前後顛末。",
+        "from": "X69n1362_002:0649a01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了然無遺。",
+        "from": "X69n1362_002:0649a01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔釋迦老子。",
+        "from": "X69n1362_002:0649a01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住世七十九年。",
+        "from": "X69n1362_002:0649a02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說法三百餘會。",
+        "from": "X69n1362_002:0649a02_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "臨涅槃時。",
+        "from": "X69n1362_002:0649a02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於金棺中。",
+        "from": "X69n1362_002:0649a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現露雙趺。",
+        "from": "X69n1362_002:0649a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以示迦葉。",
+        "from": "X69n1362_002:0649a03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迦葉告諸比丘。",
+        "from": "X69n1362_002:0649a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛已涅槃。",
+        "from": "X69n1362_002:0649a03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡金剛舍利。",
+        "from": "X69n1362_002:0649a04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非我等事。",
+        "from": "X69n1362_002:0649a04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我等當結集法藏。",
+        "from": "X69n1362_002:0649a04_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無令斷絕。",
+        "from": "X69n1362_002:0649a04_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道印法兄之用心。",
+        "from": "X69n1362_002:0649a05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與迦葉等。",
+        "from": "X69n1362_002:0649a05_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然當時迦葉一言之後。",
+        "from": "X69n1362_002:0649a05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿難依教奏行。",
+        "from": "X69n1362_002:0649a06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛之奧義。",
+        "from": "X69n1362_002:0649a06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "徧滿沙界。",
+        "from": "X69n1362_002:0649a06_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "祖慶親炙先師之日最久。",
+        "from": "X69n1362_002:0649a06_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敢不奉承道印法兄之用心。",
+        "from": "X69n1362_002:0649a07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鏤版刊行。",
+        "from": "X69n1362_002:0649a07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以廣其傳。",
+        "from": "X69n1362_002:0649a08_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庶幾見者聞者。",
+        "from": "X69n1362_002:0649a08_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同悟真如。",
+        "from": "X69n1362_002:0649a08_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛之慧命。",
+        "from": "X69n1362_002:0649a08_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永永不絕。",
+        "from": "X69n1362_002:0649a08_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古語云。",
+        "from": "X69n1362_002:0649a09_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自未得度先度人者。",
+        "from": "X69n1362_002:0649a09_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩發心。",
+        "from": "X69n1362_002:0649a09_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "學者當有以亮(祖慶)附麗阿難之本意。",
+        "from": "X69n1362_002:0649a09_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紹熈元年四月結制日。",
+        "from": "X69n1362_002:0649a10_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(祖慶)謹跋。",
+        "from": "X69n1362_002:0649a11_28",
         "context_with_next_sentence": false
     }
 ]

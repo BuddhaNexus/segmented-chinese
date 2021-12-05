@@ -1595,7 +1595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "住[宋木+取]後身。",
+        "source_sentence": "住[宋-木+取]後身。",
         "from": "X03n0208_010:0002b11_9",
         "context_with_next_sentence": true
     },
@@ -2930,7 +2930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無障[得彳]故。",
+        "source_sentence": "無障[得-彳]故。",
         "from": "X03n0208_010:0003b22_12",
         "context_with_next_sentence": true
     },
@@ -3210,7 +3210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "偈說[宋木+取]勝自覺超世間(至)是名善入如來智。",
+        "source_sentence": "偈說[宋-木+取]勝自覺超世間(至)是名善入如來智。",
         "from": "X03n0208_010:0003c14_0",
         "context_with_next_sentence": true
     },
@@ -3415,7 +3415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有十種常身無[得彳]方便。",
+        "source_sentence": "有十種常身無[得-彳]方便。",
         "from": "X03n0208_010:0004a09_4",
         "context_with_next_sentence": true
     },
@@ -3665,7 +3665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "同真際無[得彳]方便者。",
+        "source_sentence": "同真際無[得-彳]方便者。",
         "from": "X03n0208_010:0004b09_0",
         "context_with_next_sentence": true
     },
@@ -3690,7 +3690,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無障[得彳]故。",
+        "source_sentence": "無障[得-彳]故。",
         "from": "X03n0208_010:0004b10_5",
         "context_with_next_sentence": true
     },
@@ -3765,7 +3765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三明自在無[得彳]方便者。",
+        "source_sentence": "三明自在無[得-彳]方便者。",
         "from": "X03n0208_010:0004b18_0",
         "context_with_next_sentence": true
     },
@@ -4230,7 +4230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "普應無[得彳]者。",
+        "source_sentence": "普應無[得-彳]者。",
         "from": "X03n0208_010:0005a10_0",
         "context_with_next_sentence": true
     },
@@ -4320,7 +4320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二者覺示現無[得彳]。",
+        "source_sentence": "二者覺示現無[得-彳]。",
         "from": "X03n0208_010:0005a16_4",
         "context_with_next_sentence": true
     },
@@ -4385,7 +4385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自覺示現無[得彳]者。",
+        "source_sentence": "自覺示現無[得-彳]者。",
         "from": "X03n0208_010:0005a21_0",
         "context_with_next_sentence": true
     },
@@ -4415,7 +4415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "偈說無[得彳]大名稱(至)十力靡不見。",
+        "source_sentence": "偈說無[得-彳]大名稱(至)十力靡不見。",
         "from": "X03n0208_010:0005a23_0",
         "context_with_next_sentence": true
     },
@@ -4450,7 +4450,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無[得彳]解脫故。",
+        "source_sentence": "無[得-彳]解脫故。",
         "from": "X03n0208_010:0005b01_2",
         "context_with_next_sentence": true
     },
@@ -4555,7 +4555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "偈說[宋木+取]勝所說法(至)乃見真如來。",
+        "source_sentence": "偈說[宋-木+取]勝所說法(至)乃見真如來。",
         "from": "X03n0208_010:0005b11_0",
         "context_with_next_sentence": true
     },
@@ -4575,7 +4575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而無障[得彳]。",
+        "source_sentence": "而無障[得-彳]。",
         "from": "X03n0208_010:0005b12_3",
         "context_with_next_sentence": true
     },
@@ -4675,8 +4675,28 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "知佛法",
+        "source_sentence": "知佛法身。",
         "from": "X03n0208_010:0005b17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶如滿月。",
+        "from": "X03n0208_010:0005b18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不一不異。",
+        "from": "X03n0208_010:0005b18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切現化故。",
+        "from": "X03n0208_010:0005b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卷十終",
+        "from": "X03n0208_010:0005b18_8",
         "context_with_next_sentence": false
     }
 ]

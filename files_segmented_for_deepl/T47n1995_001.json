@@ -4725,7 +4725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "太平淈[泳永+盾]漢事事盡經遍。",
+        "source_sentence": "太平淈[泳-永+盾]漢事事盡經遍。",
         "from": "T47n1995_001:0652c12_1",
         "context_with_next_sentence": true
     },
@@ -4745,7 +4745,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "箇淈[泳永+盾]漢。",
+        "source_sentence": "箇淈[泳-永+盾]漢。",
         "from": "T47n1995_001:0652c13_5",
         "context_with_next_sentence": true
     },
@@ -7535,7 +7535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "我有一柄帚。",
+        "source_sentence": "我有一柄箒。",
         "from": "T47n1995_001:0654c29_1",
         "context_with_next_sentence": true
     },
@@ -9240,7 +9240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一場懡[怡台+羅]。",
+        "source_sentence": "一場懡[怡-台+羅]。",
         "from": "T47n1995_001:0656a21_7",
         "context_with_next_sentence": true
     },
@@ -9330,8 +9330,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乃拈起法",
+        "source_sentence": "乃拈起法衣云。",
         "from": "T47n1995_001:0656a27_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "者箇真紅色。",
+        "from": "T47n1995_001:0656a28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剛然道是緋。",
+        "from": "T47n1995_001:0656a28_12",
         "context_with_next_sentence": false
     }
 ]

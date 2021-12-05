@@ -7555,7 +7555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "了無罣礙。",
+        "source_sentence": "了無&#;礙。",
         "from": "X72n1442_004:0712c09_3",
         "context_with_next_sentence": true
     },
@@ -8605,7 +8605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "壽茂期頤。",
+        "source_sentence": "壽茂期頥。",
         "from": "X72n1442_004:0713c17_3",
         "context_with_next_sentence": true
     },
@@ -16800,12 +16800,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 附",
+        "source_sentence": ".-附",
         "from": "X72n1442_004:0723b05_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 集禪海十珍小序",
+        "source_sentence": "集禪海十珍小序",
         "from": "X72n1442_004:0723b06_0",
         "context_with_next_sentence": true
     },
@@ -24712,6 +24712,11 @@
     {
         "source_sentence": "弟子高兆焚香拜書於白雲堂",
         "from": "X72n1442_004:0730b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪海十珍(終)",
+        "from": "X72n1442_004:0730b24_0",
         "context_with_next_sentence": false
     }
 ]

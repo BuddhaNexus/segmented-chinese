@@ -1505,12 +1505,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "依然成兩[打丁+羕]。",
+        "source_sentence": "依然成兩[打-丁+羕]。",
         "from": "X66n1297_072:0714c20_14",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不兩[打丁+羕]。",
+        "source_sentence": "不兩[打-丁+羕]。",
         "from": "X66n1297_072:0714c20_15",
         "context_with_next_sentence": true
     },
@@ -2160,7 +2160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不然總是懡[怡台+羅]。",
+        "source_sentence": "不然總是懡[怡-台+羅]。",
         "from": "X66n1297_072:0715c07_9",
         "context_with_next_sentence": true
     },
@@ -3865,7 +3865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "(旵庵曉)翠巖古雪通哲禪師開爐上堂。",
+        "source_sentence": "(旵庵曉)翠巖古雪通喆禪師開爐上堂。",
         "from": "X66n1297_072:0717c10_4",
         "context_with_next_sentence": true
     },
@@ -4860,7 +4860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "(正覺哲)賣鹽翁路逢一僧去覆船。",
+        "source_sentence": "(正覺喆)賣鹽翁路逢一僧去覆船。",
         "from": "X66n1297_072:0718c22_12",
         "context_with_next_sentence": true
     },

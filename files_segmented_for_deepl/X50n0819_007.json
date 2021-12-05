@@ -20490,12 +20490,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "採薪及果[屏廾+十]。",
+        "source_sentence": "採薪及果[屏-廾+十]。",
         "from": "X50n0819_007:0275b17_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[屏廾+十]字醜故。",
+        "source_sentence": "[屏-廾+十]字醜故。",
         "from": "X50n0819_007:0275b17_3",
         "context_with_next_sentence": true
     },
@@ -22370,7 +22370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "身如[葷車+七]豆許大。",
+        "source_sentence": "身如[葷-車+七]豆許大。",
         "from": "X50n0819_007:0277b06_31",
         "context_with_next_sentence": true
     },
@@ -23155,7 +23155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "彼[噯(受又)+(白日+(罩卓))]就遍。",
+        "source_sentence": "彼[噯-(受-又)+(白-日+(罩-卓))]就遍。",
         "from": "X50n0819_007:0278a04_7",
         "context_with_next_sentence": true
     },

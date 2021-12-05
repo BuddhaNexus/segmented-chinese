@@ -975,7 +975,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+聿]身而過。",
+        "source_sentence": "[打-丁+聿]身而過。",
         "from": "X72n1444_004:0788a16_14",
         "context_with_next_sentence": true
     },
@@ -5590,7 +5590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寒涕交頤君莫笑。",
+        "source_sentence": "寒涕交頥君莫笑。",
         "from": "X72n1444_004:0791c19_8",
         "context_with_next_sentence": true
     },
@@ -5645,7 +5645,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寒涕交頤。",
+        "source_sentence": "寒涕交頥。",
         "from": "X72n1444_004:0791c22_2",
         "context_with_next_sentence": true
     },

@@ -1175,7 +1175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "復有勝者，所謂：彼處閻魔羅人手執熱炎枷刀[矛*(替曰+貝)]石，散之為末，流血成河，此河急漂餘地獄人，多饒髮骨。",
+        "source_sentence": "復有勝者，所謂：彼處閻魔羅人手執熱炎枷刀[矛*(替-曰+貝)]石，散之為末，流血成河，此河急漂餘地獄人，多饒髮骨。",
         "from": "T17n0721_010:0058a27_9",
         "context_with_next_sentence": true
     },

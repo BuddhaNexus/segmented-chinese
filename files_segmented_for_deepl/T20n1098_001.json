@@ -430,7 +430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "癤腫毒腫癀病[病丙+帶]門。",
+        "source_sentence": "癤腫毒腫癀病[病-丙+帶]門。",
         "from": "T20n1098_001:0432c26_2",
         "context_with_next_sentence": true
     },
@@ -1530,12 +1530,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "真言佉陀羅木金剛[檎离+土]。",
+        "source_sentence": "真言佉陀羅木金剛[檎-离+土]。",
         "from": "T20n1098_001:0436a03_13",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "真言五色線索用繫[檎离+土]上。",
+        "source_sentence": "真言五色線索用繫[檎-离+土]上。",
         "from": "T20n1098_001:0436a03_14",
         "context_with_next_sentence": true
     },

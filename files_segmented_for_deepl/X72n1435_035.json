@@ -1100,7 +1100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "僅足容[邱丘+黍]。",
+        "source_sentence": "僅足容[邱-丘+黍]。",
         "from": "X72n1435_035:0379a06_9",
         "context_with_next_sentence": true
     },
@@ -2040,7 +2040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乃[遄而+王]過劒州道路。",
+        "source_sentence": "乃[遄-而+王]過劒州道路。",
         "from": "X72n1435_035:0379c06_4",
         "context_with_next_sentence": true
     },
@@ -5815,8 +5815,178 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "賜進士出身奉直大夫左春坊左諭德兼翰林院侍讀覃恩進階奉政大夫菩薩十戒弟子皖舒廣瀹吳應賓謹撰無異禪師廣錄墖銘卷之三十五(終)",
+        "source_sentence": "賜進士出身奉直大夫左春坊左諭德兼翰林院侍讀覃恩進階奉政大夫菩薩十戒弟子皖舒廣瀹吳應賓謹撰無異禪師廣錄墖銘卷之三十五(終)募刻祖翁異和尚廣錄序洞水溯曹溪。",
         "from": "X72n1435_035:0382c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "源深流遠。",
+        "from": "X72n1435_035:0383a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍峯連鳳嶺。",
+        "from": "X72n1435_035:0383a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "山好風高。",
+        "from": "X72n1435_035:0383a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "障迴末法狂瀾。",
+        "from": "X72n1435_035:0383a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "直指祖師玄奧。",
+        "from": "X72n1435_035:0383a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "驚人活句。",
+        "from": "X72n1435_035:0383a07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "韵出清霄。",
+        "from": "X72n1435_035:0383a07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "炤世明燈。",
+        "from": "X72n1435_035:0383a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "光騰碧漢。",
+        "from": "X72n1435_035:0383a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此祖翁。",
+        "from": "X72n1435_035:0383a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "揭開寶鏡。",
+        "from": "X72n1435_035:0383a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "掉盡老婆舌頭者也。",
+        "from": "X72n1435_035:0383a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不謂。",
+        "from": "X72n1435_035:0383a09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "丙丁奪燄。",
+        "from": "X72n1435_035:0383a09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "致螢耀以彌空。",
+        "from": "X72n1435_035:0383a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "溪壑亂流。",
+        "from": "X72n1435_035:0383a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "赴海門而失所。",
+        "from": "X72n1435_035:0383a10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "磵本師每將舊譜。",
+        "from": "X72n1435_035:0383a10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "示我弟兄。",
+        "from": "X72n1435_035:0383a11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲展弘慈。",
+        "from": "X72n1435_035:0383a11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阻於阿堵。",
+        "from": "X72n1435_035:0383a11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或以初機葢障。",
+        "from": "X72n1435_035:0383a11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂使方冊缺文。",
+        "from": "X72n1435_035:0383a12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(瀚)用是不揣因緣。",
+        "from": "X72n1435_035:0383a12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟觀時節。",
+        "from": "X72n1435_035:0383a12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "冀先聲之不墜。",
+        "from": "X72n1435_035:0383a13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令後學之有從。",
+        "from": "X72n1435_035:0383a13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠乞諸檀徧聯法屬捐貲彚梓。",
+        "from": "X72n1435_035:0383a13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非但慧炬重明。",
+        "from": "X72n1435_035:0383a14_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "附藏流通。",
+        "from": "X72n1435_035:0383a14_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且令昏迷頓起。",
+        "from": "X72n1435_035:0383a14_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "益世多矣。",
+        "from": "X72n1435_035:0383a15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "厥功偉歟。",
+        "from": "X72n1435_035:0383a15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住博山法孫(弘瀚)稽首百拜謹題。",
+        "from": "X72n1435_035:0383a15_19",
         "context_with_next_sentence": false
     }
 ]

@@ -1367,6 +1367,11 @@
     {
         "source_sentence": "大寶積經卷第十七",
         "from": "T11n0310_017:0096c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "\t\t[佛學大辭典(丁福保)]",
+        "from": "T11n0310_017:dfb_0",
         "context_with_next_sentence": false
     }
 ]

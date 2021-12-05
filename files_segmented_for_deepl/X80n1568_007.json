@@ -15925,12 +15925,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "盡落裷[袖由+貴]。",
+        "source_sentence": "盡落裷[袖-由+貴]。",
         "from": "X80n1568_007:0701b16_8",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不落裷[袖由+貴]。",
+        "source_sentence": "不落裷[袖-由+貴]。",
         "from": "X80n1568_007:0701b16_9",
         "context_with_next_sentence": true
     },
@@ -18395,7 +18395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不是相見語)安國[啗口+王]和尚。",
+        "source_sentence": "不是相見語)安國&#;和尚。",
         "from": "X80n1568_007:0703a13_7",
         "context_with_next_sentence": true
     },
@@ -21740,7 +21740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "犴[狂王+谷]無風徒勞展掌。",
+        "source_sentence": "犴[狂-王+谷]無風徒勞展掌。",
         "from": "X80n1568_007:0705a22_0",
         "context_with_next_sentence": true
     },
@@ -26190,7 +26190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "福州安國院弘[啗口+王]明真禪師泉州陳氏子。",
+        "source_sentence": "福州安國院弘&#;明真禪師泉州陳氏子。",
         "from": "X80n1568_007:0708a11_0",
         "context_with_next_sentence": true
     },
@@ -26265,7 +26265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "和尚怪弘[啗口+王]不得。",
+        "source_sentence": "和尚怪弘&#;不得。",
         "from": "X80n1568_007:0708a15_1",
         "context_with_next_sentence": true
     },
@@ -28630,7 +28630,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "福州遷宗院行[啗口+王]仁慧禪師泉州王氏子。",
+        "source_sentence": "福州遷宗院行&#;仁慧禪師泉州王氏子。",
         "from": "X80n1568_007:0709c12_0",
         "context_with_next_sentence": true
     },
@@ -29750,7 +29750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不從[葸十+夕]嶺帶將來。",
+        "source_sentence": "不從[葸-十+夕]嶺帶將來。",
         "from": "X80n1568_007:0710b24_9",
         "context_with_next_sentence": true
     },
@@ -29900,7 +29900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蝦蟇曲[(乏之+虫)*善]。",
+        "source_sentence": "蝦蟇曲[(乏-之+虫)*善]。",
         "from": "X80n1568_007:0710c07_13",
         "context_with_next_sentence": true
     },
@@ -32622,6 +32622,16 @@
     {
         "source_sentence": "五燈嚴統卷第七",
         "from": "X80n1568_007:0712c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X80n1568_007:0712c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謴(古困切)　[狂-王+谷](余玉切)　譸(竹尤切)　嗢(烏汶切)　噦(乙劣切)",
+        "from": "X80n1568_007:0712c07_0",
         "context_with_next_sentence": false
     }
 ]

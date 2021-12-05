@@ -2995,7 +2995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "先[跳兆+孛]跳三千里。",
+        "source_sentence": "先[跳-兆+孛]跳三千里。",
         "from": "X68n1315_006:0037a06_31",
         "context_with_next_sentence": true
     },
@@ -3435,7 +3435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "監寺[妳女+口]。",
+        "source_sentence": "監寺[妳-女+口]。",
         "from": "X68n1315_006:0037a24_16",
         "context_with_next_sentence": true
     },
@@ -3455,7 +3455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "都監闍黎[妳女+口]。",
+        "source_sentence": "都監闍黎[妳-女+口]。",
         "from": "X68n1315_006:0037a24_20",
         "context_with_next_sentence": true
     },
@@ -3475,7 +3475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "上座[妳女+口]。",
+        "source_sentence": "上座[妳-女+口]。",
         "from": "X68n1315_006:0037b01_24",
         "context_with_next_sentence": true
     },
@@ -4705,7 +4705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蝦蟆[跳兆+孛]跳上天。",
+        "source_sentence": "蝦蟆[跳-兆+孛]跳上天。",
         "from": "X68n1315_006:0037c24_14",
         "context_with_next_sentence": true
     },
@@ -7680,7 +7680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "你適來恁麼道[妳女+口]。",
+        "source_sentence": "你適來恁麼道[妳-女+口]。",
         "from": "X68n1315_006:0039b15_33",
         "context_with_next_sentence": true
     },
@@ -9395,7 +9395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任[跳兆+孛]跳。",
+        "source_sentence": "一任[跳-兆+孛]跳。",
         "from": "X68n1315_006:0040b04_28",
         "context_with_next_sentence": true
     },
@@ -11790,7 +11790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有甚饆饠[飢几+追]子。",
+        "source_sentence": "有甚饆饠[飢-几+追]子。",
         "from": "X68n1315_006:0041b22_5",
         "context_with_next_sentence": true
     },
@@ -11872,6 +11872,96 @@
     {
         "source_sentence": "古尊宿語錄卷第六",
         "from": "X68n1315_006:0041c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "睦州和尚語錄小序",
+        "from": "X68n1315_006:0041c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師法嗣黃檗。",
+        "from": "X68n1315_006:0041c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初住睦州觀音院。",
+        "from": "X68n1315_006:0041c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常餘百眾。",
+        "from": "X68n1315_006:0041c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得數十載後。",
+        "from": "X68n1315_006:0041c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨眾住開元寺房。",
+        "from": "X68n1315_006:0041c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "織蒲鞋鬻養母親。",
+        "from": "X68n1315_006:0041c07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時人號為陳蒲鞋。",
+        "from": "X68n1315_006:0041c07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其機鋒語句。",
+        "from": "X68n1315_006:0041c08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今集之二三焉。",
+        "from": "X68n1315_006:0041c08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "睦州和尚。",
+        "from": "X68n1315_006:0041c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名道蹤。",
+        "from": "X68n1315_006:0041c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嚴州人。",
+        "from": "X68n1315_006:0041c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "姓陳氏。",
+        "from": "X68n1315_006:0041c09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受業不載。",
+        "from": "X68n1315_006:0041c09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得法於黃檗運和尚。",
+        "from": "X68n1315_006:0041c09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "馬祖第四世。",
+        "from": "X68n1315_006:0041c10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唐宣宗懿宗時人。",
+        "from": "X68n1315_006:0041c10_7",
         "context_with_next_sentence": false
     }
 ]

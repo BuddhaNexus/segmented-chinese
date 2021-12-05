@@ -5355,7 +5355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "韻作[(暇日)/毛][沙/毛]。",
+        "source_sentence": "韻作[(暇-日)/毛][沙/毛]。",
         "from": "T54n2131_007:1171a06_1",
         "context_with_next_sentence": true
     },
@@ -7430,7 +7430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故多[藉耒+糸]段食。",
+        "source_sentence": "故多[藉-耒+糸]段食。",
         "from": "T54n2131_007:1172c10_5",
         "context_with_next_sentence": true
     },
@@ -8725,7 +8725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蓋是遣累之筌[竺二+(囚/弟)]。",
+        "source_sentence": "蓋是遣累之筌[竺-二+(囚/弟)]。",
         "from": "T54n2131_007:1173c09_38",
         "context_with_next_sentence": true
     },
@@ -13950,7 +13950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[醫酉+土]濕弗羅跋那。",
+        "source_sentence": "[醫-酉+土]濕弗羅跋那。",
         "from": "T54n2131_007:1178a02_0",
         "context_with_next_sentence": true
     },
@@ -22615,8 +22615,78 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　梵語星分難遍求　　列篇舉要會群流　總持三藏如觀掌　　顒望後賢為續周翻譯名義集卷第七",
+        "source_sentence": "　梵語星分難遍求　　列篇舉要會群流　總持三藏如觀掌　　顒望後賢為續周翻譯名義集卷第七夫翻譯名義集者。",
         "from": "T54n2131_007:1185b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "姑蘇景德寺普潤大師法雲之所編也。",
+        "from": "T54n2131_007:1185b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此書來于此國也。",
+        "from": "T54n2131_007:1185b16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓋于茲有年矣。",
+        "from": "T54n2131_007:1185b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以故往往鋟梓而傳于世亦尚矣。",
+        "from": "T54n2131_007:1185b17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "粵有唐本以之點撿。",
+        "from": "T54n2131_007:1185b17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已廣之本則多有脫簡者。",
+        "from": "T54n2131_007:1185b18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故考訂而補其闕略也。",
+        "from": "T54n2131_007:1185b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又傍加倭點者。",
+        "from": "T54n2131_007:1185b19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其點不一準。",
+        "from": "T54n2131_007:1185b19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請於處處之學校而寫之者也。",
+        "from": "T54n2131_007:1185b20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "定知有是處亦有非處。",
+        "from": "T54n2131_007:1185b20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仰而俟明者之添削也。",
+        "from": "T54n2131_007:1185b21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聊命工壽木以廣其傳焉。",
+        "from": "T54n2131_007:1185b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "維時寬永五戊辰仲冬上旬",
+        "from": "T54n2131_007:1185b23_0",
         "context_with_next_sentence": false
     }
 ]

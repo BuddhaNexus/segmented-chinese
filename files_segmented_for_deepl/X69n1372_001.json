@@ -1765,7 +1765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寒涕垂頤圍爐打坐。",
+        "source_sentence": "寒涕垂頥圍爐打坐。",
         "from": "X69n1372_001:0810a03_1",
         "context_with_next_sentence": true
     },
@@ -4750,7 +4750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以拄杖一時[起巳+(得彳)]散。",
+        "source_sentence": "以拄杖一時[起-巳+(得-彳)]散。",
         "from": "X69n1372_001:0813a09_33",
         "context_with_next_sentence": true
     },

@@ -1035,7 +1035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若脚[跳兆+專]有瘡高著。",
+        "source_sentence": "若脚[跳-兆+專]有瘡高著。",
         "from": "X40n0717_011:0282a17_6",
         "context_with_next_sentence": true
     },
@@ -1645,7 +1645,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或高過脚[跳兆+專]上。",
+        "source_sentence": "或高過脚[跳-兆+專]上。",
         "from": "X40n0717_011:0282b10_6",
         "context_with_next_sentence": true
     },
@@ -4950,7 +4950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "上座未免其[億音+(天*天)]。",
+        "source_sentence": "上座未免其[億-音+(天*天)]。",
         "from": "X40n0717_011:0284b11_11",
         "context_with_next_sentence": true
     },
@@ -6875,7 +6875,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂故[穴/((啜口)/口)]食。",
+        "source_sentence": "謂故[穴/((啜-口)/口)]食。",
         "from": "X40n0717_011:0285b20_6",
         "context_with_next_sentence": true
     },
@@ -8230,7 +8230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "洗時帚揩。",
+        "source_sentence": "洗時箒揩。",
         "from": "X40n0717_011:0286a24_52",
         "context_with_next_sentence": true
     },
@@ -11660,7 +11660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "狙毛作[袖由+宁]褥。",
+        "source_sentence": "狙毛作[袖-由+宁]褥。",
         "from": "X40n0717_011:0288a24_0",
         "context_with_next_sentence": true
     },
@@ -12490,7 +12490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "尊執[(白日+田)/廾]而不聽稽首。",
+        "source_sentence": "尊執[(白-日+田)/廾]而不聽稽首。",
         "from": "X40n0717_011:0288c12_10",
         "context_with_next_sentence": true
     },
@@ -12500,7 +12500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(白日+田)/廾]求敬而不能至地。",
+        "source_sentence": "[(白-日+田)/廾]求敬而不能至地。",
         "from": "X40n0717_011:0288c12_12",
         "context_with_next_sentence": true
     },
@@ -12520,7 +12520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "虧聖教。",
+        "source_sentence": "&#;聖教。",
         "from": "X40n0717_011:0288c12_16",
         "context_with_next_sentence": true
     },
@@ -12555,7 +12555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "意在敬上自[(白日+田)/廾]之儀也。",
+        "source_sentence": "意在敬上自[(白-日+田)/廾]之儀也。",
         "from": "X40n0717_011:0288c13_23",
         "context_with_next_sentence": true
     },
@@ -14240,7 +14240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五百世身墮拔波地獄。",
+        "source_sentence": "五百世身墮㧞波地獄。",
         "from": "X40n0717_011:0289c05_7",
         "context_with_next_sentence": true
     },
@@ -17617,6 +17617,201 @@
     {
         "source_sentence": "四分戒本如釋卷第十一",
         "from": "X40n0717_011:0291c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X40n0717_011:0291c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[跳-兆+專]音傳。",
+        "from": "X40n0717_011:0291c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "脚肚。",
+        "from": "X40n0717_011:0291c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "矗音畜。",
+        "from": "X40n0717_011:0291c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "齊也。",
+        "from": "X40n0717_011:0291c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "胯誇字上聲。",
+        "from": "X40n0717_011:0291c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兩股間也。",
+        "from": "X40n0717_011:0291c21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "脇肋上險字入聲。",
+        "from": "X40n0717_011:0291c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身左右腋下。",
+        "from": "X40n0717_011:0291c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音勒。",
+        "from": "X40n0717_011:0291c22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "脇骨也。",
+        "from": "X40n0717_011:0291c22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "臀音豚。",
+        "from": "X40n0717_011:0291c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[穴/((啜-口)/口)]音札。",
+        "from": "X40n0717_011:0291c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "口滿食也。",
+        "from": "X40n0717_011:0291c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[口*尃][口*集]上音博。",
+        "from": "X40n0717_011:0292a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音集。",
+        "from": "X40n0717_011:0292a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗗音究。",
+        "from": "X40n0717_011:0292a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "飲聲。",
+        "from": "X40n0717_011:0292a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "啜與歠同。",
+        "from": "X40n0717_011:0292a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摡音戲。",
+        "from": "X40n0717_011:0292a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "拭也。",
+        "from": "X40n0717_011:0292a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "屝音費。",
+        "from": "X40n0717_011:0292a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "屩音覺。",
+        "from": "X40n0717_011:0292a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "磽确上音敲。",
+        "from": "X40n0717_011:0292a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音學。",
+        "from": "X40n0717_011:0292a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "石地也。",
+        "from": "X40n0717_011:0292a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剗音產。",
+        "from": "X40n0717_011:0292a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獺音灘入聲。",
+        "from": "X40n0717_011:0292a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "形如小狗。",
+        "from": "X40n0717_011:0292a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "水居。",
+        "from": "X40n0717_011:0292a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "食魚。",
+        "from": "X40n0717_011:0292a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "氍氀上音渠。",
+        "from": "X40n0717_011:0292a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音閭。",
+        "from": "X40n0717_011:0292a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆毛席也。",
+        "from": "X40n0717_011:0292a10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "狚音丹上聲。",
+        "from": "X40n0717_011:0292a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獸似狼。",
+        "from": "X40n0717_011:0292a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "赤眉鼠目。",
+        "from": "X40n0717_011:0292a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黲音慘。",
+        "from": "X40n0717_011:0292a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淺青黑色。",
+        "from": "X40n0717_011:0292a12_1",
         "context_with_next_sentence": false
     }
 ]

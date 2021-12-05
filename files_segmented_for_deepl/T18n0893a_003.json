@@ -535,7 +535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　若(而也反)以俱忙束訖囉(二合)滿馱寧(上)莎(去)訶(去)曀醯曀醯莽忙伽(去輕呼)寧(上)乞使(二合)鉢囉(二合)忙尾捨蘇(上)麼囉(二合)帝莽若(而也反)囊莽比僧室[口*栗](二合)底(丁以反)也(二合)微者[口*(肄聿+余)]多(去)忙指嚂唵囉乞產(二合)俱嚕俱嚨擬(宜以反)尼(上)莎訶　唵俱蘭達哩滿馱[合*牛]泮吒(二合)俱摩羅明。",
+        "source_sentence": "唵　若(而也反)以俱忙束訖囉(二合)滿馱寧(上)莎(去)訶(去)曀醯曀醯莽忙伽(去輕呼)寧(上)乞使(二合)鉢囉(二合)忙尾捨蘇(上)麼囉(二合)帝莽若(而也反)囊莽比僧室[口*栗](二合)底(丁以反)也(二合)微者[口*(肄-聿+余)]多(去)忙指嚂唵囉乞產(二合)俱嚕俱嚨擬(宜以反)尼(上)莎訶　唵俱蘭達哩滿馱[合*牛]泮吒(二合)俱摩羅明。",
         "from": "T18n0893a_003:0626a12_0",
         "context_with_next_sentence": true
     },
@@ -665,7 +665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "得[(薩文+(立一))/木]囉香。",
+        "source_sentence": "得[(薩-文+(立-一))/木]囉香。",
         "from": "T18n0893a_003:0626a25_20",
         "context_with_next_sentence": true
     },
@@ -3140,7 +3140,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "緩[戀心+斗]其酥。",
+        "source_sentence": "緩[戀-心+斗]其酥。",
         "from": "T18n0893a_003:0628b03_17",
         "context_with_next_sentence": true
     },
@@ -6515,7 +6515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "左置賓[(薩文+(立一))/木]羅。",
+        "source_sentence": "左置賓[(薩-文+(立-一))/木]羅。",
         "from": "T18n0893a_003:0631b02_17",
         "context_with_next_sentence": true
     },
@@ -9372,6 +9372,41 @@
     {
         "source_sentence": "蘇悉地羯囉經卷下",
         "from": "T18n0893a_003:0633b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右經國本同宋。",
+        "from": "T18n0893a_003:0633b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "丹本獨異。",
+        "from": "T18n0893a_003:0633b29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "撿無所據。",
+        "from": "T18n0893a_003:0633b29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不敢去取。",
+        "from": "T18n0893a_003:0633b29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而雙存之。",
+        "from": "T18n0893a_003:0633c01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以待賢哲。",
+        "from": "T18n0893a_003:0633c01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此則丹本也。",
+        "from": "T18n0893a_003:0633c01_6",
         "context_with_next_sentence": false
     }
 ]

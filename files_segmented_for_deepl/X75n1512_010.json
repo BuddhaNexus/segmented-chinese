@@ -3810,7 +3810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]瞻菲薄良足陋矣。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]瞻菲薄良足陋矣。",
         "from": "X75n1512_010:0159b01_99",
         "context_with_next_sentence": true
     },
@@ -5495,7 +5495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "毀大慈之善眾媲不祥之惡鳥。",
+        "source_sentence": "毀大慈之善眾嫓不祥之惡鳥。",
         "from": "X75n1512_010:0160c23_16",
         "context_with_next_sentence": true
     },
@@ -5595,7 +5595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "立忠不[(厂@((既旡)日+口))*頁]其命。",
+        "source_sentence": "立忠不[(厂@((既-旡)-日+口))*頁]其命。",
         "from": "X75n1512_010:0161a07_9",
         "context_with_next_sentence": true
     },
@@ -5635,7 +5635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何足[(厂@((既旡)日+口))*頁]哉。",
+        "source_sentence": "何足[(厂@((既-旡)-日+口))*頁]哉。",
         "from": "X75n1512_010:0161a09_17",
         "context_with_next_sentence": true
     },
@@ -6095,7 +6095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寇賊奸究。",
+        "source_sentence": "冦賊奸究。",
         "from": "X75n1512_010:0161b19_25",
         "context_with_next_sentence": true
     },

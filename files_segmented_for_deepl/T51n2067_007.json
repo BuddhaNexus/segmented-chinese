@@ -1400,7 +1400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又高[邱丘+王]縣比丘尼花手。",
+        "source_sentence": "又高[邱-丘+王]縣比丘尼花手。",
         "from": "T51n2067_007:0032b15_17",
         "context_with_next_sentence": true
     },
@@ -2480,7 +2480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "高[邱丘+王]人。",
+        "source_sentence": "高[邱-丘+王]人。",
         "from": "T51n2067_007:0033a17_2",
         "context_with_next_sentence": true
     },

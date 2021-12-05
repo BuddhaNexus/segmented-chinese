@@ -3335,7 +3335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遺[泳永+匽]淳風。",
+        "source_sentence": "遺[泳-永+匽]淳風。",
         "from": "X64n1261_005:0379a09_10",
         "context_with_next_sentence": true
     },
@@ -7915,12 +7915,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[啜口+鳥][鳥*刀]上都括切。",
+        "source_sentence": "[啜-口+鳥][鳥*刀]上都括切。",
         "from": "X64n1261_005:0383a01_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[啜口+鳥]。",
+        "source_sentence": "[啜-口+鳥]。",
         "from": "X64n1261_005:0383a01_1",
         "context_with_next_sentence": true
     },
@@ -9220,7 +9220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不是性[怤寸+喿]漢。",
+        "source_sentence": "不是性[怤-寸+喿]漢。",
         "from": "X64n1261_005:0384a05_4",
         "context_with_next_sentence": true
     },
@@ -9935,7 +9935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "網與[网(ㄨ*ㄨ)+(人*人)]同。",
+        "source_sentence": "網與[网-(ㄨ*ㄨ)+(人*人)]同。",
         "from": "X64n1261_005:0384c03_0",
         "context_with_next_sentence": true
     },
@@ -13920,7 +13920,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "說無[得彳]辨。",
+        "source_sentence": "說無[得-彳]辨。",
         "from": "X64n1261_005:0388a07_2",
         "context_with_next_sentence": true
     },

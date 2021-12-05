@@ -18610,12 +18610,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "第十七[跳兆+專]相有二。",
+        "source_sentence": "第十七[跳-兆+專]相有二。",
         "from": "T35n1733_015:0400a05_38",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "初右[跳兆+專]相。",
+        "source_sentence": "初右[跳-兆+專]相。",
         "from": "T35n1733_015:0400a06_39",
         "context_with_next_sentence": true
     },
@@ -18625,7 +18625,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以[跳兆+專]似佛故以為喻。",
+        "source_sentence": "以[跳-兆+專]似佛故以為喻。",
         "from": "T35n1733_015:0400a06_41",
         "context_with_next_sentence": true
     },
@@ -18635,7 +18635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如伊尼延鹿王[跳兆+專]相。",
+        "source_sentence": "如伊尼延鹿王[跳-兆+專]相。",
         "from": "T35n1733_015:0400a07_43",
         "context_with_next_sentence": true
     },
@@ -18675,7 +18675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二左[跳兆+專]相用中。",
+        "source_sentence": "二左[跳-兆+專]相用中。",
         "from": "T35n1733_015:0400a10_5",
         "context_with_next_sentence": true
     },
@@ -19142,6 +19142,11 @@
     {
         "source_sentence": "花嚴經探玄記卷第十五",
         "from": "T35n1733_015:0400b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　乙巳歲分司大藏都監開板",
+        "from": "T35n1733_015:0400b26_0",
         "context_with_next_sentence": false
     }
 ]

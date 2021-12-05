@@ -1395,7 +1395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "在露柱裏[跳兆+孛]跳。",
+        "source_sentence": "在露柱裏[跳-兆+孛]跳。",
         "from": "X71n1420_008:0582c08_7",
         "context_with_next_sentence": true
     },
@@ -3945,7 +3945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任[跳兆+孛]跳。",
+        "source_sentence": "一任[跳-兆+孛]跳。",
         "from": "X71n1420_008:0584b08_1",
         "context_with_next_sentence": true
     },
@@ -10265,7 +10265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鸕鶿語鶴。",
+        "source_sentence": "鸕鷀語鶴。",
         "from": "X71n1420_008:0588a21_16",
         "context_with_next_sentence": true
     },
@@ -12717,6 +12717,16 @@
     {
         "source_sentence": "佛日普照慧辯楚石禪師語錄卷第八",
         "from": "X71n1420_008:0589c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音切",
+        "from": "X71n1420_008:0589c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "□(徐嗟切)　噇(直雙切)　鵮(知咸切)　巉(士衫切)　賺(佇陷切)　餵(於偽切)　尀(□□□)　摑(古獲切)　[翟*支](丑角切)",
+        "from": "X71n1420_008:0589c13_0",
         "context_with_next_sentence": false
     }
 ]

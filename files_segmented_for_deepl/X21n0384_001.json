@@ -2940,7 +2940,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[怡台+龍]悷(上音龍。",
+        "source_sentence": "[怡-台+龍]悷(上音龍。",
         "from": "X21n0384_001:0656a09_12",
         "context_with_next_sentence": true
     },
@@ -2950,7 +2950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[怡台+龍]悷。",
+        "source_sentence": "[怡-台+龍]悷。",
         "from": "X21n0384_001:0656a09_14",
         "context_with_next_sentence": true
     },
@@ -10210,7 +10210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "天然[淴心+口]合。",
+        "source_sentence": "天然[淴-心+口]合。",
         "from": "X21n0384_001:0662a03_45",
         "context_with_next_sentence": true
     },
@@ -10755,7 +10755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "海神．江神．河神．樹神．山神．地神．川澤神．苗稼神．晝神．夜神．空神．天神．飲食神．草木神。",
+        "source_sentence": "海神．江神．河神．樹神．山神．地神．川澤神．苗稼神．&#;神．夜神．空神．天神．飲食神．草木神。",
         "from": "X21n0384_001:0662b13_1",
         "context_with_next_sentence": true
     },
@@ -11825,12 +11825,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "○晝神．夜神。",
+        "source_sentence": "○&#;神．夜神。",
         "from": "X21n0384_001:0663a21_11",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "晝者。",
+        "source_sentence": "&#;者。",
         "from": "X21n0384_001:0663a21_12",
         "context_with_next_sentence": true
     },
@@ -11860,7 +11860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "晝與夜相界。",
+        "source_sentence": "&#;與夜相界。",
         "from": "X21n0384_001:0663a23_1",
         "context_with_next_sentence": true
     },
@@ -11870,7 +11870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "惟晝。",
+        "source_sentence": "惟&#;。",
         "from": "X21n0384_001:0663a23_3",
         "context_with_next_sentence": true
     },
@@ -11890,7 +11890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而晝之界限自明。",
+        "source_sentence": "而&#;之界限自明。",
         "from": "X21n0384_001:0663a24_3",
         "context_with_next_sentence": true
     },
@@ -11905,7 +11905,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[企止+(火*月)]。",
+        "source_sentence": "[企-止+(火*月)]。",
         "from": "X21n0384_001:0663b01_2",
         "context_with_next_sentence": true
     },
@@ -11980,7 +11980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "晝乃大亨。",
+        "source_sentence": "&#;乃大亨。",
         "from": "X21n0384_001:0663b04_17",
         "context_with_next_sentence": true
     },
@@ -17700,7 +17700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "悉共稱[改己+易]不能盡。",
+        "source_sentence": "悉共稱敡不能盡。",
         "from": "X21n0384_001:0668b02_0",
         "context_with_next_sentence": true
     },
@@ -20285,7 +20285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "出則[銜金+缶]恤。",
+        "source_sentence": "出則[銜-金+缶]恤。",
         "from": "X21n0384_001:0670b13_11",
         "context_with_next_sentence": true
     },
@@ -20880,7 +20880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "朗照如晝。",
+        "source_sentence": "朗照如&#;。",
         "from": "X21n0384_001:0671a01_18",
         "context_with_next_sentence": true
     },
@@ -26500,7 +26500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(白日+田)/廾]之骨節俱動。",
+        "source_sentence": "[(白-日+田)/廾]之骨節俱動。",
         "from": "X21n0384_001:0675c12_3",
         "context_with_next_sentence": true
     },
@@ -29210,7 +29210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "坐晝度樹下成道。",
+        "source_sentence": "坐&#;度樹下成道。",
         "from": "X21n0384_001:0678a12_8",
         "context_with_next_sentence": true
     },

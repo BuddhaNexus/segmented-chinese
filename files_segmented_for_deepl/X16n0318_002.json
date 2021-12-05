@@ -12480,7 +12480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "巖提起掃帚云。",
+        "source_sentence": "巖提起掃箒云。",
         "from": "X16n0318_002:0777a20_2",
         "context_with_next_sentence": true
     },
@@ -12510,7 +12510,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "被他倒轉掃帚攔面[打丁+慼]。",
+        "source_sentence": "被他倒轉掃箒攔面[打-丁+慼]。",
         "from": "X16n0318_002:0777a22_0",
         "context_with_next_sentence": true
     },
@@ -12585,7 +12585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "與雲巖提起掃帚何以異。",
+        "source_sentence": "與雲巖提起掃箒何以異。",
         "from": "X16n0318_002:0777b03_11",
         "context_with_next_sentence": true
     },
@@ -25580,8 +25580,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不",
+        "source_sentence": "不離乎海。",
         "from": "X16n0318_002:0787b22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "漚即海也。",
+        "from": "X16n0318_002:0787b23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而識獨非妙真如性乎。",
+        "from": "X16n0318_002:0787b23_9",
         "context_with_next_sentence": false
     }
 ]

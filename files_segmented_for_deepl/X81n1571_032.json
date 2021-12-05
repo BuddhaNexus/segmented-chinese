@@ -1035,7 +1035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "小溪多搕[打丁+(天/韭)]　問如何是古佛一路。",
+        "source_sentence": "小溪多搕[打-丁+(天/韭)]　問如何是古佛一路。",
         "from": "X81n1571_032:0700c01_3",
         "context_with_next_sentence": true
     },
@@ -2785,7 +2785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更[跳兆+孛]跳。",
+        "source_sentence": "更[跳-兆+孛]跳。",
         "from": "X81n1571_032:0702a08_10",
         "context_with_next_sentence": true
     },
@@ -8470,7 +8470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "可謂霶[雨/(湤方)]。",
+        "source_sentence": "可謂霶[雨/(湤-方)]。",
         "from": "X81n1571_032:0706c09_9",
         "context_with_next_sentence": true
     },

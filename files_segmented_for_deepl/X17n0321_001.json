@@ -925,8 +925,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若不",
+        "source_sentence": "若不知者。",
         "from": "X17n0321_001:0092b05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈曰大乘。",
+        "from": "X17n0321_001:0092b06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又諸物既積微所。",
+        "from": "X17n0321_001:0092b06_13",
         "context_with_next_sentence": false
     }
 ]

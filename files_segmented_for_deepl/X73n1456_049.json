@@ -3010,7 +3010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一似同遊海印[莢(人*人)+八]。",
+        "source_sentence": "一似同遊海印[莢-(人*人)+八]。",
         "from": "X73n1456_049:0805a07_3",
         "context_with_next_sentence": true
     },
@@ -4860,8 +4860,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此日炎荒萬里",
+        "source_sentence": "此日炎荒萬里外。",
         "from": "X73n1456_049:0807c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "回思恰似幾生前。",
+        "from": "X73n1456_049:0807c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "憨山老人夢遊集卷四十九",
+        "from": "X73n1456_049:0807c07_4",
         "context_with_next_sentence": false
     }
 ]

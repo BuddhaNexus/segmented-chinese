@@ -1200,7 +1200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其聲[病丙+斯]破驢騾之音。",
+        "source_sentence": "其聲[病-丙+斯]破驢騾之音。",
         "from": "T20n1177A_010:0774a23_1",
         "context_with_next_sentence": true
     },
@@ -2487,6 +2487,11 @@
     {
         "source_sentence": "證成阿耨多羅三藐三菩提故。",
         "from": "T20n1177A_010:0775c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經卷第十",
+        "from": "T20n1177A_010:0775c25_0",
         "context_with_next_sentence": false
     }
 ]

@@ -3255,7 +3255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "方成懡[怡台+羅]。",
+        "source_sentence": "方成懡[怡-台+羅]。",
         "from": "X78n1553_019:0516a01_34",
         "context_with_next_sentence": true
     },
@@ -4590,7 +4590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "春晴[賏/(冗几+鳥)]谷正芬芳。",
+        "source_sentence": "春晴[賏/(冗-几+鳥)]谷正芬芳。",
         "from": "X78n1553_019:0517a08_8",
         "context_with_next_sentence": true
     },
@@ -5790,7 +5790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "老僧一[跳兆+孛]跳三千里。",
+        "source_sentence": "老僧一[跳-兆+孛]跳三千里。",
         "from": "X78n1553_019:0518a08_15",
         "context_with_next_sentence": true
     },
@@ -5942,6 +5942,21 @@
     {
         "source_sentence": "天聖廣燈錄卷第十九",
         "from": "X78n1553_019:0518a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(都句當藏主沙門　介先)。",
+        "from": "X78n1553_019:0518a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(都勸首住持傳法廣惠大師　達杲)。",
+        "from": "X78n1553_019:0518a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(前都勸首住持傳法惠空大師　仲真)。",
+        "from": "X78n1553_019:0518a24_0",
         "context_with_next_sentence": false
     }
 ]

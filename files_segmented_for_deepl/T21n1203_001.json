@@ -1175,7 +1175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "菉豆白膠[蒰舟+禾]子及羅惹上服以代其位。",
+        "source_sentence": "菉豆白膠[蒰-舟+禾]子及羅惹上服以代其位。",
         "from": "T21n1203_001:0029b08_13",
         "context_with_next_sentence": true
     },
@@ -2242,6 +2242,26 @@
     {
         "source_sentence": "不動明王安鎮家國法",
         "from": "T21n1203_001:0031a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八家祕錄云。",
+        "from": "T21n1203_001:0031a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不動明王安鎮家國等法一卷金剛智三藏付王無海錄外。",
+        "from": "T21n1203_001:0031a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "享和元辛酉天後秋月索此本於洛東智積教院更校餘本點國字鏤版。",
+        "from": "T21n1203_001:0031a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　和州豐山長谷歡喜院沙門快道誌　文政三年庚辰秋八月二十七日以秀陽闍梨本墨校了　龍肝　文政四年辛巳秋九月二十三日以板橋日曜寺宣雄比丘本朱再校了",
+        "from": "T21n1203_001:0031a13_0",
         "context_with_next_sentence": false
     }
 ]

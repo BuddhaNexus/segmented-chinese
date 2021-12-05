@@ -450,7 +450,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "忽然纜繩斷。",
+        "source_sentence": "忽然䌫繩斷。",
         "from": "X85n1592_007:0343c19_61",
         "context_with_next_sentence": true
     },
@@ -5325,7 +5325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "復作此[中口+○]相云。",
+        "source_sentence": "復作此[中-口+○]相云。",
         "from": "X85n1592_007:0347c05_8",
         "context_with_next_sentence": true
     },
@@ -6555,7 +6555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "擬伸手拔。",
+        "source_sentence": "擬伸手㧞。",
         "from": "X85n1592_007:0348b22_27",
         "context_with_next_sentence": true
     },
@@ -6715,7 +6715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "生身墮拔舌犁耕地獄。",
+        "source_sentence": "生身墮㧞舌犁耕地獄。",
         "from": "X85n1592_007:0348c07_1",
         "context_with_next_sentence": true
     },
@@ -10795,8 +10795,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "卓一",
+        "source_sentence": "卓一卓曰。",
         "from": "X85n1592_007:0351c20_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吽吽。",
+        "from": "X85n1592_007:0351c21_16",
         "context_with_next_sentence": false
     }
 ]

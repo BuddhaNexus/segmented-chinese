@@ -175,7 +175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛經下云云者拒抗之[億音+(天*天)]即前十失。",
+        "source_sentence": "佛經下云云者拒抗之[億-音+(天*天)]即前十失。",
         "from": "X37n0662_014:0539c13_0",
         "context_with_next_sentence": true
     },
@@ -200,7 +200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不然下斥古人也[网(ㄨ*ㄨ)+又]像亦可云仿像未實貌也。",
+        "source_sentence": "不然下斥古人也[网-(ㄨ*ㄨ)+又]像亦可云仿像未實貌也。",
         "from": "X37n0662_014:0539c21_0",
         "context_with_next_sentence": true
     },

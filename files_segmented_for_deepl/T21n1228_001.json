@@ -370,7 +370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵[口*佛]咶啒[口*聿]摩訶鉢囉(二合)[口*恨]那[得彳+口](三音)吻汁吻(四音)微咭微摩那栖(六音)嗚深慕(七音)啒[口*聿][合*牛][合*牛]泮泮泮娑訶時彼金剛說此呪已。",
+        "source_sentence": "唵[口*佛]咶啒[口*聿]摩訶鉢囉(二合)[口*恨]那[得-彳+口](三音)吻汁吻(四音)微咭微摩那栖(六音)嗚深慕(七音)啒[口*聿][合*牛][合*牛]泮泮泮娑訶時彼金剛說此呪已。",
         "from": "T21n1228_001:0158b18_0",
         "context_with_next_sentence": true
     },
@@ -917,6 +917,11 @@
     {
         "source_sentence": "能除萬里病患。",
         "from": "T21n1228_001:0159a25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "穢跡金剛說神通大滿陀羅尼法術靈要門一卷",
+        "from": "T21n1228_001:0159a26_0",
         "context_with_next_sentence": false
     }
 ]

@@ -2640,7 +2640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即傏[仁二+突]。",
+        "source_sentence": "即傏[仁-二+突]。",
         "from": "X74n1496_003:0772c17_8",
         "context_with_next_sentence": true
     },
@@ -8470,7 +8470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "發於[銜金+缶]恨。",
+        "source_sentence": "發於[銜-金+缶]恨。",
         "from": "X74n1496_003:0777c14_14",
         "context_with_next_sentence": true
     },
@@ -15175,7 +15175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "音拔。",
+        "source_sentence": "音㧞。",
         "from": "X74n1496_003:0784a18_1",
         "context_with_next_sentence": true
     },
@@ -15290,8 +15290,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "音",
+        "source_sentence": "音歲。",
         "from": "X74n1496_003:0784a22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "神禍也)。",
+        "from": "X74n1496_003:0784a23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圜(于權切。",
+        "from": "X74n1496_003:0784a23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音圓)。",
+        "from": "X74n1496_003:0784a23_16",
         "context_with_next_sentence": false
     }
 ]

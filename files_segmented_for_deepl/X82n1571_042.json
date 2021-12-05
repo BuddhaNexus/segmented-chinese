@@ -2360,7 +2360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]而退。",
+        "source_sentence": "懡[怡-台+羅]而退。",
         "from": "X82n1571_042:0085b01_1",
         "context_with_next_sentence": true
     },
@@ -2635,7 +2635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一場懡[怡台+羅]　問不與萬法為侶者。",
+        "source_sentence": "一場懡[怡-台+羅]　問不與萬法為侶者。",
         "from": "X82n1571_042:0085b14_14",
         "context_with_next_sentence": true
     },
@@ -9240,7 +9240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於明窗下安排　上堂。",
+        "source_sentence": "於明窻下安排　上堂。",
         "from": "X82n1571_042:0090b03_13",
         "context_with_next_sentence": true
     },

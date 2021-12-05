@@ -18110,7 +18110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此箇來[跳兆+奈]觸處周。",
+        "source_sentence": "此箇來[跳-兆+奈]觸處周。",
         "from": "X81n1571_013:0527c02_50",
         "context_with_next_sentence": true
     },
@@ -18880,12 +18880,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "盡落裷[袖由+貴]。",
+        "source_sentence": "盡落裷[袖-由+貴]。",
         "from": "X81n1571_013:0528a14_59",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不落裷[袖由+貴]請和尚商量。",
+        "source_sentence": "不落裷[袖-由+貴]請和尚商量。",
         "from": "X81n1571_013:0528a14_60",
         "context_with_next_sentence": true
     },

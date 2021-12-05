@@ -1265,7 +1265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如扇[打丁+虎]半擇迦無形二形等。",
+        "source_sentence": "如扇[打-丁+虎]半擇迦無形二形等。",
         "from": "T27n1545_146:0748a23_3",
         "context_with_next_sentence": true
     },
@@ -4902,6 +4902,11 @@
     {
         "source_sentence": "謂不礙生及唯無障。",
         "from": "T27n1545_146:0751b08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說一切有部發智大毘婆沙論卷第一百四十六",
+        "from": "T27n1545_146:0751b09_0",
         "context_with_next_sentence": false
     }
 ]

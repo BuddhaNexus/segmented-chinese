@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 黃龍四家語錄序",
+        "source_sentence": "黃龍四家語錄序",
         "from": "X69n1340_001:0198a03_0",
         "context_with_next_sentence": true
     },
@@ -325,8 +325,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "試以此文",
+        "source_sentence": "試以此文評之。",
         "from": "X69n1340_001:0198a22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紹興十一年。",
+        "from": "X69n1340_001:0198a23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三月五日。",
+        "from": "X69n1340_001:0198a23_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "秀人錢密序。",
+        "from": "X69n1340_001:0198a23_13",
         "context_with_next_sentence": false
     }
 ]

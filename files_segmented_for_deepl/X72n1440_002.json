@@ -470,7 +470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何不依他[打丁+羕]子修。",
+        "source_sentence": "何不依他[打-丁+羕]子修。",
         "from": "X72n1440_002:0653a14_20",
         "context_with_next_sentence": true
     },
@@ -1340,7 +1340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "諸仁者多是千里數百里跋涉溪山遠來求戒。",
+        "source_sentence": "諸仁者多是千里數百里䟦涉溪山遠來求戒。",
         "from": "X72n1440_002:0654a06_2",
         "context_with_next_sentence": true
     },
@@ -2295,7 +2295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今日特為大眾舉出洞山與密師伯參見隱山一段因緣作箇榜[打丁+羕]。",
+        "source_sentence": "今日特為大眾舉出洞山與密師伯參見隱山一段因緣作箇榜[打-丁+羕]。",
         "from": "X72n1440_002:0654c23_13",
         "context_with_next_sentence": true
     },
@@ -2650,12 +2650,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "隱山是得道後住山第一箇[打丁+羕]子。",
+        "source_sentence": "隱山是得道後住山第一箇[打-丁+羕]子。",
         "from": "X72n1440_002:0655a23_5",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "洞山與密師伯是行脚見人第一箇[打丁+羕]子。",
+        "source_sentence": "洞山與密師伯是行脚見人第一箇[打-丁+羕]子。",
         "from": "X72n1440_002:0655a23_6",
         "context_with_next_sentence": true
     },
@@ -4430,7 +4430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二尊宿乃從上參禪嗣法榜[打丁+羕]。",
+        "source_sentence": "二尊宿乃從上參禪嗣法榜[打-丁+羕]。",
         "from": "X72n1440_002:0657a01_7",
         "context_with_next_sentence": true
     },
@@ -4885,7 +4885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "搬弄到臘月三十日一場懡[怡台+羅]。",
+        "source_sentence": "搬弄到臘月三十日一場懡[怡-台+羅]。",
         "from": "X72n1440_002:0657b06_8",
         "context_with_next_sentence": true
     },
@@ -6740,7 +6740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "泥牛[跳兆+孛]跳過海。",
+        "source_sentence": "泥牛[跳-兆+孛]跳過海。",
         "from": "X72n1440_002:0659a13_0",
         "context_with_next_sentence": true
     },
@@ -6940,7 +6940,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "流落天涯跉[跳兆+屏]辛苦。",
+        "source_sentence": "流落天涯跉[跳-兆+屏]辛苦。",
         "from": "X72n1440_002:0659a24_18",
         "context_with_next_sentence": true
     },
@@ -7187,6 +7187,16 @@
     {
         "source_sentence": "如何是無垢佛。",
         "from": "X72n1440_002:0659b17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五問。",
+        "from": "X72n1440_002:0659b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如何是離垢佛。",
+        "from": "X72n1440_002:0659b18_1",
         "context_with_next_sentence": false
     }
 ]

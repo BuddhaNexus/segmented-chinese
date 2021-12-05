@@ -435,7 +435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "及以刺骨朽木礫石砂[宓/(乏之+土)]等物。",
+        "source_sentence": "及以刺骨朽木礫石砂[宓/(乏-之+土)]等物。",
         "from": "T19n0966_001:0343a02_12",
         "context_with_next_sentence": true
     },
@@ -670,7 +670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一字陀羅尼字 悖嚕吽(三合長聲呼)字後先畫熾盛光佛頂。",
+        "source_sentence": "一字陀羅尼字悖嚕吽(三合長聲呼)字後先畫熾盛光佛頂。",
         "from": "T19n0966_001:0343a25_9",
         "context_with_next_sentence": true
     },
@@ -1125,7 +1125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即於一一葉上梵書一 阿字。",
+        "source_sentence": "即於一一葉上梵書一阿字。",
         "from": "T19n0966_001:0344a04_4",
         "context_with_next_sentence": true
     },
@@ -1260,7 +1260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "彗孛惡星[(土/儿/夕)*力]犯宿者。",
+        "source_sentence": "彗孛惡星&#;犯宿者。",
         "from": "T19n0966_001:0344a18_31",
         "context_with_next_sentence": true
     },
@@ -1785,7 +1785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "各梵書一 阿字令周遍。",
+        "source_sentence": "各梵書一阿字令周遍。",
         "from": "T19n0966_001:0347a20_7",
         "context_with_next_sentence": true
     },

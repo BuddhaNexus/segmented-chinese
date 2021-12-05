@@ -840,12 +840,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "權生聾瞽瘂[病丙+(君/巾)]痲。",
+        "source_sentence": "權生聾瞽瘂[病-丙+(君/巾)]痲。",
         "from": "X73n1446_002:0033b23_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "要顯吾宗驗作家。",
+        "source_sentence": "要顯吾宗騐作家。",
         "from": "X73n1446_002:0033b23_1",
         "context_with_next_sentence": true
     },
@@ -1085,7 +1085,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "曲設多方驗作家。",
+        "source_sentence": "曲設多方騐作家。",
         "from": "X73n1446_002:0033c16_0",
         "context_with_next_sentence": true
     },
@@ -5415,12 +5415,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "盡落裷[袖由+貴]。",
+        "source_sentence": "盡落裷[袖-由+貴]。",
         "from": "X73n1446_002:0037c10_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不落裷[袖由+貴]。",
+        "source_sentence": "不落裷[袖-由+貴]。",
         "from": "X73n1446_002:0037c10_3",
         "context_with_next_sentence": true
     },
@@ -6470,7 +6470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "(真如哲)。",
+        "source_sentence": "(真如喆)。",
         "from": "X73n1446_002:0038b21_4",
         "context_with_next_sentence": true
     },
@@ -7575,7 +7575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　溈山哲云。",
+        "source_sentence": "　溈山喆云。",
         "from": "X73n1446_002:0039b23_4",
         "context_with_next_sentence": true
     },
@@ -8125,7 +8125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也須驗過始得。",
+        "source_sentence": "也須騐過始得。",
         "from": "X73n1446_002:0040a07_9",
         "context_with_next_sentence": true
     },
@@ -9145,8 +9145,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "終是犯靈",
+        "source_sentence": "終是犯靈叟。",
         "from": "X73n1446_002:0040c18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲識個中意。",
+        "from": "X73n1446_002:0040c19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南星真北斗。",
+        "from": "X73n1446_002:0040c19_9",
         "context_with_next_sentence": false
     }
 ]

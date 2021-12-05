@@ -1375,7 +1375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "目無精曰[瞄田+奔]。",
+        "source_sentence": "目無精曰[瞄-田+奔]。",
         "from": "X54n0866_001:0044a18_3",
         "context_with_next_sentence": true
     },
@@ -1385,7 +1385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眇[瞄田+奔]無明。",
+        "source_sentence": "眇[瞄-田+奔]無明。",
         "from": "X54n0866_001:0044a19_0",
         "context_with_next_sentence": true
     },
@@ -1405,7 +1405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眇[瞄田+奔]。",
+        "source_sentence": "眇[瞄-田+奔]。",
         "from": "X54n0866_001:0044a19_4",
         "context_with_next_sentence": true
     },
@@ -1435,7 +1435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "然即眇[瞄田+奔]希夷。",
+        "source_sentence": "然即眇[瞄-田+奔]希夷。",
         "from": "X54n0866_001:0044a21_10",
         "context_with_next_sentence": true
     },
@@ -2490,7 +2490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[這言+非]面命之。",
+        "source_sentence": "[這-言+非]面命之。",
         "from": "X54n0866_001:0045a06_14",
         "context_with_next_sentence": true
     },
@@ -2900,7 +2900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "肥[序予+(土/用)]若氷雪。",
+        "source_sentence": "肥[序-予+(土/用)]若氷雪。",
         "from": "X54n0866_001:0045b04_21",
         "context_with_next_sentence": true
     },
@@ -4235,7 +4235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "俱以[券刀+(恭共)]然而自得。",
+        "source_sentence": "俱以[券-刀+(恭-共)]然而自得。",
         "from": "X54n0866_001:0046b06_14",
         "context_with_next_sentence": true
     },
@@ -6615,7 +6615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如成山於初[竺二+遺]也。",
+        "source_sentence": "如成山於初[竺-二+遺]也。",
         "from": "X54n0866_001:0048b06_1",
         "context_with_next_sentence": true
     },
@@ -7240,7 +7240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+(轍車)]。",
+        "source_sentence": "[跳-兆+(轍-車)]。",
         "from": "X54n0866_001:0048c21_7",
         "context_with_next_sentence": true
     },
@@ -7270,7 +7270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[聲耳+(歹*尹)]。",
+        "source_sentence": "[聲-耳+(歹*尹)]。",
         "from": "X54n0866_001:0048c22_13",
         "context_with_next_sentence": true
     },
@@ -7280,7 +7280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[歹*(((巨匚)@十)/(丁一))]外堅之掩覆。",
+        "source_sentence": "[歹*(((巨-匚)@十)/(丁-一))]外堅之掩覆。",
         "from": "X54n0866_001:0048c22_15",
         "context_with_next_sentence": true
     },
@@ -9470,7 +9470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[槤車+(乞乙+小)]機不差秤之為應。",
+        "source_sentence": "[槤-車+(乞-乙+小)]機不差秤之為應。",
         "from": "X54n0866_001:0050c07_0",
         "context_with_next_sentence": true
     },
@@ -21632,6 +21632,66 @@
     {
         "source_sentence": "肇論疏上",
         "from": "X54n0866_001:0060c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此疏惠達師撰(云云)未詳之。",
+        "from": "X54n0866_001:0060c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "康永三年閏二月廿九日以尊良上人之本重挍點之。",
+        "from": "X54n0866_001:0060c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(件本云)文永三年五月四日於光明山東谷往生院以東南院御本寫了。",
+        "from": "X54n0866_001:0061a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本字極草之間。",
+        "from": "X54n0866_001:0061a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "老眼難見解。",
+        "from": "X54n0866_001:0061a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "定多其謬歟。",
+        "from": "X54n0866_001:0061a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後學正之。",
+        "from": "X54n0866_001:0061a03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　三論宗智舜(春秋六十八)(寫本記云)神龜三年正月七日寫竟。",
+        "from": "X54n0866_001:0061a03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶龜二年(年次辛亥)四月二十七日　　沙彌慈晉貞和四年談肇論了。",
+        "from": "X54n0866_001:0061a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仙光院肇論述義中多引惠達言。",
+        "from": "X54n0866_001:0061a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其文悉合。",
+        "from": "X54n0866_001:0061a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此疏惠達撰無疑者哉。",
+        "from": "X54n0866_001:0061a07_2",
         "context_with_next_sentence": false
     }
 ]

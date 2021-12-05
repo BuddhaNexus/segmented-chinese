@@ -2170,7 +2170,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如物[打丁+費]子。",
+        "source_sentence": "如物[打-丁+費]子。",
         "from": "T27n1545_135:0698c14_24",
         "context_with_next_sentence": true
     },
@@ -4267,6 +4267,11 @@
     {
         "source_sentence": "當知爾時說名為晝。",
         "from": "T27n1545_135:0701a07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說一切有部發智大毘婆沙論卷第一百三十五",
+        "from": "T27n1545_135:0701a09_0",
         "context_with_next_sentence": false
     }
 ]

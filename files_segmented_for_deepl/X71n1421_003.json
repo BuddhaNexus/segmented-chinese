@@ -85,7 +85,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "冰稜上度過九[阿可+尻]。",
+        "source_sentence": "冰稜上度過九[阿-可+尻]。",
         "from": "X71n1421_003:0669c23_14",
         "context_with_next_sentence": true
     },
@@ -3045,7 +3045,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "展皋夔稷[├/(咼┌+┐)]之訐謨。",
+        "source_sentence": "展皋夔稷[├/(咼-┌+┐)]之訐謨。",
         "from": "X71n1421_003:0672a17_5",
         "context_with_next_sentence": true
     },

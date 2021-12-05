@@ -505,7 +505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "將[禾*(看二+一)]親壁上模寫。",
+        "source_sentence": "將[禾*(看-二+一)]親壁上模寫。",
         "from": "X87n1638_001:0588a09_13",
         "context_with_next_sentence": true
     },
@@ -3880,7 +3880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其形狀[魅鬼+瓦]頭。",
+        "source_sentence": "其形狀[魅-鬼+瓦]頭。",
         "from": "X87n1638_001:0590b17_13",
         "context_with_next_sentence": true
     },

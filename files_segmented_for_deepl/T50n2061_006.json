@@ -55,7 +55,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "瀾漪內湛葳蕤外發。",
+        "source_sentence": "瀾漪內湛葳&#;外發。",
         "from": "T50n2061_006:0738b17_2",
         "context_with_next_sentence": true
     },
@@ -1365,7 +1365,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "金[鏍糸+廾]論一卷。",
+        "source_sentence": "金[鏍-糸+廾]論一卷。",
         "from": "T50n2061_006:0739c27_16",
         "context_with_next_sentence": true
     },
@@ -5215,7 +5215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "空又應曰。",
+        "source_sentence": "空又譍曰。",
         "from": "T50n2061_006:0744a25_2",
         "context_with_next_sentence": true
     },

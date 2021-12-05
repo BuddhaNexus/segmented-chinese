@@ -115,7 +115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三昧威神，令此三千大千國土地皆柔軟[跳兆+叵][跳兆+我]踊沒。",
+        "source_sentence": "三昧威神，令此三千大千國土地皆柔軟[跳-兆+叵][跳-兆+我]踊沒。",
         "from": "T08n0221_001:0001c01_13",
         "context_with_next_sentence": true
     },
@@ -555,7 +555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三千大千國土其中大風起，吹須彌大山令如糠[(穀(一/禾)+米)/會]，能以一指障其風力令不起者，當學般若波羅蜜。",
+        "source_sentence": "三千大千國土其中大風起，吹須彌大山令如糠[(穀-(一/禾)+米)/會]，能以一指障其風力令不起者，當學般若波羅蜜。",
         "from": "T08n0221_001:0003b13_5",
         "context_with_next_sentence": true
     },

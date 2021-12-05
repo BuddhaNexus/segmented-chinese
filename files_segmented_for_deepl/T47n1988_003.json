@@ -8195,7 +8195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "出頭即[仁二+荅][瓝勺+至]。",
+        "source_sentence": "出頭即[仁-二+荅][瓝-勺+至]。",
         "from": "T47n1988_003:0572a08_4",
         "context_with_next_sentence": true
     },
@@ -8275,7 +8275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有什麼饅頭[飢几+追]子。",
+        "source_sentence": "有什麼饅頭[飢-几+追]子。",
         "from": "T47n1988_003:0572a12_10",
         "context_with_next_sentence": true
     },
@@ -8650,7 +8650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "脫却[(虺虫+骨)兀+(八/兀)]臭布衫。",
+        "source_sentence": "脫却[(虺-虫+骨)-兀+(八/兀)]臭布衫。",
         "from": "T47n1988_003:0572b02_17",
         "context_with_next_sentence": true
     },
@@ -14532,6 +14532,321 @@
     {
         "source_sentence": "雲門匡真禪師廣錄卷下",
         "from": "T47n1988_003:0576b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌雲門三句語(并餘頌八首)",
+        "from": "T47n1988_003:0576b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "門人住德山圓明大師緣密述",
+        "from": "T47n1988_003:0576b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "函蓋乾坤",
+        "from": "T47n1988_003:0576b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乾坤并萬象。",
+        "from": "T47n1988_003:0576b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "地獄及天堂。",
+        "from": "T47n1988_003:0576b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "物物皆真現。",
+        "from": "T47n1988_003:0576b22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頭頭總不傷。",
+        "from": "T47n1988_003:0576b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "截斷眾流",
+        "from": "T47n1988_003:0576b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "堆山積岳來。",
+        "from": "T47n1988_003:0576b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一盡塵埃。",
+        "from": "T47n1988_003:0576b25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更擬論玄妙。",
+        "from": "T47n1988_003:0576b25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "氷消瓦解摧。",
+        "from": "T47n1988_003:0576b25_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨波逐浪",
+        "from": "T47n1988_003:0576b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辯口利舌問。",
+        "from": "T47n1988_003:0576b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "高低總不虧。",
+        "from": "T47n1988_003:0576b28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "還如應病藥。",
+        "from": "T47n1988_003:0576b28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "診候在臨時。",
+        "from": "T47n1988_003:0576b28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三句外別置一頌",
+        "from": "T47n1988_003:0576c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當人如舉唱。",
+        "from": "T47n1988_003:0576c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三句豈能該。",
+        "from": "T47n1988_003:0576c02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有問如何事。",
+        "from": "T47n1988_003:0576c02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南岳與天台。",
+        "from": "T47n1988_003:0576c02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "褒貶句",
+        "from": "T47n1988_003:0576c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金屑眼中翳。",
+        "from": "T47n1988_003:0576c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衣珠法上塵。",
+        "from": "T47n1988_003:0576c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "己靈猶不重。",
+        "from": "T47n1988_003:0576c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛祖為何人。",
+        "from": "T47n1988_003:0576c05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辨親疎",
+        "from": "T47n1988_003:0576c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黑豆未生前。",
+        "from": "T47n1988_003:0576c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "商量已成顛。",
+        "from": "T47n1988_003:0576c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更尋言語會。",
+        "from": "T47n1988_003:0576c08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "特地隔西天。",
+        "from": "T47n1988_003:0576c08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辨邪正",
+        "from": "T47n1988_003:0576c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "罔象談真旨。",
+        "from": "T47n1988_003:0576c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "都緣未辨明。",
+        "from": "T47n1988_003:0576c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "守他山鬼窟。",
+        "from": "T47n1988_003:0576c11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不免是精靈。",
+        "from": "T47n1988_003:0576c11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "通賓主",
+        "from": "T47n1988_003:0576c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自遠趨風問。",
+        "from": "T47n1988_003:0576c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分明向道休。",
+        "from": "T47n1988_003:0576c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "再三如不曉。",
+        "from": "T47n1988_003:0576c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "消得箇非遙。",
+        "from": "T47n1988_003:0576c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "擡薦商量",
+        "from": "T47n1988_003:0576c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相見不揚眉。",
+        "from": "T47n1988_003:0576c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "君東我亦西。",
+        "from": "T47n1988_003:0576c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紅霞穿碧海。",
+        "from": "T47n1988_003:0576c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "白日繞須彌。",
+        "from": "T47n1988_003:0576c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "提綱商量",
+        "from": "T47n1988_003:0576c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若欲正提綱。",
+        "from": "T47n1988_003:0576c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "直須大地荒。",
+        "from": "T47n1988_003:0576c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲來衝雪刃。",
+        "from": "T47n1988_003:0576c20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不免露鋒鋩。",
+        "from": "T47n1988_003:0576c20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "據實商量",
+        "from": "T47n1988_003:0576c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "睡來合眼飯來餮。",
+        "from": "T47n1988_003:0576c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "起坐終諸勿兩般。",
+        "from": "T47n1988_003:0576c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同道盡知言不惑。",
+        "from": "T47n1988_003:0576c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十方剎土目前觀。",
+        "from": "T47n1988_003:0576c24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "委曲商量",
+        "from": "T47n1988_003:0576c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得用由來處處通。",
+        "from": "T47n1988_003:0576c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "臨機施設認家風。",
+        "from": "T47n1988_003:0576c26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "揚眉瞬目同一眼。",
+        "from": "T47n1988_003:0576c26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "竪拂敲床為耳聾。",
+        "from": "T47n1988_003:0576c27_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住福州鼓山圓覺宗演校勘板在福州鼓山王溢刊。",
+        "from": "T47n1988_003:0576c28_0",
         "context_with_next_sentence": false
     }
 ]

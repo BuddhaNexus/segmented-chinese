@@ -1860,7 +1860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "河水急流逆以鉢[戀心+廾]遂令鉢破，佛言：「不應爾，不得逆流酌水，應當學。」",
+        "source_sentence": "河水急流逆以鉢[戀-心+廾]遂令鉢破，佛言：「不應爾，不得逆流酌水，應當學。」",
         "from": "T23n1443_020:1019a24_0",
         "context_with_next_sentence": true
     },
@@ -2175,8 +2175,28 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "根本說一切有部苾芻尼毘奈耶卷第二十",
+        "source_sentence": "根本說一切有部苾芻尼毘奈耶卷第二十此卷十九張，第二十行：污手捉淨水之下，丹本有「瓶應當學。」",
         "from": "T23n1443_020:1020b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(乃至)佛言：「不等。」",
+        "from": "T23n1443_020:1020b06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡五十九行文，國本、宋本並無者食撿，若無彼文則文義斷絕。",
+        "from": "T23n1443_020:1020b06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又違前略攝頌云：「俗舍善容儀、護鉢除病人。」",
+        "from": "T23n1443_020:1020b08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "之言，遂令眾學闕二十餘法，故今依丹足之。",
+        "from": "T23n1443_020:1020b09_4",
         "context_with_next_sentence": false
     }
 ]

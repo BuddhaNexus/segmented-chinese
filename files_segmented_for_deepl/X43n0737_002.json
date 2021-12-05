@@ -2750,7 +2750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五月[卄/(麩夫+生)]賓。",
+        "source_sentence": "五月[卄/(麩-夫+生)]賓。",
         "from": "X43n0737_002:0024c11_32",
         "context_with_next_sentence": true
     },
@@ -3240,7 +3240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "尅為[邱丘+替](昨何反)。",
+        "source_sentence": "尅為[邱-丘+替](昨何反)。",
         "from": "X43n0737_002:0025a12_3",
         "context_with_next_sentence": true
     },
@@ -6505,7 +6505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "右[(冰水+王)/鳥]翊即同氵在長安城東中京兆(即雍洲。",
+        "source_sentence": "右[(冰-水+王)/鳥]翊即同氵在長安城東中京兆(即雍洲。",
         "from": "X43n0737_002:0027c12_9",
         "context_with_next_sentence": true
     },
@@ -9470,7 +9470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其先祖彭城下[邱丘+匠]人也(皮音)。",
+        "source_sentence": "其先祖彭城下[邱-丘+匠]人也(皮音)。",
         "from": "X43n0737_002:0030a06_4",
         "context_with_next_sentence": true
     },
@@ -9760,7 +9760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於是弃竹馬臥龍釰。",
+        "source_sentence": "於是弃竹馬臥竜釰。",
         "from": "X43n0737_002:0030a22_1",
         "context_with_next_sentence": true
     },
@@ -10592,6 +10592,11 @@
     {
         "source_sentence": "四分律鈔簡正記卷第二",
         "from": "X43n0737_002:0030c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吳越真身寺傳律沙門　靖安照遠丁巳歲重終天福三年歲次戊戌四月二十八日於湖洲資聖寺聽過比丘[邁-禺+(口/口)]故記",
+        "from": "X43n0737_002:0030c21_0",
         "context_with_next_sentence": false
     }
 ]

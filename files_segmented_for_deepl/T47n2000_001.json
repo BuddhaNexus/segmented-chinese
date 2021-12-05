@@ -1440,7 +1440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "驢[仁二+幼]到底。",
+        "source_sentence": "驢[仁-二+幼]到底。",
         "from": "T47n2000_001:0985a21_4",
         "context_with_next_sentence": true
     },
@@ -5125,7 +5125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[米/?/天][米/?/天][吉/?/天][吉/?/天]底。",
+        "source_sentence": "[米/?/天][米/?/天]&#;&#;底。",
         "from": "T47n2000_001:0988a01_5",
         "context_with_next_sentence": true
     },
@@ -10245,7 +10245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "息畊[(宋木)/火/ㄆ]尋常。",
+        "source_sentence": "息畊[(宋-木)/火/ㄆ]尋常。",
         "from": "T47n2000_001:0991c04_14",
         "context_with_next_sentence": true
     },

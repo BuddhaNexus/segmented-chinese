@@ -3895,7 +3895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不[怡台+龍]悷故。",
+        "source_sentence": "不[怡-台+龍]悷故。",
         "from": "X46n0790_001:0782c10_10",
         "context_with_next_sentence": true
     },
@@ -10755,7 +10755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "苦既拔已。",
+        "source_sentence": "苦既㧞已。",
         "from": "X46n0790_001:0788a15_2",
         "context_with_next_sentence": true
     },
@@ -17900,8 +17900,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "方便",
+        "source_sentence": "方便有二種。",
         "from": "X46n0790_001:0793c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一無慧方便縛。",
+        "from": "X46n0790_001:0793c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二有慧方便解。",
+        "from": "X46n0790_001:0793c14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無慧。",
+        "from": "X46n0790_001:0793c14_6",
         "context_with_next_sentence": false
     }
 ]

@@ -1730,7 +1730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "綽有照裕。",
+        "source_sentence": "綽有照&#;。",
         "from": "X65n1277_010:0040a20_4",
         "context_with_next_sentence": true
     },
@@ -2490,7 +2490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蕃滋而不疾不[病丙+蠡]。",
+        "source_sentence": "蕃滋而不疾不[病-丙+蠡]。",
         "from": "X65n1277_010:0041a19_2",
         "context_with_next_sentence": true
     },
@@ -2970,7 +2970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "高峰",
+        "source_sentence": "高峰龍泉院因師編集賢語錄卷之十",
         "from": "X65n1277_010:0041c12_0",
         "context_with_next_sentence": false
     }

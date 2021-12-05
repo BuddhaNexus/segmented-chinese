@@ -7250,7 +7250,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "貴賤尊[(白日+田)/廾]明位次。",
+        "source_sentence": "貴賤尊[(白-日+田)/廾]明位次。",
         "from": "X65n1281_004:0221a17_9",
         "context_with_next_sentence": true
     },
@@ -8040,7 +8040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(白日+田)/廾]之存瓦存石。",
+        "source_sentence": "[(白-日+田)/廾]之存瓦存石。",
         "from": "X65n1281_004:0221c18_10",
         "context_with_next_sentence": true
     },
@@ -8135,7 +8135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "卒難頓拔。",
+        "source_sentence": "卒難頓㧞。",
         "from": "X65n1281_004:0221c23_7",
         "context_with_next_sentence": true
     },

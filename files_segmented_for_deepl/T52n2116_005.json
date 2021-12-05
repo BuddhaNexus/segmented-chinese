@@ -635,7 +635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又所載符呪妄謂[佩一]之。",
+        "source_sentence": "又所載符呪妄謂[佩-一]之。",
         "from": "T52n2116_005:0776c16_2",
         "context_with_next_sentence": true
     },
@@ -3870,7 +3870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[竺二+共]踵漫衍[塽(爻*爻)+((人/人)*(人/人))]塏寬平。",
+        "source_sentence": "[竺-二+共]踵漫衍[塽-(爻*爻)+((人/人)*(人/人))]塏寬平。",
         "from": "T52n2116_005:0780a08_71",
         "context_with_next_sentence": true
     },

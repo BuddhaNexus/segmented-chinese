@@ -650,7 +650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+聿]身上走到上隔中。",
+        "source_sentence": "[打-丁+聿]身上走到上隔中。",
         "from": "T53n2121_050:0263b10_2",
         "context_with_next_sentence": true
     },
@@ -3065,12 +3065,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "上安諸[撼咸+巳]。",
+        "source_sentence": "上安諸&#;。",
         "from": "T53n2121_050:0266a14_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[撼咸+巳]間皆有萬億鐵弩。",
+        "source_sentence": "&#;間皆有萬億鐵弩。",
         "from": "T53n2121_050:0266a14_1",
         "context_with_next_sentence": true
     },
@@ -3130,7 +3130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "萬億鐵[撼咸+巳]關從下動鐵[撼咸+巳]昂無量。",
+        "source_sentence": "萬億鐵&#;關從下動鐵&#;昂無量。",
         "from": "T53n2121_050:0266a19_8",
         "context_with_next_sentence": true
     },
@@ -3190,7 +3190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一一鐵針施五關[撼咸+巳]。",
+        "source_sentence": "一一鐵針施五關&#;。",
         "from": "T53n2121_050:0266a26_3",
         "context_with_next_sentence": true
     },
@@ -3240,7 +3240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+聿]身下過眾[撼咸+巳]皆動。",
+        "source_sentence": "[打-丁+聿]身下過眾&#;皆動。",
         "from": "T53n2121_050:0266b01_2",
         "context_with_next_sentence": true
     },
@@ -4580,12 +4580,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三十一曰[打丁+(恙心+皿)]。",
+        "source_sentence": "三十一曰[打-丁+(恙-心+皿)]。",
         "from": "T53n2121_050:0267c08_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "山以[打丁+(恙心+皿)]殺蟣虱。",
+        "source_sentence": "山以[打-丁+(恙-心+皿)]殺蟣虱。",
         "from": "T53n2121_050:0267c08_1",
         "context_with_next_sentence": true
     },
@@ -4880,7 +4880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四十五曰[打丁+蒙]弄。",
+        "source_sentence": "四十五曰[打-丁+蒙]弄。",
         "from": "T53n2121_050:0268a02_6",
         "context_with_next_sentence": true
     },
@@ -4895,7 +4895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四十六曰[打丁+蒙]弄。",
+        "source_sentence": "四十六曰[打-丁+蒙]弄。",
         "from": "T53n2121_050:0268a04_0",
         "context_with_next_sentence": true
     },
@@ -4905,7 +4905,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "見眾生入[打丁+蒙]弄中。",
+        "source_sentence": "見眾生入[打-丁+蒙]弄中。",
         "from": "T53n2121_050:0268a04_2",
         "context_with_next_sentence": true
     },
@@ -4970,7 +4970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五十曰[仁二+屬]儒。",
+        "source_sentence": "五十曰[仁-二+屬]儒。",
         "from": "T53n2121_050:0268a10_12",
         "context_with_next_sentence": true
     },

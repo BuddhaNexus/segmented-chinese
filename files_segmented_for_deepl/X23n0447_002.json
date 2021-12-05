@@ -575,7 +575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "汝輩修禪菩薩羅漢心精通[泳永+曶]當處湛然。",
+        "source_sentence": "汝輩修禪菩薩羅漢心精通[泳-永+曶]當處湛然。",
         "from": "X23n0447_002:0790a23_3",
         "context_with_next_sentence": true
     },
@@ -1875,12 +1875,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若有他人[示*厭]魅蠱毒悉皆消滅無復遺餘。",
+        "source_sentence": "若有他人&#;魅蠱毒悉皆消滅無復遺餘。",
         "from": "X23n0447_002:0791c09_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[示*厭]禱呪詛也。",
+        "source_sentence": "&#;禱呪詛也。",
         "from": "X23n0447_002:0791c10_0",
         "context_with_next_sentence": true
     },
@@ -1895,7 +1895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[示*厭]禱者。",
+        "source_sentence": "&#;禱者。",
         "from": "X23n0447_002:0791c10_3",
         "context_with_next_sentence": true
     },
@@ -4340,8 +4340,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "觀自在菩薩如意心陀羅尼呪經略疏卷下(終)",
+        "source_sentence": "觀自在菩薩如意心陀羅尼呪經略疏卷下(終)音釋砰(普庚切音烹)。",
         "from": "X23n0447_002:0794b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "磕(邱蓋切音慨)。",
+        "from": "X23n0447_002:0794b23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慴(與懾同)。",
+        "from": "X23n0447_002:0794b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蝘(煙上聲蝘蜓守宮也)。",
+        "from": "X23n0447_002:0794b23_3",
         "context_with_next_sentence": false
     }
 ]

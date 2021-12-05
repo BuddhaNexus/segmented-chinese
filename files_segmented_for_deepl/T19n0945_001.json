@@ -1445,7 +1445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如來於是從輪掌中飛一寶光在阿難右，即時阿難迴首右[辦力+目]，又放一光在阿難左，阿難又則迴首左[辦力+目]。",
+        "source_sentence": "如來於是從輪掌中飛一寶光在阿難右，即時阿難迴首右[辦-力+目]，又放一光在阿難左，阿難又則迴首左[辦-力+目]。",
         "from": "T19n0945_001:0109c22_9",
         "context_with_next_sentence": true
     },
@@ -1465,7 +1465,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "汝[辦力+目]佛光左右動頭，為汝頭動？",
+        "source_sentence": "汝[辦-力+目]佛光左右動頭，為汝頭動？",
         "from": "T19n0945_001:0109c27_13",
         "context_with_next_sentence": true
     },

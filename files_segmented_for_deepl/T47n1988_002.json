@@ -6785,7 +6785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "饅頭[飢几+追]子。",
+        "source_sentence": "饅頭[飢-几+追]子。",
         "from": "T47n1988_002:0559b23_7",
         "context_with_next_sentence": true
     },
@@ -8810,7 +8810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "巖竪起掃帚云。",
+        "source_sentence": "巖竪起掃箒云。",
         "from": "T47n1988_002:0561a11_3",
         "context_with_next_sentence": true
     },
@@ -9680,7 +9680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一箭兩垛。",
+        "source_sentence": "一箭兩垜。",
         "from": "T47n1988_002:0561c10_3",
         "context_with_next_sentence": true
     },
@@ -10710,7 +10710,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一箭兩垛。",
+        "source_sentence": "一箭兩垜。",
         "from": "T47n1988_002:0562b16_8",
         "context_with_next_sentence": true
     },
@@ -11285,7 +11285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "指白[茲/瓦]器云。",
+        "source_sentence": "指白甆器云。",
         "from": "T47n1988_002:0562c22_8",
         "context_with_next_sentence": true
     },
@@ -12915,7 +12915,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一箭兩垛作麼生。",
+        "source_sentence": "一箭兩垜作麼生。",
         "from": "T47n1988_002:0564a07_29",
         "context_with_next_sentence": true
     },
@@ -16105,7 +16105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五箇餬餅三箇[飢几+追]。",
+        "source_sentence": "五箇餬餅三箇[飢-几+追]。",
         "from": "T47n1988_002:0566a18_15",
         "context_with_next_sentence": true
     },
@@ -17240,7 +17240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "還將得饆鑼[飢几+追]子來麼。",
+        "source_sentence": "還將得饆鑼[飢-几+追]子來麼。",
         "from": "T47n1988_002:0566c22_0",
         "context_with_next_sentence": true
     },
@@ -17982,6 +17982,11 @@
     {
         "source_sentence": "雲門匡真禪師廣錄卷中",
         "from": "T47n1988_002:0567b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住福州鼓山圓覺宗演校勘",
+        "from": "T47n1988_002:0567b07_0",
         "context_with_next_sentence": false
     }
 ]

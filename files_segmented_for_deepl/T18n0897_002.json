@@ -4490,7 +4490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "婆羅門餢[飢几+俞]食盼荼迦食。",
+        "source_sentence": "婆羅門餢[飢-几+俞]食盼荼迦食。",
         "from": "T18n0897_002:0768b03_23",
         "context_with_next_sentence": true
     },
@@ -5367,6 +5367,16 @@
     {
         "source_sentence": "蕤呬耶經卷中",
         "from": "T18n0897_002:0769a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靈雲校本末云　時貞亨三丙寅年六月十一日校了是明日授于諸禪侶故也。",
+        "from": "T18n0897_002:0769a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "河南教興苾芻淨嚴(四十八載)",
+        "from": "T18n0897_002:0769a17_0",
         "context_with_next_sentence": false
     }
 ]

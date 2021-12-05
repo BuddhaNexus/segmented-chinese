@@ -125,7 +125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "敢裨販我。",
+        "source_sentence": "敢禆販我。",
         "from": "X79n1559_002:0294a02_24",
         "context_with_next_sentence": true
     },
@@ -10250,7 +10250,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "彼之二老一場懡[怡台+羅]。",
+        "source_sentence": "彼之二老一場懡[怡-台+羅]。",
         "from": "X79n1559_002:0300b22_1",
         "context_with_next_sentence": true
     },
@@ -11942,6 +11942,16 @@
     {
         "source_sentence": "嘉泰普燈錄卷第二",
         "from": "X79n1559_002:0301c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_002:0301c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　詬許候切　諲音因　壍七艶切　謳音甌　桫素何切　欏音羅　駢蒲眠切　闐音田　麓音鹿　謠音姚　馱音陀　餧於偽切　趯他力切　潞音路　閫苦本切　巇音羲　鐙丁鄧切　蹊音兮　[絕/刀]子悅切　嚗音剝　鞏音拱　鏃子木切　鵰音刁　儵音條　墼音擊　楔音屑　緘古咸切　殞羽敏切　鑾盧丸切　刎武粉切　罽居例切　媧古花切　鵽丁滑切　[刁*鳥]音刀　摭之石切　喎苦禾切　劈普擊切　馥音伏　犒口到切　簸補過切　羈居宜切　拏女加切　擭一虢切或作㸕　齩五狡切　罩陟教切　鶖音秋　罥音畎　歐於口切　羚音靈　郢以并切",
+        "from": "X79n1559_002:0301c06_0",
         "context_with_next_sentence": false
     }
 ]

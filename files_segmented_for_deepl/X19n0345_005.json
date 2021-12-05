@@ -1490,7 +1490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[宋木+取]後雙林。",
+        "source_sentence": "[宋-木+取]後雙林。",
         "from": "X19n0345_005:0393c13_22",
         "context_with_next_sentence": true
     },
@@ -3915,7 +3915,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "疑今家用切[葸十+夕]剝[葸十+夕]喻。",
+        "source_sentence": "疑今家用切[葸-十+夕]剝[葸-十+夕]喻。",
         "from": "X19n0345_005:0395c16_18",
         "context_with_next_sentence": true
     },
@@ -4765,7 +4765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "所以初住能破[宋木+取]初無明也。",
+        "source_sentence": "所以初住能破[宋-木+取]初無明也。",
         "from": "X19n0345_005:0396b20_14",
         "context_with_next_sentence": true
     },
@@ -5665,7 +5665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無常為[宋木+取]。",
+        "source_sentence": "無常為[宋-木+取]。",
         "from": "X19n0345_005:0397b03_20",
         "context_with_next_sentence": true
     },
@@ -7605,7 +7605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[宋木+取]下乞人者。",
+        "source_sentence": "[宋-木+取]下乞人者。",
         "from": "X19n0345_005:0398c20_25",
         "context_with_next_sentence": true
     },
@@ -8372,6 +8372,26 @@
     {
         "source_sentence": "等覺已下皆為遷。",
         "from": "X19n0345_005:0399b19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "記云。",
+        "from": "X19n0345_005:0399b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古來不知此文難會者。",
+        "from": "X19n0345_005:0399b20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不知界外。",
+        "from": "X19n0345_005:0399b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由有變　　。",
+        "from": "X19n0345_005:0399b20_3",
         "context_with_next_sentence": false
     }
 ]

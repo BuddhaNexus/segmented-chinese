@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 御製建中靖國續燈錄序　　　〔宋刻〕昔釋迦如來之出世也。",
+        "source_sentence": "御製建中靖國續燈錄序　　　〔宋刻〕昔釋迦如來之出世也。",
         "from": "X78n1556_001:0640c06_0",
         "context_with_next_sentence": true
     },
@@ -8160,7 +8160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有何[(魅未+夭)ㄙ]魅可現乎。",
+        "source_sentence": "有何[(魅-未+夭)-ㄙ]魅可現乎。",
         "from": "X78n1556_001:0647a10_9",
         "context_with_next_sentence": true
     },
@@ -8182,6 +8182,31 @@
     {
         "source_sentence": "建中靖國續燈錄卷第一",
         "from": "X78n1556_001:0647a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "福州等覺禪院住持傳法沙門普明收印經板頭錢。",
+        "from": "X78n1556_001:0647a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "恭為今上皇帝祝延　聖壽。",
+        "from": "X78n1556_001:0647a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "闔郡官僚同資　祿位。",
+        "from": "X78n1556_001:0647a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彫造續燈錄印板一部。",
+        "from": "X78n1556_001:0647a17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "計三函　時崇寧二年十月　日謹題。",
+        "from": "X78n1556_001:0647a18_4",
         "context_with_next_sentence": false
     }
 ]

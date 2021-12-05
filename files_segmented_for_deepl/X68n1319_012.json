@@ -1355,7 +1355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "便只在長安城內打箇[跳兆+孛]跳。",
+        "source_sentence": "便只在長安城內打箇[跳-兆+孛]跳。",
         "from": "X68n1319_012:0554a13_10",
         "context_with_next_sentence": true
     },
@@ -1775,7 +1775,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "集雲[妳女+口]。",
+        "source_sentence": "集雲[妳-女+口]。",
         "from": "X68n1319_012:0554b16_7",
         "context_with_next_sentence": true
     },
@@ -3945,7 +3945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不如齋一無心道人[吃乙+小]。",
+        "source_sentence": "不如齋一無心道人&#;。",
         "from": "X68n1319_012:0556a12_22",
         "context_with_next_sentence": true
     },
@@ -12940,7 +12940,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "向古廟裏躲過[吃乙+小]。",
+        "source_sentence": "向古廟裏躲過&#;。",
         "from": "X68n1319_012:0563a07_12",
         "context_with_next_sentence": true
     },
@@ -15470,7 +15470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又道家舍不離途中[吃乙+小]。",
+        "source_sentence": "又道家舍不離途中&#;。",
         "from": "X68n1319_012:0564c20_1",
         "context_with_next_sentence": true
     },
@@ -15650,7 +15650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有一人盡力出不得[吃乙+小]。",
+        "source_sentence": "有一人盡力出不得&#;。",
         "from": "X68n1319_012:0565a04_0",
         "context_with_next_sentence": true
     },
@@ -24275,7 +24275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "夫一切教相皆屬筌[(ㄇ@(企止))/弟]。",
+        "source_sentence": "夫一切教相皆屬筌罤。",
         "from": "X68n1319_012:0573a02_3",
         "context_with_next_sentence": true
     },
@@ -28600,7 +28600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "且道二人是同是別(不可作尊[(白日+田)/廾]山上山下會)。",
+        "source_sentence": "且道二人是同是別(不可作尊[(白-日+田)/廾]山上山下會)。",
         "from": "X68n1319_012:0577a08_3",
         "context_with_next_sentence": true
     },
@@ -28737,6 +28737,11 @@
     {
         "source_sentence": "各各身中有一物最高。",
         "from": "X68n1319_012:0577a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且道是何物(不可作頂會)。",
+        "from": "X68n1319_012:0577a20_0",
         "context_with_next_sentence": false
     }
 ]

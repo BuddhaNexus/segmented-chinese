@@ -2880,7 +2880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[女*(巢果+(离禸))]亂定心。",
+        "source_sentence": "[女*(巢-果+(离-禸))]亂定心。",
         "from": "X74n1496_002:0754c05_22",
         "context_with_next_sentence": true
     },
@@ -3120,7 +3120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以覺觀[女*(巢果+(离禸))]亂故捨。",
+        "source_sentence": "以覺觀[女*(巢-果+(离-禸))]亂故捨。",
         "from": "X74n1496_002:0754c19_5",
         "context_with_next_sentence": true
     },
@@ -5000,7 +5000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以手[打丁+(改己)]摩。",
+        "source_sentence": "以手[打-丁+(改-己)]摩。",
         "from": "X74n1496_002:0756b22_17",
         "context_with_next_sentence": true
     },
@@ -7630,7 +7630,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "沙細如麵。",
+        "source_sentence": "沙細如麫。",
         "from": "X74n1496_002:0759a18_9",
         "context_with_next_sentence": true
     },
@@ -8630,7 +8630,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不拔不濟無救護業。",
+        "source_sentence": "不㧞不濟無救護業。",
         "from": "X74n1496_002:0760a15_4",
         "context_with_next_sentence": true
     },
@@ -8725,7 +8725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如來拔苦。",
+        "source_sentence": "如來㧞苦。",
         "from": "X74n1496_002:0760a20_16",
         "context_with_next_sentence": true
     },
@@ -8825,7 +8825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乃至拔濟救護等事。",
+        "source_sentence": "乃至㧞濟救護等事。",
         "from": "X74n1496_002:0760b01_36",
         "context_with_next_sentence": true
     },
@@ -10150,7 +10150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "永拔習氣。",
+        "source_sentence": "永㧞習氣。",
         "from": "X74n1496_002:0761c03_11",
         "context_with_next_sentence": true
     },
@@ -11010,7 +11010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[女*(巢果+(离禸))]害一切。",
+        "source_sentence": "[女*(巢-果+(离-禸))]害一切。",
         "from": "X74n1496_002:0762b19_5",
         "context_with_next_sentence": true
     },
@@ -12285,7 +12285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔苦與樂○殺害之罪。",
+        "source_sentence": "㧞苦與樂○殺害之罪。",
         "from": "X74n1496_002:0763c01_1",
         "context_with_next_sentence": true
     },
@@ -18285,7 +18285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "車聲[漓禸][漓禸]。",
+        "source_sentence": "車聲[漓-禸][漓-禸]。",
         "from": "X74n1496_002:0769a04_2",
         "context_with_next_sentence": true
     },
@@ -19340,7 +19340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "音[(白日+田)/廾])。",
+        "source_sentence": "音[(白-日+田)/廾])。",
         "from": "X74n1496_002:0769c21_14",
         "context_with_next_sentence": true
     },
@@ -20125,7 +20125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "麵(莫見切音面)。",
+        "source_sentence": "麫(莫見切音面)。",
         "from": "X74n1496_002:0770a23_0",
         "context_with_next_sentence": true
     },
@@ -20470,7 +20470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[漓禸](許容切音胷)。",
+        "source_sentence": "[漓-禸](許容切音胷)。",
         "from": "X74n1496_002:0770b13_2",
         "context_with_next_sentence": true
     },
@@ -20480,8 +20480,38 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "通",
+        "source_sentence": "通古今之言。",
         "from": "X74n1496_002:0770b13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而明其故也)。",
+        "from": "X74n1496_002:0770b14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "銓(丑緣切。",
+        "from": "X74n1496_002:0770b14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音詮。",
+        "from": "X74n1496_002:0770b14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衡也。",
+        "from": "X74n1496_002:0770b14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "量也。",
+        "from": "X74n1496_002:0770b14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "度也)。",
+        "from": "X74n1496_002:0770b14_10",
         "context_with_next_sentence": false
     }
 ]

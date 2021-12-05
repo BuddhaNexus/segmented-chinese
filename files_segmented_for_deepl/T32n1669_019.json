@@ -220,8 +220,333 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　比如有妙華　　[(糸*昌)/立]水深池中　名曰青蓮華　　有人剎那中　見此蓮華相　　一百七日中　其眼根清白　　終日無晦濁　此玄文本論　　亦復如如是　若有眾生類　　雖不知此論　文義之大海　　而目見此論　其眼根清淨　　見三世諸佛　有作方便目　　比如有天鼓　懸圓生樹頂　　名曰妙聲覺　無量天女子　　聞此鼓音已　二千七日中　　其耳根清速　無塞隔之事　　此玄文本論　亦復如如是　　若有眾生類　雖不知文義　　而耳聞此論　其耳根清淨　　聞諸佛梵響　有作方便耳　　比如有妙藥　生雪山之頂　　名曰上味常　有人取此藥　　著其舌之原　身香極芬芬　　不承用飲食　其命極長遠　　亦飛騰虛空　此玄文本論　　亦復如如是　若有眾生類　　此論中一字　一句若一行　　若一決擇分　若一卷之量　　以舌經讀誦　雖不知義理　　而獲得一切　諸修多羅海　　經讀誦功德　比如有菩薩　　名曰不思議　大力解脫者　　此菩薩大士　神通自在故　　於一切所作　皆無所障礙　　隨應悉現前　此玄文本論　　亦復如如是　若有諸眾生　　觀達其義理　覺悟文下詮　　通達一切法　皆無所障礙　　一一覺分明　比如有神王　　名曰大安樂　有人須小具　　祀祠此神王　出興七寶藏　　令得大安樂　此玄文本論　　亦復如如是　若有一男女　　此玄文本論　勤受取讀誦　　有人須小具　專心供此人　　即得無窮盡　福德智慧寶　　無所疑畏心　比如有妙香　　名曰芬滿布　有人持此香　　遊行於遠方　其經過處處　　七七日中間　有香氣不盡　　此玄文本論　亦復如如是　　若有一男女　荷擔此論部　　遊行於遠方　若度大海水　　所有諸眾生　皆得大利益　　若度山野等　所有諸眾生　　亦得大利益　譬如有妙珠　　名曰如意寶　隨此珠住處　　無量眷屬玉　遍周匝圍繞　　此玄文本論　亦復如如是　　隨其住止處　有十方世界　　塵量大神王　一一大神王　　各率十方界　塵數眷屬神　　守護此論珠　若滅正法時　　作微塵散壞　所有諸神王　　發大聲哭涕　隨塵所住處　　往詣常守護　受持此論者　　如是數量神　若生若死後　　常不離守護　功德雖無量　　而略說如是校量過患呵責誹謗現示罪業大決擇分第三十八如是已說校量功德讚歎信行現示利益大決擇分。",
+        "source_sentence": "　比如有妙華　　&#;水深池中",
         "from": "T32n1669_019:0690c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　名曰青蓮華　　有人剎那中",
+        "from": "T32n1669_019:0690c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　見此蓮華相　　一百七日中",
+        "from": "T32n1669_019:0690c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　其眼根清白　　終日無晦濁",
+        "from": "T32n1669_019:0690c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　此玄文本論　　亦復如如是",
+        "from": "T32n1669_019:0690c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　若有眾生類　　雖不知此論",
+        "from": "T32n1669_019:0690c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　文義之大海　　而目見此論",
+        "from": "T32n1669_019:0690c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　其眼根清淨　　見三世諸佛",
+        "from": "T32n1669_019:0690c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　有作方便目　　比如有天鼓",
+        "from": "T32n1669_019:0690c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　懸圓生樹頂　　名曰妙聲覺",
+        "from": "T32n1669_019:0690c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　無量天女子　　聞此鼓音已",
+        "from": "T32n1669_019:0690c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　二千七日中　　其耳根清速",
+        "from": "T32n1669_019:0691a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　無塞隔之事　　此玄文本論",
+        "from": "T32n1669_019:0691a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　亦復如如是　　若有眾生類",
+        "from": "T32n1669_019:0691a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　雖不知文義　　而耳聞此論",
+        "from": "T32n1669_019:0691a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　其耳根清淨　　聞諸佛梵響",
+        "from": "T32n1669_019:0691a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　有作方便耳　　比如有妙藥",
+        "from": "T32n1669_019:0691a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　生雪山之頂　　名曰上味常",
+        "from": "T32n1669_019:0691a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　有人取此藥　　著其舌之原",
+        "from": "T32n1669_019:0691a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　身香極芬芬　　不承用飲食",
+        "from": "T32n1669_019:0691a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　其命極長遠　　亦飛騰虛空",
+        "from": "T32n1669_019:0691a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　此玄文本論　　亦復如如是",
+        "from": "T32n1669_019:0691a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　若有眾生類　　此論中一字",
+        "from": "T32n1669_019:0691a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　一句若一行　　若一決擇分",
+        "from": "T32n1669_019:0691a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　若一卷之量　　以舌經讀誦",
+        "from": "T32n1669_019:0691a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　雖不知義理　　而獲得一切",
+        "from": "T32n1669_019:0691a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　諸修多羅海　　經讀誦功德",
+        "from": "T32n1669_019:0691a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　比如有菩薩　　名曰不思議",
+        "from": "T32n1669_019:0691a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　大力解脫者　　此菩薩大士",
+        "from": "T32n1669_019:0691a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　神通自在故　　於一切所作",
+        "from": "T32n1669_019:0691a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　皆無所障礙　　隨應悉現前",
+        "from": "T32n1669_019:0691a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　此玄文本論　　亦復如如是",
+        "from": "T32n1669_019:0691a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　若有諸眾生　　觀達其義理",
+        "from": "T32n1669_019:0691a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　覺悟文下詮　　通達一切法",
+        "from": "T32n1669_019:0691a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　皆無所障礙　　一一覺分明",
+        "from": "T32n1669_019:0691a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　比如有神王　　名曰大安樂",
+        "from": "T32n1669_019:0691a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　有人須小具　　祀祠此神王",
+        "from": "T32n1669_019:0691a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　出興七寶藏　　令得大安樂",
+        "from": "T32n1669_019:0691a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　此玄文本論　　亦復如如是",
+        "from": "T32n1669_019:0691a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　若有一男女　　此玄文本論",
+        "from": "T32n1669_019:0691a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　勤受取讀誦　　有人須小具",
+        "from": "T32n1669_019:0691b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　專心供此人　　即得無窮盡",
+        "from": "T32n1669_019:0691b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　福德智慧寶　　無所疑畏心",
+        "from": "T32n1669_019:0691b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　比如有妙香　　名曰芬滿布",
+        "from": "T32n1669_019:0691b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　有人持此香　　遊行於遠方",
+        "from": "T32n1669_019:0691b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　其經過處處　　七七日中間",
+        "from": "T32n1669_019:0691b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　有香氣不盡　　此玄文本論",
+        "from": "T32n1669_019:0691b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　亦復如如是　　若有一男女",
+        "from": "T32n1669_019:0691b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　荷擔此論部　　遊行於遠方",
+        "from": "T32n1669_019:0691b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　若度大海水　　所有諸眾生",
+        "from": "T32n1669_019:0691b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　皆得大利益　　若度山野等",
+        "from": "T32n1669_019:0691b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　所有諸眾生　　亦得大利益",
+        "from": "T32n1669_019:0691b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　譬如有妙珠　　名曰如意寶",
+        "from": "T32n1669_019:0691b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　隨此珠住處　　無量眷屬玉",
+        "from": "T32n1669_019:0691b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　遍周匝圍繞　　此玄文本論",
+        "from": "T32n1669_019:0691b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　亦復如如是　　隨其住止處",
+        "from": "T32n1669_019:0691b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　有十方世界　　塵量大神王",
+        "from": "T32n1669_019:0691b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　一一大神王　　各率十方界",
+        "from": "T32n1669_019:0691b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　塵數眷屬神　　守護此論珠",
+        "from": "T32n1669_019:0691b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　若滅正法時　　作微塵散壞",
+        "from": "T32n1669_019:0691b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　所有諸神王　　發大聲哭涕",
+        "from": "T32n1669_019:0691b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　隨塵所住處　　往詣常守護",
+        "from": "T32n1669_019:0691b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　受持此論者　　如是數量神",
+        "from": "T32n1669_019:0691b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　若生若死後　　常不離守護",
+        "from": "T32n1669_019:0691b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　功德雖無量　　而略說如是",
+        "from": "T32n1669_019:0691b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "校量過患呵責誹謗現示罪業大決擇分第三十八如是已說校量功德讚歎信行現示利益大決擇分。",
+        "from": "T32n1669_019:0691b26_0",
         "context_with_next_sentence": true
     },
     {

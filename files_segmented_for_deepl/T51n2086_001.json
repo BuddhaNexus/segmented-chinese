@@ -115,7 +115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "至捍[(序予+林)/女]城。",
+        "source_sentence": "至捍&#;城。",
         "from": "T51n2086_001:0866c19_15",
         "context_with_next_sentence": true
     },
@@ -857,6 +857,11 @@
     {
         "source_sentence": "凡在烏場國二年。",
         "from": "T51n2086_001:0867b08_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至正光二年還闕。",
+        "from": "T51n2086_001:0867b09_0",
         "context_with_next_sentence": false
     }
 ]

@@ -2090,7 +2090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "幸遭高判宗途[怡台+畫]然。",
+        "source_sentence": "幸遭高判宗途[怡-台+畫]然。",
         "from": "T45n1859_003:0191b18_13",
         "context_with_next_sentence": true
     },
@@ -2275,7 +2275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "條錄[禾*(垂┴+山)]牒如後。",
+        "source_sentence": "條錄䅜牒如後。",
         "from": "T45n1859_003:0191c01_20",
         "context_with_next_sentence": true
     },
@@ -2320,7 +2320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "涅槃無名論九折(一霸體　二徵出　三搜玄　四難差　五責異　六詰漸　七譏動　八窮原　九考得)十演(一開宗　二位體　三超境　四妙存　五辨差　六會異　七明漸　八動寂　九通古　十玄得)　泥曰泥洹涅槃下。",
+        "source_sentence": "涅槃無名論九折(一覇體　二徵出　三搜玄　四難差　五責異　六詰漸　七譏動　八窮原　九考得)十演(一開宗　二位體　三超境　四妙存　五辨差　六會異　七明漸　八動寂　九通古　十玄得)　泥曰泥洹涅槃下。",
         "from": "T45n1859_003:0191c05_0",
         "context_with_next_sentence": true
     },
@@ -13892,6 +13892,11 @@
     {
         "source_sentence": "肇論疏卷下(終)",
         "from": "T45n1859_003:0200c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "建長三年十月二十五日丑刻於戒壇院僧房一交了　三論末資汙道沙門聖守",
+        "from": "T45n1859_003:0200c25_0",
         "context_with_next_sentence": false
     }
 ]

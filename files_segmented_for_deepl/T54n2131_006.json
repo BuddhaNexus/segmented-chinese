@@ -220,7 +220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若卍[乏之+九]萬萬字。",
+        "source_sentence": "若卍[乏-之+九]萬萬字。",
         "from": "T54n2131_006:1147a12_5",
         "context_with_next_sentence": true
     },
@@ -255,7 +255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如華嚴中[乏之+九]字是也。",
+        "source_sentence": "如華嚴中[乏-之+九]字是也。",
         "from": "T54n2131_006:1147a14_5",
         "context_with_next_sentence": true
     },
@@ -5750,7 +5750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "非生死之所羈。",
+        "source_sentence": "非生死之所覊。",
         "from": "T54n2131_006:1151c11_5",
         "context_with_next_sentence": true
     },
@@ -11100,7 +11100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦如磁毛石吸鐵。",
+        "source_sentence": "亦如礠毛石吸鐵。",
         "from": "T54n2131_006:1155b21_2",
         "context_with_next_sentence": true
     },
@@ -11110,7 +11110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "第八識如磁毛石。",
+        "source_sentence": "第八識如礠毛石。",
         "from": "T54n2131_006:1155b22_4",
         "context_with_next_sentence": true
     },
@@ -20110,7 +20110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故金[鏍糸+廾]云。",
+        "source_sentence": "故金[鏍-糸+廾]云。",
         "from": "T54n2131_006:1163b07_3",
         "context_with_next_sentence": true
     },

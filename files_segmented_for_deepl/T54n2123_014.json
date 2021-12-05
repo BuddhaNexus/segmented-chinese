@@ -290,7 +290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[罩卓+浮]網彌山。",
+        "source_sentence": "[罩-卓+浮]網彌山。",
         "from": "T54n2123_014:0128b16_0",
         "context_with_next_sentence": true
     },
@@ -655,7 +655,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不[打丁+鳥]不磨。",
+        "source_sentence": "不[打-丁+鳥]不磨。",
         "from": "T54n2123_014:0128c11_3",
         "context_with_next_sentence": true
     },
@@ -1895,7 +1895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "傍路安眠循廛求食。",
+        "source_sentence": "傍路安眠循&#;求食。",
         "from": "T54n2123_014:0129c23_9",
         "context_with_next_sentence": true
     },

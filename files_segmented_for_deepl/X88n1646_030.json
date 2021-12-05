@@ -1725,8 +1725,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "魏公盖其同",
+        "source_sentence": "魏公盖其同志。",
         "from": "X88n1646_030:0238b16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "合傳之是也。",
+        "from": "X88n1646_030:0238b17_6",
         "context_with_next_sentence": false
     }
 ]

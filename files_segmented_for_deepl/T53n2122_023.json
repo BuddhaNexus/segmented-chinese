@@ -990,7 +990,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　若共[改己+亭]觸時　　生於大苦惱　身如彼箭鏑　　有鏑箭即中　有身眾苦加　　無身則無苦　蚊虻蠅毒虫　　皆能蠚殺人　應當勤精進　　遠離於此身故知。",
+        "source_sentence": "　若共[改-己+亭]觸時　　生於大苦惱　身如彼箭鏑　　有鏑箭即中　有身眾苦加　　無身則無苦　蚊虻蠅毒虫　　皆能蠚殺人　應當勤精進　　遠離於此身故知。",
         "from": "T53n2122_023:0455a07_0",
         "context_with_next_sentence": true
     },
@@ -4815,7 +4815,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "慧[跳兆+(轍車)]昭然清論英出。",
+        "source_sentence": "慧[跳-兆+(轍-車)]昭然清論英出。",
         "from": "T53n2122_023:0459c07_2",
         "context_with_next_sentence": true
     },
@@ -5947,6 +5947,466 @@
     {
         "source_sentence": "法苑珠林卷第二十三",
         "from": "T53n2122_023:0461a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "違法部如佛藏經云。",
+        "from": "T53n2122_023:0461a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛言。",
+        "from": "T53n2122_023:0461a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍利弗。",
+        "from": "T53n2122_023:0461a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當來比丘好讀外經。",
+        "from": "T53n2122_023:0461a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當說法時莊校文辭令眾歡樂。",
+        "from": "T53n2122_023:0461a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惡魔爾時助惑眾人障礙善法。",
+        "from": "T53n2122_023:0461a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有貪著音聲語言巧飾文辭。",
+        "from": "T53n2122_023:0461a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若復有人好讀外道經者。",
+        "from": "T53n2122_023:0461a25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "魔皆迷惑令心不安隱。",
+        "from": "T53n2122_023:0461a26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是諸人等為魔所惑。",
+        "from": "T53n2122_023:0461a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覆障慧眼深貪利養。",
+        "from": "T53n2122_023:0461a27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "看諸外書猶如群盲為誑所欺。",
+        "from": "T53n2122_023:0461a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆使令墮深坑而死。",
+        "from": "T53n2122_023:0461a28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復次舍利弗。",
+        "from": "T53n2122_023:0461a29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不淨說法者。",
+        "from": "T53n2122_023:0461a29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不知如來隨宜意趣。",
+        "from": "T53n2122_023:0461a29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自不善解而為人說是人現世得五過失。",
+        "from": "T53n2122_023:0461b01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為五。",
+        "from": "T53n2122_023:0461b02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一說法時心懷怖畏恐人難我。",
+        "from": "T53n2122_023:0461b02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二內懷憂怖而外為他說。",
+        "from": "T53n2122_023:0461b03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三是凡夫無有真智。",
+        "from": "T53n2122_023:0461b04_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四所說不淨但有言辭。",
+        "from": "T53n2122_023:0461b04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五言無次第處處抄撮。",
+        "from": "T53n2122_023:0461b05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故在眾心懷恐怖。",
+        "from": "T53n2122_023:0461b05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是凡夫無有智慧心無決定但求名聞。",
+        "from": "T53n2122_023:0461b06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疑悔在心而為人說。",
+        "from": "T53n2122_023:0461b07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故舍利弗。",
+        "from": "T53n2122_023:0461b07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身未證法而在高座。",
+        "from": "T53n2122_023:0461b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身自不知而教人者。",
+        "from": "T53n2122_023:0461b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法墮地獄。",
+        "from": "T53n2122_023:0461b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又增一阿含經云。",
+        "from": "T53n2122_023:0461b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊告諸比丘。",
+        "from": "T53n2122_023:0461b09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知有此四鳥。",
+        "from": "T53n2122_023:0461b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何為四。",
+        "from": "T53n2122_023:0461b10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一或有鳥聲好而形醜。",
+        "from": "T53n2122_023:0461b10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂拘翅羅鳥是也。",
+        "from": "T53n2122_023:0461b11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二或有鳥形好而聲醜。",
+        "from": "T53n2122_023:0461b11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂鷙鳥是也。",
+        "from": "T53n2122_023:0461b12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三或有鳥聲醜形亦醜。",
+        "from": "T53n2122_023:0461b12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂土梟是也。",
+        "from": "T53n2122_023:0461b13_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四或有鳥聲好形亦好。",
+        "from": "T53n2122_023:0461b13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂孔雀鳥是也。",
+        "from": "T53n2122_023:0461b14_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世間亦有四人當共觀知。",
+        "from": "T53n2122_023:0461b14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何為四。",
+        "from": "T53n2122_023:0461b15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一或有比丘顏貌端正威儀成就。",
+        "from": "T53n2122_023:0461b15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然不能有所諷誦諸法初中後善。",
+        "from": "T53n2122_023:0461b16_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是謂此人形好聲不好。",
+        "from": "T53n2122_023:0461b17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二或有人聲好而形醜。",
+        "from": "T53n2122_023:0461b17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出入行來威儀不成。",
+        "from": "T53n2122_023:0461b18_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而好廣說精進持戒初中後善義理深邃。",
+        "from": "T53n2122_023:0461b18_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是謂此人聲好而形醜。",
+        "from": "T53n2122_023:0461b19_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三或有人聲醜形亦醜。",
+        "from": "T53n2122_023:0461b20_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂有人犯戒不精進。",
+        "from": "T53n2122_023:0461b20_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復不多聞。",
+        "from": "T53n2122_023:0461b21_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所聞便失。",
+        "from": "T53n2122_023:0461b21_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是謂此人聲醜形亦醜。",
+        "from": "T53n2122_023:0461b21_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四或有人聲好形亦好。",
+        "from": "T53n2122_023:0461b22_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂比丘顏貌端正威儀具足。",
+        "from": "T53n2122_023:0461b22_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然復精進修行善法多聞不忘。",
+        "from": "T53n2122_023:0461b23_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初中後善善能諷誦。",
+        "from": "T53n2122_023:0461b24_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是謂此人聲好形亦好也。",
+        "from": "T53n2122_023:0461b24_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又增一阿含經云。",
+        "from": "T53n2122_023:0461b25_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊告諸比丘。",
+        "from": "T53n2122_023:0461b25_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有四種雲。",
+        "from": "T53n2122_023:0461b26_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何為四。",
+        "from": "T53n2122_023:0461b26_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一或有雲雷而不雨。",
+        "from": "T53n2122_023:0461b26_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二或有雲雨而不雷。",
+        "from": "T53n2122_023:0461b27_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三或有雲亦雨亦雷。",
+        "from": "T53n2122_023:0461b27_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四或有雲不雨不雷。",
+        "from": "T53n2122_023:0461b28_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是四種雲而像世間四種人。",
+        "from": "T53n2122_023:0461b28_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一云何比丘雷而不雨。",
+        "from": "T53n2122_023:0461b29_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有比丘高聲誦習十二部經諷誦不失其義。",
+        "from": "T53n2122_023:0461c01_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然不廣與人說法。",
+        "from": "T53n2122_023:0461c02_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是謂雷而不雨。",
+        "from": "T53n2122_023:0461c02_44",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二云何雨而不雷。",
+        "from": "T53n2122_023:0461c03_45",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有比丘顏貌端正威儀皆具。",
+        "from": "T53n2122_023:0461c03_46",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然不多聞高聲誦習十二部經。",
+        "from": "T53n2122_023:0461c04_47",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復從他受亦不忘失。",
+        "from": "T53n2122_023:0461c05_48",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "好與善知識相隨。",
+        "from": "T53n2122_023:0461c05_49",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦好與他人說法。",
+        "from": "T53n2122_023:0461c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是謂雨而不雷。",
+        "from": "T53n2122_023:0461c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三云何不雨不雷。",
+        "from": "T53n2122_023:0461c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有人顏色不端威儀不具。",
+        "from": "T53n2122_023:0461c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不修善法亦不多聞。",
+        "from": "T53n2122_023:0461c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復不與他人說法。",
+        "from": "T53n2122_023:0461c08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是謂此人不雨不雷。",
+        "from": "T53n2122_023:0461c08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四云何亦雨亦雷。",
+        "from": "T53n2122_023:0461c09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有人顏色端正威儀皆具。",
+        "from": "T53n2122_023:0461c09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "好喜學問亦好與他法說。",
+        "from": "T53n2122_023:0461c10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勸進他人令便承受。",
+        "from": "T53n2122_023:0461c11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是謂此人亦雨亦雷。",
+        "from": "T53n2122_023:0461c11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "◎",
+        "from": "T53n2122_023:0461c12_12",
         "context_with_next_sentence": false
     }
 ]

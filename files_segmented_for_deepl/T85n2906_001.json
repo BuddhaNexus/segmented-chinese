@@ -80,7 +80,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "都[暻京+恭]訖而後搗之。",
+        "source_sentence": "都[暻-京+恭]訖而後搗之。",
         "from": "T85n2906_001:1449c15_14",
         "context_with_next_sentence": true
     },
@@ -910,7 +910,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一下各[打丁+鳥]碎。",
+        "source_sentence": "一下各[打-丁+鳥]碎。",
         "from": "T85n2906_001:1451b03_4",
         "context_with_next_sentence": true
     },
@@ -1515,7 +1515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今者若有諸善□□□□□□□□□□□□□□□香一兩[打丁+鳥]作末。",
+        "source_sentence": "今者若有諸善□□□□□□□□□□□□□□□香一兩[打-丁+鳥]作末。",
         "from": "T85n2906_001:1452a29_0",
         "context_with_next_sentence": true
     },
@@ -1620,7 +1620,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若修印人□□□□□□□□□□□□□□□□意所坐處",
+        "source_sentence": "若修印人□□□□□□□□□□□□□□□□意所坐處便印令。",
         "from": "T85n2906_001:1452b27_1",
         "context_with_next_sentence": false
     }

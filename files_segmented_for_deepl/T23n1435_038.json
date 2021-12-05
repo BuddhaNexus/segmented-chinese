@@ -2245,7 +2245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "諸比丘無[打丁+鳥]藥物，是事白佛，佛言：「應石上磨。」",
+        "source_sentence": "諸比丘無[打-丁+鳥]藥物，是事白佛，佛言：「應石上磨。」",
         "from": "T23n1435_038:0276c20_6",
         "context_with_next_sentence": true
     },
@@ -3380,7 +3380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時放馬人有緣事，來至舍衛城，為僧作種種餅，盛滿器施僧。",
+        "source_sentence": "時放馬人有緣事，來至舍衛城，為僧作種種䴵，盛滿器施僧。",
         "from": "T23n1435_038:0279a13_1",
         "context_with_next_sentence": true
     },

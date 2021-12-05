@@ -245,7 +245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如是東行迤[這言+里]而去點盡如上所有微塵。",
+        "source_sentence": "如是東行迤[這-言+里]而去點盡如上所有微塵。",
         "from": "X30n0604_006:0574c08_1",
         "context_with_next_sentence": true
     },

@@ -17440,7 +17440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]盼嚬呻。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]盼嚬呻。",
         "from": "X51n0822_005:0033b08_15",
         "context_with_next_sentence": true
     },

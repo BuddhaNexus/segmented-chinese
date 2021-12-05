@@ -4015,7 +4015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是波斯[打丁+匿]王太子。",
+        "source_sentence": "是波斯[打-丁+匿]王太子。",
         "from": "T85n2740_001:0140c05_10",
         "context_with_next_sentence": true
     },
@@ -4260,7 +4260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或入三昧□□□□□□□□□□□□□□食由緣昇坐",
+        "source_sentence": "或入三昧□□□□□□□□□□□□□□食由緣昇坐入。",
         "from": "T85n2740_001:0141a07_59",
         "context_with_next_sentence": false
     }

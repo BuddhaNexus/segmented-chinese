@@ -3010,12 +3010,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "專愚[怡台+龍]悷爾將所貪乎。",
+        "source_sentence": "專愚[怡-台+龍]悷爾將所貪乎。",
         "from": "T53n2121_031:0165b28_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "顏狀醜黑鼻正嗣鵗。",
+        "source_sentence": "顏狀醜黑鼻正&#;鵗。",
         "from": "T53n2121_031:0165b28_1",
         "context_with_next_sentence": true
     },
@@ -3025,7 +3025,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "言語蹇[病丙+亟]兩目又青狀類如鬼。",
+        "source_sentence": "言語蹇[病-丙+亟]兩目又青狀類如鬼。",
         "from": "T53n2121_031:0165b29_3",
         "context_with_next_sentence": true
     },
@@ -3395,7 +3395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "母時採果中心[怡台+重][怡台+重]。",
+        "source_sentence": "母時採果中心[怡-台+重][怡-台+重]。",
         "from": "T53n2121_031:0166a02_77",
         "context_with_next_sentence": true
     },

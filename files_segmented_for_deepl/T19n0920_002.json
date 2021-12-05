@@ -935,7 +935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "志行深[涳工+豕]住大忍力然始得成。",
+        "source_sentence": "志行深[涳-工+豕]住大忍力然始得成。",
         "from": "T19n0920_002:0009c24_3",
         "context_with_next_sentence": true
     },
@@ -4592,6 +4592,71 @@
     {
         "source_sentence": "佛說心中經卷下",
         "from": "T19n0920_002:0015a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "康安二年九月十日。",
+        "from": "T19n0920_002:0015a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以東寺御影堂本加挍直悞了。",
+        "from": "T19n0920_002:0015a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　賢寶(生三十)天明二年壬寅六月十四日。",
+        "from": "T19n0920_002:0015a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以東寺觀智院藏本。",
+        "from": "T19n0920_002:0015a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "挍合朱書訖。",
+        "from": "T19n0920_002:0015a20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　洛北蓮臺寺慈忍享和改元辛酉年六月。",
+        "from": "T19n0920_002:0015a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請得彼本以令他寫之。",
+        "from": "T19n0920_002:0015a21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當山明王院峯觀。",
+        "from": "T19n0920_002:0015a22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "挍於本書間點國訓。",
+        "from": "T19n0920_002:0015a22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予更挍正施訓冠疑。",
+        "from": "T19n0920_002:0015a23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而上木後賢復對善本此經二卷見八家祕錄并御請來錄。",
+        "from": "T19n0920_002:0015a23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　豐山總持院快道誌本云。",
+        "from": "T19n0920_002:0015a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "享和三年癸亥三月二十六日一校間加筆削畢　　　　　　　　　　　　慈順文政三年庚辰四月十四日以右傳校之本一校之了　　　　　　　　　　龍肝",
+        "from": "T19n0920_002:0015a27_0",
         "context_with_next_sentence": false
     }
 ]

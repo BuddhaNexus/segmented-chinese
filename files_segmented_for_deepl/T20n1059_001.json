@@ -1105,7 +1105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若有人等卒得諸腫[病丙+魚]者。",
+        "source_sentence": "若有人等卒得諸腫[病-丙+魚]者。",
         "from": "T20n1059_001:0105a01_0",
         "context_with_next_sentence": true
     },
@@ -1120,7 +1120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+剛]腫上即差。",
+        "source_sentence": "[打-丁+剛]腫上即差。",
         "from": "T20n1059_001:0105a02_3",
         "context_with_next_sentence": true
     },

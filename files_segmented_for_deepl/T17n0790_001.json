@@ -515,7 +515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "「明旦，孛來入宮，王與夫人迎為作禮，與施金床、氍毺、毾[毯炎+登]。",
+        "source_sentence": "「明旦，孛來入宮，王與夫人迎為作禮，與施金床、氍毺、毾[毯-炎+登]。",
         "from": "T17n0790_001:0730a25_14",
         "context_with_next_sentence": true
     },
@@ -1260,7 +1260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "孛曰：『人不與語，有十事：慠慢，魯鈍，憂怖，喜預，羞慚，吃[口*刃]，仇恨，凍餓，事務，禪思；是為十事。",
+        "source_sentence": "孛曰：『人不與語，有十事：慠慢，魯鈍，憂怖，喜預，羞慚，吃&#;，仇恨，凍餓，事務，禪思；是為十事。",
         "from": "T17n0790_001:0732a23_2",
         "context_with_next_sentence": true
     },
@@ -1720,7 +1720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "白鶴自白，鸕鶿自黑。",
+        "source_sentence": "白鶴自白，鸕鷀自黑。",
         "from": "T17n0790_001:0734a09_18",
         "context_with_next_sentence": true
     },

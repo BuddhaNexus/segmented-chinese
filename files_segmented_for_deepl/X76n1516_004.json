@@ -25,7 +25,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "庚申(宋)(高祖永初元)&;(西秦)(熾盤建弘元)&;(夏)(赫連勃勃)(二)&;(北凉)(蒙遜)(九)&;(西凉)(李恂)&;(北燕)(馮跋)(十二)&;(魏)(明元帝)(五)&;六月宋高祖(裕)。",
+        "source_sentence": "庚申(宋)(高祖永初元)&;(西秦)(熾盤建弘元)&;(夏)(赫連勃勃)(二)&;(北凉)(蒙遜)(九)&;(西凉)(李恂)&;(北燕)(馮跋)(十二)&;(魏)(明元帝)(五)&;六月宋高祖(&#;)。",
         "from": "X76n1516_004:0034a01_0",
         "context_with_next_sentence": true
     },
@@ -1760,7 +1760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "戊辰(五)&;(西秦)(暮末永弘元)&;(夏定)(勝光元)&;(承玄元)&;(二十)&;(神[(厂一)*(?/比/?)]傳)&;帝造禪靈寺。",
+        "source_sentence": "戊辰(五)&;(西秦)(暮末永弘元)&;(夏定)(勝光元)&;(承玄元)&;(二十)&;(神[(厂-一)*(?/比/?)]傳)&;帝造禪靈寺。",
         "from": "X76n1516_004:0035b11_0",
         "context_with_next_sentence": true
     },
@@ -4845,7 +4845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "被崔寇所讒。",
+        "source_sentence": "被崔冦所讒。",
         "from": "X76n1516_004:0038a13_7",
         "context_with_next_sentence": true
     },
@@ -5070,7 +5070,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皆信寇謙之。",
+        "source_sentence": "皆信冦謙之。",
         "from": "X76n1516_004:0038b03_2",
         "context_with_next_sentence": true
     },
@@ -10690,7 +10690,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遇有寇則淚汗。",
+        "source_sentence": "遇有冦則淚汗。",
         "from": "X76n1516_004:0043a12_16",
         "context_with_next_sentence": true
     },

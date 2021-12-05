@@ -10945,7 +10945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[邱丘+皆]國之人刺時。",
+        "source_sentence": "[邱-丘+皆]國之人刺時。",
         "from": "X34n0638_024:0688b05_10",
         "context_with_next_sentence": true
     },
@@ -12175,7 +12175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "打兔得[狂王+犁]。",
+        "source_sentence": "打兔得[狂-王+犁]。",
         "from": "X34n0638_024:0689c01_7",
         "context_with_next_sentence": true
     },

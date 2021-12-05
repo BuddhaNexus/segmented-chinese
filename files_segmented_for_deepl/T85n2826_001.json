@@ -5860,7 +5860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "絕羈鎖而故實。",
+        "source_sentence": "絕覊鎖而故實。",
         "from": "T85n2826_001:1240c10_36",
         "context_with_next_sentence": true
     },
@@ -8655,8 +8655,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而可",
+        "source_sentence": "而可得耶。",
         "from": "T85n2826_001:1242b26_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故須。",
+        "from": "T85n2826_001:1242b27_25",
         "context_with_next_sentence": false
     }
 ]

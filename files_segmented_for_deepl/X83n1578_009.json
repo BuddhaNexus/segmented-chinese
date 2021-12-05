@@ -360,7 +360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "已颺在搕[打丁+(天/韭)]堆上了也。",
+        "source_sentence": "已颺在搕[打-丁+(天/韭)]堆上了也。",
         "from": "X83n1578_009:0491c05_9",
         "context_with_next_sentence": true
     },
@@ -14720,7 +14720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則落在龐公圈[袖由+貴]裏。",
+        "source_sentence": "則落在龐公圈[袖-由+貴]裏。",
         "from": "X83n1578_009:0502c15_4",
         "context_with_next_sentence": true
     },
@@ -14730,7 +14730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則落在楊無為圈[袖由+貴]裏。",
+        "source_sentence": "則落在楊無為圈[袖-由+貴]裏。",
         "from": "X83n1578_009:0502c16_6",
         "context_with_next_sentence": true
     },
@@ -14740,7 +14740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則落在海印禪師圈[袖由+貴]裏。",
+        "source_sentence": "則落在海印禪師圈[袖-由+貴]裏。",
         "from": "X83n1578_009:0502c17_8",
         "context_with_next_sentence": true
     },
@@ -14760,17 +14760,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又落在妙喜圈[袖由+貴]裏。",
+        "source_sentence": "又落在妙喜圈[袖-由+貴]裏。",
         "from": "X83n1578_009:0502c18_12",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "要出三老圈[袖由+貴]則易。",
+        "source_sentence": "要出三老圈[袖-由+貴]則易。",
         "from": "X83n1578_009:0502c18_13",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "要出妙喜圈[袖由+貴]則難。",
+        "source_sentence": "要出妙喜圈[袖-由+貴]則難。",
         "from": "X83n1578_009:0502c19_14",
         "context_with_next_sentence": true
     },
@@ -16065,7 +16065,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不勝懡[怡台+羅]。",
+        "source_sentence": "不勝懡[怡-台+羅]。",
         "from": "X83n1578_009:0503c21_26",
         "context_with_next_sentence": true
     },
@@ -16105,7 +16105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "上他圈[袖由+貴]。",
+        "source_sentence": "上他圈[袖-由+貴]。",
         "from": "X83n1578_009:0503c23_34",
         "context_with_next_sentence": true
     },
@@ -23882,6 +23882,16 @@
     {
         "source_sentence": "指月錄卷之九",
         "from": "X83n1578_009:0509c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋　卷七之九",
+        "from": "X83n1578_009:0509c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[斯/言](先齊切音西悲聲)　拲(居竦切音拱罪人兩手共一木曰拲)　瞪(除庚切音棖直視貌)　呱(攻乎切音姑小兒啼聲)　麏(苦允切音稛鹿屬善聚散者)　轝(雲俱切音于兩手對舉之車又轎謂肩轝)　駛(師止切音使馬疾行也)　刖(音月斷足也)　嚏(丁計切音帝鼻塞噴嚏)　彀(居候切音姤弓矢持滿也)　[病-丙+習](直入切音昔小痛也)　菌(音郡地蕈之小者)　玿(時招切音韶美玉)　搕[打-丁+(天/韭)](克合切堪入聲昨答切音雜)　鼯(音吾)　囦(古淵字)　悸(音忌心動貌)　掁(直庚切音橙觸也撞也)　賚(洛代切音徠賜也)　[咸*鳥](胡讒切音咸鳥也)",
+        "from": "X83n1578_009:0509c21_0",
         "context_with_next_sentence": false
     }
 ]

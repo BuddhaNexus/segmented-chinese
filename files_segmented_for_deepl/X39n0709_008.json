@@ -1395,7 +1395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "卑姓者拘湊(此是天竺[(白日+田)/廾]小之姓)。",
+        "source_sentence": "卑姓者拘湊(此是天竺[(白-日+田)/廾]小之姓)。",
         "from": "X39n0709_008:0404a06_0",
         "context_with_next_sentence": true
     },
@@ -1410,7 +1410,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "元居[(白日+田)/廾]末者)。",
+        "source_sentence": "元居[(白-日+田)/廾]末者)。",
         "from": "X39n0709_008:0404a07_3",
         "context_with_next_sentence": true
     },
@@ -2095,7 +2095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+匡]脚鋸齒等。",
+        "source_sentence": "[跳-兆+匡]脚鋸齒等。",
         "from": "X39n0709_008:0404c08_2",
         "context_with_next_sentence": true
     },
@@ -7775,7 +7775,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或以钁[利禾+亞]。",
+        "source_sentence": "或以钁[利-禾+亞]。",
         "from": "X39n0709_008:0410b05_2",
         "context_with_next_sentence": true
     },
@@ -10207,6 +10207,916 @@
     {
         "source_sentence": "毗尼止持會集卷第八",
         "from": "X39n0709_008:0412b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音義",
+        "from": "X39n0709_008:0412b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "象力比丘或名象首。",
+        "from": "X39n0709_008:0412b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又名法手。",
+        "from": "X39n0709_008:0412b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍夷國有象首聚落。",
+        "from": "X39n0709_008:0412b24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼因稱名也。",
+        "from": "X39n0709_008:0412c01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是釋種子。",
+        "from": "X39n0709_008:0412c01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雜阿含經佛記云。",
+        "from": "X39n0709_008:0412c01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此人犯三種非法。",
+        "from": "X39n0709_008:0412c01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂悋貪愚癡瞋恚。",
+        "from": "X39n0709_008:0412c02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當墮於地獄中。",
+        "from": "X39n0709_008:0412c02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偈云。",
+        "from": "X39n0709_008:0412c03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若生不善心。",
+        "from": "X39n0709_008:0412c03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "成就貪瞋癡。",
+        "from": "X39n0709_008:0412c03_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此身自作惡。",
+        "from": "X39n0709_008:0412c03_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "還復害於己。",
+        "from": "X39n0709_008:0412c03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如芭蕉生實。",
+        "from": "X39n0709_008:0412c04_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自害於其身。",
+        "from": "X39n0709_008:0412c04_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若無貪瞋癡。",
+        "from": "X39n0709_008:0412c04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名為智慧。",
+        "from": "X39n0709_008:0412c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不害於己身。",
+        "from": "X39n0709_008:0412c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名勝丈夫。",
+        "from": "X39n0709_008:0412c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是以應除斷貪瞋癡大患。",
+        "from": "X39n0709_008:0412c05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嚏音帝。",
+        "from": "X39n0709_008:0412c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鼻塞噴嚏也。",
+        "from": "X39n0709_008:0412c07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西域凡僧俗禮敬時。",
+        "from": "X39n0709_008:0412c07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若嚏皆願言。",
+        "from": "X39n0709_008:0412c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "長壽無病。",
+        "from": "X39n0709_008:0412c08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如此方小兒。",
+        "from": "X39n0709_008:0412c08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若嚏僉願言百歲。",
+        "from": "X39n0709_008:0412c08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毀呰口毀曰呰。",
+        "from": "X39n0709_008:0412c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "根本律云。",
+        "from": "X39n0709_008:0412c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毀訾語者。",
+        "from": "X39n0709_008:0412c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂於他人為毀辱事。",
+        "from": "X39n0709_008:0412c09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皮韋作柔皮熟曰韋。",
+        "from": "X39n0709_008:0412c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生皮曰革作。",
+        "from": "X39n0709_008:0412c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃卑伎也。",
+        "from": "X39n0709_008:0412c11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "躄跛上音碧。",
+        "from": "X39n0709_008:0412c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兩足俱廢曰躄。",
+        "from": "X39n0709_008:0412c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一足偏廢曰跛。",
+        "from": "X39n0709_008:0412c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[跳-兆+匡]脚[跳-兆+茶]音匡。",
+        "from": "X39n0709_008:0412c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[跳-兆+匡]躟行步急卒貌。",
+        "from": "X39n0709_008:0412c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿蘭若亦名阿練若。",
+        "from": "X39n0709_008:0412c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "翻云遠離處。",
+        "from": "X39n0709_008:0412c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又云閒靜處。",
+        "from": "X39n0709_008:0412c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又云空寂處。",
+        "from": "X39n0709_008:0412c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "魁膾亦云旃陀羅。",
+        "from": "X39n0709_008:0412c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又云旃荼羅。",
+        "from": "X39n0709_008:0412c16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應法師言。",
+        "from": "X39n0709_008:0412c16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此翻云嚴幟。",
+        "from": "X39n0709_008:0412c16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一云主殺人。",
+        "from": "X39n0709_008:0412c17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃西方屠殺之輩。",
+        "from": "X39n0709_008:0412c17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以惡業自嚴行時。",
+        "from": "X39n0709_008:0412c17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "搖鈴執竹。",
+        "from": "X39n0709_008:0412c18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以為標幟。",
+        "from": "X39n0709_008:0412c18_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故以為名。",
+        "from": "X39n0709_008:0412c18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若不爾者。",
+        "from": "X39n0709_008:0412c18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王必罪之。",
+        "from": "X39n0709_008:0412c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或翻可畏。",
+        "from": "X39n0709_008:0412c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法顯傳云。",
+        "from": "X39n0709_008:0412c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名為惡人。",
+        "from": "X39n0709_008:0412c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與人別居。",
+        "from": "X39n0709_008:0412c19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若入城市。",
+        "from": "X39n0709_008:0412c20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則繫竹以自異人。",
+        "from": "X39n0709_008:0412c20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則識而避之。",
+        "from": "X39n0709_008:0412c20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不相搪揬。",
+        "from": "X39n0709_008:0412c20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六大城佛生迦羅衛。",
+        "from": "X39n0709_008:0412c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "成道摩竭提。",
+        "from": "X39n0709_008:0412c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說法波羅奈。",
+        "from": "X39n0709_008:0412c22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入滅俱尸羅。",
+        "from": "X39n0709_008:0412c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "並王舍城毗耶離城。",
+        "from": "X39n0709_008:0412c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此六城乃西域十六大國之首。",
+        "from": "X39n0709_008:0412c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五戒法佛初為提謂等在家弟子。",
+        "from": "X39n0709_008:0413a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受三皈已。",
+        "from": "X39n0709_008:0413a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即授五戒。",
+        "from": "X39n0709_008:0413a01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為優婆塞優婆夷。",
+        "from": "X39n0709_008:0413a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若在家弟子破此五戒。",
+        "from": "X39n0709_008:0413a02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則非清淨士女。",
+        "from": "X39n0709_008:0413a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故經云。",
+        "from": "X39n0709_008:0413a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五戒者天下大禁忌。",
+        "from": "X39n0709_008:0413a03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若犯五戒。",
+        "from": "X39n0709_008:0413a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在天則違五星。",
+        "from": "X39n0709_008:0413a04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在地則違五嶽。",
+        "from": "X39n0709_008:0413a04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在方則違五帝。",
+        "from": "X39n0709_008:0413a04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在身則違五臟。",
+        "from": "X39n0709_008:0413a05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是等世間違犯無量。",
+        "from": "X39n0709_008:0413a05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若約出世犯五戒者。",
+        "from": "X39n0709_008:0413a05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則破五分法身一切佛法。",
+        "from": "X39n0709_008:0413a06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故。",
+        "from": "X39n0709_008:0413a06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五戒是一切大小乘尸羅根本。",
+        "from": "X39n0709_008:0413a06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若犯五戒。",
+        "from": "X39n0709_008:0413a07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則不得更受大小乘戒者。",
+        "from": "X39n0709_008:0413a07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能堅持。",
+        "from": "X39n0709_008:0413a08_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即是五大施。",
+        "from": "X39n0709_008:0413a08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此五通名戒者。",
+        "from": "X39n0709_008:0413a08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以防止為義。",
+        "from": "X39n0709_008:0413a09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能防惡律儀無作之非。",
+        "from": "X39n0709_008:0413a09_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能止三業所起之惡。",
+        "from": "X39n0709_008:0413a09_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故通名防止。",
+        "from": "X39n0709_008:0413a10_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八關戒法諸經論中。",
+        "from": "X39n0709_008:0413a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或名八關齋戒。",
+        "from": "X39n0709_008:0413a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或名八關戒。",
+        "from": "X39n0709_008:0413a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或名八戒齋。",
+        "from": "X39n0709_008:0413a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又名八種長養功德法。",
+        "from": "X39n0709_008:0413a12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是名雖不一。",
+        "from": "X39n0709_008:0413a12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而戒則同也。",
+        "from": "X39n0709_008:0413a13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂以前八法。",
+        "from": "X39n0709_008:0413a13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名為關戒。",
+        "from": "X39n0709_008:0413a13_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "關謂閉八惡。",
+        "from": "X39n0709_008:0413a13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不起諸過。",
+        "from": "X39n0709_008:0413a14_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後一不非時食。",
+        "from": "X39n0709_008:0413a14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名之為齋。",
+        "from": "X39n0709_008:0413a14_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "齋以齊中為義。",
+        "from": "X39n0709_008:0413a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即是禁止八惡。",
+        "from": "X39n0709_008:0413a15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而令修中道故也。",
+        "from": "X39n0709_008:0413a15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十善法能反殺盜邪婬妄語兩舌惡口綺語貪欲瞋恚邪見十不善法。",
+        "from": "X39n0709_008:0413a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即名十善法。",
+        "from": "X39n0709_008:0413a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或名十善道。",
+        "from": "X39n0709_008:0413a17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天台云。",
+        "from": "X39n0709_008:0413a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十善有二種。",
+        "from": "X39n0709_008:0413a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一止。",
+        "from": "X39n0709_008:0413a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二行。",
+        "from": "X39n0709_008:0413a18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "止則但止前惡。",
+        "from": "X39n0709_008:0413a18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不惱於他行。",
+        "from": "X39n0709_008:0413a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則修行勝德。",
+        "from": "X39n0709_008:0413a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "利樂一切。",
+        "from": "X39n0709_008:0413a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此二通稱善者。",
+        "from": "X39n0709_008:0413a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善以順利為義。",
+        "from": "X39n0709_008:0413a20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "息倒歸真曰順理。",
+        "from": "X39n0709_008:0413a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "止則息於重倒之惡行。",
+        "from": "X39n0709_008:0413a20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則漸歸勝道之善故。",
+        "from": "X39n0709_008:0413a21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "止作二種。",
+        "from": "X39n0709_008:0413a21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆名曰善。",
+        "from": "X39n0709_008:0413a21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或以加道。",
+        "from": "X39n0709_008:0413a22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名以能通至樂果也。",
+        "from": "X39n0709_008:0413a22_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鋤音徂。",
+        "from": "X39n0709_008:0413a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與鉏同。",
+        "from": "X39n0709_008:0413a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "去穢助苗也。",
+        "from": "X39n0709_008:0413a23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又誅也。",
+        "from": "X39n0709_008:0413a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斫也。",
+        "from": "X39n0709_008:0413a23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "钁匡入聲。",
+        "from": "X39n0709_008:0413a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大鉏也。",
+        "from": "X39n0709_008:0413a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[利-禾+亞]音卓削也。",
+        "from": "X39n0709_008:0413b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鎌音廉。",
+        "from": "X39n0709_008:0413b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鉤刀亦名楔子。",
+        "from": "X39n0709_008:0413b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "搯苦洽切。",
+        "from": "X39n0709_008:0413b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爪刺也。",
+        "from": "X39n0709_008:0413b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "赭音者。",
+        "from": "X39n0709_008:0413b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "赤土。",
+        "from": "X39n0709_008:0413b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "墡音善。",
+        "from": "X39n0709_008:0413b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "白土。",
+        "from": "X39n0709_008:0413b05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "柚音右。",
+        "from": "X39n0709_008:0413b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "小者為橘。",
+        "from": "X39n0709_008:0413b06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大者為柚。",
+        "from": "X39n0709_008:0413b06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓓蕾上音倍。",
+        "from": "X39n0709_008:0413b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音壘。",
+        "from": "X39n0709_008:0413b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂始花也。",
+        "from": "X39n0709_008:0413b07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "笮音責。",
+        "from": "X39n0709_008:0413b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壓也。",
+        "from": "X39n0709_008:0413b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剗音產。",
+        "from": "X39n0709_008:0413b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "削平也。",
+        "from": "X39n0709_008:0413b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菌音郡。",
+        "from": "X39n0709_008:0413b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[蕈-早+(一/(卑-(白-日)))]之小者。",
+        "from": "X39n0709_008:0413b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得叉尸羅國未見翻譯。",
+        "from": "X39n0709_008:0413b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "醫羅鉢龍王亦云醫羅鉢羅。",
+        "from": "X39n0709_008:0413b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "醫羅樹名。",
+        "from": "X39n0709_008:0413b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此翻云臭氣。",
+        "from": "X39n0709_008:0413b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鉢羅此翻云極。",
+        "from": "X39n0709_008:0413b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此龍王往昔損此樹葉故。",
+        "from": "X39n0709_008:0413b13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "致頭上生此臭極之樹也。",
+        "from": "X39n0709_008:0413b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摩納婆此翻儒童。",
+        "from": "X39n0709_008:0413b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "篋音怯。",
+        "from": "X39n0709_008:0413b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "箱篋也。",
+        "from": "X39n0709_008:0413b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅尼斯國舊云波羅柰。",
+        "from": "X39n0709_008:0413b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "河名也。",
+        "from": "X39n0709_008:0413b17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "去河不遠。",
+        "from": "X39n0709_008:0413b17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "造立王城。",
+        "from": "X39n0709_008:0413b17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或翻為江遶城。",
+        "from": "X39n0709_008:0413b18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "那剌陀未見翻譯。",
+        "from": "X39n0709_008:0413b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "駛音使。",
+        "from": "X39n0709_008:0413b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又去聲。",
+        "from": "X39n0709_008:0413b20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "馬行疾也。",
+        "from": "X39n0709_008:0413b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五苾芻即憍陳如等五人也。",
+        "from": "X39n0709_008:0413b21_0",
         "context_with_next_sentence": false
     }
 ]

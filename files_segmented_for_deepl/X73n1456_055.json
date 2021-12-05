@@ -1510,7 +1510,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "屬以慧業建[索糸+((處虍)/木)]。",
+        "source_sentence": "屬以慧業建[索-糸+((處-虍)/木)]。",
         "from": "X73n1456_055:0848b03_11",
         "context_with_next_sentence": true
     },
@@ -2175,7 +2175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何之非早歲塤[壉豕+巾]。",
+        "source_sentence": "何之非早歲塤[壉-豕+巾]。",
         "from": "X73n1456_055:0848c20_24",
         "context_with_next_sentence": true
     },
@@ -11980,7 +11980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "涕當風葉墮潸潸。",
+        "source_sentence": "涕當風葉墮澘澘。",
         "from": "X73n1456_055:0856c09_5",
         "context_with_next_sentence": true
     },

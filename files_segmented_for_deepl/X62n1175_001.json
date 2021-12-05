@@ -3590,7 +3590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 普仁七日念佛記(附錄)",
+        "source_sentence": "普仁七日念佛記(附錄)",
         "from": "X62n1175_001:0142c09_0",
         "context_with_next_sentence": true
     },
@@ -4320,8 +4320,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "常熟翁叔",
+        "source_sentence": "常熟翁叔元寶林氏記。",
         "from": "X62n1175_001:0143b04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時康熙三十六年正月望日。",
+        "from": "X62n1175_001:0143b05_5",
         "context_with_next_sentence": false
     }
 ]

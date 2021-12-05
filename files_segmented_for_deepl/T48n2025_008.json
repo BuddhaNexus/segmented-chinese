@@ -3035,7 +3035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蓋由[袖由+孚]土鼓不可作於笙鏞間知之秋。",
+        "source_sentence": "蓋由[袖-由+孚]土鼓不可作於笙鏞間知之秋。",
         "from": "T48n2025_008:1158c28_1",
         "context_with_next_sentence": true
     },
@@ -3385,7 +3385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於是會[禾*(〦/(坐土+十))]參同而詮次之。",
+        "source_sentence": "於是會稡參同而詮次之。",
         "from": "T48n2025_008:1159b08_24",
         "context_with_next_sentence": true
     },
@@ -3572,6 +3572,876 @@
     {
         "source_sentence": "勅修百丈清規卷第八(終)",
         "from": "T48n2025_008:1159b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "◎加祖號跋",
+        "from": "T48n2025_008:1159c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "百丈大智覺照禪師。",
+        "from": "T48n2025_008:1159c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "加賜弘宗妙行師號。",
+        "from": "T48n2025_008:1159c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "璽書一通。",
+        "from": "T48n2025_008:1159c04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至元二年丙子。",
+        "from": "T48n2025_008:1159c05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今上皇帝之所授也。",
+        "from": "T48n2025_008:1159c05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先是有旨申行百丈清規。",
+        "from": "T48n2025_008:1159c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尋增賜禪師師號。",
+        "from": "T48n2025_008:1159c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故有是命。",
+        "from": "T48n2025_008:1159c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "朝論初擬降制詞。",
+        "from": "T48n2025_008:1159c07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時玄備列詞林。",
+        "from": "T48n2025_008:1159c07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為直學士。",
+        "from": "T48n2025_008:1159c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "實典書命。",
+        "from": "T48n2025_008:1159c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一日本山住持德煇。",
+        "from": "T48n2025_008:1159c08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偕國子博士黃溍來訪。",
+        "from": "T48n2025_008:1159c08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "求作清規敘引。",
+        "from": "T48n2025_008:1159c09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從詢百丈事蹟。",
+        "from": "T48n2025_008:1159c09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煇具道之。",
+        "from": "T48n2025_008:1159c10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因及贊書之議。",
+        "from": "T48n2025_008:1159c10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意欲見屬。",
+        "from": "T48n2025_008:1159c10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "玄答之曰。",
+        "from": "T48n2025_008:1159c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬一當筆向聞師所言腹[葶-丁+呆]成矣。",
+        "from": "T48n2025_008:1159c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後格吏文。",
+        "from": "T48n2025_008:1159c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不果。",
+        "from": "T48n2025_008:1159c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "越十有二年。",
+        "from": "T48n2025_008:1159c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "玄告老家居。",
+        "from": "T48n2025_008:1159c12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煇自百丈。",
+        "from": "T48n2025_008:1159c12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見訪山中。",
+        "from": "T48n2025_008:1159c13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "櫝所賜璽書。",
+        "from": "T48n2025_008:1159c13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "視以漢字錄本。",
+        "from": "T48n2025_008:1159c13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請識其事。",
+        "from": "T48n2025_008:1159c14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "刻石。",
+        "from": "T48n2025_008:1159c14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "洪惟天朝尊右釋氏。",
+        "from": "T48n2025_008:1159c14_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歷代師資。",
+        "from": "T48n2025_008:1159c14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "錫號不一。",
+        "from": "T48n2025_008:1159c15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若弘宗妙行四字。",
+        "from": "T48n2025_008:1159c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯禪師居之無愧焉釋學入門之要。",
+        "from": "T48n2025_008:1159c15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "戒定慧三者。",
+        "from": "T48n2025_008:1159c16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其綱領也。",
+        "from": "T48n2025_008:1159c16_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪師探往聖心法。",
+        "from": "T48n2025_008:1159c17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卓然以敬之一字教其學者運博大之智於縝奧之功。",
+        "from": "T48n2025_008:1159c17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知行互進。",
+        "from": "T48n2025_008:1159c18_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "體用兼備。",
+        "from": "T48n2025_008:1159c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沛其有餘。",
+        "from": "T48n2025_008:1159c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師表天下。",
+        "from": "T48n2025_008:1159c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清規既攽。",
+        "from": "T48n2025_008:1159c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "表裏聲教。",
+        "from": "T48n2025_008:1159c19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "周流無方。",
+        "from": "T48n2025_008:1159c20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂之弘宗妙行誠無間然矣。",
+        "from": "T48n2025_008:1159c20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煇本臨濟一宗以負荷為志。",
+        "from": "T48n2025_008:1159c21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以顯揚為業。",
+        "from": "T48n2025_008:1159c21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "始終斯事焉。",
+        "from": "T48n2025_008:1159c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上彰君賜。",
+        "from": "T48n2025_008:1159c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下闡宗風。",
+        "from": "T48n2025_008:1159c22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪門之孝子忠臣。",
+        "from": "T48n2025_008:1159c22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有若是者。",
+        "from": "T48n2025_008:1159c23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈不韙歟。",
+        "from": "T48n2025_008:1159c23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至正七年丁亥六月初吉。",
+        "from": "T48n2025_008:1159c23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前翰林學士承旨榮祿大夫知制誥兼脩國史歐陽玄拜手稽首謹書。",
+        "from": "T48n2025_008:1159c24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一山禪師書",
+        "from": "T48n2025_008:1160a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方九拜。",
+        "from": "T48n2025_008:1160a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復前智者堂上和尚雲翁老師兄(子几)。",
+        "from": "T48n2025_008:1160a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方自福岩錄翁解組之後。",
+        "from": "T48n2025_008:1160a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多冗。",
+        "from": "T48n2025_008:1160a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而弗克附便奉訊。",
+        "from": "T48n2025_008:1160a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟極懸懸。",
+        "from": "T48n2025_008:1160a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有來瑰洒佳篇與珍果。",
+        "from": "T48n2025_008:1160a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寵賜感慰罙深。",
+        "from": "T48n2025_008:1160a06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所寄廉使損齊相公洼製。",
+        "from": "T48n2025_008:1160a07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與雄作。",
+        "from": "T48n2025_008:1160a07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圓渾而珠明玉潤。",
+        "from": "T48n2025_008:1160a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "平淡而山高水深衰鈍不所企及。",
+        "from": "T48n2025_008:1160a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斂袵名世之資。",
+        "from": "T48n2025_008:1160a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "抱瑚璉之器。",
+        "from": "T48n2025_008:1160a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於此道精研密煉。",
+        "from": "T48n2025_008:1160a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "發而為言。",
+        "from": "T48n2025_008:1160a10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無斧鑿痕。",
+        "from": "T48n2025_008:1160a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "載司南適四方而弗迷揭明鑑覽萬物而弗惑持家修身。",
+        "from": "T48n2025_008:1160a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "治國平天下。",
+        "from": "T48n2025_008:1160a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆游刃邊事。",
+        "from": "T48n2025_008:1160a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一日九迁。",
+        "from": "T48n2025_008:1160a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倚馬。",
+        "from": "T48n2025_008:1160a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可待。",
+        "from": "T48n2025_008:1160a12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "松賡或可拈出乞緩頰令重也。",
+        "from": "T48n2025_008:1160a13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方。",
+        "from": "T48n2025_008:1160a13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居此一年有餘。",
+        "from": "T48n2025_008:1160a13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡百以堪忍自處。",
+        "from": "T48n2025_008:1160a14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "丁旱歉。",
+        "from": "T48n2025_008:1160a14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歲收。",
+        "from": "T48n2025_008:1160a14_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此間比他群惟庶幾。",
+        "from": "T48n2025_008:1160a14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但願從事一二土木。",
+        "from": "T48n2025_008:1160a15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如中流失楫。",
+        "from": "T48n2025_008:1160a15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "耿耿不能置懷。",
+        "from": "T48n2025_008:1160a16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陋劣自夏秋以來。",
+        "from": "T48n2025_008:1160a16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日事藥裹。",
+        "from": "T48n2025_008:1160a16_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至今猶未康復。",
+        "from": "T48n2025_008:1160a17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾法兄。",
+        "from": "T48n2025_008:1160a17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靜退養高。",
+        "from": "T48n2025_008:1160a17_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "足以眇視當今抗塵之蹟。",
+        "from": "T48n2025_008:1160a17_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為可羞。",
+        "from": "T48n2025_008:1160a18_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二年前。",
+        "from": "T48n2025_008:1160a18_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "百丈晦機嘗緘至彼中舊清規。",
+        "from": "T48n2025_008:1160a18_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "閱之其間紕繆殊甚。",
+        "from": "T48n2025_008:1160a19_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "約共[利-禾+曲]修今東西隔越。",
+        "from": "T48n2025_008:1160a20_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比話又空。",
+        "from": "T48n2025_008:1160a20_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "屏岩所撰。",
+        "from": "T48n2025_008:1160a20_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣略多未適宜。",
+        "from": "T48n2025_008:1160a21_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愚初立論。",
+        "from": "T48n2025_008:1160a21_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以祝壽為首。",
+        "from": "T48n2025_008:1160a21_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如監寺書狀等項。",
+        "from": "T48n2025_008:1160a21_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設職。",
+        "from": "T48n2025_008:1160a22_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "潤大智元文。",
+        "from": "T48n2025_008:1160a22_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以小字。",
+        "from": "T48n2025_008:1160a22_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "箋石窓南書記本末于後。",
+        "from": "T48n2025_008:1160a22_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庶今叢林負職有所從來。",
+        "from": "T48n2025_008:1160a23_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大概。",
+        "from": "T48n2025_008:1160a24_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古規中。",
+        "from": "T48n2025_008:1160a24_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唐文多對偶當盡翻譯。",
+        "from": "T48n2025_008:1160a24_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奏上。",
+        "from": "T48n2025_008:1160a24_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "刊行。",
+        "from": "T48n2025_008:1160a25_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為一代典章。",
+        "from": "T48n2025_008:1160a25_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "晦機曾約當拉吾泣兄。",
+        "from": "T48n2025_008:1160a25_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "到抗相與料理。",
+        "from": "T48n2025_008:1160a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今時世如斯。",
+        "from": "T48n2025_008:1160a26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何由遂志。",
+        "from": "T48n2025_008:1160a26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "高見以為如何。",
+        "from": "T48n2025_008:1160a26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "書書中二偈。",
+        "from": "T48n2025_008:1160a27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不敢作答。",
+        "from": "T48n2025_008:1160a27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永似為好也。",
+        "from": "T48n2025_008:1160a27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未由頂謁床下。",
+        "from": "T48n2025_008:1160a28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願言壽護式遄詔擢。",
+        "from": "T48n2025_008:1160a28_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至禱不備。",
+        "from": "T48n2025_008:1160a28_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方九拜復感淳間。",
+        "from": "T48n2025_008:1160a29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南屏一時勝集。",
+        "from": "T48n2025_008:1160a29_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一山兄與小弟。",
+        "from": "T48n2025_008:1160a29_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寧有兩人與雲屋兄。",
+        "from": "T48n2025_008:1160b01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "參語。",
+        "from": "T48n2025_008:1160b01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不見三影。",
+        "from": "T48n2025_008:1160b01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "事往矣。",
+        "from": "T48n2025_008:1160b02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一旦促五十年於一瞬。",
+        "from": "T48n2025_008:1160b02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夢耶非夢耶。",
+        "from": "T48n2025_008:1160b02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時西湖雪後諸峯玉立。",
+        "from": "T48n2025_008:1160b03_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舊境宛然。",
+        "from": "T48n2025_008:1160b03_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二兄精爽飛動。",
+        "from": "T48n2025_008:1160b03_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日光激射處。",
+        "from": "T48n2025_008:1160b04_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "境耶。",
+        "from": "T48n2025_008:1160b04_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非境耶。",
+        "from": "T48n2025_008:1160b04_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佇立久之。",
+        "from": "T48n2025_008:1160b04_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟後死者。",
+        "from": "T48n2025_008:1160b05_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為悽斷不已。",
+        "from": "T48n2025_008:1160b05_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲將古規刊正立一代典章。",
+        "from": "T48n2025_008:1160b05_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今誰同心哉。",
+        "from": "T48n2025_008:1160b06_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "延祐元年十二月初十日。",
+        "from": "T48n2025_008:1160b06_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "東窓雪霽。",
+        "from": "T48n2025_008:1160b07_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南屏。",
+        "from": "T48n2025_008:1160b07_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "小弟　元熙書。",
+        "from": "T48n2025_008:1160b07_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "咸淳三尊宿。",
+        "from": "T48n2025_008:1160b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一山。",
+        "from": "T48n2025_008:1160b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "晦機。",
+        "from": "T48n2025_008:1160b09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆余所師敬。",
+        "from": "T48n2025_008:1160b09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獨不識雲屋翁。",
+        "from": "T48n2025_008:1160b09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而讀其景睦堂詩卷。",
+        "from": "T48n2025_008:1160b10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然後識雲屋之深也。",
+        "from": "T48n2025_008:1160b10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三老皆欲修清規立一代典章。",
+        "from": "T48n2025_008:1160b11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而其徒必能嗣成之。",
+        "from": "T48n2025_008:1160b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則視其操世之柄。",
+        "from": "T48n2025_008:1160b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而視所以維世之具。",
+        "from": "T48n2025_008:1160b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為不相及。",
+        "from": "T48n2025_008:1160b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈不有愧耶。",
+        "from": "T48n2025_008:1160b13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "延祐丙辰冬。",
+        "from": "T48n2025_008:1160b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因遊智者古剎。",
+        "from": "T48n2025_008:1160b14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覩是有感。",
+        "from": "T48n2025_008:1160b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因題于後。",
+        "from": "T48n2025_008:1160b14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "杜本。",
+        "from": "T48n2025_008:1160b15_4",
         "context_with_next_sentence": false
     }
 ]

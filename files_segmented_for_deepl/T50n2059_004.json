@@ -550,7 +550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蘭風[月*(夸大+八)]嚮。",
+        "source_sentence": "蘭風[月*(夸-大+八)]嚮。",
         "from": "T50n2059_004:0346c27_22",
         "context_with_next_sentence": true
     },
@@ -2325,7 +2325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眇眇長羈。",
+        "source_sentence": "眇眇長覊。",
         "from": "T50n2059_004:0348c11_3",
         "context_with_next_sentence": true
     },
@@ -2970,7 +2970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "襤縷畢世絕窺皇階。",
+        "source_sentence": "繿縷畢世絕窺皇階。",
         "from": "T50n2059_004:0349b07_23",
         "context_with_next_sentence": true
     },

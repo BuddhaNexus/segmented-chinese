@@ -4015,7 +4015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "略有殘羮[飢几+臾]飯。",
+        "source_sentence": "略有殘羮[飢-几+臾]飯。",
         "from": "X31n0614_004:0762b09_1",
         "context_with_next_sentence": true
     },
@@ -25040,8 +25040,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唯",
+        "source_sentence": "唯願如來安隱住世。",
         "from": "X31n0614_004:0779a23_45",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不勞有慮也。",
+        "from": "X31n0614_004:0779a24_46",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我於下結誓。",
+        "from": "X31n0614_004:0779a24_47",
         "context_with_next_sentence": false
     }
 ]

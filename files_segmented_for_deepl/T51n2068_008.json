@@ -5455,7 +5455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "所[這言+至]一夜。",
+        "source_sentence": "所[這-言+至]一夜。",
         "from": "T51n2068_008:0087a09_14",
         "context_with_next_sentence": true
     },

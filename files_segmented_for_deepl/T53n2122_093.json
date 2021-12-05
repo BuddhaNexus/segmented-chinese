@@ -3315,7 +3315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "膚體[病丙+習][病丙+習]其心悶亂。",
+        "source_sentence": "膚體[病-丙+習][病-丙+習]其心悶亂。",
         "from": "T53n2122_093:0973c24_2",
         "context_with_next_sentence": true
     },

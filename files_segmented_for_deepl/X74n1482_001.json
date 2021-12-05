@@ -1,7 +1,12 @@
 [
     {
-        "source_sentence": " 重梓佛母准提焚修悉地懺悔玄文序准提菩薩。",
+        "source_sentence": "重梓佛母准提焚修悉地懺悔玄文序",
         "from": "X74n1482_001:0555c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "准提菩薩。",
+        "from": "X74n1482_001:0555c05_0",
         "context_with_next_sentence": true
     },
     {
@@ -640,7 +645,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 佛母准提焚修悉地儀文寶懺序",
+        "source_sentence": "佛母准提焚修悉地儀文寶懺序",
         "from": "X74n1482_001:0556a20_0",
         "context_with_next_sentence": true
     },
@@ -865,7 +870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無如宋道[(厂@((既旡)日+口))*支]法師。",
+        "source_sentence": "無如宋道[(厂@((既-旡)-日+口))*支]法師。",
         "from": "X74n1482_001:0556b12_24",
         "context_with_next_sentence": true
     },
@@ -2995,7 +3000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 佛母準提脩懺儀序",
+        "source_sentence": "佛母準提脩懺儀序",
         "from": "X74n1482_001:0558a15_0",
         "context_with_next_sentence": true
     },
@@ -3900,7 +3905,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "南無無相法界菩薩南無佛頂大輪菩薩南無不動尊王菩薩南無聖觀自在菩薩南無不空[綜示+(ㄙ/月)]索菩薩南無聖金剛手菩薩南無伊迦惹吒菩薩南無嚩囉曩契菩薩南無戲縵歌舞菩薩南無香花燈塗菩薩南無鈎索鎻鈴菩薩南無甘露軍吒利菩薩南無烏樞瑟摩菩薩南無聖降三世菩薩南無准提會上諸尊菩薩摩訶薩南無祖師龍樹菩薩南無北辰玅見菩薩南無內部大威杜將主菩薩南無聖孫那哩將主菩薩南無頂行將主菩薩南無聖軍吒唎將主菩薩南無聖矜羯囉將主菩薩南無聖[口*制]吒[口*迦]將主菩薩南無阿梨智母將主菩薩南無乾闥婆王將主菩薩南無灌頂部主菩薩南無穢跡金剛菩薩南無明蛇使者菩薩南無護法諸天一切聖聚(請已白云)弟子(某甲)。",
+        "source_sentence": "南無無相法界菩薩南無佛頂大輪菩薩南無不動尊王菩薩南無聖觀自在菩薩南無不空[綜-示+(ㄙ/月)]索菩薩南無聖金剛手菩薩南無伊迦惹吒菩薩南無嚩囉曩契菩薩南無戲縵歌舞菩薩南無香花燈塗菩薩南無鈎索鎻鈴菩薩南無甘露軍吒利菩薩南無烏樞瑟摩菩薩南無聖降三世菩薩南無准提會上諸尊菩薩摩訶薩南無祖師龍樹菩薩南無北辰玅見菩薩南無內部大威杜將主菩薩南無聖孫那哩將主菩薩南無頂行將主菩薩南無聖軍吒唎將主菩薩南無聖矜羯囉將主菩薩南無聖[口*制]吒[口*迦]將主菩薩南無阿梨智母將主菩薩南無乾闥婆王將主菩薩南無灌頂部主菩薩南無穢跡金剛菩薩南無明蛇使者菩薩南無護法諸天一切聖聚(請已白云)弟子(某甲)。",
         "from": "X74n1482_001:0559a22_0",
         "context_with_next_sentence": true
     },
@@ -4280,12 +4285,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "禮大慈大悲本尊教主不空[綜示+(ㄙ/月)]索菩薩摩訶薩。",
+        "source_sentence": "禮大慈大悲本尊教主不空[綜-示+(ㄙ/月)]索菩薩摩訶薩。",
         "from": "X74n1482_001:0561b01_1",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　不空[綜示+(ㄙ/月)]索大菩薩　　鼻噓火燄頂龍王　觀音菩薩所化身　　弟子一心歸命禮志心歸命。",
+        "source_sentence": "　不空[綜-示+(ㄙ/月)]索大菩薩　　鼻噓火燄頂龍王　觀音菩薩所化身　　弟子一心歸命禮志心歸命。",
         "from": "X74n1482_001:0561b03_0",
         "context_with_next_sentence": true
     },
@@ -4985,7 +4990,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "順治壬辰季夏佛弟子項謙法名弘慈從閩中三",
+        "source_sentence": "順治壬辰季夏佛弟子項謙法名弘慈從閩中三山虔摹薰沐重鐫",
         "from": "X74n1482_001:0563a11_0",
         "context_with_next_sentence": false
     }

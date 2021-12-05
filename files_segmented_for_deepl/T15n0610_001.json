@@ -120,7 +120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　　敷演名之諦，　佛以日斷嗣，　　彼叚悉以聚，　諸根為以縫，　　非瘡而裹之，　肉血以塗[打丁+荼]，　　如木機關縷，　為如幻師幻。",
+        "source_sentence": "　　敷演名之諦，　佛以日斷嗣，　　彼叚悉以聚，　諸根為以縫，　　非瘡而裹之，　肉血以塗[打-丁+荼]，　　如木機關縷，　為如幻師幻。",
         "from": "T15n0610_001:0239c25_1",
         "context_with_next_sentence": true
     },

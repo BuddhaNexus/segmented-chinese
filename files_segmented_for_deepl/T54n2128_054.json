@@ -230,7 +230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四泥[利/(尒小+(恭共))]經一卷　惠琳阿那邠邱經一卷　惠琳佛母泥洹經一卷　惠琳大愛道泥洹經一卷　玄應國王不犁經一卷　惠琳舍衛國王夢見十事經一卷　惠琳阿難同學經一卷　惠琳五蘊皆空經一卷　無七處三觀經一卷　玄應聖法印經一卷　惠琳五陰譬喻經一卷　惠琳水沫所漂經一卷　惠琳不自守意經一卷　無轉法輪經一卷　無三轉法輪經一卷　惠琳八正道經一卷　無難提釋經一卷　惠琳馬有三相經一卷　無馬有八態經一卷　玄應相應相可經一卷　無餓鬼報應經一卷　無鬼問目連經一卷　無雜藏經一卷　玄應雜阿含經一卷　玄應治禪病祕要經一卷　惠琳舍頭諫經一卷　玄應摩鄧伽經三卷　玄應摩鄧女經一卷　惠琳摩鄧女解形中六事經一卷　無餓鬼報應經一卷　惠琳阿難問佛吉凶經一卷　玄應阿難分別經一卷　玄應右七十六經七十八卷同此卷音。",
+        "source_sentence": "四泥[利/(尒-小+(恭-共))]經一卷　惠琳阿那邠邱經一卷　惠琳佛母泥洹經一卷　惠琳大愛道泥洹經一卷　玄應國王不犁經一卷　惠琳舍衛國王夢見十事經一卷　惠琳阿難同學經一卷　惠琳五蘊皆空經一卷　無七處三觀經一卷　玄應聖法印經一卷　惠琳五陰譬喻經一卷　惠琳水沫所漂經一卷　惠琳不自守意經一卷　無轉法輪經一卷　無三轉法輪經一卷　惠琳八正道經一卷　無難提釋經一卷　惠琳馬有三相經一卷　無馬有八態經一卷　玄應相應相可經一卷　無餓鬼報應經一卷　無鬼問目連經一卷　無雜藏經一卷　玄應雜阿含經一卷　玄應治禪病祕要經一卷　惠琳舍頭諫經一卷　玄應摩鄧伽經三卷　玄應摩鄧女經一卷　惠琳摩鄧女解形中六事經一卷　無餓鬼報應經一卷　惠琳阿難問佛吉凶經一卷　玄應阿難分別經一卷　玄應右七十六經七十八卷同此卷音。",
         "from": "T54n2128_054:0664c02_0",
         "context_with_next_sentence": true
     },
@@ -240,12 +240,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "羇底(上記冝反從冈作羇經文去冈從革從奇作[革*奇]不成字下底字錯書瘐字非也羇底梵語[利禾+(ㄆ/小)]帝別種之異名也)。",
+        "source_sentence": "羇底(上記冝反從冈作羇經文去冈從革從奇作[革*奇]不成字下底字錯書瘐字非也羇底梵語[利-禾+(ㄆ/小)]帝別種之異名也)。",
         "from": "T54n2128_054:0665a07_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[夢夕+登]瞢(上音騰下墨崩反蒼頡篇云[夢夕+登]瞢臥初起皃也悶心毛詩傳曰瞢瞢亂皃二字竝從夢省形聲)。",
+        "source_sentence": "[夢-夕+登]瞢(上音騰下墨崩反蒼頡篇云[夢-夕+登]瞢臥初起皃也悶心毛詩傳曰瞢瞢亂皃二字竝從夢省形聲)。",
         "from": "T54n2128_054:0665a09_0",
         "context_with_next_sentence": true
     },
@@ -260,7 +260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "種種囊(諾郎反考聲有底袋也說文從[襄〦]從[橐石+豕]省[襄〦]亦聲也[襄〦]音儜[橐石+豕]音混也)。",
+        "source_sentence": "種種囊(諾郎反考聲有底袋也說文從[襄-〦]從[橐-石+豕]省[襄-〦]亦聲也[襄-〦]音儜[橐-石+豕]音混也)。",
         "from": "T54n2128_054:0665a12_0",
         "context_with_next_sentence": true
     },
@@ -315,7 +315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "笥[竺二+(僉*殳)](司寺反顧野王云笥盛衣服竹器也說文從竹司聲)。",
+        "source_sentence": "笥[竺-二+(僉*殳)](司寺反顧野王云笥盛衣服竹器也說文從竹司聲)。",
         "from": "T54n2128_054:0665a23_0",
         "context_with_next_sentence": true
     },
@@ -370,7 +370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "徃短(端管反蒼頡篇短促也說文不長也從矢從豆經從手作[打丁+豆]俗字)。",
+        "source_sentence": "徃短(端管反蒼頡篇短促也說文不長也從矢從豆經從手作[打-丁+豆]俗字)。",
         "from": "T54n2128_054:0665b10_0",
         "context_with_next_sentence": true
     },
@@ -380,7 +380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[闔去+太]門(含臘反爾雅[闔去+太]戶謂之扉說文[闔去+太]閉也從門盇聲也盇音合)。",
+        "source_sentence": "[闔-去+太]門(含臘反爾雅[闔-去+太]戶謂之扉說文[闔-去+太]閉也從門盇聲也盇音合)。",
         "from": "T54n2128_054:0665b12_0",
         "context_with_next_sentence": true
     },
@@ -390,7 +390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "儲偫(上佇猪反考說云儲積也說文偫也蓄也從人諸聲下持里反考聲云偫待也所望也儲也說文具也從人待聲經從足作[跳兆+侍]非也)。",
+        "source_sentence": "儲偫(上佇猪反考說云儲積也說文偫也蓄也從人諸聲下持里反考聲云偫待也所望也儲也說文具也從人待聲經從足作[跳-兆+侍]非也)。",
         "from": "T54n2128_054:0665b14_0",
         "context_with_next_sentence": true
     },
@@ -420,7 +420,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三歸五戒慈心功德經(無字可音訓)佛為黃竹園老婆羅門說學經惠琳尠得(上仙淺反考聲云少也爾雅云尠寡也鄭注禮記云尠空也或作[匙匕+支]說文從甚少聲今亦通作鮮)。",
+        "source_sentence": "三歸五戒慈心功德經(無字可音訓)佛為黃竹園老婆羅門說學經惠琳尠得(上仙淺反考聲云少也爾雅云尠寡也鄭注禮記云尠空也或作[匙-匕+支]說文從甚少聲今亦通作鮮)。",
         "from": "T54n2128_054:0665b21_0",
         "context_with_next_sentence": true
     },
@@ -435,7 +435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "披纚(今作縱同山綺反案森纚好皃也颯纚長袖皃也纚[竺二+徒]也颯音枼答反)。",
+        "source_sentence": "披纚(今作縱同山綺反案森纚好皃也颯纚長袖皃也纚[竺-二+徒]也颯音枼答反)。",
         "from": "T54n2128_054:0665c02_0",
         "context_with_next_sentence": true
     },
@@ -480,12 +480,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "金[瑙囟+貝](下蘇果反廣雅[瑙囟+貝]連也字書亦連環也說文從玉[肖月+貝]聲也[肖月+貝]音同上經文作璅非也)。",
+        "source_sentence": "金[瑙-囟+貝](下蘇果反廣雅[瑙-囟+貝]連也字書亦連環也說文從玉[肖-月+貝]聲也[肖-月+貝]音同上經文作璅非也)。",
         "from": "T54n2128_054:0665c11_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "氍氀(上具俱反下色于反埤蒼云氍氀毾[登*毛]也聲類云亦毛席也廣雅云氍氀[罽厂]也說文並從毛形聲字也)。",
+        "source_sentence": "氍氀(上具俱反下色于反埤蒼云氍氀毾[登*毛]也聲類云亦毛席也廣雅云氍氀[罽-厂]也說文並從毛形聲字也)。",
         "from": "T54n2128_054:0665c12_0",
         "context_with_next_sentence": true
     },
@@ -505,7 +505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[臿臼+(凵@(二*二))]牀(楚夾反說文從于從臼象形字也)。",
+        "source_sentence": "[臿-臼+(凵@(二*二))]牀(楚夾反說文從于從臼象形字也)。",
         "from": "T54n2128_054:0665c16_0",
         "context_with_next_sentence": true
     },
@@ -545,7 +545,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鈇[打丁+質](方于反說文莝斫也莝音倉臥反公羊傳曰不忍加之鈇質何休曰斬腰之罪也蒼頡篇鈇椹也亦橫斧也案橫斧者如莝對下之逸反埤蒼[桵女+貝]椹也經作鎮非也)。",
+        "source_sentence": "鈇[打-丁+質](方于反說文莝斫也莝音倉臥反公羊傳曰不忍加之鈇質何休曰斬腰之罪也蒼頡篇鈇椹也亦橫斧也案橫斧者如莝對下之逸反埤蒼[桵-女+貝]椹也經作鎮非也)。",
         "from": "T54n2128_054:0665c24_0",
         "context_with_next_sentence": true
     },
@@ -570,7 +570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "評[諒小+(日/羊)](上病朋反考聲評議也古今正字訶也文字典說評事者大理司官名也從言平聲下準純反考聲告之丁寧也鄭注禮記云誠懇皃也至也說文告曉之執也從言[古/日/羊]聲)。",
+        "source_sentence": "評[諒-小+(日/羊)](上病朋反考聲評議也古今正字訶也文字典說評事者大理司官名也從言平聲下準純反考聲告之丁寧也鄭注禮記云誠懇皃也至也說文告曉之執也從言[古/日/羊]聲)。",
         "from": "T54n2128_054:0666a06_0",
         "context_with_next_sentence": true
     },
@@ -605,7 +605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[└@(栗木)]如是(奴改反爾雅云[└@(栗木)]即乃字也聲類至也說文從西從乚音隱)。",
+        "source_sentence": "[└@(栗-木)]如是(奴改反爾雅云[└@(栗-木)]即乃字也聲類至也說文從西從乚音隱)。",
         "from": "T54n2128_054:0666a14_0",
         "context_with_next_sentence": true
     },
@@ -640,7 +640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "著麩(下撫無反蒼頡篇麩麥皮也說文小麥皮也從麥夫聲或從孚作[麩夫+孚]俗字也)。",
+        "source_sentence": "著麩(下撫無反蒼頡篇麩麥皮也說文小麥皮也從麥夫聲或從孚作[麩-夫+孚]俗字也)。",
         "from": "T54n2128_054:0666a22_0",
         "context_with_next_sentence": true
     },
@@ -675,7 +675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "期頥(以之反禮記百年曰期頤鄭玄曰期猶要也[(厂一)*臣*頁]養也孝子要盡養之道而已)。",
+        "source_sentence": "期頥(以之反禮記百年曰期頤鄭玄曰期猶要也[(厂-一)*臣*頁]養也孝子要盡養之道而已)。",
         "from": "T54n2128_054:0666b07_0",
         "context_with_next_sentence": true
     },
@@ -695,12 +695,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亘雲(上古[疏(梳木)+登]反方言亘竟也毛詩傳云亘遍也說文云從曰從二經文從糸作絙非也糸音覓)。",
+        "source_sentence": "亘雲(上古[疏-(梳-木)+登]反方言亘竟也毛詩傳云亘遍也說文云從曰從二經文從糸作絙非也糸音覓)。",
         "from": "T54n2128_054:0666b11_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "赤隣[車*(覃日+田)](梵語不分明譯經者拙惡也此亦是寶名或是錯書也)。",
+        "source_sentence": "赤隣[車*(覃-日+田)](梵語不分明譯經者拙惡也此亦是寶名或是錯書也)。",
         "from": "T54n2128_054:0666b12_0",
         "context_with_next_sentence": true
     },
@@ -710,7 +710,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "睒電(上攝[白日+(丹、+十)]反電[火/几]也蒼頡篇云晱暫見也說文暫視也從目炎聲)。",
+        "source_sentence": "睒電(上攝[白-日+(丹-、+十)]反電[火/几]也蒼頡篇云晱暫見也說文暫視也從目炎聲)。",
         "from": "T54n2128_054:0666b14_0",
         "context_with_next_sentence": true
     },
@@ -740,7 +740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "躓礙(上知利反考聲躓礙不進也正作疐下五蓋反考聲云礙隔也說文止也從石從疑博雅作閡韻略作硋文字集略作[得彳]並俗字也)。",
+        "source_sentence": "躓礙(上知利反考聲躓礙不進也正作疐下五蓋反考聲云礙隔也說文止也從石從疑博雅作閡韻略作硋文字集略作[得-彳]並俗字也)。",
         "from": "T54n2128_054:0666b20_0",
         "context_with_next_sentence": true
     },
@@ -750,7 +750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "金屣(師滓反考聲云履之不攝[疏(梳木)+艮]者也字書[革*夾][革*徙]也即今之皮履也西國俗尚著此也說文作[革*徙]鞮屬從革徙聲或作[疏(梳木)+麗]並同[革*夾]音公冾反鞮音丁奚反)。",
+        "source_sentence": "金屣(師滓反考聲云履之不攝[疏-(梳-木)+艮]者也字書[革*夾][革*徙]也即今之皮履也西國俗尚著此也說文作[革*徙]鞮屬從革徙聲或作[疏-(梳-木)+麗]並同[革*夾]音公冾反鞮音丁奚反)。",
         "from": "T54n2128_054:0666b23_0",
         "context_with_next_sentence": true
     },
@@ -780,17 +780,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "稟仰(上彼錦反孔注尚書稟人所承受也說文從[稟禾]從禾[稟禾]音力錦反)。",
+        "source_sentence": "稟仰(上彼錦反孔注尚書稟人所承受也說文從[稟-禾]從禾[稟-禾]音力錦反)。",
         "from": "T54n2128_054:0666c07_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "諮諏(上姉私反考聲云諮問於善也廣雅白也說文從言咨聲下足須反杜注左傳云諏問正事爾雅謀也說文聚謀也從言取聲經文作[譙隹+取]誤書也)。",
+        "source_sentence": "諮諏(上姉私反考聲云諮問於善也廣雅白也說文從言咨聲下足須反杜注左傳云諏問正事爾雅謀也說文聚謀也從言取聲經文作[譙-隹+取]誤書也)。",
         "from": "T54n2128_054:0666c08_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "儀範(凡黯反上聲字也爾雅範常也韻英則也考聲摸也說文法也古法有竹形以竹簡書之故言法也從竹從車從[泳永+巴]省聲也經文作鈴非也甚無此理)。",
+        "source_sentence": "儀範(凡黯反上聲字也爾雅範常也韻英則也考聲摸也說文法也古法有竹形以竹簡書之故言法也從竹從車從[泳-永+巴]省聲也經文作鈴非也甚無此理)。",
         "from": "T54n2128_054:0666c10_0",
         "context_with_next_sentence": true
     },
@@ -805,7 +805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "裹師(上補毛反顧野王云裹猶美之也鄭注禮記云褒猶進也說文亦博裾也從衣[采木+呆]聲[采木+呆]音保俗作褒經文作褒誤書也)。",
+        "source_sentence": "裹師(上補毛反顧野王云裹猶美之也鄭注禮記云褒猶進也說文亦博裾也從衣[采-木+呆]聲[采-木+呆]音保俗作褒經文作褒誤書也)。",
         "from": "T54n2128_054:0666c15_0",
         "context_with_next_sentence": true
     },
@@ -815,7 +815,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譖曰(側禁反博雅[讚貝+日]毀也何休注公羊傳云無其事曰誣如其事曰[讚貝+日]說文愬也從言替聲也)。",
+        "source_sentence": "譖曰(側禁反博雅[讚-貝+日]毀也何休注公羊傳云無其事曰誣如其事曰[讚-貝+日]說文愬也從言替聲也)。",
         "from": "T54n2128_054:0666c18_0",
         "context_with_next_sentence": true
     },
@@ -830,7 +830,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一契(溪計反考聲云契猶券也杜注左傳云要契之辭也說文大約也從[丰*刀]古八反從大經從云作[契大+云]非也書錯也)。",
+        "source_sentence": "一契(溪計反考聲云契猶券也杜注左傳云要契之辭也說文大約也從[丰*刀]古八反從大經從云作[契-大+云]非也書錯也)。",
         "from": "T54n2128_054:0666c21_0",
         "context_with_next_sentence": true
     },
@@ -855,7 +855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[〦/(刀*了*(留刀田))/員]饟(子奚反鄭注周禮[〦/(刀*ㄚ*(留刀田))/員]持行道粮用也顧野王持也廣雅送也說文持遺也從貝齋聲經作賷俗字也下式掌反爾雅饟饋也方言云周人謂餉曰饋從食襄聲經作餉亦通俗字也饋音匱也)。",
+        "source_sentence": "[〦/(刀*了*(留-刀-田))/員]饟(子奚反鄭注周禮[〦/(刀*ㄚ*(留-刀-田))/員]持行道粮用也顧野王持也廣雅送也說文持遺也從貝齋聲經作賷俗字也下式掌反爾雅饟饋也方言云周人謂餉曰饋從食襄聲經作餉亦通俗字也饋音匱也)。",
         "from": "T54n2128_054:0667a04_0",
         "context_with_next_sentence": true
     },
@@ -885,7 +885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "攜手(上惠圭反顧野王云[打丁+嶲]持也何注公羊傳[打丁+嶲]提也孟注漢書云連也說文從手嶲聲嶲音同上)。",
+        "source_sentence": "攜手(上惠圭反顧野王云[打-丁+嶲]持也何注公羊傳[打-丁+嶲]提也孟注漢書云連也說文從手嶲聲嶲音同上)。",
         "from": "T54n2128_054:0667a11_0",
         "context_with_next_sentence": true
     },
@@ -920,7 +920,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蔑屑(無結反下先結反埤蒼[撘合+((ㄇ@人)/戍)]揳拭滅也)。",
+        "source_sentence": "蔑屑(無結反下先結反埤蒼[撘-合+((ㄇ@人)/戍)]揳拭滅也)。",
         "from": "T54n2128_054:0667a18_0",
         "context_with_next_sentence": true
     },
@@ -995,7 +995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "阿那邠[邱丘+(乏之+ㄠ)]化七子經惠琳撰儴伽(上汝昌反下強迦反並梵語也經從虫作蠰音女兩反非也)。",
+        "source_sentence": "阿那邠[邱-丘+(乏-之+ㄠ)]化七子經惠琳撰儴伽(上汝昌反下強迦反並梵語也經從虫作蠰音女兩反非也)。",
         "from": "T54n2128_054:0667b11_0",
         "context_with_next_sentence": true
     },
@@ -1005,7 +1005,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "諄[邱丘+冉](古文訰同之[門@壬]反此譯云碎未謂人名也經文作[享*毛]誤也)。",
+        "source_sentence": "諄[邱-丘+冉](古文訰同之[門@壬]反此譯云碎未謂人名也經文作[享*毛]誤也)。",
         "from": "T54n2128_054:0667b14_0",
         "context_with_next_sentence": true
     },
@@ -1030,12 +1030,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "噓唏(上許居反鄭注禮記云噓[佫口+思]之聲也顧野王云口出氣曰噓說文亦出氣也從口虛聲下喜衣反言唏痛也哀而不泣也說文從口希聲)。",
+        "source_sentence": "噓唏(上許居反鄭注禮記云噓[佫-口+思]之聲也顧野王云口出氣曰噓說文亦出氣也從口虛聲下喜衣反言唏痛也哀而不泣也說文從口希聲)。",
         "from": "T54n2128_054:0667b20_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛說國王不[黎(暴(日/共))+(恭共)]先尼十夢經惠琳撰食尻(下考高反考聲云尻隱處也儀禮兩[月*坒]屬于尻也說文從尸九聲)。",
+        "source_sentence": "佛說國王不[黎-(暴-(日/共))+(恭-共)]先尼十夢經惠琳撰食尻(下考高反考聲云尻隱處也儀禮兩[月*坒]屬于尻也說文從尸九聲)。",
         "from": "T54n2128_054:0667b22_0",
         "context_with_next_sentence": true
     },
@@ -1095,7 +1095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "夫劈(下[車/(幻ㄠ)]覓反廣雅云劈剖裂也埤蒼亦剖也說文破也從刀辟聲也)。",
+        "source_sentence": "夫劈(下[車/(幻-ㄠ)]覓反廣雅云劈剖裂也埤蒼亦剖也說文破也從刀辟聲也)。",
         "from": "T54n2128_054:0667c13_0",
         "context_with_next_sentence": true
     },
@@ -1150,7 +1150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鑽可(上纂巒反國語云鑽鑿也顧野王云鐫也集訓[利禾+夾]也穿物鐵也說文穿也從金贊聲)。",
+        "source_sentence": "鑽可(上纂巒反國語云鑽鑿也顧野王云鐫也集訓[利-禾+夾]也穿物鐵也說文穿也從金贊聲)。",
         "from": "T54n2128_054:0667c24_0",
         "context_with_next_sentence": true
     },
@@ -1165,17 +1165,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "車軨(又作[檑田+皿]同力庭反說文車間橫木也即車軨子也)。",
+        "source_sentence": "車軨(又作[檑-田+皿]同力庭反說文車間橫木也即車軨子也)。",
         "from": "T54n2128_054:0668a03_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "摩挱(桒何反聲類摩挱猶捫摸也摩挱亦抺[打丁+煞]也抺音莫割反[打丁+煞]蘇割也)。",
+        "source_sentence": "摩挱(桒何反聲類摩挱猶捫摸也摩挱亦抺[打-丁+煞]也抺音莫割反[打-丁+煞]蘇割也)。",
         "from": "T54n2128_054:0668a04_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "噏噬([羲ㄎ+乃]及反廣雅噏飲也下時制反噬齧也食也)。",
+        "source_sentence": "噏噬([羲-ㄎ+乃]及反廣雅噏飲也下時制反噬齧也食也)。",
         "from": "T54n2128_054:0668a05_0",
         "context_with_next_sentence": true
     },
@@ -1210,7 +1210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[阿可+聚]中(古文[聚*邑][耳*比*邑]二形今作聚同才句反廣雅居也謂人所聚居處)。",
+        "source_sentence": "[阿-可+聚]中(古文[聚*邑][耳*比*邑]二形今作聚同才句反廣雅居也謂人所聚居處)。",
         "from": "T54n2128_054:0668a14_0",
         "context_with_next_sentence": true
     },
@@ -1225,12 +1225,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "叉勝(徒隥反謂通[徹育+青]囊也經文作投鄧非也)。",
+        "source_sentence": "叉勝(徒隥反謂通[徹-育+青]囊也經文作投鄧非也)。",
         "from": "T54n2128_054:0668a18_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[阿可+乘][阿可+曷](先闕未音)。",
+        "source_sentence": "[阿-可+乘][阿-可+曷](先闕未音)。",
         "from": "T54n2128_054:0668a19_0",
         "context_with_next_sentence": true
     },
@@ -1245,12 +1245,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "憂[女*(巢果+(一/凶))](奴道反說文有所恨痛也今汝南人有所恨言大[女*(巢果+(一/凶))]今皆作惱)。",
+        "source_sentence": "憂[女*(巢-果+(一/凶))](奴道反說文有所恨痛也今汝南人有所恨言大[女*(巢-果+(一/凶))]今皆作惱)。",
         "from": "T54n2128_054:0668a22_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "矢溺(又作[戶@矢]說文作[蓾├]同式旨反糞矢也下正體作浘尿二形同乃吊反經文作溺假借耳)。",
+        "source_sentence": "矢溺(又作[戶@矢]說文作[蓾-├]同式旨反糞矢也下正體作浘尿二形同乃吊反經文作溺假借耳)。",
         "from": "T54n2128_054:0668a23_0",
         "context_with_next_sentence": true
     },
@@ -1265,7 +1265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[仁二+(皿/ㄙ/(衣〦))][仁二+(皿/ㄙ/(衣〦))]咋咋(許緣反謂家道未成也下作諸同壯白反咋咋然聲也)。",
+        "source_sentence": "[仁-二+(皿/ㄙ/(衣-〦))][仁-二+(皿/ㄙ/(衣-〦))]咋咋(許緣反謂家道未成也下作諸同壯白反咋咋然聲也)。",
         "from": "T54n2128_054:0668b02_0",
         "context_with_next_sentence": true
     },
@@ -1300,7 +1300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "殘膜([泳永+(止/(凵@人))]各反說文肉間膜也經文作瘼誤也)。",
+        "source_sentence": "殘膜([泳-永+(止/(凵@人))]各反說文肉間膜也經文作瘼誤也)。",
         "from": "T54n2128_054:0668b10_0",
         "context_with_next_sentence": true
     },
@@ -1320,7 +1320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "樹荄(古來反說文草根也方言東齊謂[花匕+韭]根為荄也)。",
+        "source_sentence": "樹荄(古來反說文草根也方言東齊謂[花-匕+韭]根為荄也)。",
         "from": "T54n2128_054:0668b14_0",
         "context_with_next_sentence": true
     },
@@ -1330,12 +1330,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "泓然(一宏反說文下深大也廣雅[漲長+ㄗ][漲長+ㄗ]深也)。",
+        "source_sentence": "泓然(一宏反說文下深大也廣雅[漲-長+ㄗ][漲-長+ㄗ]深也)。",
         "from": "T54n2128_054:0668b16_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[橐石+非]囊(久作排[(一/韋)*(ㄆ/田)]二形同蒲戒反謂鍛家用炊火也)。",
+        "source_sentence": "[橐-石+非]囊(久作排[(一/韋)*(ㄆ/田)]二形同蒲戒反謂鍛家用炊火也)。",
         "from": "T54n2128_054:0668b17_0",
         "context_with_next_sentence": true
     },
@@ -1370,7 +1370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "處[病丙+畢](畢利反說文足氣不至也經文作肶字與肶同音鼻尸反[月*坒]非此用論語堯舜其猶病諸孔注云病難也)。",
+        "source_sentence": "處[病-丙+畢](畢利反說文足氣不至也經文作肶字與肶同音鼻尸反[月*坒]非此用論語堯舜其猶病諸孔注云病難也)。",
         "from": "T54n2128_054:0668b25_0",
         "context_with_next_sentence": true
     },
@@ -1385,7 +1385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如霹靂(上匹覓反下靈的反史記云霹靂者陽氣之動也顧野王云大雷震也郭璞注爾雅云雷之急擊也古今正字並從雨辟歷皆聲經從足作躃[跳兆+(歷秝+林)]非也)。",
+        "source_sentence": "如霹靂(上匹覓反下靈的反史記云霹靂者陽氣之動也顧野王云大雷震也郭璞注爾雅云雷之急擊也古今正字並從雨辟歷皆聲經從足作躃[跳-兆+(歷-秝+林)]非也)。",
         "from": "T54n2128_054:0668c03_0",
         "context_with_next_sentence": true
     },
@@ -1405,7 +1405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鍼鑽(上章任反廣雅云鍼[利禾+夾]也顧野王云綴衣也考聲云鍼所以縫衣線也說文縫也從金咸聲綴音追銳反下祖官反孟子曰鑽穿孔也說文云所以穿物也從金贊聲亦從刀作劗音同)。",
+        "source_sentence": "鍼鑽(上章任反廣雅云鍼[利-禾+夾]也顧野王云綴衣也考聲云鍼所以縫衣線也說文縫也從金咸聲綴音追銳反下祖官反孟子曰鑽穿孔也說文云所以穿物也從金贊聲亦從刀作劗音同)。",
         "from": "T54n2128_054:0668c11_0",
         "context_with_next_sentence": true
     },
@@ -1420,7 +1420,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "巖[山*(遻(這言))](上牙咸反杜注左傳云巖險也毛詩傳云巖積石皃也說文云巖崖岸也從山巖聲經作巗俗字亦通下五各反魏都賦云[嵁儿+乂][山*(遻(這言))]山形[嵁儿+乂]五敢反)。",
+        "source_sentence": "巖[山*(遻-(這-言))](上牙咸反杜注左傳云巖險也毛詩傳云巖積石皃也說文云巖崖岸也從山巖聲經作巗俗字亦通下五各反魏都賦云[嵁-儿+乂][山*(遻-(這-言))]山形[嵁-儿+乂]五敢反)。",
         "from": "T54n2128_054:0668c16_0",
         "context_with_next_sentence": true
     },
@@ -1445,12 +1445,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "肺[合口+(利禾+舟)](下庚朱反案諸方書明堂圖肺俞心俞肝俞者皆針灸之穴也說文俞字從亼從舟從刂刂者行舟水也亼音子立反刂音古外反經從肉作胇腧非也)。",
+        "source_sentence": "肺[合-口+(利-禾+舟)](下庚朱反案諸方書明堂圖肺俞心俞肝俞者皆針灸之穴也說文俞字從亼從舟從刂刂者行舟水也亼音子立反刂音古外反經從肉作胇腧非也)。",
         "from": "T54n2128_054:0668c23_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自剜(下烏官反埤蒼云剜[利禾+(ㄙ/月)]也廣雅云[利禾+(ㄙ/月)]亦剜也考聲云剜曲刻也古今正字云剜削也從刀宛聲[利禾+(ㄙ/月)]音一玄反)。",
+        "source_sentence": "自剜(下烏官反埤蒼云剜[利-禾+(ㄙ/月)]也廣雅云[利-禾+(ㄙ/月)]亦剜也考聲云剜曲刻也古今正字云剜削也從刀宛聲[利-禾+(ㄙ/月)]音一玄反)。",
         "from": "T54n2128_054:0669a01_0",
         "context_with_next_sentence": true
     },
@@ -1470,12 +1470,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "癵[綜示+丙](上律[袁口+(ㄠㄙ)]反爾雅癵病也顧野王云謂病身體拘曲也說文從疒臠聲下色六反韓詩云縮斂也賈逵注國語云盡也退也說文云縮乱也就引之縱縮也會意字也從糸宿聲經作攣縮俗字)。",
+        "source_sentence": "癵[綜-示+丙](上律[袁-口+(ㄠ-ㄙ)]反爾雅癵病也顧野王云謂病身體拘曲也說文從疒臠聲下色六反韓詩云縮斂也賈逵注國語云盡也退也說文云縮乱也就引之縱縮也會意字也從糸宿聲經作攣縮俗字)。",
         "from": "T54n2128_054:0669a06_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "六竅(下企吊反太玄經云竅空也亦孔穴也案六竅者即九竅中眼耳鼻各為一故言七竅古今正字從穴敫聲敫音[唎禾])。",
+        "source_sentence": "六竅(下企吊反太玄經云竅空也亦孔穴也案六竅者即九竅中眼耳鼻各為一故言七竅古今正字從穴敫聲敫音[唎-禾])。",
         "from": "T54n2128_054:0669a08_0",
         "context_with_next_sentence": true
     },
@@ -1485,7 +1485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鳥[此/朿](下咨髓反字書云[此/朿]鳥喙也古今正字從此束聲也聲類或作胔[口*束]音同上束音次經作[雋隹+唯]非也)。",
+        "source_sentence": "鳥[此/朿](下咨髓反字書云[此/朿]鳥喙也古今正字從此束聲也聲類或作胔[口*束]音同上束音次經作[雋-隹+唯]非也)。",
         "from": "T54n2128_054:0669a11_0",
         "context_with_next_sentence": true
     },
@@ -1495,12 +1495,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "黐膠(上勅知反廣雅云黐膠黏也一曰水膠也古今正字云有樹脂黏著物可捕鳥者乃已為黐膠樹也從[禾/米]离聲下音交經從米作[米*(离ㄙ+人)]非也[(禾/米)*占]音聶沾反离音勅知反)。",
+        "source_sentence": "黐膠(上勅知反廣雅云黐膠黏也一曰水膠也古今正字云有樹脂黏著物可捕鳥者乃已為黐膠樹也從[禾/米]离聲下音交經從米作[米*(离-ㄙ+人)]非也[(禾/米)*占]音聶沾反离音勅知反)。",
         "from": "T54n2128_054:0669a15_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鴟鵂(上叱之反下朽流反鄭玄箋毛詩云鴟惡鳴鳥也案鴟鵂者[怡台+左]鳥也晝潛夜出而飛同荒鷄鴟梟之屬也大如鳶目赤色蒼黑也古今正字亦鳩鴟也即鵂[(前刖+缶)*馬]鳥也鴟字或從隹作鴟鵂字從鳥休聲經作鵄俗字也)。",
+        "source_sentence": "鴟鵂(上叱之反下朽流反鄭玄箋毛詩云鴟惡鳴鳥也案鴟鵂者[怡-台+左]鳥也晝潛夜出而飛同荒鷄鴟梟之屬也大如鳶目赤色蒼黑也古今正字亦鳩鴟也即鵂[(前-刖+缶)*馬]鳥也鴟字或從隹作鴟鵂字從鳥休聲經作鵄俗字也)。",
         "from": "T54n2128_054:0669a17_0",
         "context_with_next_sentence": true
     },
@@ -1515,7 +1515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "摶撮(上[圖囗]鸞反搏雅云摶手握物使相著也說文從手專聲也下祖未反應劭注漢書云三指撮也或兩指撮也古今正字從手最聲也)。",
+        "source_sentence": "摶撮(上[圖-囗]鸞反搏雅云摶手握物使相著也說文從手專聲也下祖未反應劭注漢書云三指撮也或兩指撮也古今正字從手最聲也)。",
         "from": "T54n2128_054:0669a21_0",
         "context_with_next_sentence": true
     },
@@ -1575,7 +1575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "憺怕(上談濫反下[烈列+享]百反廣雅云怕靜也)。",
+        "source_sentence": "憺怕(上談濫反下[烈-列+享]百反廣雅云怕靜也)。",
         "from": "T54n2128_054:0669b10_0",
         "context_with_next_sentence": true
     },
@@ -1595,7 +1595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "足躡(黏[車*(乏之+友)]反廣雅云躡履躡也亦機下足所履躡也說文躡[疏(梳木)+(刀/臼)]也從足聶聲)。",
+        "source_sentence": "足躡(黏[車*(乏-之+友)]反廣雅云躡履躡也亦機下足所履躡也說文躡[疏-(梳-木)+(刀/臼)]也從足聶聲)。",
         "from": "T54n2128_054:0669b14_0",
         "context_with_next_sentence": true
     },
@@ -1635,7 +1635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "牀蓐(上狀莊反下音[辱(厂一)+((病丙)〦)]毛詩載寢之狀也榻也古今正字人之捿息自安之具也)。",
+        "source_sentence": "牀蓐(上狀莊反下音[辱-(厂-一)+((病-丙)-〦)]毛詩載寢之狀也榻也古今正字人之捿息自安之具也)。",
         "from": "T54n2128_054:0669b22_0",
         "context_with_next_sentence": true
     },
@@ -1685,12 +1685,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "荔枝(力計反樹大生江旁子皮如[(ㄇ@(企止))/(栵歹)]肌如猪眆)。",
+        "source_sentence": "荔枝(力計反樹大生江旁子皮如[(ㄇ@(企-止))/(栵-歹)]肌如猪眆)。",
         "from": "T54n2128_054:0669c08_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "槲樕(胡木反下又作[木*速]同[乘(一/北)+((十/工)*(十/工))]屋反槲[木*速]樸也山木也)。",
+        "source_sentence": "槲樕(胡木反下又作[木*速]同[乘-(一/北)+((十/工)*(十/工))]屋反槲[木*速]樸也山木也)。",
         "from": "T54n2128_054:0669c09_0",
         "context_with_next_sentence": true
     },
@@ -1720,7 +1720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[火*(日/出/大/((犀尸)牛+十))]其(古文作[暴*皮]曝二形同布孝反說文[火*(日/出/大/((犀尸)牛+十))]灼也亦皮散起也)。",
+        "source_sentence": "[火*(日/出/大/((犀-尸)-牛+十))]其(古文作[暴*皮]曝二形同布孝反說文[火*(日/出/大/((犀-尸)-牛+十))]灼也亦皮散起也)。",
         "from": "T54n2128_054:0669c15_0",
         "context_with_next_sentence": true
     },
@@ -1740,7 +1740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "賒耽(上書遮反下或作[(甚儿+乂)*冘]同都含反)。",
+        "source_sentence": "賒耽(上書遮反下或作[(甚-儿+乂)*冘]同都含反)。",
         "from": "T54n2128_054:0669c19_0",
         "context_with_next_sentence": true
     },
@@ -1770,7 +1770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "酒櫱(魚列反說文牙米也釋名云[卄/(阿可+辛)/木]缺也漬麥覆之使生芽也開缺也)。",
+        "source_sentence": "酒櫱(魚列反說文牙米也釋名云[卄/(阿-可+辛)/木]缺也漬麥覆之使生芽也開缺也)。",
         "from": "T54n2128_054:0670a02_0",
         "context_with_next_sentence": true
     },
@@ -1880,7 +1880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "狺狺(又作[狂王+斤]同魚巾牛街二反狺狺犬聲也楚辭猛犬狺狺而迎吠是也)。",
+        "source_sentence": "狺狺(又作[狂-王+斤]同魚巾牛街二反狺狺犬聲也楚辭猛犬狺狺而迎吠是也)。",
         "from": "T54n2128_054:0670b04_0",
         "context_with_next_sentence": true
     },

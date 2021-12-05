@@ -1105,7 +1105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[虫*(替日+貝)]虫犯者用[口*束]治脚腫弱故。",
+        "source_sentence": "[虫*(替-日+貝)]虫犯者用[口*束]治脚腫弱故。",
         "from": "T85n2788_001:0617c19_12",
         "context_with_next_sentence": true
     },
@@ -3605,7 +3605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "共嫌[怡台+責]。",
+        "source_sentence": "共嫌[怡-台+責]。",
         "from": "T85n2788_001:0620b03_5",
         "context_with_next_sentence": true
     },
@@ -20600,7 +20600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一一犯墮所[這言+至]大小巷。",
+        "source_sentence": "一一犯墮所[這-言+至]大小巷。",
         "from": "T85n2788_001:0637a15_3",
         "context_with_next_sentence": true
     },
@@ -20630,7 +20630,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "所入一一所[這言+至]大小巷一一突。",
+        "source_sentence": "所入一一所[這-言+至]大小巷一一突。",
         "from": "T85n2788_001:0637a18_9",
         "context_with_next_sentence": true
     },
@@ -20760,7 +20760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若五十[萉巴+(日/(句口+匕))]者出界及大事皆應白。",
+        "source_sentence": "若五十[萉-巴+(日/(句-口+匕))]者出界及大事皆應白。",
         "from": "T85n2788_001:0637a28_7",
         "context_with_next_sentence": true
     },
@@ -20870,7 +20870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "出主人界所[這言+至]巷一一突。",
+        "source_sentence": "出主人界所[這-言+至]巷一一突。",
         "from": "T85n2788_001:0637b10_2",
         "context_with_next_sentence": true
     },
@@ -22900,7 +22900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "善攝身二事　六群入家蹤[跳兆+(轍車)]不視踰。",
+        "source_sentence": "善攝身二事　六群入家蹤[跳-兆+(轍-車)]不視踰。",
         "from": "T85n2788_001:0639b15_0",
         "context_with_next_sentence": true
     },
@@ -23705,7 +23705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不指[打丁+(改己)]鉢食　居士語六群言。",
+        "source_sentence": "不指[打-丁+(改-己)]鉢食　居士語六群言。",
         "from": "T85n2788_001:0640b21_0",
         "context_with_next_sentence": true
     },
@@ -23715,7 +23715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何故[打丁+(改己)]鉢也。",
+        "source_sentence": "何故[打-丁+(改-己)]鉢也。",
         "from": "T85n2788_001:0640b21_2",
         "context_with_next_sentence": true
     },
@@ -28180,7 +28180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於瓜州城西大法師倚勸化告招提禪□比丘曇遠所",
+        "source_sentence": "於瓜州城西大法師倚勸化告招提禪□比丘曇遠所供養。",
         "from": "T85n2788_001:0644c10_1",
         "context_with_next_sentence": false
     }

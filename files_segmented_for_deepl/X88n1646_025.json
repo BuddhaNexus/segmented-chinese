@@ -1770,8 +1770,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "近來居士頗有這",
+        "source_sentence": "近來居士頗有這般人物否。",
         "from": "X88n1646_025:0229b19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有則叫他到大紳門下來看箭。",
+        "from": "X88n1646_025:0229b20_4",
         "context_with_next_sentence": false
     }
 ]

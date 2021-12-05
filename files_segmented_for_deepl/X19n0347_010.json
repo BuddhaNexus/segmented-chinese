@@ -1575,7 +1575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[怡台+龍]悷不調。",
+        "source_sentence": "[怡-台+龍]悷不調。",
         "from": "X19n0347_010:0570b05_25",
         "context_with_next_sentence": true
     },
@@ -1920,8 +1920,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皆發阿耨多羅三藐三菩提",
+        "source_sentence": "皆發阿耨多羅三藐三菩提心。",
         "from": "X19n0347_010:0570c03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十千菩薩。",
+        "from": "X19n0347_010:0570c04_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得無生法忍。",
+        "from": "X19n0347_010:0570c04_15",
         "context_with_next_sentence": false
     }
 ]

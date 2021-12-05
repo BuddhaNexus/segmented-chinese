@@ -1295,7 +1295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "誹謗重[億音+(天*天)]。",
+        "source_sentence": "誹謗重[億-音+(天*天)]。",
         "from": "X25n0484_001:0182a18_8",
         "context_with_next_sentence": true
     },
@@ -3055,7 +3055,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "林鍾月大士成道日王起隆謹識板貯楞嚴流通 金剛大意自跋此余甲午冬杪草。",
+        "source_sentence": "林鍾月大士成道日王起隆謹識板貯楞嚴流通金剛大意自跋此余甲午冬杪草。",
         "from": "X25n0484_001:0183c13_3",
         "context_with_next_sentence": true
     },
@@ -3085,7 +3085,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "慮犯謗佛重[億音+(天*天)]。",
+        "source_sentence": "慮犯謗佛重[億-音+(天*天)]。",
         "from": "X25n0484_001:0183c24_9",
         "context_with_next_sentence": true
     },
@@ -3732,6 +3732,11 @@
     {
         "source_sentence": "旹",
         "from": "X25n0484_001:0184b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乙未午月朔日東海止庵王起隆自識於深息草堂",
+        "from": "X25n0484_001:0184b18_0",
         "context_with_next_sentence": false
     }
 ]

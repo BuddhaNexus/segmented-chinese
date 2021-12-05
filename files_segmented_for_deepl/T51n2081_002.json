@@ -1080,8 +1080,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以知後人所致",
+        "source_sentence": "以知後人所致也。",
         "from": "T51n2081_002:0787b20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仍故所寫留此本也。",
+        "from": "T51n2081_002:0787b21_7",
         "context_with_next_sentence": false
     }
 ]

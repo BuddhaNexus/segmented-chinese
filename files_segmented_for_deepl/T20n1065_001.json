@@ -1715,7 +1715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "觀我眼中有  字(右左)若欲得天眼者。",
+        "source_sentence": "觀我眼中有字(右左)若欲得天眼者。",
         "from": "T20n1065_001:0122b03_8",
         "context_with_next_sentence": true
     },
@@ -2360,7 +2360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "嗢蘖跢(生)勃馱尾灑[怡台+(盈又+乂)](佛同)娑嚩賀(引)若人求智惠者。",
+        "source_sentence": "嗢蘖跢(生)勃馱尾灑[怡-台+(盈-又+乂)](佛同)娑嚩賀(引)若人求智惠者。",
         "from": "T20n1065_001:0123a24_0",
         "context_with_next_sentence": true
     },
@@ -4422,6 +4422,66 @@
     {
         "source_sentence": "千光眼觀自在菩薩祕密法經",
         "from": "T20n1065_001:0126c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(本批云)右經是傳法阿闍梨等深祕之故。",
+        "from": "T20n1065_001:0126c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不戴於錄也。",
+        "from": "T20n1065_001:0126c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天治二年九月廿四日書寫了。",
+        "from": "T20n1065_001:0126c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於仁和寺皆明寺。",
+        "from": "T20n1065_001:0126c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以栂尾山法鼓臺本書寫之竟。",
+        "from": "T20n1065_001:0126c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天明二年壬寅八月三日　智積輪下　慈忍享和改元辛酉秋八月。",
+        "from": "T20n1065_001:0126c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請求智積慈順僧正御本令寫得。",
+        "from": "T20n1065_001:0126c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當山千手院知了等挍合之。",
+        "from": "T20n1065_001:0126c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予更檢校施訓。",
+        "from": "T20n1065_001:0126c15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以授于剞劂子。",
+        "from": "T20n1065_001:0126c15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此經賴瑜薄草決杲寶私鈔演奧鈔及教舜鈔等引而證。",
+        "from": "T20n1065_001:0126c15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　豐山長谷總持院沙門快道誌一校加筆畢　慈順",
+        "from": "T20n1065_001:0126c17_6",
         "context_with_next_sentence": false
     }
 ]

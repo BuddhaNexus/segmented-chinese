@@ -340,7 +340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[這言+景]慕道義禪師所見之事。",
+        "source_sentence": "[這-言+景]慕道義禪師所見之事。",
         "from": "T52n2120_002:0834a13_12",
         "context_with_next_sentence": true
     },
@@ -2892,6 +2892,11 @@
     {
         "source_sentence": "大辨正廣智三藏和上表制集卷第二",
         "from": "T52n2120_002:0838c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "德治二年(丁未)四月十二日於神護寺成身院以南岳房濟暹僧都所持之本書寫了　猷然(七十四)",
+        "from": "T52n2120_002:0838c24_0",
         "context_with_next_sentence": false
     }
 ]

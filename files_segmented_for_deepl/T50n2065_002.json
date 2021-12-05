@@ -325,7 +325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "新醫[袖由+弇]於舊醫。",
+        "source_sentence": "新醫[袖-由+弇]於舊醫。",
         "from": "T50n2065_002:1020b13_1",
         "context_with_next_sentence": true
     },
@@ -1455,7 +1455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "帚頂。",
+        "source_sentence": "箒頂。",
         "from": "T50n2065_002:1021b01_1",
         "context_with_next_sentence": true
     },
@@ -2315,7 +2315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "宗[這言+((立〦)/木)]幽隱。",
+        "source_sentence": "宗[這-言+((立-〦)/木)]幽隱。",
         "from": "T50n2065_002:1022a06_2",
         "context_with_next_sentence": true
     },

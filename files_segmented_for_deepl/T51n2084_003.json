@@ -130,7 +130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "八牛生白[狂王+宅]。",
+        "source_sentence": "八牛生白[狂-王+宅]。",
         "from": "T51n2084_003:0849a13_12",
         "context_with_next_sentence": true
     },
@@ -5635,7 +5635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[鑊雈+(巨匚)]披而坐。",
+        "source_sentence": "[鑊-雈+(巨-匚)]披而坐。",
         "from": "T51n2084_003:0853c19_4",
         "context_with_next_sentence": true
     },

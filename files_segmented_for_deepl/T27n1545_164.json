@@ -505,7 +505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[熛示+大]頂忍世第一法時。",
+        "source_sentence": "[熛-示+大]頂忍世第一法時。",
         "from": "T27n1545_164:0828a26_24",
         "context_with_next_sentence": true
     },
@@ -4247,6 +4247,11 @@
     {
         "source_sentence": "心力能起者必即起故。",
         "from": "T27n1545_164:0832a23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說一切有部發智大毘婆沙論卷第一百六十四",
+        "from": "T27n1545_164:0832a25_0",
         "context_with_next_sentence": false
     }
 ]

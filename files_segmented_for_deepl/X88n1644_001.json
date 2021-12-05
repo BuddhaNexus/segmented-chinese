@@ -5840,7 +5840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謙下自[(白日+田)/廾]。",
+        "source_sentence": "謙下自[(白-日+田)/廾]。",
         "from": "X88n1644_001:0078c19_23",
         "context_with_next_sentence": true
     },
@@ -8265,7 +8265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[言*(廷壬+旦)]生端正．福德．柔順．眾人愛敬．有相之女(交光曰。",
+        "source_sentence": "[言*(廷-壬+旦)]生端正．福德．柔順．眾人愛敬．有相之女(交光曰。",
         "from": "X88n1644_001:0080a11_2",
         "context_with_next_sentence": true
     },
@@ -13440,7 +13440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "多[口*耶]咃嗚呼膩　摸呼膩　鬬婆膩　躭婆膩　安茶詈　般茶詈　首埤帝　般般茶囉囉婆私膩　哆姪咃　伊梨　寐梨　鞮首梨迦婆梨　佉鞮端耆旃陀梨　摩蹬耆　勒叉勒叉薩婆薩埵　薩婆婆[口*耶]啤娑訶　多茶咃　伽帝伽帝膩伽帝　修留毗修留毗　勒叉勒叉　薩婆薩埵　薩婆婆[口*耶][口*((白日+田)/廾)]　娑訶白佛言。",
+        "source_sentence": "多[口*耶]咃嗚呼膩　摸呼膩　鬬婆膩　躭婆膩　安茶詈　般茶詈　首埤帝　般般茶囉囉婆私膩　哆姪咃　伊梨　寐梨　鞮首梨迦婆梨　佉鞮端耆旃陀梨　摩蹬耆　勒叉勒叉薩婆薩埵　薩婆婆[口*耶]啤娑訶　多茶咃　伽帝伽帝膩伽帝　修留毗修留毗　勒叉勒叉　薩婆薩埵　薩婆婆[口*耶][口*((白-日+田)/廾)]　娑訶白佛言。",
         "from": "X88n1644_001:0083b24_0",
         "context_with_next_sentence": true
     },
@@ -14345,7 +14345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "羈縛不得出離。",
+        "source_sentence": "覊縛不得出離。",
         "from": "X88n1644_001:0084b14_24",
         "context_with_next_sentence": true
     },

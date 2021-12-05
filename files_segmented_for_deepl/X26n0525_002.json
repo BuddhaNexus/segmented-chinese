@@ -4965,7 +4965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此文疑[利禾+垂]。",
+        "source_sentence": "此文疑[利-禾+垂]。",
         "from": "X26n0525_002:0687a16_10",
         "context_with_next_sentence": true
     },
@@ -10430,7 +10430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "臣隸第二。",
+        "source_sentence": "臣隷第二。",
         "from": "X26n0525_002:0692b06_6",
         "context_with_next_sentence": true
     },
@@ -15285,7 +15285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "疏應[(厂@((既旡)日+口))*頁]內身(至)修起於愧。",
+        "source_sentence": "疏應[(厂@((既-旡)-日+口))*頁]內身(至)修起於愧。",
         "from": "X26n0525_002:0696c09_0",
         "context_with_next_sentence": true
     },
@@ -17805,7 +17805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "疏悲心[(厂@((既旡)日+口))*頁]戀(至)此六為內。",
+        "source_sentence": "疏悲心[(厂@((既-旡)-日+口))*頁]戀(至)此六為內。",
         "from": "X26n0525_002:0699a11_0",
         "context_with_next_sentence": true
     },

@@ -1415,7 +1415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "（六〇）昔有一人年少貧苦，行詣他國得一甘果，香美且大世所希有，輒愛惜之不敢[飢几+兌]嘗，心念父母欲以果與，即持果歸還耶離。",
+        "source_sentence": "（六〇）昔有一人年少貧苦，行詣他國得一甘果，香美且大世所希有，輒愛惜之不敢[飢-几+兌]嘗，心念父母欲以果與，即持果歸還耶離。",
         "from": "T04n0206_002:0521b09_0",
         "context_with_next_sentence": true
     },

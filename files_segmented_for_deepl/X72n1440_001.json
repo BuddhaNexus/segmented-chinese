@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 刻支那鼓山為霖禪師還山錄序",
+        "source_sentence": "刻支那鼓山為霖禪師還山錄序",
         "from": "X72n1440_001:0644b06_0",
         "context_with_next_sentence": true
     },
@@ -205,7 +205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "元祿癸酉十月二日宗門一瘞獨菴叟玄光謹題 還山錄序宗門別傳之道貴在得人以傳。",
+        "source_sentence": "元祿癸酉十月二日宗門一瘞獨菴叟玄光謹題還山錄序宗門別傳之道貴在得人以傳。",
         "from": "X72n1440_001:0644c07_0",
         "context_with_next_sentence": true
     },
@@ -7445,8 +7445,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "古今",
+        "source_sentence": "古今常不壞。",
         "from": "X72n1440_001:0652c02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世世作津梁。",
+        "from": "X72n1440_001:0652c03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又卓一卓下座。",
+        "from": "X72n1440_001:0652c03_16",
         "context_with_next_sentence": false
     }
 ]

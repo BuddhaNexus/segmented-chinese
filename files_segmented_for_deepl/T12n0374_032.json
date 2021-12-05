@@ -1480,7 +1480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "菩薩摩訶薩當以苦行自試其心，日食一胡麻，經一七日，粳米、菉豆、麻子、粟[麾毛+黍]及以白豆，亦復如是各一七日。",
+        "source_sentence": "菩薩摩訶薩當以苦行自試其心，日食一胡麻，經一七日，粳米、菉豆、麻子、粟[麾-毛+黍]及以白豆，亦復如是各一七日。",
         "from": "T12n0374_032:0557b14_9",
         "context_with_next_sentence": true
     },
@@ -2230,7 +2230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　世間皆處無明[聲耳+卵]，　　無有智嘴能破之，　如來智嘴能啄壞，　　是故名為最大子。",
+        "source_sentence": "　世間皆處無明[聲-耳+卵]，　　無有智嘴能破之，　如來智嘴能啄壞，　　是故名為最大子。",
         "from": "T12n0374_032:0560a10_0",
         "context_with_next_sentence": true
     },

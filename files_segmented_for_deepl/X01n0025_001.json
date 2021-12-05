@@ -60,7 +60,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即如[病丙+魯]痘。",
+        "source_sentence": "即如[病-丙+魯]痘。",
         "from": "X01n0025_001:0415c09_7",
         "context_with_next_sentence": true
     },
@@ -185,7 +185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爰[企止+了]陰陽。",
+        "source_sentence": "爰[企-止+了]陰陽。",
         "from": "X01n0025_001:0415c14_32",
         "context_with_next_sentence": true
     },
@@ -255,7 +255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遂有[病丙+魯]痘。",
+        "source_sentence": "遂有[病-丙+魯]痘。",
         "from": "X01n0025_001:0415c17_8",
         "context_with_next_sentence": true
     },
@@ -385,7 +385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[病丙+魯]痘存沒。",
+        "source_sentence": "[病-丙+魯]痘存沒。",
         "from": "X01n0025_001:0415c23_34",
         "context_with_next_sentence": true
     },
@@ -410,7 +410,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於[病丙+魯]痘時。",
+        "source_sentence": "於[病-丙+魯]痘時。",
         "from": "X01n0025_001:0415c24_3",
         "context_with_next_sentence": true
     },
@@ -665,7 +665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以致[病丙+魯]亡。",
+        "source_sentence": "以致[病-丙+魯]亡。",
         "from": "X01n0025_001:0416a12_5",
         "context_with_next_sentence": true
     },
@@ -780,7 +780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若有人於兒子[病丙+魯]痘時。",
+        "source_sentence": "若有人於兒子[病-丙+魯]痘時。",
         "from": "X01n0025_001:0416a17_21",
         "context_with_next_sentence": true
     },
@@ -945,8 +945,933 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "南無本師釋迦牟尼佛南無當來彌勒尊南無大慈大悲救苦救難靈感觀世音菩薩摩訶薩南無誓度眾生消灾增壽藥王藥上菩薩摩訶薩唵波羅蜜多唵悉多般怛那佛說化珠保命真經",
+        "source_sentence": "南無本師釋迦牟尼佛南無當來彌勒尊南無大慈大悲救苦救難靈感觀世音菩薩摩訶薩南無誓度眾生消灾增壽藥王藥上菩薩摩訶薩唵波羅蜜多唵悉多般怛那佛說化珠保命真經藥王菩薩化珠保命真經序貴陽龍岡庄地近夷。",
         "from": "X01n0025_001:0416b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "痘患為甚。",
+        "from": "X01n0025_001:0416b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俗兒將痘。",
+        "from": "X01n0025_001:0416b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則出之曠野。",
+        "from": "X01n0025_001:0416b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不死然後持歸。",
+        "from": "X01n0025_001:0416b14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予年過六旬。",
+        "from": "X01n0025_001:0416b14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兒女各一。",
+        "from": "X01n0025_001:0416b14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俱將痘從俗。",
+        "from": "X01n0025_001:0416b14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠置兒于廢廟中。",
+        "from": "X01n0025_001:0416b15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有遊僧。",
+        "from": "X01n0025_001:0416b15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "體貌甚奇。",
+        "from": "X01n0025_001:0416b15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "持一小篋。",
+        "from": "X01n0025_001:0416b15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時出篋中類居草根。",
+        "from": "X01n0025_001:0416b15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嚙曰。",
+        "from": "X01n0025_001:0416b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾自樂此。",
+        "from": "X01n0025_001:0416b16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不飲酒行。",
+        "from": "X01n0025_001:0416b16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若大醉將跌狀。",
+        "from": "X01n0025_001:0416b16_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "呼曰。",
+        "from": "X01n0025_001:0416b17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "急扶我骸。",
+        "from": "X01n0025_001:0416b17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時廟中置兒。",
+        "from": "X01n0025_001:0416b17_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "約十數僧。",
+        "from": "X01n0025_001:0416b17_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遍視之。",
+        "from": "X01n0025_001:0416b17_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "伸兩指按諸兒面痘即應。",
+        "from": "X01n0025_001:0416b18_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "指所按處。",
+        "from": "X01n0025_001:0416b18_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而發餘體。",
+        "from": "X01n0025_001:0416b18_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆無予異之。",
+        "from": "X01n0025_001:0416b18_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲延歸視女。",
+        "from": "X01n0025_001:0416b19_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧曰。",
+        "from": "X01n0025_001:0416b19_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "家向何方。",
+        "from": "X01n0025_001:0416b19_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "指示之僧。",
+        "from": "X01n0025_001:0416b19_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俯首吸泉水。",
+        "from": "X01n0025_001:0416b19_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "登高望所向。",
+        "from": "X01n0025_001:0416b20_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "噀之一方。",
+        "from": "X01n0025_001:0416b20_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "小兒痘皆稀。",
+        "from": "X01n0025_001:0416b20_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如水珠象。",
+        "from": "X01n0025_001:0416b20_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曾無一失。",
+        "from": "X01n0025_001:0416b21_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後莫知所往。",
+        "from": "X01n0025_001:0416b21_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟留一像于廟壁中。",
+        "from": "X01n0025_001:0416b21_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及痘疹復行。",
+        "from": "X01n0025_001:0416b21_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爭抱兒置其所痘。",
+        "from": "X01n0025_001:0416b22_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復多吉時有牧童。",
+        "from": "X01n0025_001:0416b22_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從山中來。",
+        "from": "X01n0025_001:0416b22_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "熟視其像。",
+        "from": "X01n0025_001:0416b23_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "指謂眾曰。",
+        "from": "X01n0025_001:0416b23_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此僧吾方遇之山中醉臥。",
+        "from": "X01n0025_001:0416b23_44",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾不敢近。",
+        "from": "X01n0025_001:0416b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾即隨牧童。",
+        "from": "X01n0025_001:0416b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "追尋無跡。",
+        "from": "X01n0025_001:0416b24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟懸所持篋於石燈上。",
+        "from": "X01n0025_001:0416b24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因發篋而得是經。",
+        "from": "X01n0025_001:0416c01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂祀其像。",
+        "from": "X01n0025_001:0416c01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "持誦此經。",
+        "from": "X01n0025_001:0416c01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自是龍岡始知奉佛而灾疹漸消。",
+        "from": "X01n0025_001:0416c01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得免痘患。",
+        "from": "X01n0025_001:0416c02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予欲廣施此經。",
+        "from": "X01n0025_001:0416c02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以惠十方。",
+        "from": "X01n0025_001:0416c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故備述所自云。",
+        "from": "X01n0025_001:0416c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "弟子刑敬拜書予謫居貴陽。",
+        "from": "X01n0025_001:0416c03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多病寡懽。",
+        "from": "X01n0025_001:0416c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日坐小軒。",
+        "from": "X01n0025_001:0416c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "撿方書及釋典。",
+        "from": "X01n0025_001:0416c07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "始得是經閱之。",
+        "from": "X01n0025_001:0416c07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其妙義奧旨。",
+        "from": "X01n0025_001:0416c08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大與虗無之談異。",
+        "from": "X01n0025_001:0416c08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "實余平生所未經見。",
+        "from": "X01n0025_001:0416c08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "按方書諸病之生。",
+        "from": "X01n0025_001:0416c09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可以審證而治。",
+        "from": "X01n0025_001:0416c09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟[病-丙+魯]痘之種。",
+        "from": "X01n0025_001:0416c09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不見經傳。",
+        "from": "X01n0025_001:0416c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上古未有間。",
+        "from": "X01n0025_001:0416c10_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有附會之說。",
+        "from": "X01n0025_001:0416c10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "終非的證。",
+        "from": "X01n0025_001:0416c10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "治無明驗。",
+        "from": "X01n0025_001:0416c11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此經所言。",
+        "from": "X01n0025_001:0416c11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "甚詳悉可信。",
+        "from": "X01n0025_001:0416c11_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且痘之發也。",
+        "from": "X01n0025_001:0416c11_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必焚香潔淨。",
+        "from": "X01n0025_001:0416c11_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "戒酒。",
+        "from": "X01n0025_001:0416c12_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忌諸惡穢。",
+        "from": "X01n0025_001:0416c12_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其機蓋與神通云細察。",
+        "from": "X01n0025_001:0416c12_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遊僧所吉。",
+        "from": "X01n0025_001:0416c12_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即藥王菩薩現世度厄。",
+        "from": "X01n0025_001:0416c13_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其曰吾自樂此者藥也。",
+        "from": "X01n0025_001:0416c13_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰急扶我骸者急救嬰孩。",
+        "from": "X01n0025_001:0416c14_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "也乃謀之父老。",
+        "from": "X01n0025_001:0416c14_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因其廢廟。",
+        "from": "X01n0025_001:0416c14_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而寺之名。",
+        "from": "X01n0025_001:0416c15_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其懸篋之石。",
+        "from": "X01n0025_001:0416c15_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰佛篋峰寺。",
+        "from": "X01n0025_001:0416c15_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "成二年而大興。",
+        "from": "X01n0025_001:0416c15_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疾病禱者立應。",
+        "from": "X01n0025_001:0416c16_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予既名還携歸。",
+        "from": "X01n0025_001:0416c16_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "重刻此本。",
+        "from": "X01n0025_001:0416c16_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而家藏之。",
+        "from": "X01n0025_001:0416c16_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "并為之序。",
+        "from": "X01n0025_001:0416c17_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正德庚午陽明王守仁識凡持此經。",
+        "from": "X01n0025_001:0416c17_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "切須齋戒。",
+        "from": "X01n0025_001:0416c21_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不殺不淫。",
+        "from": "X01n0025_001:0416c21_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "香燈華水。",
+        "from": "X01n0025_001:0416c21_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或設佛像禮念。",
+        "from": "X01n0025_001:0416c21_44",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或當空拜俑。",
+        "from": "X01n0025_001:0416c22_45",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仍虔具果品。",
+        "from": "X01n0025_001:0416c22_46",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "齋供致祭行。",
+        "from": "X01n0025_001:0416c22_47",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "珠神甚驗。",
+        "from": "X01n0025_001:0416c22_48",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或敦請僧道。",
+        "from": "X01n0025_001:0416c23_49",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "代誦亦可(此貴陽相傳真訣)。",
+        "from": "X01n0025_001:0416c23_50",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬曆己酉孟夏淨土弟子(陳宗濠藍折蔡　炳藍垔)同梓觀世音菩薩稀痘感應墖號志心頂禮　海中湧出普陀山　　觀音菩薩在其間　三竿翠竹為伴侶　　一枝楊柳洒塵凡　鸚鵡銜花來供養　　龍女獻寶百千[舟*犬]　脚蹈紅蓮千朵現　　手持淨水度群生大慈悲救苦難稀痘靈感觀世音菩薩唵阿盧勒繼娑婆訶請福迎祥消灾錫慶(計五千四千八拜)右觀音菩薩稀痘寶墖。",
+        "from": "X01n0025_001:0416c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "素最靈應。",
+        "from": "X01n0025_001:0417a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "己亥年。",
+        "from": "X01n0025_001:0417a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亨仲兒叔脩方三歲。",
+        "from": "X01n0025_001:0417a14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十一月忽發熱。",
+        "from": "X01n0025_001:0417a15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "家人飼以酒。",
+        "from": "X01n0025_001:0417a15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂過熱三日。",
+        "from": "X01n0025_001:0417a15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "痘見面通。",
+        "from": "X01n0025_001:0417a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紅如橘皮。",
+        "from": "X01n0025_001:0417a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "狀見[虎-儿+(了-(丁-一)+(主-土+(乳-孚)))]啼。",
+        "from": "X01n0025_001:0417a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "狂舞不止。",
+        "from": "X01n0025_001:0417a16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "家人惶駭。",
+        "from": "X01n0025_001:0417a16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亨仲亦憂甚。",
+        "from": "X01n0025_001:0417a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無可奈何。",
+        "from": "X01n0025_001:0417a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因憶觀音稀痘之應。",
+        "from": "X01n0025_001:0417a17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃具香燭。",
+        "from": "X01n0025_001:0417a17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牛家頂禮。",
+        "from": "X01n0025_001:0417a18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "始插香于爐心。",
+        "from": "X01n0025_001:0417a18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "默計以為必拜。",
+        "from": "X01n0025_001:0417a18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盡一炷香方起。",
+        "from": "X01n0025_001:0417a18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時兒啼甚。",
+        "from": "X01n0025_001:0417a19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "烝拜未及寸香。",
+        "from": "X01n0025_001:0417a19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兒啼遂止。",
+        "from": "X01n0025_001:0417a19_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仲聞啼止。",
+        "from": "X01n0025_001:0417a19_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未知消息。",
+        "from": "X01n0025_001:0417a20_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "竊計或藉靈應少差。",
+        "from": "X01n0025_001:0417a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "否則事且不測。",
+        "from": "X01n0025_001:0417a20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或毒坆內不能啼。",
+        "from": "X01n0025_001:0417a20_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未可知也。",
+        "from": "X01n0025_001:0417a21_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疑駭不可忍方拜。",
+        "from": "X01n0025_001:0417a21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及寸餘。",
+        "from": "X01n0025_001:0417a21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "香即起燃。",
+        "from": "X01n0025_001:0417a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紙燭照兒面。",
+        "from": "X01n0025_001:0417a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紅點棊布。",
+        "from": "X01n0025_001:0417a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "肉見白地。",
+        "from": "X01n0025_001:0417a22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無復向時通紅之相。",
+        "from": "X01n0025_001:0417a22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兒且穩睡。",
+        "from": "X01n0025_001:0417a23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既而痘痬果保疹安。",
+        "from": "X01n0025_001:0417a23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靈庇非一。",
+        "from": "X01n0025_001:0417a23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當灌漿後。",
+        "from": "X01n0025_001:0417a24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一醫謂宜服人參二錢。",
+        "from": "X01n0025_001:0417a24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仲剪參在手。",
+        "from": "X01n0025_001:0417a24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偶轉身觸撒于地。",
+        "from": "X01n0025_001:0417a24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僮拾少許。",
+        "from": "X01n0025_001:0417b01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因再市參。",
+        "from": "X01n0025_001:0417b01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煎之方熟。",
+        "from": "X01n0025_001:0417b01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又為一僮悞觸火燼。",
+        "from": "X01n0025_001:0417b01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "藥鑵覆地。",
+        "from": "X01n0025_001:0417b02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仲悟遂不服參。",
+        "from": "X01n0025_001:0417b02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後遇一名醫。",
+        "from": "X01n0025_001:0417b02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂曰。",
+        "from": "X01n0025_001:0417b03_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此兒漿後更服參。",
+        "from": "X01n0025_001:0417b03_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "翻助火毒。",
+        "from": "X01n0025_001:0417b03_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未可瘳也。",
+        "from": "X01n0025_001:0417b03_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "姑知觀音默祐之妙。",
+        "from": "X01n0025_001:0417b03_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亨仲深荷洪慈。",
+        "from": "X01n0025_001:0417b04_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫繇酬報。",
+        "from": "X01n0025_001:0417b05_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因書此。",
+        "from": "X01n0025_001:0417b05_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "晉勸流傳。",
+        "from": "X01n0025_001:0417b05_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令保童之家禱之。",
+        "from": "X01n0025_001:0417b05_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必獲靈應云。",
+        "from": "X01n0025_001:0417b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬曆己酉陽月吉旦閩王亨仲熏沐拜梓竺乾之書不經譯而傳於茲土者。",
+        "from": "X01n0025_001:0417b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾於此經始見焉。",
+        "from": "X01n0025_001:0417b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "新建所謂藥王菩薩現世度厄。",
+        "from": "X01n0025_001:0417b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "良有以也。",
+        "from": "X01n0025_001:0417b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "新建於儒可謂傑然者也。",
+        "from": "X01n0025_001:0417b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尊信此經。",
+        "from": "X01n0025_001:0417b13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而刻之序也。",
+        "from": "X01n0025_001:0417b13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則世儒豈可異端而侮之哉。",
+        "from": "X01n0025_001:0417b13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "況於奉佛者耶。",
+        "from": "X01n0025_001:0417b14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予得此經。",
+        "from": "X01n0025_001:0417b14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而什襲珍藏也久矣。",
+        "from": "X01n0025_001:0417b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "藥王菩薩不待請。",
+        "from": "X01n0025_001:0417b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而化現流布。",
+        "from": "X01n0025_001:0417b15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予又憶。",
+        "from": "X01n0025_001:0417b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古曰。",
+        "from": "X01n0025_001:0417b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "君子莫大乎善與人同。",
+        "from": "X01n0025_001:0417b16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故附剞厥氏。",
+        "from": "X01n0025_001:0417b16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令廣其傳云。",
+        "from": "X01n0025_001:0417b17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寬文壬子夏至日　杉室主人連山僧交易書文政五壬午年十二月十二日以稻野千手院靜快法印本書寫功了　　北斗山沙門秀陽(六十四歲)",
+        "from": "X01n0025_001:0417b18_0",
         "context_with_next_sentence": false
     }
 ]

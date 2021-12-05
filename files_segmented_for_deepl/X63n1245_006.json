@@ -85,7 +85,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "各逐尊[(白日+田)/廾])。",
+        "source_sentence": "各逐尊[(白-日+田)/廾])。",
         "from": "X63n1245_006:0537c23_15",
         "context_with_next_sentence": true
     },
@@ -310,7 +310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "答一拜不答拜各逐尊[(白日+田)/廾])。",
+        "source_sentence": "答一拜不答拜各逐尊[(白-日+田)/廾])。",
         "from": "X63n1245_006:0538a15_8",
         "context_with_next_sentence": true
     },
@@ -400,7 +400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "答拜不答拜各逐尊[(白日+田)/廾]也)。",
+        "source_sentence": "答拜不答拜各逐尊[(白-日+田)/廾]也)。",
         "from": "X63n1245_006:0538a21_0",
         "context_with_next_sentence": true
     },

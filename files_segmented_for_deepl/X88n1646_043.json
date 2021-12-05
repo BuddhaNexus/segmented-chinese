@@ -755,8 +755,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "吾今日讀此乃",
+        "source_sentence": "吾今日讀此乃如讀屈子天問。",
         "from": "X88n1646_043:0260c04_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讀莊子天下篇。",
+        "from": "X88n1646_043:0260c05_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讀枚叔七發。",
+        "from": "X88n1646_043:0260c05_11",
         "context_with_next_sentence": false
     }
 ]

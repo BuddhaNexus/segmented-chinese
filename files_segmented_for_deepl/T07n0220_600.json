@@ -1065,8 +1065,43 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "ta怛　dya耶　thā他　oṃ唵　ga伽　te帝ga伽　te帝　pa鉢　ra囉　ga伽　te帝pa鉢　ra囉　saṃ僧　ga伽　te帝　bo菩dhi提　svā薩嚩　hā訶般若佛姆親心呪oṃ唵　pra鉢囉　jñā娘　pra鉢囉　jñā娘ma摩　hā訶　pra鉢囉　jñā娘　svā娑嚩hā訶",
+        "source_sentence": "怛　耶　他　唵　伽　帝",
         "from": "T07n0220_600:1110a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　伽　帝　鉢　囉　伽　帝",
+        "from": "T07n0220_600:1110a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　鉢　囉　僧　伽　帝　菩",
+        "from": "T07n0220_600:1110a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　提　薩嚩　訶",
+        "from": "T07n0220_600:1110a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "般若佛姆親心呪",
+        "from": "T07n0220_600:1110b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唵　鉢囉　娘　鉢囉　娘",
+        "from": "T07n0220_600:1110b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　摩　訶　鉢囉　娘　娑嚩",
+        "from": "T07n0220_600:1110b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　訶",
+        "from": "T07n0220_600:1110b04_0",
         "context_with_next_sentence": false
     }
 ]

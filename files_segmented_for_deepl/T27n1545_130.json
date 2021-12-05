@@ -2785,17 +2785,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "答假如有人於日初分被百鉾[矛*(替曰+貝)]。",
+        "source_sentence": "答假如有人於日初分被百鉾[矛*(替-曰+貝)]。",
         "from": "T27n1545_130:0677c29_1",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "日中分時亦百鉾[矛*(替曰+貝)]。",
+        "source_sentence": "日中分時亦百鉾[矛*(替-曰+貝)]。",
         "from": "T27n1545_130:0678a01_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於日後分亦百鉾[矛*(替曰+貝)]。",
+        "source_sentence": "於日後分亦百鉾[矛*(替-曰+貝)]。",
         "from": "T27n1545_130:0678a02_3",
         "context_with_next_sentence": true
     },
@@ -3697,6 +3697,11 @@
     {
         "source_sentence": "意問能受不能受故。",
         "from": "T27n1545_130:0679a03_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說一切有部發智大毘婆沙論卷第一百三十",
+        "from": "T27n1545_130:0679a04_0",
         "context_with_next_sentence": false
     }
 ]

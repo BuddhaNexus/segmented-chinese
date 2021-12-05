@@ -245,7 +245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "細觀境界頗遠俗[序予+(壟月+日)]。",
+        "source_sentence": "細觀境界頗遠俗[序-予+(壟-月+日)]。",
         "from": "X65n1277_015:0053a24_4",
         "context_with_next_sentence": true
     },
@@ -375,7 +375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "花果剩[栽木+土]而供陳三界。",
+        "source_sentence": "花果剩[栽-木+土]而供陳三界。",
         "from": "X65n1277_015:0053b09_24",
         "context_with_next_sentence": true
     },

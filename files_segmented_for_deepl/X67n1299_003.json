@@ -3145,7 +3145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "區區抱璞兮楚庭[剜夗+(眉目+貝)]士。",
+        "source_sentence": "區區抱璞兮楚庭[剜-夗+(眉-目+貝)]士。",
         "from": "X67n1299_003:0020a07_17",
         "context_with_next_sentence": true
     },
@@ -4800,7 +4800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "X67n1299_003:0021c10_7",
         "context_with_next_sentence": true
     },

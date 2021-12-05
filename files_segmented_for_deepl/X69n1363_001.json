@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 西山和尚語錄序",
+        "source_sentence": "西山和尚語錄序",
         "from": "X69n1363_001:0649b04_0",
         "context_with_next_sentence": true
     },
@@ -1535,7 +1535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "尾巴因甚却[歎欠+否]難。",
+        "source_sentence": "尾巴因甚却[歎-欠+否]難。",
         "from": "X69n1363_001:0650c09_4",
         "context_with_next_sentence": true
     },
@@ -1575,7 +1575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "盧乃擲衣缽於石上云。",
+        "source_sentence": "盧乃擲衣盋於石上云。",
         "from": "X69n1363_001:0650c12_5",
         "context_with_next_sentence": true
     },
@@ -1805,7 +1805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "飢飡一缽和羅飯。",
+        "source_sentence": "飢飡一盋和羅飯。",
         "from": "X69n1363_001:0651a06_4",
         "context_with_next_sentence": true
     },
@@ -2170,7 +2170,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 塔銘",
+        "source_sentence": "塔銘",
         "from": "X69n1363_001:0651b23_0",
         "context_with_next_sentence": true
     },
@@ -2727,6 +2727,16 @@
     {
         "source_sentence": "與道者刀畊火種。",
         "from": "X69n1363_001:0652a16_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫知所終(日本道忠按。",
+        "from": "X69n1363_001:0652a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此西山非嗣遯菴者)。",
+        "from": "X69n1363_001:0652a17_1",
         "context_with_next_sentence": false
     }
 ]

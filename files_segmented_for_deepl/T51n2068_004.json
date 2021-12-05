@@ -720,7 +720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "廼覺脚下如有一物自[敲高+危]。",
+        "source_sentence": "廼覺脚下如有一物自[敲-高+危]。",
         "from": "T51n2068_004:0062c19_0",
         "context_with_next_sentence": true
     },
@@ -2280,7 +2280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "魏泰岳人頭山[衛韋+含]草寺釋志湛十六釋志湛。",
+        "source_sentence": "魏泰岳人頭山[衛-韋+含]草寺釋志湛十六釋志湛。",
         "from": "T51n2068_004:0064a15_0",
         "context_with_next_sentence": true
     },
@@ -2315,7 +2315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "住人頭山邃谷中[衛韋+含]草寺。",
+        "source_sentence": "住人頭山邃谷中[衛-韋+含]草寺。",
         "from": "T51n2068_004:0064a18_7",
         "context_with_next_sentence": true
     },
@@ -2345,7 +2345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "住今[衛韋+含]草寺。",
+        "source_sentence": "住今[衛-韋+含]草寺。",
         "from": "T51n2068_004:0064a21_5",
         "context_with_next_sentence": true
     },

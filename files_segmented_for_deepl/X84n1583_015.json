@@ -1410,7 +1410,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "看茶瓢從地[跳兆+孛]跳。",
+        "source_sentence": "看茶瓢從地[跳-兆+孛]跳。",
         "from": "X84n1583_015:0491c12_9",
         "context_with_next_sentence": true
     },
@@ -1535,7 +1535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "龍樹滿盛缽水。",
+        "source_sentence": "龍樹滿盛盋水。",
         "from": "X84n1583_015:0491c19_9",
         "context_with_next_sentence": true
     },
@@ -1850,7 +1850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "前面是缽盂峰。",
+        "source_sentence": "前面是盋盂峰。",
         "from": "X84n1583_015:0492a12_13",
         "context_with_next_sentence": true
     },
@@ -3250,7 +3250,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "天[跳兆+孛]跳錢。",
+        "source_sentence": "天[跳-兆+孛]跳錢。",
         "from": "X84n1583_015:0493a14_4",
         "context_with_next_sentence": true
     },
@@ -5005,7 +5005,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "九江府廬山圓通約之崇裕禪師毗陵陳氏子。",
+        "source_sentence": "九江府廬山圓通約之崇&#;禪師毗陵陳氏子。",
         "from": "X84n1583_015:0494b14_0",
         "context_with_next_sentence": true
     },
@@ -7330,7 +7330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳撞破汝諸人鼻孔。",
+        "source_sentence": "[跳-兆+孛]跳撞破汝諸人鼻孔。",
         "from": "X84n1583_015:0496b09_92",
         "context_with_next_sentence": true
     },
@@ -7940,7 +7940,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為一新蜀王賜衲衣盂缽。",
+        "source_sentence": "為一新蜀王賜衲衣盂盋。",
         "from": "X84n1583_015:0496c22_3",
         "context_with_next_sentence": true
     },

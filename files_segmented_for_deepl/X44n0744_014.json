@@ -2100,12 +2100,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "與[竺二+冊]同。",
+        "source_sentence": "與笧同。",
         "from": "X44n0744_014:0509b18_11",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "籬[竺二+冊]也。",
+        "source_sentence": "籬笧也。",
         "from": "X44n0744_014:0509b18_12",
         "context_with_next_sentence": true
     },
@@ -4885,7 +4885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "和麴[(薩產+辛)/米]汁。",
+        "source_sentence": "和麴[(薩-產+辛)/米]汁。",
         "from": "X44n0744_014:0511b23_22",
         "context_with_next_sentence": true
     },
@@ -6185,12 +6185,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "俗作[卄/(麩夫+玉)]。",
+        "source_sentence": "俗作[卄/(麩-夫+玉)]。",
         "from": "X44n0744_014:0512b22_5",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[卄/(麩夫+玉)](棫。",
+        "source_sentence": "[卄/(麩-夫+玉)](棫。",
         "from": "X44n0744_014:0512b22_6",
         "context_with_next_sentence": true
     },
@@ -6395,7 +6395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[楒心+廾]柹。",
+        "source_sentence": "[楒-心+廾]柹。",
         "from": "X44n0744_014:0512c08_5",
         "context_with_next_sentence": true
     },
@@ -6640,7 +6640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "俗作麴。",
+        "source_sentence": "俗作麯。",
         "from": "X44n0744_014:0512c20_3",
         "context_with_next_sentence": true
     },
@@ -6700,7 +6700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若噉麴。",
+        "source_sentence": "若噉麯。",
         "from": "X44n0744_014:0512c22_15",
         "context_with_next_sentence": true
     },
@@ -6985,7 +6985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若[簿尃+卑]",
+        "source_sentence": "若[簿-尃+卑]",
         "from": "X44n0744_014:0513a18_0",
         "context_with_next_sentence": true
     },
@@ -7010,7 +7010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[簿尃+卑]。",
+        "source_sentence": "[簿-尃+卑]。",
         "from": "X44n0744_014:0513a19_4",
         "context_with_next_sentence": true
     },
@@ -7030,7 +7030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以水運為[簿尃+卑]。",
+        "source_sentence": "以水運為[簿-尃+卑]。",
         "from": "X44n0744_014:0513a20_0",
         "context_with_next_sentence": true
     },
@@ -7040,7 +7040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "江南名[簿尃+卑](符。",
+        "source_sentence": "江南名[簿-尃+卑](符。",
         "from": "X44n0744_014:0513a20_2",
         "context_with_next_sentence": true
     },
@@ -8537,6 +8537,131 @@
     {
         "source_sentence": "四分律名義標釋卷第十四",
         "from": "X44n0744_014:0514b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_014:0514b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鹻音檢。",
+        "from": "X44n0744_014:0514b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鹵也。",
+        "from": "X44n0744_014:0514b19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "驍音交。",
+        "from": "X44n0744_014:0514b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勇急捷也。",
+        "from": "X44n0744_014:0514b20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樐音鹵。",
+        "from": "X44n0744_014:0514b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殳音殊。",
+        "from": "X44n0744_014:0514b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蘖音業。",
+        "from": "X44n0744_014:0514b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "醇醪上音純。",
+        "from": "X44n0744_014:0514b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音勞。",
+        "from": "X44n0744_014:0514b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邯鄲上音含。",
+        "from": "X44n0744_014:0514c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音單。",
+        "from": "X44n0744_014:0514c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "韓趙國之縣名也。",
+        "from": "X44n0744_014:0514c01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "失收摩羅山此云江猪山。",
+        "from": "X44n0744_014:0514c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　四分律名義標釋卷第十五目錄",
+        "from": "X44n0744_014:0514c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皰疿熱時樹株",
+        "from": "X44n0744_014:0514c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然火掃䴬糜粥",
+        "from": "X44n0744_014:0514c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彷徉衣鉢坐具鍼筒",
+        "from": "X44n0744_014:0514c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "著淨施衣青黑木蘭畜生",
+        "from": "X44n0744_014:0514c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "櫨棟椽不禁漉水",
+        "from": "X44n0744_014:0514c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初禪二禪三禪",
+        "from": "X44n0744_014:0514c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四禪初中後夜麤罪",
+        "from": "X44n0744_014:0514c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "優波離童子四種諍賊伴",
+        "from": "X44n0744_014:0514c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿棃吒止宿言語羯那",
+        "from": "X44n0744_014:0514c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摩睺迦誘將",
+        "from": "X44n0744_014:0514c16_0",
         "context_with_next_sentence": false
     }
 ]

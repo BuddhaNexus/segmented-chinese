@@ -595,7 +595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乃至一[穀禾+牛]牛乳頃者。",
+        "source_sentence": "乃至一[穀-禾+牛]牛乳頃者。",
         "from": "T30n1581_005:0913a18_13",
         "context_with_next_sentence": true
     },
@@ -3505,7 +3505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若復彼人性弊[怡台+龍]悷。",
+        "source_sentence": "若復彼人性弊[怡-台+龍]悷。",
         "from": "T30n1581_005:0916b05_2",
         "context_with_next_sentence": true
     },

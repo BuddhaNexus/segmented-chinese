@@ -2210,7 +2210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "邐迤猶[(白日+田)/廾]眇)。",
+        "source_sentence": "邐迤猶[(白-日+田)/廾]眇)。",
         "from": "X58n1016_001:0569c06_8",
         "context_with_next_sentence": true
     },
@@ -7930,7 +7930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "注華嚴同教一乘策",
+        "source_sentence": "注華嚴同教一乘策卷(終)",
         "from": "X58n1016_001:0573b07_0",
         "context_with_next_sentence": false
     }

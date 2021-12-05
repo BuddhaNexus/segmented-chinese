@@ -425,7 +425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂此以毬或築或拍或[起巳+易]或上或下而戲弄也。",
+        "source_sentence": "謂此以毬或築或拍或[起-巳+易]或上或下而戲弄也。",
         "from": "X38n0691_003:0582a04_0",
         "context_with_next_sentence": true
     },
@@ -4052,6 +4052,16 @@
     {
         "source_sentence": "註梵網經卷下(終)",
         "from": "X38n0691_003:0594b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上以延弘　國祚下以普濟含靈。",
+        "from": "X38n0691_003:0594c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皇明隆慶大歲庚午之夏有一道人慧澄印珠等者欲廣梵網之傳以惠後學募緣鋟梓流布有世烏非深有慕於佛祖之風者其能若是乎後之有志學者覽斯戒經而頓發心華則其教之功德何可勝數哉。",
+        "from": "X38n0691_003:0594c05_0",
         "context_with_next_sentence": false
     }
 ]

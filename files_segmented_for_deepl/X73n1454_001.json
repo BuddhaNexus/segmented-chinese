@@ -925,7 +925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "平地[栽木+土]荊棘。",
+        "source_sentence": "平地[栽-木+土]荊棘。",
         "from": "X73n1454_001:0435a02_6",
         "context_with_next_sentence": true
     },
@@ -2355,7 +2355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[搨日+ㄙ]人左語。",
+        "source_sentence": "[搨-日+ㄙ]人左語。",
         "from": "X73n1454_001:0436a11_3",
         "context_with_next_sentence": true
     },
@@ -6005,7 +6005,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "飯袋子。",
+        "source_sentence": "飰袋子。",
         "from": "X73n1454_001:0438c15_2",
         "context_with_next_sentence": true
     },
@@ -6555,7 +6555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "總未構[泳永+旱]一半。",
+        "source_sentence": "總未構[泳-永+旱]一半。",
         "from": "X73n1454_001:0439a21_8",
         "context_with_next_sentence": true
     },

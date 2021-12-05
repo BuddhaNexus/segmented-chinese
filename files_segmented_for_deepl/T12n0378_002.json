@@ -1060,7 +1060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如須摩提國阿彌陀佛光明，如阿[禾*(凶乂+(乖北+(乂*乂)))]佛世尊，及與香王國所有為上妙。",
+        "source_sentence": "如須摩提國阿彌陀佛光明，如阿[禾*(凶-乂+(乖-北+(乂*乂)))]佛世尊，及與香王國所有為上妙。",
         "from": "T12n0378_002:0925c18_5",
         "context_with_next_sentence": true
     },

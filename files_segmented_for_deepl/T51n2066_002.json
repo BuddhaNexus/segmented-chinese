@@ -1635,7 +1635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+雚]居佛逝矣。",
+        "source_sentence": "[打-丁+雚]居佛逝矣。",
         "from": "T51n2066_002:0008b13_11",
         "context_with_next_sentence": true
     },
@@ -5150,7 +5150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "豈若媲芻狗而行仁。",
+        "source_sentence": "豈若嫓芻狗而行仁。",
         "from": "T51n2066_002:0012a11_30",
         "context_with_next_sentence": true
     },

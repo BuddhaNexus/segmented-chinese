@@ -895,7 +895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "古文作遺。",
+        "source_sentence": "古文作&#;。",
         "from": "X44n0744_013:0500a20_5",
         "context_with_next_sentence": true
     },
@@ -1050,12 +1050,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "本作[(尉小+火)寸+又]。",
+        "source_sentence": "本作[(尉-小+火)-寸+又]。",
         "from": "X44n0744_013:0500b06_7",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "持火所以[(尉小+火)寸+又]繒也(從[尸@二]。",
+        "source_sentence": "持火所以[(尉-小+火)-寸+又]繒也(從[尸@二]。",
         "from": "X44n0744_013:0500b06_8",
         "context_with_next_sentence": true
     },
@@ -8590,7 +8590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "餳也。",
+        "source_sentence": "&#;也。",
         "from": "X44n0744_013:0505c20_24",
         "context_with_next_sentence": true
     },
@@ -10272,6 +10272,686 @@
     {
         "source_sentence": "四分律名義標釋卷第十三",
         "from": "X44n0744_013:0506c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_013:0507a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餽音匱。",
+        "from": "X44n0744_013:0507a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餉也。",
+        "from": "X44n0744_013:0507a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "篙棹上音高。",
+        "from": "X44n0744_013:0507a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行船竿也。",
+        "from": "X44n0744_013:0507a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下巢字去聲。",
+        "from": "X44n0744_013:0507a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "進船檝也。",
+        "from": "X44n0744_013:0507a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "柂馱上聲。",
+        "from": "X44n0744_013:0507a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "船柂。",
+        "from": "X44n0744_013:0507a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "腕剜字去聲。",
+        "from": "X44n0744_013:0507a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手腕。",
+        "from": "X44n0744_013:0507a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "掌後節中也。",
+        "from": "X44n0744_013:0507a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "篆躔字上聲。",
+        "from": "X44n0744_013:0507a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "篆書也。",
+        "from": "X44n0744_013:0507a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "程邈作小篆。",
+        "from": "X44n0744_013:0507a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "史籀作大篆。",
+        "from": "X44n0744_013:0507a07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "秦後旴陽變小篆為隸書。",
+        "from": "X44n0744_013:0507a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古稱隸為真書。",
+        "from": "X44n0744_013:0507a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大唐。",
+        "from": "X44n0744_013:0507a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乾封二年。",
+        "from": "X44n0744_013:0507a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仲春月。",
+        "from": "X44n0744_013:0507a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有一天神。",
+        "from": "X44n0744_013:0507a09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "姓費。",
+        "from": "X44n0744_013:0507a09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "來下禮敬宣律師。",
+        "from": "X44n0744_013:0507a09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "序畢。",
+        "from": "X44n0744_013:0507a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師問曰。",
+        "from": "X44n0744_013:0507a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "益州多寶佛像。",
+        "from": "X44n0744_013:0507a10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既是迦葉佛出世。",
+        "from": "X44n0744_013:0507a10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人壽二萬歲時人造。",
+        "from": "X44n0744_013:0507a10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以作隸書。",
+        "from": "X44n0744_013:0507a11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其隸書。",
+        "from": "X44n0744_013:0507a11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出於亡秦之代。",
+        "from": "X44n0744_013:0507a11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如何迦葉佛時。",
+        "from": "X44n0744_013:0507a12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已有神州書耶。",
+        "from": "X44n0744_013:0507a12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答曰。",
+        "from": "X44n0744_013:0507a12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亡秦李斯隸書。",
+        "from": "X44n0744_013:0507a12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此乃近代遠承隷書之興。",
+        "from": "X44n0744_013:0507a13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "興於古佛之世。",
+        "from": "X44n0744_013:0507a13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見今南洲四面。",
+        "from": "X44n0744_013:0507a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "千有餘洲。",
+        "from": "X44n0744_013:0507a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莊嚴閻浮。",
+        "from": "X44n0744_013:0507a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一方百有餘國。",
+        "from": "X44n0744_013:0507a14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文字言音。",
+        "from": "X44n0744_013:0507a15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同今唐國。",
+        "from": "X44n0744_013:0507a15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但以海路療遠。",
+        "from": "X44n0744_013:0507a15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "動數十萬里。",
+        "from": "X44n0744_013:0507a15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "重譯莫傳。",
+        "from": "X44n0744_013:0507a16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故使此方封守株柱。",
+        "from": "X44n0744_013:0507a16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不足怪也。",
+        "from": "X44n0744_013:0507a16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師不開乎。",
+        "from": "X44n0744_013:0507a16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梁顧野王大學之大傳也。",
+        "from": "X44n0744_013:0507a17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "周訪字源。",
+        "from": "X44n0744_013:0507a17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出沒不定。",
+        "from": "X44n0744_013:0507a17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故玉篇序云。",
+        "from": "X44n0744_013:0507a18_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有開春中君墓。",
+        "from": "X44n0744_013:0507a18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得其銘文。",
+        "from": "X44n0744_013:0507a18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆是隸字。",
+        "from": "X44n0744_013:0507a18_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "檢春申。",
+        "from": "X44n0744_013:0507a19_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是周武六國同時隸文。",
+        "from": "X44n0744_013:0507a19_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則非吞併之日也。",
+        "from": "X44n0744_013:0507a19_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此國篆隸諸書。",
+        "from": "X44n0744_013:0507a20_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尚有茫昧。",
+        "from": "X44n0744_013:0507a20_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寧知迦葉佛時之事。",
+        "from": "X44n0744_013:0507a20_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "史非其耳目之所聞見也。",
+        "from": "X44n0744_013:0507a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又問。",
+        "from": "X44n0744_013:0507a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今西京城西。",
+        "from": "X44n0744_013:0507a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "高四土臺。",
+        "from": "X44n0744_013:0507a21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俗諺云。",
+        "from": "X44n0744_013:0507a22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是蒼頡造書臺。",
+        "from": "X44n0744_013:0507a22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如何云隸書字。",
+        "from": "X44n0744_013:0507a22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古時已有。",
+        "from": "X44n0744_013:0507a22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答云。",
+        "from": "X44n0744_013:0507a23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蒼頡於此臺上。",
+        "from": "X44n0744_013:0507a23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "增土造臺。",
+        "from": "X44n0744_013:0507a23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀鳥迹者。",
+        "from": "X44n0744_013:0507a23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非無其事。",
+        "from": "X44n0744_013:0507a23_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且蒼頡之傳。",
+        "from": "X44n0744_013:0507a24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此土罕知其源。",
+        "from": "X44n0744_013:0507a24_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或云黃帝之臣。",
+        "from": "X44n0744_013:0507a24_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或云古帝王也。",
+        "from": "X44n0744_013:0507b01_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鳥迹之書。",
+        "from": "X44n0744_013:0507b01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時變一途。",
+        "from": "X44n0744_013:0507b01_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今所絕有。",
+        "from": "X44n0744_013:0507b01_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無益之言。",
+        "from": "X44n0744_013:0507b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不勞述也。",
+        "from": "X44n0744_013:0507b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鉅渠字上聲。",
+        "from": "X44n0744_013:0507b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大也。",
+        "from": "X44n0744_013:0507b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "艾音礙。",
+        "from": "X44n0744_013:0507b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "老也。",
+        "from": "X44n0744_013:0507b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又五十日艾。",
+        "from": "X44n0744_013:0507b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言髮之蒼白。",
+        "from": "X44n0744_013:0507b04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如艾色也。",
+        "from": "X44n0744_013:0507b04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "齲音渠上聲。",
+        "from": "X44n0744_013:0507b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "腐也。",
+        "from": "X44n0744_013:0507b06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "潘音番。",
+        "from": "X44n0744_013:0507b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "米汁也。",
+        "from": "X44n0744_013:0507b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "穬音鞏。",
+        "from": "X44n0744_013:0507b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鰕音遐。",
+        "from": "X44n0744_013:0507b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迦鄰提是水鳥。",
+        "from": "X44n0744_013:0507b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "似水鴨而小。",
+        "from": "X44n0744_013:0507b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身圓。",
+        "from": "X44n0744_013:0507b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尾甚短。",
+        "from": "X44n0744_013:0507b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淡沉香色。",
+        "from": "X44n0744_013:0507b10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嶺南河池中有。",
+        "from": "X44n0744_013:0507b11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無羣。",
+        "from": "X44n0744_013:0507b11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多惟三二雙。",
+        "from": "X44n0744_013:0507b11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人近之。",
+        "from": "X44n0744_013:0507b11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即潛入水中。",
+        "from": "X44n0744_013:0507b11_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠數丈而出。",
+        "from": "X44n0744_013:0507b12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俗喚名水精。",
+        "from": "X44n0744_013:0507b12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不識者。",
+        "from": "X44n0744_013:0507b12_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "呼為水鴨。",
+        "from": "X44n0744_013:0507b12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "游止共俱。",
+        "from": "X44n0744_013:0507b13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不相捨離。",
+        "from": "X44n0744_013:0507b13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　四分律名義標釋卷第十四目錄",
+        "from": "X44n0744_013:0507b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受食置地與奢耶尼食",
+        "from": "X44n0744_013:0507b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除水鳥銜美食",
+        "from": "X44n0744_013:0507b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乳酪索食餅黏",
+        "from": "X44n0744_013:0507b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一梵志波私波羅闍與父母",
+        "from": "X44n0744_013:0507b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "甘膳須銚伊尼延陀",
+        "from": "X44n0744_013:0507b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "食家籬柵一處坐",
+        "from": "X44n0744_013:0507b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "結恨夏四月軍陣",
+        "from": "X44n0744_013:0507b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有因緣陣者支陀國",
+        "from": "X44n0744_013:0507c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "娑伽陀辮髮草蓐",
+        "from": "X44n0744_013:0507c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "拘睒彌主玻瓈秔米酒",
+        "from": "X44n0744_013:0507c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "閻浮果舍樓伽果蕤汁",
+        "from": "X44n0744_013:0507c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蒲萄襍作飲酢",
+        "from": "X44n0744_013:0507c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "食麴嬉戲澆灒",
+        "from": "X44n0744_013:0507c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "末利夫人那陵迦婆羅門",
+        "from": "X44n0744_013:0507c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若[簿-尃+卑]浮法掉臂",
+        "from": "X44n0744_013:0507c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "擊攊不從語波羅棃毗國",
+        "from": "X44n0744_013:0507c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "那迦波羅比丘雨衣",
+        "from": "X44n0744_013:0507c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋提桓因拘執貝聲",
+        "from": "X44n0744_013:0507c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "波羅聲根香薩羅樹香",
+        "from": "X44n0744_013:0507c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樹膠香膚香齅香",
+        "from": "X44n0744_013:0507c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若澀",
+        "from": "X44n0744_013:0507c14_0",
         "context_with_next_sentence": false
     }
 ]

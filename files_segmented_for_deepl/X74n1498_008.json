@@ -705,7 +705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[這言+交]逪以盡法界之變化也。",
+        "source_sentence": "[這-言+交]逪以盡法界之變化也。",
         "from": "X74n1498_008:0859c05_1",
         "context_with_next_sentence": true
     },
@@ -3790,7 +3790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "愛根難拔。",
+        "source_sentence": "愛根難㧞。",
         "from": "X74n1498_008:0862a08_57",
         "context_with_next_sentence": true
     },
@@ -4280,7 +4280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔諸異苦。",
+        "source_sentence": "㧞諸異苦。",
         "from": "X74n1498_008:0862b16_0",
         "context_with_next_sentence": true
     },

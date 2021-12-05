@@ -1825,7 +1825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爬搔[病丙+(穩禾)]胗因爾成病。",
+        "source_sentence": "爬搔[病-丙+(穩-禾)]胗因爾成病。",
         "from": "T52n2103_026:0294b05_4",
         "context_with_next_sentence": true
     },
@@ -10195,7 +10195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "墜墮地獄疾於[矛*(替曰+貝)]矛。",
+        "source_sentence": "墜墮地獄疾於[矛*(替-曰+貝)]矛。",
         "from": "T52n2103_026:0303b13_3",
         "context_with_next_sentence": true
     },

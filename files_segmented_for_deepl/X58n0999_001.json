@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 華嚴一乘教義分齊章集成記序",
+        "source_sentence": "華嚴一乘教義分齊章集成記序",
         "from": "X58n0999_001:0397a06_0",
         "context_with_next_sentence": true
     },
@@ -370,7 +370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "事事無[得彳]。",
+        "source_sentence": "事事無[得-彳]。",
         "from": "X58n0999_001:0397b14_6",
         "context_with_next_sentence": true
     },
@@ -16437,6 +16437,31 @@
     {
         "source_sentence": "華嚴一乘教義分齊章集成記卷第一",
         "from": "X58n0999_001:0409b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嘉興府崇德縣邑將仕鄭珙家眷等。",
+        "from": "X58n0999_001:0409b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨錢貳拾貫文。",
+        "from": "X58n0999_001:0409b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "功德保扶。",
+        "from": "X58n0999_001:0409b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身位安康。",
+        "from": "X58n0999_001:0409b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "增延壽筭。",
+        "from": "X58n0999_001:0409b11_4",
         "context_with_next_sentence": false
     }
 ]

@@ -5,8 +5,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 慈雲伯亭大師古希紀(自識實行)庚辰夏。",
+        "source_sentence": "慈雲伯亭大師古希紀(自識實行)",
         "from": "X88n1656_001:0393c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庚辰夏。",
+        "from": "X88n1656_001:0393c12_0",
         "context_with_next_sentence": true
     },
     {
@@ -2260,7 +2265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "裕毓六子。",
+        "source_sentence": "&#;毓六子。",
         "from": "X88n1656_001:0395b12_6",
         "context_with_next_sentence": true
     },
@@ -3125,7 +3130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 浙江天竺山灌頂伯亭大師塔誌銘",
+        "source_sentence": "浙江天竺山灌頂伯亭大師塔誌銘",
         "from": "X88n1656_001:0396a18_0",
         "context_with_next_sentence": true
     },
@@ -6320,7 +6325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 上竺灌頂大師囑法語",
+        "source_sentence": "上竺灌頂大師囑法語",
         "from": "X88n1656_001:0398b22_0",
         "context_with_next_sentence": true
     },
@@ -6530,7 +6535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "廬阜雲棲。",
+        "source_sentence": "廬&#;雲棲。",
         "from": "X88n1656_001:0398c10_0",
         "context_with_next_sentence": true
     },
@@ -6667,6 +6672,11 @@
     {
         "source_sentence": "香几壹張燈臺壹對",
         "from": "X88n1656_001:0399a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "書桌壹張燈臺壹對",
+        "from": "X88n1656_001:0399a15_0",
         "context_with_next_sentence": false
     }
 ]

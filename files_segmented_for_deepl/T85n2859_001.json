@@ -4335,7 +4335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "內外咸知卿宰相排比何銖[日/羽]佛威儀直入寺中。",
+        "source_sentence": "內外咸知卿宰相排比何銖&#;佛威儀直入寺中。",
         "from": "T85n2859_001:1319b13_11",
         "context_with_next_sentence": true
     },
@@ -4852,6 +4852,11 @@
     {
         "source_sentence": "金剛密迹已為□□□。",
         "from": "T85n2859_001:1320a04_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開寶五年張長繼書記",
+        "from": "T85n2859_001:1320a05_0",
         "context_with_next_sentence": false
     }
 ]

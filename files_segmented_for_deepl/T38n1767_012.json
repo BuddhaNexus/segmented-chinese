@@ -855,7 +855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂阿阿伊伊憂憂魯留盧樓咽[黑*(企止+ㄎ)]等。",
+        "source_sentence": "謂阿阿伊伊憂憂魯留盧樓咽[黑*(企-止+ㄎ)]等。",
         "from": "T38n1767_012:0110a05_49",
         "context_with_next_sentence": true
     },
@@ -8810,7 +8810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "盡[(殼一)/牛]一器。",
+        "source_sentence": "盡[(殼-一)/牛]一器。",
         "from": "T38n1767_012:0117b20_4",
         "context_with_next_sentence": true
     },

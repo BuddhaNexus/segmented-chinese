@@ -1840,7 +1840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "管取炤布衲一場懡[怡台+羅]去也。",
+        "source_sentence": "管取炤布衲一場懡[怡-台+羅]去也。",
         "from": "X72n1437_007:0422a05_11",
         "context_with_next_sentence": true
     },
@@ -4945,7 +4945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]一生。",
+        "source_sentence": "[拚-ㄙ+ㄊ]一生。",
         "from": "X72n1437_007:0424c06_2",
         "context_with_next_sentence": true
     },

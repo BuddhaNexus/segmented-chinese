@@ -8590,7 +8590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "糠火[麩夫+戈]火。",
+        "source_sentence": "糠火䴰火。",
         "from": "T48n2016_002:0427b14_26",
         "context_with_next_sentence": true
     },
@@ -9492,6 +9492,11 @@
     {
         "source_sentence": "宗鏡錄卷第二",
         "from": "T48n2016_002:0428a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　丙午歲分司大藏都監開板",
+        "from": "T48n2016_002:0428a13_0",
         "context_with_next_sentence": false
     }
 ]

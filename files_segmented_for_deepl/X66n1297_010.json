@@ -1535,7 +1535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "頓超榜[打丁+羕]。",
+        "source_sentence": "頓超榜[打-丁+羕]。",
         "from": "X66n1297_010:0343a12_5",
         "context_with_next_sentence": true
     },
@@ -1780,7 +1780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "(無準範)天生個[打丁+羕]鐵崑崙。",
+        "source_sentence": "(無準範)天生個[打-丁+羕]鐵崑崙。",
         "from": "X66n1297_010:0343b05_4",
         "context_with_next_sentence": true
     },
@@ -3825,7 +3825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+瓜]著通身癢。",
+        "source_sentence": "[打-丁+瓜]著通身癢。",
         "from": "X66n1297_010:0345b23_36",
         "context_with_next_sentence": true
     },
@@ -4820,7 +4820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　溈山哲云。",
+        "source_sentence": "　溈山喆云。",
         "from": "X66n1297_010:0346c07_2",
         "context_with_next_sentence": true
     },

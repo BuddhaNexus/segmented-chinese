@@ -75,7 +75,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "劫具衣單敷衣[打丁+親]身衣。",
+        "source_sentence": "劫具衣單敷衣[打-丁+親]身衣。",
         "from": "T45n1895_002:0846b24_5",
         "context_with_next_sentence": true
     },
@@ -150,7 +150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其下領袍[示*(專寸+(舄臼))]長袖褊袒祇支加覆苦覆膊增襻胸。",
+        "source_sentence": "其下領袍[示*(專-寸+(舄-臼))]長袖褊袒祇支加覆苦覆膊增襻胸。",
         "from": "T45n1895_002:0846c01_0",
         "context_with_next_sentence": true
     },
@@ -2015,7 +2015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此則文據[怡台+畫]然。",
+        "source_sentence": "此則文據[怡-台+畫]然。",
         "from": "T45n1895_002:0848b22_2",
         "context_with_next_sentence": true
     },
@@ -5785,7 +5785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其例朝霞斑布毾[毯炎+登]之類。",
+        "source_sentence": "其例朝霞斑布毾[毯-炎+登]之類。",
         "from": "T45n1895_002:0852a18_6",
         "context_with_next_sentence": true
     },
@@ -5905,7 +5905,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "前後[媲女+巾][巾*兼]覆幰調度)。",
+        "source_sentence": "前後[媲-女+巾][巾*兼]覆幰調度)。",
         "from": "T45n1895_002:0852a29_1",
         "context_with_next_sentence": true
     },
@@ -6230,7 +6230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又不同錦繡毾[毯炎+登]染則可得如法。",
+        "source_sentence": "又不同錦繡毾[毯-炎+登]染則可得如法。",
         "from": "T45n1895_002:0852c01_9",
         "context_with_next_sentence": true
     },
@@ -6280,7 +6280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三是綿絮絓[糸*(虎儿+几)](謂已離繭[(殼一)/鳥]變成上相者)。",
+        "source_sentence": "三是綿絮絓[糸*(虎-儿+几)](謂已離繭[(殼-一)/鳥]變成上相者)。",
         "from": "T45n1895_002:0852c08_0",
         "context_with_next_sentence": true
     },
@@ -6305,7 +6305,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若蛾蟲自出[(殼一)/鳥]之繭者。",
+        "source_sentence": "若蛾蟲自出[(殼-一)/鳥]之繭者。",
         "from": "T45n1895_002:0852c10_4",
         "context_with_next_sentence": true
     },
@@ -7857,6 +7857,196 @@
     {
         "source_sentence": "量處輕重儀末(終)",
         "from": "T45n1895_002:0854b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "新刻輕重儀後序",
+        "from": "T45n1895_002:0854b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有必然事。",
+        "from": "T45n1895_002:0854b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰之死矣。",
+        "from": "T45n1895_002:0854b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天獨尊。",
+        "from": "T45n1895_002:0854b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "東域眾聖。",
+        "from": "T45n1895_002:0854b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶且預之。",
+        "from": "T45n1895_002:0854b10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "苟預之則其釋迦法中輕重之儀判。",
+        "from": "T45n1895_002:0854b11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是須臾不可離者。",
+        "from": "T45n1895_002:0854b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "繇旃我法惠大師鈔疏明文。",
+        "from": "T45n1895_002:0854b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖勤尚為張沈文伏義。",
+        "from": "T45n1895_002:0854b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或感靈以出之輕重儀。",
+        "from": "T45n1895_002:0854b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖輕重雜揉之中。",
+        "from": "T45n1895_002:0854b14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其文礌礌落落如日月皎然。",
+        "from": "T45n1895_002:0854b14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸家竝珍。",
+        "from": "T45n1895_002:0854b15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三國引領。",
+        "from": "T45n1895_002:0854b15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "良有以矣。",
+        "from": "T45n1895_002:0854b15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而祖宗中微之後此儀韜光也久矣。",
+        "from": "T45n1895_002:0854b15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樂學戒之賓銜茲于此。",
+        "from": "T45n1895_002:0854b16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於戲天不喪此文。",
+        "from": "T45n1895_002:0854b17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與偶於石清水神宮律寺書庫得之。",
+        "from": "T45n1895_002:0854b17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "義雖若無巨害文少缺。",
+        "from": "T45n1895_002:0854b18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可謂危矣。",
+        "from": "T45n1895_002:0854b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "竊惟儀主依命晚住於西明。",
+        "from": "T45n1895_002:0854b19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則後人邂逅律策。",
+        "from": "T45n1895_002:0854b19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "國師興正菩薩依命紹興于宮寺。",
+        "from": "T45n1895_002:0854b20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則今時邂逅此文。",
+        "from": "T45n1895_002:0854b21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斯知聖賢不苟來遊。",
+        "from": "T45n1895_002:0854b21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余又恐祖教時逸有負信大士。",
+        "from": "T45n1895_002:0854b21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "輒寫焉。",
+        "from": "T45n1895_002:0854b22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然魚魯益以網羅。",
+        "from": "T45n1895_002:0854b22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "句讀不無牆壁。",
+        "from": "T45n1895_002:0854b23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斯廼贅倭字于傍。",
+        "from": "T45n1895_002:0854b23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以應剖劂氏請之由耳。",
+        "from": "T45n1895_002:0854b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "冀有必然事之時。",
+        "from": "T45n1895_002:0854b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "判斷立得。",
+        "from": "T45n1895_002:0854b24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "免假人于胡救溺之侮。",
+        "from": "T45n1895_002:0854b25_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貞享五年八月十五日",
+        "from": "T45n1895_002:0854b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "石清水大乘律院小苾芻實長春謹記于摩尼寶珠殿",
+        "from": "T45n1895_002:0854b27_0",
         "context_with_next_sentence": false
     }
 ]

@@ -3350,7 +3350,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無罣無礙。",
+        "source_sentence": "無&#;無礙。",
         "from": "X54n0869_001:0139b06_2",
         "context_with_next_sentence": true
     },
@@ -4030,8 +4030,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "析理精",
+        "source_sentence": "析理精微。",
         "from": "X54n0869_001:0140a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "研覈真偽。",
+        "from": "X54n0869_001:0140a11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所以目之為論也。",
+        "from": "X54n0869_001:0140a11_8",
         "context_with_next_sentence": false
     }
 ]

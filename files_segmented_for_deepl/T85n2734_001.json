@@ -2460,7 +2460,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "吳人初見謂為[女*(犮乂+又)]異。",
+        "source_sentence": "吳人初見謂為[女*(犮-乂+又)]異。",
         "from": "T85n2734_001:0055a24_19",
         "context_with_next_sentence": true
     },
@@ -2975,7 +2975,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "聞[竺二+府]堅已死。",
+        "source_sentence": "聞[竺-二+府]堅已死。",
         "from": "T85n2734_001:0055c06_4",
         "context_with_next_sentence": true
     },
@@ -3125,7 +3125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今在霸縣東南終南山陰是也。",
+        "source_sentence": "今在覇縣東南終南山陰是也。",
         "from": "T85n2734_001:0055c20_3",
         "context_with_next_sentence": true
     },
@@ -13980,8 +13980,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "依外國法逍遙園",
+        "source_sentence": "依外國法逍遙園以火焚之。",
         "from": "T85n2734_001:0066c03_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "薪滅形化為灰。",
+        "from": "T85n2734_001:0066c04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯舌不變耳。",
+        "from": "T85n2734_001:0066c04_13",
         "context_with_next_sentence": false
     }
 ]

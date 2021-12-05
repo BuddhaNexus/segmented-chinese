@@ -3530,7 +3530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[這言+至]百千年。",
+        "source_sentence": "[這-言+至]百千年。",
         "from": "T44n1846_001:0244a07_10",
         "context_with_next_sentence": true
     },
@@ -3870,7 +3870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "極[這言+至]八萬乃至一念。",
+        "source_sentence": "極[這-言+至]八萬乃至一念。",
         "from": "T44n1846_001:0244b05_9",
         "context_with_next_sentence": true
     },
@@ -3980,7 +3980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不[這言+至]萬劫。",
+        "source_sentence": "不[這-言+至]萬劫。",
         "from": "T44n1846_001:0244b13_10",
         "context_with_next_sentence": true
     },

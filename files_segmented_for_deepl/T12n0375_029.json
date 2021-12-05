@@ -390,7 +390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如巧匠鉗鐹盛金，自在隨意[打丁+毛]攪融消；菩薩定、慧亦復如是。",
+        "source_sentence": "譬如巧匠鉗鐹盛金，自在隨意[打-丁+毛]攪融消；菩薩定、慧亦復如是。",
         "from": "T12n0375_029:0794a04_13",
         "context_with_next_sentence": true
     },

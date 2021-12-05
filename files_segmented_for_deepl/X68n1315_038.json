@@ -4560,7 +4560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "把掃帚掃作一堆將火燒。",
+        "source_sentence": "把掃箒掃作一堆將火燒。",
         "from": "X68n1315_038:0248c06_2",
         "context_with_next_sentence": true
     },
@@ -6170,7 +6170,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三脚蝦[螷卑+林]無後脚。",
+        "source_sentence": "三脚蝦[螷-卑+林]無後脚。",
         "from": "X68n1315_038:0249c03_7",
         "context_with_next_sentence": true
     },
@@ -8610,7 +8610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "莫隈隈[阿可+崔][阿可+崔]地。",
+        "source_sentence": "莫隈隈[阿-可+崔][阿-可+崔]地。",
         "from": "X68n1315_038:0251a12_13",
         "context_with_next_sentence": true
     },
@@ -8645,7 +8645,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔却榍。",
+        "source_sentence": "㧞却榍。",
         "from": "X68n1315_038:0251a15_20",
         "context_with_next_sentence": true
     },
@@ -10845,7 +10845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "草鞋[糸*(傘(企止+十)+大)]子斷。",
+        "source_sentence": "草鞋[糸*(傘-(企-止+十)+大)]子斷。",
         "from": "X68n1315_038:0252b02_13",
         "context_with_next_sentence": true
     },
@@ -12245,7 +12245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "幡竿頭上煎[飢几+追]子。",
+        "source_sentence": "幡竿頭上煎[飢-几+追]子。",
         "from": "X68n1315_038:0253b12_2",
         "context_with_next_sentence": true
     },

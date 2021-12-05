@@ -945,7 +945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "名人見[口*(吳人+八)]咲。",
+        "source_sentence": "名人見[口*(吳-人+八)]咲。",
         "from": "T37n1746_001:0117c28_32",
         "context_with_next_sentence": true
     },
@@ -1060,7 +1060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "然外道弟子沙門[侮母+?]咸以徒眾。",
+        "source_sentence": "然外道弟子沙門[侮-母+?]咸以徒眾。",
         "from": "T37n1746_001:0118a09_1",
         "context_with_next_sentence": true
     },
@@ -5455,7 +5455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不畏天地神明日月廣明自隱[仁二+蹇]難化也。",
+        "source_sentence": "不畏天地神明日月廣明自隱[仁-二+蹇]難化也。",
         "from": "T37n1746_001:0124c05_11",
         "context_with_next_sentence": true
     },
@@ -6027,6 +6027,11 @@
     {
         "source_sentence": "旹元祿十四年辛巳歲春末上旬",
         "from": "T37n1746_001:0125b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　武城增上寺前　玉置次郎兵衛久信",
+        "from": "T37n1746_001:0125b22_0",
         "context_with_next_sentence": false
     }
 ]

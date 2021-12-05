@@ -3810,7 +3810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拭以香[(畾/(冗几+互))*毛]。",
+        "source_sentence": "拭以香[(畾/(冗-几+互))*毛]。",
         "from": "X44n0744_032:0648a11_23",
         "context_with_next_sentence": true
     },
@@ -4555,7 +4555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "白[(畾/(冗几+互))*毛]盈牀。",
+        "source_sentence": "白[(畾/(冗-几+互))*毛]盈牀。",
         "from": "X44n0744_032:0648b23_6",
         "context_with_next_sentence": true
     },
@@ -6085,7 +6085,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "既其染已捩水[暻京+恭]乾。",
+        "source_sentence": "既其染已捩水[暻-京+恭]乾。",
         "from": "X44n0744_032:0649c10_25",
         "context_with_next_sentence": true
     },
@@ -7237,6 +7237,41 @@
     {
         "source_sentence": "四分律名義標釋卷第三十二",
         "from": "X44n0744_032:0650c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_032:0650c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "憔悴上音樵下音萃憂患也。",
+        "from": "X44n0744_032:0650c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "暐曄上音委光盛也下音葉光曜也。",
+        "from": "X44n0744_032:0650c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "臛熇郝二音。",
+        "from": "X44n0744_032:0650c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蘗音栢。",
+        "from": "X44n0744_032:0650c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皴音親。",
+        "from": "X44n0744_032:0650c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　四分律名義標釋卷第三十三目錄毗摩那房象形房牀梐縫[穩-禾+糸]作枕舍[少/兔]牀跋磨草蛇蝎衣架蝙蝠燕鳥櫺子橫槩摩醯陀羅像三臘作棬洗脚處水盆須達多親友尸呵城門僑客祇陀決價跋闍國三親友不禮白衣應禮數歲平地不燥小屋棄虱不串井索浴室香泥汲水桔橰廁屋作杷[戀-心+斗]取注水",
+        "from": "X44n0744_032:0650c14_0",
         "context_with_next_sentence": false
     }
 ]

@@ -1705,7 +1705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於是四山各各懡[怡台+羅]而退。",
+        "source_sentence": "於是四山各各懡[怡-台+羅]而退。",
         "from": "X64n1260_034:0255b05_18",
         "context_with_next_sentence": true
     },
@@ -3575,7 +3575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "直得三脚驢[跳兆+孛]跳踏破虗空。",
+        "source_sentence": "直得三脚驢[跳-兆+孛]跳踏破虗空。",
         "from": "X64n1260_034:0257a23_3",
         "context_with_next_sentence": true
     },
@@ -4540,7 +4540,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五色祥麟步天岸。",
+        "source_sentence": "五色祥麐步天岸。",
         "from": "X64n1260_034:0258a19_15",
         "context_with_next_sentence": true
     },

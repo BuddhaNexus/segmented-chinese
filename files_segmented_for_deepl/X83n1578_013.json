@@ -1980,7 +1980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有甚麼饆饠[飢几+追]子。",
+        "source_sentence": "有甚麼饆饠[飢-几+追]子。",
         "from": "X83n1578_013:0541a19_5",
         "context_with_next_sentence": true
     },
@@ -4490,7 +4490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "擊鼓吹[竺二+遂]。",
+        "source_sentence": "擊鼓吹[竺-二+遂]。",
         "from": "X83n1578_013:0543a19_10",
         "context_with_next_sentence": true
     },
@@ -9430,7 +9430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[○@(俬禾)]此為已成寶器相。",
+        "source_sentence": "[○@(俬-禾)]此為已成寶器相。",
         "from": "X83n1578_013:0547a08_8",
         "context_with_next_sentence": true
     },
@@ -11780,7 +11780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "要且出他圈[袖由+貴]不得。",
+        "source_sentence": "要且出他圈[袖-由+貴]不得。",
         "from": "X83n1578_013:0549a08_9",
         "context_with_next_sentence": true
     },
@@ -12220,8 +12220,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "指月錄卷之",
+        "source_sentence": "指月錄卷之十三",
         "from": "X83n1578_013:0549b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋　卷十之十三",
+        "from": "X83n1578_013:0549b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嫗(依據切於去聲老婦之稱)　摑(古伯切音國批打也)　揑(乃結切音涅握捺也)　劑(音櫅)　拷(苦浩切音考打也)　顆(苦果切科上聲)　扈(侯古切胡上聲後從田扈)　[打-丁+毛](莫報切音帽撼也)　鏃(在線切音賤轉軸)　欏(音羅)　槅(古覈切音革大車杌也)　彴(職略切音酌橫木渡水曰彴)　墼(古歷切音吉未燒塼坯切)　筴(古協切音刦筯也又筴舉也)　賑(止忍切音軫富也又舉救也)　賉(息入切音悉)　敻(呼眩切音絢營求也又與迥同)　[木*突](待骨切音突植也又傳也)　[邱-丘+益](於戟切音益)　謇(與謇同九輦切難也口吃也止言也)　媾(居侯切音垢和也)　峭(七肖切音俏山峻也)　峙(丈几切池上聲峻峙山矻立也)　舀(音遙上聲)",
+        "from": "X83n1578_013:0549b09_0",
         "context_with_next_sentence": false
     }
 ]

@@ -1130,7 +1130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "百草頭邊亂[跳兆+孛]跳。",
+        "source_sentence": "百草頭邊亂[跳-兆+孛]跳。",
         "from": "X67n1308_004:0538b24_6",
         "context_with_next_sentence": true
     },
@@ -1820,7 +1820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "顧欠[口*(((止/少)*頁)/((白日+田)/廾))]呻力盡施。",
+        "source_sentence": "顧欠[口*(((止/少)*頁)/((白-日+田)/廾))]呻力盡施。",
         "from": "X67n1308_004:0539a18_2",
         "context_with_next_sentence": true
     },
@@ -2340,7 +2340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "總是懡[怡台+羅]。",
+        "source_sentence": "總是懡[怡-台+羅]。",
         "from": "X67n1308_004:0539c02_26",
         "context_with_next_sentence": true
     },
@@ -2880,7 +2880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鑊湯[跳兆+孛]跳上刀山。",
+        "source_sentence": "鑊湯[跳-兆+孛]跳上刀山。",
         "from": "X67n1308_004:0540a12_1",
         "context_with_next_sentence": true
     },
@@ -2915,7 +2915,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "喝石巖[跳兆+孛]跳。",
+        "source_sentence": "喝石巖[跳-兆+孛]跳。",
         "from": "X67n1308_004:0540a14_3",
         "context_with_next_sentence": true
     },
@@ -6870,7 +6870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[髟/(鹽鹵+(必心))]鬖一醉罄壺觴。",
+        "source_sentence": "䰐鬖一醉罄壺觴。",
         "from": "X67n1308_004:0543b07_1",
         "context_with_next_sentence": true
     },
@@ -7230,7 +7230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無依[雝/王]頌曰。",
+        "source_sentence": "無依&#;頌曰。",
         "from": "X67n1308_004:0543c06_0",
         "context_with_next_sentence": true
     },
@@ -8405,7 +8405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "惹得時人添話杷。",
+        "source_sentence": "惹得時人添話&#;。",
         "from": "X67n1308_004:0544b20_0",
         "context_with_next_sentence": true
     },
@@ -8590,7 +8590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+瓜]著靈峰痒處。",
+        "source_sentence": "[打-丁+瓜]著靈峰痒處。",
         "from": "X67n1308_004:0544c06_14",
         "context_with_next_sentence": true
     },

@@ -490,7 +490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "比丘[病丙+又]手。",
+        "source_sentence": "比丘[病-丙+又]手。",
         "from": "X44n0744_036:0674b03_26",
         "context_with_next_sentence": true
     },
@@ -555,7 +555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[病丙+又]。",
+        "source_sentence": "[病-丙+又]。",
         "from": "X44n0744_036:0674b06_7",
         "context_with_next_sentence": true
     },
@@ -1685,7 +1685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "牙疼齒[怡台+(糒米)](音敗)。",
+        "source_sentence": "牙疼齒[怡-台+(糒-米)](音敗)。",
         "from": "X44n0744_036:0675a20_7",
         "context_with_next_sentence": true
     },
@@ -3470,7 +3470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "形如掃帚。",
+        "source_sentence": "形如掃箒。",
         "from": "X44n0744_036:0676b12_3",
         "context_with_next_sentence": true
     },
@@ -4895,7 +4895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寄筌[(ㄇ@(企止))/弟]於貝葉。",
+        "source_sentence": "寄筌罤於貝葉。",
         "from": "X44n0744_036:0677b13_20",
         "context_with_next_sentence": true
     },
@@ -7972,6 +7972,91 @@
     {
         "source_sentence": "四分律名義標釋卷第三十六",
         "from": "X44n0744_036:0679b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_036:0679c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "詃音捲。",
+        "from": "X44n0744_036:0679c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誘也。",
+        "from": "X44n0744_036:0679c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "筌罤上音詮。",
+        "from": "X44n0744_036:0679c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捕魚苟。",
+        "from": "X44n0744_036:0679c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音蹄。",
+        "from": "X44n0744_036:0679c04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捕兔網也。",
+        "from": "X44n0744_036:0679c04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂得魚忘筌。",
+        "from": "X44n0744_036:0679c04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得兔忘罤也。",
+        "from": "X44n0744_036:0679c05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慘音參上聲。",
+        "from": "X44n0744_036:0679c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "痛也。",
+        "from": "X44n0744_036:0679c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愁也。",
+        "from": "X44n0744_036:0679c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觚音孤。",
+        "from": "X44n0744_036:0679c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "虹音洪。",
+        "from": "X44n0744_036:0679c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "涸音確。",
+        "from": "X44n0744_036:0679c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "水盡也。",
+        "from": "X44n0744_036:0679c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　四分律名義標釋卷第三十七目錄舍利木槨波婆曼陀羅華摩訶羅醯蘭若河天冠寺自然俹臥往王舍城陀醯羅迦葉長阿含中阿含增一阿含雜阿含雜藏阿毗曇藏三藏富羅那百歲十事耶舍伽那子離婆多婆呵河伽那慰闍國阿伽樓羅國僧伽賖國阿呼恒河山三浮陀波羅離子波夷那波梨婆搜村一切去蘇曼那沙留不闍蘇摩阿夷頭婆梨林",
+        "from": "X44n0744_036:0679c13_0",
         "context_with_next_sentence": false
     }
 ]

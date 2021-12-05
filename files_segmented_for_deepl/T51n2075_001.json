@@ -555,7 +555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "見火化為恢燼。",
+        "source_sentence": "見火化為烣燼。",
         "from": "T51n2075_001:0179b08_5",
         "context_with_next_sentence": true
     },
@@ -800,7 +800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又五百釋種五百白馬乾陟車[這言+匿]等。",
+        "source_sentence": "又五百釋種五百白馬乾陟車[這-言+匿]等。",
         "from": "T51n2075_001:0179b28_5",
         "context_with_next_sentence": true
     },
@@ -2185,7 +2185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如稻麻竹[竺二+韋]。",
+        "source_sentence": "如稻麻竹[竺-二+韋]。",
         "from": "T51n2075_001:0180c25_44",
         "context_with_next_sentence": true
     },
@@ -4060,7 +4060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "汝新州是[狂王+巢]獠。",
+        "source_sentence": "汝新州是[狂-王+巢]獠。",
         "from": "T51n2075_001:0182b09_13",
         "context_with_next_sentence": true
     },
@@ -12495,7 +12495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無有一人[袖由+工]對得者。",
+        "source_sentence": "無有一人[袖-由+工]對得者。",
         "from": "T51n2075_001:0189b17_19",
         "context_with_next_sentence": true
     },
@@ -12990,7 +12990,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若有所須專差衙前虞侯[袖由+工]承和上。",
+        "source_sentence": "若有所須專差衙前虞侯[袖-由+工]承和上。",
         "from": "T51n2075_001:0189c22_36",
         "context_with_next_sentence": true
     },
@@ -13725,7 +13725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "弟子當日恐和上久在山門畏[袖由+工]。",
+        "source_sentence": "弟子當日恐和上久在山門畏[袖-由+工]。",
         "from": "T51n2075_001:0190b10_11",
         "context_with_next_sentence": true
     },
@@ -13735,7 +13735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三川師僧無有一人[袖由+工]對相公意者。",
+        "source_sentence": "三川師僧無有一人[袖-由+工]對相公意者。",
         "from": "T51n2075_001:0190b12_0",
         "context_with_next_sentence": true
     },
@@ -16835,7 +16835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "高[袖由+工]木枕到曉。",
+        "source_sentence": "高[袖-由+工]木枕到曉。",
         "from": "T51n2075_001:0192c01_7",
         "context_with_next_sentence": true
     },
@@ -20185,7 +20185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "只解渾喫[飢几+追]子。",
+        "source_sentence": "只解渾喫[飢-几+追]子。",
         "from": "T51n2075_001:0194c27_10",
         "context_with_next_sentence": true
     },
@@ -20510,7 +20510,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "永淳年不喫泥[飢几+專]飩。",
+        "source_sentence": "永淳年不喫泥[飢-几+專]飩。",
         "from": "T51n2075_001:0195a17_11",
         "context_with_next_sentence": true
     },

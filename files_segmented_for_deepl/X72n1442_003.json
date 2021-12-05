@@ -7125,7 +7125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "幼入緇門禮智光師落[髟/(棸耳+?)]。",
+        "source_sentence": "幼入緇門禮智光師落[髟/(棸-耳+?)]。",
         "from": "X72n1442_003:0702c03_4",
         "context_with_next_sentence": true
     },
@@ -7575,7 +7575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "非以其形勝之秀拔也。",
+        "source_sentence": "非以其形勝之秀㧞也。",
         "from": "X72n1442_003:0703a18_1",
         "context_with_next_sentence": true
     },
@@ -9235,7 +9235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "竟未",
+        "source_sentence": "竟未竟之大事云爾。",
         "from": "X72n1442_003:0705a02_12",
         "context_with_next_sentence": false
     }

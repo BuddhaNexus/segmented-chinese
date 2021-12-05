@@ -620,7 +620,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寡妻孤兒跉[跳兆+屏]可念。",
+        "source_sentence": "寡妻孤兒跉[跳-兆+屏]可念。",
         "from": "X88n1646_047:0272c19_12",
         "context_with_next_sentence": true
     },
@@ -1535,7 +1535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "墜[蹗比+(人*人)]實不僵。",
+        "source_sentence": "墜[蹗-比+(人*人)]實不僵。",
         "from": "X88n1646_047:0273c02_19",
         "context_with_next_sentence": true
     },
@@ -3035,8 +3035,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若逢魔外非",
+        "source_sentence": "若逢魔外非毀。",
         "from": "X88n1646_047:0274c18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我當飛起落其牙齒不令成語。",
+        "from": "X88n1646_047:0274c19_8",
         "context_with_next_sentence": false
     }
 ]

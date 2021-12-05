@@ -11735,7 +11735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拒惡名[(厂@((既旡)日+口))*頁]他義。",
+        "source_sentence": "拒惡名[(厂@((既-旡)-日+口))*頁]他義。",
         "from": "X50n0818_004:0086a19_15",
         "context_with_next_sentence": true
     },
@@ -13445,7 +13445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "初三如次過慢慢[(白日+田)/廾]慢。",
+        "source_sentence": "初三如次過慢慢[(白-日+田)/廾]慢。",
         "from": "X50n0818_004:0087b21_22",
         "context_with_next_sentence": true
     },
@@ -13455,7 +13455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "後三即慢過[(白日+田)/廾]慢。",
+        "source_sentence": "後三即慢過[(白-日+田)/廾]慢。",
         "from": "X50n0818_004:0087b21_24",
         "context_with_next_sentence": true
     },

@@ -570,7 +570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則一場懡[怡台+羅]固負。",
+        "source_sentence": "則一場懡[怡-台+羅]固負。",
         "from": "X68n1319_016:0644c13_3",
         "context_with_next_sentence": true
     },
@@ -2445,7 +2445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "喫飯從頭[打丁+聿]。",
+        "source_sentence": "喫飯從頭[打-丁+聿]。",
         "from": "X68n1319_016:0646b02_5",
         "context_with_next_sentence": true
     },
@@ -9295,7 +9295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四方學者麇至。",
+        "source_sentence": "四方學者麏至。",
         "from": "X68n1319_016:0651a11_20",
         "context_with_next_sentence": true
     },
@@ -21710,7 +21710,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "後以智拔。",
+        "source_sentence": "後以智㧞。",
         "from": "X68n1319_016:0659c11_12",
         "context_with_next_sentence": true
     },
@@ -33930,7 +33930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蝦蟆[跳兆+孛]跳上天。",
+        "source_sentence": "蝦蟆[跳-兆+孛]跳上天。",
         "from": "X68n1319_016:0668a16_12",
         "context_with_next_sentence": true
     },
@@ -37002,6 +37002,11 @@
     {
         "source_sentence": "　公曰。",
         "from": "X68n1319_016:0670b09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "這漢徹也。",
+        "from": "X68n1319_016:0670b10_0",
         "context_with_next_sentence": false
     }
 ]

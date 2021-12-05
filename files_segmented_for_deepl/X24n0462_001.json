@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 金剛般若經會解序",
+        "source_sentence": "金剛般若經會解序",
         "from": "X24n0462_001:0565c08_0",
         "context_with_next_sentence": true
     },
@@ -10475,7 +10475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "華梵[牙(必心)+?]見爾。",
+        "source_sentence": "華梵[牙-(必-心)+?]見爾。",
         "from": "X24n0462_001:0576c01_3",
         "context_with_next_sentence": true
     },
@@ -13890,7 +13890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以其所顯則持經為[宋木+取]。",
+        "source_sentence": "以其所顯則持經為[宋-木+取]。",
         "from": "X24n0462_001:0580b14_2",
         "context_with_next_sentence": true
     },
@@ -14580,8 +14580,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而曰非",
+        "source_sentence": "而曰非第一波羅蜜者。",
         "from": "X24n0462_001:0581a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦上兼亡自性之謂也。",
+        "from": "X24n0462_001:0581a21_6",
         "context_with_next_sentence": false
     }
 ]

@@ -1120,7 +1120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "登岳歷高[堽正+止]動見百丈谷。",
+        "source_sentence": "登岳歷高[堽-正+止]動見百丈谷。",
         "from": "T54n2139_010:1268b18_1",
         "context_with_next_sentence": true
     },
@@ -2285,7 +2285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "生在東方身青[葸十+夕]。",
+        "source_sentence": "生在東方身青[葸-十+夕]。",
         "from": "T54n2139_010:1269b11_1",
         "context_with_next_sentence": true
     },
@@ -3040,7 +3040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "死為尸陀餧應鸇。",
+        "source_sentence": "死為尸陀餧譍鸇。",
         "from": "T54n2139_010:1270a19_0",
         "context_with_next_sentence": true
     },
@@ -3307,6 +3307,11 @@
     {
         "source_sentence": "老子化胡經卷第十",
         "from": "T54n2139_010:1270b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(淨土寺藏經)",
+        "from": "T54n2139_010:1270b16_0",
         "context_with_next_sentence": false
     }
 ]

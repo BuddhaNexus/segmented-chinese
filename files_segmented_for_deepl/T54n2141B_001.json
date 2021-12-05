@@ -295,7 +295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即令路[仁二+易]及業羅決以像淨風及善母等。",
+        "source_sentence": "即令路[仁-二+易]及業羅決以像淨風及善母等。",
         "from": "T54n2141B_001:1281b17_25",
         "context_with_next_sentence": true
     },
@@ -4020,7 +4020,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一一孳[逽右+(衣〦)]無量光明。",
+        "source_sentence": "一一孳[逽-右+(衣-〦)]無量光明。",
         "from": "T54n2141B_001:1284b13_13",
         "context_with_next_sentence": true
     },
@@ -4600,7 +4600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三者但學已宗清淨缶法。",
+        "source_sentence": "三者但學已宗清淨&#;法。",
         "from": "T54n2141B_001:1284c28_17",
         "context_with_next_sentence": true
     },
@@ -6085,8 +6085,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "聞是",
+        "source_sentence": "聞是經已。",
         "from": "T54n2141B_001:1286a27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如法信受。",
+        "from": "T54n2141B_001:1286a28_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歡喜奉行。",
+        "from": "T54n2141B_001:1286a28_10",
         "context_with_next_sentence": false
     }
 ]

@@ -2105,7 +2105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時有一人身著毛[毯炎+旁]。",
+        "source_sentence": "時有一人身著毛[毯-炎+旁]。",
         "from": "T21n1341_010:0800b28_2",
         "context_with_next_sentence": true
     },
@@ -2740,7 +2740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唯有黑毛[毯炎+旁]衣也。",
+        "source_sentence": "唯有黑毛[毯-炎+旁]衣也。",
         "from": "T21n1341_010:0801a26_32",
         "context_with_next_sentence": true
     },

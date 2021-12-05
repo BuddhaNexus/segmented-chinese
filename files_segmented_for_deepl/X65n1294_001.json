@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 敘溈山警策",
+        "source_sentence": "敘溈山警策",
         "from": "X65n1294_001:0468b06_0",
         "context_with_next_sentence": true
     },
@@ -140,7 +140,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "瞢[夢夕+登]闇鈍。",
+        "source_sentence": "瞢[夢-夕+登]闇鈍。",
         "from": "X65n1294_001:0468b14_27",
         "context_with_next_sentence": true
     },
@@ -2965,7 +2965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不覺[(龍月+日)/足]踵老朽。",
+        "source_sentence": "不覺[(龍-月+日)/足]踵老朽。",
         "from": "X65n1294_001:0470c21_5",
         "context_with_next_sentence": true
     },
@@ -3015,7 +3015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "似乎衰竹下垂[(龍月+日)/足]踵之狀。",
+        "source_sentence": "似乎衰竹下垂[(龍-月+日)/足]踵之狀。",
         "from": "X65n1294_001:0470c24_8",
         "context_with_next_sentence": true
     },
@@ -7005,7 +7005,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "溈山大圓禪師警策",
+        "source_sentence": "溈山大圓禪師警策(終)",
         "from": "X65n1294_001:0474a23_0",
         "context_with_next_sentence": false
     }

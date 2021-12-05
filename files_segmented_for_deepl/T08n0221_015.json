@@ -2210,7 +2210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛告須菩提：「菩薩摩訶薩戒身口意，以戒不[打丁+此]羅漢、辟支佛地。",
+        "source_sentence": "佛告須菩提：「菩薩摩訶薩戒身口意，以戒不[打-丁+此]羅漢、辟支佛地。",
         "from": "T08n0221_015:0107a07_25",
         "context_with_next_sentence": true
     },
@@ -2880,7 +2880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "持是戒意，不[打丁+此]諸法，亦不[打丁+此]二地，何況其餘？",
+        "source_sentence": "持是戒意，不[打-丁+此]諸法，亦不[打-丁+此]二地，何況其餘？",
         "from": "T08n0221_015:0108c02_2",
         "context_with_next_sentence": true
     },

@@ -5010,7 +5010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "直知檐外事豈憶[袖由+害]來迎。",
+        "source_sentence": "直知檐外事豈憶[袖-由+害]來迎。",
         "from": "T85n2737_001:0123b19_0",
         "context_with_next_sentence": true
     },
@@ -12505,7 +12505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無勞廣",
+        "source_sentence": "無勞廣說。",
         "from": "T85n2737_001:0129a27_35",
         "context_with_next_sentence": false
     }

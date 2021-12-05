@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 金剛經感應故事分類輯要序",
+        "source_sentence": "金剛經感應故事分類輯要序",
         "from": "X87n1636_001:0554c06_0",
         "context_with_next_sentence": true
     },
@@ -180,7 +180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]其應亦有淺深小大之不同。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]其應亦有淺深小大之不同。",
         "from": "X87n1636_001:0554c17_35",
         "context_with_next_sentence": true
     },
@@ -8335,8 +8335,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "盖參禪固能頓",
+        "source_sentence": "盖參禪固能頓悟真空。",
         "from": "X87n1636_001:0560c16_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "立地成佛。",
+        "from": "X87n1636_001:0560c17_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而修淨。",
+        "from": "X87n1636_001:0560c17_23",
         "context_with_next_sentence": false
     }
 ]

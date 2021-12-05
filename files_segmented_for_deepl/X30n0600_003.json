@@ -3790,7 +3790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "八伊泥延鹿[跳兆+專]纖好。",
+        "source_sentence": "八伊泥延鹿[跳-兆+專]纖好。",
         "from": "X30n0600_003:0073b08_25",
         "context_with_next_sentence": true
     },
@@ -17385,7 +17385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "重敷[紵丁+死]綖。",
+        "source_sentence": "重敷[紵-丁+死]綖。",
         "from": "X30n0600_003:0084c15_5",
         "context_with_next_sentence": true
     },
@@ -17580,7 +17580,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "重敷[紵丁+死]綖者。",
+        "source_sentence": "重敷[紵-丁+死]綖者。",
         "from": "X30n0600_003:0085a03_1",
         "context_with_next_sentence": true
     },

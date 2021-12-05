@@ -2005,7 +2005,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眉毛[病丙+斯]結。",
+        "source_sentence": "眉毛[病-丙+斯]結。",
         "from": "X70n1386_001:0318c21_2",
         "context_with_next_sentence": true
     },
@@ -2290,12 +2290,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "窮[病丙+斯]煎。",
+        "source_sentence": "窮[病-丙+斯]煎。",
         "from": "X70n1386_001:0319a13_1",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "餓[病丙+斯]吵。",
+        "source_sentence": "餓[病-丙+斯]吵。",
         "from": "X70n1386_001:0319a13_2",
         "context_with_next_sentence": true
     },
@@ -8600,7 +8600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若無舉鼎拔山力。",
+        "source_sentence": "若無舉鼎㧞山力。",
         "from": "X70n1386_001:0324a07_12",
         "context_with_next_sentence": true
     },
@@ -11100,7 +11100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "教他一場懡[怡台+羅]。",
+        "source_sentence": "教他一場懡[怡-台+羅]。",
         "from": "X70n1386_001:0325c24_3",
         "context_with_next_sentence": true
     },

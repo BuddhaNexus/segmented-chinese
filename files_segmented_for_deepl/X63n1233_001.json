@@ -570,7 +570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 跋刻芙蓉楷祖法語",
+        "source_sentence": "跋刻芙蓉楷祖法語",
         "from": "X63n1233_001:0167b03_0",
         "context_with_next_sentence": true
     },
@@ -642,6 +642,11 @@
     {
         "source_sentence": "寬政壬子春二月",
         "from": "X63n1233_001:0167b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠孫空花庵老比丘玄透　即中薰沐謹書",
+        "from": "X63n1233_001:0167b13_0",
         "context_with_next_sentence": false
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 續夢始末",
+        "source_sentence": "續夢始末",
         "from": "X16n0308_001:0012a03_0",
         "context_with_next_sentence": true
     },
@@ -195,7 +195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "舊名麻家庵。",
+        "source_sentence": "舊名蔴家庵。",
         "from": "X16n0308_001:0012a19_5",
         "context_with_next_sentence": true
     },
@@ -9110,7 +9110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "在[聲耳+卵]發聲。",
+        "source_sentence": "在[聲-耳+卵]發聲。",
         "from": "X16n0308_001:0019c02_2",
         "context_with_next_sentence": true
     },
@@ -37790,8 +37790,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故取",
+        "source_sentence": "故取拳例見。",
         "from": "X16n0308_001:0043b15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "引起正辯義也)二。",
+        "from": "X16n0308_001:0043b16_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "$(\"#_\").(\"-\",\"%\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\".\");$(\".\").(\"-\",\".\");$(\".\").(\"-\",\".\");$(\".\").(\"\",\"\");網路分享：",
+        "from": "X16n0308_001:0043b16_20",
         "context_with_next_sentence": false
     }
 ]

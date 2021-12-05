@@ -1470,7 +1470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[款士+止]待優渥。",
+        "source_sentence": "[款-士+止]待優渥。",
         "from": "X88n1655_001:0393b06_20",
         "context_with_next_sentence": true
     },
@@ -1612,6 +1612,11 @@
     {
         "source_sentence": "寶永五年歲在徒維困敦冬至後三日",
         "from": "X88n1655_001:0393b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "江左安養蘭若苾芻湛堂淑槃譚識",
+        "from": "X88n1655_001:0393b20_0",
         "context_with_next_sentence": false
     }
 ]

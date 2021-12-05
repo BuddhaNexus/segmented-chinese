@@ -7245,7 +7245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "日[暻京+恭]令乾。",
+        "source_sentence": "日[暻-京+恭]令乾。",
         "from": "X40n0717_004:0227a20_24",
         "context_with_next_sentence": true
     },
@@ -7295,7 +7295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "方曬[暻京+恭]之。",
+        "source_sentence": "方曬[暻-京+恭]之。",
         "from": "X40n0717_004:0227a22_0",
         "context_with_next_sentence": true
     },
@@ -7355,7 +7355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "新衣應用新樹皮汁日中[暻京+恭]之。",
+        "source_sentence": "新衣應用新樹皮汁日中[暻-京+恭]之。",
         "from": "X40n0717_004:0227a23_2",
         "context_with_next_sentence": true
     },
@@ -12060,7 +12060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "看彼[暻京+恭]繭。",
+        "source_sentence": "看彼[暻-京+恭]繭。",
         "from": "X40n0717_004:0230b05_6",
         "context_with_next_sentence": true
     },
@@ -12492,6 +12492,156 @@
     {
         "source_sentence": "四分戒本如釋卷第四",
         "from": "X40n0717_004:0230b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X40n0717_004:0230b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "襵褋上音摺。",
+        "from": "X40n0717_004:0230b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音疊。",
+        "from": "X40n0717_004:0230b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蛹音勇。",
+        "from": "X40n0717_004:0230c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "繭蟲也。",
+        "from": "X40n0717_004:0230c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衦音幹。",
+        "from": "X40n0717_004:0230c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摩展衣也。",
+        "from": "X40n0717_004:0230c02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剉音蹉去聲。",
+        "from": "X40n0717_004:0230c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "緯音位。",
+        "from": "X40n0717_004:0230c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縱曰經。",
+        "from": "X40n0717_004:0230c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "橫曰緯。",
+        "from": "X40n0717_004:0230c04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六群比丘一難陀。",
+        "from": "X40n0717_004:0230c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二跋難陀。",
+        "from": "X40n0717_004:0230c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "示現多貪及多瞋。",
+        "from": "X40n0717_004:0230c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三迦留陀夷。",
+        "from": "X40n0717_004:0230c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現多欲。",
+        "from": "X40n0717_004:0230c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四闡陀。",
+        "from": "X40n0717_004:0230c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現多瞋。",
+        "from": "X40n0717_004:0230c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五馬宿。",
+        "from": "X40n0717_004:0230c06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六滿宿。",
+        "from": "X40n0717_004:0230c06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現多癡。",
+        "from": "X40n0717_004:0230c07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此之六人乃大權示現。",
+        "from": "X40n0717_004:0230c07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無法不通。",
+        "from": "X40n0717_004:0230c07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善解三藏十二部經。",
+        "from": "X40n0717_004:0230c07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及五明百藝異術。",
+        "from": "X40n0717_004:0230c08_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人各弟子九人。",
+        "from": "X40n0717_004:0230c08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "群出墜入。",
+        "from": "X40n0717_004:0230c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現諸非威儀事。",
+        "from": "X40n0717_004:0230c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大護法門。",
+        "from": "X40n0717_004:0230c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宣通佛教也。",
+        "from": "X40n0717_004:0230c09_3",
         "context_with_next_sentence": false
     }
 ]

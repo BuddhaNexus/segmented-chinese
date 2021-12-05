@@ -20,7 +20,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "奇偉峭拔。",
+        "source_sentence": "奇偉峭㧞。",
         "from": "X69n1365_001:0662a05_4",
         "context_with_next_sentence": true
     },
@@ -2490,7 +2490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[栽木+土]田愽飯。",
+        "source_sentence": "[栽-木+土]田愽飯。",
         "from": "X69n1365_001:0664c02_3",
         "context_with_next_sentence": true
     },
@@ -3005,7 +3005,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "聖凡一等飽齁齁。",
+        "source_sentence": "聖凡一等飽齁&#;。",
         "from": "X69n1365_001:0665a06_4",
         "context_with_next_sentence": true
     },
@@ -3795,7 +3795,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是我冤家一[打丁+羕]乖。",
+        "source_sentence": "是我冤家一[打-丁+羕]乖。",
         "from": "X69n1365_001:0665c09_6",
         "context_with_next_sentence": true
     },
@@ -3915,7 +3915,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "王老師[吃乙+小]。",
+        "source_sentence": "王老師&#;。",
         "from": "X69n1365_001:0665c15_8",
         "context_with_next_sentence": true
     },
@@ -6270,7 +6270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "耐些寒底[打丁+羕]子麼。",
+        "source_sentence": "耐些寒底[打-丁+羕]子麼。",
         "from": "X69n1365_001:0667c19_5",
         "context_with_next_sentence": true
     },
@@ -6335,7 +6335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "古人[打丁+羕]子一時花擘了也。",
+        "source_sentence": "古人[打-丁+羕]子一時花擘了也。",
         "from": "X69n1365_001:0667c23_18",
         "context_with_next_sentence": true
     },
@@ -9970,7 +9970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "堅[宋木+取]勝幢。",
+        "source_sentence": "堅[宋-木+取]勝幢。",
         "from": "X69n1365_001:0671a15_11",
         "context_with_next_sentence": true
     },
@@ -13035,7 +13035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如何種栢[栽木+土]松手。",
+        "source_sentence": "如何種栢[栽-木+土]松手。",
         "from": "X69n1365_001:0673b18_3",
         "context_with_next_sentence": true
     },
@@ -16490,7 +16490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]得一生不會。",
+        "source_sentence": "[拚-ㄙ+ㄊ]得一生不會。",
         "from": "X69n1365_001:0676a07_1",
         "context_with_next_sentence": true
     },
@@ -20095,7 +20095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "他[宋木+取]不堪。",
+        "source_sentence": "他[宋-木+取]不堪。",
         "from": "X69n1365_001:0679c19_3",
         "context_with_next_sentence": true
     },
@@ -21070,7 +21070,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "座上時復鳴鵂[(堊王+田)*鳥]。",
+        "source_sentence": "座上時復鳴鵂&#;。",
         "from": "X69n1365_001:0680c11_3",
         "context_with_next_sentence": true
     },
@@ -23132,6 +23132,11 @@
     {
         "source_sentence": "顙泚且如□□。",
         "from": "X69n1365_001:0682b23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應安庚戌夏不□遠孫□□拜手",
+        "from": "X69n1365_001:0682b24_0",
         "context_with_next_sentence": false
     }
 ]

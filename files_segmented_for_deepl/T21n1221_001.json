@@ -150,7 +150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其鬼病狀相似風[颱台+真]。",
+        "source_sentence": "其鬼病狀相似風[颱-台+真]。",
         "from": "T21n1221_001:0100a09_6",
         "context_with_next_sentence": true
     },
@@ -260,7 +260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "誦  吽發吒五七反。",
+        "source_sentence": "誦吽發吒五七反。",
         "from": "T21n1221_001:0100a21_28",
         "context_with_next_sentence": true
     },
@@ -275,7 +275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "持誦  吽發吒五七反。",
+        "source_sentence": "持誦吽發吒五七反。",
         "from": "T21n1221_001:0100a23_31",
         "context_with_next_sentence": true
     },
@@ -285,7 +285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "誦    吽發吒五七反。",
+        "source_sentence": "誦吽發吒五七反。",
         "from": "T21n1221_001:0100a24_33",
         "context_with_next_sentence": true
     },
@@ -295,7 +295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "誦    吽發吒五七反。",
+        "source_sentence": "誦吽發吒五七反。",
         "from": "T21n1221_001:0100a25_0",
         "context_with_next_sentence": true
     },
@@ -305,7 +305,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "誦   吽發吒五七反。",
+        "source_sentence": "誦吽發吒五七反。",
         "from": "T21n1221_001:0100a25_2",
         "context_with_next_sentence": true
     },
@@ -315,7 +315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "誦    吽發吒。",
+        "source_sentence": "誦吽發吒。",
         "from": "T21n1221_001:0100a26_4",
         "context_with_next_sentence": true
     },
@@ -325,7 +325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "誦    吽發吒五七反。",
+        "source_sentence": "誦吽發吒五七反。",
         "from": "T21n1221_001:0100a27_6",
         "context_with_next_sentence": true
     },
@@ -515,12 +515,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "然□□□爐中護摩二十□夜若猶□驗者三七日修之(云云)此時三鬼□□其形其灰中有 字。",
+        "source_sentence": "然□□□爐中護摩二十□夜若猶□驗者三七日修之(云云)此時三鬼□□其形其灰中有字。",
         "from": "T21n1221_001:0101a02_14",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 字變□□□寂靜聖無動尊。",
+        "source_sentence": "字變□□□寂靜聖無動尊。",
         "from": "T21n1221_001:0101a04_15",
         "context_with_next_sentence": true
     },
@@ -775,7 +775,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是曰鬼為人禍害心痛痓怦□□鬼病惱傳子孫及兄弟姊妹等□□□□為傳屍[病丙+猒]蝶復連骨□□□□病亦有一族內死盡莫究其由近□□漸多重者不逾數月而死。",
+        "source_sentence": "是曰鬼為人禍害心痛痓怦□□鬼病惱傳子孫及兄弟姊妹等□□□□為傳屍[病-丙+猒]蝶復連骨□□□□病亦有一族內死盡莫究其由近□□漸多重者不逾數月而死。",
         "from": "T21n1221_001:0101c08_0",
         "context_with_next_sentence": true
     },
@@ -857,6 +857,11 @@
     {
         "source_sentence": "此奧後人物云加者也。",
         "from": "T21n1221_001:0102a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　　　　　　相覺記",
+        "from": "T21n1221_001:0102a12_0",
         "context_with_next_sentence": false
     }
 ]

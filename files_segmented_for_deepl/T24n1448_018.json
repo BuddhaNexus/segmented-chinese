@@ -485,7 +485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　我即詣塔所，　　淨除諸草木；　持[打丁+彗]遍灑掃，　　悉使周嚴飾。",
+        "source_sentence": "　我即詣塔所，　　淨除諸草木；　持[打-丁+彗]遍灑掃，　　悉使周嚴飾。",
         "from": "T24n1448_018:0092c28_0",
         "context_with_next_sentence": true
     },

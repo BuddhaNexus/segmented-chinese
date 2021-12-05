@@ -755,7 +755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "勅僧[契大+石]等八百沙門諮受什旨。",
+        "source_sentence": "勅僧[契-大+石]等八百沙門諮受什旨。",
         "from": "T55n2151_003:0359a12_32",
         "context_with_next_sentence": true
     },
@@ -2430,7 +2430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(序予+林)/女]夷比丘經(一卷)。",
+        "source_sentence": "&#;夷比丘經(一卷)。",
         "from": "T55n2151_003:0360c29_4",
         "context_with_next_sentence": true
     },

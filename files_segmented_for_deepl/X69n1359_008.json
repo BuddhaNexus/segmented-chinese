@@ -100,7 +100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "千千萬萬人向這裏[跳兆+孛]跳。",
+        "source_sentence": "千千萬萬人向這裏[跳-兆+孛]跳。",
         "from": "X69n1359_008:0538a06_11",
         "context_with_next_sentence": true
     },
@@ -445,7 +445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師與弟子[牙(必心)+?]相印證。",
+        "source_sentence": "師與弟子[牙-(必-心)+?]相印證。",
         "from": "X69n1359_008:0538b15_10",
         "context_with_next_sentence": true
     },
@@ -1095,7 +1095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "焉似而今有般獃郎隈隈[毯炎+崔][毯炎+崔]弄盡鬼恠。",
+        "source_sentence": "焉似而今有般獃郎隈隈[毯-炎+崔][毯-炎+崔]弄盡鬼恠。",
         "from": "X69n1359_008:0539b07_4",
         "context_with_next_sentence": true
     },
@@ -2155,7 +2155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其隈隈[毯炎+崔][毯炎+崔]二十四氣一時現前。",
+        "source_sentence": "其隈隈[毯-炎+崔][毯-炎+崔]二十四氣一時現前。",
         "from": "X69n1359_008:0540c08_2",
         "context_with_next_sentence": true
     },
@@ -2175,7 +2175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "終不隨摟[打丁+敕]入野狐群隊中。",
+        "source_sentence": "終不隨摟[打-丁+敕]入野狐群隊中。",
         "from": "X69n1359_008:0540c10_6",
         "context_with_next_sentence": true
     },
@@ -2370,7 +2370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是故今日比丘當痛念先祖門風峻拔活業廣大。",
+        "source_sentence": "是故今日比丘當痛念先祖門風峻㧞活業廣大。",
         "from": "X69n1359_008:0541a04_19",
         "context_with_next_sentence": true
     },
@@ -3400,7 +3400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大底抽釘拔楔解黏去縛手段以壽後世。",
+        "source_sentence": "大底抽釘㧞楔解黏去縛手段以壽後世。",
         "from": "X69n1359_008:0542b09_14",
         "context_with_next_sentence": true
     },

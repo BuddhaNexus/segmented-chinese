@@ -1245,7 +1245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[齒*(虎儿+且)][齒*(虎儿+且)]齖齖。",
+        "source_sentence": "[齒*(虎-儿+且)][齒*(虎-儿+且)]齖齖。",
         "from": "X68n1315_043:0283b07_8",
         "context_with_next_sentence": true
     },
@@ -6575,7 +6575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "但祇隨例飡[飢几+追]子。",
+        "source_sentence": "但祇隨例飡[飢-几+追]子。",
         "from": "X68n1315_043:0287a11_7",
         "context_with_next_sentence": true
     },
@@ -9955,7 +9955,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "打疊面前搕[打丁+(天/韭)]却。",
+        "source_sentence": "打疊面前搕[打-丁+(天/韭)]却。",
         "from": "X68n1315_043:0289b22_11",
         "context_with_next_sentence": true
     },
@@ -10010,7 +10010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "非但和尚一場懡[怡台+羅]。",
+        "source_sentence": "非但和尚一場懡[怡-台+羅]。",
         "from": "X68n1315_043:0289c01_22",
         "context_with_next_sentence": true
     },
@@ -10965,7 +10965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雲門．臨濟兒孫不勝懡[怡台+羅]。",
+        "source_sentence": "雲門．臨濟兒孫不勝懡[怡-台+羅]。",
         "from": "X68n1315_043:0290b02_26",
         "context_with_next_sentence": true
     },
@@ -12340,7 +12340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "老僧隨例飡[飢几+追]子。",
+        "source_sentence": "老僧隨例飡[飢-几+追]子。",
         "from": "X68n1315_043:0291b01_4",
         "context_with_next_sentence": true
     },

@@ -6070,7 +6070,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "覺知通[泳永+曶]能入圓元。",
+        "source_sentence": "覺知通[泳-永+曶]能入圓元。",
         "from": "X15n0306_010:0845b14_5",
         "context_with_next_sentence": true
     },
@@ -6235,7 +6235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "覺知通[泳永+曶]通承自他。",
+        "source_sentence": "覺知通[泳-永+曶]通承自他。",
         "from": "X15n0306_010:0845c05_24",
         "context_with_next_sentence": true
     },
@@ -8490,7 +8490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是名第十圓覺[泳永+曶]心成湛明果。",
+        "source_sentence": "是名第十圓覺[泳-永+曶]心成湛明果。",
         "from": "X15n0306_010:0849a19_0",
         "context_with_next_sentence": true
     },
@@ -8505,7 +8505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "于圓融覺明而生勝解即是圓覺[泳永+曶]心。",
+        "source_sentence": "于圓融覺明而生勝解即是圓覺[泳-永+曶]心。",
         "from": "X15n0306_010:0849a21_0",
         "context_with_next_sentence": true
     },
@@ -12612,6 +12612,21 @@
     {
         "source_sentence": "首楞嚴經觀心定解卷第十(終)",
         "from": "X15n0306_010:0855a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "楞嚴經問答",
+        "from": "X15n0306_010:0855b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清　淨挺著",
+        "from": "X15n0306_010:0855b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "収于閱經十二種之第六故不載於此。",
+        "from": "X15n0306_010:0855b06_0",
         "context_with_next_sentence": false
     }
 ]

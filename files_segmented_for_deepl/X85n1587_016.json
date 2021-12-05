@@ -1130,7 +1130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "甘心墮拔舌犁耕。",
+        "source_sentence": "甘心墮㧞舌犁耕。",
         "from": "X85n1587_016:0097a03_1",
         "context_with_next_sentence": true
     },
@@ -4345,7 +4345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "壁角頭破草鞋[跳兆+孛]跳。",
+        "source_sentence": "壁角頭破草鞋[跳-兆+孛]跳。",
         "from": "X85n1587_016:0099c05_4",
         "context_with_next_sentence": true
     },
@@ -5390,7 +5390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上三十三天。",
+        "source_sentence": "[跳-兆+孛]跳上三十三天。",
         "from": "X85n1587_016:0100b13_7",
         "context_with_next_sentence": true
     },
@@ -10265,8 +10265,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "從今不被",
+        "source_sentence": "從今不被舌頭瞞。",
         "from": "X85n1587_016:0104a24_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "旻為之助喜。",
+        "from": "X85n1587_016:0104b01_27",
         "context_with_next_sentence": false
     }
 ]

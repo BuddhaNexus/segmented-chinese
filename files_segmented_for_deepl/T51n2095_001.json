@@ -205,7 +205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "出[葶丁+呆]見授。",
+        "source_sentence": "出[葶-丁+呆]見授。",
         "from": "T51n2095_001:1024c18_1",
         "context_with_next_sentence": true
     },
@@ -1550,7 +1550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於玄崖世高垂化於[邱丘+共]亭。",
+        "source_sentence": "於玄崖世高垂化於[邱-丘+共]亭。",
         "from": "T51n2095_001:1025c29_6",
         "context_with_next_sentence": true
     },
@@ -2545,12 +2545,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "舊名[曰/月]峯。",
+        "source_sentence": "舊名冐峯。",
         "from": "T51n2095_001:1026c17_1",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "由[曰/月]峯五里。",
+        "source_sentence": "由冐峯五里。",
         "from": "T51n2095_001:1026c17_2",
         "context_with_next_sentence": true
     },
@@ -4830,7 +4830,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寺僧義[彰章+舟]以主祕藏。",
+        "source_sentence": "寺僧義[彰-章+舟]以主祕藏。",
         "from": "T51n2095_001:1028b29_6",
         "context_with_next_sentence": true
     },
@@ -6140,7 +6140,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今著其目于後[竺二+遍]。",
+        "source_sentence": "今著其目于後[竺-二+遍]。",
         "from": "T51n2095_001:1029c26_46",
         "context_with_next_sentence": true
     },
@@ -8607,6 +8607,11 @@
     {
         "source_sentence": "廬山記卷第一",
         "from": "T51n2095_001:1031c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一校了於字莫改本品方木也",
+        "from": "T51n2095_001:1031c25_0",
         "context_with_next_sentence": false
     }
 ]

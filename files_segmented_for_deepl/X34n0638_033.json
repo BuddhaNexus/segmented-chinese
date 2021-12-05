@@ -1990,7 +1990,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "魁首[(厂@((既旡)日+口))*頁]也。",
+        "source_sentence": "魁首[(厂@((既-旡)-日+口))*頁]也。",
         "from": "X34n0638_033:0853c20_1",
         "context_with_next_sentence": true
     },
@@ -4640,7 +4640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[篾戍+(冗几+伐)]者無也。",
+        "source_sentence": "[篾-戍+(冗-几+伐)]者無也。",
         "from": "X34n0638_033:0856a23_4",
         "context_with_next_sentence": true
     },
@@ -14085,7 +14085,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[烈列+(句*句)]名能問。",
+        "source_sentence": "[烈-列+(句*句)]名能問。",
         "from": "X34n0638_033:0865a07_14",
         "context_with_next_sentence": true
     },

@@ -4325,7 +4325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "後墮白鳩[鴝口+(冰水)]鵅鳥中。",
+        "source_sentence": "後墮白鳩[鴝-口+(冰-水)]鵅鳥中。",
         "from": "X88n1645_002:0122b02_4",
         "context_with_next_sentence": true
     },
@@ -12115,17 +12115,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遇見關中僧[契大+石]道人。",
+        "source_sentence": "遇見關中僧[契-大+石]道人。",
         "from": "X88n1645_002:0127a08_11",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "忽喚[契大+石]名。",
+        "source_sentence": "忽喚[契-大+石]名。",
         "from": "X88n1645_002:0127a08_12",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[契大+石]曰。",
+        "source_sentence": "[契-大+石]曰。",
         "from": "X88n1645_002:0127a08_13",
         "context_with_next_sentence": true
     },
@@ -18930,7 +18930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[鴝口+(冰水)]音欣。",
+        "source_sentence": "[鴝-口+(冰-水)]音欣。",
         "from": "X88n1645_002:0132a02_0",
         "context_with_next_sentence": true
     },
@@ -22597,6 +22597,186 @@
     {
         "source_sentence": "六道集卷二",
         "from": "X88n1645_002:0134c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X88n1645_002:0134c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "羅睺羅此云執日。",
+        "from": "X88n1645_002:0134c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "竄音爨。",
+        "from": "X88n1645_002:0134c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "逃也。",
+        "from": "X88n1645_002:0134c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "藏匿也。",
+        "from": "X88n1645_002:0134c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "那由他此云萬億。",
+        "from": "X88n1645_002:0134c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蝦蟇上音遐。",
+        "from": "X88n1645_002:0134c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音麻。",
+        "from": "X88n1645_002:0134c07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俗作蟆。",
+        "from": "X88n1645_002:0134c07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "青蛙。",
+        "from": "X88n1645_002:0134c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俗名蛤蟈。",
+        "from": "X88n1645_002:0134c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "難陀。",
+        "from": "X88n1645_002:0134c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "跋難陀龍難陀。",
+        "from": "X88n1645_002:0134c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此云喜。",
+        "from": "X88n1645_002:0134c08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "跋難陀。",
+        "from": "X88n1645_002:0134c08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此云近喜。",
+        "from": "X88n1645_002:0134c08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "伉儷上音康去聲。",
+        "from": "X88n1645_002:0134c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音例。",
+        "from": "X88n1645_002:0134c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "伉儷配偶也。",
+        "from": "X88n1645_002:0134c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乾闥婆此云香陰。",
+        "from": "X88n1645_002:0134c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天帝樂神。",
+        "from": "X88n1645_002:0134c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四兵象。",
+        "from": "X88n1645_002:0134c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "馬。",
+        "from": "X88n1645_002:0134c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "車。",
+        "from": "X88n1645_002:0134c11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "步。",
+        "from": "X88n1645_002:0134c11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "撼含字上聲。",
+        "from": "X88n1645_002:0134c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "搖動也。",
+        "from": "X88n1645_002:0134c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "儅當字去聲。",
+        "from": "X88n1645_002:0134c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正中也。",
+        "from": "X88n1645_002:0134c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帀俗作匝非。",
+        "from": "X88n1645_002:0134c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宋郊少時隨父任應山讀書。",
+        "from": "X88n1645_002:0134c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見犬水漂蟻穴至郭。",
+        "from": "X88n1645_002:0134c15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "編竹橋渡之。",
+        "from": "X88n1645_002:0134c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後以陰德中狀元。",
+        "from": "X88n1645_002:0134c16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今渡蟻橋蹟。",
+        "from": "X88n1645_002:0134c16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現在湖廣應山縣治南也。",
+        "from": "X88n1645_002:0134c16_3",
         "context_with_next_sentence": false
     }
 ]

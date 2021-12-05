@@ -2130,7 +2130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "東海鯉魚[跳兆+孛]跳上三十三天。",
+        "source_sentence": "東海鯉魚[跳-兆+孛]跳上三十三天。",
         "from": "X85n1590_006:0148c18_27",
         "context_with_next_sentence": true
     },
@@ -5260,7 +5260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "八字不著[必心]。",
+        "source_sentence": "八字不著[必-心]。",
         "from": "X85n1590_006:0151a24_2",
         "context_with_next_sentence": true
     },

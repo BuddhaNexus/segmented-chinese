@@ -1425,7 +1425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何以聖教說[(厂@((既旡)日+口))*頁]自他。",
+        "source_sentence": "何以聖教說[(厂@((既-旡)-日+口))*頁]自他。",
         "from": "X51n0822_006:0035a06_11",
         "context_with_next_sentence": true
     },
@@ -1435,7 +1435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "然聖教說[(厂@((既旡)日+口))*頁]自他者。",
+        "source_sentence": "然聖教說[(厂@((既-旡)-日+口))*頁]自他者。",
         "from": "X51n0822_006:0035a06_13",
         "context_with_next_sentence": true
     },
@@ -5020,7 +5020,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]自他故。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]自他故。",
         "from": "X51n0822_006:0038a10_15",
         "context_with_next_sentence": true
     },
@@ -6715,7 +6715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四[宋木+取]勝事。",
+        "source_sentence": "四[宋-木+取]勝事。",
         "from": "X51n0822_006:0039c03_10",
         "context_with_next_sentence": true
     },
@@ -10715,7 +10715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "計[宋木+取]勝上。",
+        "source_sentence": "計[宋-木+取]勝上。",
         "from": "X51n0822_006:0042c13_4",
         "context_with_next_sentence": true
     },
@@ -10880,7 +10880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皆有執為[宋木+取]勝能得清淨。",
+        "source_sentence": "皆有執為[宋-木+取]勝能得清淨。",
         "from": "X51n0822_006:0042c24_11",
         "context_with_next_sentence": true
     },
@@ -10890,7 +10890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "執為[宋木+取]勝名為見取。",
+        "source_sentence": "執為[宋-木+取]勝名為見取。",
         "from": "X51n0822_006:0043a01_1",
         "context_with_next_sentence": true
     },
@@ -16580,7 +16580,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如婆沙論[言*(〦/(尢一+凵))]有五種。",
+        "source_sentence": "如婆沙論[言*(〦/(尢-一+凵))]有五種。",
         "from": "X51n0822_006:0047c20_16",
         "context_with_next_sentence": true
     },
@@ -17550,7 +17550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何謂不[(厂@((既旡)日+口))*頁]世間等耶。",
+        "source_sentence": "何謂不[(厂@((既-旡)-日+口))*頁]世間等耶。",
         "from": "X51n0822_006:0048c12_10",
         "context_with_next_sentence": true
     },
@@ -17560,7 +17560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂於世間無所[(厂@((既旡)日+口))*頁]者。",
+        "source_sentence": "謂於世間無所[(厂@((既-旡)-日+口))*頁]者。",
         "from": "X51n0822_006:0048c12_12",
         "context_with_next_sentence": true
     },

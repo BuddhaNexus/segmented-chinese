@@ -2105,7 +2105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "來日是[書曰+((烈列)/曰)]雲。",
+        "source_sentence": "來日是[書-曰+((烈-列)/曰)]雲。",
         "from": "X79n1559_013:0371a08_35",
         "context_with_next_sentence": true
     },
@@ -2810,7 +2810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任[跳兆+孛]跳。",
+        "source_sentence": "一任[跳-兆+孛]跳。",
         "from": "X79n1559_013:0371c06_16",
         "context_with_next_sentence": true
     },
@@ -6770,7 +6770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爭奈拈[飢几+追]舐指。",
+        "source_sentence": "爭奈拈[飢-几+追]舐指。",
         "from": "X79n1559_013:0374c19_41",
         "context_with_next_sentence": true
     },
@@ -6832,6 +6832,16 @@
     {
         "source_sentence": "嘉泰普燈錄卷第十三",
         "from": "X79n1559_013:0374c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_013:0375a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　珏音角　嚚音銀　旻音民　洵音荀　陝音閃　窈音杳　窕徒了切　會音檜　悆余庶切　泞直與切　糝桑感切　摟音棲　摗速侯切　郵音尤　搊楚尤切　懵莫孔切　蒞音利　豏胡斬切　馗音逵　汩手筆切　栩音雨",
+        "from": "X79n1559_013:0375a03_0",
         "context_with_next_sentence": false
     }
 ]

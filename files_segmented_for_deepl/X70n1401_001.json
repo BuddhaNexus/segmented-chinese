@@ -1245,7 +1245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "教諸人依[打丁+羕]畫猫兒去也。",
+        "source_sentence": "教諸人依[打-丁+羕]畫猫兒去也。",
         "from": "X70n1401_001:0703a20_21",
         "context_with_next_sentence": true
     },
@@ -1800,7 +1800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "直下依[打丁+羕]畫猫兒去。",
+        "source_sentence": "直下依[打-丁+羕]畫猫兒去。",
         "from": "X70n1401_001:0703c04_14",
         "context_with_next_sentence": true
     },
@@ -2355,7 +2355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[毯炎+畏][毯炎+畏][毯炎+崔][毯炎+崔]。",
+        "source_sentence": "[毯-炎+畏][毯-炎+畏][毯-炎+崔][毯-炎+崔]。",
         "from": "X70n1401_001:0704a13_24",
         "context_with_next_sentence": true
     },
@@ -2395,7 +2395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]而去。",
+        "source_sentence": "懡[怡-台+羅]而去。",
         "from": "X70n1401_001:0704a16_1",
         "context_with_next_sentence": true
     },
@@ -3610,7 +3610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不假[栽木+土]培底種子。",
+        "source_sentence": "不假[栽-木+土]培底種子。",
         "from": "X70n1401_001:0705a12_9",
         "context_with_next_sentence": true
     },
@@ -3960,7 +3960,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如人家屋簷頭一堆榼[打丁+(天/韭)]相似。",
+        "source_sentence": "譬如人家屋簷頭一堆榼[打-丁+(天/韭)]相似。",
         "from": "X70n1401_001:0705b10_1",
         "context_with_next_sentence": true
     },
@@ -4765,7 +4765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "至死[拚ㄙ+ㄊ]生。",
+        "source_sentence": "至死[拚-ㄙ+ㄊ]生。",
         "from": "X70n1401_001:0706a08_13",
         "context_with_next_sentence": true
     },
@@ -5075,7 +5075,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "永墮拔舌犂耕。",
+        "source_sentence": "永墮㧞舌犂耕。",
         "from": "X70n1401_001:0706b05_2",
         "context_with_next_sentence": true
     },
@@ -6715,12 +6715,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今日也[拚ㄙ+ㄊ]命跳。",
+        "source_sentence": "今日也[拚-ㄙ+ㄊ]命跳。",
         "from": "X70n1401_001:0707c05_7",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "明日也[拚ㄙ+ㄊ]命跳。",
+        "source_sentence": "明日也[拚-ㄙ+ㄊ]命跳。",
         "from": "X70n1401_001:0707c05_8",
         "context_with_next_sentence": true
     },
@@ -7315,7 +7315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "便向下觜不得處[拚ㄙ+ㄊ]命。",
+        "source_sentence": "便向下觜不得處[拚-ㄙ+ㄊ]命。",
         "from": "X70n1401_001:0708a17_3",
         "context_with_next_sentence": true
     },
@@ -8025,12 +8025,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[栽木+土]培深固。",
+        "source_sentence": "[栽-木+土]培深固。",
         "from": "X70n1401_001:0708c18_5",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若非舉鼎拔山之力。",
+        "source_sentence": "若非舉鼎㧞山之力。",
         "from": "X70n1401_001:0708c18_6",
         "context_with_next_sentence": true
     },
@@ -9300,7 +9300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眉毛[病丙+斯]結。",
+        "source_sentence": "眉毛[病-丙+斯]結。",
         "from": "X70n1401_001:0709c24_17",
         "context_with_next_sentence": true
     },
@@ -10520,7 +10520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "捨命[拚ㄙ+ㄊ]身。",
+        "source_sentence": "捨命[拚-ㄙ+ㄊ]身。",
         "from": "X70n1401_001:0710c24_6",
         "context_with_next_sentence": true
     },
@@ -11130,7 +11130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若還[毯炎+畏][毯炎+畏][毯炎+崔][毯炎+崔]。",
+        "source_sentence": "若還[毯-炎+畏][毯-炎+畏][毯-炎+崔][毯-炎+崔]。",
         "from": "X70n1401_001:0711b15_20",
         "context_with_next_sentence": true
     },
@@ -11345,7 +11345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "做模打[打丁+羕]。",
+        "source_sentence": "做模打[打-丁+羕]。",
         "from": "X70n1401_001:0711c07_0",
         "context_with_next_sentence": true
     },
@@ -12415,7 +12415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]一生做箇癡獃漢。",
+        "source_sentence": "[拚-ㄙ+ㄊ]一生做箇癡獃漢。",
         "from": "X70n1401_001:0712b19_38",
         "context_with_next_sentence": true
     },
@@ -12582,6 +12582,161 @@
     {
         "source_sentence": "高峰禪要(終)",
         "from": "X70n1401_001:0712c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上以延弘　國祚。",
+        "from": "X70n1401_001:0712c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下以普濟含靈。",
+        "from": "X70n1401_001:0712c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皇明隆慶四年。",
+        "from": "X70n1401_001:0712c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庚午之春。",
+        "from": "X70n1401_001:0712c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有一道人慧澄等。",
+        "from": "X70n1401_001:0712c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲廣禪要之傳。",
+        "from": "X70n1401_001:0712c12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以惠後學。",
+        "from": "X70n1401_001:0712c13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "募緣鋟梓。",
+        "from": "X70n1401_001:0712c13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流布萬歲。",
+        "from": "X70n1401_001:0712c13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "烏非深有慕於佛祖之風者。",
+        "from": "X70n1401_001:0712c13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其能若是乎。",
+        "from": "X70n1401_001:0712c14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後之有志學者。",
+        "from": "X70n1401_001:0712c14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覽斯禪詮。",
+        "from": "X70n1401_001:0712c14_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而頓發心華。",
+        "from": "X70n1401_001:0712c15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則其教化之功德。",
+        "from": "X70n1401_001:0712c15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何可勝數哉。",
+        "from": "X70n1401_001:0712c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大施主金達未兩主　供養大施主信俊　布施。",
+        "from": "X70n1401_001:0712c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大施主鄭終必兩主　施主金末祥兩主　化士印珠。",
+        "from": "X70n1401_001:0712c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無等山安心寺開刊　校正大選雪訔。",
+        "from": "X70n1401_001:0712c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又一本卷末(天明癸卯偶覽朝鮮板本校正)。",
+        "from": "X70n1401_001:0712c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上以延弘　國祚下以普濟含靈。",
+        "from": "X70n1401_001:0712c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皇明嘉靖大歲己亥之春有一道人靈祉者欲廣禪要之傳以惠後學(乃至)何可勝數哉。",
+        "from": "X70n1401_001:0712c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "施主性修　衍熈　學通　坦器　信还　鐵牛　曹哲金　趙元。",
+        "from": "X70n1401_001:0713a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "刻手秩敬希信崇　惠聰　炊飯　戒澄。",
+        "from": "X70n1401_001:0713a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智異山南臺庵開板以傳神興寺幹善道人靈祉校正靈觀　　　性牛。",
+        "from": "X70n1401_001:0713a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金義忠兩主",
+        "from": "X70n1401_001:0713a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "徐貴進兩主　　姜石孫。",
+        "from": "X70n1401_001:0713a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "施主卓守　和密　玉熈　敬祖此等吾鄉闍山而常修梵行人。",
+        "from": "X70n1401_001:0713a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "證明鐵牛　　　鍊板　印空　覺晟。",
+        "from": "X70n1401_001:0713a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪要一卷(通計五十四葉)。",
+        "from": "X70n1401_001:0713a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安永二年癸巳孟春上澣寓于長州灞城師子菴借洞春禪寺所藏之朝鮮本寫焉。",
+        "from": "X70n1401_001:0713a12_0",
         "context_with_next_sentence": false
     }
 ]

@@ -16900,7 +16900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如手握乾[尸@大]麵。",
+        "source_sentence": "如手握乾[尸@大]麫。",
         "from": "X34n0638_020:0640b11_6",
         "context_with_next_sentence": true
     },
@@ -27535,12 +27535,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以竹[筣禾+(棣木)]。",
+        "source_sentence": "以竹[筣-禾+(棣-木)]。",
         "from": "X34n0638_020:0649b07_1",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[筣禾+(棣木)]之齒上有聲。",
+        "source_sentence": "[筣-禾+(棣-木)]之齒上有聲。",
         "from": "X34n0638_020:0649b07_2",
         "context_with_next_sentence": true
     },
@@ -29010,12 +29010,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "言遒[序予+(林/几)]者。",
+        "source_sentence": "言遒[序-予+(林/几)]者。",
         "from": "X34n0638_020:0650b19_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "字[袖由+犬]反。",
+        "source_sentence": "字[袖-由+犬]反。",
         "from": "X34n0638_020:0650b19_1",
         "context_with_next_sentence": true
     },
@@ -30267,6 +30267,26 @@
     {
         "source_sentence": "法華經玄贊要集卷第二十",
         "from": "X34n0638_020:0651c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "弘舉記",
+        "from": "X34n0638_020:0651c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乹符六年孟冬月三十日於永嘉開元寺法華寫過伏以事務煩通兼且手拙檖至謬劣也通鑒大德覓契于慧璩記了。",
+        "from": "X34n0638_020:0651c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　願以書寫力　　自他生內院　　聞法悟一乘　速成無上道貞永元年(壬辰)潤九月二十六日　春日山邊於四恩院書寫畢。",
+        "from": "X34n0638_020:0651c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "執筆　長盛",
+        "from": "X34n0638_020:0651c16_0",
         "context_with_next_sentence": false
     }
 ]

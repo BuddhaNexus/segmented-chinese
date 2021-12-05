@@ -960,8 +960,248 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "沙彌威儀一卷(十九紙)　宋世求那跋摩譯曇無德羯磨一卷(四十一紙)　魏正元年曇諦於洛陽譯四分比丘尼羯磨一卷(十五紙)　宋元嘉年求那跋摩譯優婆塞五戒相一卷(十五紙)　宋元嘉年求那跋摩譯舍利弗問經一卷(十一紙)真偽沙門經一卷(一名摩訶比丘經三紙)戒消災經一卷(四紙)迦葉禁戒經一卷(三紙)犯戒罪報輕重經一卷(一名犯罪經二紙)僧祇比丘尼戒本一卷(二十四紙)十誦比丘戒本一卷(二十六紙)十誦比丘尼戒本一卷(二十六紙)四分比丘尼戒本一卷(二十一紙)優婆塞五戒威儀經一卷(三十三紙)優波離問經一卷(三十三紙)彌沙塞戒本一卷(或名五分戒十九紙)　宋景平年佛陀什共智勝譯大沙門百一羯磨一卷(二十二紙闕本訪得)十誦羯磨一卷(二十三紙闕本訪得)沙彌十戒并威儀一卷(二十一紙闕本訪得)沙彌尼十戒一卷(四紙闕本訪得)沙彌離戒一卷(四紙闕本訪得)小乘論單本三十部三百五十六卷順正理論八十卷(一千四百二十紙)　唐世玄奘譯顯宗論四十卷(六百四十四紙)　唐世玄奘譯舍利弗阿毘曇論二十二卷(五百九十九紙)　後秦弘始年曇摩崛共曇摩耶舍譯出曜論二十卷(四百八十七紙)　前秦竺佛念譯成實論二十卷(四百紙或二十四卷)　後秦世羅什譯識身足論十六卷(二百七十一紙)　唐世玄奘譯鞞婆沙阿毘曇十四卷(一名廣說論三百四十七紙)　前秦建元年僧伽提婆於洛陽譯法蘊足論十二卷(一百九十二紙)　唐世玄奘譯解脫道論十二卷(一百九十八紙)　梁世僧伽婆羅譯眾事分阿毘曇十二卷(二百九紙)雜阿毘曇心論十一卷(或二十二卷二百八十紙)　宋元嘉年伊葉波羅共求那跋摩譯立世阿毘曇論十卷(一百七十三紙)　陳世真諦譯尊婆須蜜所集論十卷(二百七十五紙)　前秦建元年僧伽跋澄共佛念譯法勝阿毘曇論六卷(一百三紙)　齊天統年耶舍共法智譯四諦論四卷(七十四紙)　陳世真諦譯阿毘曇心論四卷(六十七紙)　晉太元年僧伽提婆共惠遠於廬山譯品類足論十八卷(二百八十一紙)　唐世玄奘譯集異門足論二十卷(二百九十五紙)　唐世玄奘譯界身足論三卷(二十七紙)　唐世玄奘譯阿毘達磨五事論二卷(二十二紙)　唐世玄奘譯分別功德論四卷(或五卷七十三紙)沙彌底論三卷或四卷(三十五紙)入阿毘達磨論二卷(四紙)　唐世玄奘譯阿毘曇甘露味二卷(四十五紙)辟支佛因緣論二卷(二十紙或一卷)三法度論二卷(三十四紙)　晉太元年僧伽提婆共惠遠於廬山譯俱舍論本一卷　唐世玄奘譯十八部論一卷(七紙)　陳世真諦譯明了論一卷　陳世真諦譯隨相論二卷(三十四紙)　陳世真諦譯眾經目錄卷第一",
+        "source_sentence": "沙彌威儀一卷(十九紙)　宋世求那跋摩譯曇無德羯磨一卷(四十一紙)　魏正元年曇諦於洛陽譯四分比丘尼羯磨一卷(十五紙)　宋元嘉年求那跋摩譯優婆塞五戒相一卷(十五紙)　宋元嘉年求那跋摩譯舍利弗問經一卷(十一紙)真偽沙門經一卷(一名摩訶比丘經三紙)戒消災經一卷(四紙)迦葉禁戒經一卷(三紙)犯戒罪報輕重經一卷(一名犯罪經二紙)僧祇比丘尼戒本一卷(二十四紙)十誦比丘戒本一卷(二十六紙)十誦比丘尼戒本一卷(二十六紙)四分比丘尼戒本一卷(二十一紙)優婆塞五戒威儀經一卷(三十三紙)優波離問經一卷(三十三紙)彌沙塞戒本一卷(或名五分戒十九紙)　宋景平年佛陀什共智勝譯大沙門百一羯磨一卷(二十二紙闕本訪得)十誦羯磨一卷(二十三紙闕本訪得)沙彌十戒并威儀一卷(二十一紙闕本訪得)沙彌尼十戒一卷(四紙闕本訪得)沙彌離戒一卷(四紙闕本訪得)小乘論單本三十部三百五十六卷順正理論八十卷(一千四百二十紙)　唐世玄奘譯顯宗論四十卷(六百四十四紙)　唐世玄奘譯舍利弗阿毘曇論二十二卷(五百九十九紙)　後秦弘始年曇摩崛共曇摩耶舍譯出曜論二十卷(四百八十七紙)　前秦竺佛念譯成實論二十卷(四百紙或二十四卷)　後秦世羅什譯識身足論十六卷(二百七十一紙)　唐世玄奘譯鞞婆沙阿毘曇十四卷(一名廣說論三百四十七紙)　前秦建元年僧伽提婆於洛陽譯法蘊足論十二卷(一百九十二紙)　唐世玄奘譯解脫道論十二卷(一百九十八紙)　梁世僧伽婆羅譯眾事分阿毘曇十二卷(二百九紙)雜阿毘曇心論十一卷(或二十二卷二百八十紙)　宋元嘉年伊葉波羅共求那跋摩譯立世阿毘曇論十卷(一百七十三紙)　陳世真諦譯尊婆須蜜所集論十卷(二百七十五紙)　前秦建元年僧伽跋澄共佛念譯法勝阿毘曇論六卷(一百三紙)　齊天統年耶舍共法智譯四諦論四卷(七十四紙)　陳世真諦譯阿毘曇心論四卷(六十七紙)　晉太元年僧伽提婆共惠遠於廬山譯品類足論十八卷(二百八十一紙)　唐世玄奘譯集異門足論二十卷(二百九十五紙)　唐世玄奘譯界身足論三卷(二十七紙)　唐世玄奘譯阿毘達磨五事論二卷(二十二紙)　唐世玄奘譯分別功德論四卷(或五卷七十三紙)沙彌底論三卷或四卷(三十五紙)入阿毘達磨論二卷(四紙)　唐世玄奘譯阿毘曇甘露味二卷(四十五紙)辟支佛因緣論二卷(二十紙或一卷)三法度論二卷(三十四紙)　晉太元年僧伽提婆共惠遠於廬山譯俱舍論本一卷　唐世玄奘譯十八部論一卷(七紙)　陳世真諦譯明了論一卷　陳世真諦譯隨相論二卷(三十四紙)　陳世真諦譯眾經目錄卷第一此二卷入藏目。",
         "from": "T55n2148_001:0188a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貞觀九年四月。",
+        "from": "T55n2148_001:0188c26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奉　勅苑內寫一切經。",
+        "from": "T55n2148_001:0188c26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大總持寺僧智通。",
+        "from": "T55n2148_001:0188c27_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "共使人祕書郎禇遂良等。",
+        "from": "T55n2148_001:0188c27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "附新譯經挍定申奏。",
+        "from": "T55n2148_001:0189a01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奉　勅施行。",
+        "from": "T55n2148_001:0189a01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有人將大集三十卷。",
+        "from": "T55n2148_001:0189a02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日藏十卷。",
+        "from": "T55n2148_001:0189a02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "月藏十卷。",
+        "from": "T55n2148_001:0189a02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無盡意六卷。",
+        "from": "T55n2148_001:0189a03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明度挍計二卷。",
+        "from": "T55n2148_001:0189a03_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五部合為六十卷。",
+        "from": "T55n2148_001:0189a03_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大集者誤也。",
+        "from": "T55n2148_001:0189a04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勘文大集前十方諸佛會。",
+        "from": "T55n2148_001:0189a04_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日藏月藏後十方諸菩薩會。",
+        "from": "T55n2148_001:0189a05_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無盡意是重譯。",
+        "from": "T55n2148_001:0189a05_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明度挍計是別部。",
+        "from": "T55n2148_001:0189a06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又撿仁壽二年翻經大德彥琮法師等。",
+        "from": "T55n2148_001:0189a06_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奉　勅新定一切經目五部。",
+        "from": "T55n2148_001:0189a07_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各自別行。",
+        "from": "T55n2148_001:0189a08_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貞觀十一年四月。",
+        "from": "T55n2148_001:0189a08_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皇太子於延興寺造一切經。",
+        "from": "T55n2148_001:0189a09_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有人將六十卷大集本來諸德莫之能定。",
+        "from": "T55n2148_001:0189a09_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂抄入藏。",
+        "from": "T55n2148_001:0189a10_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仍五本重抄目復不改。",
+        "from": "T55n2148_001:0189a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智通覩此參差。",
+        "from": "T55n2148_001:0189a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "處處尋勘乃見八卷金光明序云。",
+        "from": "T55n2148_001:0189a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開皇十七年興善寺沙門寶貴。",
+        "from": "T55n2148_001:0189a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔晉朝支敏度。",
+        "from": "T55n2148_001:0189a13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "合兩竺二支一百五本。",
+        "from": "T55n2148_001:0189a13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "首楞嚴為一部八卷。",
+        "from": "T55n2148_001:0189a14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又合一支兩竺三本。",
+        "from": "T55n2148_001:0189a14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "維摩為一部五卷。",
+        "from": "T55n2148_001:0189a15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斯既先哲遺蹤遂承規合。",
+        "from": "T55n2148_001:0189a15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此大集為六十卷。",
+        "from": "T55n2148_001:0189a16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今讀經文。",
+        "from": "T55n2148_001:0189a16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "集會時別。",
+        "from": "T55n2148_001:0189a17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵甲亦各不同。",
+        "from": "T55n2148_001:0189a17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "翻譯時代又異。",
+        "from": "T55n2148_001:0189a17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流傳遍及海外。",
+        "from": "T55n2148_001:0189a18_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今忽合之。",
+        "from": "T55n2148_001:0189a18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "恐疑惑者多。",
+        "from": "T55n2148_001:0189a18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所引楞嚴淨名注經等。",
+        "from": "T55n2148_001:0189a19_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "只是私記。",
+        "from": "T55n2148_001:0189a19_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "並不入藏。",
+        "from": "T55n2148_001:0189a19_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六十卷大集。",
+        "from": "T55n2148_001:0189a20_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈得獨行。",
+        "from": "T55n2148_001:0189a20_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幸冀來哲詳而體焉。",
+        "from": "T55n2148_001:0189a20_23",
         "context_with_next_sentence": false
     }
 ]

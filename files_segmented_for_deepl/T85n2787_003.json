@@ -5700,7 +5700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "心種者謂羅勒[藋隹+(黍禾)]等柔[打丁+修]淨。",
+        "source_sentence": "心種者謂羅勒[藋-隹+(黍-禾)]等柔[打-丁+修]淨。",
         "from": "T85n2787_003:0600b07_11",
         "context_with_next_sentence": true
     },
@@ -6880,7 +6880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "旋脚直脚曲脚入[打丁+坒]無脚。",
+        "source_sentence": "旋脚直脚曲脚入[打-丁+坒]無脚。",
         "from": "T85n2787_003:0601b16_11",
         "context_with_next_sentence": true
     },
@@ -8145,7 +8145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "脫脚者謂脚入[打丁+坒]。",
+        "source_sentence": "脫脚者謂脚入[打-丁+坒]。",
         "from": "T85n2787_003:0602c13_10",
         "context_with_next_sentence": true
     },
@@ -15530,7 +15530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+專]食入中。",
+        "source_sentence": "[跳-兆+專]食入中。",
         "from": "T85n2787_003:0609c19_2",
         "context_with_next_sentence": true
     },
@@ -19905,7 +19905,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若不差者以酒著餅粥中合食。",
+        "source_sentence": "若不差者以酒著䴵粥中合食。",
         "from": "T85n2787_003:0613c19_13",
         "context_with_next_sentence": true
     },
@@ -22060,7 +22060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "未熏鉢[鏈車+聿][金*咨]衣鉢不作淨畜者皆墮。",
+        "source_sentence": "未熏鉢[鏈-車+聿][金*咨]衣鉢不作淨畜者皆墮。",
         "from": "T85n2787_003:0615c24_1",
         "context_with_next_sentence": true
     },
@@ -22887,6 +22887,21 @@
     {
         "source_sentence": "戒疏卷第三",
         "from": "T85n2787_003:0616c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙門　福慧勘記",
+        "from": "T85n2787_003:0616c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寅年十月十一日",
+        "from": "T85n2787_003:0616c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘　福漸詳閱",
+        "from": "T85n2787_003:0616c11_0",
         "context_with_next_sentence": false
     }
 ]

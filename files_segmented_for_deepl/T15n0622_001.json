@@ -400,7 +400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "夏三月已過歲暮已至，當鉢和蘭十四日夜明星出時，唯勅阿難鳴揵[打丁+遲]布草褥，唯與阿難共鉢和蘭。",
+        "source_sentence": "夏三月已過歲暮已至，當鉢和蘭十四日夜明星出時，唯勅阿難鳴揵[打-丁+遲]布草褥，唯與阿難共鉢和蘭。",
         "from": "T15n0622_001:0346a02_2",
         "context_with_next_sentence": true
     },

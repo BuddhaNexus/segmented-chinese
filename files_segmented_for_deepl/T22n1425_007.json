@@ -600,7 +600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時空中有天，說此偈言：「『知識慈心語，　　佷[仁二+戾]不受諫；　　守頑招此禍，　　自喪其身命；　　是故癡野干，　　遭斯木罐苦。』」",
+        "source_sentence": "時空中有天，說此偈言：「『知識慈心語，　　佷[仁-二+戾]不受諫；　　守頑招此禍，　　自喪其身命；　　是故癡野干，　　遭斯木罐苦。』」",
         "from": "T22n1425_007:0282c04_2",
         "context_with_next_sentence": true
     },
@@ -1120,12 +1120,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此是惡事，汝常不聞我種種因緣，呵責[怡台+龍]悷難諫，種種因緣讚歎柔軟易諫耶？",
+        "source_sentence": "此是惡事，汝常不聞我種種因緣，呵責[怡-台+龍]悷難諫，種種因緣讚歎柔軟易諫耶？",
         "from": "T22n1425_007:0284a04_17",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "汝等云何[怡台+龍]悷難諫？",
+        "source_sentence": "汝等云何[怡-台+龍]悷難諫？",
         "from": "T22n1425_007:0284a06_0",
         "context_with_next_sentence": true
     },

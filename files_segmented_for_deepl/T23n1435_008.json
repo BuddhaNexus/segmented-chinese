@@ -885,12 +885,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "與食、若似食，食者五種：謂飯、麨、餅、魚、肉。",
+        "source_sentence": "與食、若似食，食者五種：謂飯、麨、䴵、魚、肉。",
         "from": "T23n1435_008:0056a19_20",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "似食者，亦有五種：謂糜食、粟食、[麩夫+廣]麥食、莠子食、迦師食。",
+        "source_sentence": "似食者，亦有五種：謂糜食、粟食、&#;麥食、莠子食、迦師食。",
         "from": "T23n1435_008:0056a20_21",
         "context_with_next_sentence": true
     },
@@ -2270,7 +2270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "作者，若浣染割截[打丁+替]。",
+        "source_sentence": "作者，若浣染割截[打-丁+替]。",
         "from": "T23n1435_008:0059a13_26",
         "context_with_next_sentence": true
     },
@@ -3080,8 +3080,483 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "(三十事竟)十誦律卷第八",
+        "source_sentence": "(三十事竟)十誦律卷第八佛在舍衛國。",
         "from": "T23n1435_008:0061c01_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時有一居士，發心欲與佛及僧飲食復與僧衣。",
+        "from": "T23n1435_008:0061c03_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時世饑儉乞食難得，是居士財物不多，夏時已過，心中憂愁作是言：「今何痛惱苦急乃爾。",
+        "from": "T23n1435_008:0061c04_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我本心欲與佛及僧飲食復與僧衣，時世饑儉乞求難得，我財物少，夏時已過，心中憂愁苦急不滿我願。",
+        "from": "T23n1435_008:0061c06_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我今當從僧中少多請比丘與食與僧衣，令我福德不空。」",
+        "from": "T23n1435_008:0061c09_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作是念已，便入祇洹打揵椎。",
+        "from": "T23n1435_008:0061c10_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有比丘問居士：「何因緣故打椎？」",
+        "from": "T23n1435_008:0061c11_44",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居士答言：「我欲從僧中請爾所比丘到我舍。」",
+        "from": "T23n1435_008:0061c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時知會人即差爾所比丘去，次到六群比丘。",
+        "from": "T23n1435_008:0061c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六群比丘先時有次請，便持衣鉢先到請家，辦飲食時教如是如是作。",
+        "from": "T23n1435_008:0061c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時六群比丘，晨朝持衣鉢到是居士舍，共相問訊在一面坐。",
+        "from": "T23n1435_008:0061c15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居士作禮已在前坐，自向六群比丘軟語：「我本心欲與佛及僧飲食復與僧衣。",
+        "from": "T23n1435_008:0061c17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今世饑儉乞求難得，我財物少，夏時已過，心中憂愁苦急，作是念：『我今當從僧中請少多比丘與食，便與眾僧衣，令我不失福德。』",
+        "from": "T23n1435_008:0061c19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以是因緣故，食與汝等，衣當與僧。」",
+        "from": "T23n1435_008:0061c22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時六群比丘聞衣名心動，語居士言：「是衣何似？",
+        "from": "T23n1435_008:0061c23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "持來示我。」",
+        "from": "T23n1435_008:0061c24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居士言：「善。」",
+        "from": "T23n1435_008:0061c24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即出衣示之。",
+        "from": "T23n1435_008:0061c24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六群比丘見衣倍生貪心，語居士言：「汝意欲令是衣有用耶？",
+        "from": "T23n1435_008:0061c25_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲令舉置耶？」",
+        "from": "T23n1435_008:0061c26_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居士言：「所以施者，欲令用之。」",
+        "from": "T23n1435_008:0061c26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝若欲令不用者，當與僧。",
+        "from": "T23n1435_008:0061c27_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T23n1435_008:0061c28_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧多有衣舉在一處，朽壞蟲噉。",
+        "from": "T23n1435_008:0061c28_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若令用者，當與我等。",
+        "from": "T23n1435_008:0061c29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我等少衣，得布施我等當用。」",
+        "from": "T23n1435_008:0061c29_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居士言：「汝等知與僧不用。",
+        "from": "T23n1435_008:0062a01_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若汝等能用者便當相與。」",
+        "from": "T23n1435_008:0062a01_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居士與食食已，持是衣與。",
+        "from": "T23n1435_008:0062a02_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六群比丘食已，持是衣去，入祇洹示諸比丘：「是衣何似？",
+        "from": "T23n1435_008:0062a03_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "細好不？」",
+        "from": "T23n1435_008:0062a04_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸比丘言：「實好。",
+        "from": "T23n1435_008:0062a04_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝何從得。」",
+        "from": "T23n1435_008:0062a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六群比丘廣說是事。",
+        "from": "T23n1435_008:0062a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是中有比丘少欲知足行頭陀，聞是事心不喜，種種因緣呵責：「云何名比丘，知物向僧自求向己？」",
+        "from": "T23n1435_008:0062a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種種因緣呵已，向佛廣說。",
+        "from": "T23n1435_008:0062a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛以是事集比丘僧，知而故問六群比丘：「汝實作是事不？」",
+        "from": "T23n1435_008:0062a08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答言：「實作。",
+        "from": "T23n1435_008:0062a10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！」",
+        "from": "T23n1435_008:0062a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛以種種因緣呵責六羣比丘：「云何名比丘，知物向僧自求向己？」",
+        "from": "T23n1435_008:0062a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛以種種因緣呵已，語諸比丘：「以十利故與諸比丘結戒。",
+        "from": "T23n1435_008:0062a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從今是戒應如是說：若比丘知物向僧自求向己，尼薩耆波逸提。」",
+        "from": "T23n1435_008:0062a13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知者，若自知、若從他聞、若檀越語。",
+        "from": "T23n1435_008:0062a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "物者，謂施僧物，若衣鉢、戶鉤、澡灌、時藥、時分藥、七日藥、終身藥。",
+        "from": "T23n1435_008:0062a15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "向僧者，發心欲與僧，未定與。",
+        "from": "T23n1435_008:0062a17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尼薩耆波逸提者，是衣應捨，波逸提罪應悔過。",
+        "from": "T23n1435_008:0062a17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是中犯者，若比丘知是物向比丘僧，自求向己，尼薩耆波逸提。",
+        "from": "T23n1435_008:0062a19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若向三二一，突吉羅。",
+        "from": "T23n1435_008:0062a20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘尼知是物向比丘尼僧，自求向己，尼薩耆波逸提。",
+        "from": "T23n1435_008:0062a21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若向三二一，突吉羅。",
+        "from": "T23n1435_008:0062a22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此三比丘，求向餘三比丘，突吉羅。",
+        "from": "T23n1435_008:0062a22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向三比丘，求向二比丘一比丘，比丘尼僧、三比丘尼、二比丘尼、一比丘尼，三式叉摩尼、二式叉摩尼、一式叉摩尼，三沙彌、二沙彌、一沙彌，三沙彌尼、二沙彌尼、一沙彌尼，比丘僧，皆突吉羅。",
+        "from": "T23n1435_008:0062a24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此二比丘，求向餘二比丘，突吉羅。",
+        "from": "T23n1435_008:0062a28_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若知是物向二比丘，求向一比丘，比丘尼僧、三比丘尼、二比丘尼、一比丘尼，三式叉摩尼、二式叉摩尼、一式叉摩尼，三沙彌、二沙彌、一沙彌，三沙彌尼、二沙彌尼、一沙彌尼，比丘僧、三二一比丘，皆突吉羅。",
+        "from": "T23n1435_008:0062b01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此一比丘，求向餘一比丘，突吉羅。",
+        "from": "T23n1435_008:0062b05_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若知是物向一比丘，求向比丘尼僧、三比丘尼、二比丘尼、一比丘尼，三式叉摩尼、二式叉摩尼、一式叉摩尼，三沙彌、二一沙彌，三沙彌尼、二一沙彌尼，比丘僧、三比丘、二比丘、一比丘，皆突吉羅。",
+        "from": "T23n1435_008:0062b07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知物向此三比丘尼，求向餘三比丘尼，突吉羅。",
+        "from": "T23n1435_008:0062b11_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向三比丘尼，求向二比丘尼、一比丘尼，三式叉摩尼、二一式叉摩尼，三沙彌、二一沙彌，三沙彌尼、二一沙彌尼，比丘僧、三比丘、二一比丘，比丘尼僧，皆突吉羅。",
+        "from": "T23n1435_008:0062b12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此二比丘尼，求向餘二比丘尼，突吉羅。",
+        "from": "T23n1435_008:0062b17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向二比丘尼，求向一比丘尼，三式叉摩尼、二一式叉摩尼，三沙彌、二一沙彌，三沙彌尼、二一沙彌尼，比丘僧、三比丘、二一比丘，比丘尼僧、三二一比丘尼，皆突吉羅。",
+        "from": "T23n1435_008:0062b18_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此一比丘尼，求向餘一比丘尼，突吉羅。",
+        "from": "T23n1435_008:0062b22_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向一比丘尼，求向三式叉摩尼、二式叉摩尼、一式叉摩尼，三沙彌、二一沙彌，三沙彌尼、二一沙彌尼，比丘僧、三比丘、二一比丘，比丘尼僧、三比丘尼、二一比丘尼，皆突吉羅。",
+        "from": "T23n1435_008:0062b24_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此三式叉摩尼，求向餘三式叉摩尼，突吉羅。",
+        "from": "T23n1435_008:0062b28_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向三式叉摩尼，求向二式叉摩尼、一式叉摩尼，三沙彌、二一沙彌，三沙彌尼、二一沙彌尼，比丘僧、三比丘、二一比丘，比丘尼僧、三比丘尼、二比丘尼、一比丘尼，皆突吉羅。",
+        "from": "T23n1435_008:0062c01_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此一式叉摩尼，求向餘二式叉摩尼，突吉羅。",
+        "from": "T23n1435_008:0062c05_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向二式叉摩尼，求向一式叉摩尼，三沙彌、二一沙彌，三沙彌尼、二一沙彌尼，比丘僧、三比丘、二一比丘，比丘尼僧、三比丘尼、二一比丘尼，三式叉摩尼，皆突吉羅。",
+        "from": "T23n1435_008:0062c07_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此一式叉摩尼，求向餘一式叉摩尼，突吉羅。",
+        "from": "T23n1435_008:0062c11_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若知是物向一式叉摩尼，求向三沙彌、二一沙彌，三沙彌尼、二一沙彌尼，比丘僧、三比丘、二一比丘，比丘尼僧、三比丘尼、二一比丘尼，三式叉摩尼、二式叉摩尼，皆突吉羅。",
+        "from": "T23n1435_008:0062c13_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此三沙彌，求向餘三沙彌，突吉羅。",
+        "from": "T23n1435_008:0062c17_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向三沙彌，求向二沙彌、一沙彌，三沙彌尼、二一沙彌尼，比丘僧、三比丘、二一比丘，比丘尼僧、三比丘尼、二一比丘尼，三式叉摩尼、二一式叉摩尼，皆突吉羅。",
+        "from": "T23n1435_008:0062c18_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此二沙彌，求向餘二沙彌，突吉羅。",
+        "from": "T23n1435_008:0062c22_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向二沙彌，求向一沙彌，三沙彌尼、二一沙彌尼，比丘僧、三比丘、二一比丘，比丘尼僧、三比丘尼、二一比丘尼，三式叉摩尼、二一式叉摩尼，三沙彌，皆突吉羅。",
+        "from": "T23n1435_008:0062c23_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此一沙彌，求向餘一沙彌，突吉羅。",
+        "from": "T23n1435_008:0062c27_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此一沙彌，求向三沙彌尼、二一沙彌尼，比丘僧、三比丘、二一比丘，比丘尼僧、三比丘尼、二一比丘尼，三式叉摩尼、二一式叉摩尼，三沙彌、二一沙彌，皆突吉羅。",
+        "from": "T23n1435_008:0062c29_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此三沙彌尼，求向餘三沙彌尼，突吉羅。",
+        "from": "T23n1435_008:0063a04_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此三沙彌尼，求向餘二沙彌尼、一沙彌尼，比丘僧、三比丘、二一比丘，比丘尼僧、三比丘尼、二一比丘尼，三式叉摩尼、二一式叉摩尼，三沙彌、二一沙彌，皆突吉羅。",
+        "from": "T23n1435_008:0063a05_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此二沙彌尼，求向餘二沙彌尼，突吉羅。",
+        "from": "T23n1435_008:0063a09_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向二沙彌尼，求向一沙彌尼，比丘僧、三比丘、二一比丘，比丘尼僧、三比丘尼、二一比丘尼，三式叉摩尼、二一式叉摩尼，三沙彌、二一沙彌，三二一沙彌尼，皆突吉羅。",
+        "from": "T23n1435_008:0063a11_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此一沙彌尼，求向餘一沙彌尼，突吉羅。",
+        "from": "T23n1435_008:0063a15_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向一沙彌尼，求向比丘僧、三比丘、二一比丘，比丘尼僧、三比丘尼、二一比丘尼，三式叉摩尼、二一式叉摩尼，三沙彌、二一沙彌，三沙彌尼、二一沙彌尼，皆突吉羅。",
+        "from": "T23n1435_008:0063a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此多畜生，求向餘多畜生，突吉羅。",
+        "from": "T23n1435_008:0063a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向多畜生，求向二畜生、一畜生，突吉羅。",
+        "from": "T23n1435_008:0063a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此二畜生，求向餘二畜生，突吉羅。",
+        "from": "T23n1435_008:0063a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向二畜生，求向一畜生、多畜生，突吉羅。",
+        "from": "T23n1435_008:0063a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此一畜生，求向餘一畜生，突吉羅。",
+        "from": "T23n1435_008:0063a26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向此一畜生，求向多畜生、二畜生，突吉羅。",
+        "from": "T23n1435_008:0063a27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向比丘僧，求向比丘尼僧，突吉羅。",
+        "from": "T23n1435_008:0063a28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘知是物向比丘尼僧，求向比丘僧，突吉羅。",
+        "from": "T23n1435_008:0063b01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘僧破為二部，比丘知是物向此一部，求向餘一部，突吉羅。",
+        "from": "T23n1435_008:0063b02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若比丘向中生向想，得尼薩耆波逸提。",
+        "from": "T23n1435_008:0063b03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若向中生不向想，亦尼薩耆波逸提。",
+        "from": "T23n1435_008:0063b04_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若向中生疑，尼薩耆波逸提。",
+        "from": "T23n1435_008:0063b05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若不向中生向想，得突吉羅。",
+        "from": "T23n1435_008:0063b06_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若不向中生疑，得突吉羅。",
+        "from": "T23n1435_008:0063b07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若不向中生不向想，不犯。",
+        "from": "T23n1435_008:0063b07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(二十九事竟)",
+        "from": "T23n1435_008:0063b08_12",
         "context_with_next_sentence": false
     }
 ]

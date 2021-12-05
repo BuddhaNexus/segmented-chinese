@@ -2700,7 +2700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無有妨[得彳]。",
+        "source_sentence": "無有妨[得-彳]。",
         "from": "X87n1625_001:0278c20_3",
         "context_with_next_sentence": true
     },
@@ -4430,7 +4430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "六根[牙(必心)+?]用乃如此。",
+        "source_sentence": "六根[牙-(必-心)+?]用乃如此。",
         "from": "X87n1625_001:0280b12_12",
         "context_with_next_sentence": true
     },
@@ -5305,7 +5305,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "徐回[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "徐回[(厂@((既-旡)-日+口))*頁]。",
         "from": "X87n1625_001:0281b09_3",
         "context_with_next_sentence": true
     },

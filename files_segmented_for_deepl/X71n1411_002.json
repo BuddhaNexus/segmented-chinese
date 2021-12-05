@@ -3660,7 +3660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "就師請塔[打丁+羕]。",
+        "source_sentence": "就師請塔[打-丁+羕]。",
         "from": "X71n1411_002:0195c04_8",
         "context_with_next_sentence": true
     },
@@ -3785,7 +3785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "就師請塔[打丁+羕]處會。",
+        "source_sentence": "就師請塔[打-丁+羕]處會。",
         "from": "X71n1411_002:0195c10_3",
         "context_with_next_sentence": true
     },
@@ -13000,7 +13000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "老已無心走市[廓享+墨]。",
+        "source_sentence": "老已無心走市[廓-享+墨]。",
         "from": "X71n1411_002:0203a17_0",
         "context_with_next_sentence": true
     },

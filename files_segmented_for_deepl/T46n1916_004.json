@@ -5640,7 +5640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "身體面上遊風通身[病丙+習][病丙+習]痒悶疼痛飲食失味。",
+        "source_sentence": "身體面上遊風通身[病-丙+習][病-丙+習]痒悶疼痛飲食失味。",
         "from": "T46n1916_004:0505c07_6",
         "context_with_next_sentence": true
     },
@@ -5740,7 +5740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眼懸視[梳木+目][梳木+目]及瞖闇疼痛等。",
+        "source_sentence": "眼懸視[梳-木+目][梳-木+目]及瞖闇疼痛等。",
         "from": "T46n1916_004:0505c15_0",
         "context_with_next_sentence": true
     },

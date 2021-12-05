@@ -2685,7 +2685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "摩訶(引)沫羅嚩底(大力也)馱奢嚩路(十力也)嗢婆(二合)吠(得也)摩訶(引)昧怛[口*履]也(三合大慈也)毘庾(二合)嗢[(薩文+(立一))/木](二合)帝(發也)此意言。",
+        "source_sentence": "摩訶(引)沫羅嚩底(大力也)馱奢嚩路(十力也)嗢婆(二合)吠(得也)摩訶(引)昧怛[口*履]也(三合大慈也)毘庾(二合)嗢[(薩-文+(立-一))/木](二合)帝(發也)此意言。",
         "from": "T39n1797_002:0801c29_0",
         "context_with_next_sentence": true
     },
@@ -2775,7 +2775,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "薩嚩多囉(二合)弩[(薩文+(立一))/木]帝(二合一切方處所也。",
+        "source_sentence": "薩嚩多囉(二合)弩[(薩-文+(立-一))/木]帝(二合一切方處所也。",
         "from": "T39n1797_002:0802a11_6",
         "context_with_next_sentence": true
     },
@@ -2890,7 +2890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以此結界故無能壞也)[木*奈]奢(上聲呼十也)儞羶(方也即是結十方也)薩婆怛他(引)[(薩文+(立一))/木]多(一切佛也)弩壤帝(教也是一切佛之教。",
+        "source_sentence": "以此結界故無能壞也)[木*奈]奢(上聲呼十也)儞羶(方也即是結十方也)薩婆怛他(引)[(薩-文+(立-一))/木]多(一切佛也)弩壤帝(教也是一切佛之教。",
         "from": "T39n1797_002:0802a19_13",
         "context_with_next_sentence": true
     },
@@ -5810,7 +5810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[金*(离禸+ㄆ)]字等一頌明悲水瑜伽。",
+        "source_sentence": "[金*(离-禸+ㄆ)]字等一頌明悲水瑜伽。",
         "from": "T39n1797_002:0805b05_8",
         "context_with_next_sentence": true
     },
@@ -8202,6 +8202,11 @@
     {
         "source_sentence": "大毘盧遮那經供養次第法義疏卷下",
         "from": "T39n1797_002:0807c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元祿十三年庚辰之夏以古來之點一校了",
+        "from": "T39n1797_002:0807c26_0",
         "context_with_next_sentence": false
     }
 ]

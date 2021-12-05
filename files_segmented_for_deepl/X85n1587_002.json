@@ -5725,8 +5725,33 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "生死不了",
+        "source_sentence": "生死不了如何。",
         "from": "X85n1587_002:0012a19_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師云參。",
+        "from": "X85n1587_002:0012a20_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧云。",
+        "from": "X85n1587_002:0012a20_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謝師指示。",
+        "from": "X85n1587_002:0012a20_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師云。",
+        "from": "X85n1587_002:0012a20_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "屈殺人。",
+        "from": "X85n1587_002:0012a20_29",
         "context_with_next_sentence": false
     }
 ]

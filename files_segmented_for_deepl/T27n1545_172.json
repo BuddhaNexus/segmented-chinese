@@ -3130,7 +3130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一舍[打丁+虎]洲。",
+        "source_sentence": "一舍[打-丁+虎]洲。",
         "from": "T27n1545_172:0868a01_0",
         "context_with_next_sentence": true
     },
@@ -4272,6 +4272,11 @@
     {
         "source_sentence": "由此故言依七或未至滅。",
         "from": "T27n1545_172:0869b10_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說一切有部發智大毘婆沙論卷第一百七十二",
+        "from": "T27n1545_172:0869b11_0",
         "context_with_next_sentence": false
     }
 ]

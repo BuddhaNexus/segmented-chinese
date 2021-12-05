@@ -1095,7 +1095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[米*(企止+土)]論云。",
+        "source_sentence": "[米*(企-止+土)]論云。",
         "from": "X46n0784_006:0586b19_11",
         "context_with_next_sentence": true
     },
@@ -9825,7 +9825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今舉事來[顯頁+(彰章)]。",
+        "source_sentence": "今舉事來[顯-頁+(彰-章)]。",
         "from": "X46n0784_006:0594b07_3",
         "context_with_next_sentence": true
     },
@@ -14327,6 +14327,16 @@
     {
         "source_sentence": "無依無得大乘四論玄義記卷第六",
         "from": "X46n0784_006:0598c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯慶三年歲次戊午年十二月六日興輪寺學問僧法安。",
+        "from": "X46n0784_006:0598c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為　大皇帝及內殿故敬奉義章也。",
+        "from": "X46n0784_006:0598c09_1",
         "context_with_next_sentence": false
     }
 ]

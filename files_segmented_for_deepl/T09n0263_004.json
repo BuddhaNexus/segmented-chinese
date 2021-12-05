@@ -1210,7 +1210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　　又當復化，　大江流河，　　苑園浴池，　　華實滋茂，　臺館殿宇，　　牆垣綺[女*(替曰+貝)]，　　男女若干，　巨億百千。",
+        "source_sentence": "　　又當復化，　大江流河，　　苑園浴池，　　華實滋茂，　臺館殿宇，　　牆垣綺[女*(替-曰+貝)]，　　男女若干，　巨億百千。",
         "from": "T09n0263_004:0094a16_1",
         "context_with_next_sentence": true
     },

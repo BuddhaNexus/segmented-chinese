@@ -270,7 +270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "清飈[颱台+弗][颱台+弗]吹無時。",
+        "source_sentence": "清飈[颱-台+弗][颱-台+弗]吹無時。",
         "from": "T47n1996_005:0698b06_13",
         "context_with_next_sentence": true
     },
@@ -855,7 +855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "送僧歸靈隱(因矚白雲無羈)",
+        "source_sentence": "送僧歸靈隱(因矚白雲無覉)",
         "from": "T47n1996_005:0699a03_0",
         "context_with_next_sentence": true
     },
@@ -1930,7 +1930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "毋薄愚之誦帚。",
+        "source_sentence": "毋薄愚之誦箒。",
         "from": "T47n1996_005:0700a22_3",
         "context_with_next_sentence": true
     },
@@ -1950,7 +1950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "春雨濛濛春風[颱台+弗][颱台+弗]。",
+        "source_sentence": "春雨濛濛春風[颱-台+弗][颱-台+弗]。",
         "from": "T47n1996_005:0700a25_0",
         "context_with_next_sentence": true
     },
@@ -1985,7 +1985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "融羈鎖紫栗。",
+        "source_sentence": "融覊鎖紫栗。",
         "from": "T47n1996_005:0700a28_7",
         "context_with_next_sentence": true
     },

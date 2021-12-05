@@ -4320,7 +4320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "羯[飢几+夌]伽國(南印度)周五千餘里。",
+        "source_sentence": "羯[飢-几+夌]伽國(南印度)周五千餘里。",
         "from": "T51n2088_002:0966a29_0",
         "context_with_next_sentence": true
     },
@@ -6730,7 +6730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故象胥載庇[葶丁+呆]街斯立。",
+        "source_sentence": "故象胥載庇[葶-丁+呆]街斯立。",
         "from": "T51n2088_002:0968c24_7",
         "context_with_next_sentence": true
     },
@@ -12562,6 +12562,41 @@
     {
         "source_sentence": "釋迦方志卷下",
         "from": "T51n2088_002:0975a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大唐永徽元年歲維庚戌。",
+        "from": "T51n2088_002:0975a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "終南太一山豐德寺沙門。",
+        "from": "T51n2088_002:0975a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吳興釋道宣。",
+        "from": "T51n2088_002:0975a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "往參譯經旁觀別傳。",
+        "from": "T51n2088_002:0975a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文廣難尋故略舉其要。",
+        "from": "T51n2088_002:0975a05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "并潤其色同成其類。",
+        "from": "T51n2088_002:0975a05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庶將來好事用裨精爽云。",
+        "from": "T51n2088_002:0975a06_6",
         "context_with_next_sentence": false
     }
 ]

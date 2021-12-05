@@ -3620,7 +3620,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "便可以打箇[跳兆+孛]跳。",
+        "source_sentence": "便可以打箇[跳-兆+孛]跳。",
         "from": "X70n1397_002:0607b19_10",
         "context_with_next_sentence": true
     },
@@ -8555,7 +8555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蝦蟆[跳兆+孛]跳上天。",
+        "source_sentence": "蝦蟆[跳-兆+孛]跳上天。",
         "from": "X70n1397_002:0611b04_9",
         "context_with_next_sentence": true
     },

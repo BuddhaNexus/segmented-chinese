@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 附法智遺編止疑書",
+        "source_sentence": "附法智遺編止疑書",
         "from": "X56n0948_006:0852c06_0",
         "context_with_next_sentence": true
     },
@@ -6415,7 +6415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "繼齊嘉禾子玄天台元[穎禾+木]等輩。",
+        "source_sentence": "繼齊嘉禾子玄天台元[穎-禾+木]等輩。",
         "from": "X56n0948_006:0857c03_6",
         "context_with_next_sentence": true
     },
@@ -6642,6 +6642,11 @@
     {
         "source_sentence": "四明山客　(仁岳)　白。",
         "from": "X56n0948_006:0857c15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "附法智遺編止疑書(終)",
+        "from": "X56n0948_006:0857c17_0",
         "context_with_next_sentence": false
     }
 ]

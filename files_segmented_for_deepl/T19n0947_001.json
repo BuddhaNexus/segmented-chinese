@@ -3215,7 +3215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "指甲[怡台+命]之若人作法。",
+        "source_sentence": "指甲[怡-台+命]之若人作法。",
         "from": "T19n0947_001:0182c17_4",
         "context_with_next_sentence": true
     },
@@ -3265,7 +3265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)阿密嘌多(二)毘盧羯儞揭羅婆浴[剁几+ㄆ]尼阿羯羅沙尼唅唅泮泮莎訶大佛頂大心印契以二中指相叉於掌內。",
+        "source_sentence": "唵(一)阿密嘌多(二)毘盧羯儞揭羅婆浴[剁-几+ㄆ]尼阿羯羅沙尼唅唅泮泮莎訶大佛頂大心印契以二中指相叉於掌內。",
         "from": "T19n0947_001:0182c26_0",
         "context_with_next_sentence": true
     },
@@ -3315,7 +3315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)跋折羅(二)跋羅跋羅(三)印地嘌(二合)耶(四)毘輸達儞(五)唅唅(六)噌嚧遮隷(七)迦嚧遮[齒*(企止+米)](八)莎訶若作此印念一切諸佛。",
+        "source_sentence": "唵(一)跋折羅(二)跋羅跋羅(三)印地嘌(二合)耶(四)毘輸達儞(五)唅唅(六)噌嚧遮隷(七)迦嚧遮[齒*(企-止+米)](八)莎訶若作此印念一切諸佛。",
         "from": "T19n0947_001:0183a05_0",
         "context_with_next_sentence": true
     },
@@ -4095,7 +4095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "那謨剌怛囉[口*室]哩夜耶(一)那謨折覩嚕摩訶闍耶(二)鞞毘處吒矩(三)摩訶闍耶(四)毘盧博蒭摩訶闍耶(五)地利阿室覩嚕(六)娑陀耶娑陀耶訶底檀訶底檀勃陀婆底(七)菩提薩埵娑耶(八)鉢剌底迦(九)勃陀三婆底蘇利耶婆底(十)旃陀羅婆底(十一)醯醯底(十二)遮窒底(十三)虎虎摩訶婆底(十四)醯醯摩訶婆底(十五)娑婆斫蒭目鉗畔陀尼沙訶(十六)結界[捺示+土]契(出俱胝經是)其契相。",
+        "source_sentence": "那謨剌怛囉[口*室]哩夜耶(一)那謨折覩嚕摩訶闍耶(二)鞞毘處吒矩(三)摩訶闍耶(四)毘盧博蒭摩訶闍耶(五)地利阿室覩嚕(六)娑陀耶娑陀耶訶底檀訶底檀勃陀婆底(七)菩提薩埵娑耶(八)鉢剌底迦(九)勃陀三婆底蘇利耶婆底(十)旃陀羅婆底(十一)醯醯底(十二)遮窒底(十三)虎虎摩訶婆底(十四)醯醯摩訶婆底(十五)娑婆斫蒭目鉗畔陀尼沙訶(十六)結界[捺-示+土]契(出俱胝經是)其契相。",
         "from": "T19n0947_001:0183c26_0",
         "context_with_next_sentence": true
     },
@@ -4150,7 +4150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如草[捺示+土]勢。",
+        "source_sentence": "如草[捺-示+土]勢。",
         "from": "T19n0947_001:0184a10_3",
         "context_with_next_sentence": true
     },
@@ -4275,7 +4275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若被符晝呪詛[病丙+猒]蠱成病者。",
+        "source_sentence": "若被符晝呪詛[病-丙+猒]蠱成病者。",
         "from": "T19n0947_001:0184a22_1",
         "context_with_next_sentence": true
     },
@@ -7765,7 +7765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵哆[打丁+聿]哆勃律波羅勃律者纈迷沙呵召摩尼跋陀呪曰。",
+        "source_sentence": "唵哆[打-丁+聿]哆勃律波羅勃律者纈迷沙呵召摩尼跋陀呪曰。",
         "from": "T19n0947_001:0188a27_0",
         "context_with_next_sentence": true
     },
@@ -8357,6 +8357,26 @@
     {
         "source_sentence": "大佛頂如來放光法卷第二",
         "from": "T19n0947_001:0188c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　(朱)此書似誤多以他本可校之",
+        "from": "T19n0947_001:0188c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　(朱)干時□□三年十二月",
+        "from": "T19n0947_001:0188c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　校了",
+        "from": "T19n0947_001:0188c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　延久三年十二月十丑□□寫了",
+        "from": "T19n0947_001:0188c27_0",
         "context_with_next_sentence": false
     }
 ]

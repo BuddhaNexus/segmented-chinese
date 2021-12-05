@@ -1200,7 +1200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "豈有許多搕[打丁+(天/韭)]。",
+        "source_sentence": "豈有許多搕[打-丁+(天/韭)]。",
         "from": "X69n1359_009:0544c09_28",
         "context_with_next_sentence": true
     },
@@ -2470,7 +2470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "方得這箇柄杷入手便有掀天括地分。",
+        "source_sentence": "方得這箇柄&#;入手便有掀天括地分。",
         "from": "X69n1359_009:0546b16_5",
         "context_with_next_sentence": true
     },

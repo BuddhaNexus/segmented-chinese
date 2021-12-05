@@ -2820,7 +2820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而習善共[跳兆+(轍車)]也。",
+        "source_sentence": "而習善共[跳-兆+(轍-車)]也。",
         "from": "T52n2102_002:0012a24_5",
         "context_with_next_sentence": true
     },
@@ -3390,7 +3390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於霸上比丘今見在新寺。",
+        "source_sentence": "於覇上比丘今見在新寺。",
         "from": "T52n2102_002:0012c17_20",
         "context_with_next_sentence": true
     },
@@ -5130,7 +5130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "商臣考終而莊周賢霸。",
+        "source_sentence": "商臣考終而莊周賢覇。",
         "from": "T52n2102_002:0014c18_0",
         "context_with_next_sentence": true
     },

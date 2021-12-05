@@ -1380,7 +1380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "取金具者爐冶蒙炭甘[火*過]斷杖[打丁+備]及人功糧食資儲。",
+        "source_sentence": "取金具者爐冶蒙炭甘[火*過]斷杖[打-丁+備]及人功糧食資儲。",
         "from": "T85n2880_002:1370b05_7",
         "context_with_next_sentence": true
     },
@@ -1885,7 +1885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "真際隨感以為[打丁+備]扇。",
+        "source_sentence": "真際隨感以為[打-丁+備]扇。",
         "from": "T85n2880_002:1371a15_3",
         "context_with_next_sentence": true
     },

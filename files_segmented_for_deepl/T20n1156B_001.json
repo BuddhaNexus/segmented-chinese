@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": "宗[叡├+〡]僧正於唐國師所口受大隨求根本印第一二手內相叉。",
+        "source_sentence": "宗[叡-├+〡]僧正於唐國師所口受大隨求根本印第一二手內相叉。",
         "from": "T20n1156B_001:0650c21_0",
         "context_with_next_sentence": true
     },
@@ -227,6 +227,11 @@
     {
         "source_sentence": "阿尾羅吽欠",
         "from": "T20n1156B_001:0651b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　貞觀十九年三月二十二日傳",
+        "from": "T20n1156B_001:0651b10_0",
         "context_with_next_sentence": false
     }
 ]

@@ -1210,7 +1210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "X71n1421_002:0667a24_20",
         "context_with_next_sentence": true
     },
@@ -1505,7 +1505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "普請[栽木+土]松。",
+        "source_sentence": "普請[栽-木+土]松。",
         "from": "X71n1421_002:0667b20_0",
         "context_with_next_sentence": true
     },
@@ -1520,7 +1520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "記得臨濟在黃檗[栽木+土]松次。",
+        "source_sentence": "記得臨濟在黃檗[栽-木+土]松次。",
         "from": "X71n1421_002:0667b20_3",
         "context_with_next_sentence": true
     },
@@ -1530,7 +1530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "深山裏[栽木+土]許多松作什麼。",
+        "source_sentence": "深山裏[栽-木+土]許多松作什麼。",
         "from": "X71n1421_002:0667b21_0",
         "context_with_next_sentence": true
     },
@@ -1570,7 +1570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今日普請[栽木+土]松。",
+        "source_sentence": "今日普請[栽-木+土]松。",
         "from": "X71n1421_002:0667b23_0",
         "context_with_next_sentence": true
     },
@@ -1705,7 +1705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師復舉臨濟在黃檗[栽木+土]松公案。",
+        "source_sentence": "師復舉臨濟在黃檗[栽-木+土]松公案。",
         "from": "X71n1421_002:0667c05_2",
         "context_with_next_sentence": true
     },
@@ -2175,7 +2175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "X71n1421_002:0668a08_8",
         "context_with_next_sentence": true
     },
@@ -2940,7 +2940,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "好個[但日+木]粮方。",
+        "source_sentence": "好個[但-日+木]粮方。",
         "from": "X71n1421_002:0668b23_6",
         "context_with_next_sentence": true
     },

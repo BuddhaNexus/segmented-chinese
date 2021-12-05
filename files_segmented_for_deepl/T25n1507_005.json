@@ -1000,7 +1000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "昔羅云從佛行，佛以善權故現腳[跳兆+專]使羅云見。",
+        "source_sentence": "昔羅云從佛行，佛以善權故現腳[跳-兆+專]使羅云見。",
         "from": "T25n1507_005:0049b21_1",
         "context_with_next_sentence": true
     },
@@ -2220,12 +2220,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此比丘精神疎鈍，佛教使誦掃帚，得帚忘掃、得掃忘帚。",
+        "source_sentence": "此比丘精神疎鈍，佛教使誦掃箒，得箒忘掃、得掃忘箒。",
         "from": "T25n1507_005:0052a06_1",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "六年之中專心誦此，意遂解悟，而自惟曰：「帚者篲、帚者除。",
+        "source_sentence": "六年之中專心誦此，意遂解悟，而自惟曰：「箒者篲、箒者除。",
         "from": "T25n1507_005:0052a07_2",
         "context_with_next_sentence": true
     },
@@ -2235,7 +2235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以八正篲掃三毒垢，所謂掃帚義者正謂此耶。」",
+        "source_sentence": "以八正篲掃三毒垢，所謂掃箒義者正謂此耶。」",
         "from": "T25n1507_005:0052a09_4",
         "context_with_next_sentence": true
     },
@@ -2567,6 +2567,51 @@
     {
         "source_sentence": "分別功德論卷第五",
         "from": "T25n1507_005:0052c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "按此論，丹藏為三卷，《開元錄》云四卷，而注云或三卷或五卷者，但分卷有異耳，文無增減焉。",
+        "from": "T25n1507_005:0052c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "錄有注敘云：「右此一論，釋《增一阿含經》義。",
+        "from": "T25n1507_005:0052c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從初〈序品〉至〈弟子品〉過半，釋王比丘即止。」",
+        "from": "T25n1507_005:0052c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《法上錄》云：「竺法護譯者，不然。",
+        "from": "T25n1507_005:0052c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此中牒經、解釋文句，並同本經。",
+        "from": "T25n1507_005:0052c19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "似與《增一阿含》同一人譯。」",
+        "from": "T25n1507_005:0052c20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而餘錄並云失譯，且依此定。",
+        "from": "T25n1507_005:0052c21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《僧祐錄》云：「迦葉、阿難撰者，此亦不然。",
+        "from": "T25n1507_005:0052c21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如論第一卷中引外國師及薩婆多說，故知非是二尊所撰。」",
+        "from": "T25n1507_005:0052c22_8",
         "context_with_next_sentence": false
     }
 ]

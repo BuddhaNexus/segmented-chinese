@@ -185,7 +185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "六住有多[利禾+扁]蔭。",
+        "source_sentence": "六住有多[利-禾+扁]蔭。",
         "from": "T85n2748_003:0170a15_5",
         "context_with_next_sentence": true
     },
@@ -13337,6 +13337,11 @@
     {
         "source_sentence": "法花義記第三",
         "from": "T85n2748_003:0179c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘法順寫記也",
+        "from": "T85n2748_003:0179c28_0",
         "context_with_next_sentence": false
     }
 ]

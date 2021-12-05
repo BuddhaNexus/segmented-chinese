@@ -1305,7 +1305,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如達士丈夫，吹大鳴[虫*(嬴口+(罩卓))]，立大臺上，盡力吹之，其聲四聞。",
+        "source_sentence": "譬如達士丈夫，吹大鳴[虫*(嬴-口+(罩-卓))]，立大臺上，盡力吹之，其聲四聞。",
         "from": "T01n0022_001:0275b23_11",
         "context_with_next_sentence": true
     },

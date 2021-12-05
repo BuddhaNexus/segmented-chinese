@@ -3750,7 +3750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也是污[仁二+卯]上流　上堂。",
+        "source_sentence": "也是污[仁-二+卯]上流　上堂。",
         "from": "X82n1571_083:0457b09_0",
         "context_with_next_sentence": true
     },
@@ -3835,7 +3835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更挑泥土搕[打丁+(天/韭)]。",
+        "source_sentence": "更挑泥土搕[打-丁+(天/韭)]。",
         "from": "X82n1571_083:0457b13_17",
         "context_with_next_sentence": true
     },
@@ -5450,7 +5450,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "在你缽袋裏。",
+        "source_sentence": "在你盋袋裏。",
         "from": "X82n1571_083:0458c02_13",
         "context_with_next_sentence": true
     },

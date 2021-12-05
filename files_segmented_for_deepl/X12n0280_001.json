@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 大佛頂首楞嚴經臆說序",
+        "source_sentence": "大佛頂首楞嚴經臆說序",
         "from": "X12n0280_001:0662c03_0",
         "context_with_next_sentence": true
     },
@@ -6440,7 +6440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "由是迤[這言+里]徵逐。",
+        "source_sentence": "由是迤[這-言+里]徵逐。",
         "from": "X12n0280_001:0668b09_2",
         "context_with_next_sentence": true
     },
@@ -8140,7 +8140,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "孩孺則膚[勝力+天]潤澤。",
+        "source_sentence": "孩孺則膚[勝-力+天]潤澤。",
         "from": "X12n0280_001:0669c17_39",
         "context_with_next_sentence": true
     },
@@ -30520,8 +30520,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "致意諄",
+        "source_sentence": "致意諄諄。",
         "from": "X12n0280_001:0688a18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不可不辨。",
+        "from": "X12n0280_001:0688a19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝之所問。",
+        "from": "X12n0280_001:0688a19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "實為要問也。",
+        "from": "X12n0280_001:0688a19_6",
         "context_with_next_sentence": false
     }
 ]

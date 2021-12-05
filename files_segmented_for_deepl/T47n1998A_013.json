@@ -920,7 +920,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "T47n1998A_013:0864a05_6",
         "context_with_next_sentence": true
     },
@@ -3795,7 +3795,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "向甚處摸[打丁+索]。",
+        "source_sentence": "向甚處摸[打-丁+索]。",
         "from": "T47n1998A_013:0866b16_24",
         "context_with_next_sentence": true
     },

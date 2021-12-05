@@ -1170,7 +1170,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "用拔諸苦。",
+        "source_sentence": "用㧞諸苦。",
         "from": "X68n1319_015:0623a12_25",
         "context_with_next_sentence": true
     },
@@ -2430,7 +2430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "且莫草草匆匆。",
+        "source_sentence": "且莫草草悤悤。",
         "from": "X68n1319_015:0624a04_12",
         "context_with_next_sentence": true
     },
@@ -21230,7 +21230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更[跳兆+孛]跳在。",
+        "source_sentence": "更[跳-兆+孛]跳在。",
         "from": "X68n1319_015:0638a11_14",
         "context_with_next_sentence": true
     },
@@ -22315,7 +22315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "剎竿頭上煎[飢几+追]子。",
+        "source_sentence": "剎竿頭上煎[飢-几+追]子。",
         "from": "X68n1319_015:0638c19_12",
         "context_with_next_sentence": true
     },
@@ -28970,8 +28970,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若以舉",
+        "source_sentence": "若以舉唱宗乘。",
         "from": "X68n1319_015:0644a20_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "只有一時散去好。",
+        "from": "X68n1319_015:0644a21_33",
         "context_with_next_sentence": false
     }
 ]

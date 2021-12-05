@@ -16040,7 +16040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "初愚障三種無[得彳+口]解。",
+        "source_sentence": "初愚障三種無[得-彳+口]解。",
         "from": "X51n0823_009:0284a09_18",
         "context_with_next_sentence": true
     },
@@ -16295,8 +16295,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "頓",
+        "source_sentence": "頓斷二障。",
         "from": "X51n0823_009:0284a24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頓證二果故。",
+        "from": "X51n0823_009:0284b01_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卷第九",
+        "from": "X51n0823_009:0284b01_20",
         "context_with_next_sentence": false
     }
 ]

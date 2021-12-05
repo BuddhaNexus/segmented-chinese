@@ -125,7 +125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "霜葉墮蕭[颱台+(癸天+虫)]。",
+        "source_sentence": "霜葉墮蕭[颱-台+(癸-天+虫)]。",
         "from": "X66n1296_045:0260a07_2",
         "context_with_next_sentence": true
     },
@@ -910,7 +910,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "普照甞垂百問勘驗學者。",
+        "source_sentence": "普照甞垂百問勘騐學者。",
         "from": "X66n1296_045:0261a01_0",
         "context_with_next_sentence": true
     },
@@ -4930,7 +4930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "掀翻海嶽須還拔地之才。",
+        "source_sentence": "掀翻海嶽須還㧞地之才。",
         "from": "X66n1296_045:0265b15_1",
         "context_with_next_sentence": true
     },
@@ -4940,7 +4940,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "博山此頌拔地之才有矣。",
+        "source_sentence": "博山此頌㧞地之才有矣。",
         "from": "X66n1296_045:0265b16_3",
         "context_with_next_sentence": true
     },

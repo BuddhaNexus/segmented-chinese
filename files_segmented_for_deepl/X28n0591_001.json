@@ -1465,7 +1465,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦須[泳永+曶]合經旨。",
+        "source_sentence": "亦須[泳-永+曶]合經旨。",
         "from": "X28n0591_001:0554a18_10",
         "context_with_next_sentence": true
     },
@@ -1975,7 +1975,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "學力充裕。",
+        "source_sentence": "學力充&#;。",
         "from": "X28n0591_001:0554c08_6",
         "context_with_next_sentence": true
     },
@@ -2285,7 +2285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "率皆書籤麇至。",
+        "source_sentence": "率皆書籤麏至。",
         "from": "X28n0591_001:0555a05_8",
         "context_with_next_sentence": true
     },
@@ -3582,6 +3582,11 @@
     {
         "source_sentence": "無所事事矣。",
         "from": "X28n0591_001:0556b05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同門病頭陀靈乘謹跋",
+        "from": "X28n0591_001:0556b06_0",
         "context_with_next_sentence": false
     }
 ]

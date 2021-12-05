@@ -6830,7 +6830,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "所謂金銀琉璃玻[王*(利/(尒小+(恭共)))]赤珠硨磲碼碯。",
+        "source_sentence": "所謂金銀琉璃玻[王*(利/(尒-小+(恭-共)))]赤珠硨磲碼碯。",
         "from": "T53n2122_001:0276a09_8",
         "context_with_next_sentence": true
     },
@@ -6945,7 +6945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為空居夜叉造玻[王*(利/(尒小+(恭共)))]宮殿城郭亦爾。",
+        "source_sentence": "為空居夜叉造玻[王*(利/(尒-小+(恭-共)))]宮殿城郭亦爾。",
         "from": "T53n2122_001:0276a23_4",
         "context_with_next_sentence": true
     },

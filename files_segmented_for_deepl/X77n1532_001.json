@@ -2760,7 +2760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "表稱於[葸十+夕]嶺見二使者淩空而過。",
+        "source_sentence": "表稱於[葸-十+夕]嶺見二使者淩空而過。",
         "from": "X77n1532_001:0633c21_41",
         "context_with_next_sentence": true
     },
@@ -3167,6 +3167,11 @@
     {
         "source_sentence": "華嚴感應略記(終)",
         "from": "X77n1532_001:0634a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(附)華嚴大經處會品目卷帙總要之圖",
+        "from": "X77n1532_001:0634b07_0",
         "context_with_next_sentence": false
     }
 ]

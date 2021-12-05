@@ -4185,7 +4185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "宸衷[書曰+((口*口)/皿)]傷若疚在躬。",
+        "source_sentence": "宸衷[書-曰+((口*口)/皿)]傷若疚在躬。",
         "from": "T49n2038_002:0925a28_0",
         "context_with_next_sentence": true
     },

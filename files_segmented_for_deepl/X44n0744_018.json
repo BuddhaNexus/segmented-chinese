@@ -655,7 +655,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "脚[跳兆+專]",
+        "source_sentence": "脚[跳-兆+專]",
         "from": "X44n0744_018:0536c08_0",
         "context_with_next_sentence": true
     },
@@ -3505,7 +3505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[卄/喿]梨等。",
+        "source_sentence": "&#;梨等。",
         "from": "X44n0744_018:0539a01_0",
         "context_with_next_sentence": true
     },
@@ -3775,7 +3775,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "取[麩夫+廣]麥輕擣。",
+        "source_sentence": "取&#;麥輕擣。",
         "from": "X44n0744_018:0539a15_0",
         "context_with_next_sentence": true
     },
@@ -6175,7 +6175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又翻為圓[冗几+豕]。",
+        "source_sentence": "又翻為圓[冗-几+豕]。",
         "from": "X44n0744_018:0540c18_16",
         "context_with_next_sentence": true
     },
@@ -9497,6 +9497,396 @@
     {
         "source_sentence": "四分律名義標釋卷第十八",
         "from": "X44n0744_018:0543b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_018:0543b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "矗音畜。",
+        "from": "X44n0744_018:0543b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "齊也。",
+        "from": "X44n0744_018:0543b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縙綵上音茸去聲。",
+        "from": "X44n0744_018:0543b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音采。",
+        "from": "X44n0744_018:0543b23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五彩也。",
+        "from": "X44n0744_018:0543b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "胯音跨。",
+        "from": "X44n0744_018:0543b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "股也。",
+        "from": "X44n0744_018:0543b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "驟音凑。",
+        "from": "X44n0744_018:0543c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奔也。",
+        "from": "X44n0744_018:0543c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "撈音牢。",
+        "from": "X44n0744_018:0543c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[口*孫]音孫。",
+        "from": "X44n0744_018:0543c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嘆也。",
+        "from": "X44n0744_018:0543c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瘞音意。",
+        "from": "X44n0744_018:0543c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "藏也。",
+        "from": "X44n0744_018:0543c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "桀音傑。",
+        "from": "X44n0744_018:0543c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五乘佛乘。",
+        "from": "X44n0744_018:0543c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩乘。",
+        "from": "X44n0744_018:0543c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "緣覺乘。",
+        "from": "X44n0744_018:0543c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聲聞乘。",
+        "from": "X44n0744_018:0543c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人天乘。",
+        "from": "X44n0744_018:0543c06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　四分律名義標釋卷第十九目錄",
+        "from": "X44n0744_018:0543c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊毗舍離獼猴江",
+        "from": "X44n0744_018:0543c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名字比丘尼相似比丘尼自稱比丘尼",
+        "from": "X44n0744_018:0543c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善來比丘尼乞求比丘尼",
+        "from": "X44n0744_018:0543c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "著割截衣比丘尼",
+        "from": "X44n0744_018:0543c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "破結使比丘尼白四羯磨比丘尼",
+        "from": "X44n0744_018:0543c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二形黃門偷蘭遮",
+        "from": "X44n0744_018:0543c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "突吉羅式叉摩那沙彌",
+        "from": "X44n0744_018:0543c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼滅擯",
+        "from": "X44n0744_018:0543c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最初未結戒等羅閱城耆闍崛山",
+        "from": "X44n0744_018:0543c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聚落譽死咄人",
+        "from": "X44n0744_018:0543c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惡活過人法入聖智勝法",
+        "from": "X44n0744_018:0543c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大姊增上慢舍衛國",
+        "from": "X44n0744_018:0543c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "祇樹給孤獨園豪貴",
+        "from": "X44n0744_018:0543c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大善鹿樂長者偷羅難陀阿姨",
+        "from": "X44n0744_018:0543c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捉嗚酸棗從腋",
+        "from": "X44n0744_018:0544a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若捺捉髀阿修羅",
+        "from": "X44n0744_018:0544a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尼師壇革屣僧伽婆尸沙",
+        "from": "X44n0744_018:0544a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙樓鹿樂長者屏處相倚",
+        "from": "X44n0744_018:0544a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八事至挽夜叉",
+        "from": "X44n0744_018:0544a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有刺坻舍難陀明相",
+        "from": "X44n0744_018:0544a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "命難梵行難拘睒彌國",
+        "from": "X44n0744_018:0544a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瞿師羅園闡陀比丘慰次比丘尼",
+        "from": "X44n0744_018:0544a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "教增戒心慧非法別眾非法和合眾",
+        "from": "X44n0744_018:0544a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法別眾法相似別眾",
+        "from": "X44n0744_018:0544a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法相似和合眾毗尼無根",
+        "from": "X44n0744_018:0544a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "異分事中取片阿蘭若精舍",
+        "from": "X44n0744_018:0544a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "詣官一念頃波斯匿",
+        "from": "X44n0744_018:0544a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵志離奢王舍城",
+        "from": "X44n0744_018:0544a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧伽藍摩竭國缾沙王",
+        "from": "X44n0744_018:0544a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種姓者羯磨褰衣",
+        "from": "X44n0744_018:0544a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觸嬈差摩比丘尼拘薩羅國",
+        "from": "X44n0744_018:0544a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "躡梁煑羮提舍難陀",
+        "from": "X44n0744_018:0544a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "販賣莖食胡麻",
+        "from": "X44n0744_018:0544a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黑石蜜飯麨摩尼",
+        "from": "X44n0744_018:0544a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毗瑠璃珂貝珊瑚",
+        "from": "X44n0744_018:0544a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生像乾闥婆同一師學",
+        "from": "X44n0744_018:0544a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如水乳合法語律語二比丘尼",
+        "from": "X44n0744_018:0544a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "溉灌華鬘倡妓",
+        "from": "X44n0744_018:0544a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唱和俳說鼓簧",
+        "from": "X44n0744_018:0544b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吹貝佯跛或嘯",
+        "from": "X44n0744_018:0544b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙門釋子婆羅門四種諍",
+        "from": "X44n0744_018:0544b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迦絺那衣長衣淨施",
+        "from": "X44n0744_018:0544b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尼薩耆波逸提衣已竟除僧羯磨",
+        "from": "X44n0744_018:0544b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非時衣非親里",
+        "from": "X44n0744_018:0544b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先不受自恣請我曹執事人",
+        "from": "X44n0744_018:0544b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧伽藍民優婆塞口可受",
+        "from": "X44n0744_018:0544b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五綴貿至求縷",
+        "from": "X44n0744_018:0544b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "酥油生酥蜜石蜜檀越",
+        "from": "X44n0744_018:0544b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五衣婆伽婆憒閙",
+        "from": "X44n0744_018:0544b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "狼藉六枚大釜",
+        "from": "X44n0744_018:0544b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大瓮涅槃僧",
+        "from": "X44n0744_018:0544b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "栴檀輸那比丘尼橛上",
+        "from": "X44n0744_018:0544b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "象牙杙破戒見威儀黎奢",
+        "from": "X44n0744_018:0544b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迦羅比丘尼張[疊*毛]",
+        "from": "X44n0744_018:0544b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "跋陀迦毗羅比丘尼價直四張氎",
+        "from": "X44n0744_018:0544b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十六條",
+        "from": "X44n0744_018:0544b18_0",
         "context_with_next_sentence": false
     }
 ]

@@ -7735,7 +7735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "讀如凍[冰水+各]之[冰水+各]。",
+        "source_sentence": "讀如凍[冰-水+各]之[冰-水+各]。",
         "from": "X22n0425_001:0692a08_6",
         "context_with_next_sentence": true
     },
@@ -10565,8 +10565,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "覓心",
+        "source_sentence": "覓心了不可得。",
         "from": "X22n0425_001:0694c06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰。",
+        "from": "X22n0425_001:0694c07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與汝安心竟。",
+        "from": "X22n0425_001:0694c07_15",
         "context_with_next_sentence": false
     }
 ]

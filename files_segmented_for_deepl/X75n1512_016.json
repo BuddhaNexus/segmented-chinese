@@ -1275,7 +1275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]左右曰。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]左右曰。",
         "from": "X75n1512_016:0187a21_16",
         "context_with_next_sentence": true
     },
@@ -3900,7 +3900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "甞嘿觀止水因而[(厂@((既旡)日+口))*頁]影。",
+        "source_sentence": "甞嘿觀止水因而[(厂@((既-旡)-日+口))*頁]影。",
         "from": "X75n1512_016:0189c09_17",
         "context_with_next_sentence": true
     },
@@ -4945,7 +4945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "西蕃寇圍涼州。",
+        "source_sentence": "西蕃冦圍涼州。",
         "from": "X75n1512_016:0190c13_1",
         "context_with_next_sentence": true
     },

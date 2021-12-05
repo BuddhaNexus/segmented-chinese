@@ -760,12 +760,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+奚]互者。",
+        "source_sentence": "[打-丁+奚]互者。",
         "from": "T38n1766_004:0035c11_10",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+奚]胡計切。",
+        "source_sentence": "[打-丁+奚]胡計切。",
         "from": "T38n1766_004:0035c11_11",
         "context_with_next_sentence": true
     },
@@ -3325,7 +3325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "陪從智者止于[邱丘+千]溝。",
+        "source_sentence": "陪從智者止于[邱-丘+千]溝。",
         "from": "T38n1766_004:0038a02_4",
         "context_with_next_sentence": true
     },
@@ -7495,7 +7495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "應作麃[卄/尢/(ㄠㄙ+(衣〦))]。",
+        "source_sentence": "應作麃[卄/尢/(ㄠ-ㄙ+(衣-〦))]。",
         "from": "T38n1766_004:0041b16_2",
         "context_with_next_sentence": true
     },
@@ -7515,7 +7515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如農夫是穮是[卄/尢/(ㄠㄙ+(衣〦))]。",
+        "source_sentence": "譬如農夫是穮是[卄/尢/(ㄠ-ㄙ+(衣-〦))]。",
         "from": "T38n1766_004:0041b17_2",
         "context_with_next_sentence": true
     },
@@ -7530,7 +7530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[卄/尢/(ㄠㄙ+(衣〦))]壅苗也。",
+        "source_sentence": "[卄/尢/(ㄠ-ㄙ+(衣-〦))]壅苗也。",
         "from": "T38n1766_004:0041b18_1",
         "context_with_next_sentence": true
     },
@@ -7610,7 +7610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "必恐正施藨[卄/尢/(ㄠㄙ+(衣〦))]。",
+        "source_sentence": "必恐正施藨[卄/尢/(ㄠ-ㄙ+(衣-〦))]。",
         "from": "T38n1766_004:0041b25_17",
         "context_with_next_sentence": true
     },
@@ -7630,7 +7630,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "彼用藨[卄/尢/(ㄠㄙ+(衣〦))]之語義與今同。",
+        "source_sentence": "彼用藨[卄/尢/(ㄠ-ㄙ+(衣-〦))]之語義與今同。",
         "from": "T38n1766_004:0041b26_1",
         "context_with_next_sentence": true
     },
@@ -7680,7 +7680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如麃[卄/尢/(ㄠㄙ+(衣〦))]毒草。",
+        "source_sentence": "如麃[卄/尢/(ㄠ-ㄙ+(衣-〦))]毒草。",
         "from": "T38n1766_004:0041b29_11",
         "context_with_next_sentence": true
     },

@@ -3145,7 +3145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "瘡癬疥瘙皮膚[病丙+習][病丙+習]如虫行。",
+        "source_sentence": "瘡癬疥瘙皮膚[病-丙+習][病-丙+習]如虫行。",
         "from": "T28n1548_015:0628a05_1",
         "context_with_next_sentence": true
     },

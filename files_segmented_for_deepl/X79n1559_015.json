@@ -1135,7 +1135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "休向糞埽堆上更添搕[打丁+(天/韭)]。",
+        "source_sentence": "休向糞埽堆上更添搕[打-丁+(天/韭)]。",
         "from": "X79n1559_015:0382b07_12",
         "context_with_next_sentence": true
     },
@@ -3455,7 +3455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "甕裏怕走却鱉那。",
+        "source_sentence": "甕裏怕走却龞那。",
         "from": "X79n1559_015:0384a02_11",
         "context_with_next_sentence": true
     },
@@ -3730,7 +3730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "歷三祀。",
+        "source_sentence": "歷三禩。",
         "from": "X79n1559_015:0384a17_5",
         "context_with_next_sentence": true
     },
@@ -6790,7 +6790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "溫州雁山靈峰[仁二+幼]堂中仁禪師洛陽人也。",
+        "source_sentence": "溫州雁山靈峰[仁-二+幼]堂中仁禪師洛陽人也。",
         "from": "X79n1559_015:0386a20_0",
         "context_with_next_sentence": true
     },
@@ -7697,6 +7697,16 @@
     {
         "source_sentence": "嘉泰普燈錄卷第十五",
         "from": "X79n1559_015:0386c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_015:0387a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　[仁-二+幼]於効切　衿音今　謔虗約切　薙他計切　珵音呈　裓古得切　穌素姑切　酋自秋切　崛渠勿切　嶼音序　[打-丁+(天/韭)]蘇答切　歆許金切　貂音凋　滉胡廣切　狻素官切　猊音倪　鸑音嶽　鷟食角切　槵音患　饡作管切　楠音南　椹食荏切　遡音素　歐音區　儺音那　眨側洽切　窿音隆　錮音固　鏴音路　抖音斗　擻音叟　諄章倫切　蘸莊陷切　鐮音簾　呱音孤　搦女白切　愕五各切　眙音怡　嫠音狸",
+        "from": "X79n1559_015:0387a02_0",
         "context_with_next_sentence": false
     }
 ]

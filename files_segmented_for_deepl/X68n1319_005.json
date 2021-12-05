@@ -85,7 +85,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳三十三天空外。",
+        "source_sentence": "[跳-兆+孛]跳三十三天空外。",
         "from": "X68n1319_005:0527b16_2",
         "context_with_next_sentence": true
     },
@@ -267,6 +267,11 @@
     {
         "source_sentence": "如是如是爾。",
         "from": "X68n1319_005:0527c03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雍正十一年癸丑五月望日",
+        "from": "X68n1319_005:0527c04_0",
         "context_with_next_sentence": false
     }
 ]

@@ -2375,12 +2375,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如人[穀禾+牛]角，本無乳相，雖加功力，乳無由出。",
+        "source_sentence": "如人[穀-禾+牛]角，本無乳相，雖加功力，乳無由出。",
         "from": "T12n0375_023:0759b28_6",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[穀禾+牛]於乳者則不如是，加功雖少，乳則多出。",
+        "source_sentence": "[穀-禾+牛]於乳者則不如是，加功雖少，乳則多出。",
         "from": "T12n0375_023:0759b29_7",
         "context_with_next_sentence": true
     },

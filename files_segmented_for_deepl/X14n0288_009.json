@@ -2120,7 +2120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "心精通[泳永+曶]。",
+        "source_sentence": "心精通[泳-永+曶]。",
         "from": "X14n0288_009:0229a17_24",
         "context_with_next_sentence": true
     },
@@ -5735,7 +5735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "心愛綿[泳永+曶]。",
+        "source_sentence": "心愛綿[泳-永+曶]。",
         "from": "X14n0288_009:0238a10_5",
         "context_with_next_sentence": true
     },
@@ -5970,7 +5970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "〔疏〕三心愛綿[泳永+曶]即冥合之事潛冥契合皆是妄想未聞法前心即開悟人間好惡亦能有知皆冥契事也。",
+        "source_sentence": "〔疏〕三心愛綿[泳-永+曶]即冥合之事潛冥契合皆是妄想未聞法前心即開悟人間好惡亦能有知皆冥契事也。",
         "from": "X14n0288_009:0239a01_0",
         "context_with_next_sentence": true
     },
@@ -6930,7 +6930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "口[銜金+缶]其珠。",
+        "source_sentence": "口[銜-金+缶]其珠。",
         "from": "X14n0288_009:0241a05_20",
         "context_with_next_sentence": true
     },
@@ -8747,6 +8747,11 @@
     {
         "source_sentence": "薄蝕(音博食)。",
         "from": "X14n0288_009:0245a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瞬(音舜)。",
+        "from": "X14n0288_009:0245a11_0",
         "context_with_next_sentence": false
     }
 ]

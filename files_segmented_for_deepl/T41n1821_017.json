@@ -4500,7 +4500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為苦所逼身心麁強[怡台+龍]戾不調由互相憎故有嗔恚。",
+        "source_sentence": "為苦所逼身心麁強[怡-台+龍]戾不調由互相憎故有嗔恚。",
         "from": "T41n1821_017:0269b21_1",
         "context_with_next_sentence": true
     },
@@ -9652,6 +9652,21 @@
     {
         "source_sentence": "俱舍論記卷第十七",
         "from": "T41n1821_017:0276b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於尊勝院之東房書寫了僧定範本也",
+        "from": "T41n1821_017:0276b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今年三十講料也　　　　　一交了",
+        "from": "T41n1821_017:0276b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六月二十三日句切了",
+        "from": "T41n1821_017:0276b10_0",
         "context_with_next_sentence": false
     }
 ]

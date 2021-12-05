@@ -5520,7 +5520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "絕穀[飢几+因]松。",
+        "source_sentence": "絕穀[飢-几+因]松。",
         "from": "X88n1643_002:0062b05_0",
         "context_with_next_sentence": true
     },
@@ -6445,7 +6445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唯有[木*(羲ㄎ+乃)]杓之聲。",
+        "source_sentence": "唯有㰕杓之聲。",
         "from": "X88n1643_002:0063a04_33",
         "context_with_next_sentence": true
     },
@@ -8500,7 +8500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四月八日降[言*(廷壬+旦)]。",
+        "source_sentence": "四月八日降[言*(廷-壬+旦)]。",
         "from": "X88n1643_002:0064b05_0",
         "context_with_next_sentence": true
     },
@@ -9725,7 +9725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此其神之有尊[(白日+田)/廾]。",
+        "source_sentence": "此其神之有尊[(白-日+田)/廾]。",
         "from": "X88n1643_002:0065a18_2",
         "context_with_next_sentence": true
     },
@@ -10662,6 +10662,81 @@
     {
         "source_sentence": "兜率龜鏡集卷中",
         "from": "X88n1643_002:0065c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X88n1643_002:0065c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "琱(與彫同。",
+        "from": "X88n1643_002:0065c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "治玉也)鍇(音楷。",
+        "from": "X88n1643_002:0065c21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "好鐵也)球琳(上音球。",
+        "from": "X88n1643_002:0065c21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音林。",
+        "from": "X88n1643_002:0065c21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆美玉也)荂(音誇。",
+        "from": "X88n1643_002:0065c21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "花榮也)六事法(念佛。",
+        "from": "X88n1643_002:0065c21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法。",
+        "from": "X88n1643_002:0065c22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧。",
+        "from": "X88n1643_002:0065c22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "施。",
+        "from": "X88n1643_002:0065c22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "戒。",
+        "from": "X88n1643_002:0065c22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天。",
+        "from": "X88n1643_002:0065c22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "也)餉(音商去聲。",
+        "from": "X88n1643_002:0065c22_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "饋也。",
+        "from": "X88n1643_002:0065c22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "進食於尊也)",
+        "from": "X88n1643_002:0065c22_13",
         "context_with_next_sentence": false
     }
 ]

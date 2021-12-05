@@ -770,7 +770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以上藥等分細[打丁+鳥]作末。",
+        "source_sentence": "以上藥等分細[打-丁+鳥]作末。",
         "from": "T19n0946_002:0161c04_3",
         "context_with_next_sentence": true
     },
@@ -1875,7 +1875,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "荳[卄/(冗几+(豆*殳))]子。",
+        "source_sentence": "荳[卄/(冗-几+(豆*殳))]子。",
         "from": "T19n0946_002:0162c19_9",
         "context_with_next_sentence": true
     },
@@ -4640,8 +4640,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大佛頂無畏佛頂經卷",
+        "source_sentence": "大佛頂無畏佛頂經卷第二",
         "from": "T19n0946_002:0165c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安元二年八月三十日",
+        "from": "T19n0946_002:0165c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　於法傳寺　書了　昌圓　一交了",
+        "from": "T19n0946_002:0165c14_0",
         "context_with_next_sentence": false
     }
 ]

@@ -245,12 +245,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "金奭",
+        "source_sentence": "金&#;",
         "from": "X78n1549_009:0304c08_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "金奭。",
+        "source_sentence": "金&#;。",
         "from": "X78n1549_009:0304c09_0",
         "context_with_next_sentence": true
     },
@@ -1795,7 +1795,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "紹興[邱丘+乘]縣人。",
+        "source_sentence": "紹興[邱-丘+乘]縣人。",
         "from": "X78n1549_009:0305c24_1",
         "context_with_next_sentence": true
     },
@@ -8140,7 +8140,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "風月同乘般若船(閒窗括異志)。",
+        "source_sentence": "風月同乘般若船(閒窻括異志)。",
         "from": "X78n1549_009:0311a06_10",
         "context_with_next_sentence": true
     },

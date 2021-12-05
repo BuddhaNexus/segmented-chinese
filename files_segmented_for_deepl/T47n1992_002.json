@@ -4685,7 +4685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "權生聾瞽瘂[病丙+(君/巾)]痲。",
+        "source_sentence": "權生聾瞽瘂[病-丙+(君/巾)]痲。",
         "from": "T47n1992_002:0611c12_14",
         "context_with_next_sentence": true
     },
@@ -6495,7 +6495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鵝湖[跳兆+聚]步歸方丈。",
+        "source_sentence": "鵝湖[跳-兆+聚]步歸方丈。",
         "from": "T47n1992_002:0613a15_7",
         "context_with_next_sentence": true
     },
@@ -12665,7 +12665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "百丈捲[簟日+田]。",
+        "source_sentence": "百丈捲[簟-日+田]。",
         "from": "T47n1992_002:0617b29_0",
         "context_with_next_sentence": true
     },

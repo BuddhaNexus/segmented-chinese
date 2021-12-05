@@ -240,7 +240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "容貌[王*(十/(罩卓+衣))]異。",
+        "source_sentence": "容貌[王*(十/(罩-卓+衣))]異。",
         "from": "X76n1517_004:0162b23_18",
         "context_with_next_sentence": true
     },
@@ -1970,7 +1970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "飾制[王*(十/(罩卓+衣))]奇。",
+        "source_sentence": "飾制[王*(十/(罩-卓+衣))]奇。",
         "from": "X76n1517_004:0164a09_15",
         "context_with_next_sentence": true
     },
@@ -6015,7 +6015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "湖裏生塵(陳霸先生於湖州也)。",
+        "source_sentence": "湖裏生塵(陳覇先生於湖州也)。",
         "from": "X76n1517_004:0167b01_0",
         "context_with_next_sentence": true
     },

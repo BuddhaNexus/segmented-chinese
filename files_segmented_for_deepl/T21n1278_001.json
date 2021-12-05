@@ -565,7 +565,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "存[揭曰]其支節亦得隨意。",
+        "source_sentence": "存[揭-曰]其支節亦得隨意。",
         "from": "T21n1278_001:0331c03_16",
         "context_with_next_sentence": true
     },
@@ -995,7 +995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 訶字在中。",
+        "source_sentence": "訶字在中。",
         "from": "T21n1278_001:0332b05_0",
         "context_with_next_sentence": true
     },
@@ -1030,7 +1030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 跛字安中。",
+        "source_sentence": "跛字安中。",
         "from": "T21n1278_001:0332b07_4",
         "context_with_next_sentence": true
     },
@@ -1080,7 +1080,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "空觀 訶字在小指頭。",
+        "source_sentence": "空觀訶字在小指頭。",
         "from": "T21n1278_001:0332b10_7",
         "context_with_next_sentence": true
     },
@@ -1225,7 +1225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以 訶字從頂趁之。",
+        "source_sentence": "以訶字從頂趁之。",
         "from": "T21n1278_001:0332b22_2",
         "context_with_next_sentence": true
     },
@@ -4475,7 +4475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "口[打丁+肅]蓮花或安雜花。",
+        "source_sentence": "口[打-丁+肅]蓮花或安雜花。",
         "from": "T21n1278_001:0336c29_5",
         "context_with_next_sentence": true
     },
@@ -6297,6 +6297,11 @@
     {
         "source_sentence": "迦樓羅王持念經",
         "from": "T21n1278_001:0339c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "承安三年八月二十七日於勸修寺西山住房書了(比二十九)興然本",
+        "from": "T21n1278_001:0339c21_0",
         "context_with_next_sentence": false
     }
 ]

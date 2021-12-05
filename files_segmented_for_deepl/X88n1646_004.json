@@ -1170,8 +1170,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "秋風至而木",
+        "source_sentence": "秋風至而木葉零。",
         "from": "X88n1646_004:0190c02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至誠而不動者。",
+        "from": "X88n1646_004:0190c03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不亦鮮乎。",
+        "from": "X88n1646_004:0190c03_8",
         "context_with_next_sentence": false
     }
 ]

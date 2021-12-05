@@ -5610,7 +5610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "夏葢山[跳兆+孛]跳。",
+        "source_sentence": "夏葢山[跳-兆+孛]跳。",
         "from": "X85n1587_007:0047a11_8",
         "context_with_next_sentence": true
     },
@@ -6255,7 +6255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上三十三天。",
+        "source_sentence": "[跳-兆+孛]跳上三十三天。",
         "from": "X85n1587_007:0047c03_1",
         "context_with_next_sentence": true
     },
@@ -7430,8 +7430,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如何是諸人親切",
+        "source_sentence": "如何是諸人親切句。",
         "from": "X85n1587_007:0048b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "良久云。",
+        "from": "X85n1587_007:0048b23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六六元來三十六。",
+        "from": "X85n1587_007:0048b23_5",
         "context_with_next_sentence": false
     }
 ]

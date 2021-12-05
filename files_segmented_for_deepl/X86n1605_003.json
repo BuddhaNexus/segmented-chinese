@@ -490,7 +490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "門曰扇子[跳兆+孛]跳上三十三天築著帝釋鼻孔。",
+        "source_sentence": "門曰扇子[跳-兆+孛]跳上三十三天築著帝釋鼻孔。",
         "from": "X86n1605_003:0520b18_0",
         "context_with_next_sentence": true
     },
@@ -2725,7 +2725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師曰破糞箕生苕帚。",
+        "source_sentence": "師曰破糞箕生苕箒。",
         "from": "X86n1605_003:0522c10_15",
         "context_with_next_sentence": true
     },

@@ -9280,7 +9280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今斯愛道是[宋木+取]小女。",
+        "source_sentence": "今斯愛道是[宋-木+取]小女。",
         "from": "X43n0737_017:0464a07_15",
         "context_with_next_sentence": true
     },
@@ -9365,7 +9365,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[利禾+垂]有九十八條。",
+        "source_sentence": "[利-禾+垂]有九十八條。",
         "from": "X43n0737_017:0464a13_10",
         "context_with_next_sentence": true
     },
@@ -10965,7 +10965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[宋木+取]先入寺看者提。",
+        "source_sentence": "[宋-木+取]先入寺看者提。",
         "from": "X43n0737_017:0465b04_3",
         "context_with_next_sentence": true
     },
@@ -17080,7 +17080,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦無妨[得彳]。",
+        "source_sentence": "亦無妨[得-彳]。",
         "from": "X43n0737_017:0469c16_3",
         "context_with_next_sentence": true
     },
@@ -21325,7 +21325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "食并乞缽等。",
+        "source_sentence": "食并乞盋等。",
         "from": "X43n0737_017:0473a19_15",
         "context_with_next_sentence": true
     },
@@ -21535,7 +21535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乞缽奪好入僧厨。",
+        "source_sentence": "乞盋奪好入僧厨。",
         "from": "X43n0737_017:0473b06_4",
         "context_with_next_sentence": true
     },
@@ -22037,6 +22037,46 @@
     {
         "source_sentence": "四分律鈔簡正記卷第十七(終)",
         "from": "X43n0737_017:0473c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吳越真身寺傳律沙門　靖安丁巳歲。",
+        "from": "X43n0737_017:0473c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "重修一部簡正記一十七卷。",
+        "from": "X43n0737_017:0473c16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永冀流通。",
+        "from": "X43n0737_017:0473c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "延一萬二千年。",
+        "from": "X43n0737_017:0473c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛法壽命爾　四月八日持記。",
+        "from": "X43n0737_017:0473c17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後賢披之。",
+        "from": "X43n0737_017:0473c18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知余志意焉。",
+        "from": "X43n0737_017:0473c18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故批之爾。",
+        "from": "X43n0737_017:0473c19_0",
         "context_with_next_sentence": false
     }
 ]

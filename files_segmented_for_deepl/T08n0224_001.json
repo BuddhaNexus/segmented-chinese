@@ -25,7 +25,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "夫永壽莫美乎上乾，而齊之殤子；神偉莫美於凌虛，而同之[仁二+肙]滯；至德莫大乎真人，而比之朽種；高妙莫大乎世雄，而喻之幻夢。",
+        "source_sentence": "夫永壽莫美乎上乾，而齊之殤子；神偉莫美於凌虛，而同之[仁-二+肙]滯；至德莫大乎真人，而比之朽種；高妙莫大乎世雄，而喻之幻夢。",
         "from": "T08n0224_001:0425a09_0",
         "context_with_next_sentence": true
     },
@@ -210,7 +210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "安不量末學，庶幾斯心，載詠載玩，未墜于地，檢其所出，事本終始，猶令折傷玷缺[病丙+((日/月)*戈)]然無際。",
+        "source_sentence": "安不量末學，庶幾斯心，載詠載玩，未墜于地，檢其所出，事本終始，猶令折傷玷缺[病-丙+((日/月)*戈)]然無際。",
         "from": "T08n0224_001:0425b19_8",
         "context_with_next_sentence": true
     },

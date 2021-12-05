@@ -1065,7 +1065,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "豈隔闊遼[仁二+敻]與凡境杳絕歟。",
+        "source_sentence": "豈隔闊遼[仁-二+敻]與凡境杳絕歟。",
         "from": "X75n1512_019:0201c22_4",
         "context_with_next_sentence": true
     },
@@ -1995,7 +1995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]謂其徒曰。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]謂其徒曰。",
         "from": "X75n1512_019:0202c14_25",
         "context_with_next_sentence": true
     },
@@ -2075,7 +2075,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自家寶藏不[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "自家寶藏不[(厂@((既-旡)-日+口))*頁]。",
         "from": "X75n1512_019:0202c20_1",
         "context_with_next_sentence": true
     },
@@ -3910,7 +3910,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若秦鏡之[牙(必心)+?]照。",
+        "source_sentence": "若秦鏡之[牙-(必-心)+?]照。",
         "from": "X75n1512_019:0204c11_4",
         "context_with_next_sentence": true
     },
@@ -4120,7 +4120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]謂群臣曰。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]謂群臣曰。",
         "from": "X75n1512_019:0205a01_6",
         "context_with_next_sentence": true
     },
@@ -4945,7 +4945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "手足羈鎻。",
+        "source_sentence": "手足覊鎻。",
         "from": "X75n1512_019:0205c13_1",
         "context_with_next_sentence": true
     },

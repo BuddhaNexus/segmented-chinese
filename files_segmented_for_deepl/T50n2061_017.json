@@ -675,7 +675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "立削[葶丁+呆]云畢慮遺諸美。",
+        "source_sentence": "立削[葶-丁+呆]云畢慮遺諸美。",
         "from": "T50n2061_017:0813a19_11",
         "context_with_next_sentence": true
     },
@@ -5980,7 +5980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "必恐正施藨[卄/尢/(ㄠㄙ+(衣〦))]草和蘭茞而芟。",
+        "source_sentence": "必恐正施藨[卄/尢/(ㄠ-ㄙ+(衣-〦))]草和蘭茞而芟。",
         "from": "T50n2061_017:0819b02_31",
         "context_with_next_sentence": true
     },

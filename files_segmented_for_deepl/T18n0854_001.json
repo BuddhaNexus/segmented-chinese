@@ -30,7 +30,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "    □     ",
+        "source_sentence": "□",
         "from": "T18n0854_001:0164c18_0",
         "context_with_next_sentence": true
     },
@@ -160,8 +160,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "             □□ 白處尊真言曰。",
+        "source_sentence": "□□",
         "from": "T18n0854_001:0165b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "白處尊真言曰。",
+        "from": "T18n0854_001:0165b30_0",
         "context_with_next_sentence": true
     },
     {
@@ -220,8 +225,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "              □ 毫相真言曰。",
+        "source_sentence": "□",
         "from": "T18n0854_001:0166a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毫相真言曰。",
+        "from": "T18n0854_001:0166a06_0",
         "context_with_next_sentence": true
     },
     {
@@ -410,7 +420,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "        □",
+        "source_sentence": "□",
         "from": "T18n0854_001:0167a13_0",
         "context_with_next_sentence": true
     },
@@ -590,7 +600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "□        ",
+        "source_sentence": "□",
         "from": "T18n0854_001:0167c24_0",
         "context_with_next_sentence": true
     },
@@ -600,7 +610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "□  □",
+        "source_sentence": "□□",
         "from": "T18n0854_001:0167c26_0",
         "context_with_next_sentence": true
     },
@@ -620,7 +630,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " □       ",
+        "source_sentence": "□",
         "from": "T18n0854_001:0168a02_0",
         "context_with_next_sentence": true
     },
@@ -685,7 +695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "□    ",
+        "source_sentence": "□",
         "from": "T18n0854_001:0168a26_0",
         "context_with_next_sentence": true
     },
@@ -695,7 +705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "□      ",
+        "source_sentence": "□",
         "from": "T18n0854_001:0168a28_0",
         "context_with_next_sentence": true
     },
@@ -807,6 +817,11 @@
     {
         "source_sentence": "置字句。",
         "from": "T18n0854_001:0168c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已下第四卷。",
+        "from": "T18n0854_001:0168c20_0",
         "context_with_next_sentence": false
     }
 ]

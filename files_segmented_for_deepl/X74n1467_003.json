@@ -3320,7 +3320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "觀甚於張[旭日+百]。",
+        "source_sentence": "觀甚於張[旭-日+百]。",
         "from": "X74n1467_003:0090a05_9",
         "context_with_next_sentence": true
     },
@@ -4430,7 +4430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "諸天人民以至蜎飛[蝡大+而]動之數。",
+        "source_sentence": "諸天人民以至蜎飛[蝡-大+而]動之數。",
         "from": "X74n1467_003:0090c14_49",
         "context_with_next_sentence": true
     },
@@ -4445,7 +4445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[蝡大+而]動謂微細蛆蟲也。",
+        "source_sentence": "[蝡-大+而]動謂微細蛆蟲也。",
         "from": "X74n1467_003:0090c15_52",
         "context_with_next_sentence": true
     },
@@ -6322,6 +6322,156 @@
     {
         "source_sentence": "禮念彌陀道場懺法卷第三",
         "from": "X74n1467_003:0092a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "粹(雖遂切)。",
+        "from": "X74n1467_003:0092a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "泮(音判)。",
+        "from": "X74n1467_003:0092a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慍(於問切)。",
+        "from": "X74n1467_003:0092a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八分(下上)。",
+        "from": "X74n1467_003:0092a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舶(音白)。",
+        "from": "X74n1467_003:0092a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "耄(音冐)。",
+        "from": "X74n1467_003:0092a09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "抵(音底)。",
+        "from": "X74n1467_003:0092a09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謫(音摘)。",
+        "from": "X74n1467_003:0092a09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "軾(音式)。",
+        "from": "X74n1467_003:0092a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "槖(音託)。",
+        "from": "X74n1467_003:0092a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "裓(古德切)。",
+        "from": "X74n1467_003:0092a10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "馗(音逵)。",
+        "from": "X74n1467_003:0092a10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廬(音閭)。",
+        "from": "X74n1467_003:0092a10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "茹(音汝)。",
+        "from": "X74n1467_003:0092a10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "趼(音蠒)。",
+        "from": "X74n1467_003:0092a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "恤(音戌)。",
+        "from": "X74n1467_003:0092a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奕(音亦)。",
+        "from": "X74n1467_003:0092a10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鋟(音侵)。",
+        "from": "X74n1467_003:0092a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邸(音底)。",
+        "from": "X74n1467_003:0092a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幹(古案切)。",
+        "from": "X74n1467_003:0092a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "驟(鋤祐切)。",
+        "from": "X74n1467_003:0092a11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "漓(呂支切)。",
+        "from": "X74n1467_003:0092a11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "狽(音貝)。",
+        "from": "X74n1467_003:0092a11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蜎(音淵)。",
+        "from": "X74n1467_003:0092a11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蝡(音軟)。",
+        "from": "X74n1467_003:0092a11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壤(如兩切)。",
+        "from": "X74n1467_003:0092a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "錙(音之)。",
+        "from": "X74n1467_003:0092a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "銖(音殊)。",
+        "from": "X74n1467_003:0092a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "孜(音茲)。",
+        "from": "X74n1467_003:0092a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "戟(居逆切)。",
+        "from": "X74n1467_003:0092a12_4",
         "context_with_next_sentence": false
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 法會錄序",
+        "source_sentence": "法會錄序",
         "from": "X72n1441_001:0674b06_0",
         "context_with_next_sentence": true
     },
@@ -8755,7 +8755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]可同日而語哉。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]可同日而語哉。",
         "from": "X72n1441_001:0681a04_32",
         "context_with_next_sentence": true
     },
@@ -12282,6 +12282,21 @@
     {
         "source_sentence": "志固可嘉。",
         "from": "X72n1441_001:0683c20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然亦當知所擇。",
+        "from": "X72n1441_001:0683c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷不可欲速。",
+        "from": "X72n1441_001:0683c21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而落今時之行戶也。",
+        "from": "X72n1441_001:0683c21_2",
         "context_with_next_sentence": false
     }
 ]

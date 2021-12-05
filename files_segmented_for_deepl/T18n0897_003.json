@@ -2210,7 +2210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即先釘[檎离+土]一頭。",
+        "source_sentence": "即先釘[檎-离+土]一頭。",
         "from": "T18n0897_003:0771b20_31",
         "context_with_next_sentence": true
     },
@@ -3462,6 +3462,16 @@
     {
         "source_sentence": "蕤呬耶經卷下終",
         "from": "T18n0897_003:0773a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靈雲校本末云　貞享三年六月十夕一校了。",
+        "from": "T18n0897_003:0773a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　　　　　　淨嚴(四十八)",
+        "from": "T18n0897_003:0773a04_0",
         "context_with_next_sentence": false
     }
 ]

@@ -100,7 +100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　昇　羯　[口*(隸木+匕)]　三　摩　焰　莎　訶(誦七遍)其手印相。",
+        "source_sentence": "唵　昇　羯　[口*(隸-木+匕)]　三　摩　焰　莎　訶(誦七遍)其手印相。",
         "from": "T18n0894b_002:0713a21_0",
         "context_with_next_sentence": true
     },
@@ -350,7 +350,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以金剛[檎离+土]法。",
+        "source_sentence": "以金剛[檎-离+土]法。",
         "from": "T18n0894b_002:0713b28_1",
         "context_with_next_sentence": true
     },
@@ -370,7 +370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "界金剛[檎离+土]真言曰。",
+        "source_sentence": "界金剛[檎-离+土]真言曰。",
         "from": "T18n0894b_002:0713b29_5",
         "context_with_next_sentence": true
     },
@@ -460,7 +460,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "金剛[檎离+土]印。",
+        "source_sentence": "金剛[檎-离+土]印。",
         "from": "T18n0894b_002:0713c10_6",
         "context_with_next_sentence": true
     },
@@ -480,7 +480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "依前[檎离+土]印。",
+        "source_sentence": "依前[檎-离+土]印。",
         "from": "T18n0894b_002:0713c17_1",
         "context_with_next_sentence": true
     },
@@ -520,7 +520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　薩　囉　薩　囉　嚩　日囉(二合)　鉢囉(二合)　迦囉　[合*牛]　泮　吒其手印相依前[檎离+土]印。",
+        "source_sentence": "唵　薩　囉　薩　囉　嚩　日囉(二合)　鉢囉(二合)　迦囉　[合*牛]　泮　吒其手印相依前[檎-离+土]印。",
         "from": "T18n0894b_002:0713c22_0",
         "context_with_next_sentence": true
     },
@@ -855,7 +855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　昇(二合)　羯　[口*(隸木+匕)]　莽　訶　三　莽　焰　莎　訶(誦七遍是三重界內結大界真言)其手印相。",
+        "source_sentence": "唵　昇(二合)　羯　[口*(隸-木+匕)]　莽　訶　三　莽　焰　莎　訶(誦七遍是三重界內結大界真言)其手印相。",
         "from": "T18n0894b_002:0714b13_0",
         "context_with_next_sentence": true
     },
@@ -3437,6 +3437,41 @@
     {
         "source_sentence": "蘇悉地羯羅供養法卷第二",
         "from": "T18n0894b_002:0718c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請火天",
+        "from": "T18n0894b_002:0718c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗽口水",
+        "from": "T18n0894b_002:0718c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "枳里枳里忿怒",
+        "from": "T18n0894b_002:0718c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "灑淨香水",
+        "from": "T18n0894b_002:0718c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "燃火",
+        "from": "T18n0894b_002:0718c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛部五淨",
+        "from": "T18n0894b_002:0718c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓮花部五淨",
+        "from": "T18n0894b_002:0718c25_0",
         "context_with_next_sentence": false
     }
 ]

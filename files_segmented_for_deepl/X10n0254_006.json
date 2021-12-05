@@ -2520,7 +2520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不[(厂@((既旡)日+口))*頁]眾生。",
+        "source_sentence": "不[(厂@((既-旡)-日+口))*頁]眾生。",
         "from": "X10n0254_006:0426a15_8",
         "context_with_next_sentence": true
     },
@@ -10005,8 +10005,368 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大方廣圓覺修多羅了義心鏡卷第六(終)",
+        "source_sentence": "大方廣圓覺修多羅了義心鏡卷第六(終)　四明水雲客　　京華野寺僧　　吳雲閉花經　白髮註斯經　　報國恩雖重　　為法一身輕　圓覺大海水　　飲者若蚊蝱　　以蠡酌佛海　如雞最後鳴　　寶慶逢三禩　　絕筆聽秋聲　皇圖呼萬歲　　宰輔茂洪勳　　庶民歡樂業　四海慶時清　　甘露門重闢　　俱遊大覺城圓覺寂照。",
         "from": "X10n0254_006:0432a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迺十二部經之眼目。",
+        "from": "X10n0254_006:0432a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二六開士之權謀。",
+        "from": "X10n0254_006:0432a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "絕綱大教。",
+        "from": "X10n0254_006:0432a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "秀發圓乘。",
+        "from": "X10n0254_006:0432a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞一句義。",
+        "from": "X10n0254_006:0432a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "超七寶布施福。",
+        "from": "X10n0254_006:0432a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鋟梓流通。",
+        "from": "X10n0254_006:0432a19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勝河沙羅漢果。",
+        "from": "X10n0254_006:0432a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖壯心註解。",
+        "from": "X10n0254_006:0432a20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盖力乏錐刀。",
+        "from": "X10n0254_006:0432a20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "積寸累銖。",
+        "from": "X10n0254_006:0432a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僅成五卷。",
+        "from": "X10n0254_006:0432a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今遇不顯名檀越夫婦。",
+        "from": "X10n0254_006:0432a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "發心施財。",
+        "from": "X10n0254_006:0432a21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四十萬錢。",
+        "from": "X10n0254_006:0432a22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圓成第六卷。",
+        "from": "X10n0254_006:0432a22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可謂。",
+        "from": "X10n0254_006:0432a22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "月虧而復圓。",
+        "from": "X10n0254_006:0432a22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心開而意足。",
+        "from": "X10n0254_006:0432a22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "他日天上人間。",
+        "from": "X10n0254_006:0432a23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍宮海藏。",
+        "from": "X10n0254_006:0432a23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "花臺標名。",
+        "from": "X10n0254_006:0432a23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為不朽矣。",
+        "from": "X10n0254_006:0432a23_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "銘曰。",
+        "from": "X10n0254_006:0432a24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　福報不在頻[幻-ㄠ+口]祝　　天上人間相隨逐　發心已成佛果因　　龍女献珠稱疾速　我今稱讚是圓乘　　福利有情并眷屬　懺除罪垢淨瑕疵　　淨土紋成親禮足紹定改元八月中秋日　　　智聰　謹題昔以大慈尊尊。",
+        "from": "X10n0254_006:0432b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已知末劫眾生。",
+        "from": "X10n0254_006:0432b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "競貪瞋痴。",
+        "from": "X10n0254_006:0432b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淪三塗苦。",
+        "from": "X10n0254_006:0432b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迺金口宣說諸大實事。",
+        "from": "X10n0254_006:0432b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使眾生見聞知覺。",
+        "from": "X10n0254_006:0432b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種諸善根。",
+        "from": "X10n0254_006:0432b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同成佛道。",
+        "from": "X10n0254_006:0432b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可謂老婆心切。",
+        "from": "X10n0254_006:0432b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "厥後號為大乘經典。",
+        "from": "X10n0254_006:0432b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流傳於世。",
+        "from": "X10n0254_006:0432b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "信向者。",
+        "from": "X10n0254_006:0432b13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不知幾億萬人矣。",
+        "from": "X10n0254_006:0432b13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今四明聰講主。",
+        "from": "X10n0254_006:0432b13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於講究大乘之中。",
+        "from": "X10n0254_006:0432b14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摭諸佛髓。",
+        "from": "X10n0254_006:0432b14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "纂成要訣。",
+        "from": "X10n0254_006:0432b15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名大圓覺心鏡。",
+        "from": "X10n0254_006:0432b15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不啻十萬餘言。",
+        "from": "X10n0254_006:0432b15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆提撕菩薩之請問。",
+        "from": "X10n0254_006:0432b15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "闡揚佛祖之叮嚀。",
+        "from": "X10n0254_006:0432b17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀之者。",
+        "from": "X10n0254_006:0432b18_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了明奧旨。",
+        "from": "X10n0254_006:0432b18_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "想之者。",
+        "from": "X10n0254_006:0432b18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "親禮慈容。",
+        "from": "X10n0254_006:0432b18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "味之者。",
+        "from": "X10n0254_006:0432b18_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如餤醍醐。",
+        "from": "X10n0254_006:0432b19_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "化熱惱為清凉境界。",
+        "from": "X10n0254_006:0432b19_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則聰老此心又切也。",
+        "from": "X10n0254_006:0432b19_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(謙)既觀勝茲良因緣。",
+        "from": "X10n0254_006:0432b20_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃辦肯心。",
+        "from": "X10n0254_006:0432b20_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "書成部類。",
+        "from": "X10n0254_006:0432b20_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覬廣布流。",
+        "from": "X10n0254_006:0432b21_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又恐歲月泯糜。",
+        "from": "X10n0254_006:0432b21_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "化於眾緣鋟木。",
+        "from": "X10n0254_006:0432b21_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "共期播傳綿永。",
+        "from": "X10n0254_006:0432b21_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "旹皇宋紹定改元歲次戊子孟秋望日從義郎　李謙　謹誌永正三年丙寅三月廿有七日。",
+        "from": "X10n0254_006:0432b22_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "伏值榮林智忻首座二十五年遠忌之辰。",
+        "from": "X10n0254_006:0432c05_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "某懌煩良友數員大手筆。",
+        "from": "X10n0254_006:0432c06_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而書圓覺了義徑聰師心鏡六卷。",
+        "from": "X10n0254_006:0432c07_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所鳩善因。",
+        "from": "X10n0254_006:0432c07_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奉為忻大姉。",
+        "from": "X10n0254_006:0432c08_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莊嚴報地。",
+        "from": "X10n0254_006:0432c08_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "伏願三界迷徒。",
+        "from": "X10n0254_006:0432c08_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頓證圓覺本性。",
+        "from": "X10n0254_006:0432c08_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四生群類。",
+        "from": "X10n0254_006:0432c09_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俱生清泰樂邦。",
+        "from": "X10n0254_006:0432c09_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前慧峯自悅守懌暮齡六十三",
+        "from": "X10n0254_006:0432c10_0",
         "context_with_next_sentence": false
     }
 ]

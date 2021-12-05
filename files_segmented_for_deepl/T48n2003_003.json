@@ -7980,7 +7980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "看這老漢一場懡[怡台+羅]。",
+        "source_sentence": "看這老漢一場懡[怡-台+羅]。",
         "from": "T48n2003_003:0168b16_13",
         "context_with_next_sentence": true
     },
@@ -8225,7 +8225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "兩箇淈淈[泳永+盾][泳永+盾]。",
+        "source_sentence": "兩箇淈淈[泳-永+盾][泳-永+盾]。",
         "from": "T48n2003_003:0168c04_30",
         "context_with_next_sentence": true
     },
@@ -9320,7 +9320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "這僧一場懡[怡台+羅]。",
+        "source_sentence": "這僧一場懡[怡-台+羅]。",
         "from": "T48n2003_003:0169b16_10",
         "context_with_next_sentence": true
     },

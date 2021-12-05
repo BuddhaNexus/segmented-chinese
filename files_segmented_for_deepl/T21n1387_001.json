@@ -115,7 +115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "身患[病丙+來]病及惡瘡癬。",
+        "source_sentence": "身患[病-丙+來]病及惡瘡癬。",
         "from": "T21n1387_001:0906a28_9",
         "context_with_next_sentence": true
     },

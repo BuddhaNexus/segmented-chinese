@@ -575,7 +575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]而退。",
+        "source_sentence": "懡[怡-台+羅]而退。",
         "from": "X72n1444_003:0782a22_23",
         "context_with_next_sentence": true
     },
@@ -2030,7 +2030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "直教石女眼懡[怡台+羅]。",
+        "source_sentence": "直教石女眼懡[怡-台+羅]。",
         "from": "X72n1444_003:0783b24_3",
         "context_with_next_sentence": true
     },
@@ -3150,7 +3150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "木女[怡台+旁]惶淚成血。",
+        "source_sentence": "木女[怡-台+旁]惶淚成血。",
         "from": "X72n1444_003:0784c06_3",
         "context_with_next_sentence": true
     },

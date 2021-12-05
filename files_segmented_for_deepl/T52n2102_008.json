@@ -860,7 +860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其經辭致[嫽(日/小)+(夸大)]慢鬼弊云。",
+        "source_sentence": "其經辭致[嫽-(日/小)+(夸-大)]慢鬼弊云。",
         "from": "T52n2102_008:0048c29_6",
         "context_with_next_sentence": true
     },
@@ -960,7 +960,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "擿頭懸[打丁+昴]。",
+        "source_sentence": "擿頭懸[打-丁+昴]。",
         "from": "T52n2102_008:0049a11_6",
         "context_with_next_sentence": true
     },
@@ -1085,7 +1085,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又先生道民仙公王[示*末]陵縣民王靈期作也。",
+        "source_sentence": "又先生道民仙公王&#;陵縣民王靈期作也。",
         "from": "T52n2102_008:0049a20_13",
         "context_with_next_sentence": true
     },
@@ -1320,7 +1320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "滄川[泳永+皛]漫皆是我淚血。",
+        "source_sentence": "滄川[泳-永+皛]漫皆是我淚血。",
         "from": "T52n2102_008:0049b14_4",
         "context_with_next_sentence": true
     },

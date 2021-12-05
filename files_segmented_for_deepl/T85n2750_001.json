@@ -3050,7 +3050,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "委付汝使不據[打丁+毛]。",
+        "source_sentence": "委付汝使不據[打-丁+毛]。",
         "from": "T85n2750_001:0191c25_11",
         "context_with_next_sentence": true
     },
@@ -3075,7 +3075,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "土由據[打丁+毛]。",
+        "source_sentence": "土由據[打-丁+毛]。",
         "from": "T85n2750_001:0191c26_16",
         "context_with_next_sentence": true
     },
@@ -3135,7 +3135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "使不據[打丁+毛]。",
+        "source_sentence": "使不據[打-丁+毛]。",
         "from": "T85n2750_001:0192a01_28",
         "context_with_next_sentence": true
     },
@@ -3215,7 +3215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即是土田據[打丁+毛]之義顯矣。",
+        "source_sentence": "即是土田據[打-丁+毛]之義顯矣。",
         "from": "T85n2750_001:0192a05_44",
         "context_with_next_sentence": true
     },
@@ -6480,8 +6480,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "明善惡兩相所得",
+        "source_sentence": "明善惡兩相所得果報。",
         "from": "T85n2750_001:0194b29_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第六說是普賢品時。",
+        "from": "T85n2750_001:0194c01_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明諸人得道也。",
+        "from": "T85n2750_001:0194c01_41",
         "context_with_next_sentence": false
     }
 ]

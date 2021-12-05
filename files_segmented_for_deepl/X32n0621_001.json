@@ -80,7 +80,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五百弟子受記品第八授學無學人記品第九法師品第十見寶塔品第十一卷第七提婆達多品第十二持品第十三安樂行品第十四從地涌出品第十五卷第八如來壽量品第十六分別功德品第十七隨喜功德品第十八法師功德品第十九常不輕菩薩品第二十卷第九如來神力品第二十一囑累品第二十二藥王菩薩本事品第二十三妙音菩薩品第二十四卷第十觀世音菩薩普門品第二十五陀羅尼品第二十六妙莊嚴王本事品第二十七普賢菩薩勸發品第二十八法華經授手目次(終) 序無上士。",
+        "source_sentence": "五百弟子受記品第八授學無學人記品第九法師品第十見寶塔品第十一卷第七提婆達多品第十二持品第十三安樂行品第十四從地涌出品第十五卷第八如來壽量品第十六分別功德品第十七隨喜功德品第十八法師功德品第十九常不輕菩薩品第二十卷第九如來神力品第二十一囑累品第二十二藥王菩薩本事品第二十三妙音菩薩品第二十四卷第十觀世音菩薩普門品第二十五陀羅尼品第二十六妙莊嚴王本事品第二十七普賢菩薩勸發品第二十八法華經授手目次(終)序無上士。",
         "from": "X32n0621_001:0563c24_0",
         "context_with_next_sentence": true
     },
@@ -430,7 +430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "康熈乙丑三月上巳日嶺南崙山佘雲祚頓首敬撰 雲峰禪師法華授手序浩浩兩間。",
+        "source_sentence": "康熈乙丑三月上巳日嶺南崙山佘雲祚頓首敬撰雲峰禪師法華授手序浩浩兩間。",
         "from": "X32n0621_001:0564c04_0",
         "context_with_next_sentence": true
     },
@@ -850,7 +850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "康熙乙丑六月之二十日衡陽末學金簡夢錫氏盥沐焚香序於雲峰步雪樓 序諸佛出現。",
+        "source_sentence": "康熙乙丑六月之二十日衡陽末學金簡夢錫氏盥沐焚香序於雲峰步雪樓序諸佛出現。",
         "from": "X32n0621_001:0565a21_0",
         "context_with_next_sentence": true
     },
@@ -1410,7 +1410,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 法華授手序",
+        "source_sentence": "法華授手序",
         "from": "X32n0621_001:0566a03_0",
         "context_with_next_sentence": true
     },
@@ -1745,7 +1745,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 妙法蓮華經授手緣起",
+        "source_sentence": "妙法蓮華經授手緣起",
         "from": "X32n0621_001:0566b10_0",
         "context_with_next_sentence": true
     },
@@ -2020,7 +2020,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "愈[跳兆+孛][跳兆+孛]然若不可遏。",
+        "source_sentence": "愈[跳-兆+孛][跳-兆+孛]然若不可遏。",
         "from": "X32n0621_001:0566c08_2",
         "context_with_next_sentence": true
     },
@@ -3085,7 +3085,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 妙法蓮華經大意",
+        "source_sentence": "妙法蓮華經大意",
         "from": "X32n0621_001:0567c16_0",
         "context_with_next_sentence": true
     },
@@ -6210,7 +6210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "境如是[澗日+活]。",
+        "source_sentence": "境如是[澗-日+活]。",
         "from": "X32n0621_001:0571a02_8",
         "context_with_next_sentence": true
     },
@@ -8200,7 +8200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 妙法蓮華經授手弘傳序",
+        "source_sentence": "妙法蓮華經授手弘傳序",
         "from": "X32n0621_001:0572c16_0",
         "context_with_next_sentence": true
     },
@@ -12652,6 +12652,11 @@
     {
         "source_sentence": "貽(音夷)。",
         "from": "X32n0621_001:0576c24_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙法蓮華經授手弘傳序(終)",
+        "from": "X32n0621_001:0577a03_0",
         "context_with_next_sentence": false
     }
 ]

@@ -115,7 +115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "作諸牛馬猪羊驢騾騞駝鷄狗魚鳥[申*(毒毋+母)][甲*(曰/月)]蛤蟍為人所殺。",
+        "source_sentence": "作諸牛馬猪羊驢騾騞駝鷄狗魚鳥[申*(毒-毋+母)][甲*(曰/月)]蛤蟍為人所殺。",
         "from": "T53n2122_070:0815b14_19",
         "context_with_next_sentence": true
     },
@@ -3185,7 +3185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　受身癡聾[(鼓支+(山/ㄆ))/耳]　　謇吃口臭腥　顛狂不能信　　死墮拔舌耕　吾修四淨口　　自致八音聲五謂嗜酒。",
+        "source_sentence": "　受身癡聾[(鼓-支+(山/ㄆ))/耳]　　謇吃口臭腥　顛狂不能信　　死墮拔舌耕　吾修四淨口　　自致八音聲五謂嗜酒。",
         "from": "T53n2122_070:0818b16_0",
         "context_with_next_sentence": true
     },

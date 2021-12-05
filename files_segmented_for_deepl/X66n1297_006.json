@@ -1660,7 +1660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遇祖於[葸十+夕]嶺。",
+        "source_sentence": "遇祖於[葸-十+夕]嶺。",
         "from": "X66n1297_006:0312b15_36",
         "context_with_next_sentence": true
     },
@@ -3205,7 +3205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懶融不得西天缽。",
+        "source_sentence": "懶融不得西天盋。",
         "from": "X66n1297_006:0314a13_4",
         "context_with_next_sentence": true
     },
@@ -3225,7 +3225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "却將衣缽為人事。",
+        "source_sentence": "却將衣盋為人事。",
         "from": "X66n1297_006:0314a15_8",
         "context_with_next_sentence": true
     },

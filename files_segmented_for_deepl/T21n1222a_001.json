@@ -3810,7 +3810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即離地一[起巳+(厂@(羊三+二))]日行千里。",
+        "source_sentence": "即離地一[起-巳+(厂@(羊-三+二))]日行千里。",
         "from": "T21n1222a_001:0108a12_15",
         "context_with_next_sentence": true
     },
@@ -4025,7 +4025,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "◎",
+        "source_sentence": "◎聖迦抳忿怒金剛童子菩薩成就儀軌經卷上",
         "from": "T21n1222a_001:0108b06_9",
         "context_with_next_sentence": false
     }

@@ -665,7 +665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "我昔唯食一麥之時，身體羸瘦如阿斯樹，肉盡肋現如壞屋椽，脊骨連露如笻竹節，眼目欠陷如井底星，頭頂銷枯如暴乾瓠，所坐之地如馬蹄跡，皮膚皺[起巳+叟]如割胊形，舉手拂塵身毛焦落，以手摩腹乃觸脊梁。",
+        "source_sentence": "我昔唯食一麥之時，身體羸瘦如阿斯樹，肉盡肋現如壞屋椽，脊骨連露如笻竹節，眼目欠陷如井底星，頭頂銷枯如暴乾瓠，所坐之地如馬蹄跡，皮膚皺[起-巳+叟]如割胊形，舉手拂塵身毛焦落，以手摩腹乃觸脊梁。",
         "from": "T03n0187_007:0581b25_6",
         "context_with_next_sentence": true
     },
@@ -685,7 +685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "放牧童竪常來覩見，戲以草[這言+(卄/手)]而刺我鼻，或刺我口或刺我耳，我於爾時身心不動，常為天龍鬼神之所供養，能令十二絡叉天人住三乘路。」",
+        "source_sentence": "放牧童竪常來覩見，戲以草[這-言+(卄/手)]而刺我鼻，或刺我口或刺我耳，我於爾時身心不動，常為天龍鬼神之所供養，能令十二絡叉天人住三乘路。」",
         "from": "T03n0187_007:0581c08_1",
         "context_with_next_sentence": true
     },
@@ -780,7 +780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　童牧來觀看，　　戲以草[這言+(卄/手)]刺，　通於耳鼻口，　　以草木瓦石，　打擲於我身，　　亦不能致損，　一切皆忍受。",
+        "source_sentence": "　童牧來觀看，　　戲以草[這-言+(卄/手)]刺，　通於耳鼻口，　　以草木瓦石，　打擲於我身，　　亦不能致損，　一切皆忍受。",
         "from": "T03n0187_007:0582a27_0",
         "context_with_next_sentence": true
     },
@@ -1055,7 +1055,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時善生女聞神語已，即取千頭牸牛而[(殼一)/牛]其乳七度煎煮，唯取其上極精純者置新器內，用香粳米煮以為糜。",
+        "source_sentence": "時善生女聞神語已，即取千頭牸牛而[(殼-一)/牛]其乳七度煎煮，唯取其上極精純者置新器內，用香粳米煮以為糜。",
         "from": "T03n0187_007:0583b28_3",
         "context_with_next_sentence": true
     },
@@ -1185,7 +1185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　夜半聞天語，　　晨朝[(殼一)/牛]乳牛，　練彼千牛乳，　　作糜持奉獻。",
+        "source_sentence": "　夜半聞天語，　　晨朝[(殼-一)/牛]乳牛，　練彼千牛乳，　　作糜持奉獻。",
         "from": "T03n0187_007:0584a15_0",
         "context_with_next_sentence": true
     },

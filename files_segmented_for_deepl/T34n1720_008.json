@@ -2960,7 +2960,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛法雖復深曠而大要不出生死涅槃迷悟二[跳兆+(轍車)]也。",
+        "source_sentence": "佛法雖復深曠而大要不出生死涅槃迷悟二[跳-兆+(轍-車)]也。",
         "from": "T34n1720_008:0427a29_10",
         "context_with_next_sentence": true
     },
@@ -6635,7 +6635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雖復有解恐恃解[怡台+夌]他。",
+        "source_sentence": "雖復有解恐恃解[怡-台+夌]他。",
         "from": "T34n1720_008:0431a17_5",
         "context_with_next_sentence": true
     },

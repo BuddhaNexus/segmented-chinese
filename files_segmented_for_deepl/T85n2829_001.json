@@ -245,7 +245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即[病丙+帶]福臨見前請眾年常起願。",
+        "source_sentence": "即[病-丙+帶]福臨見前請眾年常起願。",
         "from": "T85n2829_001:1267a07_10",
         "context_with_next_sentence": true
     },
@@ -1170,8 +1170,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "現七寶臺殿□恒□幢蓋幡花遍□□金枝玉樹自",
+        "source_sentence": "現七寶臺殿□恒□幢蓋幡花遍□□金枝玉樹自然□。",
         "from": "T85n2829_001:1268b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "馬瑙玻[王*梨]為大地。",
+        "from": "T85n2829_001:1268b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "珊胡大海作。",
+        "from": "T85n2829_001:1268b22_4",
         "context_with_next_sentence": false
     }
 ]

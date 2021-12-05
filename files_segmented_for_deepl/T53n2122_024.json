@@ -2735,7 +2735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "名為[序予+阜]撲。",
+        "source_sentence": "名為[序-予+阜]撲。",
         "from": "T53n2122_024:0465a03_10",
         "context_with_next_sentence": true
     },
@@ -5265,7 +5265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "探[(阜十+止)*責]玄旨洞曉無差。",
+        "source_sentence": "探[(阜-十+止)*責]玄旨洞曉無差。",
         "from": "T53n2122_024:0467c11_5",
         "context_with_next_sentence": true
     },

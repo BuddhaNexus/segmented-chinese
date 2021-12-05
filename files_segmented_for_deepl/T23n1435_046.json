@@ -1025,7 +1025,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無[病丙+帶]下病不？",
+        "source_sentence": "無[病-丙+帶]下病不？",
         "from": "T23n1435_046:0332a15_53",
         "context_with_next_sentence": true
     },
@@ -1280,7 +1280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無[病丙+帶]下病不？",
+        "source_sentence": "無[病-丙+帶]下病不？",
         "from": "T23n1435_046:0332b14_14",
         "context_with_next_sentence": true
     },

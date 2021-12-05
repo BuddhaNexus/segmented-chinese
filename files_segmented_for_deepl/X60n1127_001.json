@@ -11925,7 +11925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "始終[仁二+天]事。",
+        "source_sentence": "始終[仁-二+天]事。",
         "from": "X60n1127_001:0625c02_10",
         "context_with_next_sentence": true
     },
@@ -12330,7 +12330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "旹大清康熙貳拾[栥欠+匕]年。",
+        "source_sentence": "旹大清康熙貳拾[栥-欠+匕]年。",
         "from": "X60n1127_001:0625c22_15",
         "context_with_next_sentence": true
     },
@@ -12347,6 +12347,21 @@
     {
         "source_sentence": "侍者海聰。",
         "from": "X60n1127_001:0625c23_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盥沐焚香稽首。",
+        "from": "X60n1127_001:0625c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謹書于蟠龍紫雲閣軒。",
+        "from": "X60n1127_001:0625c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(終)",
+        "from": "X60n1127_001:0625c24_2",
         "context_with_next_sentence": false
     }
 ]

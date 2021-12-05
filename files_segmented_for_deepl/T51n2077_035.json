@@ -1060,7 +1060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "揚子江心航折[竺二+韋]。",
+        "source_sentence": "揚子江心航折[竺-二+韋]。",
         "from": "T51n2077_035:0707b24_0",
         "context_with_next_sentence": true
     },
@@ -1870,7 +1870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蘇州虎丘[仁二+幼]堂善濟禪師。",
+        "source_sentence": "蘇州虎丘[仁-二+幼]堂善濟禪師。",
         "from": "T51n2077_035:0708b08_0",
         "context_with_next_sentence": true
     },
@@ -3737,6 +3737,36 @@
     {
         "source_sentence": "續傳燈錄卷第三十五",
         "from": "T51n2077_035:0710b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "續傳燈錄卷第三十六目錄",
+        "from": "T51n2077_035:0710b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大鑑下第二十世",
+        "from": "T51n2077_035:0710b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "薦福道生禪師法嗣一人",
+        "from": "T51n2077_035:0710b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "徑山道冲禪師(見錄)",
+        "from": "T51n2077_035:0710b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨慈聞禪師法嗣三人",
+        "from": "T51n2077_035:0710b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "徑山妙高禪師(見錄)天童止泓鑑禪師何山鐵鏡明禪師(已上二人無錄)育王觀禪師法嗣一人徑山元熙禪師(見錄)徑山善珍禪師法嗣二人徑山行端禪師(見錄)曹溪覺禪師(無錄)淨慈仲穎禪師法嗣三人江心了萬禪師岳林益禪師(已上二人見錄)雙林雲屋閑禪師(一人無錄)雙林朋禪師法嗣一人靈隱祖誾禪師(見錄)天童雲岫禪師法嗣一人雪竇大證禪師(見錄)孤峯秀禪師法嗣二人鼓山皖山凝禪師雙林一衲介禪師(二人無錄)靈隱普濟禪師法嗣三人蔣山東叟愷禪師雪竇野翁同禪師天童石門來禪師(已上三人無錄)天童自鏡禪師法嗣二人松窓照禪師月窓圓禪師(已上二人無錄)徑山如珏禪師法嗣一人中竺空岩有禪師(無錄)雪竇大夢因禪師法嗣一人風幡空山中禪師(無錄)黃龍慧開禪師法嗣一人瞎驢見和尚(無錄)淳菴淨禪師法嗣一人天童西江謀禪師(無錄)靈隱崇岳禪師法嗣一十二人金山善開禪師道場普岩禪師華藏覺通禪師龍翔希璉禪師瑞岩光睦禪師天目文禮禪師(已上六人見錄)雪竇大歇謙禪師淨慈谷原道禪師瑞岩雲巢岩禪師虎丘蒺藜曇禪師北海心禪師諾菴肇禪師續傳燈錄卷第三十六目錄(終)",
+        "from": "T51n2077_035:0710b17_0",
         "context_with_next_sentence": false
     }
 ]

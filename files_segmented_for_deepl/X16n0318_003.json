@@ -1800,7 +1800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上梵天。",
+        "source_sentence": "[跳-兆+孛]跳上梵天。",
         "from": "X16n0318_003:0789a04_19",
         "context_with_next_sentence": true
     },
@@ -3610,7 +3610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "後有僧思[邱丘+益]問仰山。",
+        "source_sentence": "後有僧思[邱-丘+益]問仰山。",
         "from": "X16n0318_003:0790b05_11",
         "context_with_next_sentence": true
     },
@@ -17735,7 +17735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "停橈把纜。",
+        "source_sentence": "停橈把䌫。",
         "from": "X16n0318_003:0800c23_0",
         "context_with_next_sentence": true
     },
@@ -25425,8 +25425,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "可謂得爍迦",
+        "source_sentence": "可謂得爍迦羅眼。",
         "from": "X16n0318_003:0806c17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若認定無變異處。",
+        "from": "X16n0318_003:0806c18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶有劍存。",
+        "from": "X16n0318_003:0806c18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "噫微矣。",
+        "from": "X16n0318_003:0806c18_18",
         "context_with_next_sentence": false
     }
 ]

@@ -13690,7 +13690,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如私[收ㄆ+　]格官解。",
+        "source_sentence": "如私[收-ㄆ+　]格官解。",
         "from": "X46n0784_005:0585a12_9",
         "context_with_next_sentence": true
     },
@@ -14122,6 +14122,11 @@
     {
         "source_sentence": "無依無得大乘四論玄義記卷第五",
         "from": "X46n0784_005:0585b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯慶三年歲次戌午年十二月六日興輪寺學問僧法安為　大皇帝及內殿故敬奉義章也。",
+        "from": "X46n0784_005:0585b17_0",
         "context_with_next_sentence": false
     }
 ]

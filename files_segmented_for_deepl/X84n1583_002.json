@@ -5,7 +5,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "南海普陀嗣祖沙門西蜀　性統　編集　　臨濟宗　　　大鑑下第十六世　　　　昭覺勤禪師法嗣寧波府育王山佛智端裕禪師紹興府錢氏子。",
+        "source_sentence": "南海普陀嗣祖沙門西蜀　性統　編集　　臨濟宗　　　大鑑下第十六世　　　　昭覺勤禪師法嗣寧波府育王山佛智端&#;禪師紹興府錢氏子。",
         "from": "X84n1583_002:0413c11_0",
         "context_with_next_sentence": true
     },
@@ -1090,7 +1090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "東海鯉魚[跳兆+孛]跳。",
+        "source_sentence": "東海鯉魚[跳-兆+孛]跳。",
         "from": "X84n1583_002:0414b22_11",
         "context_with_next_sentence": true
     },
@@ -3870,7 +3870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "杭州府中天竺[仁二+幻]堂中仁禪師洛陽人。",
+        "source_sentence": "杭州府中天竺[仁-二+幻]堂中仁禪師洛陽人。",
         "from": "X84n1583_002:0416b21_0",
         "context_with_next_sentence": true
     },

@@ -2445,7 +2445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何啻隔[革*(華(十*〡*十)+(人*〡*人))]抓癢。",
+        "source_sentence": "何啻隔[革*(華-(十*〡*十)+(人*〡*人))]抓癢。",
         "from": "X72n1435_034:0377a05_8",
         "context_with_next_sentence": true
     },
@@ -2650,7 +2650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "會晤須臾與道交。",
+        "source_sentence": "會晤須㬰與道交。",
         "from": "X72n1435_034:0377b04_0",
         "context_with_next_sentence": true
     },

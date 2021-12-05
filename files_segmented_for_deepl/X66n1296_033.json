@@ -1175,7 +1175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "瑞巖雖然威獰[后口+匕]愬。",
+        "source_sentence": "瑞巖雖然威獰[后-口+匕]愬。",
         "from": "X66n1296_033:0191b20_1",
         "context_with_next_sentence": true
     },
@@ -1615,7 +1615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "後面拔本。",
+        "source_sentence": "後面㧞本。",
         "from": "X66n1296_033:0192a07_2",
         "context_with_next_sentence": true
     },
@@ -2585,7 +2585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "溈山哲云。",
+        "source_sentence": "溈山喆云。",
         "from": "X66n1296_033:0193a11_0",
         "context_with_next_sentence": true
     },
@@ -3750,7 +3750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "溈山哲云。",
+        "source_sentence": "溈山喆云。",
         "from": "X66n1296_033:0194b08_0",
         "context_with_next_sentence": true
     },

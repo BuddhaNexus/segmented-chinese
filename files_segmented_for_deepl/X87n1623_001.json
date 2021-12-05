@@ -930,7 +930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "俄而有人從[郫卑+((白日+田)/廾)]縣來。",
+        "source_sentence": "俄而有人從[郫-卑+((白-日+田)/廾)]縣來。",
         "from": "X87n1623_001:0228b11_12",
         "context_with_next_sentence": true
     },
@@ -2670,12 +2670,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遇沛國劉[怡台+炭]。",
+        "source_sentence": "遇沛國劉[怡-台+炭]。",
         "from": "X87n1623_001:0230a23_7",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[怡台+炭]嘲曰道人何以游朱門。",
+        "source_sentence": "[怡-台+炭]嘲曰道人何以游朱門。",
         "from": "X87n1623_001:0230a23_8",
         "context_with_next_sentence": true
     },
@@ -2715,7 +2715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "([怡台+炭]疑當作恢字)抱玉出雲　涉公致雨抱玉。",
+        "source_sentence": "([怡-台+炭]疑當作恢字)抱玉出雲　涉公致雨抱玉。",
         "from": "X87n1623_001:0230b03_16",
         "context_with_next_sentence": true
     },
@@ -4545,7 +4545,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "來于[利禾+登]州。",
+        "source_sentence": "來于[利-禾+登]州。",
         "from": "X87n1623_001:0232a11_1",
         "context_with_next_sentence": true
     },
@@ -5745,7 +5745,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "偘即從窗中出臂長二十餘丈。",
+        "source_sentence": "偘即從窻中出臂長二十餘丈。",
         "from": "X87n1623_001:0233a14_9",
         "context_with_next_sentence": true
     },
@@ -7850,7 +7850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "塵土雖[怡台+方]。",
+        "source_sentence": "塵土雖[怡-台+方]。",
         "from": "X87n1623_001:0235a09_23",
         "context_with_next_sentence": true
     },

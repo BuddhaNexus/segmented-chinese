@@ -30,7 +30,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拄杖朝來剛[跳兆+孛]跳。",
+        "source_sentence": "拄杖朝來剛[跳-兆+孛]跳。",
         "from": "X70n1375_001:0034b10_4",
         "context_with_next_sentence": true
     },
@@ -705,7 +705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "向這裏把纜放船。",
+        "source_sentence": "向這裏把䌫放船。",
         "from": "X70n1375_001:0034c22_5",
         "context_with_next_sentence": true
     },
@@ -1040,7 +1040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "披毛帶角入[廓享+墨]來。",
+        "source_sentence": "披毛帶角入[廓-享+墨]來。",
         "from": "X70n1375_001:0035a15_3",
         "context_with_next_sentence": true
     },
@@ -1710,7 +1710,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "舉真如哲和尚道。",
+        "source_sentence": "舉真如喆和尚道。",
         "from": "X70n1375_001:0035c07_1",
         "context_with_next_sentence": true
     },
@@ -3425,7 +3425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "在諸人脚跟下[跳兆+孛]跳。",
+        "source_sentence": "在諸人脚跟下[跳-兆+孛]跳。",
         "from": "X70n1375_001:0037a03_2",
         "context_with_next_sentence": true
     },
@@ -5475,7 +5475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "臨濟休誇小[病丙+斯]兒。",
+        "source_sentence": "臨濟休誇小[病-丙+斯]兒。",
         "from": "X70n1375_001:0038c07_3",
         "context_with_next_sentence": true
     },

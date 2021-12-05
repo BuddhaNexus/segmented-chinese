@@ -5345,7 +5345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "十萬里星排祖[榦木+禾]涼蔭四生。",
+        "source_sentence": "十萬里星排祖[榦-木+禾]涼蔭四生。",
         "from": "T51n2077_014:0560a15_49",
         "context_with_next_sentence": true
     },
@@ -8335,7 +8335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "入廛垂手事如何。",
+        "source_sentence": "入&#;垂手事如何。",
         "from": "T51n2077_014:0562c10_3",
         "context_with_next_sentence": true
     },
@@ -9462,6 +9462,91 @@
     {
         "source_sentence": "續傳燈錄卷第十四(終)",
         "from": "T51n2077_014:0563c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "續傳燈錄卷第十五目錄",
+        "from": "T51n2077_014:0563c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大鑑下第十三世",
+        "from": "T51n2077_014:0563c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黃龍慧南禪師法嗣上二十四人",
+        "from": "T51n2077_014:0563c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黃龍祖心禪師泐潭克文禪師",
+        "from": "T51n2077_014:0563c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "泐潭洪英禪師仰山行偉禪師",
+        "from": "T51n2077_014:0563c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隆慶慶閑禪師雲蓋守智禪師",
+        "from": "T51n2077_014:0563c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "玄沙合文禪師黃蘗惟勝禪師",
+        "from": "T51n2077_014:0563c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "百丈元肅禪師大溈懷秀禪師",
+        "from": "T51n2077_014:0563c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "福嚴慈感禪師(已上十二人見錄)",
+        "from": "T51n2077_014:0564a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "太平瑤禪師仰山和禪師",
+        "from": "T51n2077_014:0564a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雪竇行緣禪師淨眾啟蒙禪師",
+        "from": "T51n2077_014:0564a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大羅智高禪師承天敏禪師",
+        "from": "T51n2077_014:0564a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勝業子瓊禪師佛迹道昱禪師",
+        "from": "T51n2077_014:0564a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鵝湖聰禪師章江元禪師",
+        "from": "T51n2077_014:0564a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "積翠霞菴主興國傾禪師",
+        "from": "T51n2077_014:0564a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "潘清一居士(已上十三人無錄)",
+        "from": "T51n2077_014:0564a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "續傳燈錄卷第十五目錄(終)",
+        "from": "T51n2077_014:0564a09_0",
         "context_with_next_sentence": false
     }
 ]

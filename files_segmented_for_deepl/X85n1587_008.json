@@ -595,7 +595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若無舉鼎拔山力。",
+        "source_sentence": "若無舉鼎㧞山力。",
         "from": "X85n1587_008:0049a19_11",
         "context_with_next_sentence": true
     },
@@ -5100,7 +5100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不然總是懡[怡台+羅]。",
+        "source_sentence": "不然總是懡[怡-台+羅]。",
         "from": "X85n1587_008:0052c02_10",
         "context_with_next_sentence": true
     },
@@ -6367,6 +6367,21 @@
     {
         "source_sentence": "閉門作活是如何。",
         "from": "X85n1587_008:0053c02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "士曰。",
+        "from": "X85n1587_008:0053c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出賣[車*度]轢鑽。",
+        "from": "X85n1587_008:0053c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誾休去。",
+        "from": "X85n1587_008:0053c03_2",
         "context_with_next_sentence": false
     }
 ]

@@ -765,7 +765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如人未曾親到家[這言+(序予+手)]。",
+        "source_sentence": "如人未曾親到家[這-言+(序-予+手)]。",
         "from": "X70n1402_001:0714a08_9",
         "context_with_next_sentence": true
     },
@@ -1290,7 +1290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不是門[這言+(序予+手)]施設。",
+        "source_sentence": "不是門[這-言+(序-予+手)]施設。",
         "from": "X70n1402_001:0714b24_2",
         "context_with_next_sentence": true
     },
@@ -2705,7 +2705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦不肯懡[怡台+羅]而休。",
+        "source_sentence": "亦不肯懡[怡-台+羅]而休。",
         "from": "X70n1402_001:0716a19_37",
         "context_with_next_sentence": true
     },
@@ -4935,7 +4935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "重重[宋木+取]勝黃金閣。",
+        "source_sentence": "重重[宋-木+取]勝黃金閣。",
         "from": "X70n1402_001:0719a06_0",
         "context_with_next_sentence": true
     },
@@ -5605,7 +5605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]死[拚ㄙ+ㄊ]生不顧身。",
+        "source_sentence": "[拚-ㄙ+ㄊ]死[拚-ㄙ+ㄊ]生不顧身。",
         "from": "X70n1402_001:0719c24_1",
         "context_with_next_sentence": true
     },
@@ -5670,7 +5670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今日便[拚ㄙ+ㄊ]窮性命。",
+        "source_sentence": "今日便[拚-ㄙ+ㄊ]窮性命。",
         "from": "X70n1402_001:0720a06_2",
         "context_with_next_sentence": true
     },
@@ -7075,7 +7075,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[宋木+取]是不能遮掩處。",
+        "source_sentence": "[宋-木+取]是不能遮掩處。",
         "from": "X70n1402_001:0721b22_2",
         "context_with_next_sentence": true
     },
@@ -7280,7 +7280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "松花滿帚填虗廩。",
+        "source_sentence": "松花滿箒填虗廩。",
         "from": "X70n1402_001:0721c19_4",
         "context_with_next_sentence": true
     },

@@ -485,7 +485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又被風吹別調中　頌殃崛托缽話。",
+        "source_sentence": "又被風吹別調中　頌殃崛托盋話。",
         "from": "X85n1587_004:0020a11_26",
         "context_with_next_sentence": true
     },
@@ -3515,7 +3515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "看茶銚[跳兆+孛]跳。",
+        "source_sentence": "看茶銚[跳-兆+孛]跳。",
         "from": "X85n1587_004:0022b07_24",
         "context_with_next_sentence": true
     },
@@ -7650,7 +7650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "杭州圓照[茿凡+ㄗ]溪森禪師惠州博羅黎氏子。",
+        "source_sentence": "杭州圓照[茿-凡+ㄗ]溪森禪師惠州博羅黎氏子。",
         "from": "X85n1587_004:0025b21_0",
         "context_with_next_sentence": true
     },
@@ -8630,7 +8630,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[茿凡+ㄗ]溪老[茿凡+ㄗ]溪老。",
+        "source_sentence": "[茿-凡+ㄗ]溪老[茿-凡+ㄗ]溪老。",
         "from": "X85n1587_004:0026a19_2",
         "context_with_next_sentence": true
     },
@@ -9890,7 +9890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "復作此[中口+○]相去。",
+        "source_sentence": "復作此[中-口+○]相去。",
         "from": "X85n1587_004:0027a11_5",
         "context_with_next_sentence": true
     },
@@ -10980,7 +10980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "覺拔為堂司。",
+        "source_sentence": "覺㧞為堂司。",
         "from": "X85n1587_004:0027c22_7",
         "context_with_next_sentence": true
     },
@@ -13570,8 +13570,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "兵",
+        "source_sentence": "兵部尚書淮南龔鼎孳。",
         "from": "X85n1587_004:0029c11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為之銘。",
+        "from": "X85n1587_004:0029c12_5",
         "context_with_next_sentence": false
     }
 ]

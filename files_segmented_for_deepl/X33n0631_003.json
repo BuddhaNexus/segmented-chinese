@@ -7555,7 +7555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不濟久[病丙+冘]。",
+        "source_sentence": "不濟久[病-丙+冘]。",
         "from": "X33n0631_003:0582a21_2",
         "context_with_next_sentence": true
     },
@@ -7635,7 +7635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如上草能治久[病丙+冘]。",
+        "source_sentence": "如上草能治久[病-丙+冘]。",
         "from": "X33n0631_003:0582b02_18",
         "context_with_next_sentence": true
     },
@@ -17375,7 +17375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大悲拔苦。",
+        "source_sentence": "大悲㧞苦。",
         "from": "X33n0631_003:0590b24_3",
         "context_with_next_sentence": true
     },
@@ -27797,6 +27797,31 @@
     {
         "source_sentence": "法華指掌疏卷第三",
         "from": "X33n0631_003:0599b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X33n0631_003:0599b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "浹(即恊切音浹相霑徹也)。",
+        "from": "X33n0631_003:0599b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "稉糯(上古衡切音庚下奴臥切音懦稻之不黏者名稉黏者名糯)。",
+        "from": "X33n0631_003:0599b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[病-丙+冘](時任切音諶腹內痼病也)。",
+        "from": "X33n0631_003:0599b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "握(乙角切音渥在外為持在內為握)。",
+        "from": "X33n0631_003:0599b22_1",
         "context_with_next_sentence": false
     }
 ]

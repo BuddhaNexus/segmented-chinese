@@ -1180,7 +1180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何以聖教說[(厂@((既旡)日+口))*頁]自他。",
+        "source_sentence": "何以聖教說[(厂@((既-旡)-日+口))*頁]自他。",
         "from": "X50n0821_006:0738b23_62",
         "context_with_next_sentence": true
     },
@@ -1190,7 +1190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "然聖教說[(厂@((既旡)日+口))*頁]自他者。",
+        "source_sentence": "然聖教說[(厂@((既-旡)-日+口))*頁]自他者。",
         "from": "X50n0821_006:0738b23_64",
         "context_with_next_sentence": true
     },
@@ -10250,7 +10250,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "由執彼因果皆為[宋木+取]勝。",
+        "source_sentence": "由執彼因果皆為[宋-木+取]勝。",
         "from": "X50n0821_006:0746c06_4",
         "context_with_next_sentence": true
     },
@@ -10575,7 +10575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皆有執為[宋木+取]勝能得清淨。",
+        "source_sentence": "皆有執為[宋-木+取]勝能得清淨。",
         "from": "X50n0821_006:0747a01_12",
         "context_with_next_sentence": true
     },
@@ -11095,7 +11095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "執為[宋木+取]勝。",
+        "source_sentence": "執為[宋-木+取]勝。",
         "from": "X50n0821_006:0747b10_3",
         "context_with_next_sentence": true
     },
@@ -11575,7 +11575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二取於諸見戒執為[宋木+取]勝。",
+        "source_sentence": "二取於諸見戒執為[宋-木+取]勝。",
         "from": "X50n0821_006:0747c15_42",
         "context_with_next_sentence": true
     },

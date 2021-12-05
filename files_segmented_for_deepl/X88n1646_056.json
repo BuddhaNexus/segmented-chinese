@@ -555,7 +555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "色者[獻鬲+魚]色。",
+        "source_sentence": "色者[獻-鬲+魚]色。",
         "from": "X88n1646_056:0291a10_4",
         "context_with_next_sentence": true
     },
@@ -690,7 +690,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一箇缽盂。",
+        "source_sentence": "一箇盋盂。",
         "from": "X88n1646_056:0291a18_10",
         "context_with_next_sentence": true
     },
@@ -730,7 +730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乾隆四十一年歲易涒灘歲名柔兆陬月吉日造 居士傳跋儒佛之道。",
+        "source_sentence": "乾隆四十一年歲易涒灘歲名柔兆陬月吉日造居士傳跋儒佛之道。",
         "from": "X88n1646_056:0291a21_0",
         "context_with_next_sentence": true
     },
@@ -1012,6 +1012,11 @@
     {
         "source_sentence": "兼誌其緣起如此。",
         "from": "X88n1646_056:0291b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乾隆四十年秋八月養空居士王廷言跋",
+        "from": "X88n1646_056:0291b22_0",
         "context_with_next_sentence": false
     }
 ]

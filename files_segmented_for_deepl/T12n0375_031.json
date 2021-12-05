@@ -860,7 +860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如有人沒圊廁中，有善知識以手[打丁+毛]之，若得頭髮便欲拔出，久求不得，爾乃息意。",
+        "source_sentence": "譬如有人沒圊廁中，有善知識以手[打-丁+毛]之，若得頭髮便欲拔出，久求不得，爾乃息意。",
         "from": "T12n0375_031:0808b15_0",
         "context_with_next_sentence": true
     },

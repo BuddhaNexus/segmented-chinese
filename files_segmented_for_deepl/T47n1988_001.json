@@ -1600,7 +1600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拈取糞箕掃帚來。",
+        "source_sentence": "拈取糞箕掃箒來。",
         "from": "T47n1988_001:0546a17_16",
         "context_with_next_sentence": true
     },
@@ -2840,7 +2840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "記得一堆一擔搕[打丁+(天/韭)]。",
+        "source_sentence": "記得一堆一擔搕[打-丁+(天/韭)]。",
         "from": "T47n1988_001:0547a14_6",
         "context_with_next_sentence": true
     },
@@ -4895,7 +4895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "這掠虛漢諕(呼訝切)我。",
+        "source_sentence": "這掠虛漢&#;(呼訝切)我。",
         "from": "T47n1988_001:0548c05_13",
         "context_with_next_sentence": true
     },
@@ -8675,7 +8675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "諕(呼訝切)汝屋裏老爺。",
+        "source_sentence": "&#;(呼訝切)汝屋裏老爺。",
         "from": "T47n1988_001:0551b03_2",
         "context_with_next_sentence": true
     },
@@ -10700,7 +10700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "誑諕人家男女。",
+        "source_sentence": "誑&#;人家男女。",
         "from": "T47n1988_001:0552c19_4",
         "context_with_next_sentence": true
     },
@@ -11085,7 +11085,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "中間諕汝屋裏老爺得麼。",
+        "source_sentence": "中間&#;汝屋裏老爺得麼。",
         "from": "T47n1988_001:0553a16_9",
         "context_with_next_sentence": true
     },
@@ -11692,6 +11692,11 @@
     {
         "source_sentence": "雲門匡真禪師廣錄卷上",
         "from": "T47n1988_001:0553c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住福州鼓山圓覺宗演校勘",
+        "from": "T47n1988_001:0553c18_0",
         "context_with_next_sentence": false
     }
 ]

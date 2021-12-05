@@ -675,7 +675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "老伯伯昨許我菊花[妳女+口]。",
+        "source_sentence": "老伯伯昨許我菊花[妳-女+口]。",
         "from": "X88n1642_003:0039c20_5",
         "context_with_next_sentence": true
     },
@@ -1520,7 +1520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如　大帝立箇千秋[打丁+羕]子。",
+        "source_sentence": "如　大帝立箇千秋[打-丁+羕]子。",
         "from": "X88n1642_003:0040b24_28",
         "context_with_next_sentence": true
     },
@@ -2035,7 +2035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "月正明兮拔鎗捋劍。",
+        "source_sentence": "月正明兮㧞鎗捋劍。",
         "from": "X88n1642_003:0041a14_1",
         "context_with_next_sentence": true
     },
@@ -3615,7 +3615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "茂年孝廉竟以朵頤喪命。",
+        "source_sentence": "茂年孝廉竟以朵頥喪命。",
         "from": "X88n1642_003:0042b20_0",
         "context_with_next_sentence": true
     },
@@ -4180,7 +4180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "驀地[打丁+吊]牕繩斷墜下。",
+        "source_sentence": "驀地[打-丁+吊]牕繩斷墜下。",
         "from": "X88n1642_003:0043a11_0",
         "context_with_next_sentence": true
     },

@@ -4685,7 +4685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二名[打丁+毛]擾。",
+        "source_sentence": "二名[打-丁+毛]擾。",
         "from": "T53n2122_069:0812a10_33",
         "context_with_next_sentence": true
     },
@@ -5215,7 +5215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一種在[跳兆+專]。",
+        "source_sentence": "一種在[跳-兆+專]。",
         "from": "T53n2122_069:0812b08_18",
         "context_with_next_sentence": true
     },

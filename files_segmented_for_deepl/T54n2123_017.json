@@ -3985,7 +3985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "膚體[病丙+習][病丙+習]。",
+        "source_sentence": "膚體[病-丙+習][病-丙+習]。",
         "from": "T54n2123_017:0159a10_0",
         "context_with_next_sentence": true
     },
@@ -7705,7 +7705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遂還霸王治民如舊。",
+        "source_sentence": "遂還覇王治民如舊。",
         "from": "T54n2123_017:0162b23_14",
         "context_with_next_sentence": true
     },

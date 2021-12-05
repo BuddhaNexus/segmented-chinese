@@ -2045,7 +2045,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "露柱燈籠皆[跳兆+孛]跳。",
+        "source_sentence": "露柱燈籠皆[跳-兆+孛]跳。",
         "from": "X64n1260_012:0093b11_12",
         "context_with_next_sentence": true
     },
@@ -4350,7 +4350,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蝦蟆[跳兆+孛]跳上天。",
+        "source_sentence": "蝦蟆[跳-兆+孛]跳上天。",
         "from": "X64n1260_012:0095c13_5",
         "context_with_next_sentence": true
     },
@@ -4680,7 +4680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "須彌山上[跳兆+孛]跳。",
+        "source_sentence": "須彌山上[跳-兆+孛]跳。",
         "from": "X64n1260_012:0096a11_1",
         "context_with_next_sentence": true
     },

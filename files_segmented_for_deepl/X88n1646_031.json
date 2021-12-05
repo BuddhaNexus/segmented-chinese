@@ -570,7 +570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "透過古今圈[袖由+貴]後。",
+        "source_sentence": "透過古今圈[袖-由+貴]後。",
         "from": "X88n1646_031:0239a07_18",
         "context_with_next_sentence": true
     },
@@ -1425,7 +1425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一向起模畫[打丁+羕]。",
+        "source_sentence": "一向起模畫[打-丁+羕]。",
         "from": "X88n1646_031:0239c16_10",
         "context_with_next_sentence": true
     },
@@ -2780,7 +2780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四十偈私",
+        "source_sentence": "四十偈私記可以不作。",
         "from": "X88n1646_031:0241a09_7",
         "context_with_next_sentence": false
     }

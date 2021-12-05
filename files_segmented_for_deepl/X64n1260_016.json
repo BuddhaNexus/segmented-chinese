@@ -590,7 +590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "X64n1260_016:0126c20_54",
         "context_with_next_sentence": true
     },
@@ -1425,7 +1425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師云切忌[革*(華(十*〡*十)+(人*〡*人))]裏動指頭。",
+        "source_sentence": "師云切忌[革*(華-(十*〡*十)+(人*〡*人))]裏動指頭。",
         "from": "X64n1260_016:0127c15_12",
         "context_with_next_sentence": true
     },
@@ -1720,7 +1720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如油入麵永取不出。",
+        "source_sentence": "如油入麫永取不出。",
         "from": "X64n1260_016:0128a15_5",
         "context_with_next_sentence": true
     },
@@ -7145,7 +7145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雲門手中扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "雲門手中扇子[跳-兆+孛]跳上三十三天。",
         "from": "X64n1260_016:0134b05_26",
         "context_with_next_sentence": true
     },
@@ -7415,7 +7415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "後鬼拔其兩脚。",
+        "source_sentence": "後鬼㧞其兩脚。",
         "from": "X64n1260_016:0134b24_5",
         "context_with_next_sentence": true
     },

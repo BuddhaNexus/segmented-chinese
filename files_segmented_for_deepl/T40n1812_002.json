@@ -1375,7 +1375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[衛韋+含]上人之命故名為使。",
+        "source_sentence": "[衛-韋+含]上人之命故名為使。",
         "from": "T40n1812_002:0591c07_10",
         "context_with_next_sentence": true
     },
@@ -5340,8 +5340,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是故誡",
+        "source_sentence": "是故誡勸剎那不捨故云念念不去。",
         "from": "T40n1812_002:0596b02_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "結犯如文。",
+        "from": "T40n1812_002:0596b03_20",
         "context_with_next_sentence": false
     }
 ]

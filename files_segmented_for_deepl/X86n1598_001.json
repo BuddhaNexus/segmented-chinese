@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 曹谿大師別傳敘",
+        "source_sentence": "曹谿大師別傳敘",
         "from": "X86n1598_001:0049a03_0",
         "context_with_next_sentence": true
     },
@@ -5435,7 +5435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 書曹溪大師別傳後",
+        "source_sentence": "書曹溪大師別傳後",
         "from": "X86n1598_001:0053c19_0",
         "context_with_next_sentence": true
     },
@@ -5505,7 +5505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今謂若不曾聞經於市[廓享+墨]開悟。",
+        "source_sentence": "今謂若不曾聞經於市[廓-享+墨]開悟。",
         "from": "X86n1598_001:0053c24_13",
         "context_with_next_sentence": true
     },
@@ -5942,6 +5942,11 @@
     {
         "source_sentence": "授之欹劂氏云。",
         "from": "X86n1598_001:0054b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶曆十二年壬午夏四月　　　祖芳謹識",
+        "from": "X86n1598_001:0054b09_0",
         "context_with_next_sentence": false
     }
 ]

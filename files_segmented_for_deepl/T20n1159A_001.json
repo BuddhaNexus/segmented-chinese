@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": "[峚大+(企止)]窖大道心驅策法爾時如來在靈鷲山薄伽樹下師子座坐。",
+        "source_sentence": "[峚-大+(企-止)]窖大道心驅策法爾時如來在靈鷲山薄伽樹下師子座坐。",
         "from": "T20n1159A_001:0652c07_0",
         "context_with_next_sentence": true
     },
@@ -2062,6 +2062,21 @@
     {
         "source_sentence": "大道驅策軌",
         "from": "T20n1159A_001:0655a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "傅法師慶有阿闍梨首楞嚴院書之",
+        "from": "T20n1159A_001:0655a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寬治元年七月二十五日未時書了",
+        "from": "T20n1159A_001:0655a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亨保三年秋以栂尾山藏本令武親字然藏本蠧損碩難見讀得善本校正耳",
+        "from": "T20n1159A_001:0655a23_0",
         "context_with_next_sentence": false
     }
 ]

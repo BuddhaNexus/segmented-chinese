@@ -600,7 +600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "饆羅[飢几+追]子請君快不將來。",
+        "source_sentence": "饆羅[飢-几+追]子請君快不將來。",
         "from": "X65n1277_014:0051b18_9",
         "context_with_next_sentence": true
     },
@@ -675,7 +675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "供佛供僧[栽木+土]培善果。",
+        "source_sentence": "供佛供僧[栽-木+土]培善果。",
         "from": "X65n1277_014:0051c02_1",
         "context_with_next_sentence": true
     },

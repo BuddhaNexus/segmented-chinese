@@ -33695,7 +33695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "藥王藥上[嚐旨+甘]藥。",
+        "source_sentence": "藥王藥上[嚐-旨+甘]藥。",
         "from": "X55n0888_002:0383a01_85",
         "context_with_next_sentence": true
     },
@@ -33765,7 +33765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[嚐旨+甘]藥味塵。",
+        "source_sentence": "[嚐-旨+甘]藥味塵。",
         "from": "X55n0888_002:0383a04_10",
         "context_with_next_sentence": true
     },

@@ -595,7 +595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遂[涺十+(此/土)]木駝象牛驢馬等眾生及麞鹿。",
+        "source_sentence": "遂[涺-十+(此/土)]木駝象牛驢馬等眾生及麞鹿。",
         "from": "T54n2142_001:1286c17_3",
         "context_with_next_sentence": true
     },
@@ -670,7 +670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "銀神像及銅像并[涺十+(土/此/土)]神像及木神像。",
+        "source_sentence": "銀神像及銅像并[涺-十+(土/此/土)]神像及木神像。",
         "from": "T54n2142_001:1286c22_12",
         "context_with_next_sentence": true
     },
@@ -2195,7 +2195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "死活",
+        "source_sentence": "死活並為彌師訶其人大有信心人即云。",
         "from": "T54n2142_001:1288a27_63",
         "context_with_next_sentence": false
     }

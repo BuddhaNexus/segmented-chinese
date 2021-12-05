@@ -585,7 +585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[銜金+缶]草及雜花來投著。",
+        "source_sentence": "[銜-金+缶]草及雜花來投著。",
         "from": "T18n0910_001:0925b16_1",
         "context_with_next_sentence": true
     },
@@ -1007,6 +1007,16 @@
     {
         "source_sentence": "梵天擇地法終",
         "from": "T18n0910_001:0926a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靈雲雲校本云貞享四年二月廿日一校了。",
+        "from": "T18n0910_001:0926a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　　　　淨嚴(四十九載)",
+        "from": "T18n0910_001:0926a11_0",
         "context_with_next_sentence": false
     }
 ]

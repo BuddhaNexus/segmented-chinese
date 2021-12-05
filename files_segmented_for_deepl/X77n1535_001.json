@@ -805,7 +805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "帝使侍中宋敞送[款士+止]於耀。",
+        "source_sentence": "帝使侍中宋敞送[款-士+止]於耀。",
         "from": "X77n1535_001:0655c20_15",
         "context_with_next_sentence": true
     },
@@ -1915,7 +1915,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其偈乃隋朝闍那[怡台+屈]多所譯。",
+        "source_sentence": "其偈乃隋朝闍那[怡-台+屈]多所譯。",
         "from": "X77n1535_001:0657a05_3",
         "context_with_next_sentence": true
     },
@@ -2275,7 +2275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "從窗隙入。",
+        "source_sentence": "從窻隙入。",
         "from": "X77n1535_001:0657b12_3",
         "context_with_next_sentence": true
     },
@@ -5410,7 +5410,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂為[譋月+?]寱。",
+        "source_sentence": "謂為[譋-月+?]寱。",
         "from": "X77n1535_001:0660b12_5",
         "context_with_next_sentence": true
     },
@@ -5425,7 +5425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[譋月+?]音蹋。",
+        "source_sentence": "[譋-月+?]音蹋。",
         "from": "X77n1535_001:0660b13_2",
         "context_with_next_sentence": true
     },
@@ -6665,7 +6665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "黑象欲拔此樹。",
+        "source_sentence": "黑象欲㧞此樹。",
         "from": "X77n1535_001:0661b22_11",
         "context_with_next_sentence": true
     },
@@ -11600,7 +11600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "橡斗即[櫸與+里]樹子。",
+        "source_sentence": "橡斗即[櫸-與+里]樹子。",
         "from": "X77n1535_001:0666b02_2",
         "context_with_next_sentence": true
     },
@@ -11985,7 +11985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "晝夜二潮嗷[口*岌]滿[竺二+(一/(尸@邑))]。",
+        "source_sentence": "晝夜二潮嗷[口*岌]滿[竺-二+(一/(尸@邑))]。",
         "from": "X77n1535_001:0666b24_5",
         "context_with_next_sentence": true
     },
@@ -12015,7 +12015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "贖[竺二+(一/(尸@邑))]一所。",
+        "source_sentence": "贖[竺-二+(一/(尸@邑))]一所。",
         "from": "X77n1535_001:0666c02_11",
         "context_with_next_sentence": true
     },
@@ -12055,7 +12055,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[竺二+(一/(尸@邑))]者護也。",
+        "source_sentence": "[竺-二+(一/(尸@邑))]者護也。",
         "from": "X77n1535_001:0666c06_6",
         "context_with_next_sentence": true
     },
@@ -12180,7 +12180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三百餘里江溪[竺二+(一/(尸@邑))]梁。",
+        "source_sentence": "三百餘里江溪[竺-二+(一/(尸@邑))]梁。",
         "from": "X77n1535_001:0666c13_0",
         "context_with_next_sentence": true
     },
@@ -12275,12 +12275,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "尚兒勸諭[竺二+(一/(尸@邑))]主。",
+        "source_sentence": "尚兒勸諭[竺-二+(一/(尸@邑))]主。",
         "from": "X77n1535_001:0666c20_6",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "嚴續祖．羊公賀等共捨[竺二+(一/(尸@邑))]梁六十三所。",
+        "source_sentence": "嚴續祖．羊公賀等共捨[竺-二+(一/(尸@邑))]梁六十三所。",
         "from": "X77n1535_001:0666c21_0",
         "context_with_next_sentence": true
     },
@@ -15300,7 +15300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "將欲解纜。",
+        "source_sentence": "將欲解䌫。",
         "from": "X77n1535_001:0669b18_6",
         "context_with_next_sentence": true
     },

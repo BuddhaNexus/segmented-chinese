@@ -195,7 +195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雪寒處聽諸比丘著靴履[輻車+革][革*羅]，餘國不聽。",
+        "source_sentence": "雪寒處聽諸比丘著靴履[輻-車+革][革*羅]，餘國不聽。",
         "from": "T23n1441_006:0598a26_1",
         "context_with_next_sentence": true
     },
@@ -1245,7 +1245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "世尊聽諸比丘畜氈褥毾[毯炎+登]，若僧有、若自有。",
+        "source_sentence": "世尊聽諸比丘畜氈褥毾[毯-炎+登]，若僧有、若自有。",
         "from": "T23n1441_006:0600a14_1",
         "context_with_next_sentence": true
     },

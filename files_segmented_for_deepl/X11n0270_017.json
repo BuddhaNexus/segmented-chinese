@@ -4610,7 +4610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "心精通[泳永+曶]。",
+        "source_sentence": "心精通[泳-永+曶]。",
         "from": "X11n0270_017:0869c10_0",
         "context_with_next_sentence": true
     },
@@ -4695,7 +4695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "與菩薩羅漢[泳永+曶]合。",
+        "source_sentence": "與菩薩羅漢[泳-永+曶]合。",
         "from": "X11n0270_017:0869c15_3",
         "context_with_next_sentence": true
     },
@@ -6447,6 +6447,71 @@
     {
         "source_sentence": "成無上道。",
         "from": "X11n0270_017:0871b12_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大佛頂如來密因修證了義諸菩薩萬行首楞嚴經要解卷第十七音切貶(筆斂切)。",
+        "from": "X11n0270_017:0871b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "冗(而隴切)。",
+        "from": "X11n0270_017:0871b19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勗(許玉切)。",
+        "from": "X11n0270_017:0871b19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凭(皮證切)。",
+        "from": "X11n0270_017:0871b19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "坼(丑格切)。",
+        "from": "X11n0270_017:0871b19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妖(於嬌切)。",
+        "from": "X11n0270_017:0871b19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僉(七兼切)。",
+        "from": "X11n0270_017:0871b19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眇(眉沼切)。",
+        "from": "X11n0270_017:0871b20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "籍(疾易切)。",
+        "from": "X11n0270_017:0871b20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "溢(音逸)。",
+        "from": "X11n0270_017:0871b20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蟯(音饒)。",
+        "from": "X11n0270_017:0871b20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蛔(音回)。",
+        "from": "X11n0270_017:0871b20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "抑(音憶)。",
+        "from": "X11n0270_017:0871b20_12",
         "context_with_next_sentence": false
     }
 ]

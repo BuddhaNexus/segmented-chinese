@@ -3315,7 +3315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "獨露身[妳女+口]。",
+        "source_sentence": "獨露身[妳-女+口]。",
         "from": "X83n1578_022:0640b16_17",
         "context_with_next_sentence": true
     },
@@ -3335,7 +3335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "萬象之中[妳女+口]。",
+        "source_sentence": "萬象之中[妳-女+口]。",
         "from": "X83n1578_022:0640b17_21",
         "context_with_next_sentence": true
     },
@@ -3800,7 +3800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "長伸兩脚眠一[寤吾+告](音忽)起來天地還依舊。",
+        "source_sentence": "長伸兩脚眠一[寤-吾+告](音忽)起來天地還依舊。",
         "from": "X83n1578_022:0640c20_8",
         "context_with_next_sentence": true
     },
@@ -5405,7 +5405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若也知他圈[袖由+貴]。",
+        "source_sentence": "若也知他圈[袖-由+貴]。",
         "from": "X83n1578_022:0642a19_27",
         "context_with_next_sentence": true
     },

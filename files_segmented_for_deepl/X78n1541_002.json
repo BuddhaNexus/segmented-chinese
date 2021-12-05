@@ -5250,7 +5250,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三日[醢右+(乞乙+口)]之。",
+        "source_sentence": "三日[醢-右+(乞-乙+口)]之。",
         "from": "X78n1541_002:0085a19_5",
         "context_with_next_sentence": true
     },
@@ -9045,7 +9045,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "千松老人講首楞嚴於[橘矛+隹]李東禪。",
+        "source_sentence": "千松老人講首楞嚴於[橘-矛+隹]李東禪。",
         "from": "X78n1541_002:0088a09_15",
         "context_with_next_sentence": true
     },

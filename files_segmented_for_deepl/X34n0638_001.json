@@ -5740,7 +5740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛[愍民+牙]富羅輪王業謝惡果者。",
+        "source_sentence": "佛[愍-民+牙]富羅輪王業謝惡果者。",
         "from": "X34n0638_001:0175c13_7",
         "context_with_next_sentence": true
     },
@@ -8145,7 +8145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如城外人家[打丁+密]絲璽哀。",
+        "source_sentence": "如城外人家[打-丁+密]絲璽哀。",
         "from": "X34n0638_001:0177c04_4",
         "context_with_next_sentence": true
     },
@@ -27260,7 +27260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+鳥]篩和合。",
+        "source_sentence": "[打-丁+鳥]篩和合。",
         "from": "X34n0638_001:0192a24_9",
         "context_with_next_sentence": true
     },
@@ -27450,7 +27450,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "言藻[打丁+亥]眾等者。",
+        "source_sentence": "言藻[打-丁+亥]眾等者。",
         "from": "X34n0638_001:0192b11_0",
         "context_with_next_sentence": true
     },
@@ -27615,7 +27615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "樆藻掞天[廷壬+(序予+手)]。",
+        "source_sentence": "樆藻掞天[廷-壬+(序-予+手)]。",
         "from": "X34n0638_001:0192b19_0",
         "context_with_next_sentence": true
     },
@@ -29430,7 +29430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[改己+易]燭龍之智。",
+        "source_sentence": "敡燭龍之智。",
         "from": "X34n0638_001:0193c23_8",
         "context_with_next_sentence": true
     },
@@ -31670,7 +31670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(哉口+(万一))/立]得桃李與杏華。",
+        "source_sentence": "[(哉-口+(万-一))/立]得桃李與杏華。",
         "from": "X34n0638_001:0195c05_29",
         "context_with_next_sentence": true
     },
@@ -33837,6 +33837,121 @@
     {
         "source_sentence": "法華經玄贊要集卷第一",
         "from": "X34n0638_001:0197b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唐乹符六年冬。",
+        "from": "X34n0638_001:0197b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "溫州開元寺講。",
+        "from": "X34n0638_001:0197b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慈恩比丘。",
+        "from": "X34n0638_001:0197b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "弘舉傳寫供養。",
+        "from": "X34n0638_001:0197b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此書從巨唐來。",
+        "from": "X34n0638_001:0197b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在智證大師經藏。",
+        "from": "X34n0638_001:0197b14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "深秘不出。",
+        "from": "X34n0638_001:0197b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "只聞其名。",
+        "from": "X34n0638_001:0197b14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今興福寺釋真喜仲算。",
+        "from": "X34n0638_001:0197b15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與彼門徒智興闍梨。",
+        "from": "X34n0638_001:0197b15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有刎頸交。",
+        "from": "X34n0638_001:0197b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相曯借請。",
+        "from": "X34n0638_001:0197b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "始以書寫。",
+        "from": "X34n0638_001:0197b16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後賢鑒。",
+        "from": "X34n0638_001:0197b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "于時天祿元年。",
+        "from": "X34n0638_001:0197b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歲次庚午也。",
+        "from": "X34n0638_001:0197b17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "弘長元年(辛酉)七月二十三日。",
+        "from": "X34n0638_001:0197b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法隆寺僧聖讚。",
+        "from": "X34n0638_001:0197b18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "全本寫留之。",
+        "from": "X34n0638_001:0197b18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "施入于專寺大經藏。",
+        "from": "X34n0638_001:0197b19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無類本恐失墜。",
+        "from": "X34n0638_001:0197b19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更書寫之訖。",
+        "from": "X34n0638_001:0197b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法隆學問寺　正應",
+        "from": "X34n0638_001:0197b21_0",
         "context_with_next_sentence": false
     }
 ]

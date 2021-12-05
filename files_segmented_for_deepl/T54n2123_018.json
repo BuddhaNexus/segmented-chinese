@@ -1105,7 +1105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[利禾+皮]剝臠割身碎在地。",
+        "source_sentence": "[利-禾+皮]剝臠割身碎在地。",
         "from": "T54n2123_018:0166c29_4",
         "context_with_next_sentence": true
     },
@@ -4240,7 +4240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如竹[竺二+韋]林。",
+        "source_sentence": "如竹[竺-二+韋]林。",
         "from": "T54n2123_018:0169c24_26",
         "context_with_next_sentence": true
     },
@@ -4945,7 +4945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "九惡生典[嶬我+皿]山。",
+        "source_sentence": "九惡生典[嶬-我+皿]山。",
         "from": "T54n2123_018:0170b23_8",
         "context_with_next_sentence": true
     },
@@ -4975,7 +4975,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "十六鐵[竺二+丹](經闕王名)十七身典蛆蟲。",
+        "source_sentence": "十六鐵[竺-二+丹](經闕王名)十七身典蛆蟲。",
         "from": "T54n2123_018:0170b25_14",
         "context_with_next_sentence": true
     },
@@ -6265,7 +6265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "生[利禾+皮]牛羊痛不可堪。",
+        "source_sentence": "生[利-禾+皮]牛羊痛不可堪。",
         "from": "T54n2123_018:0171c09_0",
         "context_with_next_sentence": true
     },

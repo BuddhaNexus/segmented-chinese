@@ -1335,7 +1335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有僧思[邱丘+益]問仰山。",
+        "source_sentence": "有僧思[邱-丘+益]問仰山。",
         "from": "X17n0330_007:0772a21_1",
         "context_with_next_sentence": true
     },
@@ -8450,7 +8450,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "楞伽阿跋",
+        "source_sentence": "楞伽阿跋多羅寶經宗通卷七",
         "from": "X17n0330_007:0780c21_0",
         "context_with_next_sentence": false
     }

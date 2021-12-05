@@ -1570,7 +1570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "空有[口/一/〦/(瞭目(日/小))]遣。",
+        "source_sentence": "空有[口/一/〦/(瞭-目-(日/小))]遣。",
         "from": "X26n0521_001:0592a18_9",
         "context_with_next_sentence": true
     },
@@ -8632,6 +8632,11 @@
     {
         "source_sentence": "般若波羅蜜多心經疏(終)",
         "from": "X26n0521_001:0597c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開元三年九月於台州大雲寺得",
+        "from": "X26n0521_001:0597c24_0",
         "context_with_next_sentence": false
     }
 ]

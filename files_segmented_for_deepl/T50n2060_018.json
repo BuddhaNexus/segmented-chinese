@@ -995,7 +995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "我住[邱丘+千]江側。",
+        "source_sentence": "我住[邱-丘+千]江側。",
         "from": "T50n2060_018:0572b06_38",
         "context_with_next_sentence": true
     },

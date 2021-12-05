@@ -1865,7 +1865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "闍梨[妳女+口]　僧喝　師云。",
+        "source_sentence": "闍梨[妳-女+口]　僧喝　師云。",
         "from": "X78n1553_013:0482b01_1",
         "context_with_next_sentence": true
     },
@@ -2110,7 +2110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有僧來庵前共師[利禾+荎]坐　僧云。",
+        "source_sentence": "有僧來庵前共師菿坐　僧云。",
         "from": "X78n1553_013:0482b22_14",
         "context_with_next_sentence": true
     },
@@ -2855,7 +2855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何須[劄合+今][劄合+至]　百丈云。",
+        "source_sentence": "何須[劄-合+今][劄-合+至]　百丈云。",
         "from": "X78n1553_013:0483b11_18",
         "context_with_next_sentence": true
     },

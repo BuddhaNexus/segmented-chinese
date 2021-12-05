@@ -540,7 +540,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "猶鐵逐磁石。",
+        "source_sentence": "猶鐵逐礠石。",
         "from": "T48n2016_053:0724c06_3",
         "context_with_next_sentence": true
     },
@@ -4980,7 +4980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "思[御ㄗ+名]行分別。",
+        "source_sentence": "思[御-ㄗ+名]行分別。",
         "from": "T48n2016_053:0727c12_1",
         "context_with_next_sentence": true
     },
@@ -6302,6 +6302,11 @@
     {
         "source_sentence": "宗鏡錄卷第五十三",
         "from": "T48n2016_053:0728c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　戊申歲分司大藏都監開板",
+        "from": "T48n2016_053:0728c09_0",
         "context_with_next_sentence": false
     }
 ]

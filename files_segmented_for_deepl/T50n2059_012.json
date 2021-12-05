@@ -1205,7 +1205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "藥王之[跳兆+(轍車)]獨何云遠。",
+        "source_sentence": "藥王之[跳-兆+(轍-車)]獨何云遠。",
         "from": "T50n2059_012:0405a11_11",
         "context_with_next_sentence": true
     },
@@ -3180,7 +3180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乃覺脚下如有一物自[敲高+危]。",
+        "source_sentence": "乃覺脚下如有一物自[敲-高+危]。",
         "from": "T50n2059_012:0407a23_11",
         "context_with_next_sentence": true
     },

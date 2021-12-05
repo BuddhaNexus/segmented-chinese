@@ -455,7 +455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "世高遊至[邱丘+共]亭。",
+        "source_sentence": "世高遊至[邱-丘+共]亭。",
         "from": "T52n2113_004:0594c03_13",
         "context_with_next_sentence": true
     },
@@ -2120,7 +2120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "咸於庭曬犢鼻[示*昆]。",
+        "source_sentence": "咸於庭曬犢鼻&#;。",
         "from": "T52n2113_004:0595c29_10",
         "context_with_next_sentence": true
     },
@@ -3350,7 +3350,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "學縱橫[椑(白日)]闔之術也)故仲尼之門。",
+        "source_sentence": "學縱橫[椑-(白-日)]闔之術也)故仲尼之門。",
         "from": "T52n2113_004:0597a04_20",
         "context_with_next_sentence": true
     },
@@ -4240,7 +4240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有僧[契大+石]者。",
+        "source_sentence": "有僧[契-大+石]者。",
         "from": "T52n2113_004:0597c08_28",
         "context_with_next_sentence": true
     },
@@ -4965,7 +4965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "對[改己+易]于王庭。",
+        "source_sentence": "對敡于王庭。",
         "from": "T52n2113_004:0598b05_24",
         "context_with_next_sentence": true
     },

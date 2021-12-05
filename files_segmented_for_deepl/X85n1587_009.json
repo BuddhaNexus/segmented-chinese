@@ -3770,7 +3770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "覺解頤。",
+        "source_sentence": "覺解頥。",
         "from": "X85n1587_009:0056c18_0",
         "context_with_next_sentence": true
     },
@@ -6125,7 +6125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "高峯[拚ㄙ+ㄊ]作癡漢。",
+        "source_sentence": "高峯[拚-ㄙ+ㄊ]作癡漢。",
         "from": "X85n1587_009:0058c16_5",
         "context_with_next_sentence": true
     },
@@ -7762,6 +7762,11 @@
     {
         "source_sentence": "是即不是。",
         "from": "X85n1587_009:0060a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下座。",
+        "from": "X85n1587_009:0060a11_0",
         "context_with_next_sentence": false
     }
 ]

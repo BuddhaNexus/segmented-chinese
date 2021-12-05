@@ -580,7 +580,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　為欲修人身，　　不舌[病丙+今]而死；　常值諸佛者，　　顯示三乘法。",
+        "source_sentence": "　為欲修人身，　　不舌[病-丙+今]而死；　常值諸佛者，　　顯示三乘法。",
         "from": "T13n0410_006:0708b28_0",
         "context_with_next_sentence": true
     },

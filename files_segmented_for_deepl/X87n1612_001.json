@@ -40,7 +40,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 人天寶鑑序",
+        "source_sentence": "人天寶鑑序",
         "from": "X87n1612_001:0001a11_0",
         "context_with_next_sentence": true
     },
@@ -4900,7 +4900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[癸天+虫]業進士之暇。",
+        "source_sentence": "[癸-天+虫]業進士之暇。",
         "from": "X87n1612_001:0006a08_12",
         "context_with_next_sentence": true
     },
@@ -7045,7 +7045,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "公又拔乎其萃者。",
+        "source_sentence": "公又㧞乎其萃者。",
         "from": "X87n1612_001:0008a11_75",
         "context_with_next_sentence": true
     },
@@ -10070,7 +10070,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如磁石見鐵。",
+        "source_sentence": "如礠石見鐵。",
         "from": "X87n1612_001:0010c17_1",
         "context_with_next_sentence": true
     },
@@ -12765,7 +12765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其[筣禾+金]略曰。",
+        "source_sentence": "其[筣-禾+金]略曰。",
         "from": "X87n1612_001:0013b03_18",
         "context_with_next_sentence": true
     },
@@ -17915,7 +17915,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "近代主法者莫若真如哲。",
+        "source_sentence": "近代主法者莫若真如喆。",
         "from": "X87n1612_001:0018a18_12",
         "context_with_next_sentence": true
     },
@@ -19900,7 +19900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如象馬[怡台+龍]悷不調。",
+        "source_sentence": "譬如象馬[怡-台+龍]悷不調。",
         "from": "X87n1612_001:0020a10_37",
         "context_with_next_sentence": true
     },
@@ -21995,7 +21995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "日夜扇[打丁+彭]不歇。",
+        "source_sentence": "日夜扇[打-丁+彭]不歇。",
         "from": "X87n1612_001:0022a04_3",
         "context_with_next_sentence": true
     },
@@ -23725,8 +23725,148 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "(實錄等)人天寶鑑(終)",
+        "source_sentence": "(實錄等)人天寶鑑(終)古之人以修心為要。",
         "from": "X87n1612_001:0023b23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心之正。",
+        "from": "X87n1612_001:0023c05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行毋越思。",
+        "from": "X87n1612_001:0023c05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言斯鳴道。",
+        "from": "X87n1612_001:0023c05_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使夫後進其可師模。",
+        "from": "X87n1612_001:0023c05_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有何禪教律儒釋道之異也。",
+        "from": "X87n1612_001:0023c06_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盖至公則天下共之。",
+        "from": "X87n1612_001:0023c06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四明禪者秀公。",
+        "from": "X87n1612_001:0023c07_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "篤志于此。",
+        "from": "X87n1612_001:0023c07_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "履歷叢林。",
+        "from": "X87n1612_001:0023c07_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "玄機綜覽。",
+        "from": "X87n1612_001:0023c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨所聞見集成此書。",
+        "from": "X87n1612_001:0023c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "闢人天眼目。",
+        "from": "X87n1612_001:0023c08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因以寶監名焉。",
+        "from": "X87n1612_001:0023c08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "走大圓覺。",
+        "from": "X87n1612_001:0023c09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "求之刊行。",
+        "from": "X87n1612_001:0023c09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非獨發明先輩幽德潛光。",
+        "from": "X87n1612_001:0023c09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "將與同志力追此道。",
+        "from": "X87n1612_001:0023c10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予嘉其說。",
+        "from": "X87n1612_001:0023c10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂跋其後云。",
+        "from": "X87n1612_001:0023c10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "旹紹定庚寅自恣前一日古岑比丘(師贊)書于萬壽歸雲堂秀書記集古成書。",
+        "from": "X87n1612_001:0023c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰人天寶鑑。",
+        "from": "X87n1612_001:0023c16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請著語。",
+        "from": "X87n1612_001:0023c16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂下一轉云。",
+        "from": "X87n1612_001:0023c16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先德情知已厚顏。",
+        "from": "X87n1612_001:0023c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "那堪落井更攀欄。",
+        "from": "X87n1612_001:0023c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本來一點明如日。",
+        "from": "X87n1612_001:0023c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "胡漢何曾自照看。",
+        "from": "X87n1612_001:0023c18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紹定庚寅中秋住靈隱　妙堪　書",
+        "from": "X87n1612_001:0023c19_0",
         "context_with_next_sentence": false
     }
 ]

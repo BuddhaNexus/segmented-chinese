@@ -115,7 +115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "       □      ",
+        "source_sentence": "□",
         "from": "T18n0854_002:0169b24_0",
         "context_with_next_sentence": true
     },
@@ -210,7 +210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何耶[(薩文+(立一))/木]哩婆。",
+        "source_sentence": "何耶[(薩-文+(立-一))/木]哩婆。",
         "from": "T18n0854_002:0170a23_0",
         "context_with_next_sentence": true
     },
@@ -255,7 +255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "        □   ",
+        "source_sentence": "□",
         "from": "T18n0854_002:0170b19_0",
         "context_with_next_sentence": true
     },
@@ -265,7 +265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "         □    ",
+        "source_sentence": "□",
         "from": "T18n0854_002:0170b21_0",
         "context_with_next_sentence": true
     },
@@ -325,7 +325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "          □  ",
+        "source_sentence": "□",
         "from": "T18n0854_002:0170c19_0",
         "context_with_next_sentence": true
     },
@@ -385,8 +385,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "          □   □□金剛拳。",
+        "source_sentence": "□□□",
         "from": "T18n0854_002:0171a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛拳。",
+        "from": "T18n0854_002:0171a14_0",
         "context_with_next_sentence": true
     },
     {
@@ -435,7 +440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "毘舍[這言+支]。",
+        "source_sentence": "毘舍[這-言+支]。",
         "from": "T18n0854_002:0171b15_0",
         "context_with_next_sentence": true
     },
@@ -465,22 +470,22 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "     短呼皆上聲此一轉。",
+        "source_sentence": "短呼皆上聲此一轉。",
         "from": "T18n0854_002:0171c05_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "     長呼也此去聲右此一轉。",
+        "source_sentence": "長呼也此去聲右此一轉。",
         "from": "T18n0854_002:0171c12_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "     第一轉皆帶右此一轉。",
+        "source_sentence": "第一轉皆帶右此一轉。",
         "from": "T18n0854_002:0171c19_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "     聲呼皆入右一轉。",
+        "source_sentence": "聲呼皆入右一轉。",
         "from": "T18n0854_002:0171c26_0",
         "context_with_next_sentence": true
     },
@@ -540,7 +545,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "   □         ",
+        "source_sentence": "□",
         "from": "T18n0854_002:0172a31_0",
         "context_with_next_sentence": true
     },
@@ -550,7 +555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "長承二年九月一日以御筆本奉書寫畢云云件本隆海僧都本云云　　　　交了",
+        "source_sentence": "長承二年九月一日以御筆本奉書寫畢云云件本隆海僧都本云云　　　　交了　　　　　興然本",
         "from": "T18n0854_002:0172b03_0",
         "context_with_next_sentence": false
     }

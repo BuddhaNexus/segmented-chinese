@@ -480,7 +480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂學算數記[聲耳+米]聚之多少等。",
+        "source_sentence": "謂學算數記[聲-耳+米]聚之多少等。",
         "from": "T40n1813_006:0646a05_14",
         "context_with_next_sentence": true
     },
@@ -2780,7 +2780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[病丙+猒]禱等符書等。",
+        "source_sentence": "[病-丙+猒]禱等符書等。",
         "from": "T40n1813_006:0648a20_27",
         "context_with_next_sentence": true
     },

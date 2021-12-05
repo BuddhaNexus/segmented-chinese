@@ -2625,7 +2625,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若比丘破戒[猛子+(券刀)]者。",
+        "source_sentence": "若比丘破戒[猛-子+(券-刀)]者。",
         "from": "T21n1238_001:0184b10_11",
         "context_with_next_sentence": true
     },
@@ -2965,7 +2965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "華下[(曰/(合一))*斤]形。",
+        "source_sentence": "華下[(曰/(合-一))*斤]形。",
         "from": "T21n1238_001:0185b05_4",
         "context_with_next_sentence": true
     },
@@ -4595,13 +4595,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有諸菩薩天人授手去      。",
+        "source_sentence": "有諸菩薩天人授手去。",
         "from": "T21n1238_001:0187b02_46",
         "context_with_next_sentence": true
     },
     {
         "source_sentence": "時寶曆二星舍壬申十二月穀所彫刻之本曉珍二師請來乎所憾者未得正本之故展轉寫謬不能質焉希後賢紏之。",
         "from": "T21n1238_001:0187b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　　　無等誌",
+        "from": "T21n1238_001:0187b07_0",
         "context_with_next_sentence": false
     }
 ]

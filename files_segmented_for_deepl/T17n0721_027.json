@@ -495,7 +495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "隨其所念，風吹樹葉互相[敲高+亭]觸出妙音聲，勝諸天樂。",
+        "source_sentence": "隨其所念，風吹樹葉互相[敲-高+亭]觸出妙音聲，勝諸天樂。",
         "from": "T17n0721_027:0154c28_17",
         "context_with_next_sentence": true
     },
@@ -1080,7 +1080,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若蠍、若蟻、蝦蟆黃[狂王+冗]種種眾生，知此眾生所居之處，不自穿壞，教他不作。",
+        "source_sentence": "若蠍、若蟻、蝦蟆黃[狂-王+冗]種種眾生，知此眾生所居之處，不自穿壞，教他不作。",
         "from": "T17n0721_027:0157a06_5",
         "context_with_next_sentence": true
     },

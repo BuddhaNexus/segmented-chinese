@@ -8270,7 +8270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "讀如凍[冰水+各]之[冰水+各]。",
+        "source_sentence": "讀如凍[冰-水+各]之[冰-水+各]。",
         "from": "X22n0427_003:0762a14_12",
         "context_with_next_sentence": true
     },
@@ -13265,7 +13265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唐[糸八]宗時。",
+        "source_sentence": "唐[糸-八]宗時。",
         "from": "X22n0427_003:0766a19_9",
         "context_with_next_sentence": true
     },

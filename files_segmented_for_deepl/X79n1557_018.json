@@ -1260,7 +1260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雲門扇子[跳兆+孛]跳。",
+        "source_sentence": "雲門扇子[跳-兆+孛]跳。",
         "from": "X79n1557_018:0154c03_10",
         "context_with_next_sentence": true
     },
@@ -6890,7 +6890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "明州阿育王山端裕禪師法嗣",
+        "source_sentence": "明州阿育王山端&#;禪師法嗣",
         "from": "X79n1557_018:0158c05_0",
         "context_with_next_sentence": true
     },
@@ -7395,7 +7395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若無舉鼎拔山力。",
+        "source_sentence": "若無舉鼎㧞山力。",
         "from": "X79n1557_018:0159a08_5",
         "context_with_next_sentence": true
     },
@@ -10680,7 +10680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳。",
+        "source_sentence": "扇子[跳-兆+孛]跳。",
         "from": "X79n1557_018:0161b24_14",
         "context_with_next_sentence": true
     },

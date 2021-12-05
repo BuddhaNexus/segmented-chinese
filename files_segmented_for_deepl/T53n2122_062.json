@@ -2615,7 +2615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "婦女珠環相[改己+亭]妙響。",
+        "source_sentence": "婦女珠環相[改-己+亭]妙響。",
         "from": "T53n2122_062:0752b19_19",
         "context_with_next_sentence": true
     },
@@ -9565,7 +9565,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遂委[戀心+足]躄不能行動。",
+        "source_sentence": "遂委&#;躄不能行動。",
         "from": "T53n2122_062:0760c25_17",
         "context_with_next_sentence": true
     },

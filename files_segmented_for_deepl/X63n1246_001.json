@@ -2115,7 +2115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "將裩袴捲[打丁+胃]安複內。",
+        "source_sentence": "將裩袴捲[打-丁+胃]安複內。",
         "from": "X63n1246_001:0558b19_33",
         "context_with_next_sentence": true
     },
@@ -2425,8 +2425,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "己巳嘉定二年",
+        "source_sentence": "己巳嘉定二年佛生日集。",
         "from": "X63n1246_001:0558c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "千龜峯首座寮比丘宗壽謹識。",
+        "from": "X63n1246_001:0558c18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(終)",
+        "from": "X63n1246_001:0558c18_4",
         "context_with_next_sentence": false
     }
 ]

@@ -2625,7 +2625,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "由斯理趣非扇[打丁+虎]等能斷善根。",
+        "source_sentence": "由斯理趣非扇[打-丁+虎]等能斷善根。",
         "from": "T29n1562_042:0581b04_9",
         "context_with_next_sentence": true
     },
@@ -3905,7 +3905,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "身心麁強[怡台+龍]戾不調由互相憎故有瞋恚。",
+        "source_sentence": "身心麁強[怡-台+龍]戾不調由互相憎故有瞋恚。",
         "from": "T29n1562_042:0582c22_2",
         "context_with_next_sentence": true
     },

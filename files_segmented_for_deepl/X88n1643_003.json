@@ -3230,7 +3230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遂以餅[飢几+宜]覆之。",
+        "source_sentence": "遂以餅[飢-几+宜]覆之。",
         "from": "X88n1643_003:0068b02_8",
         "context_with_next_sentence": true
     },
@@ -5020,7 +5020,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "晦志[(白日+田)/廾]身。",
+        "source_sentence": "晦志[(白-日+田)/廾]身。",
         "from": "X88n1643_003:0069b14_4",
         "context_with_next_sentence": true
     },
@@ -5035,7 +5035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以居士自[(白日+田)/廾]。",
+        "source_sentence": "以居士自[(白-日+田)/廾]。",
         "from": "X88n1643_003:0069b14_7",
         "context_with_next_sentence": true
     },
@@ -10477,6 +10477,346 @@
     {
         "source_sentence": "兜率龜鏡集卷下(終)",
         "from": "X88n1643_003:0074a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X88n1643_003:0074a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "裛(音揖。",
+        "from": "X88n1643_003:0074a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "書囊也又香襲衣也)孴(擬集二音盛也。",
+        "from": "X88n1643_003:0074a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又眾多也)閿(音焚。",
+        "from": "X88n1643_003:0074a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "地名閔鄉縣。",
+        "from": "X88n1643_003:0074a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "屬陝州潼關)蠡(音里。",
+        "from": "X88n1643_003:0074a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蚌屬)機(音希。",
+        "from": "X88n1643_003:0074a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蠡也。",
+        "from": "X88n1643_003:0074a07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "杓也)十乘(天台以十乘觀法。",
+        "from": "X88n1643_003:0074a07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令上中下根人修之。",
+        "from": "X88n1643_003:0074a07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而登彼岸一觀不思議境。",
+        "from": "X88n1643_003:0074a07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二發真正菩提心。",
+        "from": "X88n1643_003:0074a08_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三善巧安心。",
+        "from": "X88n1643_003:0074a08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四破法偏。",
+        "from": "X88n1643_003:0074a08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五識通塞六道品調適。",
+        "from": "X88n1643_003:0074a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七對治助開。",
+        "from": "X88n1643_003:0074a08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八知位次。",
+        "from": "X88n1643_003:0074a08_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九安忍。",
+        "from": "X88n1643_003:0074a08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十離法愛)六即(天台約事理修行次第。",
+        "from": "X88n1643_003:0074a08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "位次高下。",
+        "from": "X88n1643_003:0074a09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以明六即佛。",
+        "from": "X88n1643_003:0074a09_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一理即佛。",
+        "from": "X88n1643_003:0074a09_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二名字即佛。",
+        "from": "X88n1643_003:0074a09_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三觀行即佛。",
+        "from": "X88n1643_003:0074a09_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四相似即佛。",
+        "from": "X88n1643_003:0074a09_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五分證即佛。",
+        "from": "X88n1643_003:0074a10_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六究竟即佛)四悉(四悉檀也。",
+        "from": "X88n1643_003:0074a10_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悉者偏也。",
+        "from": "X88n1643_003:0074a10_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "檀是梵語。",
+        "from": "X88n1643_003:0074a10_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此云施也。",
+        "from": "X88n1643_003:0074a10_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂佛以此四法。",
+        "from": "X88n1643_003:0074a10_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偏施一切眾生故也。",
+        "from": "X88n1643_003:0074a10_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一世界悉檀。",
+        "from": "X88n1643_003:0074a11_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二為人悉檀。",
+        "from": "X88n1643_003:0074a11_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三對治悉檀。",
+        "from": "X88n1643_003:0074a11_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四弟一義悉檀)耋(田字入聲。",
+        "from": "X88n1643_003:0074a11_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "年八十曰耋)[折/目](音志。",
+        "from": "X88n1643_003:0074a11_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "目光也)四無垢性(一衣服。",
+        "from": "X88n1643_003:0074a12_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二臥具。",
+        "from": "X88n1643_003:0074a12_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三飲食。",
+        "from": "X88n1643_003:0074a12_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四湯藥。",
+        "from": "X88n1643_003:0074a12_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此四事。",
+        "from": "X88n1643_003:0074a12_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨有所得。",
+        "from": "X88n1643_003:0074a12_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "麤細稱心。",
+        "from": "X88n1643_003:0074a12_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠離貪求。",
+        "from": "X88n1643_003:0074a12_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名無垢性)阿伽陀藥(此云普去。",
+        "from": "X88n1643_003:0074a13_44",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又云圓藥。",
+        "from": "X88n1643_003:0074a13_45",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂能去眾病。",
+        "from": "X88n1643_003:0074a13_46",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "華嚴經云。",
+        "from": "X88n1643_003:0074a13_47",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾生見者。",
+        "from": "X88n1643_003:0074a13_48",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾病悉除)四住惑(即五住地惑。",
+        "from": "X88n1643_003:0074a13_49",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "之上四住也。",
+        "from": "X88n1643_003:0074a14_50",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一。",
+        "from": "X88n1643_003:0074a14_51",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切見住。",
+        "from": "X88n1643_003:0074a14_52",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即三界見惑。",
+        "from": "X88n1643_003:0074a14_53",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二。",
+        "from": "X88n1643_003:0074a14_54",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲愛住。",
+        "from": "X88n1643_003:0074a14_55",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即欲界思惑。",
+        "from": "X88n1643_003:0074a14_56",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三。",
+        "from": "X88n1643_003:0074a14_57",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "色愛住。",
+        "from": "X88n1643_003:0074a14_58",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即色界思惑。",
+        "from": "X88n1643_003:0074a15_59",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四。",
+        "from": "X88n1643_003:0074a15_60",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有愛住。",
+        "from": "X88n1643_003:0074a15_61",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即無色界思惑。",
+        "from": "X88n1643_003:0074a15_62",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二乘人。",
+        "from": "X88n1643_003:0074a15_63",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修方便道。",
+        "from": "X88n1643_003:0074a15_64",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷此四惑。",
+        "from": "X88n1643_003:0074a15_65",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尚餘第五根本無明住餘未斷也)",
+        "from": "X88n1643_003:0074a15_66",
         "context_with_next_sentence": false
     }
 ]

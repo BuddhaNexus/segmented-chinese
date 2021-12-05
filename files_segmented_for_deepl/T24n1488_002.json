@@ -585,7 +585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無量世中以灰塗身，唯食胡麻、小豆、粳米、粟米、[序予+禾]等，日各一粒；荊棘惡刺、[木*豕]木、地石以為臥具；牛屎、牛尿以為病藥。",
+        "source_sentence": "無量世中以灰塗身，唯食胡麻、小豆、粳米、粟米、[序-予+禾]等，日各一粒；荊棘惡刺、[木*豕]木、地石以為臥具；牛屎、牛尿以為病藥。",
         "from": "T24n1488_002:1041b29_2",
         "context_with_next_sentence": true
     },

@@ -2430,7 +2430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]迫衰殘。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]迫衰殘。",
         "from": "X77n1521_004:0034c15_12",
         "context_with_next_sentence": true
     },
@@ -8270,7 +8270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "(古今圖書集成)",
+        "source_sentence": "(古今圖書集成)釋教部彚考卷第四",
         "from": "X77n1521_004:0040b17_0",
         "context_with_next_sentence": false
     }

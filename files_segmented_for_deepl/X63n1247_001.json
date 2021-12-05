@@ -9805,7 +9805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "當[袖由+區]星繞電之時。",
+        "source_sentence": "當[袖-由+區]星繞電之時。",
         "from": "X63n1247_001:0567b04_3",
         "context_with_next_sentence": true
     },
@@ -13732,6 +13732,16 @@
     {
         "source_sentence": "至住持前。",
         "from": "X63n1247_001:0571a05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "巡堂一匝。",
+        "from": "X63n1247_001:0571a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次詣堂司掛搭。",
+        "from": "X63n1247_001:0571a06_1",
         "context_with_next_sentence": false
     }
 ]

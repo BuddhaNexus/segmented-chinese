@@ -2735,7 +2735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "覺知通[泳永+曶]。",
+        "source_sentence": "覺知通[泳-永+曶]。",
         "from": "X14n0288_010:0256a08_8",
         "context_with_next_sentence": true
     },
@@ -3865,7 +3865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是名第十圓覺[泳永+曶]心成湛明果。",
+        "source_sentence": "是名第十圓覺[泳-永+曶]心成湛明果。",
         "from": "X14n0288_010:0259a15_15",
         "context_with_next_sentence": true
     },
@@ -6025,7 +6025,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 題楞嚴疏解後",
+        "source_sentence": "題楞嚴疏解後",
         "from": "X14n0288_010:0267a02_0",
         "context_with_next_sentence": true
     },
@@ -6055,7 +6055,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[遄而+王][遄而+王]溺于愛河慾海者皆極聰明之人。",
+        "source_sentence": "[遄-而+王][遄-而+王]溺于愛河慾海者皆極聰明之人。",
         "from": "X14n0288_010:0267a04_5",
         "context_with_next_sentence": true
     },
@@ -6180,8 +6180,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "試參楞嚴必不妄生分別打破",
+        "source_sentence": "試參楞嚴必不妄生分別打破異同。",
         "from": "X14n0288_010:0267a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "古閩樂純思白父撰",
+        "from": "X14n0288_010:0267a13_3",
         "context_with_next_sentence": false
     }
 ]

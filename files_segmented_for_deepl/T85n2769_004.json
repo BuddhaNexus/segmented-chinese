@@ -4245,7 +4245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "明[絳糸+車][序予+萬]新學進於始行。",
+        "source_sentence": "明[絳-糸+車][序-予+萬]新學進於始行。",
         "from": "T85n2769_004:0345a21_4",
         "context_with_next_sentence": true
     },
@@ -4265,7 +4265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此[絳糸+車][序予+萬]新學仁此大眾之中無能致彼佛飯乃是可恥之事。",
+        "source_sentence": "此[絳-糸+車][序-予+萬]新學仁此大眾之中無能致彼佛飯乃是可恥之事。",
         "from": "T85n2769_004:0345a23_8",
         "context_with_next_sentence": true
     },
@@ -5205,7 +5205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "象馬[怡台+龍]悷喻身口形色剛強也。",
+        "source_sentence": "象馬[怡-台+龍]悷喻身口形色剛強也。",
         "from": "T85n2769_004:0346b07_20",
         "context_with_next_sentence": true
     },
@@ -5585,7 +5585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "言對阿難[絳糸+車]切上方菩薩上方大士自求悔過請法還土。",
+        "source_sentence": "言對阿難[絳-糸+車]切上方菩薩上方大士自求悔過請法還土。",
         "from": "T85n2769_004:0346c29_3",
         "context_with_next_sentence": true
     },
@@ -5650,7 +5650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "明言對阿難[絳糸+車]切上方菩薩。",
+        "source_sentence": "明言對阿難[絳-糸+車]切上方菩薩。",
         "from": "T85n2769_004:0347a18_1",
         "context_with_next_sentence": true
     },
@@ -6385,7 +6385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故今共對阿難[絳糸+車]切上方小行。",
+        "source_sentence": "故今共對阿難[絳-糸+車]切上方小行。",
         "from": "T85n2769_004:0348a28_6",
         "context_with_next_sentence": true
     },
@@ -6455,7 +6455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "明上方菩薩既被[絳糸+車]切。",
+        "source_sentence": "明上方菩薩既被[絳-糸+車]切。",
         "from": "T85n2769_004:0348b09_1",
         "context_with_next_sentence": true
     },
@@ -11527,6 +11527,31 @@
     {
         "source_sentence": "維摩經義記卷第四",
         "from": "T85n2769_004:0354c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍華二儒共校定也。",
+        "from": "T85n2769_004:0354c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更比字一校也。",
+        "from": "T85n2769_004:0354c29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大統五年四月十二日比丘惠龍寫",
+        "from": "T85n2769_004:0355a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "記流通。",
+        "from": "T85n2769_004:0355a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "保定二年歲次壬午於爾綿公齋上榆樹下大聽僧雖講維摩經一遍私記",
+        "from": "T85n2769_004:0355a03_0",
         "context_with_next_sentence": false
     }
 ]

@@ -8225,7 +8225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遂妄承罪[億音+(天*天)]。",
+        "source_sentence": "遂妄承罪[億-音+(天*天)]。",
         "from": "X34n0638_035:0913b02_36",
         "context_with_next_sentence": true
     },
@@ -25370,7 +25370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即專輙[打丁+壬]引教據也。",
+        "source_sentence": "即專輙[打-丁+壬]引教據也。",
         "from": "X34n0638_035:0929b08_3",
         "context_with_next_sentence": true
     },
@@ -25467,6 +25467,71 @@
     {
         "source_sentence": "法華玄贊要集卷第三十五(終)",
         "from": "X34n0638_035:0929b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此書三十五帖。",
+        "from": "X34n0638_035:0929b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "年來之間。",
+        "from": "X34n0638_035:0929b18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勵微力。",
+        "from": "X34n0638_035:0929b18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "料紙調儲。",
+        "from": "X34n0638_035:0929b18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勸進筆師。",
+        "from": "X34n0638_035:0929b18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "書寫畢。",
+        "from": "X34n0638_035:0929b19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願自他依此功德。",
+        "from": "X34n0638_035:0929b19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生生世世值遇太子聖皇。",
+        "from": "X34n0638_035:0929b19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在在所所結緣法華經。",
+        "from": "X34n0638_035:0929b20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仍法隆寺大經藏安置。",
+        "from": "X34n0638_035:0929b20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寺門不出。",
+        "from": "X34n0638_035:0929b21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不可被所出他所而已。",
+        "from": "X34n0638_035:0929b21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "弘長元年辛酉七月二十三日",
+        "from": "X34n0638_035:0929b22_0",
         "context_with_next_sentence": false
     }
 ]

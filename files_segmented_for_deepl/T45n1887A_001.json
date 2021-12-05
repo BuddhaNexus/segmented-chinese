@@ -6015,7 +6015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "好[卄/(戊@((甬用)/皿))][匙匕+我]故。",
+        "source_sentence": "好[卄/(戊@((甬-用)/皿))][匙-匕+我]故。",
         "from": "T45n1887A_001:0715b26_0",
         "context_with_next_sentence": true
     },
@@ -6692,6 +6692,26 @@
     {
         "source_sentence": "普重修盡眾生界。",
         "from": "T45n1887A_001:0716a15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一時成佛。",
+        "from": "T45n1887A_001:0716a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法界圖章。",
+        "from": "T45n1887A_001:0716a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一乘法界圖(終)華嚴宗香象大師末葉非人釋題頭法師之執筆也。",
+        "from": "T45n1887A_001:0716a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "建曆二年三月三日子始許於高山以法勝寺同本一校　　賢穴八吁",
+        "from": "T45n1887A_001:0716a19_0",
         "context_with_next_sentence": false
     }
 ]

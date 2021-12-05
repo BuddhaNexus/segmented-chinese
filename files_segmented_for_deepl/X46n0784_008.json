@@ -6670,7 +6670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "羅[目*(危(夗夕)+夫)]羅阿難是善中之最善。",
+        "source_sentence": "羅[目*(危-(夗-夕)+夫)]羅阿難是善中之最善。",
         "from": "X46n0784_008:0617a02_37",
         "context_with_next_sentence": true
     },
@@ -13577,6 +13577,11 @@
     {
         "source_sentence": "無依無得大乘四論玄義記卷第八",
         "from": "X46n0784_008:0623b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯慶三年歲次戊午十二月六日興福寺學問僧法安為　大皇帝及內殿故敬奉義章也。",
+        "from": "X46n0784_008:0623b07_0",
         "context_with_next_sentence": false
     }
 ]

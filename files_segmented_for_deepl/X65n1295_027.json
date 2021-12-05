@@ -880,7 +880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "年衰多被鬼揶揄。",
+        "source_sentence": "年衰多被鬼揶&#;。",
         "from": "X65n1295_027:0641a24_3",
         "context_with_next_sentence": true
     },
@@ -4795,7 +4795,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "解纜離邪岸。",
+        "source_sentence": "解䌫離邪岸。",
         "from": "X65n1295_027:0645a12_14",
         "context_with_next_sentence": true
     },
@@ -6395,8 +6395,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "頑銅若作黃金",
+        "source_sentence": "頑銅若作黃金貨。",
         "from": "X65n1295_027:0646b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "祇可瞞他無眼人。",
+        "from": "X65n1295_027:0646b21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(丹霞淳)卷第二十七",
+        "from": "X65n1295_027:0646b21_4",
         "context_with_next_sentence": false
     }
 ]

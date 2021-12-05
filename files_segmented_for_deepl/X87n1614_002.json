@@ -4700,7 +4700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "特差彰善閤祗候譚[袖由+真]賜臣定照禪師號及紫衣牒一道。",
+        "source_sentence": "特差彰善閤祗候譚[袖-由+真]賜臣定照禪師號及紫衣牒一道。",
         "from": "X87n1614_002:0069b17_10",
         "context_with_next_sentence": true
     },
@@ -10435,7 +10435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "華藏四[得彳]",
+        "source_sentence": "華藏四[得-彳]",
         "from": "X87n1614_002:0075c19_0",
         "context_with_next_sentence": true
     },
@@ -12240,7 +12240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔萃任汝拔萃。",
+        "source_sentence": "㧞萃任汝拔萃。",
         "from": "X87n1614_002:0077c18_6",
         "context_with_next_sentence": true
     },

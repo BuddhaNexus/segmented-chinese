@@ -1330,7 +1330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　囉怛娜句捨阿(上)[起巳+乞]哩也(三合)吽繫寶鬘陀羅尼印結灌頂已。",
+        "source_sentence": "唵　囉怛娜句捨阿(上)[起-巳+乞]哩也(三合)吽繫寶鬘陀羅尼印結灌頂已。",
         "from": "T20n1173_001:0712a01_0",
         "context_with_next_sentence": true
     },
@@ -1340,7 +1340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　囉怛娜　句捨[起巳+乞]哩也(三合)麼隷額上三繞如繫寶鬘。",
+        "source_sentence": "唵　囉怛娜　句捨[起-巳+乞]哩也(三合)麼隷額上三繞如繫寶鬘。",
         "from": "T20n1173_001:0712a04_0",
         "context_with_next_sentence": true
     },
@@ -1520,7 +1520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唯[打丁+必]進力相拄如環。",
+        "source_sentence": "唯[打-丁+必]進力相拄如環。",
         "from": "T20n1173_001:0712a22_1",
         "context_with_next_sentence": true
     },

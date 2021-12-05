@@ -1230,7 +1230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此文雖[打丁+豆]總序釋迦一化始終。",
+        "source_sentence": "此文雖[打-丁+豆]總序釋迦一化始終。",
         "from": "T34n1720_006:0407a19_4",
         "context_with_next_sentence": true
     },

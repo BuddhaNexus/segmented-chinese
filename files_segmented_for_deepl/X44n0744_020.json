@@ -500,7 +500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦音[序予+亶]。",
+        "source_sentence": "亦音[序-予+亶]。",
         "from": "X44n0744_020:0554a08_2",
         "context_with_next_sentence": true
     },
@@ -6940,12 +6940,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[袖由+宁]跨衣",
+        "source_sentence": "[袖-由+宁]跨衣",
         "from": "X44n0744_020:0560a19_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[袖由+宁]同紵。",
+        "source_sentence": "[袖-由+宁]同紵。",
         "from": "X44n0744_020:0560a20_0",
         "context_with_next_sentence": true
     },
@@ -6985,12 +6985,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今以絮裝[跳兆+宁]衣。",
+        "source_sentence": "今以絮裝[跳-兆+宁]衣。",
         "from": "X44n0744_020:0560a21_3",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "名[袖由+宁]跨衣。",
+        "source_sentence": "名[袖-由+宁]跨衣。",
         "from": "X44n0744_020:0560a21_4",
         "context_with_next_sentence": true
     },
@@ -9447,6 +9447,61 @@
     {
         "source_sentence": "四分律名義標釋卷第二十",
         "from": "X44n0744_020:0562b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_020:0562b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[序-予+亶]音亶。",
+        "from": "X44n0744_020:0562b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偏舍也。",
+        "from": "X44n0744_020:0562b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "扈音胡。",
+        "from": "X44n0744_020:0562b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "囤音屯。",
+        "from": "X44n0744_020:0562b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "小廩也。",
+        "from": "X44n0744_020:0562b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爕音屑。",
+        "from": "X44n0744_020:0562b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "儸音羅。",
+        "from": "X44n0744_020:0562b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "咷音逃。",
+        "from": "X44n0744_020:0562b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "哭也。",
+        "from": "X44n0744_020:0562b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　四分律名義標釋卷第二十一目錄大人雪山三十二大人相萍沙衛邏紺青顧盼斑荼婆山姓日阿藍伽藍不用處定鬱頭藍弗鬱毗羅大將村五人四女閻浮樹尼連禪菩提樹刈草吉安吉祥樹",
+        "from": "X44n0744_020:0562b16_0",
         "context_with_next_sentence": false
     }
 ]

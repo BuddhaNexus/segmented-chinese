@@ -720,12 +720,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "八者翳泥耶[蹲酋+(十/田/ㄙ)]相。",
+        "source_sentence": "八者翳泥耶[蹲-酋+(十/田/ㄙ)]相。",
         "from": "T27n1545_177:0888a29_44",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂佛[蹲酋+(十/田/ㄙ)]脛圓直。",
+        "source_sentence": "謂佛[蹲-酋+(十/田/ㄙ)]脛圓直。",
         "from": "T27n1545_177:0888b01_45",
         "context_with_next_sentence": true
     },
@@ -735,7 +735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如翳泥耶鹿王[蹲酋+(十/田/ㄙ)]。",
+        "source_sentence": "如翳泥耶鹿王[蹲-酋+(十/田/ㄙ)]。",
         "from": "T27n1545_177:0888b01_47",
         "context_with_next_sentence": true
     },
@@ -3912,6 +3912,11 @@
     {
         "source_sentence": "修行圓滿。",
         "from": "T27n1545_177:0892a16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說一切有部發智大毘婆沙論卷第一百七十七",
+        "from": "T27n1545_177:0892a17_0",
         "context_with_next_sentence": false
     }
 ]

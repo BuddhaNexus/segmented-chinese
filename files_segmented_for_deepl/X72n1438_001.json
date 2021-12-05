@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 霖禪師秉拂語題辭",
+        "source_sentence": "霖禪師秉拂語題辭",
         "from": "X72n1438_001:0580b06_0",
         "context_with_next_sentence": true
     },
@@ -500,7 +500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "來向虗空裏打箇[跳兆+孛]跳。",
+        "source_sentence": "來向虗空裏打箇[跳-兆+孛]跳。",
         "from": "X72n1438_001:0581a08_9",
         "context_with_next_sentence": true
     },
@@ -1110,7 +1110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "老和尚八十慶[言*(廷壬+旦)]開大藏經秉拂。",
+        "source_sentence": "老和尚八十慶[言*(廷-壬+旦)]開大藏經秉拂。",
         "from": "X72n1438_001:0581c05_0",
         "context_with_next_sentence": true
     },
@@ -1235,7 +1235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今年七月十九日伏遇老和尚八十降[言*(廷壬+旦)]命辰。",
+        "source_sentence": "今年七月十九日伏遇老和尚八十降[言*(廷-壬+旦)]命辰。",
         "from": "X72n1438_001:0581c14_13",
         "context_with_next_sentence": true
     },
@@ -4410,7 +4410,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "力謾[栽木+土]培。",
+        "source_sentence": "力謾[栽-木+土]培。",
         "from": "X72n1438_001:0585a21_3",
         "context_with_next_sentence": true
     },

@@ -1165,7 +1165,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如張[(厂@((既旡)日+口))*頁]之徒。",
+        "source_sentence": "如張[(厂@((既-旡)-日+口))*頁]之徒。",
         "from": "X55n0919_005:0795b22_1",
         "context_with_next_sentence": true
     },
@@ -2850,7 +2850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "昔孫[利禾+登]等者。",
+        "source_sentence": "昔孫[利-禾+登]等者。",
         "from": "X55n0919_005:0796c09_10",
         "context_with_next_sentence": true
     },
@@ -2865,7 +2865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "相者唯記孫[利禾+登]不記曹操。",
+        "source_sentence": "相者唯記孫[利-禾+登]不記曹操。",
         "from": "X55n0919_005:0796c10_13",
         "context_with_next_sentence": true
     },
@@ -2890,7 +2890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "孫[利禾+登]相顯如二界。",
+        "source_sentence": "孫[利-禾+登]相顯如二界。",
         "from": "X55n0919_005:0796c12_18",
         "context_with_next_sentence": true
     },
@@ -8380,12 +8380,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+(稯禾)]利是止不安。",
+        "source_sentence": "[打-丁+(稯-禾)]利是止不安。",
         "from": "X55n0919_005:0800c14_13",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+(稯禾)]字應作[這言+坐]。",
+        "source_sentence": "[打-丁+(稯-禾)]字應作[這-言+坐]。",
         "from": "X55n0919_005:0800c14_14",
         "context_with_next_sentence": true
     },
@@ -8455,7 +8455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二既相[捱圭+七]。",
+        "source_sentence": "二既相[捱-圭+七]。",
         "from": "X55n0919_005:0800c16_28",
         "context_with_next_sentence": true
     },
@@ -12155,7 +12155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[木*甫]者陸[狂王+萬]也。",
+        "source_sentence": "[木*甫]者陸[狂-王+萬]也。",
         "from": "X55n0919_005:0803b19_19",
         "context_with_next_sentence": true
     },
@@ -16390,7 +16390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[怡台+坐]以筞發。",
+        "source_sentence": "[怡-台+坐]以筞發。",
         "from": "X55n0919_005:0806c17_0",
         "context_with_next_sentence": true
     },

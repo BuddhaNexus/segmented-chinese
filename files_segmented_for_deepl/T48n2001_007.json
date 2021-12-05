@@ -880,7 +880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鳥喙不用華[銜金+缶]。",
+        "source_sentence": "鳥喙不用華[銜-金+缶]。",
         "from": "T48n2001_007:0079b29_5",
         "context_with_next_sentence": true
     },
@@ -5335,7 +5335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "識取天台把帚人。",
+        "source_sentence": "識取天台把箒人。",
         "from": "T48n2001_007:0083c02_8",
         "context_with_next_sentence": true
     },

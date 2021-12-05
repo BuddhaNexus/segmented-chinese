@@ -1205,7 +1205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[妳女+口]。",
+        "source_sentence": "[妳-女+口]。",
         "from": "X85n1590_014:0192a05_16",
         "context_with_next_sentence": true
     },
@@ -2040,7 +2040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "重建[障音]邡羅漢寺。",
+        "source_sentence": "重建[障-音]邡羅漢寺。",
         "from": "X85n1590_014:0192c13_4",
         "context_with_next_sentence": true
     },
@@ -2505,7 +2505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[郫卑+((白日+田)/廾)]筒護國寺天然貴禪師上堂。",
+        "source_sentence": "[郫-卑+((白-日+田)/廾)]筒護國寺天然貴禪師上堂。",
         "from": "X85n1590_014:0193a16_0",
         "context_with_next_sentence": true
     },
@@ -4020,7 +4020,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "可以福國裕民。",
+        "source_sentence": "可以福國&#;民。",
         "from": "X85n1590_014:0194b13_14",
         "context_with_next_sentence": true
     },

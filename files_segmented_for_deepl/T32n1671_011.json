@@ -1345,7 +1345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無數蛆蟲之所[口*(贊貝+日)]食。",
+        "source_sentence": "無數蛆蟲之所[口*(贊-貝+日)]食。",
         "from": "T32n1671_011:0741c02_13",
         "context_with_next_sentence": true
     },

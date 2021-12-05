@@ -320,7 +320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則落在龐公圈[袖由+貴]裏。",
+        "source_sentence": "則落在龐公圈[袖-由+貴]裏。",
         "from": "T47n1998A_022:0902c19_0",
         "context_with_next_sentence": true
     },
@@ -330,7 +330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則落在楊無為圈[袖由+貴]裏。",
+        "source_sentence": "則落在楊無為圈[袖-由+貴]裏。",
         "from": "T47n1998A_022:0902c19_2",
         "context_with_next_sentence": true
     },
@@ -340,7 +340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則落在海印禪師圈[袖由+貴]裏。",
+        "source_sentence": "則落在海印禪師圈[袖-由+貴]裏。",
         "from": "T47n1998A_022:0902c20_4",
         "context_with_next_sentence": true
     },
@@ -360,17 +360,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又落在妙喜圈[袖由+貴]裏。",
+        "source_sentence": "又落在妙喜圈[袖-由+貴]裏。",
         "from": "T47n1998A_022:0902c22_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "要出三老圈[袖由+貴]則易。",
+        "source_sentence": "要出三老圈[袖-由+貴]則易。",
         "from": "T47n1998A_022:0902c23_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "要出妙喜圈[袖由+貴]則難。",
+        "source_sentence": "要出妙喜圈[袖-由+貴]則難。",
         "from": "T47n1998A_022:0902c23_1",
         "context_with_next_sentence": true
     },
@@ -2770,12 +2770,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以大勇猛施方便故即便[寤吾+告]寤。",
+        "source_sentence": "以大勇猛施方便故即便[寤-吾+告]寤。",
         "from": "T47n1998A_022:0905a15_31",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "既[寤吾+告]寤已所作皆息。",
+        "source_sentence": "既[寤-吾+告]寤已所作皆息。",
         "from": "T47n1998A_022:0905a16_32",
         "context_with_next_sentence": true
     },

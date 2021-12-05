@@ -9000,7 +9000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "僧曰[跳兆+孛]跳。",
+        "source_sentence": "僧曰[跳-兆+孛]跳。",
         "from": "X83n1578_023:0652a24_30",
         "context_with_next_sentence": true
     },
@@ -9015,7 +9015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更[跳兆+孛]跳。",
+        "source_sentence": "更[跳-兆+孛]跳。",
         "from": "X83n1578_023:0652a24_33",
         "context_with_next_sentence": true
     },
@@ -9150,7 +9150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "你擬[跳兆+孛]跳。",
+        "source_sentence": "你擬[跳-兆+孛]跳。",
         "from": "X83n1578_023:0652b06_20",
         "context_with_next_sentence": true
     },
@@ -9280,7 +9280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爾[跳兆+孛]跳作甚麼。",
+        "source_sentence": "爾[跳-兆+孛]跳作甚麼。",
         "from": "X83n1578_023:0652b11_4",
         "context_with_next_sentence": true
     },
@@ -11820,7 +11820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更住少林兮懡[怡台+羅]却西歸。",
+        "source_sentence": "更住少林兮懡[怡-台+羅]却西歸。",
         "from": "X83n1578_023:0654b15_10",
         "context_with_next_sentence": true
     },
@@ -13975,7 +13975,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "([○@(眝丁+(?/口))]百丈端頌云。",
+        "source_sentence": "([○@(眝-丁+(?/口))]百丈端頌云。",
         "from": "X83n1578_023:0656a11_16",
         "context_with_next_sentence": true
     },
@@ -16737,6 +16737,16 @@
     {
         "source_sentence": "指月錄卷之二十三",
         "from": "X83n1578_023:0658a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋　卷二十一之二十三",
+        "from": "X83n1578_023:0658a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舸(嘉我切歌上聲大船)　艨(莫紅切音蒙戰船)　[舟*侖](音論舟名)　讇(丑剡切音謟佞言)　毿(蘇含切糝平聲毛長貌)　梟(堅姚切音驕斷首倒懸也)　頷(五感切點頭以應也)　簉(初救切[山/芻]去聲疾衝也)　[馬*展](之善切音戰馬臥土中)　䫌(匹米切音嚭傾首也不正也)　揎(音宣捋也引也)　幀(側硬切音諍開張畵繪也)　弇(於檢切淹上聲)　摐(初莊切音瘡撞鐘鼓也)　僜(音鄧俊僜不著事)　[口*聿](盧沒切音勒聲也)　畬(音于二歲所治之田)　[翟*支](直角切音濁築也)　糝(桑感切靸上聲)　窬(雲俱切音于門邊小竇)　燬(呼委切灰上聲火焚壞也)　戽(荒故切呼去聲舟中抒水器)　鐺(抽更切音撐釜屬)　沔(莫典切音勉)　揳(先結切音屑)　鑌(卑民切音賓鑌銕為刀甚利)　褶(席入切音集袴也)　繂(劣戌切音律大繩又曰以竹為索用維舟者)　瞤(殊倫切音純目動也)",
+        "from": "X83n1578_023:0658a24_0",
         "context_with_next_sentence": false
     }
 ]

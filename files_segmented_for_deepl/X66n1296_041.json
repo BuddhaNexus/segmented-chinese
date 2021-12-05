@@ -720,7 +720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "作此字[(○*○*○)/＝]二[一/一]三[┘*└][(┐@三)*(田/?)][水?+(曲曰+口)]。",
+        "source_sentence": "作此字[(○*○*○)/＝]二[一/一]三[┘*└][(┐@三)*(田/?)][水-?+(曲-曰+口)]。",
         "from": "X66n1296_041:0238a03_1",
         "context_with_next_sentence": true
     },
@@ -3785,7 +3785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "居懡[怡台+羅]而還。",
+        "source_sentence": "居懡[怡-台+羅]而還。",
         "from": "X66n1296_041:0241a07_12",
         "context_with_next_sentence": true
     },

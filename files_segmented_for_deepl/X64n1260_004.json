@@ -165,7 +165,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不勝懡[怡台+羅]。",
+        "source_sentence": "不勝懡[怡-台+羅]。",
         "from": "X64n1260_004:0024c15_20",
         "context_with_next_sentence": true
     },
@@ -5500,7 +5500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "直得長干塔[跳兆+孛]跳。",
+        "source_sentence": "直得長干塔[跳-兆+孛]跳。",
         "from": "X64n1260_004:0028c22_11",
         "context_with_next_sentence": true
     },

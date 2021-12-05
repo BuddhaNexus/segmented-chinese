@@ -2935,7 +2935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "([(厂@((既旡)日+口))*頁]大眾云)且道愛箇什麼。",
+        "source_sentence": "([(厂@((既-旡)-日+口))*頁]大眾云)且道愛箇什麼。",
         "from": "X65n1277_013:0050b12_19",
         "context_with_next_sentence": true
     },

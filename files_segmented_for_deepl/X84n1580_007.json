@@ -2500,7 +2500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "只是撞着露柱底瞎漢　溈山哲云。",
+        "source_sentence": "只是撞着露柱底瞎漢　溈山喆云。",
         "from": "X84n1580_007:0228a12_89",
         "context_with_next_sentence": true
     },
@@ -4725,7 +4725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一狀領過雪峯一千五百人善知識地在　溈山哲云。",
+        "source_sentence": "一狀領過雪峯一千五百人善知識地在　溈山喆云。",
         "from": "X84n1580_007:0229b05_25",
         "context_with_next_sentence": true
     },
@@ -6090,7 +6090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雪峰便打三十棒趂出(溈山哲云。",
+        "source_sentence": "雪峰便打三十棒趂出(溈山喆云。",
         "from": "X84n1580_007:0230a11_1",
         "context_with_next_sentence": true
     },
@@ -8520,7 +8520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "祇這是(溈山哲云。",
+        "source_sentence": "祇這是(溈山喆云。",
         "from": "X84n1580_007:0231c03_12",
         "context_with_next_sentence": true
     },
@@ -8730,7 +8730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不許攙行奪市　溈山哲云。",
+        "source_sentence": "不許攙行奪市　溈山喆云。",
         "from": "X84n1580_007:0231c09_4",
         "context_with_next_sentence": true
     },
@@ -8840,7 +8840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[利禾+苔]　靈隱嶽云。",
+        "source_sentence": "[利-禾+苔]　靈隱嶽云。",
         "from": "X84n1580_007:0231c12_17",
         "context_with_next_sentence": true
     },
@@ -9430,7 +9430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "把手拽不入　溈山哲云。",
+        "source_sentence": "把手拽不入　溈山喆云。",
         "from": "X84n1580_007:0232a11_30",
         "context_with_next_sentence": true
     },
@@ -11815,12 +11815,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "夾山休去(溈山哲云。",
+        "source_sentence": "夾山休去(溈山喆云。",
         "from": "X84n1580_007:0233b16_26",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "瑞巖雖然威獰[后口+匕]愬。",
+        "source_sentence": "瑞巖雖然威獰[后-口+匕]愬。",
         "from": "X84n1580_007:0233b16_27",
         "context_with_next_sentence": true
     },
@@ -15040,7 +15040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也未到如此　溈山哲云。",
+        "source_sentence": "也未到如此　溈山喆云。",
         "from": "X84n1580_007:0235b10_79",
         "context_with_next_sentence": true
     },
@@ -15545,7 +15545,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今日更好笑溈山哲云。",
+        "source_sentence": "今日更好笑溈山喆云。",
         "from": "X84n1580_007:0235c09_77",
         "context_with_next_sentence": true
     },
@@ -16985,7 +16985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "貧恨一身多)○安國[啗口+王]和尚。",
+        "source_sentence": "貧恨一身多)○安國&#;和尚。",
         "from": "X84n1580_007:0236c03_10",
         "context_with_next_sentence": true
     },
@@ -17000,7 +17000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[啗口+王]出接。",
+        "source_sentence": "&#;出接。",
         "from": "X84n1580_007:0236c04_13",
         "context_with_next_sentence": true
     },
@@ -17015,7 +17015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[啗口+王]曰來也。",
+        "source_sentence": "&#;曰來也。",
         "from": "X84n1580_007:0236c04_16",
         "context_with_next_sentence": true
     },
@@ -17040,7 +17040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[啗口+王]曰。",
+        "source_sentence": "&#;曰。",
         "from": "X84n1580_007:0236c05_21",
         "context_with_next_sentence": true
     },
@@ -21095,8 +21095,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "安國弘[啗口+王]禪師(雪峯存法嗣)福州安國院弘[啗口+王]明真禪師。",
+        "source_sentence": "安國弘&#;禪師(雪峯存法嗣)",
         "from": "X84n1580_007:0239a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "福州安國院弘&#;明真禪師。",
+        "from": "X84n1580_007:0239a15_0",
         "context_with_next_sentence": true
     },
     {
@@ -21175,7 +21180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "曰和尚怪弘[啗口+王]不得。",
+        "source_sentence": "曰和尚怪弘&#;不得。",
         "from": "X84n1580_007:0239a19_16",
         "context_with_next_sentence": true
     },
@@ -23800,7 +23805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "猶有鄉情在(溈山哲云。",
+        "source_sentence": "猶有鄉情在(溈山喆云。",
         "from": "X84n1580_007:0241a12_16",
         "context_with_next_sentence": true
     },
@@ -24070,12 +24075,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]而歸。",
+        "source_sentence": "懡[怡-台+羅]而歸。",
         "from": "X84n1580_007:0241a19_5",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "却來雪峰處拔本。",
+        "source_sentence": "却來雪峰處㧞本。",
         "from": "X84n1580_007:0241a19_6",
         "context_with_next_sentence": true
     },
@@ -25945,7 +25950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也不較多(溈山哲云。",
+        "source_sentence": "也不較多(溈山喆云。",
         "from": "X84n1580_007:0242b21_61",
         "context_with_next_sentence": true
     },
@@ -27360,7 +27365,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "忽遇拏雲攫浪來時作麼生。",
+        "source_sentence": "忽遇拏雲㸕浪來時作麼生。",
         "from": "X84n1580_007:0243c03_3",
         "context_with_next_sentence": true
     },
@@ -27410,7 +27415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "莫孤負老僧　溈山哲云。",
+        "source_sentence": "莫孤負老僧　溈山喆云。",
         "from": "X84n1580_007:0243c05_13",
         "context_with_next_sentence": true
     },
@@ -27440,7 +27445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拏雲攫浪來時如何。",
+        "source_sentence": "拏雲㸕浪來時如何。",
         "from": "X84n1580_007:0243c06_19",
         "context_with_next_sentence": true
     },
@@ -27460,7 +27465,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也只得振威[后口+匕]愬)○長慶謂太傅曰。",
+        "source_sentence": "也只得振威[后-口+匕]愬)○長慶謂太傅曰。",
         "from": "X84n1580_007:0243c07_1",
         "context_with_next_sentence": true
     },
@@ -27615,7 +27620,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "當時但踏倒茶罏　溈山哲云。",
+        "source_sentence": "當時但踏倒茶罏　溈山喆云。",
         "from": "X84n1580_007:0243c14_1",
         "context_with_next_sentence": true
     },
@@ -28850,8 +28855,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "瑞峯志端禪師(安國[啗口+王]法嗣)福州林陽瑞峰院志端禪師。",
+        "source_sentence": "瑞峯志端禪師(安國&#;法嗣)",
         "from": "X84n1580_007:0244c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "福州林陽瑞峰院志端禪師。",
+        "from": "X84n1580_007:0244c09_0",
         "context_with_next_sentence": true
     },
     {
@@ -30725,7 +30735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "翰遣裨校擊之。",
+        "source_sentence": "翰遣禆校擊之。",
         "from": "X84n1580_007:0246a17_19",
         "context_with_next_sentence": true
     },

@@ -50,7 +50,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "文字浩[泳永+旱]意義難知。",
+        "source_sentence": "文字浩[泳-永+旱]意義難知。",
         "from": "T85n2779_001:0536a09_1",
         "context_with_next_sentence": true
     },
@@ -632,6 +632,11 @@
     {
         "source_sentence": "甚安樂無著。",
         "from": "T85n2779_001:0536c08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "娑訶耶等覺。",
+        "from": "T85n2779_001:0536c09_0",
         "context_with_next_sentence": false
     }
 ]

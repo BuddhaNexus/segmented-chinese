@@ -60,7 +60,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "威音王已前三脚驢兒[跳兆+孛]跳。",
+        "source_sentence": "威音王已前三脚驢兒[跳-兆+孛]跳。",
         "from": "X64n1260_015:0116c19_6",
         "context_with_next_sentence": true
     },
@@ -75,7 +75,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "却因甚麼三脚驢兒[跳兆+孛]跳。",
+        "source_sentence": "却因甚麼三脚驢兒[跳-兆+孛]跳。",
         "from": "X64n1260_015:0116c20_9",
         "context_with_next_sentence": true
     },
@@ -85,7 +85,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "方知威音王已前三脚驢兒果然[跳兆+孛]跳。",
+        "source_sentence": "方知威音王已前三脚驢兒果然[跳-兆+孛]跳。",
         "from": "X64n1260_015:0116c21_1",
         "context_with_next_sentence": true
     },
@@ -2855,12 +2855,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以大勇猛施方便故即便[寤吾+告]窹。",
+        "source_sentence": "以大勇猛施方便故即便[寤-吾+告]窹。",
         "from": "X64n1260_015:0119c05_13",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "既[寤吾+告]窹已所作皆息。",
+        "source_sentence": "既[寤-吾+告]窹已所作皆息。",
         "from": "X64n1260_015:0119c06_14",
         "context_with_next_sentence": true
     },
@@ -4780,7 +4780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或投河赴火[拚ㄙ+ㄊ]得命方始死得。",
+        "source_sentence": "或投河赴火[拚-ㄙ+ㄊ]得命方始死得。",
         "from": "X64n1260_015:0122a02_37",
         "context_with_next_sentence": true
     },
@@ -8180,7 +8180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則雲門大師手中扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "則雲門大師手中扇子[跳-兆+孛]跳上三十三天。",
         "from": "X64n1260_015:0126a03_5",
         "context_with_next_sentence": true
     },

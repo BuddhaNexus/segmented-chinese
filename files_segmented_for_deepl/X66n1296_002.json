@@ -730,7 +730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雲門扇子[跳兆+孛]跳上三十三天築著帝釋鼻孔。",
+        "source_sentence": "雲門扇子[跳-兆+孛]跳上三十三天築著帝釋鼻孔。",
         "from": "X66n1296_002:0014a01_10",
         "context_with_next_sentence": true
     },
@@ -3065,7 +3065,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也祇是個淈[泳永+盾]漢。",
+        "source_sentence": "也祇是個淈[泳-永+盾]漢。",
         "from": "X66n1296_002:0016b14_5",
         "context_with_next_sentence": true
     },

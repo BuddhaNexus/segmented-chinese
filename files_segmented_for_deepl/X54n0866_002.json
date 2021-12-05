@@ -650,7 +650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "發源之[這言+至]別。",
+        "source_sentence": "發源之[這-言+至]別。",
         "from": "X54n0866_002:0061c03_5",
         "context_with_next_sentence": true
     },
@@ -2115,7 +2115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "魔來[莽犬+敞]文。",
+        "source_sentence": "魔來[莽-犬+敞]文。",
         "from": "X54n0866_002:0063a01_20",
         "context_with_next_sentence": true
     },
@@ -2475,7 +2475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "獨拔於言像之表。",
+        "source_sentence": "獨㧞於言像之表。",
         "from": "X54n0866_002:0063a23_4",
         "context_with_next_sentence": true
     },
@@ -6850,7 +6850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "相[得彳]無窮。",
+        "source_sentence": "相[得-彳]無窮。",
         "from": "X54n0866_002:0066c02_6",
         "context_with_next_sentence": true
     },
@@ -8275,7 +8275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "令[利禾+登]逸士著文暢旨。",
+        "source_sentence": "令[利-禾+登]逸士著文暢旨。",
         "from": "X54n0866_002:0067c14_5",
         "context_with_next_sentence": true
     },
@@ -8860,7 +8860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "評論謂之[坦一+土]也。",
+        "source_sentence": "評論謂之[坦-一+土]也。",
         "from": "X54n0866_002:0068a19_14",
         "context_with_next_sentence": true
     },
@@ -10545,12 +10545,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "使匠石[(咒几+卓)*斤]之。",
+        "source_sentence": "使匠石[(咒-几+卓)*斤]之。",
         "from": "X54n0866_002:0069b21_19",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "匠石斧成風聽獨[利禾+(咒几+合)]之。",
+        "source_sentence": "匠石斧成風聽獨[利-禾+(咒-几+合)]之。",
         "from": "X54n0866_002:0069b21_20",
         "context_with_next_sentence": true
     },
@@ -11575,7 +11575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眾生長[窱(ㄆ/木)+(唚口)]非言莫曉。",
+        "source_sentence": "眾生長[窱-(ㄆ/木)+(唚-口)]非言莫曉。",
         "from": "X54n0866_002:0070b09_17",
         "context_with_next_sentence": true
     },
@@ -13825,7 +13825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是以行年七十而猶死[利禾+登]輪。",
+        "source_sentence": "是以行年七十而猶死[利-禾+登]輪。",
         "from": "X54n0866_002:0072b04_18",
         "context_with_next_sentence": true
     },
@@ -16627,6 +16627,96 @@
     {
         "source_sentence": "肇論疏卷下　　　晉書",
         "from": "X54n0866_002:0074b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "康永三年二月五日寫之。",
+        "from": "X54n0866_002:0074b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　同十七日點之畢。",
+        "from": "X54n0866_002:0074b23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　此疏惠達法師撰云云。",
+        "from": "X54n0866_002:0074b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未詳之。",
+        "from": "X54n0866_002:0074b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(寫本云)文永三年七月廿日於光明山東谷往生院敬奉書寫了。",
+        "from": "X54n0866_002:0074c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願以此寫功。",
+        "from": "X54n0866_002:0074c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自他開惠眼。",
+        "from": "X54n0866_002:0074c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　三論宗智舜(春秋六十八)。",
+        "from": "X54n0866_002:0074c03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(東南院　寫本奧記云)神龜三年歲次乙丑十一月。",
+        "from": "X54n0866_002:0074c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶龜二年年次辛亥四月卅日沙彌慈晉(云云)。",
+        "from": "X54n0866_002:0074c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文永三年八月廿七日校合之。",
+        "from": "X54n0866_002:0074c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次加謬點了。",
+        "from": "X54n0866_002:0074c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寫本之文字不法之間。",
+        "from": "X54n0866_002:0074c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "極難見解。",
+        "from": "X54n0866_002:0074c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後來之士尋正本可正之耳。",
+        "from": "X54n0866_002:0074c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貞和四年五月談肇論了。",
+        "from": "X54n0866_002:0074c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而述義中引惠達釋。",
+        "from": "X54n0866_002:0074c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆符此書□□□□□。",
+        "from": "X54n0866_002:0074c09_2",
         "context_with_next_sentence": false
     }
 ]

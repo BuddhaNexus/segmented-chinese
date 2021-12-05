@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 破菴語錄序",
+        "source_sentence": "破菴語錄序",
         "from": "X70n1381_001:0208a06_0",
         "context_with_next_sentence": true
     },
@@ -2685,7 +2685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更得招慶隨後打摟[打丁+敕]。",
+        "source_sentence": "更得招慶隨後打摟[打-丁+敕]。",
         "from": "X70n1381_001:0210b01_7",
         "context_with_next_sentence": true
     },
@@ -2710,7 +2710,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "管取拏雲攫霧。",
+        "source_sentence": "管取拏雲㸕霧。",
         "from": "X70n1381_001:0210b03_12",
         "context_with_next_sentence": true
     },
@@ -3380,7 +3380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "摵碎饒州磁椀。",
+        "source_sentence": "摵碎饒州礠椀。",
         "from": "X70n1381_001:0210c17_4",
         "context_with_next_sentence": true
     },
@@ -10880,7 +10880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何不一切[拚ㄙ+ㄊ]捨。",
+        "source_sentence": "何不一切[拚-ㄙ+ㄊ]捨。",
         "from": "X70n1381_001:0216c09_1",
         "context_with_next_sentence": true
     },
@@ -11605,7 +11605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "用處峭拔。",
+        "source_sentence": "用處峭㧞。",
         "from": "X70n1381_001:0217b02_1",
         "context_with_next_sentence": true
     },
@@ -11845,7 +11845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "但只抵死[拚ㄙ+ㄊ]生。",
+        "source_sentence": "但只抵死[拚-ㄙ+ㄊ]生。",
         "from": "X70n1381_001:0217b15_1",
         "context_with_next_sentence": true
     },
@@ -12285,7 +12285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "舉不[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "舉不[(厂@((既-旡)-日+口))*頁]。",
         "from": "X70n1381_001:0217c17_12",
         "context_with_next_sentence": true
     },
@@ -12390,7 +12390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "示崑山虗堂[(厂@((既旡)日+口))*頁]居士教外別傳之旨。",
+        "source_sentence": "示崑山虗堂[(厂@((既-旡)-日+口))*頁]居士教外別傳之旨。",
         "from": "X70n1381_001:0217c24_0",
         "context_with_next_sentence": true
     },
@@ -13675,7 +13675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 行狀",
+        "source_sentence": "行狀",
         "from": "X70n1381_001:0219b05_0",
         "context_with_next_sentence": true
     },
@@ -14510,7 +14510,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 後跋",
+        "source_sentence": "後跋",
         "from": "X70n1381_001:0220a05_0",
         "context_with_next_sentence": true
     },
@@ -14605,8 +14605,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "必不於言句中尋",
+        "source_sentence": "必不於言句中尋討。",
         "from": "X70n1381_001:0220a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嘉定壬申元日住平江福臻法姪道巖跋。",
+        "from": "X70n1381_001:0220a13_4",
         "context_with_next_sentence": false
     }
 ]

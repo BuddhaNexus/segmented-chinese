@@ -1780,12 +1780,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一切麥粟稻麻[序予+禾]、未作麨飯[麩夫+(糒米)]，盡名似食。",
+        "source_sentence": "一切麥粟稻麻[序-予+禾]、未作麨飯[麩-夫+(糒-米)]，盡名似食。",
         "from": "T23n1440_007:0549c15_3",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若變成麨飯[麩夫+(糒米)]，盡名正食。",
+        "source_sentence": "若變成麨飯[麩-夫+(糒-米)]，盡名正食。",
         "from": "T23n1440_007:0549c16_4",
         "context_with_next_sentence": true
     },

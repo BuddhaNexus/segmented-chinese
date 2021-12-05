@@ -4610,7 +4610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "欲拔一切眾生苦故。",
+        "source_sentence": "欲㧞一切眾生苦故。",
         "from": "X22n0413_002:0441a20_8",
         "context_with_next_sentence": true
     },
@@ -8550,7 +8550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "(因[(白日+田)/廾]也)命終即乘蓮花往生。",
+        "source_sentence": "(因[(白-日+田)/廾]也)命終即乘蓮花往生。",
         "from": "X22n0413_002:0444a14_0",
         "context_with_next_sentence": true
     },
@@ -8570,7 +8570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "成阿羅漢(果[(白日+田)/廾]也)。",
+        "source_sentence": "成阿羅漢(果[(白-日+田)/廾]也)。",
         "from": "X22n0413_002:0444a15_4",
         "context_with_next_sentence": true
     },
@@ -14262,6 +14262,11 @@
     {
         "source_sentence": "△次靈山流通。",
         "from": "X22n0413_002:0448b01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊足步虗空(至)聞佛所說皆大歡喜。",
+        "from": "X22n0413_002:0448b02_0",
         "context_with_next_sentence": false
     }
 ]

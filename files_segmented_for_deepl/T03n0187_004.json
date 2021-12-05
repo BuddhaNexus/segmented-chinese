@@ -820,7 +820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "太子生長深宮，未曾習學文武書算、圖象兵機、權捷[打丁+(企止+衣)]力世間眾藝，何為我女適無藝人？",
+        "source_sentence": "太子生長深宮，未曾習學文武書算、圖象兵機、權捷[打-丁+(企-止+衣)]力世間眾藝，何為我女適無藝人？",
         "from": "T03n0187_004:0562b04_6",
         "context_with_next_sentence": true
     },

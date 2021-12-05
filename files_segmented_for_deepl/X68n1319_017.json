@@ -21205,7 +21205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "太尉[吃乙+小]。",
+        "source_sentence": "太尉&#;。",
         "from": "X68n1319_017:0685a12_6",
         "context_with_next_sentence": true
     },
@@ -25730,7 +25730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任[跳兆+孛]跳。",
+        "source_sentence": "一任[跳-兆+孛]跳。",
         "from": "X68n1319_017:0688a21_13",
         "context_with_next_sentence": true
     },
@@ -26570,7 +26570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有什麼饅頭[飢几+追]子。",
+        "source_sentence": "有什麼饅頭[飢-几+追]子。",
         "from": "X68n1319_017:0688c09_2",
         "context_with_next_sentence": true
     },
@@ -26795,7 +26795,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何不道和尚京中喫麵多。",
+        "source_sentence": "何不道和尚京中喫麫多。",
         "from": "X68n1319_017:0688c20_7",
         "context_with_next_sentence": true
     },
@@ -28805,7 +28805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "忽遇拏雲攫浪來時作麼生。",
+        "source_sentence": "忽遇拏雲㸕浪來時作麼生。",
         "from": "X68n1319_017:0690b05_1",
         "context_with_next_sentence": true
     },
@@ -30565,7 +30565,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "小谿多搕[打丁+(天/韭)]。",
+        "source_sentence": "小谿多搕[打-丁+(天/韭)]。",
         "from": "X68n1319_017:0691b23_5",
         "context_with_next_sentence": true
     },
@@ -36577,6 +36577,46 @@
     {
         "source_sentence": "祇有這箇。",
         "from": "X68n1319_017:0696a10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更別有。",
+        "from": "X68n1319_017:0696a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　曰。",
+        "from": "X68n1319_017:0696a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雲生嶺上。",
+        "from": "X68n1319_017:0696a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　師曰。",
+        "from": "X68n1319_017:0696a11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未在。",
+        "from": "X68n1319_017:0696a11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更道。",
+        "from": "X68n1319_017:0696a11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　曰。",
+        "from": "X68n1319_017:0696a11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "水滴巖前。",
+        "from": "X68n1319_017:0696a11_7",
         "context_with_next_sentence": false
     }
 ]

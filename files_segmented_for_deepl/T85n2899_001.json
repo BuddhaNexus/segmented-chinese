@@ -1030,7 +1030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無有染色[打丁+鳥]治之苦。",
+        "source_sentence": "無有染色[打-丁+鳥]治之苦。",
         "from": "T85n2899_001:1427a22_18",
         "context_with_next_sentence": true
     },
@@ -5355,7 +5355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "去鐵圍山一",
+        "source_sentence": "去鐵圍山一百四十萬里。",
         "from": "T85n2899_001:1431b23_32",
         "context_with_next_sentence": false
     }

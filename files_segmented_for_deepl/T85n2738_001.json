@@ -3300,8 +3300,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "七自",
+        "source_sentence": "七自誦。",
         "from": "T85n2738_001:0132c14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八廣說。",
+        "from": "T85n2738_001:0132c15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九思惟。",
+        "from": "T85n2738_001:0132c15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十。",
+        "from": "T85n2738_001:0132c15_8",
         "context_with_next_sentence": false
     }
 ]

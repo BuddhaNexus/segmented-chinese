@@ -150,12 +150,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若以[屘子+亥]嚕左曩法印印於己身。",
+        "source_sentence": "若以[屘-子+亥]嚕左曩法印印於己身。",
         "from": "T20n1141_002:0595b02_13",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦成[屘子+亥]嚕左曩之身。",
+        "source_sentence": "亦成[屘-子+亥]嚕左曩之身。",
         "from": "T20n1141_002:0595b03_14",
         "context_with_next_sentence": true
     },
@@ -1140,7 +1140,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於蓮華臺上畫[屘子+亥]嚕左曩佛塔。",
+        "source_sentence": "於蓮華臺上畫[屘-子+亥]嚕左曩佛塔。",
         "from": "T20n1141_002:0596c05_6",
         "context_with_next_sentence": true
     },
@@ -1420,7 +1420,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "第二院直東畫[屘子+亥]嚕左曩如來。",
+        "source_sentence": "第二院直東畫[屘-子+亥]嚕左曩如來。",
         "from": "T20n1141_002:0597a10_3",
         "context_with_next_sentence": true
     },
@@ -3460,8 +3460,73 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　灌頂說法悟無生　　慈氏大日同一體　[屘子+亥]嚕左那即慈氏　　一生菩薩即愈誐　自心即是母地心　　母地即是慈氏尊　三種無二元一體　　是故我求如實智　中天三藏善無畏　　甘露飯王釋苗胤　五十五殊十三臨　　任持烏馱釋國土　十八捨位讓於兄　　度那蘭陀脫塵勞　多聞博學七百數　　誦持一百五十藏　大乘經論皆十萬　　棄捨多聞修妙藏　祕密三藏及總持　　并解了義一萬偈　明開七種諸聖教　　五明輪悉無不通　有一摩賀支那僧　　法號釋種喜無畏　純陀獻供最末後　　許可五部阿闍梨　是故我今略教授　　未得許可猶未傳　但求無上大悉地　　不從尊者口傳授　輒與一句一偈者　　不但現世不悉地　當來必獲無間獄　　願諸持念速悉地　若人供養此人者　　供養慈氏同千佛　是故我今盡歸命　　非持誦者所能傳慈氏菩薩修愈誐法卷下(青龍寺東塔院一切經)",
+        "source_sentence": "　灌頂說法悟無生　　慈氏大日同一體　[屘-子+亥]嚕左那即慈氏　　一生菩薩即愈誐　自心即是母地心　　母地即是慈氏尊　三種無二元一體　　是故我求如實智　中天三藏善無畏　　甘露飯王釋苗胤　五十五殊十三臨　　任持烏馱釋國土　十八捨位讓於兄　　度那蘭陀脫塵勞　多聞博學七百數　　誦持一百五十藏　大乘經論皆十萬　　棄捨多聞修妙藏　祕密三藏及總持　　并解了義一萬偈　明開七種諸聖教　　五明輪悉無不通　有一摩賀支那僧　　法號釋種喜無畏　純陀獻供最末後　　許可五部阿闍梨　是故我今略教授　　未得許可猶未傳　但求無上大悉地　　不從尊者口傳授　輒與一句一偈者　　不但現世不悉地　當來必獲無間獄　　願諸持念速悉地　若人供養此人者　　供養慈氏同千佛　是故我今盡歸命　　非持誦者所能傳慈氏菩薩修愈誐法卷下(青龍寺東塔院一切經)一本奧云。",
         "from": "T20n1141_002:0599c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大中九年九月七日珍記。",
+        "from": "T20n1141_002:0600a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又於同時撿勘之珍記(少疑不少)。",
+        "from": "T20n1141_002:0600a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八家錄云。",
+        "from": "T20n1141_002:0600a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行運圓覺加本。",
+        "from": "T20n1141_002:0600a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然今所校刻之本。",
+        "from": "T20n1141_002:0600a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奧載智證大師撿勘之記。",
+        "from": "T20n1141_002:0600a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以之見此則智證所請來本乎詳。",
+        "from": "T20n1141_002:0600a19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今以淨嚴和上點本及異本。",
+        "from": "T20n1141_002:0600a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "挑燈讐校之。",
+        "from": "T20n1141_002:0600a21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鍥布普天。",
+        "from": "T20n1141_002:0600a21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而以期珊瑚殿上之嘉會耳時。",
+        "from": "T20n1141_002:0600a21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元文五上章涒灘十二月朔旦",
+        "from": "T20n1141_002:0600a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　豐山妙音輪下沙門無等",
+        "from": "T20n1141_002:0600a24_0",
         "context_with_next_sentence": false
     }
 ]

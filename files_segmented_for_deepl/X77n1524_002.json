@@ -1060,7 +1060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皆漁人之[竺二+(一/(尸@邑))]梁。",
+        "source_sentence": "皆漁人之[竺-二+(一/(尸@邑))]梁。",
         "from": "X77n1524_002:0374b10_18",
         "context_with_next_sentence": true
     },
@@ -4035,7 +4035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "坐獄於[橘矛+隹]李。",
+        "source_sentence": "坐獄於[橘-矛+隹]李。",
         "from": "X77n1524_002:0376b20_26",
         "context_with_next_sentence": true
     },
@@ -7435,7 +7435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "姓[竺二+亶]。",
+        "source_sentence": "姓[竺-二+亶]。",
         "from": "X77n1524_002:0378c24_2",
         "context_with_next_sentence": true
     },
@@ -9100,7 +9100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蹶石相土。",
+        "source_sentence": "蹷石相土。",
         "from": "X77n1524_002:0380a15_42",
         "context_with_next_sentence": true
     },
@@ -10840,8 +10840,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "屑",
+        "source_sentence": "屑眾香散其上。",
         "from": "X77n1524_002:0381b08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而重瘞之。",
+        "from": "X77n1524_002:0381b09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "崇寧三年。",
+        "from": "X77n1524_002:0381b09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "賜諡法慧大師。",
+        "from": "X77n1524_002:0381b09_12",
         "context_with_next_sentence": false
     }
 ]

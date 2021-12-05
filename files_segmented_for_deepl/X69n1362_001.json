@@ -535,7 +535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]去守塔。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]去守塔。",
         "from": "X69n1362_001:0621b15_24",
         "context_with_next_sentence": true
     },
@@ -1660,7 +1660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "望君見[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "望君見[(厂@((既-旡)-日+口))*頁]。",
         "from": "X69n1362_001:0622b05_12",
         "context_with_next_sentence": true
     },
@@ -5540,7 +5540,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "狗子[吃乙+小]。",
+        "source_sentence": "狗子&#;。",
         "from": "X69n1362_001:0625a10_29",
         "context_with_next_sentence": true
     },
@@ -5765,7 +5765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二人相[(厂@((既旡)日+口))*頁]大笑而去。",
+        "source_sentence": "二人相[(厂@((既-旡)-日+口))*頁]大笑而去。",
         "from": "X69n1362_001:0625a23_11",
         "context_with_next_sentence": true
     },
@@ -8100,7 +8100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "見上堂左右[(厂@((既旡)日+口))*頁]視。",
+        "source_sentence": "見上堂左右[(厂@((既-旡)-日+口))*頁]視。",
         "from": "X69n1362_001:0627a10_9",
         "context_with_next_sentence": true
     },
@@ -9495,7 +9495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[吃乙+小]。",
+        "source_sentence": "&#;。",
         "from": "X69n1362_001:0628a21_25",
         "context_with_next_sentence": true
     },
@@ -9640,7 +9640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也好[妳女+口]。",
+        "source_sentence": "也好[妳-女+口]。",
         "from": "X69n1362_001:0628b05_16",
         "context_with_next_sentence": true
     },
@@ -13150,7 +13150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "躊躇四[(厂@((既旡)日+口))*頁]太息曰。",
+        "source_sentence": "躊躇四[(厂@((既-旡)-日+口))*頁]太息曰。",
         "from": "X69n1362_001:0631a05_2",
         "context_with_next_sentence": true
     },
@@ -13210,7 +13210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不[(厂@((既旡)日+口))*頁]他人遲速。",
+        "source_sentence": "不[(厂@((既-旡)-日+口))*頁]他人遲速。",
         "from": "X69n1362_001:0631a08_9",
         "context_with_next_sentence": true
     },
@@ -13555,7 +13555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遂回[(厂@((既旡)日+口))*頁]堦前下馬臺云。",
+        "source_sentence": "遂回[(厂@((既-旡)-日+口))*頁]堦前下馬臺云。",
         "from": "X69n1362_001:0631b04_5",
         "context_with_next_sentence": true
     },
@@ -15965,7 +15965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其僧懡[怡台+羅]而退。",
+        "source_sentence": "其僧懡[怡-台+羅]而退。",
         "from": "X69n1362_001:0633a20_13",
         "context_with_next_sentence": true
     },
@@ -16430,7 +16430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳。",
+        "source_sentence": "扇子[跳-兆+孛]跳。",
         "from": "X69n1362_001:0633c01_1",
         "context_with_next_sentence": true
     },
@@ -17260,7 +17260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遂問本慕[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "遂問本慕[(厂@((既-旡)-日+口))*頁]。",
         "from": "X69n1362_001:0634b04_3",
         "context_with_next_sentence": true
     },
@@ -17460,7 +17460,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "兔角龜毛眼裏[栽木+土]。",
+        "source_sentence": "兔角龜毛眼裏[栽-木+土]。",
         "from": "X69n1362_001:0634b15_6",
         "context_with_next_sentence": true
     },
@@ -18015,7 +18015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大慧普覺",
+        "source_sentence": "大慧普覺禪師語錄卷上",
         "from": "X69n1362_001:0634c23_0",
         "context_with_next_sentence": false
     }

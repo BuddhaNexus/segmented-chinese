@@ -7750,7 +7750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "剎竿頭上煎[飢几+追]子。",
+        "source_sentence": "剎竿頭上煎[飢-几+追]子。",
         "from": "X71n1412_002:0223a20_0",
         "context_with_next_sentence": true
     },
@@ -8485,7 +8485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "隔[革*(華(十*〡*十)+(人*〡*人))]用拳頭抓痒。",
+        "source_sentence": "隔[革*(華-(十*〡*十)+(人*〡*人))]用拳頭抓痒。",
         "from": "X71n1412_002:0223c08_8",
         "context_with_next_sentence": true
     },
@@ -12415,7 +12415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "剎竿頭上煎[飢几+追]子。",
+        "source_sentence": "剎竿頭上煎[飢-几+追]子。",
         "from": "X71n1412_002:0226c01_3",
         "context_with_next_sentence": true
     },

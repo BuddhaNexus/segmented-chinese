@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 釋教總論",
+        "source_sentence": "釋教總論",
         "from": "X15n0301_001:0218a04_0",
         "context_with_next_sentence": true
     },
@@ -420,7 +420,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "中國則泥。",
+        "source_sentence": "中圀則泥。",
         "from": "X15n0301_001:0218b07_17",
         "context_with_next_sentence": true
     },
@@ -445,7 +445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不可以治天下國。",
+        "source_sentence": "不可以治天下圀。",
         "from": "X15n0301_001:0218b09_22",
         "context_with_next_sentence": true
     },
@@ -460,7 +460,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "龍溪王　畿　譔 譯經便覽王鳳洲曰。",
+        "source_sentence": "龍溪王　畿　譔譯經便覽王鳳洲曰。",
         "from": "X15n0301_001:0218b10_25",
         "context_with_next_sentence": true
     },
@@ -3215,7 +3215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "麗[怡台+制]毗細滑也。",
+        "source_sentence": "麗[怡-台+制]毗細滑也。",
         "from": "X15n0301_001:0221a07_17",
         "context_with_next_sentence": true
     },
@@ -4535,7 +4535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔濟未來。",
+        "source_sentence": "㧞濟未來。",
         "from": "X15n0301_001:0222b01_4",
         "context_with_next_sentence": true
     },
@@ -4550,7 +4550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "意在拔濟也)。",
+        "source_sentence": "意在㧞濟也)。",
         "from": "X15n0301_001:0222b02_7",
         "context_with_next_sentence": true
     },
@@ -17775,7 +17775,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如彗帚也。",
+        "source_sentence": "如彗箒也。",
         "from": "X15n0301_001:0233b04_13",
         "context_with_next_sentence": true
     },
@@ -18400,7 +18400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其義[(厂@((既旡)日+口))*頁]異。",
+        "source_sentence": "其義[(厂@((既-旡)-日+口))*頁]異。",
         "from": "X15n0301_001:0233c19_4",
         "context_with_next_sentence": true
     },
@@ -19990,7 +19990,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不[序予+立]是水。",
+        "source_sentence": "不[序-予+立]是水。",
         "from": "X15n0301_001:0235a14_6",
         "context_with_next_sentence": true
     },
@@ -20010,7 +20010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "俱[序予+立]現在)。",
+        "source_sentence": "俱[序-予+立]現在)。",
         "from": "X15n0301_001:0235a15_10",
         "context_with_next_sentence": true
     },
@@ -28060,8 +28060,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦云",
+        "source_sentence": "亦云十方。",
         "from": "X15n0301_001:0241b01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即十界也)。",
+        "from": "X15n0301_001:0241b02_5",
         "context_with_next_sentence": false
     }
 ]

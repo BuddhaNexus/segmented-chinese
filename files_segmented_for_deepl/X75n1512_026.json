@@ -370,7 +370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "中風[病丙+旱]之疾。",
+        "source_sentence": "中風[病-丙+旱]之疾。",
         "from": "X75n1512_026:0236b09_8",
         "context_with_next_sentence": true
     },
@@ -3965,7 +3965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛經禪冊都不一[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "佛經禪冊都不一[(厂@((既-旡)-日+口))*頁]。",
         "from": "X75n1512_026:0239c22_1",
         "context_with_next_sentence": true
     },

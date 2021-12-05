@@ -4315,7 +4315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[齒*(虎儿+且)][齒*(虎儿+且)]齖齖。",
+        "source_sentence": "[齒*(虎-儿+且)][齒*(虎-儿+且)]齖齖。",
         "from": "X68n1315_045:0301c23_0",
         "context_with_next_sentence": true
     },
@@ -5090,7 +5090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "須彌[跳兆+孛]跳迦葉舞。",
+        "source_sentence": "須彌[跳-兆+孛]跳迦葉舞。",
         "from": "X68n1315_045:0302b24_6",
         "context_with_next_sentence": true
     },
@@ -11055,7 +11055,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "夾道[栽木+土]杉根漸著。",
+        "source_sentence": "夾道[栽-木+土]杉根漸著。",
         "from": "X68n1315_045:0308c20_11",
         "context_with_next_sentence": true
     },

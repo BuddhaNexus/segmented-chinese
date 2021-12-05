@@ -5675,7 +5675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一切不[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "一切不[(厂@((既-旡)-日+口))*頁]。",
         "from": "X15n0299_009:0120c24_0",
         "context_with_next_sentence": true
     },
@@ -6345,7 +6345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "毫無罣碍。",
+        "source_sentence": "毫無&#;碍。",
         "from": "X15n0299_009:0121b16_8",
         "context_with_next_sentence": true
     },
@@ -11465,7 +11465,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "冠註　此明心愛綿[泳永+曶]。",
+        "source_sentence": "冠註　此明心愛綿[泳-永+曶]。",
         "from": "X15n0299_009:0125c17_0",
         "context_with_next_sentence": true
     },
@@ -11490,7 +11490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[泳永+曶]契合也。",
+        "source_sentence": "[泳-永+曶]契合也。",
         "from": "X15n0299_009:0125c18_0",
         "context_with_next_sentence": true
     },
@@ -11645,7 +11645,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是以既見綿[泳永+曶]之勝事。",
+        "source_sentence": "是以既見綿[泳-永+曶]之勝事。",
         "from": "X15n0299_009:0126a03_17",
         "context_with_next_sentence": true
     },

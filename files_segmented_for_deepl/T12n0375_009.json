@@ -1865,7 +1865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爾時，良醫以呪術力令王隱處遍生瘡疱、兼復[病丙+帶]下，蟲血雜出。",
+        "source_sentence": "爾時，良醫以呪術力令王隱處遍生瘡疱、兼復[病-丙+帶]下，蟲血雜出。",
         "from": "T12n0375_009:0661c04_7",
         "context_with_next_sentence": true
     },

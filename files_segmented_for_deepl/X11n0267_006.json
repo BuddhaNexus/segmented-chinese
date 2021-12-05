@@ -370,7 +370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "△必有所依者或[萉巴+(旡兀+ㄎ)]或草等喻妄起必依真也。",
+        "source_sentence": "△必有所依者或[萉-巴+(旡-兀+ㄎ)]或草等喻妄起必依真也。",
         "from": "X11n0267_006:0150c22_8",
         "context_with_next_sentence": true
     },
@@ -465,7 +465,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "△八不淨者一田宅二種植根[栽木+土]三貯聚稻穀居監求利四奴婢人民五養群畜六金銀財寶七象牙刻鏤諸寶大牀等八銅銕釜鑊等。",
+        "source_sentence": "△八不淨者一田宅二種植根[栽-木+土]三貯聚稻穀居監求利四奴婢人民五養群畜六金銀財寶七象牙刻鏤諸寶大牀等八銅銕釜鑊等。",
         "from": "X11n0267_006:0151a15_5",
         "context_with_next_sentence": true
     },
@@ -2945,7 +2945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "△[(嫡女)*鳥]鴹即陰鳥故主雨諺云[(嫡女)*鳥]鴹鼓舞天下大雨。",
+        "source_sentence": "△[(嫡-女)*鳥]鴹即陰鳥故主雨諺云[(嫡-女)*鳥]鴹鼓舞天下大雨。",
         "from": "X11n0267_006:0160a08_9",
         "context_with_next_sentence": true
     },
@@ -3815,7 +3815,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "△覺知通[泳永+曶]者即見聞覺知融通[泳永+曶]合以為一也。",
+        "source_sentence": "△覺知通[泳-永+曶]者即見聞覺知融通[泳-永+曶]合以為一也。",
         "from": "X11n0267_006:0163b24_2",
         "context_with_next_sentence": true
     },
@@ -4077,6 +4077,21 @@
     {
         "source_sentence": "首楞嚴經義疏釋要鈔卷第六(終)",
         "from": "X11n0267_006:0164b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "楞嚴經釋題一卷",
+        "from": "X11n0267_006:0164c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宋　宗印述",
+        "from": "X11n0267_006:0164c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "載于楞嚴經集註卷首。",
+        "from": "X11n0267_006:0164c06_0",
         "context_with_next_sentence": false
     }
 ]

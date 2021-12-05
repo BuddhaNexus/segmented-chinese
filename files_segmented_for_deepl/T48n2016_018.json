@@ -8715,7 +8715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遍至市廛。",
+        "source_sentence": "遍至市&#;。",
         "from": "T48n2016_018:0515c15_11",
         "context_with_next_sentence": true
     },
@@ -11442,6 +11442,11 @@
     {
         "source_sentence": "宗鏡錄卷第十八",
         "from": "T48n2016_018:0517b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　丁未歲分司大藏都監開板",
+        "from": "T48n2016_018:0517b27_0",
         "context_with_next_sentence": false
     }
 ]

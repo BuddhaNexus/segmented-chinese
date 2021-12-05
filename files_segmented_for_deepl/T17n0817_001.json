@@ -1130,7 +1130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "我曉欲塵本悉淨故，又被菩薩大德之鎧，勇猛精進無所[怡台+惡]難。",
+        "source_sentence": "我曉欲塵本悉淨故，又被菩薩大德之鎧，勇猛精進無所[怡-台+惡]難。",
         "from": "T17n0817_001:0819c14_2",
         "context_with_next_sentence": true
     },
@@ -2215,7 +2215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "顏色變惡猶如死人，眼耳鼻口膿血流出，身體[病丙+逢]爛不可復視，口中臭氣浡浡腥穢，一切毛孔惡露皆出，其腹潰壞，腸胃、肝、肺、脾、腎五臟，屎尿、髓腦悉為流溢，青蠅飛集周匝共食。",
+        "source_sentence": "顏色變惡猶如死人，眼耳鼻口膿血流出，身體[病-丙+逢]爛不可復視，口中臭氣浡浡腥穢，一切毛孔惡露皆出，其腹潰壞，腸胃、肝、肺、脾、腎五臟，屎尿、髓腦悉為流溢，青蠅飛集周匝共食。",
         "from": "T17n0817_001:0823a13_2",
         "context_with_next_sentence": true
     },

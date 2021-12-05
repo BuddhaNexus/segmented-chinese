@@ -3485,7 +3485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳。",
+        "source_sentence": "扇子[跳-兆+孛]跳。",
         "from": "X64n1260_003:0022a10_3",
         "context_with_next_sentence": true
     },
@@ -4270,7 +4270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "龍王懡[怡台+羅]而退。",
+        "source_sentence": "龍王懡[怡-台+羅]而退。",
         "from": "X64n1260_003:0022c04_8",
         "context_with_next_sentence": true
     },
@@ -5550,7 +5550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大家廝淈[泳永+盾]。",
+        "source_sentence": "大家廝淈[泳-永+盾]。",
         "from": "X64n1260_003:0023c09_6",
         "context_with_next_sentence": true
     },
@@ -5560,7 +5560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "淈[泳永+盾]中。",
+        "source_sentence": "淈[泳-永+盾]中。",
         "from": "X64n1260_003:0023c09_8",
         "context_with_next_sentence": true
     },

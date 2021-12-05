@@ -3335,7 +3335,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛在世時[怡台+龍]悷難調。",
+        "source_sentence": "佛在世時[怡-台+龍]悷難調。",
         "from": "X55n0919_006:0817b13_6",
         "context_with_next_sentence": true
     },
@@ -9185,7 +9185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如磁石等者。",
+        "source_sentence": "如礠石等者。",
         "from": "X55n0919_006:0822a04_8",
         "context_with_next_sentence": true
     },
@@ -9195,7 +9195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "猶如磁石。",
+        "source_sentence": "猶如礠石。",
         "from": "X55n0919_006:0822a05_10",
         "context_with_next_sentence": true
     },

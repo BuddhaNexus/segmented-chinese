@@ -1990,7 +1990,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有生而百鳥[銜金+缶]花虎狼給侍者。",
+        "source_sentence": "有生而百鳥[銜-金+缶]花虎狼給侍者。",
         "from": "T49n2036_014:0602a07_12",
         "context_with_next_sentence": true
     },
@@ -5650,7 +5650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蜂蝶[銜金+缶]花綠蘂間。",
+        "source_sentence": "蜂蝶[銜-金+缶]花綠蘂間。",
         "from": "T49n2036_014:0605c16_18",
         "context_with_next_sentence": true
     },
@@ -6385,7 +6385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乞飯從頭[打丁+聿]。",
+        "source_sentence": "乞飯從頭[打-丁+聿]。",
         "from": "T49n2036_014:0606b29_12",
         "context_with_next_sentence": true
     },
@@ -12445,7 +12445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不命而[敲高+甫]力。",
+        "source_sentence": "不命而[敲-高+甫]力。",
         "from": "T49n2036_014:0612c17_0",
         "context_with_next_sentence": true
     },

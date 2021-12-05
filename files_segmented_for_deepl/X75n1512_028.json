@@ -2805,7 +2805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師隔窗問闍黎念者是什麼經。",
+        "source_sentence": "師隔窻問闍黎念者是什麼經。",
         "from": "X75n1512_028:0248c12_25",
         "context_with_next_sentence": true
     },
@@ -3295,7 +3295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師乃不[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "師乃不[(厂@((既-旡)-日+口))*頁]。",
         "from": "X75n1512_028:0249b08_2",
         "context_with_next_sentence": true
     },
@@ -3720,7 +3720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師才[(厂@((既旡)日+口))*頁]視。",
+        "source_sentence": "師才[(厂@((既-旡)-日+口))*頁]視。",
         "from": "X75n1512_028:0249c08_1",
         "context_with_next_sentence": true
     },
@@ -5910,7 +5910,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "漫然未甞一[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "漫然未甞一[(厂@((既-旡)-日+口))*頁]。",
         "from": "X75n1512_028:0251c13_3",
         "context_with_next_sentence": true
     },

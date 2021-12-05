@@ -13215,7 +13215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "作麼生出得山僧圈[袖由+貴]去。",
+        "source_sentence": "作麼生出得山僧圈[袖-由+貴]去。",
         "from": "X85n1593_006:0470a11_15",
         "context_with_next_sentence": true
     },
@@ -13235,7 +13235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上三十三天。",
+        "source_sentence": "[跳-兆+孛]跳上三十三天。",
         "from": "X85n1593_006:0470a12_1",
         "context_with_next_sentence": true
     },
@@ -14140,7 +14140,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任[跳兆+孛]跳。",
+        "source_sentence": "一任[跳-兆+孛]跳。",
         "from": "X85n1593_006:0470c08_8",
         "context_with_next_sentence": true
     },
@@ -14950,7 +14950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "作此字[(○*○*○)/＝]二二三几[(┐@三)*(田/?)][水?+(曲曰+口)]。",
+        "source_sentence": "作此字[(○*○*○)/＝]二二三几[(┐@三)*(田/?)][水-?+(曲-曰+口)]。",
         "from": "X85n1593_006:0471a23_24",
         "context_with_next_sentence": true
     },
@@ -17655,7 +17655,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳入你鼻孔裏去也。",
+        "source_sentence": "[跳-兆+孛]跳入你鼻孔裏去也。",
         "from": "X85n1593_006:0473a14_22",
         "context_with_next_sentence": true
     },
@@ -18445,7 +18445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "曰這畜生更[跳兆+孛]跳在。",
+        "source_sentence": "曰這畜生更[跳-兆+孛]跳在。",
         "from": "X85n1593_006:0473c08_25",
         "context_with_next_sentence": true
     },
@@ -19605,7 +19605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "龍馬駒[跳兆+孛]跳。",
+        "source_sentence": "龍馬駒[跳-兆+孛]跳。",
         "from": "X85n1593_006:0474b17_2",
         "context_with_next_sentence": true
     },
@@ -19645,7 +19645,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "剎竿頭上煎[飢几+追]子。",
+        "source_sentence": "剎竿頭上煎[飢-几+追]子。",
         "from": "X85n1593_006:0474b19_2",
         "context_with_next_sentence": true
     },
@@ -21480,7 +21480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳入你鼻孔裏。",
+        "source_sentence": "[跳-兆+孛]跳入你鼻孔裏。",
         "from": "X85n1593_006:0475c19_29",
         "context_with_next_sentence": true
     },
@@ -22505,7 +22505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "手[據豕+旦]水月。",
+        "source_sentence": "手[據-豕+旦]水月。",
         "from": "X85n1593_006:0476c02_5",
         "context_with_next_sentence": true
     },
@@ -25157,6 +25157,16 @@
     {
         "source_sentence": "禪宗正脉卷第六",
         "from": "X85n1593_006:0478c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X85n1593_006:0478c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[祝/土](側六切擣也刺也)　捋(力括切)　褫(音植)　糶(音粜)　嗄(所訝切聲破也)　趯(他歷切跳踊也)　饡(子旦切以羹澆飯也)　餿(色求切飯壞也)　貛貉(上火丸切野豚也下莫格切蠻〡也)　漪(於宜切)　[翟*支](丑角切〡敊也)　沔(彌善切水出也)　墼(居的切未燒也)　岌(魚及切山高貌)　[髟/采](且代切帶幓頭)　篐(古胡切篾束物也)　[據-豕+旦](仄加切助也)　揕(知鴆切右手〡其胷襟也)　擉(初角切指也)",
+        "from": "X85n1593_006:0478c11_0",
         "context_with_next_sentence": false
     }
 ]

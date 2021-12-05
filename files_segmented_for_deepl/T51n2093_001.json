@@ -1290,7 +1290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "常負束[葶丁+呆]。",
+        "source_sentence": "常負束[葶-丁+呆]。",
         "from": "T51n2093_001:1023c13_2",
         "context_with_next_sentence": true
     },
@@ -1320,7 +1320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其夕遂以束[葶丁+呆]焚身。",
+        "source_sentence": "其夕遂以束[葶-丁+呆]焚身。",
         "from": "T51n2093_001:1023c15_8",
         "context_with_next_sentence": true
     },
@@ -1557,6 +1557,16 @@
     {
         "source_sentence": "其工無鍼綖之迹。",
         "from": "T51n2093_001:1024a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寺中柹樹白牡丹。",
+        "from": "T51n2093_001:1024a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是法力上人手植。",
+        "from": "T51n2093_001:1024a12_1",
         "context_with_next_sentence": false
     }
 ]

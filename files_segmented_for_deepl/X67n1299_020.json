@@ -725,7 +725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "縱饒[栽木+土]種得。",
+        "source_sentence": "縱饒[栽-木+土]種得。",
         "from": "X67n1299_020:0119c18_15",
         "context_with_next_sentence": true
     },
@@ -1910,7 +1910,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "管取一場懡[怡台+羅]。",
+        "source_sentence": "管取一場懡[怡-台+羅]。",
         "from": "X67n1299_020:0121a10_8",
         "context_with_next_sentence": true
     },
@@ -5120,7 +5120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也是一場懡[怡台+羅]。",
+        "source_sentence": "也是一場懡[怡-台+羅]。",
         "from": "X67n1299_020:0124a20_7",
         "context_with_next_sentence": true
     },

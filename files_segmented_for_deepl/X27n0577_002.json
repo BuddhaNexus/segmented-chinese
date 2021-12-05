@@ -3955,7 +3955,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不能[得彳]出。",
+        "source_sentence": "不能[得-彳]出。",
         "from": "X27n0577_002:0013a15_21",
         "context_with_next_sentence": true
     },
@@ -8570,7 +8570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "理不拔無根。",
+        "source_sentence": "理不㧞無根。",
         "from": "X27n0577_002:0016c22_19",
         "context_with_next_sentence": true
     },
@@ -9210,7 +9210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[瘞夾+(猒日+口)]油殃。",
+        "source_sentence": "[瘞-夾+(猒-日+口)]油殃。",
         "from": "X27n0577_002:0017b05_47",
         "context_with_next_sentence": true
     },
@@ -9230,7 +9230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故以[病丙+猒]油罪恐之。",
+        "source_sentence": "故以[病-丙+猒]油罪恐之。",
         "from": "X27n0577_002:0017b06_51",
         "context_with_next_sentence": true
     },
@@ -9425,7 +9425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "法華經疏卷下(終)",
+        "source_sentence": "法華經疏卷下(終)　　　　　　　竺道生　撰",
         "from": "X27n0577_002:0017b21_0",
         "context_with_next_sentence": false
     }

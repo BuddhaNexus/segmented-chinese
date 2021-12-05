@@ -535,7 +535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一場懡[怡台+羅]。",
+        "source_sentence": "一場懡[怡-台+羅]。",
         "from": "X65n1288_003:0417c18_1",
         "context_with_next_sentence": true
     },
@@ -2945,7 +2945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拄杖[跳兆+孛]跳。",
+        "source_sentence": "拄杖[跳-兆+孛]跳。",
         "from": "X65n1288_003:0419b16_11",
         "context_with_next_sentence": true
     },
@@ -8787,6 +8787,346 @@
     {
         "source_sentence": "萬法歸心錄卷下(終)",
         "from": "X65n1288_003:0423b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "跋",
+        "from": "X65n1288_003:0423c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嘗謂三教殊途而同歸。",
+        "from": "X65n1288_003:0423c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何也。",
+        "from": "X65n1288_003:0423c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "緣其所載之言。",
+        "from": "X65n1288_003:0423c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無非勸人復善。",
+        "from": "X65n1288_003:0423c05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但二氏之書。",
+        "from": "X65n1288_003:0423c06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幽玄微妙。",
+        "from": "X65n1288_003:0423c06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讀者熟思。",
+        "from": "X65n1288_003:0423c06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫知所指。",
+        "from": "X65n1288_003:0423c06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獨祖源禪師手輯歸心一錄。",
+        "from": "X65n1288_003:0423c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明白暢盡。",
+        "from": "X65n1288_003:0423c07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智愚瞭然。",
+        "from": "X65n1288_003:0423c07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡人情物態。",
+        "from": "X65n1288_003:0423c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隱微纖悉。",
+        "from": "X65n1288_003:0423c08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一曲繪。",
+        "from": "X65n1288_003:0423c08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若無遁形。",
+        "from": "X65n1288_003:0423c08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是錄雖分數問。",
+        "from": "X65n1288_003:0423c08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其掃除旁門。",
+        "from": "X65n1288_003:0423c09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "直指要路。",
+        "from": "X65n1288_003:0423c09_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "回悟真靈。",
+        "from": "X65n1288_003:0423c09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "返本還源。",
+        "from": "X65n1288_003:0423c09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆實學也。",
+        "from": "X65n1288_003:0423c09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余覩斯集。",
+        "from": "X65n1288_003:0423c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不忍釋手。",
+        "from": "X65n1288_003:0423c10_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "美其究無極之理。",
+        "from": "X65n1288_003:0423c10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則表裏精粗。",
+        "from": "X65n1288_003:0423c10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無不到。",
+        "from": "X65n1288_003:0423c11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "闡一貫之旨。",
+        "from": "X65n1288_003:0423c11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則全體大用。",
+        "from": "X65n1288_003:0423c11_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無不明。",
+        "from": "X65n1288_003:0423c11_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誠為三教中會歸協一之理也。",
+        "from": "X65n1288_003:0423c11_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知為一理。",
+        "from": "X65n1288_003:0423c12_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安得不識數言以附其末。",
+        "from": "X65n1288_003:0423c12_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "順天府庠洪璋敬跋。",
+        "from": "X65n1288_003:0423c13_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "跋",
+        "from": "X65n1288_003:0423c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一心者。",
+        "from": "X65n1288_003:0423c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬法之總相也。",
+        "from": "X65n1288_003:0423c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬法者。",
+        "from": "X65n1288_003:0423c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一心之別相也。",
+        "from": "X65n1288_003:0423c18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心有二種。",
+        "from": "X65n1288_003:0423c18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真妄不同。",
+        "from": "X65n1288_003:0423c19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依真心速證菩提。",
+        "from": "X65n1288_003:0423c19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨妄心漂流生死。",
+        "from": "X65n1288_003:0423c19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真心妄心。",
+        "from": "X65n1288_003:0423c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知是本體。",
+        "from": "X65n1288_003:0423c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真心靈知。",
+        "from": "X65n1288_003:0423c20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無知而知。",
+        "from": "X65n1288_003:0423c20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妄心識知。",
+        "from": "X65n1288_003:0423c20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有知而知。",
+        "from": "X65n1288_003:0423c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無知而知。",
+        "from": "X65n1288_003:0423c21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圓明寂照。",
+        "from": "X65n1288_003:0423c21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有知而知。",
+        "from": "X65n1288_003:0423c21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "念念生滅。",
+        "from": "X65n1288_003:0423c21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大師婆心。",
+        "from": "X65n1288_003:0423c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假伸問答。",
+        "from": "X65n1288_003:0423c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辯明真心。",
+        "from": "X65n1288_003:0423c22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "指陳修證。",
+        "from": "X65n1288_003:0423c22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從始至終。",
+        "from": "X65n1288_003:0423c22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言言契理。",
+        "from": "X65n1288_003:0423c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斯錄傳世。",
+        "from": "X65n1288_003:0423c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如光明炬。",
+        "from": "X65n1288_003:0423c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能破萬劫之暗。",
+        "from": "X65n1288_003:0423c23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而直至寶所耳。",
+        "from": "X65n1288_003:0423c23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誠為法寶。",
+        "from": "X65n1288_003:0423c24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "實為法寶。",
+        "from": "X65n1288_003:0423c24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予觀之不捨。",
+        "from": "X65n1288_003:0423c24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復讀之為跋。",
+        "from": "X65n1288_003:0423c24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　體如居士　劉芳　謹跋",
+        "from": "X65n1288_003:0424a01_9",
         "context_with_next_sentence": false
     }
 ]

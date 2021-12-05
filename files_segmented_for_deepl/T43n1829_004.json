@@ -2860,7 +2860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "伺[狂王+(山/鳥)]。",
+        "source_sentence": "伺[狂-王+(山/鳥)]。",
         "from": "T43n1829_004:0052a18_3",
         "context_with_next_sentence": true
     },
@@ -18287,6 +18287,11 @@
     {
         "source_sentence": "瑜伽師地論略纂卷第四",
         "from": "T43n1829_004:0066c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時享保七年(壬寅)十月九日加點一校了沙門高範(六十八歲)",
+        "from": "T43n1829_004:0066c08_0",
         "context_with_next_sentence": false
     }
 ]

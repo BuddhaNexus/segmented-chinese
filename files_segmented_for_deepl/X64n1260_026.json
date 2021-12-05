@@ -2545,7 +2545,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "山上鯉魚打[跳兆+孛]跳。",
+        "source_sentence": "山上鯉魚打[跳-兆+孛]跳。",
         "from": "X64n1260_026:0209b19_15",
         "context_with_next_sentence": true
     },

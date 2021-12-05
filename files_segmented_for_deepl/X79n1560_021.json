@@ -635,7 +635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任[跳兆+孛]跳。",
+        "source_sentence": "一任[跳-兆+孛]跳。",
         "from": "X79n1560_021:0532c15_2",
         "context_with_next_sentence": true
     },
@@ -2820,7 +2820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "作此字二二三儿([田/?][曲曰+口][(巨匚)@二]才)。",
+        "source_sentence": "作此字二二三儿([田/?][曲-曰+口][(巨-匚)@二]才)。",
         "from": "X79n1560_021:0534a24_30",
         "context_with_next_sentence": true
     },

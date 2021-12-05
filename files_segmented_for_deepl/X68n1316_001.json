@@ -340,7 +340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 重刻趙州祖師語錄序",
+        "source_sentence": "重刻趙州祖師語錄序",
         "from": "X68n1316_001:0342b20_0",
         "context_with_next_sentence": true
     },
@@ -1470,8 +1470,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "得法於香林",
+        "source_sentence": "得法於香林遠和尚。",
         "from": "X68n1316_001:0343c03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雲門第三世。",
+        "from": "X68n1316_001:0343c04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　真宗時人。",
+        "from": "X68n1316_001:0343c04_4",
         "context_with_next_sentence": false
     }
 ]

@@ -110,7 +110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雙柑迤[這言+里]黃鸝下。",
+        "source_sentence": "雙柑迤[這-言+里]黃鸝下。",
         "from": "X66n1296_005:0029b10_3",
         "context_with_next_sentence": true
     },
@@ -215,7 +215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "殊不知達磨被他兩度驗徹骨髓。",
+        "source_sentence": "殊不知達磨被他兩度騐徹骨髓。",
         "from": "X66n1296_005:0029b16_2",
         "context_with_next_sentence": true
     },
@@ -2105,7 +2105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "却解頤。",
+        "source_sentence": "却解頥。",
         "from": "X66n1296_005:0031b19_4",
         "context_with_next_sentence": true
     },
@@ -3270,7 +3270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "溈山哲云。",
+        "source_sentence": "溈山喆云。",
         "from": "X66n1296_005:0033a01_0",
         "context_with_next_sentence": true
     },

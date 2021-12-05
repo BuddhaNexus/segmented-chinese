@@ -850,7 +850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "共工氏　大庭氏　柏皇氏　中央氏　陸栗氏　驪連氏　[亦〦+(並(前刖))]胥氏　尊盧氏　混沌氏　昊英氏　葛天氏　朱襄氏　陰康氏　無懷氏。",
+        "source_sentence": "共工氏　大庭氏　柏皇氏　中央氏　陸栗氏　驪連氏　[亦-〦+(並-(前-刖))]胥氏　尊盧氏　混沌氏　昊英氏　葛天氏　朱襄氏　陰康氏　無懷氏。",
         "from": "T49n2036_002:0491a18_0",
         "context_with_next_sentence": true
     },
@@ -995,7 +995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "作祭[袖由+昔]製五絃琴。",
+        "source_sentence": "作祭[袖-由+昔]製五絃琴。",
         "from": "T49n2036_002:0491b02_8",
         "context_with_next_sentence": true
     },
@@ -2590,7 +2590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(凵@(暴(日/共)))/(敲高+壴)]鼓持柄搖之旁耳。",
+        "source_sentence": "[(凵@(暴-(日/共)))/(敲-高+壴)]鼓持柄搖之旁耳。",
         "from": "T49n2036_002:0492a20_24",
         "context_with_next_sentence": true
     },
@@ -3130,7 +3130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "治四十九年(作箕帚秣酒)宁(少康子)癸卯立。",
+        "source_sentence": "治四十九年(作箕箒秣酒)宁(少康子)癸卯立。",
         "from": "T49n2036_002:0492b21_1",
         "context_with_next_sentence": true
     },
@@ -3355,7 +3355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "始祖[├/(咼┌+乂)]為堯司徒官)王水德。",
+        "source_sentence": "始祖[├/(咼-┌+乂)]為堯司徒官)王水德。",
         "from": "T49n2036_002:0492c14_2",
         "context_with_next_sentence": true
     },
@@ -3525,7 +3525,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "立廟六([├/(咼┌+乂)]二昭湯二穆)太甲郊祀祖宗(禘帝嚳文祖　郊冥配天祖　祖契　配文祖太祖　宗湯　父)太甲祀。",
+        "source_sentence": "立廟六([├/(咼-┌+乂)]二昭湯二穆)太甲郊祀祖宗(禘帝嚳文祖　郊冥配天祖　祖契　配文祖太祖　宗湯　父)太甲祀。",
         "from": "T49n2036_002:0492c25_7",
         "context_with_next_sentence": true
     },
@@ -5225,7 +5225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "春祭曰[袀二+、]薄也。",
+        "source_sentence": "春祭曰[袀-二+、]薄也。",
         "from": "T49n2036_002:0494c01_1",
         "context_with_next_sentence": true
     },
@@ -5595,7 +5595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "始霸。",
+        "source_sentence": "始覇。",
         "from": "T49n2036_002:0494d06_9",
         "context_with_next_sentence": true
     },

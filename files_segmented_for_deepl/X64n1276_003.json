@@ -2920,7 +2920,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "這畜生更[跳兆+孛]跳在。",
+        "source_sentence": "這畜生更[跳-兆+孛]跳在。",
         "from": "X64n1276_003:0815c19_21",
         "context_with_next_sentence": true
     },
@@ -3700,8 +3700,193 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　普燈錄禪門寶藏錄卷下(終)",
+        "source_sentence": "　普燈錄禪門寶藏錄卷下(終)嘉靖十年辛卯日慶尚道晉州地智異山鐵窟開刊以傳園興寺詳夫禪是佛心。",
         "from": "X64n1276_003:0816b21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "教是佛語。",
+        "from": "X64n1276_003:0816c06_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心傳而棒喝作。",
+        "from": "X64n1276_003:0816c06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "語漲而頓漸興。",
+        "from": "X64n1276_003:0816c06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然一大藏教。",
+        "from": "X64n1276_003:0816c07_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無非指月之指。",
+        "from": "X64n1276_003:0816c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故利根者。",
+        "from": "X64n1276_003:0816c07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師子咬人。",
+        "from": "X64n1276_003:0816c07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鈍根者。",
+        "from": "X64n1276_003:0816c08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "韓獹逐塊。",
+        "from": "X64n1276_003:0816c08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於噫咬人者寡。",
+        "from": "X64n1276_003:0816c08_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "逐塊者眾。",
+        "from": "X64n1276_003:0816c08_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂成兩途。",
+        "from": "X64n1276_003:0816c08_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼此相排。",
+        "from": "X64n1276_003:0816c09_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斯乃在人。",
+        "from": "X64n1276_003:0816c09_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非關於法。",
+        "from": "X64n1276_003:0816c09_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一宿覺云。",
+        "from": "X64n1276_003:0816c09_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從他謗任他非。",
+        "from": "X64n1276_003:0816c09_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "把火燒天徒自疲。",
+        "from": "X64n1276_003:0816c10_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正謂此也。",
+        "from": "X64n1276_003:0816c10_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今內願堂鷰谷住老呆庵大禪翁。",
+        "from": "X64n1276_003:0816c10_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悼禪風之將墜。",
+        "from": "X64n1276_003:0816c11_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悲人我之相高。",
+        "from": "X64n1276_003:0816c11_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "採摭古今對辨決疑之語。",
+        "from": "X64n1276_003:0816c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與夫君臣崇而理國。",
+        "from": "X64n1276_003:0816c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸講伏而見性。",
+        "from": "X64n1276_003:0816c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "許多則分為三門。",
+        "from": "X64n1276_003:0816c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "目之曰禪門寶藏。",
+        "from": "X64n1276_003:0816c13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鋟梓流傳。",
+        "from": "X64n1276_003:0816c13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲作將來之益。",
+        "from": "X64n1276_003:0816c14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則豈小補哉。",
+        "from": "X64n1276_003:0816c14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其有有眼箇漢。",
+        "from": "X64n1276_003:0816c14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能見月忘指。",
+        "from": "X64n1276_003:0816c14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則此一卷文。",
+        "from": "X64n1276_003:0816c15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦是眼中金屑。",
+        "from": "X64n1276_003:0816c15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "也無著處。",
+        "from": "X64n1276_003:0816c15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至元三十一年甲午三月日。",
+        "from": "X64n1276_003:0816c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蒙菴居士奉翊大夫副知密直司事國學大司成文翰學士承旨李混跋。",
+        "from": "X64n1276_003:0816c16_1",
         "context_with_next_sentence": false
     }
 ]

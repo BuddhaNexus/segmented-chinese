@@ -175,7 +175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[葶丁+呆]成目之曰神寶記。",
+        "source_sentence": "[葶-丁+呆]成目之曰神寶記。",
         "from": "T33n1706_001:0286a29_10",
         "context_with_next_sentence": true
     },
@@ -5577,6 +5577,11 @@
     {
         "source_sentence": "法性之身第一義也。",
         "from": "T33n1706_001:0291a26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說仁王護國般若波羅蜜經疏神寶記卷第一",
+        "from": "T33n1706_001:0291a28_0",
         "context_with_next_sentence": false
     }
 ]

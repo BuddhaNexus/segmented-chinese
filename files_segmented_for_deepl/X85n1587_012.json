@@ -2865,12 +2865,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上三十三天。",
+        "source_sentence": "[跳-兆+孛]跳上三十三天。",
         "from": "X85n1587_012:0075a06_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鼓黑風澍泡雨。",
+        "source_sentence": "鼓黑風澍㵡雨。",
         "from": "X85n1587_012:0075a06_3",
         "context_with_next_sentence": true
     },
@@ -4755,8 +4755,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "阿",
+        "source_sentence": "阿呵呵。",
         "from": "X85n1587_012:0076b24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "賓則始終賓。",
+        "from": "X85n1587_012:0076c01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "主則始終主。",
+        "from": "X85n1587_012:0076c01_8",
         "context_with_next_sentence": false
     }
 ]

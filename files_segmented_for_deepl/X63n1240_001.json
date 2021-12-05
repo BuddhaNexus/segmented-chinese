@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 溈山警策句釋科文",
+        "source_sentence": "溈山警策句釋科文",
         "from": "X63n1240_001:0232a02_0",
         "context_with_next_sentence": true
     },
@@ -305,7 +305,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 溈山警策句釋記序",
+        "source_sentence": "溈山警策句釋記序",
         "from": "X63n1240_001:0232b03_0",
         "context_with_next_sentence": true
     },
@@ -11705,7 +11705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "肆恣兇頑。",
+        "source_sentence": "肆恣&#;頑。",
         "from": "X63n1240_001:0241c11_8",
         "context_with_next_sentence": true
     },
@@ -14695,7 +14695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不覺[(龍月+日)/足]踵老朽。",
+        "source_sentence": "不覺[(龍-月+日)/足]踵老朽。",
         "from": "X63n1240_001:0244a11_2",
         "context_with_next_sentence": true
     },
@@ -14830,7 +14830,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(龍月+日)/足]踵。",
+        "source_sentence": "[(龍-月+日)/足]踵。",
         "from": "X63n1240_001:0244a19_3",
         "context_with_next_sentence": true
     },
@@ -16845,7 +16845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(龍月+日)/足]踵老朽。",
+        "source_sentence": "[(龍-月+日)/足]踵老朽。",
         "from": "X63n1240_001:0245c14_1",
         "context_with_next_sentence": true
     },
@@ -17780,8 +17780,143 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "溈山警策",
+        "source_sentence": "溈山警策句釋記卷上",
         "from": "X63n1240_001:0246b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X63n1240_001:0246b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "羆　音卑似熊。",
+        "from": "X63n1240_001:0246b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兕　詞字上聲一角野牛重千斤。",
+        "from": "X63n1240_001:0246b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "橡　音象。",
+        "from": "X63n1240_001:0246c01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "栩實乃柞櫟也。",
+        "from": "X63n1240_001:0246c01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "花黃色。",
+        "from": "X63n1240_001:0246c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九月結實。",
+        "from": "X63n1240_001:0246c02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "實外有房。",
+        "from": "X63n1240_001:0246c02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可以染皂色。",
+        "from": "X63n1240_001:0246c02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "搪　音唐。",
+        "from": "X63n1240_001:0246c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "搪揬觸也。",
+        "from": "X63n1240_001:0246c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "驟　音騶。",
+        "from": "X63n1240_001:0246c03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疾速也。",
+        "from": "X63n1240_001:0246c03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隙　輕字。",
+        "from": "X63n1240_001:0246c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入聲。",
+        "from": "X63n1240_001:0246c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "孔也。",
+        "from": "X63n1240_001:0246c04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "揄　音于。",
+        "from": "X63n1240_001:0246c04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "揄揚譽言也。",
+        "from": "X63n1240_001:0246c04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謔　香字。",
+        "from": "X63n1240_001:0246c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入聲。",
+        "from": "X63n1240_001:0246c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "戲謔也。",
+        "from": "X63n1240_001:0246c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "檻　咸字。",
+        "from": "X63n1240_001:0246c05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上聲。",
+        "from": "X63n1240_001:0246c05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "軒窻之下欄檻也。",
+        "from": "X63n1240_001:0246c05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "叵　音頗。",
+        "from": "X63n1240_001:0246c06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不可也。",
+        "from": "X63n1240_001:0246c06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不能也。",
+        "from": "X63n1240_001:0246c06_8",
         "context_with_next_sentence": false
     }
 ]

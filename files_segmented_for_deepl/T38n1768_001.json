@@ -2455,7 +2455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "斯乃希夷之境，太玄之鄉，而以有無題[肆聿+旁]，標其方域。",
+        "source_sentence": "斯乃希夷之境，太玄之鄉，而以有無題[肆-聿+旁]，標其方域。",
         "from": "T38n1768_001:0236a09_19",
         "context_with_next_sentence": true
     },
@@ -3612,6 +3612,16 @@
     {
         "source_sentence": "涅槃經遊意(終)",
         "from": "T38n1768_001:0239a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道融先於江南會稽遊學，聞彼大德等云：其吉藏法師《涅槃疏記》等，百濟僧並將歸鄉，所以此間無本留行。",
+        "from": "T38n1768_001:0239a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道融　《京感亭》曰：年過見百濟，賢者持此吉藏法師《涅槃玄意》，行故鄉寫之二，有疏，而未得讀，乃寫其，賢者在彼訓。",
+        "from": "T38n1768_001:0239a06_1",
         "context_with_next_sentence": false
     }
 ]

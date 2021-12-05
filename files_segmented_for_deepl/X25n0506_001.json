@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 金剛般若波羅蜜經注",
+        "source_sentence": "金剛般若波羅蜜經注",
         "from": "X25n0506_001:0858b11_0",
         "context_with_next_sentence": true
     },
@@ -3080,7 +3080,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則雖[邱丘+(〦/中/文)]瞞巨無霸。",
+        "source_sentence": "則雖[邱-丘+(〦/中/文)]瞞巨無霸。",
         "from": "X25n0506_001:0861b07_9",
         "context_with_next_sentence": true
     },
@@ -4855,8 +4855,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "當知是經義",
+        "source_sentence": "當知是經義不可思議。",
         "from": "X25n0506_001:0862c14_69",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果報亦不可思議。",
+        "from": "X25n0506_001:0862c15_70",
         "context_with_next_sentence": false
     }
 ]

@@ -2920,7 +2920,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "出這婆子圈[袖由+貴]不得麼。",
+        "source_sentence": "出這婆子圈[袖-由+貴]不得麼。",
         "from": "X82n1571_034:0003a20_1",
         "context_with_next_sentence": true
     },
@@ -3500,7 +3500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是誑諕閭閻漢。",
+        "source_sentence": "是誑&#;閭閻漢。",
         "from": "X82n1571_034:0003c12_5",
         "context_with_next_sentence": true
     },
@@ -5430,7 +5430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "風骨爽拔。",
+        "source_sentence": "風骨爽㧞。",
         "from": "X82n1571_034:0005a17_5",
         "context_with_next_sentence": true
     },
@@ -6635,7 +6635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "彼之二老一場懡[怡台+羅]。",
+        "source_sentence": "彼之二老一場懡[怡-台+羅]。",
         "from": "X82n1571_034:0006a08_9",
         "context_with_next_sentence": true
     },
@@ -10390,7 +10390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師將坐具[打丁+慼]一[打丁+慼]。",
+        "source_sentence": "師將坐具[打-丁+慼]一[打-丁+慼]。",
         "from": "X82n1571_034:0009a10_10",
         "context_with_next_sentence": true
     },
@@ -10405,7 +10405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任[跳兆+孛]跳　問如何是佛。",
+        "source_sentence": "一任[跳-兆+孛]跳　問如何是佛。",
         "from": "X82n1571_034:0009a10_13",
         "context_with_next_sentence": true
     },

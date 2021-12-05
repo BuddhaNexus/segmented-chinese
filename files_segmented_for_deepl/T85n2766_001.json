@@ -1565,7 +1565,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "臨駿馬終辭跨躍堂[飢几+甘]清罇而心無希羨庭歌舜目豈窺瞻。",
+        "source_sentence": "臨駿馬終辭跨躍堂[飢-几+甘]清罇而心無希羨庭歌舜目豈窺瞻。",
         "from": "T85n2766_001:0307c27_8",
         "context_with_next_sentence": true
     },
@@ -1595,7 +1595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遂使連年抱[病丙+帶]歷歲癭纏。",
+        "source_sentence": "遂使連年抱[病-丙+帶]歷歲癭纏。",
         "from": "T85n2766_001:0308a03_14",
         "context_with_next_sentence": true
     },
@@ -1845,7 +1845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "照金[狂王+召]於縣首榮心奪曰宦志陵雲。",
+        "source_sentence": "照金[狂-王+召]於縣首榮心奪曰宦志陵雲。",
         "from": "T85n2766_001:0308b01_3",
         "context_with_next_sentence": true
     },
@@ -3935,8 +3935,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "使我來",
+        "source_sentence": "使我來世。",
         "from": "T85n2766_001:0310c12_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "興願若有貧凍裸露。",
+        "from": "T85n2766_001:0310c13_17",
         "context_with_next_sentence": false
     }
 ]

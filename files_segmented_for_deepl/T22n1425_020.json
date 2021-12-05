@@ -365,7 +365,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "比丘受之，應數數問[穀禾+牛]乳者，若言：「[穀禾+牛]休。」",
+        "source_sentence": "比丘受之，應數數問[穀-禾+牛]乳者，若言：「[穀-禾+牛]休。」",
         "from": "T22n1425_020:0386a13_0",
         "context_with_next_sentence": true
     },
@@ -500,7 +500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "汝常不聞我無量方便，稱歎隨順、毀呰違逆，汝云何[怡台+龍]悷自用？",
+        "source_sentence": "汝常不聞我無量方便，稱歎隨順、毀呰違逆，汝云何[怡-台+龍]悷自用？",
         "from": "T22n1425_020:0386b03_9",
         "context_with_next_sentence": true
     },

@@ -715,7 +715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "並在廣州制旨王[仁二+國]兩寺。",
+        "source_sentence": "並在廣州制旨王[仁-二+國]兩寺。",
         "from": "T55n2157_010:0845a07_21",
         "context_with_next_sentence": true
     },
@@ -995,7 +995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "遂屬陳朝霸於建業。",
+        "source_sentence": "遂屬陳朝覇於建業。",
         "from": "T55n2157_010:0845b10_14",
         "context_with_next_sentence": true
     },

@@ -3130,7 +3130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "七[門@責]駢[閞廾+貝]。",
+        "source_sentence": "七[門@責]駢[閞-廾+貝]。",
         "from": "X43n0737_013:0337c19_9",
         "context_with_next_sentence": true
     },
@@ -29007,6 +29007,11 @@
     {
         "source_sentence": "四分律鈔簡正記卷第十三",
         "from": "X43n0737_013:0356c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時龍德二年七月中旬於竹林寺心地大德講下寫遇比丘志端記耳吳越國天長寺長講律臨壇崇福普濟戒光大德賜紫志貞寫此一部丁巳歲記焉",
+        "from": "X43n0737_013:0356c21_0",
         "context_with_next_sentence": false
     }
 ]

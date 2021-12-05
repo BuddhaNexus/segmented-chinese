@@ -500,7 +500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔貧作富。",
+        "source_sentence": "㧞貧作富。",
         "from": "X69n1370_001:0773c16_7",
         "context_with_next_sentence": true
     },
@@ -1805,7 +1805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "籬[狦(狂王)+土]壁倒。",
+        "source_sentence": "籬&#;壁倒。",
         "from": "X69n1370_001:0775a05_1",
         "context_with_next_sentence": true
     },
@@ -3145,7 +3145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "解纜放船。",
+        "source_sentence": "解䌫放船。",
         "from": "X69n1370_001:0776a19_2",
         "context_with_next_sentence": true
     },
@@ -4530,7 +4530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其僧無語[妳女+口]。",
+        "source_sentence": "其僧無語[妳-女+口]。",
         "from": "X69n1370_001:0777b04_20",
         "context_with_next_sentence": true
     },
@@ -5485,7 +5485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔屑抽釘。",
+        "source_sentence": "㧞屑抽釘。",
         "from": "X69n1370_001:0778a14_20",
         "context_with_next_sentence": true
     },
@@ -6545,7 +6545,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "平地[栽木+土]荊棘。",
+        "source_sentence": "平地[栽-木+土]荊棘。",
         "from": "X69n1370_001:0779a12_1",
         "context_with_next_sentence": true
     },
@@ -9815,7 +9815,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "手內生苕帚。",
+        "source_sentence": "手內生苕箒。",
         "from": "X69n1370_001:0782a20_1",
         "context_with_next_sentence": true
     },
@@ -10702,6 +10702,26 @@
     {
         "source_sentence": "淮海和尚語錄(終)",
         "from": "X69n1370_001:0783b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淮海和尚語錄熏香以別本校讎焉。",
+        "from": "X69n1370_001:0783b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "茲旹寶永四歲舍丁亥。",
+        "from": "X69n1370_001:0783b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仲夏上休。",
+        "from": "X69n1370_001:0783b17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鳳臺比丘楚獎謹誌。",
+        "from": "X69n1370_001:0783b17_3",
         "context_with_next_sentence": false
     }
 ]

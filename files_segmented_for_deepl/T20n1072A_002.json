@@ -2055,7 +2055,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+(乖北+比)]於印端捻之。",
+        "source_sentence": "[打-丁+(乖-北+比)]於印端捻之。",
         "from": "T20n1072A_002:0167b01_3",
         "context_with_next_sentence": true
     },
@@ -2945,7 +2945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鬼神邪魔[打丁+毛]亂。",
+        "source_sentence": "鬼神邪魔[打-丁+毛]亂。",
         "from": "T20n1072A_002:0168b01_1",
         "context_with_next_sentence": true
     },
@@ -4407,6 +4407,11 @@
     {
         "source_sentence": "聖者馬頭尊大威怒王使者法門說已畢。",
         "from": "T20n1072A_002:0170a06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖賀野紇哩嚩大威怒王供養念誦儀軌下卷",
+        "from": "T20n1072A_002:0170a08_0",
         "context_with_next_sentence": false
     }
 ]

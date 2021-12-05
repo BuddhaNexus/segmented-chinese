@@ -1230,8 +1230,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於今現在世法本",
+        "source_sentence": "於今現在世法本無今生。",
         "from": "T85n2783_001:0557b27_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又未來未生而言死歿不應道理。",
+        "from": "T85n2783_001:0557b28_10",
         "context_with_next_sentence": false
     }
 ]

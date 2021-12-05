@@ -2040,7 +2040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "問[啗口+王]長老。",
+        "source_sentence": "問&#;長老。",
         "from": "X73n1445_002:0011c18_23",
         "context_with_next_sentence": true
     },
@@ -4590,7 +4590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "只袋飯得。",
+        "source_sentence": "只袋飰得。",
         "from": "X73n1445_002:0013c11_8",
         "context_with_next_sentence": true
     },
@@ -13632,6 +13632,56 @@
     {
         "source_sentence": "福州玄沙宗弌大師廣錄中",
         "from": "X73n1445_002:0019b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣錄印版。",
+        "from": "X73n1445_002:0019b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歷載既久。",
+        "from": "X73n1445_002:0019b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "字漫滅者。",
+        "from": "X73n1445_002:0019b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "參拾餘版。",
+        "from": "X73n1445_002:0019b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(契祖)因訪在山座元。",
+        "from": "X73n1445_002:0019b10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同心募緣。",
+        "from": "X73n1445_002:0019b11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鋟木而補之。",
+        "from": "X73n1445_002:0019b11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂為全帙。",
+        "from": "X73n1445_002:0019b11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庶幾便於觀覧者目擊而道存焉。",
+        "from": "X73n1445_002:0019b11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "泰定乙丑良月　　　　　　　日謹誌",
+        "from": "X73n1445_002:0019b13_0",
         "context_with_next_sentence": false
     }
 ]

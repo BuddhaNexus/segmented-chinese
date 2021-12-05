@@ -360,7 +360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+此]摸。",
+        "source_sentence": "[打-丁+此]摸。",
         "from": "T28n1548_018:0646a25_4",
         "context_with_next_sentence": true
     },
@@ -2110,7 +2110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "十法成就墮地獄速如[矛*(替曰+貝)]鉾(十法竟)。",
+        "source_sentence": "十法成就墮地獄速如[矛*(替-曰+貝)]鉾(十法竟)。",
         "from": "T28n1548_018:0647a05_4",
         "context_with_next_sentence": true
     },
@@ -2125,7 +2125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二十法成就墮地獄速如[矛*(替曰+貝)]鉾。",
+        "source_sentence": "二十法成就墮地獄速如[矛*(替-曰+貝)]鉾。",
         "from": "T28n1548_018:0647a06_7",
         "context_with_next_sentence": true
     },
@@ -2135,7 +2135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三十法成就墮地獄速如[矛*(替曰+貝)]鉾。",
+        "source_sentence": "三十法成就墮地獄速如[矛*(替-曰+貝)]鉾。",
         "from": "T28n1548_018:0647a07_9",
         "context_with_next_sentence": true
     },
@@ -2150,7 +2150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四十法成就墮地獄速如[矛*(替曰+貝)]鉾。",
+        "source_sentence": "四十法成就墮地獄速如[矛*(替-曰+貝)]鉾。",
         "from": "T28n1548_018:0647a09_12",
         "context_with_next_sentence": true
     },
@@ -2765,7 +2765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何謂[打丁+此]摸。",
+        "source_sentence": "何謂[打-丁+此]摸。",
         "from": "T28n1548_018:0647c01_1",
         "context_with_next_sentence": true
     },
@@ -2775,7 +2775,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是名[打丁+此]摸。",
+        "source_sentence": "是名[打-丁+此]摸。",
         "from": "T28n1548_018:0647c02_0",
         "context_with_next_sentence": true
     },
@@ -3475,7 +3475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若貪求[打丁+此]摸。",
+        "source_sentence": "若貪求[打-丁+此]摸。",
         "from": "T28n1548_018:0648a24_17",
         "context_with_next_sentence": true
     },
@@ -3495,7 +3495,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "貪求[打丁+此]摸。",
+        "source_sentence": "貪求[打-丁+此]摸。",
         "from": "T28n1548_018:0648a25_3",
         "context_with_next_sentence": true
     },
@@ -3515,7 +3515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若貪求[打丁+此]摸。",
+        "source_sentence": "若貪求[打-丁+此]摸。",
         "from": "T28n1548_018:0648a27_7",
         "context_with_next_sentence": true
     },
@@ -4790,7 +4790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "內燋熱內心[夢夕+登]瞢。",
+        "source_sentence": "內燋熱內心[夢-夕+登]瞢。",
         "from": "T28n1548_018:0649b01_14",
         "context_with_next_sentence": true
     },
@@ -5480,7 +5480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何謂[鑼維+(正*寸)][革*卬]。",
+        "source_sentence": "何謂[鑼-維+(正*寸)][革*卬]。",
         "from": "T28n1548_018:0649c19_5",
         "context_with_next_sentence": true
     },
@@ -5490,7 +5490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是名[鑼維+(正*寸)][革*卬]。",
+        "source_sentence": "是名[鑼-維+(正*寸)][革*卬]。",
         "from": "T28n1548_018:0649c19_7",
         "context_with_next_sentence": true
     },

@@ -240,7 +240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "將[(學子+禺)爻+(与(乏之))][(學子+禺)爻+(与(乏之))]而不殊。",
+        "source_sentence": "將[(學-子+禺)-爻+(与-(乏-之))][(學-子+禺)-爻+(与-(乏-之))]而不殊。",
         "from": "T53n2122_085:0907c12_0",
         "context_with_next_sentence": true
     },

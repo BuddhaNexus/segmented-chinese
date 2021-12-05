@@ -1855,7 +1855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "南　莫　三　漫　多　沒　馱　南　沒囉(二合)　[序予+含](敢心反)摩(二合)　寧(尼奚反)　娑嚩(二合)　訶中心置四臂不動尊。",
+        "source_sentence": "南　莫　三　漫　多　沒　馱　南　沒囉(二合)　[序-予+含](敢心反)摩(二合)　寧(尼奚反)　娑嚩(二合)　訶中心置四臂不動尊。",
         "from": "T18n0909_001:0924a08_0",
         "context_with_next_sentence": true
     },
@@ -2067,6 +2067,86 @@
     {
         "source_sentence": "金剛頂瑜伽護摩儀軌",
         "from": "T18n0909_001:0924b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八家祕錄云。",
+        "from": "T18n0909_001:0924b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛頂瑜伽護摩儀軌一卷不空譯　貞元新入目錄海仁運珍。",
+        "from": "T18n0909_001:0924b29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "護摩儀軌一卷　師子國三藏沙門阿目伽跋折羅譯奉勅改名智藏　叡與前稍廣。",
+        "from": "T18n0909_001:0924c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後智藏譯既在明藏。",
+        "from": "T18n0909_001:0924c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然彼有爛脫無八天形像。",
+        "from": "T18n0909_001:0924c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此即不然。",
+        "from": "T18n0909_001:0924c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又文有具略。",
+        "from": "T18n0909_001:0924c05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "存兩本可也。",
+        "from": "T18n0909_001:0924c05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故依寶曆六丙子年。",
+        "from": "T18n0909_001:0924c06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "野山妙瑞師。",
+        "from": "T18n0909_001:0924c06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於東寺四本校正之本。",
+        "from": "T18n0909_001:0924c06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更校小池坊經庫。",
+        "from": "T18n0909_001:0924c07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "康和五年之本。",
+        "from": "T18n0909_001:0924c07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壽梓。",
+        "from": "T18n0909_001:0924c08_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時享和改元辛酉年五月。",
+        "from": "T18n0909_001:0924c08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豐山偶居沙門　快道誌。",
+        "from": "T18n0909_001:0924c09_12",
         "context_with_next_sentence": false
     }
 ]

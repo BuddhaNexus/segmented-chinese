@@ -115,7 +115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "魯人曹[(虺兀+(小/(几@示)))虫+(利禾)](音貴)請從。",
+        "source_sentence": "魯人曹[(虺-兀+(小/(几@示)))-虫+(利-禾)](音貴)請從。",
         "from": "X08n0235_005:0052a15_12",
         "context_with_next_sentence": true
     },
@@ -135,7 +135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(虺兀+(小/(几@示)))虫+(利禾)]曰未可。",
+        "source_sentence": "[(虺-兀+(小/(几@示)))-虫+(利-禾)]曰未可。",
         "from": "X08n0235_005:0052a17_0",
         "context_with_next_sentence": true
     },
@@ -145,7 +145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(虺兀+(小/(几@示)))虫+(利禾)]曰可矣。",
+        "source_sentence": "[(虺-兀+(小/(几@示)))-虫+(利-禾)]曰可矣。",
         "from": "X08n0235_005:0052a17_2",
         "context_with_next_sentence": true
     },
@@ -160,7 +160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(虺兀+(小/(几@示)))虫+(利禾)]曰未可。",
+        "source_sentence": "[(虺-兀+(小/(几@示)))-虫+(利-禾)]曰未可。",
         "from": "X08n0235_005:0052a18_5",
         "context_with_next_sentence": true
     },
@@ -22672,6 +22672,16 @@
     {
         "source_sentence": "大方廣佛華嚴經談玄決擇卷第五",
         "from": "X08n0235_005:0071b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "錄摘文解",
+        "from": "X08n0235_005:0071b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "玄颷纔舉無著牽羊　智光立無相　寧起有見如須彌等　智論說法性法界法住法位皆真如異名　因乖常理成三界無常　六波羅蜜七最勝所攝　海八德　不可不順己宗判論錯　但是三昧　性相二宗　受變易生死　三種意生身　眾生不入涅槃我亦不入　諸相立新熏　頓詮此理故名頓教　百法　四種勝入　同時四相滅表後無　水有十義　依他無性即是圓成　於解常自一等　處虗空在喻證空處之迹喻地阿含　四相俱時而有　照體無自即是證如　以智會如非證如矣　謂以心傳心　心無心相　心有也曠劫而滯凡夫　亡言者可與道合　十身十忍十眼十通　一大善巧攝生方便",
+        "from": "X08n0235_005:0071b12_0",
         "context_with_next_sentence": false
     }
 ]

@@ -1295,7 +1295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "月[宋木+取]親切。",
+        "source_sentence": "月[宋-木+取]親切。",
         "from": "X71n1420_004:0563a05_3",
         "context_with_next_sentence": true
     },
@@ -2925,7 +2925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "帝釋[跳兆+孛]跳。",
+        "source_sentence": "帝釋[跳-兆+孛]跳。",
         "from": "X71n1420_004:0564a19_9",
         "context_with_next_sentence": true
     },
@@ -2995,7 +2995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "抽釘拔楔去也茶。",
+        "source_sentence": "抽釘㧞楔去也茶。",
         "from": "X71n1420_004:0564a23_12",
         "context_with_next_sentence": true
     },
@@ -4190,7 +4190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "了無罣礙。",
+        "source_sentence": "了無&#;礙。",
         "from": "X71n1420_004:0565a15_16",
         "context_with_next_sentence": true
     },
@@ -6417,6 +6417,16 @@
     {
         "source_sentence": "佛日普照慧辯楚石禪師語錄卷第四",
         "from": "X71n1420_004:0566c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音切",
+        "from": "X71n1420_004:0566c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "屙(烏何切)　楖(阻瑟切)　憨(火含切)　罅(呼嫁切)　搓(七何切)　捻(乃恊切)　眨(仄洽切)　瞪(丈證切)　猱(乃刀切)　啀(魚佳切)　褌(古魂切)　瞠(丑庚切)　苕(徒凋切)　帚(之酉切)　鞴(蒲拜切)　黲(千敢切)　鍬(七消切)",
+        "from": "X71n1420_004:0566c17_0",
         "context_with_next_sentence": false
     }
 ]

@@ -6615,7 +6615,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寒暑[葸十+夕]翠。",
+        "source_sentence": "寒暑[葸-十+夕]翠。",
         "from": "X69n1335_003:0121c17_8",
         "context_with_next_sentence": true
     },
@@ -8295,7 +8295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[曰/月]涉三江。",
+        "source_sentence": "冐涉三江。",
         "from": "X69n1335_003:0123a15_31",
         "context_with_next_sentence": true
     },

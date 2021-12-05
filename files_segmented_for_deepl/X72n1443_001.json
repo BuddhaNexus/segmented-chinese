@@ -1,7 +1,17 @@
 [
     {
-        "source_sentence": " 長慶宗寶獨禪師語錄序　〔龍其〕嗣法門人　圅昰　撰刻華首語錄成。",
+        "source_sentence": "長慶宗寶獨禪師語錄序　〔龍其〕",
         "from": "X72n1443_001:0731a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗣法門人　圅昰　撰",
+        "from": "X72n1443_001:0731a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "刻華首語錄成。",
+        "from": "X72n1443_001:0731a09_0",
         "context_with_next_sentence": true
     },
     {
@@ -290,7 +300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 自序",
+        "source_sentence": "自序",
         "from": "X72n1443_001:0731b05_0",
         "context_with_next_sentence": true
     },
@@ -2130,7 +2140,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "海[澗日+活]從魚躍。",
+        "source_sentence": "海[澗-日+活]從魚躍。",
         "from": "X72n1443_001:0733a08_7",
         "context_with_next_sentence": true
     },
@@ -3800,7 +3810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "僧懡[怡台+羅]。",
+        "source_sentence": "僧懡[怡-台+羅]。",
         "from": "X72n1443_001:0734a23_14",
         "context_with_next_sentence": true
     },
@@ -5215,7 +5225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也合一場懡[怡台+羅]。",
+        "source_sentence": "也合一場懡[怡-台+羅]。",
         "from": "X72n1443_001:0735a22_1",
         "context_with_next_sentence": true
     },
@@ -8112,6 +8122,61 @@
     {
         "source_sentence": "長慶宗寶獨禪師語錄卷第一",
         "from": "X72n1443_001:0737b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X72n1443_001:0737b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瑰(姑回切。",
+        "from": "X72n1443_001:0737b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音傀。",
+        "from": "X72n1443_001:0737b20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瑰瑋琦玩也)　偉(于鬼切。",
+        "from": "X72n1443_001:0737b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音韙。",
+        "from": "X72n1443_001:0737b20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人才傀偉)　摺(之涉切。",
+        "from": "X72n1443_001:0737b20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音讋摺疊也)　麋(旻悲切。",
+        "from": "X72n1443_001:0737b20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音眉。",
+        "from": "X72n1443_001:0737b21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鹿屬)　嘿(密北切。",
+        "from": "X72n1443_001:0737b21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音墨。",
+        "from": "X72n1443_001:0737b21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與默同)",
+        "from": "X72n1443_001:0737b21_9",
         "context_with_next_sentence": false
     }
 ]

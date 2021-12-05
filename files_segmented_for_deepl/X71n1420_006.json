@@ -2550,7 +2550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "那一句[宋木+取]親切。",
+        "source_sentence": "那一句[宋-木+取]親切。",
         "from": "X71n1420_006:0575c22_29",
         "context_with_next_sentence": true
     },
@@ -3390,7 +3390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "窗中山喻。",
+        "source_sentence": "窻中山喻。",
         "from": "X71n1420_006:0576b14_4",
         "context_with_next_sentence": true
     },
@@ -5072,6 +5072,16 @@
     {
         "source_sentence": "佛日普照慧辯楚石禪師語錄卷第六",
         "from": "X71n1420_006:0577c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音切",
+        "from": "X71n1420_006:0577c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瓛(胡官切)　蹏(徒奚切)　爕(蘇恊切)　糲(力葛切)　螿(即長切)　畬(與居切)　泞(直與切)",
+        "from": "X71n1420_006:0577c05_0",
         "context_with_next_sentence": false
     }
 ]

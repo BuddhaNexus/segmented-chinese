@@ -7050,12 +7050,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "秦以道[契大+石]為僧正資侍中(立僧統眾始于此)　發明(立僧制眾始于秦。",
+        "source_sentence": "秦以道[契-大+石]為僧正資侍中(立僧統眾始于此)　發明(立僧制眾始于秦。",
         "from": "X86n1600_007:0121b21_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為僧受秩始于[契大+石]。",
+        "source_sentence": "為僧受秩始于[契-大+石]。",
         "from": "X86n1600_007:0121b22_1",
         "context_with_next_sentence": true
     },
@@ -8650,7 +8650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "學徒麇至。",
+        "source_sentence": "學徒麏至。",
         "from": "X86n1600_007:0123a07_9",
         "context_with_next_sentence": true
     },

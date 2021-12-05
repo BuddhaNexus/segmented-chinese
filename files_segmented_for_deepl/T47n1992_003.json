@@ -3680,7 +3680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "我有一條曲[彔*見]杖。",
+        "source_sentence": "我有一條曲䚄杖。",
         "from": "T47n1992_003:0622b28_0",
         "context_with_next_sentence": true
     },
@@ -3865,7 +3865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[敲高+瞿]開懵鈍頑癡。",
+        "source_sentence": "[敲-高+瞿]開懵鈍頑癡。",
         "from": "T47n1992_003:0622c13_17",
         "context_with_next_sentence": true
     },
@@ -4120,7 +4120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皴皴[皵日+月][皵日+月]身爆烈。",
+        "source_sentence": "皴皴[皵-日+月][皵-日+月]身爆烈。",
         "from": "T47n1992_003:0623a05_9",
         "context_with_next_sentence": true
     },
@@ -5950,7 +5950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時人廛肆去。",
+        "source_sentence": "時人&#;肆去。",
         "from": "T47n1992_003:0624c12_2",
         "context_with_next_sentence": true
     },
@@ -10417,6 +10417,11 @@
     {
         "source_sentence": "汾陽無德禪師歌頌卷下(終)",
         "from": "T47n1992_003:0629b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪師語錄舊版在汾州歲久多脫落南方亦少見者今勸眾緣重鏤版以廣流通建中靖國元年正月初五日比丘　守中題　　　　　　洪州開禪宗文字陳政　印行廬山圓通崇勝禪院住持傳法比丘圓璣校勘",
+        "from": "T47n1992_003:0629b29_0",
         "context_with_next_sentence": false
     }
 ]

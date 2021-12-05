@@ -450,7 +450,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "真佛[妳女+口]。",
+        "source_sentence": "真佛[妳-女+口]。",
         "from": "X64n1260_025:0201a18_3",
         "context_with_next_sentence": true
     },
@@ -595,7 +595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若無舉鼎拔山力。",
+        "source_sentence": "若無舉鼎㧞山力。",
         "from": "X64n1260_025:0201b04_20",
         "context_with_next_sentence": true
     },
@@ -2160,7 +2160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "氷稜上度過九[阿可+尻]。",
+        "source_sentence": "氷稜上度過九[阿-可+尻]。",
         "from": "X64n1260_025:0202c21_10",
         "context_with_next_sentence": true
     },
@@ -4685,7 +4685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "直得千歲巖中天[跳兆+孛]跳。",
+        "source_sentence": "直得千歲巖中天[跳-兆+孛]跳。",
         "from": "X64n1260_025:0205b10_6",
         "context_with_next_sentence": true
     },

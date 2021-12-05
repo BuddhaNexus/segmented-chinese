@@ -5330,7 +5330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　[拚ㄙ+ㄊ]身能捨命　　一盲引眾盲兜率三關兜率悅和尚。",
+        "source_sentence": "　[拚-ㄙ+ㄊ]身能捨命　　一盲引眾盲兜率三關兜率悅和尚。",
         "from": "T48n2005_001:0298c19_0",
         "context_with_next_sentence": true
     },
@@ -5460,7 +5460,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳。",
+        "source_sentence": "扇子[跳-兆+孛]跳。",
         "from": "T48n2005_001:0299a04_3",
         "context_with_next_sentence": true
     },
@@ -5702,6 +5702,556 @@
     {
         "source_sentence": "無門關卷終",
         "from": "T48n2005_001:0299a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪箴",
+        "from": "T48n2005_001:0299a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "循規守矩。",
+        "from": "T48n2005_001:0299a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無繩自縛。",
+        "from": "T48n2005_001:0299a29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縱橫無礙。",
+        "from": "T48n2005_001:0299a29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "外道魔軍。",
+        "from": "T48n2005_001:0299a29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "存心澄寂。",
+        "from": "T48n2005_001:0299a29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "默照邪禪。",
+        "from": "T48n2005_001:0299b01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "恣意忘緣。",
+        "from": "T48n2005_001:0299b01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "墮落深坑。",
+        "from": "T48n2005_001:0299b01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惺惺不昧。",
+        "from": "T48n2005_001:0299b01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帶鎖擔枷。",
+        "from": "T48n2005_001:0299b02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "思善思惡。",
+        "from": "T48n2005_001:0299b02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "地獄天堂。",
+        "from": "T48n2005_001:0299b02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛見法見。",
+        "from": "T48n2005_001:0299b02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二銕圍山。",
+        "from": "T48n2005_001:0299b03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "念起即覺。",
+        "from": "T48n2005_001:0299b03_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "弄精魂漢。",
+        "from": "T48n2005_001:0299b03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兀然習定。",
+        "from": "T48n2005_001:0299b03_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鬼家活計。",
+        "from": "T48n2005_001:0299b04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "進則迷理。",
+        "from": "T48n2005_001:0299b04_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "退則乖宗。",
+        "from": "T48n2005_001:0299b04_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不進不退。",
+        "from": "T48n2005_001:0299b04_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有氣死人。",
+        "from": "T48n2005_001:0299b05_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且道如何履踐。",
+        "from": "T48n2005_001:0299b05_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "努力今生須了却。",
+        "from": "T48n2005_001:0299b05_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫教永劫受餘殃。",
+        "from": "T48n2005_001:0299b06_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黃龍三關",
+        "from": "T48n2005_001:0299b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我手何似佛手。",
+        "from": "T48n2005_001:0299b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摸得枕頭背後。",
+        "from": "T48n2005_001:0299b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不覺大笑呵呵。",
+        "from": "T48n2005_001:0299b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元來通身是手。",
+        "from": "T48n2005_001:0299b09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我脚何似驢脚。",
+        "from": "T48n2005_001:0299b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未舉步時踏著。",
+        "from": "T48n2005_001:0299b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一任四海橫行。",
+        "from": "T48n2005_001:0299b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倒跨楊岐三脚。",
+        "from": "T48n2005_001:0299b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人人有箇生緣。",
+        "from": "T48n2005_001:0299b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各各透徹機先。",
+        "from": "T48n2005_001:0299b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "那吒折骨還父。",
+        "from": "T48n2005_001:0299b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五祖豈藉爺緣。",
+        "from": "T48n2005_001:0299b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛手驢脚生緣。",
+        "from": "T48n2005_001:0299b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非佛非道非禪。",
+        "from": "T48n2005_001:0299b14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫怪無門關險。",
+        "from": "T48n2005_001:0299b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "結盡衲子深冤。",
+        "from": "T48n2005_001:0299b15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　瑞巖近日有無門　　掇向繩床判古今　凡聖路頭俱截斷　　幾多蟠蟄起雷音請無門首座。",
+        "from": "T48n2005_001:0299b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "立僧山偈奉謝。",
+        "from": "T48n2005_001:0299b19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紹定庚寅季春無量(宗壽)書。",
+        "from": "T48n2005_001:0299b19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "達磨西來。",
+        "from": "T48n2005_001:0299b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不執文字。",
+        "from": "T48n2005_001:0299b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "直指人心。",
+        "from": "T48n2005_001:0299b21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見性成佛。",
+        "from": "T48n2005_001:0299b21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說箇直指。",
+        "from": "T48n2005_001:0299b21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已是迂曲。",
+        "from": "T48n2005_001:0299b22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更言成佛。",
+        "from": "T48n2005_001:0299b22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "郎當不少。",
+        "from": "T48n2005_001:0299b22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既是無門。",
+        "from": "T48n2005_001:0299b22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因甚有關。",
+        "from": "T48n2005_001:0299b23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "老婆心切惡聲流布。",
+        "from": "T48n2005_001:0299b23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無庵欲贅。",
+        "from": "T48n2005_001:0299b23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一語又成四十九則。",
+        "from": "T48n2005_001:0299b24_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其間些子誵訛。",
+        "from": "T48n2005_001:0299b24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剔起眉毛薦取。",
+        "from": "T48n2005_001:0299b24_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淳祐乙巳夏重刊。",
+        "from": "T48n2005_001:0299b25_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "檢校少保寧武軍節度使京湖安撫制置大使兼屯田大使兼蘷路策應大使兼知江陵府漢東郡開國公食邑二千一百戶食實封陸佰戶孟珙　跋無門老禪。",
+        "from": "T48n2005_001:0299b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作四十八則語。",
+        "from": "T48n2005_001:0299c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "判斷古德公案。",
+        "from": "T48n2005_001:0299c01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大似賣油餅。",
+        "from": "T48n2005_001:0299c01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人令買家開口接了更吞吐不得。",
+        "from": "T48n2005_001:0299c02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然雖如是。",
+        "from": "T48n2005_001:0299c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安晚欲就渠熱爐熬上。",
+        "from": "T48n2005_001:0299c03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "再打一枚足成大衍之數。",
+        "from": "T48n2005_001:0299c03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "却仍前送似。",
+        "from": "T48n2005_001:0299c04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未知。",
+        "from": "T48n2005_001:0299c04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "老師從何處下牙。",
+        "from": "T48n2005_001:0299c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如一口喫得。",
+        "from": "T48n2005_001:0299c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "放光動地。",
+        "from": "T48n2005_001:0299c05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若猶未。",
+        "from": "T48n2005_001:0299c05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "也連見在四十八箇。",
+        "from": "T48n2005_001:0299c06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "都成熱沙去。",
+        "from": "T48n2005_001:0299c06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "速道速道。",
+        "from": "T48n2005_001:0299c06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第四十九則語",
+        "from": "T48n2005_001:0299c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經云。",
+        "from": "T48n2005_001:0299c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "止止不須說我法妙難思。",
+        "from": "T48n2005_001:0299c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安晚曰。",
+        "from": "T48n2005_001:0299c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法從何來。",
+        "from": "T48n2005_001:0299c09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙從何有。",
+        "from": "T48n2005_001:0299c10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說時又作麼生。",
+        "from": "T48n2005_001:0299c10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈但豐干饒舌。",
+        "from": "T48n2005_001:0299c10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "元是釋迦多口。",
+        "from": "T48n2005_001:0299c11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "這老子造作妖怪。",
+        "from": "T48n2005_001:0299c11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令千百代兒孫被葛藤纏倒。",
+        "from": "T48n2005_001:0299c11_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未得頭出。",
+        "from": "T48n2005_001:0299c12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "似這般奇特話靶。",
+        "from": "T48n2005_001:0299c12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "匙挑不上。",
+        "from": "T48n2005_001:0299c13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "甑蒸不熟。",
+        "from": "T48n2005_001:0299c13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有多少錯認底。",
+        "from": "T48n2005_001:0299c13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "傍人問云。",
+        "from": "T48n2005_001:0299c13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "畢竟作如何結斷。",
+        "from": "T48n2005_001:0299c14_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安晚合十指爪曰。",
+        "from": "T48n2005_001:0299c14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "止止不須說我法妙難思。",
+        "from": "T48n2005_001:0299c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "却急去難思兩字上。",
+        "from": "T48n2005_001:0299c15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "打箇小圓相子。",
+        "from": "T48n2005_001:0299c16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "指示眾人。",
+        "from": "T48n2005_001:0299c16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大藏五千卷。",
+        "from": "T48n2005_001:0299c16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "維摩不二門。",
+        "from": "T48n2005_001:0299c16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "總在裏許。",
+        "from": "T48n2005_001:0299c17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰。",
+        "from": "T48n2005_001:0299c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　語火是燈　　掉頭弗譍　　惟賊識賊　一問即承淳祐丙午季夏初吉安晚居士書于西湖漁莊舊板磨滅故。",
+        "from": "T48n2005_001:0299c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "重命工鋟梓畢。",
+        "from": "T48n2005_001:0299c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "這板置于武藏州兜率山廣園禪寺也。",
+        "from": "T48n2005_001:0299c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應永乙酉十月十三日　幹緣比丘　常牧",
+        "from": "T48n2005_001:0299c25_0",
         "context_with_next_sentence": false
     }
 ]

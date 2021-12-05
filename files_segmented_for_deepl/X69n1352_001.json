@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 白雲禪錄",
+        "source_sentence": "白雲禪錄",
         "from": "X69n1352_001:0303c06_0",
         "context_with_next_sentence": true
     },
@@ -65,7 +65,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以超拔卓異之資。",
+        "source_sentence": "以超㧞卓異之資。",
         "from": "X69n1352_001:0303c11_12",
         "context_with_next_sentence": true
     },
@@ -2755,7 +2755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鋒刃上[跳兆+孛]跳。",
+        "source_sentence": "鋒刃上[跳-兆+孛]跳。",
         "from": "X69n1352_001:0306a08_2",
         "context_with_next_sentence": true
     },
@@ -8180,7 +8180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "相逢[牙(必心)+?]相賀。",
+        "source_sentence": "相逢[牙-(必-心)+?]相賀。",
         "from": "X69n1352_001:0310b06_1",
         "context_with_next_sentence": true
     },
@@ -10787,6 +10787,196 @@
     {
         "source_sentence": "白雲語錄卷一",
         "from": "X69n1352_001:0312b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "祖堂綱紀序",
+        "from": "X69n1352_001:0312b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾道盛於此土。",
+        "from": "X69n1352_001:0312b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初祖菩提達磨之綱焉。",
+        "from": "X69n1352_001:0312b19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剏立禪林之制。",
+        "from": "X69n1352_001:0312b19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "百丈大智之紀焉。",
+        "from": "X69n1352_001:0312b20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此實天下之共知。",
+        "from": "X69n1352_001:0312b20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而奈何天下祖堂中。",
+        "from": "X69n1352_001:0312b20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各以開山傳次者為其祖。",
+        "from": "X69n1352_001:0312b21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殊不思乃宗乃祖。",
+        "from": "X69n1352_001:0312b21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所傳所持之最者乎。",
+        "from": "X69n1352_001:0312b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗚呼教來五百年後。",
+        "from": "X69n1352_001:0312b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "達磨始來。",
+        "from": "X69n1352_001:0312b22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嚮之諸家之賢者。",
+        "from": "X69n1352_001:0312b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈不知性即乎聖。",
+        "from": "X69n1352_001:0312b23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何為竟自以性以聖之泥乎。",
+        "from": "X69n1352_001:0312b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃須少林之後。",
+        "from": "X69n1352_001:0312b24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶彈指頃。",
+        "from": "X69n1352_001:0312b24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不假文字。",
+        "from": "X69n1352_001:0312b24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "語默有無。",
+        "from": "X69n1352_001:0312b24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋然亡其所待。",
+        "from": "X69n1352_001:0312c01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而自得還其本。",
+        "from": "X69n1352_001:0312c01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又古之巖居穴處者。",
+        "from": "X69n1352_001:0312c01_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但以法為勝為味。",
+        "from": "X69n1352_001:0312c02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殊不慮。",
+        "from": "X69n1352_001:0312c02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今日其間者驕。",
+        "from": "X69n1352_001:0312c02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獨大智禪師慮之。",
+        "from": "X69n1352_001:0312c02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而廓以禪林之度。",
+        "from": "X69n1352_001:0312c03_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由是資之。",
+        "from": "X69n1352_001:0312c03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而少林之風。",
+        "from": "X69n1352_001:0312c03_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至今藹然於天下。",
+        "from": "X69n1352_001:0312c04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾欲天下祖堂中。",
+        "from": "X69n1352_001:0312c04_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以達磨大智正其位。",
+        "from": "X69n1352_001:0312c04_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以開山傳次者陪之。",
+        "from": "X69n1352_001:0312c05_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貴來者尊其始。",
+        "from": "X69n1352_001:0312c05_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而歸其大。",
+        "from": "X69n1352_001:0312c05_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈不然乎。",
+        "from": "X69n1352_001:0312c06_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "熈寧三年歲次庚戌。",
+        "from": "X69n1352_001:0312c06_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十月初一日立。",
+        "from": "X69n1352_001:0312c06_25",
         "context_with_next_sentence": false
     }
 ]

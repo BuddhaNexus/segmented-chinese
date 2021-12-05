@@ -265,7 +265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "聳身跪[跳兆+國]右膝著地。",
+        "source_sentence": "聳身跪[跳-兆+國]右膝著地。",
         "from": "T85n2855_001:1305a10_49",
         "context_with_next_sentence": true
     },
@@ -755,8 +755,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "願我及一切眾",
+        "source_sentence": "願我及一切眾生速達心本永滅罪根。",
         "from": "T85n2855_001:1305c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懺悔已歸命禮三寶。",
+        "from": "T85n2855_001:1305c13_3",
         "context_with_next_sentence": false
     }
 ]

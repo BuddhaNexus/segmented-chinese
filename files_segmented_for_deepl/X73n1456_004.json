@@ -3350,7 +3350,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "示妙光[糸八]禪人",
+        "source_sentence": "示妙光[糸-八]禪人",
         "from": "X73n1456_004:0485b10_0",
         "context_with_next_sentence": true
     },
@@ -5060,7 +5060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而難於求[糸八]。",
+        "source_sentence": "而難於求[糸-八]。",
         "from": "X73n1456_004:0487a03_0",
         "context_with_next_sentence": true
     },
@@ -5090,7 +5090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此之謂[糸八]通之士也。",
+        "source_sentence": "此之謂[糸-八]通之士也。",
         "from": "X73n1456_004:0487a04_6",
         "context_with_next_sentence": true
     },
@@ -5725,7 +5725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不必向外別求[糸八]妙。",
+        "source_sentence": "不必向外別求[糸-八]妙。",
         "from": "X73n1456_004:0487b23_11",
         "context_with_next_sentence": true
     },
@@ -7215,8 +7215,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "當",
+        "source_sentence": "當下一拶。",
         "from": "X73n1456_004:0488c21_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自然埽踪滅跡矣。",
+        "from": "X73n1456_004:0488c22_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "憨山老人夢遊集卷第四",
+        "from": "X73n1456_004:0488c22_39",
         "context_with_next_sentence": false
     }
 ]

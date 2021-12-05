@@ -2370,7 +2370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譯為物[打丁+費]子。",
+        "source_sentence": "譯為物[打-丁+費]子。",
         "from": "X44n0744_007:0455a10_4",
         "context_with_next_sentence": true
     },
@@ -3060,7 +3060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "尊者物[打丁+費]子。",
+        "source_sentence": "尊者物[打-丁+費]子。",
         "from": "X44n0744_007:0455b19_70",
         "context_with_next_sentence": true
     },
@@ -4185,7 +4185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "阿泥[打丁+聿]陀。",
+        "source_sentence": "阿泥[打-丁+聿]陀。",
         "from": "X44n0744_007:0456b16_3",
         "context_with_next_sentence": true
     },
@@ -8785,7 +8785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或作[起巳+并]。",
+        "source_sentence": "或作[起-巳+并]。",
         "from": "X44n0744_007:0460a05_0",
         "context_with_next_sentence": true
     },
@@ -10157,6 +10157,361 @@
     {
         "source_sentence": "四分律名義標釋卷第七",
         "from": "X44n0744_007:0461a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_007:0461a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沃壤上音屋。",
+        "from": "X44n0744_007:0461a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "肥也。",
+        "from": "X44n0744_007:0461a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音攘。",
+        "from": "X44n0744_007:0461a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "柔土無塊。",
+        "from": "X44n0744_007:0461a16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰壤。",
+        "from": "X44n0744_007:0461a16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "晃黃上聲。",
+        "from": "X44n0744_007:0461a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "光明也。",
+        "from": "X44n0744_007:0461a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "孱鋤連切。",
+        "from": "X44n0744_007:0461a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音潺。",
+        "from": "X44n0744_007:0461a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蟄沈入聲。",
+        "from": "X44n0744_007:0461a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "藏也。",
+        "from": "X44n0744_007:0461a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "髦音毛。",
+        "from": "X44n0744_007:0461a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毛中之俊髦也。",
+        "from": "X44n0744_007:0461a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "驃飄。",
+        "from": "X44n0744_007:0461a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "去聲。",
+        "from": "X44n0744_007:0461a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[打-丁+費]音費。",
+        "from": "X44n0744_007:0461a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "擊托也。",
+        "from": "X44n0744_007:0461a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毗沙門王北方多聞天王也。",
+        "from": "X44n0744_007:0461a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四無礙辯捷疾辯。",
+        "from": "X44n0744_007:0461a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣大辯。",
+        "from": "X44n0744_007:0461a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "甚深辯。",
+        "from": "X44n0744_007:0461a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無盡辯。",
+        "from": "X44n0744_007:0461a24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捺洛迦此云地獄。",
+        "from": "X44n0744_007:0461b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牝頻。",
+        "from": "X44n0744_007:0461b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上聲。",
+        "from": "X44n0744_007:0461b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "母畜也。",
+        "from": "X44n0744_007:0461b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "搜與搜同。",
+        "from": "X44n0744_007:0461b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[打-丁+聿]音祿。",
+        "from": "X44n0744_007:0461b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "肴饍上音爻。",
+        "from": "X44n0744_007:0461b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡非穀而食。",
+        "from": "X44n0744_007:0461b05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆謂之肴也。",
+        "from": "X44n0744_007:0461b05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "饍同膳。",
+        "from": "X44n0744_007:0461b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "美食也。",
+        "from": "X44n0744_007:0461b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黐音癡。",
+        "from": "X44n0744_007:0461b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黐膠所以黏鳥也。",
+        "from": "X44n0744_007:0461b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "甥音生。",
+        "from": "X44n0744_007:0461b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "姊妹之子。",
+        "from": "X44n0744_007:0461b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰甥。",
+        "from": "X44n0744_007:0461b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "媚音眉。",
+        "from": "X44n0744_007:0461b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悅也。",
+        "from": "X44n0744_007:0461b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又音妹。",
+        "from": "X44n0744_007:0461b09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嫵媚。",
+        "from": "X44n0744_007:0461b09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謟媚也。",
+        "from": "X44n0744_007:0461b09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吮前上聲。",
+        "from": "X44n0744_007:0461b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欶也。",
+        "from": "X44n0744_007:0461b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嶮巇上同險。",
+        "from": "X44n0744_007:0461b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音希。",
+        "from": "X44n0744_007:0461b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "山相對。",
+        "from": "X44n0744_007:0461b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而危險也。",
+        "from": "X44n0744_007:0461b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摺音懾。",
+        "from": "X44n0744_007:0461b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疊也。",
+        "from": "X44n0744_007:0461b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "霖音林。",
+        "from": "X44n0744_007:0461b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及時之雨也。",
+        "from": "X44n0744_007:0461b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　四分律名義標釋卷第八目錄",
+        "from": "X44n0744_007:0461b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同一水乳增戒心慧非法別眾",
+        "from": "X44n0744_007:0461b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非法和合眾法別眾法相似別眾",
+        "from": "X44n0744_007:0461b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法相似和合眾羈連",
+        "from": "X44n0744_007:0461b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿濕婆富那婆娑倡妓",
+        "from": "X44n0744_007:0461b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俳說鼓簧吹貝佯跛",
+        "from": "X44n0744_007:0461b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或嘯受雇迦尸國",
+        "from": "X44n0744_007:0461b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聚落聖主不受諫語",
+        "from": "X44n0744_007:0461b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "波羅提提舍尼惡說不定法",
+        "from": "X44n0744_007:0461c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "齋優婆私屏覆毗舍佉母",
+        "from": "X44n0744_007:0461c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "闚看三衣六羣比丘",
+        "from": "X44n0744_007:0461c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "畜長衣尼薩耆波逸提迦絺那衣",
+        "from": "X44n0744_007:0461c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明相不淨施憍賖耶衣",
+        "from": "X44n0744_007:0461c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "劫貝衣芻摩衣讖摩衣",
+        "from": "X44n0744_007:0461c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "扇那衣麻衣翅夷羅衣",
+        "from": "X44n0744_007:0461c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鳩夷羅衣讖羅半尼衣如來八指",
+        "from": "X44n0744_007:0461c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "波利迦羅衣",
+        "from": "X44n0744_007:0461c09_0",
         "context_with_next_sentence": false
     }
 ]

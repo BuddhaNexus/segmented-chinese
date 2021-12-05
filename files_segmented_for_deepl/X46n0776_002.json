@@ -1805,7 +1805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "後[襌(田/十)+(王*寸)]陀地([襌(田/十)+(王*寸)]持遇切。",
+        "source_sentence": "後[襌-(田/十)+(王*寸)]陀地([襌-(田/十)+(王*寸)]持遇切。",
         "from": "X46n0776_002:0180a12_35",
         "context_with_next_sentence": true
     },
@@ -1825,7 +1825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "後[襌(田/十)+(王*寸)]陀地以為其始。",
+        "source_sentence": "後[襌-(田/十)+(王*寸)]陀地以為其始。",
         "from": "X46n0776_002:0180a14_39",
         "context_with_next_sentence": true
     },
@@ -3035,7 +3035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於其尾末有一毛[葉世+玨](吹歲切)。",
+        "source_sentence": "於其尾末有一毛[葉-世+玨](吹歲切)。",
         "from": "X46n0776_002:0181b01_39",
         "context_with_next_sentence": true
     },

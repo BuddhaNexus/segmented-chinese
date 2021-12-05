@@ -330,7 +330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "焰花籌慮：『歡豫志性安隱仁和，未曾卒暴，今[打丁+(旋方)]吾急，終不忘也。",
+        "source_sentence": "焰花籌慮：『歡豫志性安隱仁和，未曾卒暴，今[打-丁+(旋-方)]吾急，終不忘也。",
         "from": "T12n0345_002:0162b11_6",
         "context_with_next_sentence": true
     },
@@ -715,7 +715,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "欲知如來皆以[打丁+彗]搣諸不善法。",
+        "source_sentence": "欲知如來皆以[打-丁+彗]搣諸不善法。",
         "from": "T12n0345_002:0163c01_5",
         "context_with_next_sentence": true
     },

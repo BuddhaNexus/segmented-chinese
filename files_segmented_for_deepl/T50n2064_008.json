@@ -2185,7 +2185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "言畢其鵲[銜金+缶]柴遷寓他樹。",
+        "source_sentence": "言畢其鵲[銜-金+缶]柴遷寓他樹。",
         "from": "T50n2064_008:1002b19_6",
         "context_with_next_sentence": true
     },
@@ -3640,7 +3640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其中山神廟晉絳之間傳其[月*(夸大+八)]蠁。",
+        "source_sentence": "其中山神廟晉絳之間傳其[月*(夸-大+八)]蠁。",
         "from": "T50n2064_008:1004a01_35",
         "context_with_next_sentence": true
     },
@@ -7125,7 +7125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乃索[示*呈]筆硯題數行於經藏北垣而去。",
+        "source_sentence": "乃索䄇筆硯題數行於經藏北垣而去。",
         "from": "T50n2064_008:1007b01_8",
         "context_with_next_sentence": true
     },

@@ -870,7 +870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "次復前行，見諸屠兒，[利禾+皮]剝畜生，削割枰賣。",
+        "source_sentence": "次復前行，見諸屠兒，[利-禾+皮]剝畜生，削割枰賣。",
         "from": "T04n0202_008:0405b22_27",
         "context_with_next_sentence": true
     },
@@ -2010,7 +2010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即時遣人，乘八千里象，告閻浮提一切人民：『摩訶闍迦樊，海中吉還，得如意珠，其德殊異，却後七日，當令其珠雨於一切珍寶衣食，隨人所須，自恣而取，皆各齋戒，儲[仁二+(亡/大)]以待。』",
+        "source_sentence": "即時遣人，乘八千里象，告閻浮提一切人民：『摩訶闍迦樊，海中吉還，得如意珠，其德殊異，却後七日，當令其珠雨於一切珍寶衣食，隨人所須，自恣而取，皆各齋戒，儲[仁-二+(亡/大)]以待。』",
         "from": "T04n0202_008:0409a16_19",
         "context_with_next_sentence": true
     },

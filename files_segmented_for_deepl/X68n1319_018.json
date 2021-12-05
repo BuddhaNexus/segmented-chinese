@@ -1785,7 +1785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大家一場懡[怡台+羅]。",
+        "source_sentence": "大家一場懡[怡-台+羅]。",
         "from": "X68n1319_018:0697c16_5",
         "context_with_next_sentence": true
     },
@@ -3800,7 +3800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳。",
+        "source_sentence": "[跳-兆+孛]跳。",
         "from": "X68n1319_018:0699c04_6",
         "context_with_next_sentence": true
     },
@@ -3815,7 +3815,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更[跳兆+孛]跳。",
+        "source_sentence": "更[跳-兆+孛]跳。",
         "from": "X68n1319_018:0699c04_9",
         "context_with_next_sentence": true
     },
@@ -3965,7 +3965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "你擬[跳兆+孛]跳。",
+        "source_sentence": "你擬[跳-兆+孛]跳。",
         "from": "X68n1319_018:0699c09_11",
         "context_with_next_sentence": true
     },
@@ -6130,7 +6130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任[跳兆+孛]跳。",
+        "source_sentence": "一任[跳-兆+孛]跳。",
         "from": "X68n1319_018:0701b02_19",
         "context_with_next_sentence": true
     },
@@ -7090,7 +7090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(○*○*○)/＝]二[一/一]三[┘*└][(┐@三)*(田/?)][水?+(曲曰+口)]。",
+        "source_sentence": "[(○*○*○)/＝]二[一/一]三[┘*└][(┐@三)*(田/?)][水-?+(曲-曰+口)]。",
         "from": "X68n1319_018:0701c17_2",
         "context_with_next_sentence": true
     },
@@ -9110,7 +9110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳入你鼻孔裏去也。",
+        "source_sentence": "[跳-兆+孛]跳入你鼻孔裏去也。",
         "from": "X68n1319_018:0703a18_18",
         "context_with_next_sentence": true
     },
@@ -9160,7 +9160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "手[據豕+旦]水月。",
+        "source_sentence": "手[據-豕+旦]水月。",
         "from": "X68n1319_018:0703a22_8",
         "context_with_next_sentence": true
     },
@@ -10450,7 +10450,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　師懡[怡台+羅]而歸。",
+        "source_sentence": "　師懡[怡-台+羅]而歸。",
         "from": "X68n1319_018:0704a21_8",
         "context_with_next_sentence": true
     },
@@ -13295,7 +13295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[吃乙+小]。",
+        "source_sentence": "&#;。",
         "from": "X68n1319_018:0706b01_10",
         "context_with_next_sentence": true
     },
@@ -14730,7 +14730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "旛竿頭上煎[飢几+追]子。",
+        "source_sentence": "旛竿頭上煎[飢-几+追]子。",
         "from": "X68n1319_018:0707b03_0",
         "context_with_next_sentence": true
     },
@@ -14930,7 +14930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳作麼。",
+        "source_sentence": "[跳-兆+孛]跳作麼。",
         "from": "X68n1319_018:0707b13_7",
         "context_with_next_sentence": true
     },
@@ -19660,7 +19660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[怡台+龍][怡台+龍]鬆鬆。",
+        "source_sentence": "[怡-台+龍][怡-台+龍]鬆鬆。",
         "from": "X68n1319_018:0710c10_24",
         "context_with_next_sentence": true
     },
@@ -27575,7 +27575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "猴愁擻[打丁+敕]頭。",
+        "source_sentence": "猴愁擻[打-丁+敕]頭。",
         "from": "X68n1319_018:0716b20_7",
         "context_with_next_sentence": true
     },
@@ -28005,7 +28005,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]而退。",
+        "source_sentence": "懡[怡-台+羅]而退。",
         "from": "X68n1319_018:0716c18_7",
         "context_with_next_sentence": true
     },
@@ -33035,7 +33035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　悟[((白日+田)/廾)*頁]面曰。",
+        "source_sentence": "　悟䫌面曰。",
         "from": "X68n1319_018:0720b18_6",
         "context_with_next_sentence": true
     },
@@ -35020,8 +35020,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如何是隨波逐",
+        "source_sentence": "如何是隨波逐浪句。",
         "from": "X68n1319_018:0722a04_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　師曰。",
+        "from": "X68n1319_018:0722a05_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有時入荒草。",
+        "from": "X68n1319_018:0722a05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有時上孤峰。",
+        "from": "X68n1319_018:0722a05_12",
         "context_with_next_sentence": false
     }
 ]

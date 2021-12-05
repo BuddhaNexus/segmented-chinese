@@ -770,7 +770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今古有誰知柄杷。",
+        "source_sentence": "今古有誰知柄&#;。",
         "from": "X65n1278_006:0086a05_2",
         "context_with_next_sentence": true
     },
@@ -1880,7 +1880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "觸著雖然能[跳兆+孛]跳。",
+        "source_sentence": "觸著雖然能[跳-兆+孛]跳。",
         "from": "X65n1278_006:0087c15_2",
         "context_with_next_sentence": true
     },
@@ -2765,7 +2765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "託缽",
+        "source_sentence": "託盋",
         "from": "X65n1278_006:0089a24_0",
         "context_with_next_sentence": true
     },

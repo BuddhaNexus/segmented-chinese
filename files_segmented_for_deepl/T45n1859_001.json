@@ -2645,7 +2645,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "世[口*(產文+(立一))]咸云下　第四非斥譏嫌也。",
+        "source_sentence": "世[口*(產-文+(立-一))]咸云下　第四非斥譏嫌也。",
         "from": "T45n1859_001:0163c13_0",
         "context_with_next_sentence": true
     },
@@ -10200,12 +10200,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+(旋方)]機電卷者。",
+        "source_sentence": "[打-丁+(旋-方)]機電卷者。",
         "from": "T45n1859_001:0170a18_5",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此[打丁+(旋方)]字多遂手邊作[旋方]。",
+        "source_sentence": "此[打-丁+(旋-方)]字多遂手邊作[旋-方]。",
         "from": "T45n1859_001:0170a18_6",
         "context_with_next_sentence": true
     },
@@ -10285,7 +10285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則[打丁+(旋方)]字合玉邊作睿也。",
+        "source_sentence": "則[打-丁+(旋-方)]字合玉邊作睿也。",
         "from": "T45n1859_001:0170a23_6",
         "context_with_next_sentence": true
     },
@@ -10310,7 +10310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二[打丁+(旋方)]。",
+        "source_sentence": "二[打-丁+(旋-方)]。",
         "from": "T45n1859_001:0170a25_2",
         "context_with_next_sentence": true
     },
@@ -10345,7 +10345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故但言[打丁+(旋方)]機二星耳。",
+        "source_sentence": "故但言[打-丁+(旋-方)]機二星耳。",
         "from": "T45n1859_001:0170a26_9",
         "context_with_next_sentence": true
     },
@@ -10370,7 +10370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "處[打丁+(旋方)]機而觀大運。",
+        "source_sentence": "處[打-丁+(旋-方)]機而觀大運。",
         "from": "T45n1859_001:0170a29_14",
         "context_with_next_sentence": true
     },
@@ -15227,6 +15227,176 @@
     {
         "source_sentence": "肇論疏卷上",
         "from": "T45n1859_001:0174b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大唐開元二十三年。",
+        "from": "T45n1859_001:0174b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歲在乙亥。",
+        "from": "T45n1859_001:0174b23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "閏十一月三十日。",
+        "from": "T45n1859_001:0174b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "楊州大都督府江都縣白塔寺僧玄湜。",
+        "from": "T45n1859_001:0174b24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勘校流傳日本國大乘大德法師。",
+        "from": "T45n1859_001:0174b25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　使人發促無暇寫。",
+        "from": "T45n1859_001:0174b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聊附草本。",
+        "from": "T45n1859_001:0174b26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多不如法。",
+        "from": "T45n1859_001:0174b26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　幸恕之。",
+        "from": "T45n1859_001:0174b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後叡師源師還更附好本耳。",
+        "from": "T45n1859_001:0174b27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　天平勝寶六年七月十九日寫竟。",
+        "from": "T45n1859_001:0174b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　　　　　　　信定篁文永二年七月十三日。",
+        "from": "T45n1859_001:0174b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於光明山東谷往生院。",
+        "from": "T45n1859_001:0174c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬奉書寫了。",
+        "from": "T45n1859_001:0174c02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願以書寫力。",
+        "from": "T45n1859_001:0174c02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自他開慧眼矣(同移點了)。",
+        "from": "T45n1859_001:0174c02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　三論宗　智舜(春秋六十七)永仁二年(甲午)十月十五日。",
+        "from": "T45n1859_001:0174c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於東大寺新禪院。",
+        "from": "T45n1859_001:0174c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以古本挍合之次。",
+        "from": "T45n1859_001:0174c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "任愚推加點畢。",
+        "from": "T45n1859_001:0174c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "魯魚之至。",
+        "from": "T45n1859_001:0174c06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "越度有多歟。",
+        "from": "T45n1859_001:0174c07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頗雖有其恐。",
+        "from": "T45n1859_001:0174c07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "粗鑿荒途。",
+        "from": "T45n1859_001:0174c07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後哲必加修治而已。",
+        "from": "T45n1859_001:0174c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "抑今古本。",
+        "from": "T45n1859_001:0174c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文字多不定也。",
+        "from": "T45n1859_001:0174c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "就中日本國大乘大德法師者。",
+        "from": "T45n1859_001:0174c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "指道慈律師耳。",
+        "from": "T45n1859_001:0174c10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　三論圓宗沙門　聖然正安二年(庚子)二月一日。",
+        "from": "T45n1859_001:0174c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於八幡宮法園寺。",
+        "from": "T45n1859_001:0174c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以先師上人第二傳點本。",
+        "from": "T45n1859_001:0174c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "重加挍點了。",
+        "from": "T45n1859_001:0174c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　　　沙門　然(悟習刃)",
+        "from": "T45n1859_001:0174c14_0",
         "context_with_next_sentence": false
     }
 ]

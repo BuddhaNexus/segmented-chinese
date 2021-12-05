@@ -3680,7 +3680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "退藏[橘矛+隹]李李氏庵。",
+        "source_sentence": "退藏[橘-矛+隹]李李氏庵。",
         "from": "X79n1559_017:0397c13_11",
         "context_with_next_sentence": true
     },
@@ -5402,6 +5402,16 @@
     {
         "source_sentence": "嘉泰普燈錄卷第十七",
         "from": "X79n1559_017:0399a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_017:0399a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　昕許斤切　[工*(老/目)]音耆　諶時壬切　浹即恊切　輻音福　頷尸感切　眨音劄　[(冰-水+斬)/耳]足止切　鏌音莫　鎁音耶　捺女點切　罩陟教切　璉力展切　涸曷各切　溢音逸　贇於倫切　翥章庶切　蹣謨官切　漕在到切　勛音熏　鯢音倪　爇儒劣切　歧音祁　拗於絞切　懵毋總切　懂行董　湊千候切　倜他力切　殽何交切　瞠抽庚切　餈才咨切　齁呼[仁-二+(亡/大)]切　顱音盧　[怡-台+建]居言切　欵音[示*(由/大)]　乃音藹　閩音民　鞔摸官切　啾即由切　刎音吻　薌音香　諲音因　誣音巫",
+        "from": "X79n1559_017:0399b01_0",
         "context_with_next_sentence": false
     }
 ]

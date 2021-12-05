@@ -20,7 +20,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 洞山三句　　謙本所附",
+        "source_sentence": "洞山三句　　謙本所附",
         "from": "X63n1236_003:0210b09_0",
         "context_with_next_sentence": true
     },
@@ -150,7 +150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦云一[蒺矢+生]。",
+        "source_sentence": "亦云一[蒺-矢+生]。",
         "from": "X63n1236_003:0210b17_4",
         "context_with_next_sentence": true
     },
@@ -210,7 +210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "道謂之[蒺矢+生]。",
+        "source_sentence": "道謂之[蒺-矢+生]。",
         "from": "X63n1236_003:0210b20_7",
         "context_with_next_sentence": true
     },
@@ -500,7 +500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "神識自然無罣礙。",
+        "source_sentence": "神識自然無&#;礙。",
         "from": "X63n1236_003:0210c16_0",
         "context_with_next_sentence": true
     },
@@ -925,7 +925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 寶鏡三昧玄義(新補舊無註要易說聽今夾岫師註)四明天童沙門　雲外雲岫　註如是之法。",
+        "source_sentence": "寶鏡三昧玄義(新補舊無註要易說聽今夾岫師註)四明天童沙門　雲外雲岫　註如是之法。",
         "from": "X63n1236_003:0211a22_0",
         "context_with_next_sentence": true
     },
@@ -2500,7 +2500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 汾陽昭廣智歌",
+        "source_sentence": "汾陽昭廣智歌",
         "from": "X63n1236_003:0212c18_0",
         "context_with_next_sentence": true
     },
@@ -2520,12 +2520,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 心聞賁曹洞宗派頌",
+        "source_sentence": "心聞賁曹洞宗派頌",
         "from": "X63n1236_003:0213a05_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 定齋閑閑居士曹洞贊(滏人。",
+        "source_sentence": "定齋閑閑居士曹洞贊(滏人。",
         "from": "X63n1236_003:0213a07_0",
         "context_with_next_sentence": true
     },
@@ -2945,7 +2945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 曹山本寂禪師三種墮四種異類",
+        "source_sentence": "曹山本寂禪師三種墮四種異類",
         "from": "X63n1236_003:0213b12_0",
         "context_with_next_sentence": true
     },
@@ -4995,8 +4995,178 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "重編曹洞五位卷下(終)",
+        "source_sentence": "重編曹洞五位卷下(終)(疑非全文乎)好玉無玷。",
         "from": "X63n1236_003:0215c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彫文喪德。",
+        "from": "X63n1236_003:0215c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予徘徊同州江府萬年山。",
+        "from": "X63n1236_003:0215c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請豐之僧林芳禪人秘顯訣。",
+        "from": "X63n1236_003:0215c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盥手拜寫而守持年於茲矣。",
+        "from": "X63n1236_003:0215c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於旦於莫雖好見此書。",
+        "from": "X63n1236_003:0215c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尚未能啖其理味空飢矣。",
+        "from": "X63n1236_003:0215c15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頃依同袍同衣示教欲鋟梓。",
+        "from": "X63n1236_003:0215c15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "止抑以此書我宗極致也。",
+        "from": "X63n1236_003:0215c16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "往古雖傳聽其號於叢林。",
+        "from": "X63n1236_003:0215c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又未見於茲書。",
+        "from": "X63n1236_003:0215c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夥惜哉。",
+        "from": "X63n1236_003:0215c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "習鑿齒曰。",
+        "from": "X63n1236_003:0215c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "粃糠在前者乎。",
+        "from": "X63n1236_003:0215c18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "將見鈔我朝種月禪師此書兩卷。",
+        "from": "X63n1236_003:0215c18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而雖抄錄彼師之鈔。",
+        "from": "X63n1236_003:0215c19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前後大略才存十一二矣。",
+        "from": "X63n1236_003:0215c19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疑月師所見非元晦然禪師之本乎。",
+        "from": "X63n1236_003:0215c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又月與然師時世如何。",
+        "from": "X63n1236_003:0215c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各可尋討也。",
+        "from": "X63n1236_003:0215c21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自恐今雖訓黠。",
+        "from": "X63n1236_003:0215c21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫胡暗短不能證文字。",
+        "from": "X63n1236_003:0215c21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倒或漏落誤而胡亂指點。",
+        "from": "X63n1236_003:0215c22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且一字一點不加私意可知。",
+        "from": "X63n1236_003:0215c22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乞洽聞作者高明達士勿訝少心。",
+        "from": "X63n1236_003:0215c23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現大膽。",
+        "from": "X63n1236_003:0215c23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "冀一一訂矣。",
+        "from": "X63n1236_003:0215c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今我所急務者。",
+        "from": "X63n1236_003:0215c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "只在此書弘通。",
+        "from": "X63n1236_003:0215c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若覧人不問或校合或點所不及而於世流通。",
+        "from": "X63n1236_003:0215c24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可謂百世洞曹。",
+        "from": "X63n1236_003:0216a01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "千萬世洞曹。",
+        "from": "X63n1236_003:0216a02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "祈禱祈禱。",
+        "from": "X63n1236_003:0216a02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "延寶八(庚申)天中秋明月後",
+        "from": "X63n1236_003:0216a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "武野葛西庄見性寺主　淵龍　污點",
+        "from": "X63n1236_003:0216a04_0",
         "context_with_next_sentence": false
     }
 ]

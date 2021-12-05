@@ -2790,7 +2790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[糸*丐]彼十八賢。",
+        "source_sentence": "&#;彼十八賢。",
         "from": "T51n2095_004:1045a09_4",
         "context_with_next_sentence": true
     },
@@ -4265,7 +4265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "石壇松古韻蕭[颱台+(癸天+虫)]。",
+        "source_sentence": "石壇松古韻蕭[颱-台+(癸-天+虫)]。",
         "from": "T51n2095_004:1046b25_5",
         "context_with_next_sentence": true
     },
@@ -4960,7 +4960,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "風默苔痕滿粉牆。",
+        "source_sentence": "風默苔㾗滿粉牆。",
         "from": "T51n2095_004:1047b13_7",
         "context_with_next_sentence": true
     },
@@ -4995,7 +4995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "香和沅[漠旲+(糸*韭)]清。",
+        "source_sentence": "香和沅[漠-旲+(糸*韭)]清。",
         "from": "T51n2095_004:1047b17_5",
         "context_with_next_sentence": true
     },
@@ -5040,7 +5040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[颱台+召]月寒濤響夜堂。",
+        "source_sentence": "[颱-台+召]月寒濤響夜堂。",
         "from": "T51n2095_004:1047b22_5",
         "context_with_next_sentence": true
     },
@@ -5342,6 +5342,11 @@
     {
         "source_sentence": "廬山記卷第四",
         "from": "T51n2095_004:1047c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一校了於字莫改",
+        "from": "T51n2095_004:1047c27_0",
         "context_with_next_sentence": false
     }
 ]

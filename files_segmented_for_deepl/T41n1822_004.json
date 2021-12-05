@@ -4640,7 +4640,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "正理論云[夢夕+登]瞢不樂等所生心重性說名惛沈。",
+        "source_sentence": "正理論云[夢-夕+登]瞢不樂等所生心重性說名惛沈。",
         "from": "T41n1822_004:0529c27_5",
         "context_with_next_sentence": true
     },
@@ -14227,6 +14227,21 @@
     {
         "source_sentence": "俱舍論疏卷第四",
         "from": "T41n1822_004:0540c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "保延三年十月二日朝南新屋點了",
+        "from": "T41n1822_004:0540c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "角　樹",
+        "from": "T41n1822_004:0540c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以黃薗古本一交了教俊　一交了",
+        "from": "T41n1822_004:0540c28_0",
         "context_with_next_sentence": false
     }
 ]

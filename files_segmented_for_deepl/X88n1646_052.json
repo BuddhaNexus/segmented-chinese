@@ -3505,8 +3505,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "臨濟德山",
+        "source_sentence": "臨濟德山何有哉。",
         "from": "X88n1646_052:0286a23_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大慧高峯何有哉。",
+        "from": "X88n1646_052:0286a24_13",
         "context_with_next_sentence": false
     }
 ]

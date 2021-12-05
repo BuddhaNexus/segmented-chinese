@@ -5485,7 +5485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於是設供食具大[飢几+追]薄餅。",
+        "source_sentence": "於是設供食具大[飢-几+追]薄餅。",
         "from": "T50n2064_004:0974b05_14",
         "context_with_next_sentence": true
     },
@@ -5560,7 +5560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "梁人入魏果見[飢几+追]餅焉。",
+        "source_sentence": "梁人入魏果見[飢-几+追]餅焉。",
         "from": "T50n2064_004:0974b11_0",
         "context_with_next_sentence": true
     },
@@ -7380,7 +7380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[銜金+缶]至師前。",
+        "source_sentence": "[銜-金+缶]至師前。",
         "from": "T50n2064_004:0976a25_0",
         "context_with_next_sentence": true
     },

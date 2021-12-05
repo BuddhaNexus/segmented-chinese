@@ -520,7 +520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "牛羊雞豚酒腩[月*(癸天+示)]腏。",
+        "source_sentence": "牛羊雞豚酒腩[月*(癸-天+示)]腏。",
         "from": "T85n2868_001:1329a09_0",
         "context_with_next_sentence": true
     },

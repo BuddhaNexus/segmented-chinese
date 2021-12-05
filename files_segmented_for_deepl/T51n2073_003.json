@@ -1430,7 +1430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "初投于靈裕法師。",
+        "source_sentence": "初投于靈&#;法師。",
         "from": "T51n2073_003:0162c25_7",
         "context_with_next_sentence": true
     },
@@ -2740,7 +2740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蓋[葸十+夕]河之左。",
+        "source_sentence": "蓋[葸-十+夕]河之左。",
         "from": "T51n2073_003:0163c23_4",
         "context_with_next_sentence": true
     },
@@ -3505,7 +3505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "豈與夫馬皇讚易[利禾+登]后通詩。",
+        "source_sentence": "豈與夫馬皇讚易[利-禾+登]后通詩。",
         "from": "T51n2073_003:0164b13_0",
         "context_with_next_sentence": true
     },
@@ -3622,6 +3622,191 @@
     {
         "source_sentence": "華嚴經傳記卷第三",
         "from": "T51n2073_003:0164c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文永十二年(乙亥)正月中旬之候。",
+        "from": "T51n2073_003:0164c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為聽聞五教章三十講。",
+        "from": "T51n2073_003:0164c13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "暫栖息栂尾高山寺之處。",
+        "from": "T51n2073_003:0164c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自彼寺住侶惠日房辨清之手。",
+        "from": "T51n2073_003:0164c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "借得華嚴經五卷。",
+        "from": "T51n2073_003:0164c15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "點本之間。",
+        "from": "T51n2073_003:0164c16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喜悅銘肝之餘。",
+        "from": "T51n2073_003:0164c16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下向南都之後。",
+        "from": "T51n2073_003:0164c16_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誂能書之輩令書寫。",
+        "from": "T51n2073_003:0164c17_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此傳之內。",
+        "from": "T51n2073_003:0164c17_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當卷者。",
+        "from": "T51n2073_003:0164c17_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "表誂中川淨覺房朝酉。",
+        "from": "T51n2073_003:0164c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "裏誂春日山麓四恩院願忍房覺玄。",
+        "from": "T51n2073_003:0164c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令書寫之。",
+        "from": "T51n2073_003:0164c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼院家院主如圓房朝海令付假名并指姓畢。",
+        "from": "T51n2073_003:0164c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此假名姓裏書者。",
+        "from": "T51n2073_003:0164c20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "土御門大納言入道顯定卿之所記錄也。",
+        "from": "T51n2073_003:0164c21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即以彼禪門自筆之點本寫之。",
+        "from": "T51n2073_003:0164c22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可為無雙之證本也而已。",
+        "from": "T51n2073_003:0164c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "建治元年(乙亥)六月一日(末時)於東大寺尊勝院新彌勒堂。",
+        "from": "T51n2073_003:0164c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令寫本等奉讀之畢。",
+        "from": "T51n2073_003:0164c25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前權僧正宗性。",
+        "from": "T51n2073_003:0164c25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聽眾。",
+        "from": "T51n2073_003:0164c26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "良曉得業。",
+        "from": "T51n2073_003:0164c26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慶實法師。",
+        "from": "T51n2073_003:0164c26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "談義之後。",
+        "from": "T51n2073_003:0164c26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即於當院家新學問所。",
+        "from": "T51n2073_003:0164c27_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為後覽記之。",
+        "from": "T51n2073_003:0164c27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右筆華嚴宗末葉半僧宗性。",
+        "from": "T51n2073_003:0164c27_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "年齡七十四。",
+        "from": "T51n2073_003:0164c28_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夏臘六十二。",
+        "from": "T51n2073_003:0164c28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "抑此料紙者。",
+        "from": "T51n2073_003:0165a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "去文永三年之曆暮秋九月之候。",
+        "from": "T51n2073_003:0165a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後嵯峨天皇所降賜也。",
+        "from": "T51n2073_003:0165a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不慮之朝恩面目頓餘身之間。",
+        "from": "T51n2073_003:0165a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "漸漸取出之。",
+        "from": "T51n2073_003:0165a03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以寫如此之要書耳。",
+        "from": "T51n2073_003:0165a03_5",
         "context_with_next_sentence": false
     }
 ]

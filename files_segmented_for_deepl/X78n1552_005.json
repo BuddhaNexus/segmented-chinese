@@ -995,7 +995,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "且說十[糸八]以暢寫花嚴之神明。",
+        "source_sentence": "且說十[糸-八]以暢寫花嚴之神明。",
         "from": "X78n1552_005:0414c07_9",
         "context_with_next_sentence": true
     },
@@ -2645,7 +2645,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而清迥拔俗。",
+        "source_sentence": "而清迥㧞俗。",
         "from": "X78n1552_005:0416a23_11",
         "context_with_next_sentence": true
     },

@@ -610,7 +610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今示二梵之形多[虱(乏之+虫)+ㄠ]囉[虱(乏之+虫)+工]。",
+        "source_sentence": "今示二梵之形多[虱-(乏-之+虫)+ㄠ]囉[虱-(乏-之+虫)+工]。",
         "from": "T36n1736_089:0688b28_94",
         "context_with_next_sentence": true
     },

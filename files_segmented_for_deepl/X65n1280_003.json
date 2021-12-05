@@ -115,7 +115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "同學佛陀[跳兆+友]陀小乘禪觀。",
+        "source_sentence": "同學佛陀[跳-兆+友]陀小乘禪觀。",
         "from": "X65n1280_003:0128c13_20",
         "context_with_next_sentence": true
     },

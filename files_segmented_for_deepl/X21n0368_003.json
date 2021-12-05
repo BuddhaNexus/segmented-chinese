@@ -12590,7 +12590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不能[這言+至]住。",
+        "source_sentence": "不能[這-言+至]住。",
         "from": "X21n0368_003:0151b03_4",
         "context_with_next_sentence": true
     },
@@ -15625,7 +15625,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此所[這言+至]時。",
+        "source_sentence": "此所[這-言+至]時。",
         "from": "X21n0368_003:0153c09_36",
         "context_with_next_sentence": true
     },

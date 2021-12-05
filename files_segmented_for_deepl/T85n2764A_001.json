@@ -6320,7 +6320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二人[仁二+助]來常行捨行。",
+        "source_sentence": "二人[仁-二+助]來常行捨行。",
         "from": "T85n2764A_001:0288c11_27",
         "context_with_next_sentence": true
     },
@@ -8605,7 +8605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "第五噵世王害父以來畏堅地獄種種布施[泳永+(炙火+立)]得勉之。",
+        "source_sentence": "第五噵世王害父以來畏堅地獄種種布施[泳-永+(炙-火+立)]得勉之。",
         "from": "T85n2764A_001:0291c16_6",
         "context_with_next_sentence": true
     },
@@ -10330,7 +10330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大王如來",
+        "source_sentence": "大王如來常施諸病者醫藥。",
         "from": "T85n2764A_001:0294a08_15",
         "context_with_next_sentence": false
     }

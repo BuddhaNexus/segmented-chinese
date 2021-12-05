@@ -515,7 +515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "頭戴赤色呾魔[怡台+甲][怡台+盧]神帽。",
+        "source_sentence": "頭戴赤色呾魔[怡-台+甲][怡-台+盧]神帽。",
         "from": "T21n1331_007:0515b29_13",
         "context_with_next_sentence": true
     },
@@ -1550,7 +1550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以蘇油餅果而施與之。",
+        "source_sentence": "以蘇油䴵果而施與之。",
         "from": "T21n1331_007:0517a18_38",
         "context_with_next_sentence": true
     },

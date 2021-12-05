@@ -2085,12 +2085,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "可[嗹車+庚]嗍名噉。",
+        "source_sentence": "可[嗹-車+庚]嗍名噉。",
         "from": "T43n1829_008:0111b10_6",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不可[嗹車+庚]嗍名甞。",
+        "source_sentence": "不可[嗹-車+庚]嗍名甞。",
         "from": "T43n1829_008:0111b11_7",
         "context_with_next_sentence": true
     },
@@ -9697,6 +9697,11 @@
     {
         "source_sentence": "瑜伽師地論略纂卷第八",
         "from": "T43n1829_008:0119b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "旹享保八年(癸卯)五月十四日一交加點畢沙門高範(六十九)",
+        "from": "T43n1829_008:0119b19_0",
         "context_with_next_sentence": false
     }
 ]

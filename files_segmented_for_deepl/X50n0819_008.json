@@ -905,7 +905,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若言有則言遍悅[适古+畜]逈。",
+        "source_sentence": "若言有則言遍悅[适-古+畜]逈。",
         "from": "X50n0819_008:0279c14_16",
         "context_with_next_sentence": true
     },
@@ -8185,7 +8185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "等流色[宋木+取]究前四無記者。",
+        "source_sentence": "等流色[宋-木+取]究前四無記者。",
         "from": "X50n0819_008:0287a17_19",
         "context_with_next_sentence": true
     },

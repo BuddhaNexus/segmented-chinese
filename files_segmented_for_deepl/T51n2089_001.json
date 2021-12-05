@@ -1295,7 +1295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "稻[聲耳+示]全少。",
+        "source_sentence": "稻[聲-耳+示]全少。",
         "from": "T51n2089_001:0976a29_5",
         "context_with_next_sentence": true
     },
@@ -2665,7 +2665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "因茲國境突厥霸王此國已北。",
+        "source_sentence": "因茲國境突厥覇王此國已北。",
         "from": "T51n2089_001:0977b10_2",
         "context_with_next_sentence": true
     },
@@ -2685,7 +2685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "衣是皮[毯炎+皮][疊*毛]衫靴袴之類土地宜大麥小麥。",
+        "source_sentence": "衣是皮[毯-炎+皮][疊*毛]衫靴袴之類土地宜大麥小麥。",
         "from": "T51n2089_001:0977b12_6",
         "context_with_next_sentence": true
     },
@@ -3285,7 +3285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "恰似火燒山也　又從此罽賓國西行至七日謝[颱台+日]國。",
+        "source_sentence": "恰似火燒山也　又從此罽賓國西行至七日謝[颱-台+日]國。",
         "from": "T51n2089_001:0978a02_11",
         "context_with_next_sentence": true
     },
@@ -3395,7 +3395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "言音各別　又從謝[颱台+日]國。",
+        "source_sentence": "言音各別　又從謝[颱-台+日]國。",
         "from": "T51n2089_001:0978a10_0",
         "context_with_next_sentence": true
     },
@@ -3475,7 +3475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此國及謝[颱台+日]等。",
+        "source_sentence": "此國及謝[颱-台+日]等。",
         "from": "T51n2089_001:0978a15_16",
         "context_with_next_sentence": true
     },
@@ -3840,7 +3840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "土地出駝騾羊馬疊布毛[毯炎+(夗/木)]。",
+        "source_sentence": "土地出駝騾羊馬疊布毛[毯-炎+(夗/木)]。",
         "from": "T51n2089_001:0978b11_2",
         "context_with_next_sentence": true
     },
@@ -4130,7 +4130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謝[颱台+日]國等。",
+        "source_sentence": "謝[颱-台+日]國等。",
         "from": "T51n2089_001:0978c02_25",
         "context_with_next_sentence": true
     },
@@ -4560,7 +4560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "食唯餅[飢几+少]土地極寒。",
+        "source_sentence": "食唯餅[飢-几+少]土地極寒。",
         "from": "T51n2089_001:0979a04_41",
         "context_with_next_sentence": true
     },
@@ -6765,7 +6765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "凌霜[曰/月]雪經四十年。",
+        "source_sentence": "凌霜冐雪經四十年。",
         "from": "T51n2089_001:0981b13_22",
         "context_with_next_sentence": true
     },
@@ -7775,7 +7775,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "斗下[曰/月]雨。",
+        "source_sentence": "斗下冐雨。",
         "from": "T51n2089_001:0982b14_3",
         "context_with_next_sentence": true
     },
@@ -11675,7 +11675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "帚柄雜寶裝飾。",
+        "source_sentence": "箒柄雜寶裝飾。",
         "from": "T51n2089_001:0986a11_18",
         "context_with_next_sentence": true
     },
@@ -13125,7 +13125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[曰/月]險經遠。",
+        "source_sentence": "冐險經遠。",
         "from": "T51n2089_001:0987b01_26",
         "context_with_next_sentence": true
     },
@@ -13300,7 +13300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "未[跳兆+鬲]日域之境。",
+        "source_sentence": "未[跳-兆+鬲]日域之境。",
         "from": "T51n2089_001:0987b12_8",
         "context_with_next_sentence": true
     },
@@ -13370,7 +13370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "軼燕王擁帚於郭隗。",
+        "source_sentence": "軼燕王擁箒於郭隗。",
         "from": "T51n2089_001:0987b17_22",
         "context_with_next_sentence": true
     },
@@ -13465,7 +13465,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "未有[葸十+夕]右梵英。",
+        "source_sentence": "未有[葸-十+夕]右梵英。",
         "from": "T51n2089_001:0987b23_2",
         "context_with_next_sentence": true
     },
@@ -17395,7 +17395,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "樹似[枳口+宜]楂畢鉢草子同。",
+        "source_sentence": "樹似[枳-口+宜]楂畢鉢草子同。",
         "from": "T51n2089_001:0991b02_17",
         "context_with_next_sentence": true
     },
@@ -20590,7 +20590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　法苑珠林卷第四（大正五三  ）",
+        "source_sentence": "　法苑珠林卷第四（大正五三.）",
         "from": "T51n2089_001:0995a28_0",
         "context_with_next_sentence": true
     },
@@ -20600,7 +20600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　法苑珠林卷第八（大正五三  ）",
+        "source_sentence": "　法苑珠林卷第八（大正五三.）",
         "from": "T51n2089_001:0995b01_0",
         "context_with_next_sentence": true
     },
@@ -20610,7 +20610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　法苑珠林卷第十六（大正五三  ）",
+        "source_sentence": "　法苑珠林卷第十六（大正五三.）",
         "from": "T51n2089_001:0995b03_0",
         "context_with_next_sentence": true
     },
@@ -20625,7 +20625,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　法苑珠林卷第二十九（大正五三  ）",
+        "source_sentence": "　法苑珠林卷第二十九（大正五三.）",
         "from": "T51n2089_001:0995b06_0",
         "context_with_next_sentence": true
     },
@@ -20635,7 +20635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　法苑珠林卷第二十九（大正五三  ）",
+        "source_sentence": "　法苑珠林卷第二十九（大正五三.）",
         "from": "T51n2089_001:0995b08_0",
         "context_with_next_sentence": true
     },
@@ -20645,7 +20645,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　法苑珠林卷第二十九（大正五三  ）",
+        "source_sentence": "　法苑珠林卷第二十九（大正五三.）",
         "from": "T51n2089_001:0995b10_0",
         "context_with_next_sentence": true
     },
@@ -20655,7 +20655,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　法苑珠林卷第二十九（大正五三  ）",
+        "source_sentence": "　法苑珠林卷第二十九（大正五三.）",
         "from": "T51n2089_001:0995b12_0",
         "context_with_next_sentence": true
     },
@@ -20665,7 +20665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　法苑珠林卷第二十九（大正五三  ）",
+        "source_sentence": "　法苑珠林卷第二十九（大正五三.）",
         "from": "T51n2089_001:0995b14_0",
         "context_with_next_sentence": true
     },
@@ -20675,7 +20675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　法苑珠林卷第六十四（大正五三  ）",
+        "source_sentence": "　法苑珠林卷第六十四（大正五三.）",
         "from": "T51n2089_001:0995b16_0",
         "context_with_next_sentence": true
     },
@@ -20685,7 +20685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　法苑珠林卷第九十一（大正五三  ）",
+        "source_sentence": "　法苑珠林卷第九十一（大正五三.）",
         "from": "T51n2089_001:0995b18_0",
         "context_with_next_sentence": true
     },
@@ -20695,7 +20695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　法苑珠林卷第九十一（大正五三  ）",
+        "source_sentence": "　法苑珠林卷第九十一（大正五三.）",
         "from": "T51n2089_001:0995b20_0",
         "context_with_next_sentence": true
     },
@@ -20705,12 +20705,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　法苑珠林卷第九十八（大正五三  ）",
+        "source_sentence": "　法苑珠林卷第九十八（大正五三.）",
         "from": "T51n2089_001:0995b22_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一三摩伽陀國菩提寺大德僧賒那去線陀算出佛般涅槃時事　法苑珠林卷第百（大正五三  ）一四瞻波國修羅窟事　法苑珠林卷第五（大正五三  ）一五佛袈裟事(娑羅雙樹林釋迦佛素像事耆闍崛山佛袈裟石事)　法苑珠林卷第三十五（大正五三  ）一六西域所見之塔事(罽賓國漢寺事。",
+        "source_sentence": "一三摩伽陀國菩提寺大德僧賒那去線陀算出佛般涅槃時事　法苑珠林卷第百（大正五三.）一四瞻波國修羅窟事　法苑珠林卷第五（大正五三.）一五佛袈裟事(娑羅雙樹林釋迦佛素像事耆闍崛山佛袈裟石事)　法苑珠林卷第三十五（大正五三.）一六西域所見之塔事(罽賓國漢寺事。",
         "from": "T51n2089_001:0995b23_0",
         "context_with_next_sentence": true
     },
@@ -20725,12 +20725,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "西域乾陀羅城東南雀離浮圖事)　法苑珠林卷第三十八（大正五三  ）一七烏萇國檀特山寺事　法苑珠林卷第三十九（大正五三  ）一八王玄策使至西域前後三度事五三　法苑珠林卷第五十五（大正五三  ）唐常愍遊天竺記逸文(遊天竺記又名遊歷記其文載在三寶感應要略錄今唯略示所在)。",
+        "source_sentence": "西域乾陀羅城東南雀離浮圖事)　法苑珠林卷第三十八（大正五三.）一七烏萇國檀特山寺事　法苑珠林卷第三十九（大正五三.）一八王玄策使至西域前後三度事五三　法苑珠林卷第五十五（大正五三.）唐常愍遊天竺記逸文(遊天竺記又名遊歷記其文載在三寶感應要略錄今唯略示所在)。",
         "from": "T51n2089_001:0995c04_3",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一　第一優填王波斯匿王釋迦金木像感應　三寶感應要略錄卷上（大正五一  ）二　第十北印度僧伽補羅國沙門達磨流支　　感釋迦像驚感應　三寶感應要略錄卷上（大正五一  ）三　第二十九造毘盧遮那佛像拂障難感應",
+        "source_sentence": "一　第一優填王波斯匿王釋迦金木像感應　三寶感應要略錄卷上（大正五一.）二　第十北印度僧伽補羅國沙門達磨流支　　感釋迦像驚感應　三寶感應要略錄卷上（大正五一.）三　第二十九造毘盧遮那佛像拂障難感應　三寶感應要略錄卷上（大正五一.）",
         "from": "T51n2089_001:0995c17_0",
         "context_with_next_sentence": false
     }

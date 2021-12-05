@@ -885,7 +885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]徒然笑一場。",
+        "source_sentence": "懡[怡-台+羅]徒然笑一場。",
         "from": "X65n1295_030:0660a12_3",
         "context_with_next_sentence": true
     },
@@ -1605,7 +1605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大地茫茫一任[跳兆+孛]跳。",
+        "source_sentence": "大地茫茫一任[跳-兆+孛]跳。",
         "from": "X65n1295_030:0660c16_7",
         "context_with_next_sentence": true
     },
@@ -4040,7 +4040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "X65n1295_030:0663b09_7",
         "context_with_next_sentence": true
     },

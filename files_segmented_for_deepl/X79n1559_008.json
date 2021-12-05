@@ -900,7 +900,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "太平淈[泳永+盾]漢。",
+        "source_sentence": "太平淈[泳-永+盾]漢。",
         "from": "X79n1559_008:0336b18_5",
         "context_with_next_sentence": true
     },
@@ -925,7 +925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "好箇淈[泳永+盾]漢。",
+        "source_sentence": "好箇淈[泳-永+盾]漢。",
         "from": "X79n1559_008:0336b19_10",
         "context_with_next_sentence": true
     },
@@ -6940,7 +6940,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一場摩[怡台+羅]。",
+        "source_sentence": "一場摩[怡-台+羅]。",
         "from": "X79n1559_008:0340c04_20",
         "context_with_next_sentence": true
     },
@@ -7997,6 +7997,16 @@
     {
         "source_sentence": "嘉泰普燈錄卷第八",
         "from": "X79n1559_008:0341b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_008:0341b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　疏音疎　潸音刪　愕五各切　胎與之切　淈下沒切　腯音突　兕徐姉切　纛(音毒又音導)　穠音農　酋自秋切　砑音訝　殂昨胡切",
+        "from": "X79n1559_008:0341b22_0",
         "context_with_next_sentence": false
     }
 ]

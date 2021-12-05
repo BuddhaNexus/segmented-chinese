@@ -1345,7 +1345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "婢疋[這言+宗]切。",
+        "source_sentence": "婢疋[這-言+宗]切。",
         "from": "X21n0394_002:0935b09_9",
         "context_with_next_sentence": true
     },
@@ -8235,7 +8235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "恐[((冰水+臨)品+口)/皿]總園。",
+        "source_sentence": "恐[((冰-水+臨)-品+口)/皿]總園。",
         "from": "X21n0394_002:0940b22_2",
         "context_with_next_sentence": true
     },
@@ -22815,7 +22815,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "云何空觀斗[打丁+梁]等耶。",
+        "source_sentence": "云何空觀斗[打-丁+梁]等耶。",
         "from": "X21n0394_002:0951a22_4",
         "context_with_next_sentence": true
     },

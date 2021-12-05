@@ -825,7 +825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蝦蟇[跳兆+孛]跳上天。",
+        "source_sentence": "蝦蟇[跳-兆+孛]跳上天。",
         "from": "X71n1412_004:0245b12_4",
         "context_with_next_sentence": true
     },
@@ -1725,7 +1725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不假[栽木+土]培。",
+        "source_sentence": "不假[栽-木+土]培。",
         "from": "X71n1412_004:0246a18_21",
         "context_with_next_sentence": true
     },
@@ -10660,7 +10660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "首謁真如哲和尚。",
+        "source_sentence": "首謁真如喆和尚。",
         "from": "X71n1412_004:0253a11_8",
         "context_with_next_sentence": true
     },
@@ -10670,7 +10670,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "哲云。",
+        "source_sentence": "喆云。",
         "from": "X71n1412_004:0253a12_10",
         "context_with_next_sentence": true
     },
@@ -10710,7 +10710,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "昨日[栽木+土]茄子。",
+        "source_sentence": "昨日[栽-木+土]茄子。",
         "from": "X71n1412_004:0253a14_18",
         "context_with_next_sentence": true
     },
@@ -10735,12 +10735,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即以告哲。",
+        "source_sentence": "即以告喆。",
         "from": "X71n1412_004:0253a15_23",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "哲詰之。",
+        "source_sentence": "喆詰之。",
         "from": "X71n1412_004:0253a15_24",
         "context_with_next_sentence": true
     },
@@ -10760,7 +10760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "哲頷之。",
+        "source_sentence": "喆頷之。",
         "from": "X71n1412_004:0253a16_3",
         "context_with_next_sentence": true
     },
@@ -12705,7 +12705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]却十年五年。",
+        "source_sentence": "[拚-ㄙ+ㄊ]却十年五年。",
         "from": "X71n1412_004:0254c01_1",
         "context_with_next_sentence": true
     },

@@ -2340,7 +2340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦確乎不可拔之謂也。",
+        "source_sentence": "亦確乎不可㧞之謂也。",
         "from": "X58n1033_001:0775c22_1",
         "context_with_next_sentence": true
     },
@@ -8510,7 +8510,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "舟行至[邱丘+共]亭湖。",
+        "source_sentence": "舟行至[邱-丘+共]亭湖。",
         "from": "X58n1033_001:0780b22_0",
         "context_with_next_sentence": true
     },
@@ -13435,7 +13435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三[火/(〦一+又)]摩天。",
+        "source_sentence": "三[火/(〦-一+又)]摩天。",
         "from": "X58n1033_001:0784a21_13",
         "context_with_next_sentence": true
     },

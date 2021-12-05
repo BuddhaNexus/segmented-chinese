@@ -95,7 +95,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "魏尚書令儀同高公[這言+正]國上賓瞿曇流支。",
+        "source_sentence": "魏尚書令儀同高公[這-言+正]國上賓瞿曇流支。",
         "from": "T30n1565_001:0039c12_17",
         "context_with_next_sentence": true
     },
@@ -6477,6 +6477,11 @@
     {
         "source_sentence": "戲論則斷。",
         "from": "T30n1565_001:0044c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "順中論義入大般若波羅蜜經初品法門卷上",
+        "from": "T30n1565_001:0044c13_0",
         "context_with_next_sentence": false
     }
 ]

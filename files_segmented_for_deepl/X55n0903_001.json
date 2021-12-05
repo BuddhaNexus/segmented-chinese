@@ -155,7 +155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦不左右[(厂@((既旡)日+口))*頁]視。",
+        "source_sentence": "亦不左右[(厂@((既-旡)-日+口))*頁]視。",
         "from": "X55n0903_001:0496b06_21",
         "context_with_next_sentence": true
     },
@@ -5820,7 +5820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "內有肌肉筋骨髓[腦月+骨]血脉屎尿肝膽膓胃虫疽膿血。",
+        "source_sentence": "內有肌肉筋骨髓[腦-月+骨]血脉屎尿肝膽膓胃虫疽膿血。",
         "from": "X55n0903_001:0501c11_12",
         "context_with_next_sentence": true
     },

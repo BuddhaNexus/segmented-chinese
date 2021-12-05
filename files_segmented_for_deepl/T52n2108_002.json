@@ -2470,7 +2470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眾賓於是始悟冥塗以開[跳兆+(轍車)]為功。",
+        "source_sentence": "眾賓於是始悟冥塗以開[跳-兆+(轍-車)]為功。",
         "from": "T52n2108_002:0451b08_21",
         "context_with_next_sentence": true
     },
@@ -4740,7 +4740,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "身葬瀛而[打丁+親]土。",
+        "source_sentence": "身葬瀛而[打-丁+親]土。",
         "from": "T52n2108_002:0453c11_12",
         "context_with_next_sentence": true
     },

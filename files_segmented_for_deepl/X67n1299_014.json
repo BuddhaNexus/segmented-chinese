@@ -265,7 +265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "多口阿師一場懡[怡台+羅]。",
+        "source_sentence": "多口阿師一場懡[怡-台+羅]。",
         "from": "X67n1299_014:0082c24_4",
         "context_with_next_sentence": true
     },
@@ -4955,7 +4955,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "教這老漢一場懡[怡台+羅]。",
+        "source_sentence": "教這老漢一場懡[怡-台+羅]。",
         "from": "X67n1299_014:0087b13_4",
         "context_with_next_sentence": true
     },
@@ -6380,7 +6380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "至今成話杷。",
+        "source_sentence": "至今成話&#;。",
         "from": "X67n1299_014:0088c17_4",
         "context_with_next_sentence": true
     },

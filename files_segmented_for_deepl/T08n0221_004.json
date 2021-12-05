@@ -70,7 +70,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛言：「菩薩持戒發意應薩云若，自持十善，教他人行十善、亦無所倚；是為菩薩不[打丁+此]戒應無所倚。」",
+        "source_sentence": "佛言：「菩薩持戒發意應薩云若，自持十善，教他人行十善、亦無所倚；是為菩薩不[打-丁+此]戒應無所倚。」",
         "from": "T08n0221_004:0022c16_11",
         "context_with_next_sentence": true
     },
@@ -1120,12 +1120,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若行若寂，常念世間從癡有[病丙+((句口+夕)/心)]。",
+        "source_sentence": "若行若寂，常念世間從癡有[病-丙+((句-口+夕)/心)]。",
         "from": "T08n0221_004:0024c28_6",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "觀內痛意行法、觀外痛意行法，觀內外痛意行法，若行若寂，常念世間癡[病丙+((句口+夕)/心)]。",
+        "source_sentence": "觀內痛意行法、觀外痛意行法，觀內外痛意行法，若行若寂，常念世間癡[病-丙+((句-口+夕)/心)]。",
         "from": "T08n0221_004:0024c29_7",
         "context_with_next_sentence": true
     },
@@ -3290,12 +3290,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "「何謂菩薩遠離[怡台+龍]戾？」",
+        "source_sentence": "「何謂菩薩遠離[怡-台+龍]戾？」",
         "from": "T08n0221_004:0028c07_21",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛言：「不見有法可貢高者，是為離於[怡台+龍]戾。」",
+        "source_sentence": "佛言：「不見有法可貢高者，是為離於[怡-台+龍]戾。」",
         "from": "T08n0221_004:0028c08_22",
         "context_with_next_sentence": true
     },

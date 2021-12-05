@@ -80,7 +80,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "虎狼蛟龍[怡台+龍]悷矯軋乎性。",
+        "source_sentence": "虎狼蛟龍[怡-台+龍]悷矯軋乎性。",
         "from": "T52n2115_008:0683c18_12",
         "context_with_next_sentence": true
     },
@@ -4560,7 +4560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "河海方波濤[漓禸]湧其舟欲沒人之欲溺。",
+        "source_sentence": "河海方波濤[漓-禸]湧其舟欲沒人之欲溺。",
         "from": "T52n2115_008:0688c05_10",
         "context_with_next_sentence": true
     },
@@ -6550,7 +6550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "昔王霸嚴光不臣不名於漢。",
+        "source_sentence": "昔王覇嚴光不臣不名於漢。",
         "from": "T52n2115_008:0691a10_21",
         "context_with_next_sentence": true
     },

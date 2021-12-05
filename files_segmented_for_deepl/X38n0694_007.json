@@ -680,7 +680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "問君臣父子主[仁二+業]。",
+        "source_sentence": "問君臣父子主[仁-二+業]。",
         "from": "X38n0694_007:0684b20_2",
         "context_with_next_sentence": true
     },
@@ -3905,7 +3905,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "下至不能[愨心+牛]牛乳頃善心一緣住修習者。",
+        "source_sentence": "下至不能[愨-心+牛]牛乳頃善心一緣住修習者。",
         "from": "X38n0694_007:0687b05_17",
         "context_with_next_sentence": true
     },
@@ -11045,8 +11045,478 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛說梵網經菩薩心地品合註卷第七(終)",
+        "source_sentence": "佛說梵網經菩薩心地品合註卷第七(終)合註跋語夫本源心地含生共有。",
         "from": "X38n0694_007:0694a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無染性戒日用不知。",
+        "from": "X38n0694_007:0694a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "目翳而華舞大空。",
+        "from": "X38n0694_007:0694a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夢蟻而尋羶階下。",
+        "from": "X38n0694_007:0694a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "晴虗之體依然。",
+        "from": "X38n0694_007:0694a19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "輪王之身如故。",
+        "from": "X38n0694_007:0694a19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "哀哉。",
+        "from": "X38n0694_007:0694a20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妄惑枉受幻輪。",
+        "from": "X38n0694_007:0694a20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勞我慈尊。",
+        "from": "X38n0694_007:0694a20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現身同患。",
+        "from": "X38n0694_007:0694a20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "示成不倦於八千。",
+        "from": "X38n0694_007:0694a20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "埀化無偏於塵剎。",
+        "from": "X38n0694_007:0694a21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一滴之心地既敷。",
+        "from": "X38n0694_007:0694a21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "積劫之沈迷立醒。",
+        "from": "X38n0694_007:0694a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而琅函久錮。",
+        "from": "X38n0694_007:0694a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "半珠僅呈。",
+        "from": "X38n0694_007:0694a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "緊我愚蒙得探全寶。",
+        "from": "X38n0694_007:0694a22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "竭思殫機。",
+        "from": "X38n0694_007:0694a23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "塵培泰嶽。",
+        "from": "X38n0694_007:0694a23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "思法緣之匪易。",
+        "from": "X38n0694_007:0694a23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "輙涕泗以滂沱。",
+        "from": "X38n0694_007:0694a23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願我同仁深思力學。",
+        "from": "X38n0694_007:0694a24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "解行同遵。",
+        "from": "X38n0694_007:0694a24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自他俱利。",
+        "from": "X38n0694_007:0694a24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庶得上報佛恩不負己性矣。",
+        "from": "X38n0694_007:0694b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時",
+        "from": "X38n0694_007:0694b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "崇禎丁丑地藏大士誕日菩薩沙彌智旭閣筆故記跋梵網經合註者。",
+        "from": "X38n0694_007:0694b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靈峰素華法師所著也。",
+        "from": "X38n0694_007:0694b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行世久矣。",
+        "from": "X38n0694_007:0694b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "板存金陵古林菴。",
+        "from": "X38n0694_007:0694b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遐邇請閱者一時門如市焉。",
+        "from": "X38n0694_007:0694b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "東南緇流不能咸得。",
+        "from": "X38n0694_007:0694b12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上首堅密師感洛陽帋貴。",
+        "from": "X38n0694_007:0694b13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "擬翻本送嘉興楞嚴寺入藏。",
+        "from": "X38n0694_007:0694b13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣為流通。",
+        "from": "X38n0694_007:0694b14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余聞之慨然。",
+        "from": "X38n0694_007:0694b14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獨任厥事。",
+        "from": "X38n0694_007:0694b14_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "刻將成。",
+        "from": "X38n0694_007:0694b14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧有疑而問者。",
+        "from": "X38n0694_007:0694b15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曰梵網經為緇流戒本。",
+        "from": "X38n0694_007:0694b15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "公刻此。",
+        "from": "X38n0694_007:0694b15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖曰闡揚法寶。",
+        "from": "X38n0694_007:0694b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殊非居士本色。",
+        "from": "X38n0694_007:0694b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "將有說以處此乎。",
+        "from": "X38n0694_007:0694b16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予起謝曰。",
+        "from": "X38n0694_007:0694b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯唯。",
+        "from": "X38n0694_007:0694b17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "否否。",
+        "from": "X38n0694_007:0694b17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請略陳固陋。",
+        "from": "X38n0694_007:0694b17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予昔待辠吳淞。",
+        "from": "X38n0694_007:0694b17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不辰遭譴。",
+        "from": "X38n0694_007:0694b17_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顛連憂患。",
+        "from": "X38n0694_007:0694b18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乞骸無從。",
+        "from": "X38n0694_007:0694b18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "憶丘壑之怡情。",
+        "from": "X38n0694_007:0694b18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "望雲霞於縹渺。",
+        "from": "X38n0694_007:0694b18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸帆天際。",
+        "from": "X38n0694_007:0694b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何日是到岸時也。",
+        "from": "X38n0694_007:0694b19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "憶自癸巳年。",
+        "from": "X38n0694_007:0694b19_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "投　華山滇南老人座下為弟子。",
+        "from": "X38n0694_007:0694b19_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法名書準。",
+        "from": "X38n0694_007:0694b20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奉　教清修。",
+        "from": "X38n0694_007:0694b20_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毗尼自律。",
+        "from": "X38n0694_007:0694b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禮大悲為日課。",
+        "from": "X38n0694_007:0694b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖戈矛劒戟之下顛沛流難之中。",
+        "from": "X38n0694_007:0694b21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毫不敢弛。",
+        "from": "X38n0694_007:0694b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "將守之終其身。",
+        "from": "X38n0694_007:0694b22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不意濁緣相纏不欲遽放。",
+        "from": "X38n0694_007:0694b22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迫余同事者再四。",
+        "from": "X38n0694_007:0694b23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余不忍更貽馮婦之誚。",
+        "from": "X38n0694_007:0694b23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已薙髮而誓修報恩大殿。",
+        "from": "X38n0694_007:0694b23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈期終不可脫。",
+        "from": "X38n0694_007:0694b24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨復請命　老人。",
+        "from": "X38n0694_007:0694b24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨戒出山。",
+        "from": "X38n0694_007:0694c01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自是飄泊於風塵者又數年。",
+        "from": "X38n0694_007:0694c01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則就中之破戒破齋錯因錯果之事。",
+        "from": "X38n0694_007:0694c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大約有所不免。",
+        "from": "X38n0694_007:0694c02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今全殘喘六旬。",
+        "from": "X38n0694_007:0694c02_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已過甲寅夏五。",
+        "from": "X38n0694_007:0694c03_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "死而復甦。",
+        "from": "X38n0694_007:0694c03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得非聖力之所加被耶。",
+        "from": "X38n0694_007:0694c03_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且梵網經云。",
+        "from": "X38n0694_007:0694c04_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大臣居士俱受淨戒。",
+        "from": "X38n0694_007:0694c04_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予持夙念。",
+        "from": "X38n0694_007:0694c04_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復守毗尼。",
+        "from": "X38n0694_007:0694c04_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故捐貲重刻此書。",
+        "from": "X38n0694_007:0694c05_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庶可利濟弘通。",
+        "from": "X38n0694_007:0694c05_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦將藉靈峰之法力。",
+        "from": "X38n0694_007:0694c05_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懺不佞之愆尤。",
+        "from": "X38n0694_007:0694c06_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願閱是經者。",
+        "from": "X38n0694_007:0694c06_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為書準稱南無佛陀。",
+        "from": "X38n0694_007:0694c06_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歡喜讚歎。",
+        "from": "X38n0694_007:0694c07_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或可冀消罪報於萬一耳。",
+        "from": "X38n0694_007:0694c07_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧聞而稱善。",
+        "from": "X38n0694_007:0694c07_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請即以此跋於卷後。",
+        "from": "X38n0694_007:0694c08_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因書之。",
+        "from": "X38n0694_007:0694c08_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "千華菩薩戒弟子歸舟道人沈豹書準敬跋於石城南郊西上園中",
+        "from": "X38n0694_007:0694c09_0",
         "context_with_next_sentence": false
     }
 ]

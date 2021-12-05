@@ -2380,12 +2380,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "良犢調善，不高不濕，酒糟麥[麩夫+戈]，五味圓滿，具足在牛，但聽飲噉，隨[穀禾+牛]而出。",
+        "source_sentence": "良犢調善，不高不濕，酒糟麥䴰，五味圓滿，具足在牛，但聽飲噉，隨[穀-禾+牛]而出。",
         "from": "T33n1716_007:0767c28_32",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若噉凡草[穀禾+牛]，即出乳；噉下忍草[穀禾+牛]，即出酪；噉中忍草[穀禾+牛]，出生蘇；噉上忍草[穀禾+牛]，出熟蘇；噉上上忍草[穀禾+牛]，出醍醐。",
+        "source_sentence": "若噉凡草[穀-禾+牛]，即出乳；噉下忍草[穀-禾+牛]，即出酪；噉中忍草[穀-禾+牛]，出生蘇；噉上忍草[穀-禾+牛]，出熟蘇；噉上上忍草[穀-禾+牛]，出醍醐。",
         "from": "T33n1716_007:0768a01_33",
         "context_with_next_sentence": true
     },
@@ -2472,6 +2472,2211 @@
     {
         "source_sentence": "妙法蓮華經玄義卷第七上",
         "from": "T33n1716_007:0768a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙法蓮華經玄義卷第七下",
+        "from": "T33n1716_007:0768b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天台智者大師說",
+        "from": "T33n1716_007:0768b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "○七、本眷屬妙者，經云：「此諸菩薩下方空中住。」",
+        "from": "T33n1716_007:0768b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此等是我子，我則是父。",
+        "from": "T33n1716_007:0768b06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下方者，下名為底。",
+        "from": "T33n1716_007:0768b06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《大品》有諸法底三昧，《釋論》云：「智度大道佛窮底」，當知此諸菩薩隣佛窮智度底。",
+        "from": "T33n1716_007:0768b07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "虛空者，法性虛空之寂光也。",
+        "from": "T33n1716_007:0768b08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從本時寂光空中，出今時寂光空中。",
+        "from": "T33n1716_007:0768b09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今時寂光空中者不識本時者，故言：我經遊諸國，乃不識一人。",
+        "from": "T33n1716_007:0768b10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "地湧千界，皆是本時應眷屬也。",
+        "from": "T33n1716_007:0768b11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所以無三者，時節既久，權轉為實，但一無三，或可舉一例知有三也。",
+        "from": "T33n1716_007:0768b12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從本垂迹，迹中始成佛時，亦有業、願、通、應。",
+        "from": "T33n1716_007:0768b14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中間所化，亦有四種，文殊、觀音、調達等，或稱為師，或稱弟子，於惑者未了。",
+        "from": "T33n1716_007:0768b15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若拂中間，無非是迹，則迹本可解；若執迹疑本，二義俱失(云云)。",
+        "from": "T33n1716_007:0768b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：迹本相望，千界塵則少，增道數則多，本迹法身，淺深異耶？",
+        "from": "T33n1716_007:0768b18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：法身先滿，無增無減，約化緣廣狹耳。",
+        "from": "T33n1716_007:0768b19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：若爾，初住、二住，化緣多少，法身亦應無淺深？",
+        "from": "T33n1716_007:0768b20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：菩薩位未窮，約實證判淺深；佛位已滿，但約權化，有四句論廣狹(云云)。",
+        "from": "T33n1716_007:0768b21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：明因果等皆約迹佛指本，明眷屬而召本到迹，何耶？",
+        "from": "T33n1716_007:0768b23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：因果等法幽微難曉，故約此指彼；眷屬是人，召證為易，或可將本人示迹人，或將迹法顯本法，互現意耳。",
+        "from": "T33n1716_007:0768b24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八、本涅槃妙者，經又復言其入於涅槃非實滅度，而便唱言當取滅度。",
+        "from": "T33n1716_007:0768b27_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非實滅度者，常住本寂也。",
+        "from": "T33n1716_007:0768b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唱言滅度者，調伏眾生也。",
+        "from": "T33n1716_007:0768b29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悉本時涅槃，非迹涅槃。",
+        "from": "T33n1716_007:0768c01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迹者，《大經》明聲光所集，始諸弟子，終于蝮蠆。",
+        "from": "T33n1716_007:0768c01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無邊身菩薩，弟子之位，身量無邊，豈有大師倚臥背痛？",
+        "from": "T33n1716_007:0768c02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此乃生身示病、示滅；法身無疾，常存不變。",
+        "from": "T33n1716_007:0768c04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或取析空，因滅果亡，明有餘、無餘涅槃。",
+        "from": "T33n1716_007:0768c05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或取體法空，因滅果亡，明有餘、無餘涅槃。",
+        "from": "T33n1716_007:0768c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生身迹滅者，如《阿含》中結業之身父母所生，棄國捐王，六年苦行，三十四心斷結成道，八十二歲老比丘身，詣純陀舍，持鉢乞食，食檀耳羹，食訖說法，果報壽命，中夜而盡，入無餘涅槃，以火闍毘，收取舍利者，此三藏涅槃相。",
+        "from": "T33n1716_007:0768c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若《釋論》云：六地菩薩見思已盡，七地去誓扶餘習，受生死身，乃至上生下降，一念相應慧，斷習成佛，可度眾生，緣盡息化，入無餘涅槃，此通佛涅槃相也。",
+        "from": "T33n1716_007:0768c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若地人云：緣修顯真，修菩提，果滿成大涅槃，亦稱為方便淨涅槃。",
+        "from": "T33n1716_007:0768c15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《大經》云：「因滅是色，獲得常色，受、想、行、識，亦復如是。」",
+        "from": "T33n1716_007:0768c17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名色解脫，受、想、行、識解脫，乃是分段、變易因盡，獲常住有餘涅槃，兩處陰果身盡，獲常住無餘涅槃，此與前異，是別佛涅槃相也。",
+        "from": "T33n1716_007:0768c18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《大經》云：「大般涅槃，常住不變。」",
+        "from": "T33n1716_007:0768c21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能建種種，示現調伏眾生。",
+        "from": "T33n1716_007:0768c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如《首楞嚴》廣說，名大涅槃，常樂我淨，此與前異，即圓涅槃相也。",
+        "from": "T33n1716_007:0768c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經曰：今日座中無央數眾，各見不同：或見如來入涅槃；或見如來住世一劫減一劫；或見如來住世無量劫；或見丈六身；或見小身、大身；或見報身坐蓮華藏世界海，為百千億釋迦牟尼佛說心地法門；或見法身同於虛空，無有分別，無相無礙，遍同法界虛空；或見此處娑羅樹林，悉是土砂、草木、石壁；或見此處金銀七寶清淨莊嚴；或見此處三世諸佛所遊之處；或見此處即是不可思議，諸佛境界真實法體。",
+        "from": "T33n1716_007:0768c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此明佛身依正各有四相，即前四涅槃相也。",
+        "from": "T33n1716_007:0769a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《大經》與此經義同。",
+        "from": "T33n1716_007:0769a05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《大經》以常住為宗，迦葉初問長壽。",
+        "from": "T33n1716_007:0769a06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛答中處處多顯未來常住，少明先成壽命，為《法華》已說故。",
+        "from": "T33n1716_007:0769a06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼經雖一兩處說，不可判為近成短命。",
+        "from": "T33n1716_007:0769a08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今經正明發迹顯本，無量壽命為宗，少說未來常住，雖一兩處少說，不可判為無常。",
+        "from": "T33n1716_007:0769a09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二經互舉，利根知本常，未來亦常，解未來長壽，亦解本來長壽。",
+        "from": "T33n1716_007:0769a11_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其義是同。",
+        "from": "T33n1716_007:0769a12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又此經數數現生現滅者，生非實生、滅非實滅，常住義顯。",
+        "from": "T33n1716_007:0769a12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又二萬燈明、迦葉，皆不說涅槃，秖於《法華》明本常、未來常，彌見《法華》明常義顯(云云)。",
+        "from": "T33n1716_007:0769a14_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以三義故，知諸涅槃迹而非本，今始入故，入復出故，拂中間故。",
+        "from": "T33n1716_007:0769a16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此迹涅槃皆從本垂，云何執迹謂言是本？",
+        "from": "T33n1716_007:0769a17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是不識迹本也。",
+        "from": "T33n1716_007:0769a18_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若拂迹顯本，則二義不迷。",
+        "from": "T33n1716_007:0769a19_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非迹非本，不思議一也。",
+        "from": "T33n1716_007:0769a19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九、本壽命妙者，上因妙中以智慧為命；此則非長、非短。",
+        "from": "T33n1716_007:0769a20_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由非長、非短之慧命，能為長、短，此中正明長、短壽命。",
+        "from": "T33n1716_007:0769a21_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經處處自說名字不同，年紀大小。",
+        "from": "T33n1716_007:0769a22_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "年紀者，是壽命也。",
+        "from": "T33n1716_007:0769a23_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大小者，長短也。",
+        "from": "T33n1716_007:0769a24_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經中間處處年紀大小者，約迹而懸指本也。",
+        "from": "T33n1716_007:0769a24_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迹不同者：三藏佛父母生身，八十二盡，身灰智滅，畢竟不生；通教佛誓願之身，化緣若訖，亦歸灰斷，滅已不生。",
+        "from": "T33n1716_007:0769a25_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此兩佛但齊業齊緣，不得非長、非短之慧命，不能作長、作短，大、小之壽命也。",
+        "from": "T33n1716_007:0769a27_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "別教登地破無明，得如來一身無量身，一身湛然安住，無量身百界作佛，亦示九界身，得論年紀大、小。",
+        "from": "T33n1716_007:0769a29_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大即大乘常壽；小即小乘無常之壽也。",
+        "from": "T33n1716_007:0769b03_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圓教登住時，亦如是。",
+        "from": "T33n1716_007:0769b04_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此等皆因中菩薩，非常、非無常，能作常無常、大小之壽，況後心乎！",
+        "from": "T33n1716_007:0769b04_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "況妙覺乎！",
+        "from": "T33n1716_007:0769b06_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如此等壽三義，皆迹中因果之壽，此壽皆從本地因果圓滿而垂此迹，迹既如此，況復本也！",
+        "from": "T33n1716_007:0769b06_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經「我本行菩薩道時所成壽命，今猶未盡」，指於本因，因壽尚未盡，況本果壽！",
+        "from": "T33n1716_007:0769b08_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若執迹則不知本，今拂迹則識本，亦識不思議一也。",
+        "from": "T33n1716_007:0769b10_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十、釋本利益妙者。",
+        "from": "T33n1716_007:0769b11_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文云：「皆令得歡喜。」",
+        "from": "T33n1716_007:0769b11_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歡喜即利益相，若迹中三乘共十地、別十地，開權顯實，按位妙、入位妙，如是等益，乃至聞壽命，增道損生，皆是迹中益也。",
+        "from": "T33n1716_007:0769b12_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至中間權實之益，亦是迹益。",
+        "from": "T33n1716_007:0769b15_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以迹望本，本亦應有偏圓利益。",
+        "from": "T33n1716_007:0769b15_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所以下方菩薩皆住虛空者，皆居寂光，本益也。",
+        "from": "T33n1716_007:0769b16_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故本本以垂迹，借迹以知本，不復具記也。",
+        "from": "T33n1716_007:0769b17_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "○第六、約三世料簡者，文云：「如來自在神通之力，如來大勢威猛之力，如來師子奮迅之力。」",
+        "from": "T33n1716_007:0769b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即是三世益物之文。",
+        "from": "T33n1716_007:0769b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若過去最初所證權實之法，名為本也，從本證已，後方便化他。",
+        "from": "T33n1716_007:0769b21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開三顯一、發迹顯本者，還指最初為本；中間示現、發迹顯本，亦指最初為本；今日發迹顯本，亦指最初為本；未來發本顯迹，亦指最初為本。",
+        "from": "T33n1716_007:0769b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三世乃殊，毘盧遮那一本不異，如百千枝葉，同趣一根(云云)。",
+        "from": "T33n1716_007:0769b26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：現見無量佛悉是釋迦分身，為當猶有餘佛，餘佛復有分身不？",
+        "from": "T33n1716_007:0769b27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：《普賢觀》云：「東方有佛名曰善德，彼佛亦有分身諸佛。」",
+        "from": "T33n1716_007:0769b29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若爾，亦有諸佛，諸佛亦有分身。",
+        "from": "T33n1716_007:0769c01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又〈神力品〉云：「彈指、謦欬是二音聲，遍至十方諸佛世界，彼佛四眾遙伸供養，所散諸物從十方來，譬如雪聚，遍覆此間諸佛之上。」",
+        "from": "T33n1716_007:0769c02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故知有諸佛，諸佛亦有分身也。",
+        "from": "T33n1716_007:0769c05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：三世諸佛皆有分身者，云何復言多寶如來全身不散，如入禪定？",
+        "from": "T33n1716_007:0769c06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若全身不散，云何復言遊於十方，證《法華經》？",
+        "from": "T33n1716_007:0769c07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二意云何通？",
+        "from": "T33n1716_007:0769c08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：《釋論》解念佛中云：多寶無人請說法，便入涅槃，後化佛身及七寶塔，證《法華經》。",
+        "from": "T33n1716_007:0769c09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若從《論釋》，乃是化作全身，非無分身也。",
+        "from": "T33n1716_007:0769c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師云：若言不得說法，那告四眾，我滅後起一大塔？",
+        "from": "T33n1716_007:0769c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非都不說法，應是不說《法華》。",
+        "from": "T33n1716_007:0769c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故發大誓願，不碎生身之骨，全身不散，出證圓經。",
+        "from": "T33n1716_007:0769c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如入禪定者，表於不滅；出證常經，表於不偏；不偏不滅，圓常義顯。",
+        "from": "T33n1716_007:0769c15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "口唱真淨大法，真是常，略舉二德，我樂可知，鈍者讀文，猶自不覺也。",
+        "from": "T33n1716_007:0769c16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：三世諸佛皆顯本者，最初實成若為顯本？",
+        "from": "T33n1716_007:0769c18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：不必皆顯本。",
+        "from": "T33n1716_007:0769c19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今作有義者，最初妙覺指初住為本，若初住被加作妙覺，亦指初住為本。",
+        "from": "T33n1716_007:0769c19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初住之前，竪無所指，橫有體用，即指體豈非本耶？",
+        "from": "T33n1716_007:0769c21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又發願故，說壽長遠，如文(云云)。",
+        "from": "T33n1716_007:0769c22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又解，最初之佛，雖無長遠、已今、權實等本迹之可顯，而有體用、教行、理教、事理等本迹之可顯(云云)。",
+        "from": "T33n1716_007:0769c23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若作無義，若最初始成佛，既始得本，未論垂迹，無久迹可發，無久本可顯(云云)。",
+        "from": "T33n1716_007:0769c25_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若久成佛，如釋迦之例，以東方為譬。",
+        "from": "T33n1716_007:0769c27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若久此者，即以四方為譬。",
+        "from": "T33n1716_007:0769c28_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又久者，十方為譬。",
+        "from": "T33n1716_007:0769c28_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若近此者，則減東方為譬。",
+        "from": "T33n1716_007:0769c29_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若都無者，則無所譬(云云)。",
+        "from": "T33n1716_007:0769c29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：若實初成，無久本可顯，云何經言：「是我方便，諸佛亦然」？",
+        "from": "T33n1716_007:0770a01_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：雖無長久之本，若須用方便者，佛有延促劫智，能演七日為無量劫義(云云)。",
+        "from": "T33n1716_007:0770a02_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：佛若有久成、始成，有發迹、不發迹，亦應有開三顯一、不開三不顯一耶？",
+        "from": "T33n1716_007:0770a04_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：若菩薩、聲聞共為僧者，則有開三顯一；若純菩薩為僧者，何須開顯耶？",
+        "from": "T33n1716_007:0770a06_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：若不開三顯一，五佛章云何？",
+        "from": "T33n1716_007:0770a08_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：同是聲聞、菩薩共為僧，出五濁世可如此，出淨土佛則不然。",
+        "from": "T33n1716_007:0770a08_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：破十麁，顯十妙，則無明惑盡，一實理彰。",
+        "from": "T33n1716_007:0770a10_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今更破迹妙為麁，顯本為妙，破何惑？",
+        "from": "T33n1716_007:0770a11_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯何理？",
+        "from": "T33n1716_007:0770a12_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：無明重數甚多，實相海深無量，如此破顯無咎。",
+        "from": "T33n1716_007:0770a12_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又問：若爾，還以妙破妙，所破之妙，妙而更麁，亦應還以麁破麁，所破之麁，例更是妙；所破四住，例亦應妙？",
+        "from": "T33n1716_007:0770a13_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：就頓明義，秖四住即是於妙，況破四住智，寧非妙耶？",
+        "from": "T33n1716_007:0770a16_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又問：若爾，但有頓義，應無漸義？",
+        "from": "T33n1716_007:0770a17_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：若分漸、頓，漸之能、所俱麁；頓之能、所俱妙(云云)。",
+        "from": "T33n1716_007:0770a18_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：中間有偏圓、權實，而同稱是權者，亦應同稱為偏耶？",
+        "from": "T33n1716_007:0770a19_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：通義則爾，別義不然。",
+        "from": "T33n1716_007:0770a20_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偏圓約法，法則已定，故偏非圓、圓非偏。",
+        "from": "T33n1716_007:0770a21_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "權實約教，迹中施設，同皆是假，故就假論權耳。",
+        "from": "T33n1716_007:0770a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：既有帶麁妙，復有不帶麁妙，亦應有帶妙麁、不帶妙麁？",
+        "from": "T33n1716_007:0770a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：此應四句：帶麁妙，即別教也；不帶麁妙，即圓教也；帶妙麁，即通教也；不帶妙麁，即三藏也。",
+        "from": "T33n1716_007:0770a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又帶麁妙，如通；不帶麁妙，如圓；亦帶麁亦不帶麁，如別；非帶非不帶，如圓接別、如圓別接通。",
+        "from": "T33n1716_007:0770a26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又約五味：麁不帶妙如酪；妙不帶麁如醍醐；亦帶麁亦不帶麁如生、熟蘇；非帶麁非不帶麁如乳(云云)。",
+        "from": "T33n1716_007:0770b01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：二麁既不同，那忽同呼為麁？",
+        "from": "T33n1716_007:0770b03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：事有淺、深，故為二；俱非妙理，故同是麁。",
+        "from": "T33n1716_007:0770b04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：應帶方便實？",
+        "from": "T33n1716_007:0770b05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不帶方便實？",
+        "from": "T33n1716_007:0770b05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：例。",
+        "from": "T33n1716_007:0770b06_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：亦應有帶二一？",
+        "from": "T33n1716_007:0770b06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不帶二一？",
+        "from": "T33n1716_007:0770b06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：例。",
+        "from": "T33n1716_007:0770b06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "通論本迹，秖是權實；別論高下，宜用本迹；橫論真偽，宜用權實；本迹約身、約位，權實約智、約教(云云)。",
+        "from": "T33n1716_007:0770b07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：本地十妙約六重本迹，攝屬何耶？",
+        "from": "T33n1716_007:0770b09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：非已今、非中間，乃是體用、教行、理教等，共論十妙也。",
+        "from": "T33n1716_007:0770b10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "○第七判麁妙者，若迹中已得十麁為麁，十妙為妙；未開十麁為麁，開十成妙，具如前說。",
+        "from": "T33n1716_007:0770b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迹中若待麁妙、若開麁妙，此妙不異本妙，而言始得，始得為麁。",
+        "from": "T33n1716_007:0770b14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本中先成，若麁若妙、若開麁妙，亦不異迹妙，而是先得，先得稱妙。",
+        "from": "T33n1716_007:0770b15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又迹中事理始得為麁，本中事理先得為妙，迹中理教、教行、體用、權實等，亦如是。",
+        "from": "T33n1716_007:0770b17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又若未發迹顯本者，但解迹中事理之麁妙，終不能解本中之事麁，況解本中之理妙！",
+        "from": "T33n1716_007:0770b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彌勒尚不達，何況餘人！",
+        "from": "T33n1716_007:0770b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若發迹中之事理，即顯本中之事理。",
+        "from": "T33n1716_007:0770b21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦知由本中之事理，能垂迹中之事理。",
+        "from": "T33n1716_007:0770b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迹既由本，則本妙迹麁，既有本迹之殊，故言麁妙。",
+        "from": "T33n1716_007:0770b23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙理則非迹非本，不思議一也。",
+        "from": "T33n1716_007:0770b24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "理教、教行、體用、權實、已今等，亦如是。",
+        "from": "T33n1716_007:0770b25_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "○第八、明權實者，照迹中十麁之境為權，照迹中十妙之境為實，乃至中間三世所照十麁之境為權，十妙之境為實。",
+        "from": "T33n1716_007:0770b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若權若實，悉皆是迹，迹故稱權。",
+        "from": "T33n1716_007:0770c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是中間無量，無量不可說節節權實，餘經尚無中間一番之權，況一番之實！",
+        "from": "T33n1716_007:0770c02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尚無中間一番權實，況無量番！",
+        "from": "T33n1716_007:0770c04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尚無中間權實，況有本地權實！",
+        "from": "T33n1716_007:0770c05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中間權實皆名為權，本初照十麁十妙皆名為實。",
+        "from": "T33n1716_007:0770c05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迹權本實俱不思議，不思議即是法性，法性之理，非古非今，非本非迹，非權非實，但約此法性論本迹權實麁妙耳。",
+        "from": "T33n1716_007:0770c06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但以世俗文字有去來今，非謂菩提有去來今也。",
+        "from": "T33n1716_007:0770c09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復次，分別權實，則有三種：謂自行、化他、自行化他，具如境妙中說。",
+        "from": "T33n1716_007:0770c10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本地自行所契權實二智，名佛自行權實；從本已來，乃至鹿苑，種種方便，隨他意語，說此二智，迴轉無方，名佛化他權實二智。",
+        "from": "T33n1716_007:0770c12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "化他雖有二種，皆名為權；自行雖二種，皆名為實，是名自行化他合說權實。",
+        "from": "T33n1716_007:0770c15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復次，迹中約實施權，意在於實，而實意難測。",
+        "from": "T33n1716_007:0770c17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何者？",
+        "from": "T33n1716_007:0770c18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "化城是權，而人作實解，是不識權，亦不知實。",
+        "from": "T33n1716_007:0770c18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若廢權顯實，意在於權，權則易測，何者？",
+        "from": "T33n1716_007:0770c19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既知化城一事是佛權施，則遍達恒沙佛法，遠通久劫方便。",
+        "from": "T33n1716_007:0770c20_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故《華嚴》中明，為阿鞞跋致多明事數，即其義也。",
+        "from": "T33n1716_007:0770c21_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若開權顯實者，達事法已，權意即息，亦不離權遠求於實。",
+        "from": "T33n1716_007:0770c22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "權即是實，無復別權，故言開權顯實也。",
+        "from": "T33n1716_007:0770c24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迹中既有三意，如此迹由本垂，本亦如是，本迹雖殊，不思議一也(云云)。",
+        "from": "T33n1716_007:0770c25_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "○第九、利益者，前、明生身益。",
+        "from": "T33n1716_007:0770c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次、明法身益。",
+        "from": "T33n1716_007:0770c27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生身兩處得益，迹門會三歸一，開權顯實。",
+        "from": "T33n1716_007:0770c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生身菩薩得利益者，於十妙中得五妙益。",
+        "from": "T33n1716_007:0770c28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何者？",
+        "from": "T33n1716_007:0771a01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "境妙則通，一切具有；乘妙則別，究竟在佛。",
+        "from": "T33n1716_007:0771a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "感應、神通、說法，皆是果上之益，若未證果，不論此益。",
+        "from": "T33n1716_007:0771a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若於六即位中得四即益，理即、究竟即，例如前，但得名字即中：智、行、位、眷屬、功德，乃至分真即中：智、行、位、眷屬、功德。",
+        "from": "T33n1716_007:0771a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如身子得記，四眾、天、龍歡喜，說偈云：「大智舍利弗，今得受尊記，我等亦如是，悉當得作佛。」",
+        "from": "T33n1716_007:0771a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即是生身菩薩聞迹門說法，得益之相也。",
+        "from": "T33n1716_007:0771a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "發本顯迹，說佛壽長遠，觀佛三昧得大增長，從此亦有生身菩薩，得十妙中之五益，六即中之四益，損生增道(云云)。",
+        "from": "T33n1716_007:0771a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從二住去至一生在，皆是法身得五益。",
+        "from": "T33n1716_007:0771a12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T33n1716_007:0771a13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應生聞本地功德，觀佛三昧，轉更深廣，不可稱量，不比前來迹中之益。",
+        "from": "T33n1716_007:0771a13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何者？",
+        "from": "T33n1716_007:0771a15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛境轉深，功德亦大。",
+        "from": "T33n1716_007:0771a15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故〈分別功德品〉云：「佛說希有法，昔所未曾聞，世尊有大力，壽命不可量。」",
+        "from": "T33n1716_007:0771a16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說得法利者，歡喜充遍身，或住不退地，或得陀羅尼。",
+        "from": "T33n1716_007:0771a17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即是生、法二身得益之相。",
+        "from": "T33n1716_007:0771a19_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若論實道得益，兩處不殊，而權智事用，不得相比。",
+        "from": "T33n1716_007:0771a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喻如慧解脫、俱解脫，無漏不二，而功德優劣。",
+        "from": "T33n1716_007:0771a20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前迹門得道，止齊無生法忍；本門得道，齊餘一生在，以塵為數，多小深淺，豈同於前？",
+        "from": "T33n1716_007:0771a21_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當揀彼文，從發心處即是六根淨位，乃至一生在，即是最後分真(云云)。",
+        "from": "T33n1716_007:0771a23_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又流通利益者，前流通迹門，是諸發誓菩薩及諸羅漢得授記者，此土、他土弘經，論其功德。",
+        "from": "T33n1716_007:0771a25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀文，但明冥利，不說顯益。",
+        "from": "T33n1716_007:0771a27_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今說本門，付囑一切諸佛所有之法，兼得迹門法也。",
+        "from": "T33n1716_007:0771a28_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "秘奧之藏，即是本迹中實相也。",
+        "from": "T33n1716_007:0771b01_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切甚深之事，即是本迹中因果也。",
+        "from": "T33n1716_007:0771b02_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如此等法，付囑千世界微塵菩薩，法身地弘經，何但如生身，此土、他土弘經耶？",
+        "from": "T33n1716_007:0771b02_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十法界身遊諸國土，則有冥、顯兩益也。",
+        "from": "T33n1716_007:0771b04_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疑者云：法身常有佛，何須菩薩弘？",
+        "from": "T33n1716_007:0771b05_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但弘之在人，待時待伴，如佛雖在世，而文殊入龍宮，法身處雖有佛，復須外緣。",
+        "from": "T33n1716_007:0771b06_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故佛付囑，吐舌摩頂，種種相貌，殷勤付囑，令弘此法得無量微妙功德。",
+        "from": "T33n1716_007:0771b08_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其有聞者，妙益不可稱數。",
+        "from": "T33n1716_007:0771b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故文云：若有聞佛說壽量，一切皆歡喜，得無量無漏功德之果報。",
+        "from": "T33n1716_007:0771b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即此意也。",
+        "from": "T33n1716_007:0771b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "○十、觀心者，本妙長遠，豈可觀心？",
+        "from": "T33n1716_007:0771b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖不即是，亦不離心。",
+        "from": "T33n1716_007:0771b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何者？",
+        "from": "T33n1716_007:0771b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛如、眾生如，一如無二如，佛既觀心，得此本妙，迹用廣大，不可稱說。",
+        "from": "T33n1716_007:0771b14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我如如佛如，亦當觀心，出此大利。",
+        "from": "T33n1716_007:0771b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦願我如，速如佛如。",
+        "from": "T33n1716_007:0771b16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故文云：「聞佛壽無量，深心須臾信，其福過於彼。",
+        "from": "T33n1716_007:0771b17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願我於未來，長壽度眾生，如今日世尊，諸釋中之王，道場師子吼，說法無所畏。",
+        "from": "T33n1716_007:0771b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我等於未來，一切所尊敬，坐於道場時，說壽亦如是。」",
+        "from": "T33n1716_007:0771b20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此即觀心本妙，得六即利益之相(云云)。",
+        "from": "T33n1716_007:0771b21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "△問：大妙云何？",
+        "from": "T33n1716_007:0771b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：此應三雙六句分別(云云)。",
+        "from": "T33n1716_007:0771b23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文云：「佛自住大乘。」",
+        "from": "T33n1716_007:0771b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又云：「如是大果報。」",
+        "from": "T33n1716_007:0771b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又云：「有大車。」",
+        "from": "T33n1716_007:0771b24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而題稱為妙。",
+        "from": "T33n1716_007:0771b25_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如《涅槃》云：「大般涅槃，微妙經典。」",
+        "from": "T33n1716_007:0771b25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而題稱為大，即妙是大，即大是妙也。",
+        "from": "T33n1716_007:0771b26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《大品》云：「色非深非妙，乃至識非深非妙。」",
+        "from": "T33n1716_007:0771b27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此是大破妙。",
+        "from": "T33n1716_007:0771b28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此文云：「一切法空寂，無漏、無為、無大、無小。」",
+        "from": "T33n1716_007:0771b28_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此是妙破大。",
+        "from": "T33n1716_007:0771c01_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如大阿羅漢，此大猶修於妙，如滅、止、妙、離，此妙猶更修大(云云)。",
+        "from": "T33n1716_007:0771c01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：若大妙一等，餘經俱應稱妙。",
+        "from": "T33n1716_007:0771c03_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：餘經通論，約理大妙不殊，而別帶方便；此經不帶方便，故別稱妙。",
+        "from": "T33n1716_007:0771c03_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "小乘得入，發迹顯本，故別稱妙。",
+        "from": "T33n1716_007:0771c05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：大小俱稱妙，大小俱明常，一往斥之(云云)。",
+        "from": "T33n1716_007:0771c06_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "小乘滅止妙離，名同理異，不得是常，並云不得是妙？",
+        "from": "T33n1716_007:0771c07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：妙名不可思議，小乘真諦，亡言絕慮，通得是不思議，通名為妙耳。",
+        "from": "T33n1716_007:0771c08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次當縱之，亦得以三無為稱常而常異。",
+        "from": "T33n1716_007:0771c10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又並既俱稱常，亦俱會一？",
+        "from": "T33n1716_007:0771c11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：會諸見同入真，而會異。",
+        "from": "T33n1716_007:0771c11_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又並俱無常俱麁，俱不會耶！",
+        "from": "T33n1716_007:0771c12_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "例通而義異，云何大乘無常？",
+        "from": "T33n1716_007:0771c12_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大乘非但無無常，亦無於常，以無於常，故言無常，云何大乘是麁！",
+        "from": "T33n1716_007:0771c13_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫有言說即名為麁，云何大乘不會耶！",
+        "from": "T33n1716_007:0771c15_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切諸法皆是佛法，更何所會(云云)。",
+        "from": "T33n1716_007:0771c16_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "△次、釋蓮華者，為四意：一、定法譬。",
+        "from": "T33n1716_007:0771c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二、引舊釋。",
+        "from": "T33n1716_007:0771c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三、出經論。",
+        "from": "T33n1716_007:0771c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四、正解釋。",
+        "from": "T33n1716_007:0771c18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "定法譬者，權實難顯，借喻蓮華，譬於妙法。",
+        "from": "T33n1716_007:0771c18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又七喻文多，故以譬標題。",
+        "from": "T33n1716_007:0771c19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又解云：蓮華非譬，當體得名。",
+        "from": "T33n1716_007:0771c20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "類如劫初，萬物無名，聖人觀理，準則作名：如蛛羅引絲，倣之結網；蓬飛獨運，依而造車；浮槎汎流而立舟；鳥跡成文而寫字；皆法理而制事耳。",
+        "from": "T33n1716_007:0771c21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今蓮華之稱，非是假喻，乃是法華法門；法華法門清淨，因果微妙，名此法門為蓮華，即是法華三昧當體之名，非譬喻也。",
+        "from": "T33n1716_007:0771c24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘經多自釋名，此經無解，或是其文未度耳。",
+        "from": "T33n1716_007:0771c27_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而此兩釋皆有道理，今融二意。",
+        "from": "T33n1716_007:0771c28_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：蓮華定是法華三昧之蓮華？",
+        "from": "T33n1716_007:0771c29_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "定是華草之蓮華？",
+        "from": "T33n1716_007:0772a01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：定是法蓮華，法蓮華難解，故草華為喻。",
+        "from": "T33n1716_007:0772a01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "利根即名解理，不假譬喻，但作法華之解。",
+        "from": "T33n1716_007:0772a02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中、下未悟，須譬乃知，以易解之蓮華，喻難解之蓮華。",
+        "from": "T33n1716_007:0772a03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故有三周說法，逗上、中、下根。",
+        "from": "T33n1716_007:0772a04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "約上根是法名，約中、下是譬名；三根合論，雙標法譬。",
+        "from": "T33n1716_007:0772a05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如此解者，與誰為諍耶！",
+        "from": "T33n1716_007:0772a06_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今且依法譬為釋也。",
+        "from": "T33n1716_007:0772a07_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二、引舊解。",
+        "from": "T33n1716_007:0772a07_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "叡師序云：「未敷名屈摩羅，將落名迦摩羅，處中盛時名分陀利。」",
+        "from": "T33n1716_007:0772a08_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠師云：分陀利伽是蓮華開喻，然體逐時，遷名隨色變，故有三名也。",
+        "from": "T33n1716_007:0772a09_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《大經》亦云：「人中蓮華、分陀利華。」",
+        "from": "T33n1716_007:0772a11_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二名並題者，應有通、別之異。",
+        "from": "T33n1716_007:0772a11_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今取蓮華是通；分陀利是別稱。",
+        "from": "T33n1716_007:0772a12_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道朗云：鮮白色，或翻為赤色，或翻為最香，如此皆是開盛之義，舉分陀利，則兼之矣！",
+        "from": "T33n1716_007:0772a13_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：梵本舉別，此方用通，何也？",
+        "from": "T33n1716_007:0772a15_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：外國有三時名，此方則無，但舉通名，通自兼別。",
+        "from": "T33n1716_007:0772a15_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "他解蓮華有十六義：蓮華從緣生，譬佛性從緣起；蓮華能生梵王，譬從緣生佛；蓮華生必在淤泥，譬解起生死；蓮華是瑞見者歡喜，譬見者成佛；蓮華從微之著，譬一禮一念皆得作佛；蓮華必俱，譬因果亦俱；華必蓮，譬因必作佛；蓮華，譬引入蓮華世界；蓮華是佛所踐，譬眾聖託生。",
+        "from": "T33n1716_007:0772a17_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此十譬秖是今家譬行妙中片意耳。",
+        "from": "T33n1716_007:0772a23_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓮華生淤泥，淤泥不染，譬一在三中，三不染一；蓮華三時異，譬開三秖是一；蓮華有開有合，譬對緣有隱有顯；蓮華於諸華最勝，譬諸說中第一；華開實顯，譬巧說理顯；蓮華有三時異，譬權實適時。",
+        "from": "T33n1716_007:0772a24_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此六譬秖是今家說法妙中片意耳。",
+        "from": "T33n1716_007:0772b01_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如光宅云：餘華華果不俱，譬餘經偏明因果；此蓮華華果必俱，譬此經雙辨因果；弟子門明因，師門明果，故借蓮華為喻。",
+        "from": "T33n1716_007:0772b02_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今謂此解語略而義偏。",
+        "from": "T33n1716_007:0772b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若迹門師、弟，各有因果，文云：「我盡行諸佛所有道法……道場得成果。」",
+        "from": "T33n1716_007:0772b05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即師之因果；會三歸一即弟子因，得記作佛即弟子果。",
+        "from": "T33n1716_007:0772b07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本門云：我本行菩薩道時，即師因；我得佛已來，甚大久遠，即師果；我昔教其初發心，即弟子因；今皆住不退，悉當得成佛，即弟子果。",
+        "from": "T33n1716_007:0772b08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼義偏略，故不用。",
+        "from": "T33n1716_007:0772b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且助成其語，如四微色法，不當華之與蓮，而約微論華論蓮；今實相之理，不當本迹因果，而約理明於本迹因果耳。",
+        "from": "T33n1716_007:0772b11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如四微不當開之與合，而約微論開合；實相不當權實，而約實相論開權顯實，發迹顯本耳。",
+        "from": "T33n1716_007:0772b14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三、引經論者，《法華論》列十七名：一、無量義。",
+        "from": "T33n1716_007:0772b16_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二、最勝。",
+        "from": "T33n1716_007:0772b17_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三、大方等。",
+        "from": "T33n1716_007:0772b18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四、教菩薩法。",
+        "from": "T33n1716_007:0772b18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五、佛所護念。",
+        "from": "T33n1716_007:0772b18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六、諸佛祕藏。",
+        "from": "T33n1716_007:0772b18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七、一切佛藏。",
+        "from": "T33n1716_007:0772b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八、一切佛密字。",
+        "from": "T33n1716_007:0772b19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九、生一切佛。",
+        "from": "T33n1716_007:0772b19_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十、一切佛道場。",
+        "from": "T33n1716_007:0772b20_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十一、一切佛所轉法輪。",
+        "from": "T33n1716_007:0772b20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十二、一切佛堅固舍利。",
+        "from": "T33n1716_007:0772b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十三、諸佛大巧方便。",
+        "from": "T33n1716_007:0772b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十四、說一乘。",
+        "from": "T33n1716_007:0772b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十五、第一義住。",
+        "from": "T33n1716_007:0772b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十六、妙法蓮華。",
+        "from": "T33n1716_007:0772b22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十七、法門攝無量名字句身，頻婆羅、阿閦婆等。",
+        "from": "T33n1716_007:0772b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘名悉不解釋，唯列十七名。",
+        "from": "T33n1716_007:0772b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次、解蓮華有二義：一、出水義，不可盡出離小乘泥濁水故。",
+        "from": "T33n1716_007:0772b24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復有義蓮華出泥水，喻諸聲聞入如來大眾中坐，如諸菩薩坐蓮華上，聞說無上智慧清淨境界，證如來密藏故。",
+        "from": "T33n1716_007:0772b26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二、華開者，眾生於大乘中，心怯弱不能生信故，開示如來淨妙法身，令生信心故。",
+        "from": "T33n1716_007:0772b28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今解論意，若言令眾生見淨妙法身者，此以妙因開發為蓮華也。",
+        "from": "T33n1716_007:0772c02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若言入如來大眾坐蓮華上者，此以妙報國土為蓮華也。",
+        "from": "T33n1716_007:0772c04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何者？",
+        "from": "T33n1716_007:0772c05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盧舍那佛處蓮華藏海，共大菩薩皆非生死人。",
+        "from": "T33n1716_007:0772c05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若聲聞得入於此，即妙報國土為蓮華也。",
+        "from": "T33n1716_007:0772c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼論望今意，乃是行、位兩妙耳。",
+        "from": "T33n1716_007:0772c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《大集》云：「憐愍為莖、智慧葉、三昧為鬚、解脫敷，菩薩蜂王食甘露，我今敬禮佛蓮華。",
+        "from": "T33n1716_007:0772c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又以戒、定、慧陀羅尼為纓珞，莊嚴菩薩。」",
+        "from": "T33n1716_007:0772c10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今解經，當是菩薩攬四法成假名人，如蜂在華；復以前四法自資，如蜂食華也。",
+        "from": "T33n1716_007:0772c11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四、正釋者，若依《大集》，行法因果為蓮華，菩薩處上即是因華，禮佛蓮華即是果華。",
+        "from": "T33n1716_007:0772c13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若依《法華論》，以依報國土為蓮華，復由菩薩修蓮華行，報得蓮華國土。",
+        "from": "T33n1716_007:0772c15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知依正因果悉是蓮華之法，何須譬顯？",
+        "from": "T33n1716_007:0772c17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為鈍根人不解法性蓮華故，舉世華為譬，亦應何妨！",
+        "from": "T33n1716_007:0772c18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然經文兩處，說優曇鉢華時一現耳。",
+        "from": "T33n1716_007:0772c19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此華若生，輪王應出。",
+        "from": "T33n1716_007:0772c20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若說此經，即授佛記，法王王世也。",
+        "from": "T33n1716_007:0772c20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此靈瑞華似蓮華，故以為喻。",
+        "from": "T33n1716_007:0772c21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若從此意，即是借喻，喻於妙法。",
+        "from": "T33n1716_007:0772c22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫喻有少喻、遍喻，如《涅槃》(云云)但少喻，以月喻面，不得求其眉目；雪出況象，不可覓其尾牙。",
+        "from": "T33n1716_007:0772c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今法華三昧無以為喻，喻此蓮華耳。",
+        "from": "T33n1716_007:0772c25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫華有多種，已如前說。",
+        "from": "T33n1716_007:0772c26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯此蓮華，華果俱多，可譬因含萬行、果圓萬德，故以為譬。",
+        "from": "T33n1716_007:0772c26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又餘華麁，喻九法界十如是因果；此華妙，喻佛法界十如因果。",
+        "from": "T33n1716_007:0772c28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又、以此華喻佛法界迹、本兩門，各有三喻。",
+        "from": "T33n1716_007:0773a01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喻迹者：一、華生必有於蓮，為蓮而華，蓮不可見，此譬約實明權、意在於實，無能知者。",
+        "from": "T33n1716_007:0773a02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文云：「我意難可測，無能發問者。」",
+        "from": "T33n1716_007:0773a04_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又云：「隨宜所說，意趣難解。」",
+        "from": "T33n1716_007:0773a05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二、華開故蓮現，而須華養蓮，譬權中有實，而不能知。",
+        "from": "T33n1716_007:0773a06_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今開權顯實，意須於權，廣識恒沙佛法者，秖為成實，使深識佛知見耳。",
+        "from": "T33n1716_007:0773a07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三、華落蓮成，即喻廢三顯一，唯一佛乘直至道場。",
+        "from": "T33n1716_007:0773a09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩有行，見不了了，但如華開；諸佛以不行故，見則了了，譬如華落蓮成。",
+        "from": "T33n1716_007:0773a10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此三譬迹門，從初方便，引入大乘，終竟圓滿也。",
+        "from": "T33n1716_007:0773a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又三譬譬本門者：一、華必有蓮，譬迹必有本，迹含於本。",
+        "from": "T33n1716_007:0773a13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意雖在本，佛旨難知，彌勒不識。",
+        "from": "T33n1716_007:0773a14_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二、華開蓮現，譬開迹顯本，意在於迹。",
+        "from": "T33n1716_007:0773a15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能令菩薩識佛方便，既識迹已，還識於本，增道損生。",
+        "from": "T33n1716_007:0773a16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三、華落蓮成，譬廢迹顯本。",
+        "from": "T33n1716_007:0773a17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既識本已不復迷迹，但於法身修道，圓滿上地也。",
+        "from": "T33n1716_007:0773a17_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此三譬，譬本門，始從初開，終至本地。",
+        "from": "T33n1716_007:0773a19_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二門六譬，各有所擬：初、重約佛界十如，施出九界十如。",
+        "from": "T33n1716_007:0773a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次、重開九界十如，顯佛界十如。",
+        "from": "T33n1716_007:0773a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三、重廢九界十如，成佛界十如。",
+        "from": "T33n1716_007:0773a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三譬攝得迹門始終盡。",
+        "from": "T33n1716_007:0773a22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若得此意，十二因緣、四諦、三諦，等智、行、位，乃至功德利益，亦用此譬譬之(云云)。",
+        "from": "T33n1716_007:0773a23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第四、重約本佛界十如，施出迹中佛界十如。",
+        "from": "T33n1716_007:0773a25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第五、重開迹中佛界十如，顯出本中佛界十如。",
+        "from": "T33n1716_007:0773a26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第六、重廢迹中佛界十如，成本中佛界十如。",
+        "from": "T33n1716_007:0773a27_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "始終圓滿開合具足，是為少分以蓮華為譬也。",
+        "from": "T33n1716_007:0773a28_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多分喻者，《釋論》解師子吼義，從深山谷種生長，身力手足，爪牙頭尾，震吼等譬，譬師子吼法門。",
+        "from": "T33n1716_007:0773b01_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦如《大經》，明波利質多樹，黃嘴皰果等，遍喻行人。",
+        "from": "T33n1716_007:0773b03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今亦如是，從初種子乃至蓮成，喻於妙法也。",
+        "from": "T33n1716_007:0773b04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如石蓮，烏皮在外，白肉在內，四微為質，卷荷欲生，微細眾具，開華、布鬚、蓮實、房成，初後不異蓮華，始終十義具足。",
+        "from": "T33n1716_007:0773b05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬佛界眾生，始自無明，終至佛果，十如是法，無有缺減。",
+        "from": "T33n1716_007:0773b08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "總譬竟。",
+        "from": "T33n1716_007:0773b09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如石蓮，黑則叵染，硬則叵壞，不方不圓，不生不滅。",
+        "from": "T33n1716_007:0773b10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "劫初無種故不生，今不異初故不滅，是名蓮子相。",
+        "from": "T33n1716_007:0773b11_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切眾生自性清淨心，亦復如是，不為客塵所染，生死重積，而心性不住、不動、不生不滅，即是佛界如是相。",
+        "from": "T33n1716_007:0773b12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《淨名》曰：「一切眾生即菩提相。」",
+        "from": "T33n1716_007:0773b15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即其義也。",
+        "from": "T33n1716_007:0773b15_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如蓮子，雖復烏皮淤泥之中，白肉不改，一切眾生了因智慧，亦復如是。",
+        "from": "T33n1716_007:0773b16_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五住淤泥，生死果報，一切智願，猶在不失，是名佛界如是性，故言煩惱即菩提。",
+        "from": "T33n1716_007:0773b17_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又諸法不生般若生，即其義也。",
+        "from": "T33n1716_007:0773b19_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如蓮子在淤泥中，而四微不朽，是名蓮子體。",
+        "from": "T33n1716_007:0773b20_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切眾生正因佛性，亦復如是。",
+        "from": "T33n1716_007:0773b21_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常樂我淨，不動不壞，名佛界如是體。",
+        "from": "T33n1716_007:0773b22_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《大經》言：「是味真正停留在山，草木叢林不能覆滅。」",
+        "from": "T33n1716_007:0773b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即其義也。",
+        "from": "T33n1716_007:0773b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如蓮子為皮殼所籠，為泥所沒，而卷荷在心，而有生長以氣，一切眾生心亦如是，雖為苦果所縛，集惑所沈，而能於中發菩提心，甚大雄猛如師子乳，如師子筋弦，是名佛界如是力。",
+        "from": "T33n1716_007:0773b24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經言：「若發菩提心，動無邊生死，破無始有輪」，閻浮人未見果而能勇猛發心也。",
+        "from": "T33n1716_007:0773b28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如蓮子，雖復微小，烏皮之內，具有根、莖、華、葉、鬚、臺、眾具頓足，是名蓮子如是作。",
+        "from": "T33n1716_007:0773c02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切眾生初發菩提心，亦復如是，明解決定，慈悲誓願，上求下化，誓取成就，志不疲退，是名佛界如是作。",
+        "from": "T33n1716_007:0773c04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《華首經》言：「一切諸功德，皆在初心中。」",
+        "from": "T33n1716_007:0773c06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即其義也。",
+        "from": "T33n1716_007:0773c07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如蓮子，根依淤泥而華處虛空，風日照動，晝夜增長，榮耀頓足。",
+        "from": "T33n1716_007:0773c07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切眾生，亦復如是，從無明際，發菩提心，修菩薩行，出離生死，入法性中，因行成就，值於佛日，被神通風，其心念念，入薩婆若海，此名佛界如是因。",
+        "from": "T33n1716_007:0773c09_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經言：「於無量劫所作功德，不如五莖蓮華上然燈佛得功德多。」",
+        "from": "T33n1716_007:0773c12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此是真因成就，即其義也。",
+        "from": "T33n1716_007:0773c14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如蓮華，鬚蘂圍遶在華內蓮外，此名蓮華如是緣。",
+        "from": "T33n1716_007:0773c15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩亦如是，於真因中，具足萬行六波羅蜜，一行一切行，資助於因，如鬚在華內，若得果時，眾行休息，如鬚在蓮外，是名佛界如是緣。",
+        "from": "T33n1716_007:0773c16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經言：「盡行諸佛，所有道法。」",
+        "from": "T33n1716_007:0773c19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即其義也。",
+        "from": "T33n1716_007:0773c20_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如蓮華，華成結蓮，而華葉零落，臺子成實，此名蓮子如是果。",
+        "from": "T33n1716_007:0773c20_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩亦如是，真因所感，無上菩提，大果圓滿，究竟成實，是名佛界如是果。",
+        "from": "T33n1716_007:0773c21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故經言：「佛子行道已，來世得作佛。」",
+        "from": "T33n1716_007:0773c23_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即其義也。",
+        "from": "T33n1716_007:0773c24_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如蓮實，房臺包遶，此名蓮子如是報。",
+        "from": "T33n1716_007:0773c24_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩亦如是，大果圓滿，無上報足，習果之果，依於報果，如實依臺。",
+        "from": "T33n1716_007:0773c25_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經言：「如是大果報，久修業所得。」",
+        "from": "T33n1716_007:0773c27_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即其義也。",
+        "from": "T33n1716_007:0773c27_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如泥蓮四微，處空蓮四微，初後不異，此名蓮子本末等。",
+        "from": "T33n1716_007:0773c28_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切眾生亦如是，本有四德，隱名如來藏，修成四德顯，名為法身，性德修德，常樂我淨，一而無二，是名佛界十如本末究竟等。",
+        "from": "T33n1716_007:0774a01_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經言：「眾生如佛如，一如無二如。」",
+        "from": "T33n1716_007:0774a04_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即其義也。",
+        "from": "T33n1716_007:0774a04_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是用蓮華譬十如境竟。",
+        "from": "T33n1716_007:0774a05_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次、用蓮華譬十二因緣者，烏皮淤泥，水草重覆，通如上說也，即是無明支種子；能生力即是行支；內有卷荷，華鬚備具，即是識、名色、六入、觸、受支，含潤愛、取、有支；團圓盤屈，不能得出，即是老死支。",
+        "from": "T33n1716_007:0774a05_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能芽鋒萌動，鑽烏皮破，即是無明滅；不復在烏皮內生，即是諸行滅；出[穀-禾+卵]殼外，即是老死滅，此略譬四種十二因緣也。",
+        "from": "T33n1716_007:0774a10_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次、用蓮華譬四諦者，烏皮譬界內苦，白肉譬界內集，泥譬界外集，水譬界外苦，道滅可知。",
+        "from": "T33n1716_007:0774a13_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此通譬四種四諦也。",
+        "from": "T33n1716_007:0774a15_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次、用蓮華譬二諦者，蓮藕莖葉等譬俗，蓮藕莖孔空譬真，此通譬七種二諦也。",
+        "from": "T33n1716_007:0774a15_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次、用蓮華譬三諦者，真俗如前，四微擬常樂我淨，譬中道第一義諦，此通譬五種三諦也。",
+        "from": "T33n1716_007:0774a17_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四微無生無滅，譬一實諦。",
+        "from": "T33n1716_007:0774a19_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "劫初無生，今時無滅，譬無諦無說也。",
+        "from": "T33n1716_007:0774a20_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "用蓮華譬境妙竟。",
+        "from": "T33n1716_007:0774a21_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次、更譬九妙者，內有生性譬智妙，卷荷生性譬空智妙，鬚葉生性譬假智妙，蓮臺四微生性譬中智妙，此三生性譬一心三智妙也。",
+        "from": "T33n1716_007:0774a21_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓮子雖小，備有根、莖、華、葉，譬行妙，莖即慈悲，葉即智慧，鬚即三昧，開敷即解脫。",
+        "from": "T33n1716_007:0774a24_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又葉以譬三慈者，覆水青葉，譬眾生緣慈；覆水黃葉，譬法緣慈；倚葉譬無緣慈。",
+        "from": "T33n1716_007:0774a26_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倚荷若出，蓮生不久，無緣慈成，得記不久。",
+        "from": "T33n1716_007:0774a28_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又根、華、子、葉，利益人、蜂即檀，香氣即尸，生泥不辱即忍，增長即精進，柔濕即禪，不污即慧，齊此譬行妙也。",
+        "from": "T33n1716_007:0774b01_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓮譬理即位：芽鑽皮麁住位；芽出皮細住位；鑽泥欲定位；齊泥未到位；出泥在水四禪位；禪定如水，能洗欲塵，處水增長，譬無色位；齊此譬觀行蓮華位；出水譬破見思，相似蓮華十信位；處空含而欲敷，譬十住位；鬚臺可識，譬十行位；隨日開迴，譬十迴向位；敷舒成就荷負蜂蝶，譬十地位；鬚葉零落，臺子獨在，譬休息眾行，妙覺圓滿，果上無事，真常湛然，此皆譬位妙也。",
+        "from": "T33n1716_007:0774b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓮有四微，譬真性軌；蓮房內虛，莖藕中空，譬觀照軌；臺房圍遶，譬資成軌。",
+        "from": "T33n1716_007:0774b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此譬三法乘妙也。",
+        "from": "T33n1716_007:0774b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓮成處空，影臨清水，譬顯機顯應；影臨濁水，譬冥機冥應；影臨風浪之水，譬亦冥亦顯機應。",
+        "from": "T33n1716_007:0774b14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《大經》云：闇中樹影，夜影臨水，譬非冥非顯機應，此等譬感應妙也。",
+        "from": "T33n1716_007:0774b17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若風搖蓮華，東昂西倒，向南映北，下風則合，上風則開者，即譬東涌西沒、中涌邊沒等，此譬地動瑞。",
+        "from": "T33n1716_007:0774b18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日暮華合，譬入定瑞。",
+        "from": "T33n1716_007:0774b20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日出華開，譬說法瑞。",
+        "from": "T33n1716_007:0774b21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠望則紅，近望則白，赤華青葉，相映輝赫，譬放光瑞。",
+        "from": "T33n1716_007:0774b21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流芳遍野，譬栴檀風瑞。",
+        "from": "T33n1716_007:0774b23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蘂粖飄颺，譬天雨華瑞。",
+        "from": "T33n1716_007:0774b23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "風雨飄灑，翻珠相棠，譬天鼓自然鳴瑞。",
+        "from": "T33n1716_007:0774b24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此等皆譬神通妙也。",
+        "from": "T33n1716_007:0774b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "華合未開，譬隱一乘，分別說三；華葉正開，譬會三歸一，但說一乘；華落蓮存，譬絕教冥理；若知如來常不說法乃名多聞，此等譬說法妙也。",
+        "from": "T33n1716_007:0774b25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從一藕邊更生一華，展轉復生無量蓮華，譬業生眷屬妙；從一蓮房墮子在泥，更生蓮華，展轉復生無量蓮華，譬神通眷屬妙；掘移彼藕，採彼蓮子，種於此池，蓮華熾盛，譬願生眷屬妙；彼池飛來，如遊絲薄霧，入於此池，蓮華熾盛，譬應生眷屬妙。",
+        "from": "T33n1716_007:0774b28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "魚鼈噞喁其下，蜂蝶翔集其上，譬眾生果報清涼之妙益；見者歡喜，譬於因益；採用其葉，譬三草益；採用其華，譬妙小樹益；採用其蓮，譬妙大樹益；採用其藕，譬妙實事益。",
+        "from": "T33n1716_007:0774c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此等譬功德利益。",
+        "from": "T33n1716_007:0774c10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是等譬及餘無量譬喻，以譬迹中十妙(云云)。",
+        "from": "T33n1716_007:0774c11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次、譬本者，譬如一池蓮華始熟，熟已墮落，投於泥水，方復生長，乃至成熟，如是展轉更生熟，歲月既積，遂遍大池，華田布滿。",
+        "from": "T33n1716_007:0774c12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛亦如是，本初修因證果已竟，為眾生故更起方便，在生死中，示初發心，復示究竟。",
+        "from": "T33n1716_007:0774c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "數數生滅，無數百千，本地垂應，俯同凡俗，更修五行。",
+        "from": "T33n1716_007:0774c16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "烏蓮更生莖葉，譬更修聖行；蓮子四微，稍稍增長，譬更修天行；荷葉始生，譬更修梵行；蓮子墮泥，譬同諸惡更修病行；蓮芽始萌，譬同小善，更修嬰兒行。",
+        "from": "T33n1716_007:0774c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是三世益物，不可稱計，遍滿法界，無非分身、垂迹、開迹、廢迹等益(云云)。",
+        "from": "T33n1716_007:0774c21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若非蓮華，何由遍喻上來諸法？",
+        "from": "T33n1716_007:0774c23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法、譬雙辨，故稱妙法蓮華也。",
+        "from": "T33n1716_007:0774c24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙法蓮華經玄義卷第七下",
+        "from": "T33n1716_007:0774c25_0",
         "context_with_next_sentence": false
     }
 ]

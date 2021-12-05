@@ -265,7 +265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "也是拈[飢几+追]舐指人。",
+        "source_sentence": "也是拈[飢-几+追]舐指人。",
         "from": "T47n1998A_010:0851a03_3",
         "context_with_next_sentence": true
     },
@@ -2410,7 +2410,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有甚饆鑼[飢几+追]子快下將來。",
+        "source_sentence": "有甚饆鑼[飢-几+追]子快下將來。",
         "from": "T47n1998A_010:0853a07_0",
         "context_with_next_sentence": true
     },
@@ -4130,7 +4130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "差毫釐成話杷。",
+        "source_sentence": "差毫釐成話&#;。",
         "from": "T47n1998A_010:0854c05_2",
         "context_with_next_sentence": true
     },

@@ -620,7 +620,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二頭指各[打丁+必]在中指無名指岐間。",
+        "source_sentence": "二頭指各[打-丁+必]在中指無名指岐間。",
         "from": "T20n1092_004:0246a22_2",
         "context_with_next_sentence": true
     },
@@ -860,7 +860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+必]押頭指上第一節上。",
+        "source_sentence": "[打-丁+必]押頭指上第一節上。",
         "from": "T20n1092_004:0246c05_2",
         "context_with_next_sentence": true
     },
@@ -1215,7 +1215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)藥[起巳+乞]灑(二合)地鉢底(二)素嚕素嚕(三)[合*牛](四)此印三昧摧破一切藥叉鬼神惡心散壞。",
+        "source_sentence": "唵(一)藥[起-巳+乞]灑(二合)地鉢底(二)素嚕素嚕(三)[合*牛](四)此印三昧摧破一切藥叉鬼神惡心散壞。",
         "from": "T20n1092_004:0247b07_0",
         "context_with_next_sentence": true
     },

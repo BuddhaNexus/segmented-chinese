@@ -1440,7 +1440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "至心經之無罣礙句。",
+        "source_sentence": "至心經之無&#;礙句。",
         "from": "X78n1550_001:0318c06_7",
         "context_with_next_sentence": true
     },
@@ -5210,7 +5210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "輕如一[(畾/(冗几+互))*毛]。",
+        "source_sentence": "輕如一[(畾/(冗-几+互))*毛]。",
         "from": "X78n1550_001:0321b13_3",
         "context_with_next_sentence": true
     },

@@ -4755,7 +4755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "X16n0318_005:0831b12_31",
         "context_with_next_sentence": true
     },
@@ -22600,7 +22600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "好看捲[袖由+貴]。",
+        "source_sentence": "好看捲[袖-由+貴]。",
         "from": "X16n0318_005:0844c18_7",
         "context_with_next_sentence": true
     },
@@ -24200,7 +24200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寂止無痕。",
+        "source_sentence": "寂止無㾗。",
         "from": "X16n0318_005:0846a13_19",
         "context_with_next_sentence": true
     },
@@ -26655,18 +26655,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "兩種猶如鏡上痕。",
+        "source_sentence": "兩種猶如鏡上㾗。",
         "from": "X16n0318_005:0848a07_7",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "痕垢盡時光始現。",
+        "source_sentence": "㾗垢盡時光始現。",
         "from": "X16n0318_005:0848a07_8",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "心",
+        "source_sentence": "心法雙忘性即真。",
         "from": "X16n0318_005:0848a07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大意類此。",
+        "from": "X16n0318_005:0848a08_10",
         "context_with_next_sentence": false
     }
 ]

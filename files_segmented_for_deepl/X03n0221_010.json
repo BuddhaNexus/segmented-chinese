@@ -16500,7 +16500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自在無[得彳]名通。",
+        "source_sentence": "自在無[得-彳]名通。",
         "from": "X03n0221_010:0759a03_5",
         "context_with_next_sentence": true
     },
@@ -16635,7 +16635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "照矚無[得彳]。",
+        "source_sentence": "照矚無[得-彳]。",
         "from": "X03n0221_010:0759a09_19",
         "context_with_next_sentence": true
     },

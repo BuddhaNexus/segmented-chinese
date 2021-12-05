@@ -9400,7 +9400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[烈列+就]為主客亦不可以是第三說故不是正義。",
+        "source_sentence": "[烈-列+就]為主客亦不可以是第三說故不是正義。",
         "from": "T41n1822_021:0719c16_34",
         "context_with_next_sentence": true
     },
@@ -12742,6 +12742,21 @@
     {
         "source_sentence": "俱舍論疏卷第二十一",
         "from": "T41n1822_021:0723b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一交了",
+        "from": "T41n1822_021:0723b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "保延三年九月二十四申時點了",
+        "from": "T41n1822_021:0723b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覺樹",
+        "from": "T41n1822_021:0723b17_0",
         "context_with_next_sentence": false
     }
 ]

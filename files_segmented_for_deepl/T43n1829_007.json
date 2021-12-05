@@ -660,7 +660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[火*(离禸+貝)]熾名燬故。",
+        "source_sentence": "[火*(离-禸+貝)]熾名燬故。",
         "from": "T43n1829_007:0096c02_6",
         "context_with_next_sentence": true
     },
@@ -5165,7 +5165,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或浮皮袋或[泳永+奈][木*茂]。",
+        "source_sentence": "或浮皮袋或[泳-永+奈][木*茂]。",
         "from": "T43n1829_007:0100c18_14",
         "context_with_next_sentence": true
     },
@@ -14687,6 +14687,11 @@
     {
         "source_sentence": "瑜伽師地論略纂卷第七",
         "from": "T43n1829_007:0109b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "享保八年(癸卯)四月十二日一交加點畢沙門高範(胎生六十九歲)",
+        "from": "T43n1829_007:0109b07_0",
         "context_with_next_sentence": false
     }
 ]

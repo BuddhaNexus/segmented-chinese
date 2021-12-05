@@ -145,7 +145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "敢以鈍辭[打丁+豆]思序而申之，并目品義題之於首，豈其能益也？",
+        "source_sentence": "敢以鈍辭[打-丁+豆]思序而申之，并目品義題之於首，豈其能益也？",
         "from": "T30n1568_001:0159b26_15",
         "context_with_next_sentence": true
     },
@@ -3352,6 +3352,11 @@
     {
         "source_sentence": "是故當知一切法無生，畢竟空寂故。」",
         "from": "T30n1568_001:0167c05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十二門論一卷",
+        "from": "T30n1568_001:0167c07_0",
         "context_with_next_sentence": false
     }
 ]

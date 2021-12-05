@@ -600,7 +600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "禁[辦力+目]拏禁[辦力+目]拏眾。",
+        "source_sentence": "禁[辦-力+目]拏禁[辦-力+目]拏眾。",
         "from": "T21n1243_001:0210a11_6",
         "context_with_next_sentence": true
     },
@@ -1002,6 +1002,11 @@
     {
         "source_sentence": "世尊此是大福是大威德是大忿怒。",
         "from": "T21n1243_001:0211b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說出生一切如來法眼遍照大力明王經卷上",
+        "from": "T21n1243_001:0211b05_0",
         "context_with_next_sentence": false
     }
 ]

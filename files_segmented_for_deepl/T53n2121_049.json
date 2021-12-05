@@ -365,7 +365,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三沸[這言+(大/隹)]壽典沸沙。",
+        "source_sentence": "三沸[這-言+(大/隹)]壽典沸沙。",
         "from": "T53n2121_049:0259a11_0",
         "context_with_next_sentence": true
     },
@@ -425,7 +425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "十六鐵[竺二+冊](經闕王名)十七身典蛆蟲。",
+        "source_sentence": "十六鐵笧(經闕王名)十七身典蛆蟲。",
         "from": "T53n2121_049:0259a16_12",
         "context_with_next_sentence": true
     },
@@ -1440,7 +1440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以黑繩拼[(巳/廾)*ㄆ][(巳/廾)*ㄆ]斫截。",
+        "source_sentence": "以黑繩拼&#;&#;斫截。",
         "from": "T53n2121_049:0260a19_2",
         "context_with_next_sentence": true
     },

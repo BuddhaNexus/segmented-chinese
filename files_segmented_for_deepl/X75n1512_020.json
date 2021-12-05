@@ -635,7 +635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以驚雷[竺二+友]自奉。",
+        "source_sentence": "以驚雷[竺-二+友]自奉。",
         "from": "X75n1512_020:0206b19_4",
         "context_with_next_sentence": true
     },
@@ -1355,7 +1355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而上人不勝[(厂@((既旡)日+口))*頁]復之恩。",
+        "source_sentence": "而上人不勝[(厂@((既-旡)-日+口))*頁]復之恩。",
         "from": "X75n1512_020:0207a17_6",
         "context_with_next_sentence": true
     },
@@ -1375,7 +1375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "由是杖錫東[(厂@((既旡)日+口))*頁]振衣晨往。",
+        "source_sentence": "由是杖錫東[(厂@((既-旡)-日+口))*頁]振衣晨往。",
         "from": "X75n1512_020:0207a18_10",
         "context_with_next_sentence": true
     },
@@ -3405,7 +3405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "裘納襤縷。",
+        "source_sentence": "裘納繿縷。",
         "from": "X75n1512_020:0208c24_7",
         "context_with_next_sentence": true
     },
@@ -3835,7 +3835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "至旦[牙(必心)+?]以語。",
+        "source_sentence": "至旦[牙-(必-心)+?]以語。",
         "from": "X75n1512_020:0209a23_11",
         "context_with_next_sentence": true
     },
@@ -4530,7 +4530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "空有[牙(必心)+?]鬪。",
+        "source_sentence": "空有[牙-(必-心)+?]鬪。",
         "from": "X75n1512_020:0209c22_0",
         "context_with_next_sentence": true
     },
@@ -4730,7 +4730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其與情性奭然。",
+        "source_sentence": "其與情性&#;然。",
         "from": "X75n1512_020:0210a08_7",
         "context_with_next_sentence": true
     },
@@ -5035,7 +5035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]不幸歟。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]不幸歟。",
         "from": "X75n1512_020:0210b09_19",
         "context_with_next_sentence": true
     },

@@ -600,7 +600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如大海及以眾流，有泡沫聚一切不堅，其性虛弱不可[敲高+亭]觸。",
+        "source_sentence": "譬如大海及以眾流，有泡沫聚一切不堅，其性虛弱不可[敲-高+亭]觸。",
         "from": "T11n0310_042:0243c17_13",
         "context_with_next_sentence": true
     },

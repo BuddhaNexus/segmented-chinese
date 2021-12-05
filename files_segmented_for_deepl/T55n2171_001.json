@@ -240,8 +240,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "狀付圓",
+        "source_sentence": "狀付圓珍。",
         "from": "T55n2171_001:1097a26_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "千萬千萬。",
+        "from": "T55n2171_001:1097a27_12",
         "context_with_next_sentence": false
     }
 ]

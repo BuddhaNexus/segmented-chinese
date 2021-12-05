@@ -370,7 +370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "假使臨事[牙(必心)+?]緣。",
+        "source_sentence": "假使臨事[牙-(必-心)+?]緣。",
         "from": "X41n0732_003:0886a02_19",
         "context_with_next_sentence": true
     },
@@ -7150,7 +7150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "令[替日+虫]熟請。",
+        "source_sentence": "令[替-日+虫]熟請。",
         "from": "X41n0732_003:0890c21_17",
         "context_with_next_sentence": true
     },
@@ -17595,7 +17595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[兩一]今五德。",
+        "source_sentence": "[兩-一]今五德。",
         "from": "X41n0732_003:0898b09_11",
         "context_with_next_sentence": true
     },
@@ -31270,7 +31270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔塞時越注入器中。",
+        "source_sentence": "㧞塞時越注入器中。",
         "from": "X41n0732_003:0907c18_12",
         "context_with_next_sentence": true
     },
@@ -31685,7 +31685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦拔而交之。",
+        "source_sentence": "亦㧞而交之。",
         "from": "X41n0732_003:0908a13_7",
         "context_with_next_sentence": true
     },
@@ -34385,7 +34385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "噎法[网(ㄨ*ㄨ)+又]時。",
+        "source_sentence": "噎法[网-(ㄨ*ㄨ)+又]時。",
         "from": "X41n0732_003:0909c22_4",
         "context_with_next_sentence": true
     },
@@ -37760,7 +37760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "括兩頭[网(ㄨ*ㄨ)+又]網遍也。",
+        "source_sentence": "括兩頭[网-(ㄨ*ㄨ)+又]網遍也。",
         "from": "X41n0732_003:0912a14_6",
         "context_with_next_sentence": true
     },
@@ -39962,6 +39962,21 @@
     {
         "source_sentence": "迦留陀夷。",
         "from": "X41n0732_003:0913b23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞佛制前二戒已。",
+        "from": "X41n0732_003:0913b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "便於女人前。",
+        "from": "X41n0732_003:0913b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲心向彼。",
+        "from": "X41n0732_003:0913b24_2",
         "context_with_next_sentence": false
     }
 ]

@@ -2845,7 +2845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "惟留隻履[曰/月]輕埃。",
+        "source_sentence": "惟留隻履冐輕埃。",
         "from": "T51n2077_013:0549c23_25",
         "context_with_next_sentence": true
     },
@@ -5265,7 +5265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三世諸佛盡在這裏[跳兆+孛]跳。",
+        "source_sentence": "三世諸佛盡在這裏[跳-兆+孛]跳。",
         "from": "T51n2077_013:0551c21_2",
         "context_with_next_sentence": true
     },
@@ -5835,7 +5835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "忽遇拏雲攫霧又且如何。",
+        "source_sentence": "忽遇拏雲㸕霧又且如何。",
         "from": "T51n2077_013:0552b06_6",
         "context_with_next_sentence": true
     },
@@ -7617,6 +7617,141 @@
     {
         "source_sentence": "續傳燈錄卷第十三",
         "from": "T51n2077_013:0553c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "續傳燈錄卷第十四目錄",
+        "from": "T51n2077_013:0554a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大鑑下第十三世",
+        "from": "T51n2077_013:0554a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慧林圓照宗本禪師法嗣二百人",
+        "from": "T51n2077_013:0554a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法雲善本禪師投子修顒禪師",
+        "from": "T51n2077_013:0554a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金山善寧禪師廣靈希祖禪師",
+        "from": "T51n2077_013:0554a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "資壽除巖禪師隱靜守儼禪師",
+        "from": "T51n2077_013:0554a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本覺守一禪師甘露仲宣禪師",
+        "from": "T51n2077_013:0554a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大平守恩禪師靈耀辯良禪師",
+        "from": "T51n2077_013:0554a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "長蘆崇信禪師瑞光守琮禪師",
+        "from": "T51n2077_013:0554a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "水西山軻禪師啟霞慧章禪師",
+        "from": "T51n2077_013:0554a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "石佛曉通禪師南冥善通禪師",
+        "from": "T51n2077_013:0554a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西湖文義禪師韶山杲禪師",
+        "from": "T51n2077_013:0554a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨因惟嶽禪師天童可齊禪師",
+        "from": "T51n2077_013:0554a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬壽普懃禪師香山延泳禪師",
+        "from": "T51n2077_013:0554a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雪竇守卓禪師報本常利禪師",
+        "from": "T51n2077_013:0554a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "資福道芳禪師九嵕著禪師",
+        "from": "T51n2077_013:0554a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "香山法晝禪師琅山載儀禪師",
+        "from": "T51n2077_013:0554a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "定慧遵式禪師廣法法光禪師",
+        "from": "T51n2077_013:0554a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瑞巖永覺禪師法海世長禪師",
+        "from": "T51n2077_013:0554a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "太平慧燈禪師米山崇僊禪師",
+        "from": "T51n2077_013:0554a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶花願禪師嶽林元亨禪師",
+        "from": "T51n2077_013:0554a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "澄慧善珂禪師寶華悟本慶禪師",
+        "from": "T51n2077_013:0554a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨土慧旻禪師澄慧師冕禪師",
+        "from": "T51n2077_013:0554a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "石霜能禪師逍遙聰禪師",
+        "from": "T51n2077_013:0554a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "投子普聰禪師普照處輝禪師",
+        "from": "T51n2077_013:0554a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南禪寧禪師道場慧印禪師",
+        "from": "T51n2077_013:0554a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "褒親祥禪師(已上四十七人見錄)金山法慧禪師乾明慧覺禪師瑞巖有居禪師馬祖崇新菴主靈應本嵩禪師壽寧梵仁禪師福嚴仲孚禪師靈泉宗一禪師保聖永良禪師石塔慧禪師萬壽有琛禪師光化楚萇禪師南禪慧禪師護國靈祐禪師同慶自鑑禪師靈巖慈雲禪師普照真寂禪師功臣宗齡禪師道場良演禪師無錫法平禪師壽寧成務禪師因勝法海禪師蠡口法榮禪師羅漢用誠禪師廣慧道亨禪師宜興顯常禪師資福機清禪師廣教了證禪師仁王安德禪師寶林義蒙禪師象山靈曠禪師福嚴智悅禪師大中子榮禪師感慈慧端禪師華藏希聲禪師乾明可久禪師香城言惠禪師光化仁遜禪師白龍希祖禪師崇壽智海禪師五峯祖印禪師上方可聳禪師雲巖道聲禪師昭慶守嚴禪師四面惟羲禪師華嚴惟素禪師法王法海禪師萬壽義誥禪師秀峯真懿禪師白泉智通禪師報恩重真禪師昭慶宗滿禪師普淨法英禪師焦山義深禪師支提洪占禪師護國祖印禪師靈峯永松禪師南磵智淨禪師湖心義皐禪師澄照守仁禪師無錫志圓禪師練塘清悟禪師延慶德清禪師永明道囦禪師廣教法海禪師崇福惟賢禪師寶華寶月禪師地藏清德禪師崇德省余首座大別法滿禪師淨慈崇善禪師萬壽圓禪師聖壽省聰禪師鷲峯曇清禪師梵天彥琦禪師六安文湛禪師薦福熙禪師廣覺法忠禪師法海明禪師因勝觀禪師龍興如應禪師廣際深禪師文殊芳禪師安樂道思禪師光化真覺禪師施水守淳禪師西院宗戒禪師南祥忠簡禪師神江則軻禪師崑山希祖禪師南華德明禪師壽寧普規禪師陳園浩沾禪師壽寧慧真禪師因勝圓明禪師保福慧[卄/((厂-一)*臣)]禪師瑞巖永利禪師崇福惟善禪師龍溪圓照禪師壽聖自英禪師壽寧宗一禪師天王道肱禪師資福瑞珍禪師靈泉景仁禪師神光合韶禪師靈泉智深禪師上方法廣禪師文殊尚月禪師資勝以遜禪師白蓮愈廉禪師法相用先禪師太平慧真禪師西余安德禪師寶嚴西杲禪師法會子升禪師龍華行慶禪師壽寧可機禪師禪悅慧日禪師安國子志禪師安樂有捷禪師練塘惠滿禪師仰天契達禪師真隱純潔禪師慧日德慧禪師淨光法空禪師龍興自端禪師慧日道祥禪師淨土法慧禪師興國重寧禪師安國子詠禪師永安簡玉禪師承天了宗禪師甘泉立生禪師清修省方禪師靈岩用芳禪師遍福心印禪師龍門普順禪師千頃宗應禪師永泰有澄禪師楊直講居士道齊和尚圓明和尚善德和尚法海和尚報恩志明禪師大寧永賢禪師功臣慧周禪師大盧奉堅禪師靈峯自和禪師多福太素禪師廣際用乾禪師寶琛和尚雞峯止首座(已上一百五十三人無錄)續傳燈錄卷第十四目錄(終)",
+        "from": "T51n2077_013:0554a29_0",
         "context_with_next_sentence": false
     }
 ]

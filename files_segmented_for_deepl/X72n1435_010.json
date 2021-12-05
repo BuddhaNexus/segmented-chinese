@@ -1725,7 +1725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "X72n1435_010:0281c10_10",
         "context_with_next_sentence": true
     },
@@ -2105,7 +2105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[吃乙+小]。",
+        "source_sentence": "&#;。",
         "from": "X72n1435_010:0282a12_8",
         "context_with_next_sentence": true
     },
@@ -4725,7 +4725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大愚邊拔本。",
+        "source_sentence": "大愚邊㧞本。",
         "from": "X72n1435_010:0284a14_6",
         "context_with_next_sentence": true
     },
@@ -6035,7 +6035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "善建者不拔。",
+        "source_sentence": "善建者不㧞。",
         "from": "X72n1435_010:0285a16_1",
         "context_with_next_sentence": true
     },

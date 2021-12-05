@@ -15960,7 +15960,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如[荳一+死]豆瘡。",
+        "source_sentence": "如[荳-一+死]豆瘡。",
         "from": "T43n1829_001:0013b07_30",
         "context_with_next_sentence": true
     },
@@ -22585,7 +22585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "吒[打丁+虎]等五。",
+        "source_sentence": "吒[打-丁+虎]等五。",
         "from": "T43n1829_001:0018b13_0",
         "context_with_next_sentence": true
     },
@@ -23207,6 +23207,11 @@
     {
         "source_sentence": "瑜伽師地論略纂卷第一",
         "from": "T43n1829_001:0018c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "旹享保六(辛丑)十二月十六日一交加麁點畢沙門高範(胎生六十七法﨟五十五)",
+        "from": "T43n1829_001:0018c25_0",
         "context_with_next_sentence": false
     }
 ]

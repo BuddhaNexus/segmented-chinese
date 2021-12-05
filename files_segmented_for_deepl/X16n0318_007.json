@@ -4025,7 +4025,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "閉[口*(隸木+上)]多揭囉訶。",
+        "source_sentence": "閉[口*(隸-木+上)]多揭囉訶。",
         "from": "X16n0318_007:0880b22_17",
         "context_with_next_sentence": true
     },
@@ -5350,12 +5350,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有人乞[飢几+追]。",
+        "source_sentence": "有人乞[飢-几+追]。",
         "from": "X16n0318_007:0881c05_14",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "變麵為[飢几+追]與他。",
+        "source_sentence": "變麫為[飢-几+追]與他。",
         "from": "X16n0318_007:0881c05_15",
         "context_with_next_sentence": true
     },
@@ -14552,6 +14552,11 @@
     {
         "source_sentence": "天堂地獄所不能攝。",
         "from": "X16n0318_007:0889a02_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又何十二種類之所能轉哉。",
+        "from": "X16n0318_007:0889a03_0",
         "context_with_next_sentence": false
     }
 ]

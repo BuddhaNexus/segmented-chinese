@@ -8015,7 +8015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於路脚[跳兆+殳]二瓶破者喻彼二人身壞命終。",
+        "source_sentence": "於路脚[跳-兆+殳]二瓶破者喻彼二人身壞命終。",
         "from": "T37n1764_006:0766b25_10",
         "context_with_next_sentence": true
     },
@@ -23732,6 +23732,16 @@
     {
         "source_sentence": "涅槃義記卷第六",
         "from": "T37n1764_006:0785c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應永三歲五月二十日加修補書入關字了。",
+        "from": "T37n1764_006:0785c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　　法印權大僧都賢寶",
+        "from": "T37n1764_006:0785c22_0",
         "context_with_next_sentence": false
     }
 ]

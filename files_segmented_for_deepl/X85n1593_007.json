@@ -6330,7 +6330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "到這裏有甚麼[跳兆+典]跣處。",
+        "source_sentence": "到這裏有甚麼[跳-兆+典]跣處。",
         "from": "X85n1593_007:0483a20_30",
         "context_with_next_sentence": true
     },
@@ -9445,7 +9445,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "門拈起扇子云扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "門拈起扇子云扇子[跳-兆+孛]跳上三十三天。",
         "from": "X85n1593_007:0485b24_15",
         "context_with_next_sentence": true
     },
@@ -11340,7 +11340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "地下底一場懡[怡台+羅]。",
+        "source_sentence": "地下底一場懡[怡-台+羅]。",
         "from": "X85n1593_007:0487a15_10",
         "context_with_next_sentence": true
     },
@@ -11360,7 +11360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三門前兩箇一場懡[怡台+羅]問滴水滴凍時如何。",
+        "source_sentence": "三門前兩箇一場懡[怡-台+羅]問滴水滴凍時如何。",
         "from": "X85n1593_007:0487a16_14",
         "context_with_next_sentence": true
     },
@@ -11370,7 +11370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "日出後一場懡[怡台+羅]。",
+        "source_sentence": "日出後一場懡[怡-台+羅]。",
         "from": "X85n1593_007:0487a17_16",
         "context_with_next_sentence": true
     },
@@ -23407,6 +23407,16 @@
     {
         "source_sentence": "禪宗正脉卷第七",
         "from": "X85n1593_007:0496c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X85n1593_007:0496c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "掇(都括切拾也)　馵(傷遇切馬膝以上皆白也)　鞔(亡安切)　筴(古叶切箸也)　袴(口護切)　[跳-兆+典](他典切行貌)　蜆(戶見切)　釅(魚欠切味厚也)　迃(王俱切遠也)　夯(呼講切)　誧(匹布切)　唳(郎計切)　糝(悉感切)　鑐(息曳切鎻〡也)　摗(息侯切取也)",
+        "from": "X85n1593_007:0496c23_0",
         "context_with_next_sentence": false
     }
 ]

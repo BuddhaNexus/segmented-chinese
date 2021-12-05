@@ -2090,7 +2090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拋向搕[打丁+(天/韭)]堆上。",
+        "source_sentence": "拋向搕[打-丁+(天/韭)]堆上。",
         "from": "X85n1587_011:0068b17_32",
         "context_with_next_sentence": true
     },
@@ -3035,7 +3035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "盡大地是箇缽盂。",
+        "source_sentence": "盡大地是箇盋盂。",
         "from": "X85n1587_011:0069b05_8",
         "context_with_next_sentence": true
     },
@@ -6380,7 +6380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "吳江聖壽厂阿[蠢春+者]禪師小參。",
+        "source_sentence": "吳江聖壽厂阿[蠢-春+者]禪師小參。",
         "from": "X85n1587_011:0072a19_0",
         "context_with_next_sentence": true
     },
@@ -6840,8 +6840,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "育王",
+        "source_sentence": "育王拄杖。",
         "from": "X85n1587_011:0072b23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "也未許在。",
+        "from": "X85n1587_011:0072b24_5",
         "context_with_next_sentence": false
     }
 ]

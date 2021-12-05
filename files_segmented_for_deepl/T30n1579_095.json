@@ -4255,7 +4255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以毛[矛*(替曰+貝)]毛端端不落。",
+        "source_sentence": "以毛[矛*(替-曰+貝)]毛端端不落。",
         "from": "T30n1579_095:0844c18_22",
         "context_with_next_sentence": true
     },
@@ -4310,7 +4310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "毛[矛*(替曰+貝)]毛端。",
+        "source_sentence": "毛[矛*(替-曰+貝)]毛端。",
         "from": "T30n1579_095:0844c23_8",
         "context_with_next_sentence": true
     },

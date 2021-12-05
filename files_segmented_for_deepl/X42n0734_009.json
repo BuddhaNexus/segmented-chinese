@@ -470,7 +470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若新[聲耳+米]。",
+        "source_sentence": "若新[聲-耳+米]。",
         "from": "X42n0734_009:0311c08_20",
         "context_with_next_sentence": true
     },
@@ -3190,7 +3190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以一[棎儿+一]為一步。",
+        "source_sentence": "以一[棎-儿+一]為一步。",
         "from": "X42n0734_009:0313c15_10",
         "context_with_next_sentence": true
     },
@@ -4770,7 +4770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "屏露四三單酒水[車*(年(乞乙)+?)]半白。",
+        "source_sentence": "屏露四三單酒水[車*(年-(乞-乙)+?)]半白。",
         "from": "X42n0734_009:0314c24_3",
         "context_with_next_sentence": true
     },
@@ -18040,7 +18040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "使淨人[木*敖]。",
+        "source_sentence": "使淨人&#;。",
         "from": "X42n0734_009:0324c13_37",
         "context_with_next_sentence": true
     },
@@ -18655,7 +18655,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "揉[打丁+修]淨子種者。",
+        "source_sentence": "揉[打-丁+修]淨子種者。",
         "from": "X42n0734_009:0325a21_0",
         "context_with_next_sentence": true
     },
@@ -18675,7 +18675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+瓜]甲淨去。",
+        "source_sentence": "[打-丁+瓜]甲淨去。",
         "from": "X42n0734_009:0325a22_4",
         "context_with_next_sentence": true
     },
@@ -18755,7 +18755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "揉[打丁+修]淨有子。",
+        "source_sentence": "揉[打-丁+修]淨有子。",
         "from": "X42n0734_009:0325b01_20",
         "context_with_next_sentence": true
     },
@@ -18770,7 +18770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "揉[打丁+修]淨子成。",
+        "source_sentence": "揉[打-丁+修]淨子成。",
         "from": "X42n0734_009:0325b02_23",
         "context_with_next_sentence": true
     },
@@ -18870,7 +18870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[泥匕+日]使淨人。",
+        "source_sentence": "[泥-匕+日]使淨人。",
         "from": "X42n0734_009:0325b07_2",
         "context_with_next_sentence": true
     },
@@ -18885,7 +18885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "餅上生[泥匕+日]。",
+        "source_sentence": "餅上生[泥-匕+日]。",
         "from": "X42n0734_009:0325b08_5",
         "context_with_next_sentence": true
     },
@@ -20790,7 +20790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拜[竺二+屬]人者彼倩人拜[竺二+屬]。",
+        "source_sentence": "拜[竺-二+屬]人者彼倩人拜[竺-二+屬]。",
         "from": "X42n0734_009:0326c04_3",
         "context_with_next_sentence": true
     },
@@ -21790,7 +21790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不得[竺二+屬]無慚破戒者。",
+        "source_sentence": "不得[竺-二+屬]無慚破戒者。",
         "from": "X42n0734_009:0327b14_23",
         "context_with_next_sentence": true
     },

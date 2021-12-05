@@ -270,12 +270,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "縫[穩禾+糸]",
+        "source_sentence": "縫[穩-禾+糸]",
         "from": "X44n0744_033:0651b03_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[穩禾+糸]。",
+        "source_sentence": "[穩-禾+糸]。",
         "from": "X44n0744_033:0651b04_0",
         "context_with_next_sentence": true
     },
@@ -290,12 +290,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "縫衣曰[穩禾+糸]。",
+        "source_sentence": "縫衣曰[穩-禾+糸]。",
         "from": "X44n0744_033:0651b04_3",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又合秩曰[穩禾+糸]也。",
+        "source_sentence": "又合秩曰[穩-禾+糸]也。",
         "from": "X44n0744_033:0651b04_4",
         "context_with_next_sentence": true
     },
@@ -2375,7 +2375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "同[宋木+喬]。",
+        "source_sentence": "同[宋-木+喬]。",
         "from": "X44n0744_033:0653a03_1",
         "context_with_next_sentence": true
     },
@@ -7065,7 +7065,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以掃帚揩。",
+        "source_sentence": "以掃箒揩。",
         "from": "X44n0744_033:0656b07_0",
         "context_with_next_sentence": true
     },
@@ -7955,12 +7955,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[戀心+斗]取",
+        "source_sentence": "[戀-心+斗]取",
         "from": "X44n0744_033:0657a09_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[戀心+斗]同[戀心+廾]。",
+        "source_sentence": "[戀-心+斗]同[戀-心+廾]。",
         "from": "X44n0744_033:0657a10_0",
         "context_with_next_sentence": true
     },
@@ -7980,7 +7980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[戀心+斗]舀也(抒音暑。",
+        "source_sentence": "[戀-心+斗]舀也(抒音暑。",
         "from": "X44n0744_033:0657a10_4",
         "context_with_next_sentence": true
     },
@@ -8027,6 +8027,196 @@
     {
         "source_sentence": "四分律名義標釋卷第三十三",
         "from": "X44n0744_033:0657a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_033:0657a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辜音姑。",
+        "from": "X44n0744_033:0657a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "罪愆也。",
+        "from": "X44n0744_033:0657a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "枑音護。",
+        "from": "X44n0744_033:0657a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縕氳字上聲。",
+        "from": "X44n0744_033:0657a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "枲也。",
+        "from": "X44n0744_033:0657a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亂麻也。",
+        "from": "X44n0744_033:0657a20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "絮也。",
+        "from": "X44n0744_033:0657a20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諺音硯。",
+        "from": "X44n0744_033:0657a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俗語也。",
+        "from": "X44n0744_033:0657a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "笐杭字去聲。",
+        "from": "X44n0744_033:0657a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曬衣竿也。",
+        "from": "X44n0744_033:0657a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瀕音貧。",
+        "from": "X44n0744_033:0657a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "水涯也。",
+        "from": "X44n0744_033:0657a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦音賓。",
+        "from": "X44n0744_033:0657a23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同濵。",
+        "from": "X44n0744_033:0657a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "礓音江。",
+        "from": "X44n0744_033:0657a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "小石。",
+        "from": "X44n0744_033:0657a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "祁音奇。",
+        "from": "X44n0744_033:0657b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "塏音開上聲。",
+        "from": "X44n0744_033:0657b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "高爽也。",
+        "from": "X44n0744_033:0657b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盥音管。",
+        "from": "X44n0744_033:0657b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "攞音裸。",
+        "from": "X44n0744_033:0657b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "薜音備。",
+        "from": "X44n0744_033:0657b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "稕肫字去聲。",
+        "from": "X44n0744_033:0657b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "束稈也。",
+        "from": "X44n0744_033:0657b06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "甖音英。",
+        "from": "X44n0744_033:0657b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瓶之總名也。",
+        "from": "X44n0744_033:0657b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "埳堪上聲。",
+        "from": "X44n0744_033:0657b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陷也。",
+        "from": "X44n0744_033:0657b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "小阱也。",
+        "from": "X44n0744_033:0657b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "湔音箋。",
+        "from": "X44n0744_033:0657b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "傍沾也。",
+        "from": "X44n0744_033:0657b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "晃昱上音黃上聲。",
+        "from": "X44n0744_033:0657b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "光也。",
+        "from": "X44n0744_033:0657b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下音欲。",
+        "from": "X44n0744_033:0657b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明也。",
+        "from": "X44n0744_033:0657b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　四分律名義標釋卷第三十四目錄莊校堂屋那棃林四舊比丘重閣補缺營事比丘五法迦羅鉢作把承髮器剪爪撚髭令翹畫眼瞼耳[耳*垂]脚玔指印六師賓頭盧師子吼憂禪城梵施富羅那廣博師子高座扶疏鳧雁黿龜堅勒叢林斯尼第八日須彌頂梵天六反十八動震輪轂晃曜三千大千利益眾生慧事慧燈鬼子母綜練",
+        "from": "X44n0744_033:0657b14_0",
         "context_with_next_sentence": false
     }
 ]

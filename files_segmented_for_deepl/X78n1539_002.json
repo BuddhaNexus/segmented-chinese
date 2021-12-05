@@ -6185,7 +6185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一日[銜金+缶]饌中有擘不張者。",
+        "source_sentence": "一日[銜-金+缶]饌中有擘不張者。",
         "from": "X78n1539_002:0018a04_4",
         "context_with_next_sentence": true
     },
@@ -7660,7 +7660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "持危拔難正在今日。",
+        "source_sentence": "持危㧞難正在今日。",
         "from": "X78n1539_002:0019b14_8",
         "context_with_next_sentence": true
     },
@@ -7835,7 +7835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "弟子及道俗千有餘人迂[木*(合/(冓再+(冓冉)))]于東南。",
+        "source_sentence": "弟子及道俗千有餘人迂[木*(合/(冓-再+(冓-冉)))]于東南。",
         "from": "X78n1539_002:0019c01_3",
         "context_with_next_sentence": true
     },
@@ -9222,6 +9222,146 @@
     {
         "source_sentence": "法華靈驗傳卷下(終)",
         "from": "X78n1539_002:0021a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最乘之法。",
+        "from": "X78n1539_002:0021a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非後學所能辯。",
+        "from": "X78n1539_002:0021a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必考是法之驗。",
+        "from": "X78n1539_002:0021a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然後而人信之。",
+        "from": "X78n1539_002:0021a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自法華東譯以後。",
+        "from": "X78n1539_002:0021a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸家章疏蓋多。",
+        "from": "X78n1539_002:0021a09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而智者解釋獨行於世。",
+        "from": "X78n1539_002:0021a09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然流傳或失本真。",
+        "from": "X78n1539_002:0021a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "講演未達其奧。",
+        "from": "X78n1539_002:0021a10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一源之妙。",
+        "from": "X78n1539_002:0021a10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "岐於萬派。",
+        "from": "X78n1539_002:0021a11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "甞謂讀是經者要看講儀與夫靈驗傳。",
+        "from": "X78n1539_002:0021a11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以其直探玄旨。",
+        "from": "X78n1539_002:0021a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "深求妙應。",
+        "from": "X78n1539_002:0021a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷在二書也。",
+        "from": "X78n1539_002:0021a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(妙慧)謹捨貲財。",
+        "from": "X78n1539_002:0021a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "刊此二書。",
+        "from": "X78n1539_002:0021a13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安寘于萬義寺。",
+        "from": "X78n1539_002:0021a13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以壽不杇耳。",
+        "from": "X78n1539_002:0021a13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寺生至亢間。",
+        "from": "X78n1539_002:0021a13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貞古玄默相繼主席。",
+        "from": "X78n1539_002:0021a14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卒傳於余王文忠肅公之伯父珍丘大禪師混其。",
+        "from": "X78n1539_002:0021a14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其又傳於三藏法師義旋。",
+        "from": "X78n1539_002:0021a15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "旋後三傳而至于余。",
+        "from": "X78n1539_002:0021a15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "要皆不出乎吾宗爾寺本。",
+        "from": "X78n1539_002:0021a16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "混其甞設法華道場。",
+        "from": "X78n1539_002:0021a16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故宜於此宣揚此法用匄。",
+        "from": "X78n1539_002:0021a17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皇明嘉靖十三年甲午六月日全羅道高敞文殊寺重鋟",
+        "from": "X78n1539_002:0021a18_0",
         "context_with_next_sentence": false
     }
 ]

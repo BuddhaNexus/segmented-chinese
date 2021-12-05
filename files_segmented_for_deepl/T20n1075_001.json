@@ -2095,7 +2095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以契大母指觸地一迴如卓[檎离+土]勢三度作即休)結牆界契第七其契准前橛契。",
+        "source_sentence": "以契大母指觸地一迴如卓[檎-离+土]勢三度作即休)結牆界契第七其契准前橛契。",
         "from": "T20n1075_001:0175c17_1",
         "context_with_next_sentence": true
     },
@@ -3707,6 +3707,11 @@
     {
         "source_sentence": "像法如是。",
         "from": "T20n1075_001:0178c05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說七俱胝佛母准提陀羅尼經(并念誦觀行法)",
+        "from": "T20n1075_001:0178c06_0",
         "context_with_next_sentence": false
     }
 ]

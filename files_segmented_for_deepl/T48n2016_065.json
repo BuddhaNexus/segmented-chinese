@@ -5725,7 +5725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "金[鎞囟+(奐大)]抉眼。",
+        "source_sentence": "金[鎞-囟+(奐-大)]抉眼。",
         "from": "T48n2016_065:0783b29_37",
         "context_with_next_sentence": true
     },
@@ -9057,6 +9057,11 @@
     {
         "source_sentence": "宗鏡錄卷第六十五",
         "from": "T48n2016_065:0785c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　戊申歲分司大藏都監開板",
+        "from": "T48n2016_065:0785c15_0",
         "context_with_next_sentence": false
     }
 ]

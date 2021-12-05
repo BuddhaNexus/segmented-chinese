@@ -290,7 +290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "法期[郫卑+((白日+田)/廾)]縣向氏子。",
+        "source_sentence": "法期[郫-卑+((白-日+田)/廾)]縣向氏子。",
         "from": "X85n1590_020:0221a21_0",
         "context_with_next_sentence": true
     },
@@ -970,7 +970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "僧生[郫卑+((白日+田)/廾)]縣袁氏子。",
+        "source_sentence": "僧生[郫-卑+((白-日+田)/廾)]縣袁氏子。",
         "from": "X85n1590_020:0221c09_0",
         "context_with_next_sentence": true
     },
@@ -1795,7 +1795,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "入[障音]邡高山寺有年。",
+        "source_sentence": "入[障-音]邡高山寺有年。",
         "from": "X85n1590_020:0222b07_9",
         "context_with_next_sentence": true
     },
@@ -5040,7 +5040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "梵僧西天三藏缽怛羅至蜀。",
+        "source_sentence": "梵僧西天三藏盋怛羅至蜀。",
         "from": "X85n1590_020:0224c23_0",
         "context_with_next_sentence": true
     },
@@ -7320,7 +7320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "攷驗傳燈。",
+        "source_sentence": "攷騐傳燈。",
         "from": "X85n1590_020:0226c15_10",
         "context_with_next_sentence": true
     },
@@ -7430,7 +7430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "錦江禪燈卷第",
+        "source_sentence": "錦江禪燈卷第二十(終)",
         "from": "X85n1590_020:0226c24_0",
         "context_with_next_sentence": false
     }

@@ -1680,7 +1680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "屎尿涕唾涎沫汗痰肪[狦(狂王)+月]膜[月*昆][月*寧]。",
+        "source_sentence": "屎尿涕唾涎沫汗痰肪[狦-(狂-王)+月]膜[月*昆][月*寧]。",
         "from": "T21n1289_001:0369c01_12",
         "context_with_next_sentence": true
     },
@@ -1980,7 +1980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "復誦前呪三千遍作[檎离+土]釘著高山。",
+        "source_sentence": "復誦前呪三千遍作[檎-离+土]釘著高山。",
         "from": "T21n1289_001:0370a01_30",
         "context_with_next_sentence": true
     },
@@ -2000,7 +2000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又法若欲木[樊大+木]樹令變者。",
+        "source_sentence": "又法若欲木[樊-大+木]樹令變者。",
         "from": "T21n1289_001:0370a03_34",
         "context_with_next_sentence": true
     },
@@ -5490,8 +5490,108 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵[木*(卄/(ㄇ@人)/戌)]伐羅俱魯陀摩訶摩羅訶曩那訶跛折摩他微枳羅尾持網婆野社智羅監母陀羅烏芻沙摩俱嚕陀[合*牛]泮吒娑婆訶期觀音真言迦摩羅目佉迦摩羅盧左那迦摩羅沙那迦摩羅多賀沙那迦摩羅婆謨尼迦摩羅迦摩羅迦摩羅金毘羅童子威德經",
+        "source_sentence": "唵[木*(卄/(ㄇ@人)/戌)]伐羅俱魯陀摩訶摩羅訶曩那訶跛折摩他微枳羅尾持網婆野社智羅監母陀羅烏芻沙摩俱嚕陀[合*牛]泮吒娑婆訶期觀音真言迦摩羅目佉迦摩羅盧左那迦摩羅沙那迦摩羅多賀沙那迦摩羅婆謨尼迦摩羅迦摩羅迦摩羅金毘羅童子威德經(金毘羅法作道場不空三藏譯。",
         "from": "T21n1289_001:0373c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "燒沈香白膠香薰陸香用瓷香爐。",
+        "from": "T21n1289_001:0373c28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "藥王菩薩助法。",
+        "from": "T21n1289_001:0373c28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "用白檀香一兩訶梨勒七果燒蜜和四十丸。",
+        "from": "T21n1289_001:0373c28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除身中萬病。",
+        "from": "T21n1289_001:0373c29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入龍宮取寶珠。",
+        "from": "T21n1289_001:0373c29_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "用菖蒲三兩安悉香蜜丸甘松香和燒救萬病。",
+        "from": "T21n1289_001:0373c29_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "用訶梨勒掩摩勒各五兩。",
+        "from": "T21n1289_001:0373c29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "男孩子母乳和作丸。",
+        "from": "T21n1289_001:0374a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍樹菩薩助法用訶梨勒十二顆。",
+        "from": "T21n1289_001:0374a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剌蜜三兩井花水煎服吐出金治萬病用光明沙紫赤朱天門冬新蜜蠟。",
+        "from": "T21n1289_001:0374a01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五月五日大酷三升。",
+        "from": "T21n1289_001:0374a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黑石蜜三兩。",
+        "from": "T21n1289_001:0374a02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "和煎觀世音菩薩助法。",
+        "from": "T21n1289_001:0374a02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "用訶梨勒百顆蜜丸。",
+        "from": "T21n1289_001:0374a02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "馬鳴菩薩助法。",
+        "from": "T21n1289_001:0374a02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "白膠香天門冬訶梨勒蠟各五兩。",
+        "from": "T21n1289_001:0374a02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "柴三升。",
+        "from": "T21n1289_001:0374a03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "井花水煎。",
+        "from": "T21n1289_001:0374a03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "白蜜用和)。",
+        "from": "T21n1289_001:0374a03_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　(承安二年五月十二日書之)",
+        "from": "T21n1289_001:0374a04_0",
         "context_with_next_sentence": false
     }
 ]

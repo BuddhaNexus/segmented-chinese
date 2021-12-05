@@ -5045,12 +5045,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又作[打丁+虔]。",
+        "source_sentence": "又作[打-丁+虔]。",
         "from": "X44n0744_024:0588c07_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[利禾+虔]。",
+        "source_sentence": "[利-禾+虔]。",
         "from": "X44n0744_024:0588c07_1",
         "context_with_next_sentence": true
     },
@@ -5450,12 +5450,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或[癲真+秀]",
+        "source_sentence": "或[癲-真+秀]",
         "from": "X44n0744_024:0589a04_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦作[病丙+貴]。",
+        "source_sentence": "亦作[病-丙+貴]。",
         "from": "X44n0744_024:0589a05_0",
         "context_with_next_sentence": true
     },
@@ -11077,6 +11077,81 @@
     {
         "source_sentence": "四分律名義標釋卷第二十四",
         "from": "X44n0744_024:0593a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_024:0593a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猘音季。",
+        "from": "X44n0744_024:0593a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "狂犬。",
+        "from": "X44n0744_024:0593a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曚音蒙。",
+        "from": "X44n0744_024:0593a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未明。",
+        "from": "X44n0744_024:0593a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "堈音岡。",
+        "from": "X44n0744_024:0593a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "甕也。",
+        "from": "X44n0744_024:0593a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "步一舉足曰跬。",
+        "from": "X44n0744_024:0593a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "跬。",
+        "from": "X44n0744_024:0593a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三尺也。",
+        "from": "X44n0744_024:0593a20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兩舉足曰步。",
+        "from": "X44n0744_024:0593a20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "步。",
+        "from": "X44n0744_024:0593a20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六尺也。",
+        "from": "X44n0744_024:0593a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "跬音窺上聲。",
+        "from": "X44n0744_024:0593a21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　四分律名義標釋卷第二十五目錄與欲轝上舁來那那由比丘瞻婆國伽伽河五大河四念處四正勤四如意足五根五力七覺意八賢聖道布薩五歲不重誦摩夷罪名種相守護春夏冬修治經營房主藤像蒲萄蔓襯體毾[登*毛]氍毹繩羂藏弆梵動經鑿祇桓受日優陀延差授自恣雜住改日時教詔六十二見",
+        "from": "X44n0744_024:0593b01_0",
         "context_with_next_sentence": false
     }
 ]

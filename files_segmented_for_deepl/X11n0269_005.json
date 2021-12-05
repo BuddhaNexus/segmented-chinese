@@ -825,7 +825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "▲劉安伏鉞事載漢書曹子建辨道論云劉安王誅於淮南道家謂之屍逝柩空其為虗妄甚矣哉魏志曰張陵造作道書以惑百姓從受道者出米五斗世號米賊李膺蜀記曰張陵避[病丙+虎]於丘社中得呪鬼之書為是遂解使鬼後為大蟒所噏弟子妄述升。",
+        "source_sentence": "▲劉安伏鉞事載漢書曹子建辨道論云劉安王誅於淮南道家謂之屍逝柩空其為虗妄甚矣哉魏志曰張陵造作道書以惑百姓從受道者出米五斗世號米賊李膺蜀記曰張陵避[病-丙+虎]於丘社中得呪鬼之書為是遂解使鬼後為大蟒所噏弟子妄述升。",
         "from": "X11n0269_005:0767c12_0",
         "context_with_next_sentence": true
     },
@@ -1405,7 +1405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "▲經心精通[泳永+曶][泳永+曶]與泯同由唐太宗諱民故此易之。",
+        "source_sentence": "▲經心精通[泳-永+曶][泳-永+曶]與泯同由唐太宗諱民故此易之。",
         "from": "X11n0269_005:0771b17_1",
         "context_with_next_sentence": true
     },
@@ -1750,7 +1750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "▲經綿[泳永+曶]者谷響云綿微[泳永+曶]合也。",
+        "source_sentence": "▲經綿[泳-永+曶]者谷響云綿微[泳-永+曶]合也。",
         "from": "X11n0269_005:0773a18_1",
         "context_with_next_sentence": true
     },

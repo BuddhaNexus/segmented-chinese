@@ -11700,7 +11700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "秦主相如懡[怡台+羅]歸。",
+        "source_sentence": "秦主相如懡[怡-台+羅]歸。",
         "from": "T48n2001_004:0044a20_1",
         "context_with_next_sentence": true
     },
@@ -14385,7 +14385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "阿囉跛[跳兆+左]曩。",
+        "source_sentence": "阿囉跛[跳-兆+左]曩。",
         "from": "T48n2001_004:0046b01_22",
         "context_with_next_sentence": true
     },
@@ -26830,7 +26830,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五色線不我羈縻。",
+        "source_sentence": "五色線不我覊縻。",
         "from": "T48n2001_004:0056a10_16",
         "context_with_next_sentence": true
     },

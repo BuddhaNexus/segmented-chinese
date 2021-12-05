@@ -590,7 +590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂僕御車者即顏[利禾+免]。",
+        "source_sentence": "謂僕御車者即顏[利-禾+免]。",
         "from": "X21n0376_001:0560b12_0",
         "context_with_next_sentence": true
     },
@@ -700,7 +700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "損益損則祭殺牲命益乃設供拔苦。",
+        "source_sentence": "損益損則祭殺牲命益乃設供㧞苦。",
         "from": "X21n0376_001:0560c14_0",
         "context_with_next_sentence": true
     },
@@ -2045,7 +2045,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "列子姓列名禦寇宋國人著書八篇莊子師之。",
+        "source_sentence": "列子姓列名禦冦宋國人著書八篇莊子師之。",
         "from": "X21n0376_001:0565b01_0",
         "context_with_next_sentence": true
     },
@@ -2255,7 +2255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "社社以勾龍配享其實土神也禮記祭法曰共工氏之霸九州其子曰后土能平九州故祀為社也不言土地而言社者先王配之以嘉名也。",
+        "source_sentence": "社社以勾龍配享其實土神也禮記祭法曰共工氏之覇九州其子曰后土能平九州故祀為社也不言土地而言社者先王配之以嘉名也。",
         "from": "X21n0376_001:0566a02_0",
         "context_with_next_sentence": true
     },
@@ -2745,7 +2745,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "寇自內而取曰寇。",
+        "source_sentence": "冦自內而取曰寇。",
         "from": "X21n0376_001:0567b17_0",
         "context_with_next_sentence": true
     },
@@ -2840,7 +2840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "郭巨孝德傳曰郭巨家貧養老母有一子三歲母常減食與之巨謂妻曰貧乏不能供給共汝埋之子可再有母豈再得遂掘[坨匕+几]二尺餘忽見黃金一釜釜上云天賜孝子郭巨官不得奪人不得取。",
+        "source_sentence": "郭巨孝德傳曰郭巨家貧養老母有一子三歲母常減食與之巨謂妻曰貧乏不能供給共汝埋之子可再有母豈再得遂掘[坨-匕+几]二尺餘忽見黃金一釜釜上云天賜孝子郭巨官不得奪人不得取。",
         "from": "X21n0376_001:0567c10_0",
         "context_with_next_sentence": true
     },
@@ -4177,6 +4177,11 @@
     {
         "source_sentence": "蘭盆疏鈔餘義(終)",
         "from": "X21n0376_001:0572c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "享保元丙申稔仲冬上旬以宋刻古本校正訖日本國南京沙門　秀慶　識",
+        "from": "X21n0376_001:0572c05_0",
         "context_with_next_sentence": false
     }
 ]

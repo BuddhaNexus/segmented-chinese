@@ -550,7 +550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "薄[利禾+皮]明月。",
+        "source_sentence": "薄[利-禾+皮]明月。",
         "from": "X78n1556_020:0766a15_72",
         "context_with_next_sentence": true
     },
@@ -1075,7 +1075,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如何摸[打丁+索]。",
+        "source_sentence": "如何摸[打-丁+索]。",
         "from": "X78n1556_020:0766b13_3",
         "context_with_next_sentence": true
     },
@@ -1660,7 +1660,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無著麵處。",
+        "source_sentence": "無著麫處。",
         "from": "X78n1556_020:0766c12_4",
         "context_with_next_sentence": true
     },
@@ -4225,7 +4225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "冒[曰/月]草草。",
+        "source_sentence": "冒冐草草。",
         "from": "X78n1556_020:0768b05_23",
         "context_with_next_sentence": true
     },
@@ -4610,7 +4610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "留取喫飯。",
+        "source_sentence": "留取喫飰。",
         "from": "X78n1556_020:0768b23_30",
         "context_with_next_sentence": true
     },

@@ -1365,7 +1365,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "後[襌(田/十)+(王*寸)]陀地以為其終。",
+        "source_sentence": "後[襌-(田/十)+(王*寸)]陀地以為其終。",
         "from": "T32n1669_004:0675c05_3",
         "context_with_next_sentence": true
     },
@@ -1380,7 +1380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "後[襌(田/十)+(王*寸)]陀地以為其始。",
+        "source_sentence": "後[襌-(田/十)+(王*寸)]陀地以為其始。",
         "from": "T32n1669_004:0675c06_6",
         "context_with_next_sentence": true
     },
@@ -2185,7 +2185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有一毛[葉世+玨]名曰舍伽。",
+        "source_sentence": "有一毛[葉-世+玨]名曰舍伽。",
         "from": "T32n1669_004:0676c05_4",
         "context_with_next_sentence": true
     },

@@ -765,7 +765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "住[郫卑+((白日+田)/廾)]縣龍淵寺。",
+        "source_sentence": "住[郫-卑+((白-日+田)/廾)]縣龍淵寺。",
         "from": "X78n1549_002:0229a17_2",
         "context_with_next_sentence": true
     },
@@ -6290,7 +6290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "贖魚[竺二+(一/(尸@邑))]溪梁六十餘所。",
+        "source_sentence": "贖魚[竺-二+(一/(尸@邑))]溪梁六十餘所。",
         "from": "X78n1549_002:0233b02_5",
         "context_with_next_sentence": true
     },
@@ -6860,7 +6860,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔一切眾生苦。",
+        "source_sentence": "㧞一切眾生苦。",
         "from": "X78n1549_002:0233c09_5",
         "context_with_next_sentence": true
     },
@@ -6945,7 +6945,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為拔眾生苦故。",
+        "source_sentence": "為㧞眾生苦故。",
         "from": "X78n1549_002:0233c15_22",
         "context_with_next_sentence": true
     },
@@ -15400,7 +15400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔茅連茹。",
+        "source_sentence": "㧞茅連茹。",
         "from": "X78n1549_002:0240b06_95",
         "context_with_next_sentence": true
     },

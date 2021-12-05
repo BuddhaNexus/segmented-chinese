@@ -1010,7 +1010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即命[書曰+皿]工圖之。",
+        "source_sentence": "即命[書-曰+皿]工圖之。",
         "from": "X75n1512_021:0211c24_11",
         "context_with_next_sentence": true
     },
@@ -1420,7 +1420,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "川亦不[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "川亦不[(厂@((既-旡)-日+口))*頁]。",
         "from": "X75n1512_021:0212b04_1",
         "context_with_next_sentence": true
     },
@@ -1550,7 +1550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "士回[(厂@((既旡)日+口))*頁]兩邊云。",
+        "source_sentence": "士回[(厂@((既-旡)-日+口))*頁]兩邊云。",
         "from": "X75n1512_021:0212b13_3",
         "context_with_next_sentence": true
     },
@@ -1795,7 +1795,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "居士[(厂@((既旡)日+口))*頁]謂公曰。",
+        "source_sentence": "居士[(厂@((既-旡)-日+口))*頁]謂公曰。",
         "from": "X75n1512_021:0212c04_46",
         "context_with_next_sentence": true
     },
@@ -4880,7 +4880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "子厚奭然不以儒佛為異趣。",
+        "source_sentence": "子厚&#;然不以儒佛為異趣。",
         "from": "X75n1512_021:0215c21_17",
         "context_with_next_sentence": true
     },

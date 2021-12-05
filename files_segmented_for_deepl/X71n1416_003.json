@@ -2895,7 +2895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "侍者[泳永+盾]淈。",
+        "source_sentence": "侍者[泳-永+盾]淈。",
         "from": "X71n1416_003:0421c11_1",
         "context_with_next_sentence": true
     },
@@ -3030,7 +3030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "淈淈[泳永+盾][泳永+盾]。",
+        "source_sentence": "淈淈[泳-永+盾][泳-永+盾]。",
         "from": "X71n1416_003:0421c23_3",
         "context_with_next_sentence": true
     },
@@ -3850,7 +3850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+此]破祖父契書。",
+        "source_sentence": "[打-丁+此]破祖父契書。",
         "from": "X71n1416_003:0423a16_1",
         "context_with_next_sentence": true
     },
@@ -4170,7 +4170,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一箇執[仁二+幻][仁二+幻]到天。",
+        "source_sentence": "一箇執[仁-二+幻][仁-二+幻]到天。",
         "from": "X71n1416_003:0423c02_0",
         "context_with_next_sentence": true
     },
@@ -5535,7 +5535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "直得三脚驢[跳兆+孛]跳。",
+        "source_sentence": "直得三脚驢[跳-兆+孛]跳。",
         "from": "X71n1416_003:0425b13_3",
         "context_with_next_sentence": true
     },

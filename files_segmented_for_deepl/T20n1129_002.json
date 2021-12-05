@@ -310,7 +310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(引)娑囉莎帝曳(二合引)誐(引)野怛哩(二合)薩哩[金*(穴/(犮乂+又))](二合)娑嚩(二合)賀(引)酥囉遜那哩夜叉女真言曰。",
+        "source_sentence": "唵(引)娑囉莎帝曳(二合引)誐(引)野怛哩(二合)薩哩[金*(穴/(犮-乂+又))](二合)娑嚩(二合)賀(引)酥囉遜那哩夜叉女真言曰。",
         "from": "T20n1129_002:0554a13_0",
         "context_with_next_sentence": true
     },
@@ -3442,6 +3442,11 @@
     {
         "source_sentence": "令彼行人獲得種種快樂之事。",
         "from": "T20n1129_002:0558c03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說金剛手菩薩降伏一切部多大教王經卷中",
+        "from": "T20n1129_002:0558c05_0",
         "context_with_next_sentence": false
     }
 ]

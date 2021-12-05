@@ -1790,7 +1790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 四分戒本如釋科",
+        "source_sentence": "四分戒本如釋科",
         "from": "X40n0717_001:0195a02_0",
         "context_with_next_sentence": true
     },
@@ -2835,7 +2835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如船舫[簿尃+卑]筏浮囊。",
+        "source_sentence": "譬如船舫[簿-尃+卑]筏浮囊。",
         "from": "X40n0717_001:0197a08_18",
         "context_with_next_sentence": true
     },
@@ -10367,6 +10367,86 @@
     {
         "source_sentence": "四分戒本如釋卷第一",
         "from": "X40n0717_001:0202c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X40n0717_001:0203a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四邪即四邪命食。",
+        "from": "X40n0717_001:0203a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一下口食。",
+        "from": "X40n0717_001:0203a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂合藥種穀植樹不淨活命。",
+        "from": "X40n0717_001:0203a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二仰口食。",
+        "from": "X40n0717_001:0203a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂觀星宿日月風雨雷電霹靂不淨活命。",
+        "from": "X40n0717_001:0203a03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三方口食。",
+        "from": "X40n0717_001:0203a04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂曲媚豪勢通使四方巧言多求不淨活命。",
+        "from": "X40n0717_001:0203a04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四維口食。",
+        "from": "X40n0717_001:0203a05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂學種種呪術卜算吉凶不淨活命。",
+        "from": "X40n0717_001:0203a05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "苾芻五義一體性柔輭。",
+        "from": "X40n0717_001:0203a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二引蔓傍布。",
+        "from": "X40n0717_001:0203a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三馨香遠聞。",
+        "from": "X40n0717_001:0203a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四能療疼痛。",
+        "from": "X40n0717_001:0203a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五不背日光。",
+        "from": "X40n0717_001:0203a08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毗奈耶即毗尼也。",
+        "from": "X40n0717_001:0203a09_0",
         "context_with_next_sentence": false
     }
 ]

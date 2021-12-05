@@ -4580,7 +4580,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此僧在趙州圈[袖由+貴]裏。",
+        "source_sentence": "此僧在趙州圈[袖-由+貴]裏。",
         "from": "X83n1578_011:0522c10_1",
         "context_with_next_sentence": true
     },
@@ -7255,7 +7255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "學士還知天下衲僧出這婆子圈[袖由+貴]不得麼。",
+        "source_sentence": "學士還知天下衲僧出這婆子圈[袖-由+貴]不得麼。",
         "from": "X83n1578_011:0524c18_4",
         "context_with_next_sentence": true
     },
@@ -8085,7 +8085,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不上他圈[袖由+貴]。",
+        "source_sentence": "不上他圈[袖-由+貴]。",
         "from": "X83n1578_011:0525b24_12",
         "context_with_next_sentence": true
     },

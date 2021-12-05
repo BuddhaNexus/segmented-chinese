@@ -1745,7 +1745,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[曰/月]雪跣足而至。",
+        "source_sentence": "冐雪跣足而至。",
         "from": "T51n2099_002:1110c15_42",
         "context_with_next_sentence": true
     },
@@ -3910,7 +3910,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "指一錦[袖由+敦]。",
+        "source_sentence": "指一錦[袖-由+敦]。",
         "from": "T51n2099_002:1112a23_34",
         "context_with_next_sentence": true
     },
@@ -10400,7 +10400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "因遊西臺祕[(序予+林)/女]嵒寺。",
+        "source_sentence": "因遊西臺祕&#;嵒寺。",
         "from": "T51n2099_002:1117a03_4",
         "context_with_next_sentence": true
     },
@@ -10480,7 +10480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "祕[(序予+林)/女]師廟之側。",
+        "source_sentence": "祕&#;師廟之側。",
         "from": "T51n2099_002:1117a10_0",
         "context_with_next_sentence": true
     },
@@ -12685,7 +12685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無心之草名瞢[夢夕+登]。",
+        "source_sentence": "無心之草名瞢[夢-夕+登]。",
         "from": "T51n2099_002:1118b24_25",
         "context_with_next_sentence": true
     },
@@ -12840,8 +12840,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無疾而",
+        "source_sentence": "無疾而卒。",
         "from": "T51n2099_002:1118c04_56",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "春秋七十有三。",
+        "from": "T51n2099_002:1118c05_57",
         "context_with_next_sentence": false
     }
 ]

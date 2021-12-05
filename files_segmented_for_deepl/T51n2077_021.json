@@ -1695,7 +1695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "暨歸永豐或處巖谷或居廛市。",
+        "source_sentence": "暨歸永豐或處巖谷或居&#;市。",
         "from": "T51n2077_021:0608b10_2",
         "context_with_next_sentence": true
     },
@@ -1930,7 +1930,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "赤脚[跳兆+叉]泥冷似氷。",
+        "source_sentence": "赤脚[跳-兆+叉]泥冷似氷。",
         "from": "T51n2077_021:0608c01_1",
         "context_with_next_sentence": true
     },
@@ -2745,7 +2745,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "舉步則金蓮[跳兆+(戀心+火)]蹀。",
+        "source_sentence": "舉步則金蓮[跳-兆+(戀-心+火)]蹀。",
         "from": "T51n2077_021:0609a29_8",
         "context_with_next_sentence": true
     },
@@ -3015,7 +3015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五十六年成話霸。",
+        "source_sentence": "五十六年成話覇。",
         "from": "T51n2077_021:0609b21_12",
         "context_with_next_sentence": true
     },
@@ -6440,7 +6440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "未免覺來一場懡[怡台+羅]。",
+        "source_sentence": "未免覺來一場懡[怡-台+羅]。",
         "from": "T51n2077_021:0612b08_6",
         "context_with_next_sentence": true
     },
@@ -6687,6 +6687,251 @@
     {
         "source_sentence": "續傳燈錄卷第二十一",
         "from": "T51n2077_021:0612c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "續傳燈錄卷第二十二目錄",
+        "from": "T51n2077_021:0612c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大鑑下第十四世",
+        "from": "T51n2077_021:0612c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黃龍晦堂心禪師法嗣四十七人",
+        "from": "T51n2077_021:0612c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黃龍悟新禪師黃龍惟清禪師",
+        "from": "T51n2077_021:0612c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "泐潭善清禪師青原惟信禪師",
+        "from": "T51n2077_021:0612c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夾山曉純禪師三聖繼昌禪師",
+        "from": "T51n2077_021:0612c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雙嶺化禪師龜山曉津禪師",
+        "from": "T51n2077_021:0612c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "保福本權禪師雙峯景齊禪師",
+        "from": "T51n2077_021:0612c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "護國景新禪師黃龍智明禪師",
+        "from": "T51n2077_021:0612c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道吾仲圓禪師慈雲道清禪師",
+        "from": "T51n2077_021:0612c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黃龍如曉禪師太史黃庭堅居士",
+        "from": "T51n2077_021:0612c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀文王韶居士",
+        "from": "T51n2077_021:0612c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "祕書吳恂居士(已上十八人見錄)",
+        "from": "T51n2077_021:0612c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "興化演禪師顯明道昌禪師",
+        "from": "T51n2077_021:0612c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "景德慧英禪師集福寶嚴禪師",
+        "from": "T51n2077_021:0612c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雲門寶宣禪師廷禧智融禪師",
+        "from": "T51n2077_021:0612c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天柱脩靜禪師勝緣居智禪師",
+        "from": "T51n2077_021:0612c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雲蓋師肇禪師興化法海禪師",
+        "from": "T51n2077_021:0612c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鹿苑思齊禪師大龜惟益禪師",
+        "from": "T51n2077_021:0612c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大龍世和禪師雙峯如頴禪師",
+        "from": "T51n2077_021:0612c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀音覺勤禪師顯親如鑑禪師",
+        "from": "T51n2077_021:0612c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南登法安禪師建隆維慶禪師",
+        "from": "T51n2077_021:0612c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無為維琮禪師西峯素禪師",
+        "from": "T51n2077_021:0612c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪林希廣禪師法海法琮禪師",
+        "from": "T51n2077_021:0613a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "徐禧德占龍圖公立夏倚居士",
+        "from": "T51n2077_021:0613a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意禪上座彭汝勵居士",
+        "from": "T51n2077_021:0613a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王正言居士吳中立大夫",
+        "from": "T51n2077_021:0613a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "韓宗古侍郎(已上二十九人無錄)",
+        "from": "T51n2077_021:0613a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶峯文禪師法嗣三十八人",
+        "from": "T51n2077_021:0613a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兜率從悅禪師法雲杲禪師",
+        "from": "T51n2077_021:0613a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "泐潭文準禪師慧日文雅禪師",
+        "from": "T51n2077_021:0613a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "洞山梵言禪師文殊宣能禪師",
+        "from": "T51n2077_021:0613a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壽寧善資禪師上封慧和禪師",
+        "from": "T51n2077_021:0613a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五峯本禪師太平安禪師",
+        "from": "T51n2077_021:0613a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "報慈進英禪師洞山至乾禪師",
+        "from": "T51n2077_021:0613a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶華普鑑禪師九峯希廣禪師",
+        "from": "T51n2077_021:0613a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黃檗道全禪師清涼德洪禪師",
+        "from": "T51n2077_021:0613a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "超化靜禪師石頭懷志菴主",
+        "from": "T51n2077_021:0613a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雙溪印首座",
+        "from": "T51n2077_021:0613a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慧安慧淵禪師(已上二十人見錄)",
+        "from": "T51n2077_021:0613a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "泐潭福深禪師花藥英禪師",
+        "from": "T51n2077_021:0613a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龜山允平禪師嘉祐道用禪師",
+        "from": "T51n2077_021:0613a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "象耳惟古禪師北禪惟孝禪師",
+        "from": "T51n2077_021:0613a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嘉祐贇禪師曹山慧言禪師",
+        "from": "T51n2077_021:0613a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雍熙道光禪師南臺洪禪師",
+        "from": "T51n2077_021:0613a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "谷山希祖禪師光孝慧滿禪師",
+        "from": "T51n2077_021:0613a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "北禪慧昭禪師石霜紹珂禪師",
+        "from": "T51n2077_021:0613a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慈雲敦雅禪師湯泉禪禪師",
+        "from": "T51n2077_021:0613a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶峯楚原首座安石王荊公(已上十八人無錄)續傳燈錄卷第二十二目錄(終)",
+        "from": "T51n2077_021:0613a26_0",
         "context_with_next_sentence": false
     }
 ]

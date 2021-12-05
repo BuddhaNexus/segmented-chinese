@@ -1875,7 +1875,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "王又與南郡太守劉景[卄/(麩夫+壬)]書曰。",
+        "source_sentence": "王又與南郡太守劉景[卄/(麩-夫+壬)]書曰。",
         "from": "T52n2103_019:0233b18_0",
         "context_with_next_sentence": true
     },
@@ -2440,7 +2440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "假使橫經擁帚日夜掃門。",
+        "source_sentence": "假使橫經擁箒日夜掃門。",
         "from": "T52n2103_019:0234a05_22",
         "context_with_next_sentence": true
     },
@@ -3100,7 +3100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[葶丁+呆]街有歸命之虜。",
+        "source_sentence": "[葶-丁+呆]街有歸命之虜。",
         "from": "T52n2103_019:0234c08_6",
         "context_with_next_sentence": true
     },
@@ -5425,7 +5425,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "起右[狂王+夜]下達于肩上。",
+        "source_sentence": "起右[狂-王+夜]下達于肩上。",
         "from": "T52n2103_019:0237a27_0",
         "context_with_next_sentence": true
     },

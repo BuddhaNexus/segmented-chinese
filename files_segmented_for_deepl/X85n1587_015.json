@@ -1405,7 +1405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[跳兆+孛]跳上三十三天。",
+        "source_sentence": "[跳-兆+孛]跳上三十三天。",
         "from": "X85n1587_015:0091c04_13",
         "context_with_next_sentence": true
     },
@@ -3985,7 +3985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[序予+(((嘹口)小)日+土)]鶴銘。",
+        "source_sentence": "[序-予+(((嘹-口)-小)-日+土)]鶴銘。",
         "from": "X85n1587_015:0093c13_1",
         "context_with_next_sentence": true
     },
@@ -6100,7 +6100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "把將公驗來。",
+        "source_sentence": "把將公騐來。",
         "from": "X85n1587_015:0095b22_15",
         "context_with_next_sentence": true
     },
@@ -6400,8 +6400,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "正是楝",
+        "source_sentence": "正是楝花時候。",
         "from": "X85n1587_015:0095c14_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "畢竟作麼生。",
+        "from": "X85n1587_015:0095c15_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卓拄杖云。",
+        "from": "X85n1587_015:0095c15_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "究。",
+        "from": "X85n1587_015:0095c15_38",
         "context_with_next_sentence": false
     }
 ]

@@ -200,7 +200,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "冰稜上度過九[阿可+尻]。",
+        "source_sentence": "冰稜上度過九[阿-可+尻]。",
         "from": "X71n1421_004:0673b18_23",
         "context_with_next_sentence": true
     },
@@ -925,7 +925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "知得便[但日+木]。",
+        "source_sentence": "知得便[但-日+木]。",
         "from": "X71n1421_004:0674a07_0",
         "context_with_next_sentence": true
     },
@@ -1145,7 +1145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "卒難頓拔。",
+        "source_sentence": "卒難頓㧞。",
         "from": "X71n1421_004:0674a18_30",
         "context_with_next_sentence": true
     },
@@ -1295,7 +1295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "相逢盡道[但日+木]官去。",
+        "source_sentence": "相逢盡道[但-日+木]官去。",
         "from": "X71n1421_004:0674b02_10",
         "context_with_next_sentence": true
     },

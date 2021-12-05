@@ -1190,7 +1190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "熱沙[穫禾+火]身。",
+        "source_sentence": "熱沙[穫-禾+火]身。",
         "from": "T53n2122_091:0955a05_10",
         "context_with_next_sentence": true
     },
@@ -9330,7 +9330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "備為[示*厭]禳。",
+        "source_sentence": "備為&#;禳。",
         "from": "T53n2122_091:0962c26_7",
         "context_with_next_sentence": true
     },

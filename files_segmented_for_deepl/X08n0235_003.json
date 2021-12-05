@@ -2440,7 +2440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以理[銜金+缶]心。",
+        "source_sentence": "以理[銜-金+缶]心。",
         "from": "X08n0235_003:0017c23_1",
         "context_with_next_sentence": true
     },
@@ -6725,7 +6725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "獲盜法之[億音+(天*天)]也。",
+        "source_sentence": "獲盜法之[億-音+(天*天)]也。",
         "from": "X08n0235_003:0021c10_1",
         "context_with_next_sentence": true
     },
@@ -17762,6 +17762,21 @@
     {
         "source_sentence": "大方廣佛華嚴經談玄決擇卷第三",
         "from": "X08n0235_003:0030c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "錄摘文解",
+        "from": "X08n0235_003:0030c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸命十禮十喻教三寶　十號　十恩　普賢文殊　最勝良田　多歧亡羊　不知萬行令了自心　陶南北二宗禪門　雖入先生之門猶迷衣內之珠　見想心三倒九門　始成正覺　三音　破娑婆形如虗空　晉經失旨致古釋詞枝　三義釋因十義　靈鑒匪磨而頓朗萬法　六句明依正　體外無用唯相即故　一道至果　十義釋行無成故六堅六定　十信十心十住十行十向十地等妙　行布是教相施設一斷一切斷　三人共觀一月　一念嗔生百萬障　不體理事行亦非真　包性德而為體　以言顯示令其知有　開示悟入佛之知見　四因佛性利令后義　初發心時便成正覺　所謂無性等　問答法性身土　淨穢剎百億閻浮等　十住遍時不妨餘遍　遮那餘佛見不見失本云。",
+        "from": "X08n0235_003:0030c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(辛未)同三月一日於大宋國一交了",
+        "from": "X08n0235_003:0031a13_0",
         "context_with_next_sentence": false
     }
 ]

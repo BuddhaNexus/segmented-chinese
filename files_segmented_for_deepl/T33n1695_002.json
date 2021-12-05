@@ -745,7 +745,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "霞旛飄颺曳曲[彰章+(卄/果)]以疑虹。",
+        "source_sentence": "霞旛飄颺曳曲[彰-章+(卄/果)]以疑虹。",
         "from": "T33n1695_002:0038a05_0",
         "context_with_next_sentence": true
     },
@@ -7255,7 +7255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "世尊首髮堅固不斷永無[土*(虒儿+巾)]落是第五十。",
+        "source_sentence": "世尊首髮堅固不斷永無[土*(虒-儿+巾)]落是第五十。",
         "from": "T33n1695_002:0047b14_0",
         "context_with_next_sentence": true
     },

@@ -735,7 +735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是年譯觀音呪經三卷○天竺阿地[(並(前刖)+一)/隹]多(此云無極高)。",
+        "source_sentence": "是年譯觀音呪經三卷○天竺阿地[(並-(前-刖)+一)/隹]多(此云無極高)。",
         "from": "X76n1516_008:0086a20_44",
         "context_with_next_sentence": true
     },
@@ -3220,7 +3220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又於綿竹[郫卑+((白日+田)/廾)]縣。",
+        "source_sentence": "又於綿竹[郫-卑+((白-日+田)/廾)]縣。",
         "from": "X76n1516_008:0088a20_24",
         "context_with_next_sentence": true
     },
@@ -4935,7 +4935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "弟子神泰[示*西]元會隱慧立明濬義褒大乘光等。",
+        "source_sentence": "弟子神泰&#;元會隱慧立明濬義褒大乘光等。",
         "from": "X76n1516_008:0089c04_0",
         "context_with_next_sentence": true
     },
@@ -10570,7 +10570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "僕射韋巨源蘇[王*(十/(罩卓+衣))]等監譯○菩提流志。",
+        "source_sentence": "僕射韋巨源蘇[王*(十/(罩-卓+衣))]等監譯○菩提流志。",
         "from": "X76n1516_008:0094c01_30",
         "context_with_next_sentence": true
     },

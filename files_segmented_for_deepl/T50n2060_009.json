@@ -1360,7 +1360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "微[銜金+缶]紫相。",
+        "source_sentence": "微[銜-金+缶]紫相。",
         "from": "T50n2060_009:0493c22_1",
         "context_with_next_sentence": true
     },
@@ -6170,7 +6170,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "煬帝作牧[邱丘+千]江。",
+        "source_sentence": "煬帝作牧[邱-丘+千]江。",
         "from": "T50n2060_009:0499a01_9",
         "context_with_next_sentence": true
     },
@@ -7820,7 +7820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時李宗有道士褚揉者。",
+        "source_sentence": "時李宗有道士禇揉者。",
         "from": "T50n2060_009:0500c05_11",
         "context_with_next_sentence": true
     },

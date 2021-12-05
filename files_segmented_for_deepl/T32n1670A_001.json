@@ -100,7 +100,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "走戲[打丁+毛]撈水令濁惡。",
+        "source_sentence": "走戲[打-丁+毛]撈水令濁惡。",
         "from": "T32n1670A_001:0694a14_5",
         "context_with_next_sentence": true
     },
@@ -125,7 +125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+毛]撈水令濁惡令草不淨。",
+        "source_sentence": "[打-丁+毛]撈水令濁惡令草不淨。",
         "from": "T32n1670A_001:0694a16_10",
         "context_with_next_sentence": true
     },
@@ -2475,7 +2475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[怡台+龍]悷自用得勝而已。",
+        "source_sentence": "[怡-台+龍]悷自用得勝而已。",
         "from": "T32n1670A_001:0696b12_16",
         "context_with_next_sentence": true
     },
@@ -2885,7 +2885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如人持鍛金[竺二+角]吹火氣。",
+        "source_sentence": "如人持鍛金[竺-二+角]吹火氣。",
         "from": "T32n1670A_001:0696c14_23",
         "context_with_next_sentence": true
     },
@@ -4120,7 +4120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以縷合連[打丁+絜]風不能吹散。",
+        "source_sentence": "以縷合連[打-丁+絜]風不能吹散。",
         "from": "T32n1670A_001:0697c24_1",
         "context_with_next_sentence": true
     },

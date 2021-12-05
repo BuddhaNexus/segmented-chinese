@@ -610,7 +610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "這畜生更[跳兆+孛]跳在。",
+        "source_sentence": "這畜生更[跳-兆+孛]跳在。",
         "from": "X88n1646_020:0218b07_12",
         "context_with_next_sentence": true
     },
@@ -1375,13 +1375,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "弄得人[跳兆+孛]跳者只管[跳兆+孛]跳去。",
+        "source_sentence": "弄得人[跳-兆+孛]跳者只管[跳-兆+孛]跳去。",
         "from": "X88n1646_020:0219a07_5",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "貪程者只管貪程",
+        "source_sentence": "貪程者只管貪程去。",
         "from": "X88n1646_020:0219a07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "看你何日是了。",
+        "from": "X88n1646_020:0219a08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悲夫。",
+        "from": "X88n1646_020:0219a08_8",
         "context_with_next_sentence": false
     }
 ]

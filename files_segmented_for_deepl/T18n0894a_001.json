@@ -690,7 +690,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "那(上)莽娑底(丁以反)[口*(隸木+匕)]也(一二合)儞尾(二合)迦(引)南(二)薩(去)羅嚩(二合)怛他(去)蘖哆南(去)(三)闇(引)(四)尾羅視尾囉視(五)摩訶(去)嚩日囉(二合)(六)薩多(上)薩多(上)(七)娑(去)囉帝(八)娑(去)囉底(九)怛囉(二合)以(十)怛羅(二合)以(十一)尾陀莽寧(上)(十二)三(去)伴若(而也反)寧(上)(十三)多(上)囉莽底(丁以反十四)悉陀(引)仡隷(二合)(十五)怛[口*藍](二合)(十六)莎(去)訶(去三遍誦之)或時忘念法則錯誤。",
+        "source_sentence": "那(上)莽娑底(丁以反)[口*(隸-木+匕)]也(一二合)儞尾(二合)迦(引)南(二)薩(去)羅嚩(二合)怛他(去)蘖哆南(去)(三)闇(引)(四)尾羅視尾囉視(五)摩訶(去)嚩日囉(二合)(六)薩多(上)薩多(上)(七)娑(去)囉帝(八)娑(去)囉底(九)怛囉(二合)以(十)怛羅(二合)以(十一)尾陀莽寧(上)(十二)三(去)伴若(而也反)寧(上)(十三)多(上)囉莽底(丁以反十四)悉陀(引)仡隷(二合)(十五)怛[口*藍](二合)(十六)莎(去)訶(去三遍誦之)或時忘念法則錯誤。",
         "from": "T18n0894a_001:0693a24_0",
         "context_with_next_sentence": true
     },
@@ -1345,7 +1345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵商僧(二合)迦[口*(隸木+匕)]三莽焰莎訶(此護身結界真言)其手印相。",
+        "source_sentence": "唵商僧(二合)迦[口*(隸-木+匕)]三莽焰莎訶(此護身結界真言)其手印相。",
         "from": "T18n0894a_001:0694b06_0",
         "context_with_next_sentence": true
     },
@@ -1545,7 +1545,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵[合*牛]賀囊(上)嚩日囉(二合)嚩日[口*(隸木+匕)](二合)儜(上)訶(不限遍數惟多誦此是攪水真言)其手印相。",
+        "source_sentence": "唵[合*牛]賀囊(上)嚩日囉(二合)嚩日[口*(隸-木+匕)](二合)儜(上)訶(不限遍數惟多誦此是攪水真言)其手印相。",
         "from": "T18n0894a_001:0694b27_0",
         "context_with_next_sentence": true
     },
@@ -2275,7 +2275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵帝囉[口*(隸木+匕)]佛(哺時反)陀莎訶(三遍誦之此是佛部奉三掬水真言)又蓮華部獻水真言曰。",
+        "source_sentence": "唵帝囉[口*(隸-木+匕)]佛(哺時反)陀莎訶(三遍誦之此是佛部奉三掬水真言)又蓮華部獻水真言曰。",
         "from": "T18n0894a_001:0695c08_0",
         "context_with_next_sentence": true
     },
@@ -2285,7 +2285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　微濕嚩(二合)嚩日[口*(隸木+匕)](二合)莎訶(三遍誦之此是金剛部奉三掬水真言)通三部手印相。",
+        "source_sentence": "唵　微濕嚩(二合)嚩日[口*(隸-木+匕)](二合)莎訶(三遍誦之此是金剛部奉三掬水真言)通三部手印相。",
         "from": "T18n0894a_001:0695c12_0",
         "context_with_next_sentence": true
     },
@@ -3210,8 +3210,73 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "◎蘇悉地羯羅供養法卷上",
+        "source_sentence": "◎蘇悉地羯羅供養法卷上丹藏即云。",
         "from": "T18n0894a_001:0697a20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蘇悉地羯羅經。",
+        "from": "T18n0894a_001:0697a22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名既不同文亦大異。",
+        "from": "T18n0894a_001:0697a22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譯人一也。",
+        "from": "T18n0894a_001:0697a23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今撿丹藏之經。",
+        "from": "T18n0894a_001:0697a23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "國宋藏中始終皆無供養法者。",
+        "from": "T18n0894a_001:0697a23_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "丹藏亦於感函有之。",
+        "from": "T18n0894a_001:0697a24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "委尋開元貞元二錄。",
+        "from": "T18n0894a_001:0697a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善無畏譯只有三經一法。",
+        "from": "T18n0894a_001:0697a25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而無此供養法。",
+        "from": "T18n0894a_001:0697a26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今以目錄雖無。",
+        "from": "T18n0894a_001:0697a26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "詳其文義。",
+        "from": "T18n0894a_001:0697a26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非是後人偽妄集者。",
+        "from": "T18n0894a_001:0697a27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故依丹藏兩俱存焉。",
+        "from": "T18n0894a_001:0697a27_6",
         "context_with_next_sentence": false
     }
 ]

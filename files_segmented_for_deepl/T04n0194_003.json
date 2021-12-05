@@ -385,7 +385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "當於爾時摩竭國王有象，名檀那波羅，形貌極端政，頭生三[病丙+垂]，聲響清徹意欲所至難可制持，若聞異聲便懷瞋恚，若自顧見影亦懷瞋恚，無能當前者，隨意所欲，若彼戰鬪亦不毀其力亦不減少。",
+        "source_sentence": "當於爾時摩竭國王有象，名檀那波羅，形貌極端政，頭生三[病-丙+垂]，聲響清徹意欲所至難可制持，若聞異聲便懷瞋恚，若自顧見影亦懷瞋恚，無能當前者，隨意所欲，若彼戰鬪亦不毀其力亦不減少。",
         "from": "T04n0194_003:0136a24_1",
         "context_with_next_sentence": true
     },
@@ -1260,7 +1260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "彼有軟風起，漸漸有智生，亦如彼舉足時，皆是本行之德，不失本所為之相，[蹲酋+(十/田/ㄙ)]骨所行來往，皆有火起，於一切骨屈申卷舒，筋脈漸緩有所悕望。",
+        "source_sentence": "彼有軟風起，漸漸有智生，亦如彼舉足時，皆是本行之德，不失本所為之相，[蹲-酋+(十/田/ㄙ)]骨所行來往，皆有火起，於一切骨屈申卷舒，筋脈漸緩有所悕望。",
         "from": "T04n0194_003:0139c07_0",
         "context_with_next_sentence": true
     },
@@ -2485,7 +2485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如來如是最後夏坐時，於跋祇境界毘將村中夏坐。",
+        "source_sentence": "如來如是最後夏坐時，於䟦祇境界毘將村中夏坐。",
         "from": "T04n0194_003:0144b13_2",
         "context_with_next_sentence": true
     },

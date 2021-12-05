@@ -485,7 +485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "指[跳兆+虖]相博。",
+        "source_sentence": "指[跳-兆+虖]相博。",
         "from": "T18n0894b_001:0705a22_2",
         "context_with_next_sentence": true
     },
@@ -695,7 +695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "那　莽　娑底　[口*(隸木+匕)]也(三合)　儞尾(二合)　迦(引)　難(去)薩　囉嚩　怛　他(去)　蘖　哆　難(去)(三)　闇　尾　囉而　尾　囉　而　摩　訶　作　訖羅(二合)　嚩　日哩薩　多　薩　多　娑(去)　囉　帝　娑　囉　帝　怛囉(二合)以　怛羅　以　尾　陀　莽　寧　三　伴　若寧　多　囉　莽　底　悉　陀　仡隷　怛[口*藍]　莎訶或時忘念法則錯誤。",
+        "source_sentence": "那　莽　娑底　[口*(隸-木+匕)]也(三合)　儞尾(二合)　迦(引)　難(去)薩　囉嚩　怛　他(去)　蘖　哆　難(去)(三)　闇　尾　囉而　尾　囉　而　摩　訶　作　訖羅(二合)　嚩　日哩薩　多　薩　多　娑(去)　囉　帝　娑　囉　帝　怛囉(二合)以　怛羅　以　尾　陀　莽　寧　三　伴　若寧　多　囉　莽　底　悉　陀　仡隷　怛[口*藍]　莎訶或時忘念法則錯誤。",
         "from": "T18n0894b_001:0705b10_0",
         "context_with_next_sentence": true
     },
@@ -1370,7 +1370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　商　迦　[口*(隸木+匕)]　三　莽　焰　莎　訶(是護身結界真言)其手印相。",
+        "source_sentence": "唵　商　迦　[口*(隸-木+匕)]　三　莽　焰　莎　訶(是護身結界真言)其手印相。",
         "from": "T18n0894b_001:0706c23_0",
         "context_with_next_sentence": true
     },
@@ -1585,7 +1585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　[合*牛]　賀　囊　嚩　日哩(二合)　嚩　日[口*(隸木+匕)](二合)　拏訶(攪水真言)其手印相。",
+        "source_sentence": "唵　[合*牛]　賀　囊　嚩　日哩(二合)　嚩　日[口*(隸-木+匕)](二合)　拏訶(攪水真言)其手印相。",
         "from": "T18n0894b_001:0707a25_0",
         "context_with_next_sentence": true
     },
@@ -2035,7 +2035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "囊　謨　囉　怛囊　怛囉　夜　也　那　莽　室戰拏　嚩　日囉　簸　儜　曳　摩　訶　藥　乞沙細　囊　鉢　多　曳　那　謨　嚩　日囉　句路駝　也　鉢囉　若嚩　里　多　儞　鉢多　能瑟吒嚕　得迦　吒　婆　也　珮　囉　嚩　也　阿徙　母　娑　囉　嚩　日囉(二合)　鉢　囉　輸　波捨　賀　娑多　也　怛　姪也　他　唵　闇　沒[口*栗]多　軍　拏　里　佉　佉　佉　佉　佉　囊　佉　囊佉　囊　佉　囊　佉　陀　佉　陀　佉　陀　佉　陀佉　呬　佉　呬　佉　呬　佉　呬　底　瑟吒　底瑟咤　賀　囊　賀　囊　娜　賀　娜　賀　鉢　者鉢　者　蘖[口*栗]　訶　拏　蘖[口*栗]　訶　拏(二合)　滿　馱滿　馱　蘖　囉若　蘖　[口*栗]惹　怛囉　若　怛囉若　微　娑鋪　吒　也　微　婆鋪　吒　也　婆伽　梵　囊　沒[口*栗]　多　軍　拏　里　母　[口*栗]　馱喃　多　拏　也　嚩　日[口*(隸木+匕)]　拏　薩　囉嚩　微　伽那　也　微　那　也　劍　寧　嚩　羅　也　摩訶　伽　儜　鉢　底　餌　尾　難　多　迦　囉　也[合*牛]　[合*牛]　泮　吒　泮　吒　句　嚕　馱　根囊　曳莎　訶(誦三遍)其自灌頂者。",
+        "source_sentence": "囊　謨　囉　怛囊　怛囉　夜　也　那　莽　室戰拏　嚩　日囉　簸　儜　曳　摩　訶　藥　乞沙細　囊　鉢　多　曳　那　謨　嚩　日囉　句路駝　也　鉢囉　若嚩　里　多　儞　鉢多　能瑟吒嚕　得迦　吒　婆　也　珮　囉　嚩　也　阿徙　母　娑　囉　嚩　日囉(二合)　鉢　囉　輸　波捨　賀　娑多　也　怛　姪也　他　唵　闇　沒[口*栗]多　軍　拏　里　佉　佉　佉　佉　佉　囊　佉　囊佉　囊　佉　囊　佉　陀　佉　陀　佉　陀　佉　陀佉　呬　佉　呬　佉　呬　佉　呬　底　瑟吒　底瑟咤　賀　囊　賀　囊　娜　賀　娜　賀　鉢　者鉢　者　蘖[口*栗]　訶　拏　蘖[口*栗]　訶　拏(二合)　滿　馱滿　馱　蘖　囉若　蘖　[口*栗]惹　怛囉　若　怛囉若　微　娑鋪　吒　也　微　婆鋪　吒　也　婆伽　梵　囊　沒[口*栗]　多　軍　拏　里　母　[口*栗]　馱喃　多　拏　也　嚩　日[口*(隸-木+匕)]　拏　薩　囉嚩　微　伽那　也　微　那　也　劍　寧　嚩　羅　也　摩訶　伽　儜　鉢　底　餌　尾　難　多　迦　囉　也[合*牛]　[合*牛]　泮　吒　泮　吒　句　嚕　馱　根囊　曳莎　訶(誦三遍)其自灌頂者。",
         "from": "T18n0894b_001:0707c22_0",
         "context_with_next_sentence": true
     },
@@ -2315,7 +2315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　帝　囉　[口*(隸木+匕)]　佛(哺特反)　陀　莎嚩　訶(三誦三遍奉三掬水)蓮華部獻水真言曰。",
+        "source_sentence": "唵　帝　囉　[口*(隸-木+匕)]　佛(哺特反)　陀　莎嚩　訶(三誦三遍奉三掬水)蓮華部獻水真言曰。",
         "from": "T18n0894b_001:0708c09_0",
         "context_with_next_sentence": true
     },
@@ -2325,7 +2325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　微　濕嚩(二合)　嚩　日[口*(隸木+匕)](二合)　莎嚩　訶(誦三遍奉掬水)其手印相。",
+        "source_sentence": "唵　微　濕嚩(二合)　嚩　日[口*(隸-木+匕)](二合)　莎嚩　訶(誦三遍奉掬水)其手印相。",
         "from": "T18n0894b_001:0708c15_0",
         "context_with_next_sentence": true
     },
@@ -2405,7 +2405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "左掌內令無縫[跳兆+虖]二大指。",
+        "source_sentence": "左掌內令無縫[跳-兆+虖]二大指。",
         "from": "T18n0894b_001:0708c26_2",
         "context_with_next_sentence": true
     },
@@ -3455,7 +3455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "那　莽　娑怛[口*(隸木+匕)]也　地尾　迦　難　薩囉　嚩　怛他　蘖　多　難　唵　悉　馱　路　者　寧　莎　訶(誦七遍)蓮華部結髮真言曰。",
+        "source_sentence": "那　莽　娑怛[口*(隸-木+匕)]也　地尾　迦　難　薩囉　嚩　怛他　蘖　多　難　唵　悉　馱　路　者　寧　莎　訶(誦七遍)蓮華部結髮真言曰。",
         "from": "T18n0894b_001:0710c20_0",
         "context_with_next_sentence": true
     },
@@ -3545,7 +3545,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　阿　者　羅　微　[口*(隸木+匕)]　莎　訶(誦三遍)次說成就寶蓮華真言曰。",
+        "source_sentence": "唵　阿　者　羅　微　[口*(隸-木+匕)]　莎　訶(誦三遍)次說成就寶蓮華真言曰。",
         "from": "T18n0894b_001:0711a26_0",
         "context_with_next_sentence": true
     },
@@ -3980,7 +3980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "那　莽　娑怛[口*(隸木+匕)]　也　地　尾　迦　難　薩　囉嚩怛　他　蘖　多　難　唵　嚩　日[口*藍]　祇　儞也　羯囉灑(此中安來句)　也　莎　訶其手印。",
+        "source_sentence": "那　莽　娑怛[口*(隸-木+匕)]　也　地　尾　迦　難　薩　囉嚩怛　他　蘖　多　難　唵　嚩　日[口*藍]　祇　儞也　羯囉灑(此中安來句)　也　莎　訶其手印。",
         "from": "T18n0894b_001:0712b03_0",
         "context_with_next_sentence": true
     },
@@ -4252,6 +4252,16 @@
     {
         "source_sentence": "蘇悉地羯羅供養法卷第一",
         "from": "T18n0894b_001:0713a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天喜三年九月七日書了",
+        "from": "T18n0894b_001:0713a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　　　　僧平源之本",
+        "from": "T18n0894b_001:0713a03_0",
         "context_with_next_sentence": false
     }
 ]

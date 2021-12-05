@@ -750,7 +750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "七日不逢一場懡[怡台+羅]。",
+        "source_sentence": "七日不逢一場懡[怡-台+羅]。",
         "from": "X82n1571_036:0023c10_58",
         "context_with_next_sentence": true
     },
@@ -4630,7 +4630,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "無索泥牛皆[跳兆+孛]跳。",
+        "source_sentence": "無索泥牛皆[跳-兆+孛]跳。",
         "from": "X82n1571_036:0026c20_2",
         "context_with_next_sentence": true
     },
@@ -6935,7 +6935,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鐵牛[跳兆+孛]跳過新羅。",
+        "source_sentence": "鐵牛[跳-兆+孛]跳過新羅。",
         "from": "X82n1571_036:0028c02_3",
         "context_with_next_sentence": true
     },

@@ -735,7 +735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雅以火筯一[打丁+慼]。",
+        "source_sentence": "雅以火筯一[打-丁+慼]。",
         "from": "X79n1559_027:0460b11_4",
         "context_with_next_sentence": true
     },
@@ -1080,7 +1080,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔樹鳴條浩浩風。",
+        "source_sentence": "㧞樹鳴條浩浩風。",
         "from": "X79n1559_027:0461a04_2",
         "context_with_next_sentence": true
     },
@@ -2745,7 +2745,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "火裏生蓮香[颱台+弗][颱台+弗]。",
+        "source_sentence": "火裏生蓮香[颱-台+弗][颱-台+弗]。",
         "from": "X79n1559_027:0463b05_5",
         "context_with_next_sentence": true
     },
@@ -2835,7 +2835,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "香風[颱台+弗][颱台+弗]。",
+        "source_sentence": "香風[颱-台+弗][颱-台+弗]。",
         "from": "X79n1559_027:0463b13_4",
         "context_with_next_sentence": true
     },
@@ -4942,6 +4942,16 @@
     {
         "source_sentence": "嘉泰普燈錄卷第二十七",
         "from": "X79n1559_027:0466b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_027:0466b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　蟾時占切　蜍常如切　褫音池　柘音蔗　咭巨吉切　嘹力吊切　鬣音獵　罽居例切　岋魚及切　崿五各切　滸音虎　掐苦洽切　舁音餘　籛音箋　惲音蘊",
+        "from": "X79n1559_027:0466b13_0",
         "context_with_next_sentence": false
     }
 ]

@@ -25,7 +25,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 敘相宗八要解",
+        "source_sentence": "敘相宗八要解",
         "from": "X55n0900_001:0472b06_0",
         "context_with_next_sentence": true
     },
@@ -295,7 +295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故世有啄穿無明之[聲耳+卵]。",
+        "source_sentence": "故世有啄穿無明之[聲-耳+卵]。",
         "from": "X55n0900_001:0472b23_6",
         "context_with_next_sentence": true
     },
@@ -315,7 +315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 敘高原大師相宗八要解",
+        "source_sentence": "敘高原大師相宗八要解",
         "from": "X55n0900_001:0472c04_0",
         "context_with_next_sentence": true
     },
@@ -535,7 +535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[遄而+王][遄而+王]造論通經。",
+        "source_sentence": "[遄-而+王][遄-而+王]造論通經。",
         "from": "X55n0900_001:0472c21_23",
         "context_with_next_sentence": true
     },
@@ -1050,7 +1050,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 六釋法式通關冠註序",
+        "source_sentence": "六釋法式通關冠註序",
         "from": "X55n0900_001:0474a03_0",
         "context_with_next_sentence": true
     },
@@ -2792,6 +2792,16 @@
     {
         "source_sentence": "六離合釋法式通關(終)",
         "from": "X55n0900_001:0486a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶永元甲申年八月吉日",
+        "from": "X55n0900_001:0486a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "篠路宇右衛門盈貞",
+        "from": "X55n0900_001:0486a07_0",
         "context_with_next_sentence": false
     }
 ]

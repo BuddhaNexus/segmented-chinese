@@ -8055,7 +8055,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "現受[葶丁+呆]草示於知足。",
+        "source_sentence": "現受[葶-丁+呆]草示於知足。",
         "from": "T85n2871_002:1348c03_15",
         "context_with_next_sentence": true
     },
@@ -8697,6 +8697,11 @@
     {
         "source_sentence": "大通方廣經卷中",
         "from": "T85n2871_002:1349a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開皇十年十一月二十日清信女董仙妃稽和南十方一切三寶今謹為亡夫曾雅造此經一部流通供養願亡夫泳此善因遊魂淨土面覩諸佛永雖三途長超八難耳飡法音心悟智忍普共六道同向菩提。",
+        "from": "T85n2871_002:1349a13_0",
         "context_with_next_sentence": false
     }
 ]

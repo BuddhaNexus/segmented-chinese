@@ -150,7 +150,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "春風[颱台+弗][颱台+弗]。",
+        "source_sentence": "春風[颱-台+弗][颱-台+弗]。",
         "from": "X78n1556_018:0753a22_30",
         "context_with_next_sentence": true
     },
@@ -3185,7 +3185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "摩[怡台+羅]西歸辭震旦。",
+        "source_sentence": "摩[怡-台+羅]西歸辭震旦。",
         "from": "X78n1556_018:0755b01_8",
         "context_with_next_sentence": true
     },

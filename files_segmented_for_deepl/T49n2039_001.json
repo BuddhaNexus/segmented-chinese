@@ -635,7 +635,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如建作[肂、]武作正則改之。",
+        "source_sentence": "如建作[肂-、]武作正則改之。",
         "from": "T49n2039_001:0954a22_2",
         "context_with_next_sentence": true
     },
@@ -985,7 +985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此紀異之所以[仁二+斬]諸篇也。",
+        "source_sentence": "此紀異之所以[仁-二+斬]諸篇也。",
         "from": "T49n2039_001:0961c19_1",
         "context_with_next_sentence": true
     },
@@ -2020,7 +2020,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "九夷者　一玄菟　二樂浪　三高麗　四滿飾　五鳧臾　六素家　七東屠　八倭人　九天鄙　海東安弘記云九韓者　一日本　二中華　三吳越　四[尤尢+乇]羅　五鷹遊　六靺鞨　七丹國　八女真　九穢貊。",
+        "source_sentence": "九夷者　一玄菟　二樂浪　三高麗　四滿飾　五鳧臾　六素家　七東屠　八倭人　九天鄙　海東安弘記云九韓者　一日本　二中華　三吳越　四[尤-尢+乇]羅　五鷹遊　六靺鞨　七丹國　八女真　九穢貊。",
         "from": "T49n2039_001:0962c07_12",
         "context_with_next_sentence": true
     },
@@ -3180,7 +3180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[山/(敲高+止)]嶷異常。",
+        "source_sentence": "[山/(敲-高+止)]嶷異常。",
         "from": "T49n2039_001:0963c26_20",
         "context_with_next_sentence": true
     },
@@ -8765,7 +8765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　深仁諧日月　　[打丁+旡]軍邁虞唐　幡旗何赫赫　　錚鼓何鍠鍠　外夷違命者　　剪覆被天殃　淳風凝幽現　　遐邇競呈祥　四時和玉燭　　七曜巡方方　維嶽降輔宰　　維帝任忠良　五三成一德　　昭我唐家皇王之代有閼川公。",
+        "source_sentence": "　深仁諧日月　　[打-丁+旡]軍邁虞唐　幡旗何赫赫　　錚鼓何鍠鍠　外夷違命者　　剪覆被天殃　淳風凝幽現　　遐邇競呈祥　四時和玉燭　　七曜巡方方　維嶽降輔宰　　維帝任忠良　五三成一德　　昭我唐家皇王之代有閼川公。",
         "from": "T49n2039_001:0969a04_0",
         "context_with_next_sentence": true
     },
@@ -10800,7 +10800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "王[盜皿]子泰自立為王。",
+        "source_sentence": "王[盜-皿]子泰自立為王。",
         "from": "T49n2039_001:0970c12_6",
         "context_with_next_sentence": true
     },

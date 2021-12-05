@@ -5115,7 +5115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其[百日+(ㄎ(幻ㄠ)+入)]矣乎。",
+        "source_sentence": "其[百-日+(ㄎ-(幻-ㄠ)+入)]矣乎。",
         "from": "X31n0608_004:0415b04_15",
         "context_with_next_sentence": true
     },

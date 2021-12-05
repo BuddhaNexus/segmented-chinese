@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 般若波羅蜜多心經句解易知序",
+        "source_sentence": "般若波羅蜜多心經句解易知序",
         "from": "X26n0569_001:0935a03_0",
         "context_with_next_sentence": true
     },
@@ -55,7 +55,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]誦者雖多。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]誦者雖多。",
         "from": "X26n0569_001:0935a08_4",
         "context_with_next_sentence": true
     },
@@ -5177,6 +5177,16 @@
     {
         "source_sentence": "切之又切也。",
         "from": "X26n0569_001:0940a09_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正定者。",
+        "from": "X26n0569_001:0940a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "超乎四禪四空一切諸有也。",
+        "from": "X26n0569_001:0940a10_1",
         "context_with_next_sentence": false
     }
 ]

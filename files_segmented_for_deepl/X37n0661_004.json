@@ -8460,12 +8460,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四引儒中云髀([(白日+田)/廾]婢反)。",
+        "source_sentence": "四引儒中云髀([(白-日+田)/廾]婢反)。",
         "from": "X37n0661_004:0203a15_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[竺二+散](蘇旱反)日月橫行者。",
+        "source_sentence": "[竺-二+散](蘇旱反)日月橫行者。",
         "from": "X37n0661_004:0203a15_1",
         "context_with_next_sentence": true
     },
@@ -10405,7 +10405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[病丙+帶](赤白痢竹例反)齊為席下齊是諸腸[腮心+日]原故也。",
+        "source_sentence": "[病-丙+帶](赤白痢竹例反)齊為席下齊是諸腸[腮-心+日]原故也。",
         "from": "X37n0661_004:0205a22_0",
         "context_with_next_sentence": true
     },
@@ -15030,12 +15030,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "長者金[打丁+豆]。",
+        "source_sentence": "長者金[打-丁+豆]。",
         "from": "X37n0661_004:0210b08_3",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+豆]者令長而斬截之落其手足等。",
+        "source_sentence": "[打-丁+豆]者令長而斬截之落其手足等。",
         "from": "X37n0661_004:0210b08_4",
         "context_with_next_sentence": true
     },
@@ -15295,7 +15295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "尋復[漉比+(人*人)]之。",
+        "source_sentence": "尋復[漉-比+(人*人)]之。",
         "from": "X37n0661_004:0210c03_28",
         "context_with_next_sentence": true
     },
@@ -15985,7 +15985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂寒更甚身色[袖由+余]紅也。",
+        "source_sentence": "謂寒更甚身色[袖-由+余]紅也。",
         "from": "X37n0661_004:0211a19_6",
         "context_with_next_sentence": true
     },

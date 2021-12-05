@@ -205,7 +205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "村歌社舞且淈[泳永+盾]。",
+        "source_sentence": "村歌社舞且淈[泳-永+盾]。",
         "from": "X66n1296_031:0177c14_9",
         "context_with_next_sentence": true
     },
@@ -3140,7 +3140,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "X66n1296_031:0180c19_2",
         "context_with_next_sentence": true
     },
@@ -3420,7 +3420,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天築著帝釋鼻孔。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天築著帝釋鼻孔。",
         "from": "X66n1296_031:0181a17_1",
         "context_with_next_sentence": true
     },
@@ -4455,7 +4455,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "溈山哲云。",
+        "source_sentence": "溈山喆云。",
         "from": "X66n1296_031:0182b02_0",
         "context_with_next_sentence": true
     },

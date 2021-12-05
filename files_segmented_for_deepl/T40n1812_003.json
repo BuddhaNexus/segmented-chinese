@@ -4575,8 +4575,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此云起說聖化難",
+        "source_sentence": "此云起說聖化難測。",
         "from": "T40n1812_003:0602a18_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨機見述(云云)。",
+        "from": "T40n1812_003:0602a19_23",
         "context_with_next_sentence": false
     }
 ]

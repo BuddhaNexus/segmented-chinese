@@ -3650,7 +3650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眉毛下[跳兆+孛]跳麼。",
+        "source_sentence": "眉毛下[跳-兆+孛]跳麼。",
         "from": "X85n1587_003:0015a22_25",
         "context_with_next_sentence": true
     },
@@ -6650,7 +6650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是何話杷。",
+        "source_sentence": "是何話&#;。",
         "from": "X85n1587_003:0017b20_0",
         "context_with_next_sentence": true
     },
@@ -9320,7 +9320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "切忌",
+        "source_sentence": "切忌揑目。",
         "from": "X85n1587_003:0019b22_16",
         "context_with_next_sentence": false
     }

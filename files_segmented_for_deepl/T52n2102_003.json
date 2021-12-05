@@ -3980,7 +3980,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "徒信史之[門@(服月+圭)]文於焚燒之後。",
+        "source_sentence": "徒信史之[門@(服-月+圭)]文於焚燒之後。",
         "from": "T52n2102_003:0020b09_0",
         "context_with_next_sentence": true
     },

@@ -925,7 +925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "與諸人眉毛[病丙+斯]結。",
+        "source_sentence": "與諸人眉毛[病-丙+斯]結。",
         "from": "X70n1391_001:0484b10_4",
         "context_with_next_sentence": true
     },
@@ -2080,7 +2080,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "解纜放船。",
+        "source_sentence": "解䌫放船。",
         "from": "X70n1391_001:0485b05_4",
         "context_with_next_sentence": true
     },
@@ -12230,7 +12230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一嘯清風動寥[沱匕+几]。",
+        "source_sentence": "一嘯清風動寥&#;。",
         "from": "X70n1391_001:0493b16_6",
         "context_with_next_sentence": true
     },
@@ -12730,12 +12730,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "窮[病丙+斯]吵。",
+        "source_sentence": "窮[病-丙+斯]吵。",
         "from": "X70n1391_001:0493c22_5",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "餓[病丙+斯]煎。",
+        "source_sentence": "餓[病-丙+斯]煎。",
         "from": "X70n1391_001:0493c22_6",
         "context_with_next_sentence": true
     },

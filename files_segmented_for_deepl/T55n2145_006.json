@@ -1280,7 +1280,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[倖干+貝]蹻惚怳眴匝宇宙。",
+        "source_sentence": "[倖-干+貝]蹻惚怳眴匝宇宙。",
         "from": "T55n2145_006:0044a01_0",
         "context_with_next_sentence": true
     },
@@ -3685,7 +3685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "至不可[晉(一/日)+土]神幽想獄。",
+        "source_sentence": "至不可[晉-(一/日)+土]神幽想獄。",
         "from": "T55n2145_006:0046a25_2",
         "context_with_next_sentence": true
     },

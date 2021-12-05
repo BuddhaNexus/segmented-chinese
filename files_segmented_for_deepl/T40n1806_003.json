@@ -550,7 +550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若膝[跳兆+專]有瘡高著。",
+        "source_sentence": "若膝[跳-兆+專]有瘡高著。",
         "from": "T40n1806_003:0456b29_2",
         "context_with_next_sentence": true
     },
@@ -610,7 +610,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "過脚[跳兆+專]上。",
+        "source_sentence": "過脚[跳-兆+專]上。",
         "from": "T40n1806_003:0456c08_3",
         "context_with_next_sentence": true
     },
@@ -2840,7 +2840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或脚[跳兆+專]有垢膩若污泥者。",
+        "source_sentence": "或脚[跳-兆+專]有垢膩若污泥者。",
         "from": "T40n1806_003:0459c12_2",
         "context_with_next_sentence": true
     },

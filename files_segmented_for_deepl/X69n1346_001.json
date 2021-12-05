@@ -5680,7 +5680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "昨日[栽木+土]茄子。",
+        "source_sentence": "昨日[栽-木+土]茄子。",
         "from": "X69n1346_001:0245c15_5",
         "context_with_next_sentence": true
     },
@@ -5735,7 +5735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "昨日[栽木+土]茄子。",
+        "source_sentence": "昨日[栽-木+土]茄子。",
         "from": "X69n1346_001:0245c18_9",
         "context_with_next_sentence": true
     },
@@ -7470,7 +7470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]視左右云。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]視左右云。",
         "from": "X69n1346_001:0247a18_3",
         "context_with_next_sentence": true
     },
@@ -9070,7 +9070,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "空山風雨夜[颱台+(癸天+虫)][颱台+(癸天+虫)]。",
+        "source_sentence": "空山風雨夜[颱-台+(癸-天+虫)][颱-台+(癸-天+虫)]。",
         "from": "X69n1346_001:0248b14_24",
         "context_with_next_sentence": true
     },
@@ -9215,7 +9215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "耳朵裏[栽木+土]田。",
+        "source_sentence": "耳朵裏[栽-木+土]田。",
         "from": "X69n1346_001:0248b21_20",
         "context_with_next_sentence": true
     },
@@ -11035,7 +11035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "但知隨例飡[飢几+追]子。",
+        "source_sentence": "但知隨例飡[飢-几+追]子。",
         "from": "X69n1346_001:0250a01_7",
         "context_with_next_sentence": true
     },
@@ -12535,7 +12535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "向搕[打丁+(天/韭)]堆頭埋却你。",
+        "source_sentence": "向搕[打-丁+(天/韭)]堆頭埋却你。",
         "from": "X69n1346_001:0251a10_6",
         "context_with_next_sentence": true
     },
@@ -12560,7 +12560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "埋却你底搕[打丁+(天/韭)]。",
+        "source_sentence": "埋却你底搕[打-丁+(天/韭)]。",
         "from": "X69n1346_001:0251a12_11",
         "context_with_next_sentence": true
     },
@@ -15955,7 +15955,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "却是寒山掃帚。",
+        "source_sentence": "却是寒山掃箒。",
         "from": "X69n1346_001:0253c15_3",
         "context_with_next_sentence": true
     },
@@ -17165,7 +17165,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "可中丹桂和根拔。",
+        "source_sentence": "可中丹桂和根㧞。",
         "from": "X69n1346_001:0255b03_0",
         "context_with_next_sentence": true
     },
@@ -19187,6 +19187,11 @@
     {
         "source_sentence": "劍去久矣。",
         "from": "X69n1346_001:0257b08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時癸卯王正上元　　三關老雪　覺性　書",
+        "from": "X69n1346_001:0257b10_0",
         "context_with_next_sentence": false
     }
 ]

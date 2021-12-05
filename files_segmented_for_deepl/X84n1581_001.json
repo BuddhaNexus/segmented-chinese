@@ -515,7 +515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "扇子[跳-兆+孛]跳上三十三天。",
         "from": "X84n1581_001:0359a09_10",
         "context_with_next_sentence": true
     },
@@ -2010,7 +2010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "失却手橈累天下衲僧總落拄杖圈[袖由+貴]。",
+        "source_sentence": "失却手橈累天下衲僧總落拄杖圈[袖-由+貴]。",
         "from": "X84n1581_001:0360a16_35",
         "context_with_next_sentence": true
     },
@@ -5410,7 +5410,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皆墮法塵見刺之圈[袖由+貴]。",
+        "source_sentence": "皆墮法塵見刺之圈[袖-由+貴]。",
         "from": "X84n1581_001:0363a24_10",
         "context_with_next_sentence": true
     },
@@ -7385,7 +7385,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "懡[怡台+羅]含糊。",
+        "source_sentence": "懡[怡-台+羅]含糊。",
         "from": "X84n1581_001:0365a06_20",
         "context_with_next_sentence": true
     },
@@ -17960,12 +17960,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大用麵力多。",
+        "source_sentence": "大用麫力多。",
         "from": "X84n1581_001:0374a08_14",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若無麴力攻化。",
+        "source_sentence": "若無麯力攻化。",
         "from": "X84n1581_001:0374a08_15",
         "context_with_next_sentence": true
     },
@@ -18535,7 +18535,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "引得兒孫成話杷下座。",
+        "source_sentence": "引得兒孫成話&#;下座。",
         "from": "X84n1581_001:0374b21_24",
         "context_with_next_sentence": true
     },

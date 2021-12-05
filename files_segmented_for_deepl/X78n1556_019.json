@@ -720,7 +720,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "春風[颱台+弗][颱台+弗]。",
+        "source_sentence": "春風[颱-台+弗][颱-台+弗]。",
         "from": "X78n1556_019:0759b12_19",
         "context_with_next_sentence": true
     },
@@ -3760,7 +3760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "打麵還他州土麥。",
+        "source_sentence": "打麫還他州土麥。",
         "from": "X78n1556_019:0761b15_12",
         "context_with_next_sentence": true
     },

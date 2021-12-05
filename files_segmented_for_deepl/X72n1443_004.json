@@ -1685,7 +1685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有時糞堆搕[打丁+(天/韭)]。",
+        "source_sentence": "有時糞堆搕[打-丁+(天/韭)]。",
         "from": "X72n1443_004:0754c10_3",
         "context_with_next_sentence": true
     },
@@ -3690,7 +3690,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔苦與樂。",
+        "source_sentence": "㧞苦與樂。",
         "from": "X72n1443_004:0757b04_5",
         "context_with_next_sentence": true
     },
@@ -4417,6 +4417,71 @@
     {
         "source_sentence": "長慶宗寶獨禪師語錄卷第四",
         "from": "X72n1443_004:0758a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X72n1443_004:0758a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "撾(張瓜切。",
+        "from": "X72n1443_004:0758a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音髽。",
+        "from": "X72n1443_004:0758a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "擊鼓也)　帖(他恊切。",
+        "from": "X72n1443_004:0758a10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音貼。",
+        "from": "X72n1443_004:0758a10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妥帖定也)　鍠(胡光切。",
+        "from": "X72n1443_004:0758a10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音黃。",
+        "from": "X72n1443_004:0758a10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鐘鼓聲。",
+        "from": "X72n1443_004:0758a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鍠鍠樂之聲也)　囦(古淵字。",
+        "from": "X72n1443_004:0758a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "物萌於囦。",
+        "from": "X72n1443_004:0758a11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "深廣貌)　嚗(披教切。",
+        "from": "X72n1443_004:0758a11_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音砲。",
+        "from": "X72n1443_004:0758a11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嚗然聲也)",
+        "from": "X72n1443_004:0758a11_11",
         "context_with_next_sentence": false
     }
 ]

@@ -4085,7 +4085,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不令噉酒糟麥[麩夫+戈]。",
+        "source_sentence": "不令噉酒糟麥䴰。",
         "from": "T48n2016_039:0648a10_14",
         "context_with_next_sentence": true
     },
@@ -4130,7 +4130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "麥[麩夫+戈]是嗔恚。",
+        "source_sentence": "麥䴰是嗔恚。",
         "from": "T48n2016_039:0648a12_7",
         "context_with_next_sentence": true
     },
@@ -7857,6 +7857,11 @@
     {
         "source_sentence": "宗鏡錄卷第三十九",
         "from": "T48n2016_039:0650c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　丁未歲分司大藏都監開板",
+        "from": "T48n2016_039:0650c11_0",
         "context_with_next_sentence": false
     }
 ]

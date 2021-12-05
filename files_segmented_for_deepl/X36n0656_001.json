@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 大般涅槃經玄義文句會本序",
+        "source_sentence": "大般涅槃經玄義文句會本序",
         "from": "X36n0656_001:0010b06_0",
         "context_with_next_sentence": true
     },
@@ -1230,7 +1230,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是病者長者沒已劫掠群牛[穀禾+牛]乳自食漿酪醍醐一切皆失如來去後鈔竊正法常樂之名如蟲食木偶得成字不識是非廣起顛倒沈淪生死隨其流處有種種名或辛或酸故知三界四倒但是病而非藥。",
+        "source_sentence": "是病者長者沒已劫掠群牛[穀-禾+牛]乳自食漿酪醍醐一切皆失如來去後鈔竊正法常樂之名如蟲食木偶得成字不識是非廣起顛倒沈淪生死隨其流處有種種名或辛或酸故知三界四倒但是病而非藥。",
         "from": "X36n0656_001:0018b12_0",
         "context_with_next_sentence": true
     },
@@ -1400,7 +1400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又自有於真善玅有之名然古人皆約所無以釋涅槃無名次家名相所不及者謂言語道斷故名所不及心行處滅故相所不及又引肇論有四句謂旋嵐[這言+(?/晏)]岳而常靜江河競注而不流野馬飄鼓而不動日月歷天不周此四句是彼物不遷論文彼明俗諦三世無來去今用衍門初義釋者應云江河競注謂俗諦而不流謂俗如幻如化餘三句例爾正當今文約有即空無生真諦明矣第三家云猶是續待二假者由因滅果即相續假佛果涅槃異菩薩所得即竪待唯佛得之眾生未得即橫待因成是所破故不說之。",
+        "source_sentence": "又自有於真善玅有之名然古人皆約所無以釋涅槃無名次家名相所不及者謂言語道斷故名所不及心行處滅故相所不及又引肇論有四句謂旋嵐[這-言+(?/晏)]岳而常靜江河競注而不流野馬飄鼓而不動日月歷天不周此四句是彼物不遷論文彼明俗諦三世無來去今用衍門初義釋者應云江河競注謂俗諦而不流謂俗如幻如化餘三句例爾正當今文約有即空無生真諦明矣第三家云猶是續待二假者由因滅果即相續假佛果涅槃異菩薩所得即竪待唯佛得之眾生未得即橫待因成是所破故不說之。",
         "from": "X36n0656_001:0019b09_0",
         "context_with_next_sentence": true
     },
@@ -2332,6 +2332,116 @@
     {
         "source_sentence": "大般涅槃經玄義文句會本卷上",
         "from": "X36n0656_001:0025b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X36n0656_001:0025b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斌(悲巾切)。",
+        "from": "X36n0656_001:0025b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "創疣(創初良切與瘡同疣疑求切贅也)。",
+        "from": "X36n0656_001:0025b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "叡(俞芮切)。",
+        "from": "X36n0656_001:0025b22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "贅(朱芮切疣贅瘤也)。",
+        "from": "X36n0656_001:0025b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "薳(羽委切)。",
+        "from": "X36n0656_001:0025b23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瞼喁(險疑檢切喁魚容切險喁魚口上見也)。",
+        "from": "X36n0656_001:0025b23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歕沫(歕鋪魂切吐也沫音末涎沫也)。",
+        "from": "X36n0656_001:0025b23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寱(研計切寐中有言也)。",
+        "from": "X36n0656_001:0025b24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "掠(力灼切奪取也)。",
+        "from": "X36n0656_001:0025b24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[聲-耳+牛](居候切取牛羊乳也)。",
+        "from": "X36n0656_001:0025b24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "窈(伊鳥切深遠也)。",
+        "from": "X36n0656_001:0025b24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邈(墨角切遠也)。",
+        "from": "X36n0656_001:0025c01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "孱(鉏山切)。",
+        "from": "X36n0656_001:0025c01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瞶(五恠切聾也)。",
+        "from": "X36n0656_001:0025c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "柟柹(柟如占切梅也柹鉏里切果木名)。",
+        "from": "X36n0656_001:0025c01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "羈(居宜切繫也)。",
+        "from": "X36n0656_001:0025c02_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鎞(邊迷切掠器也)。",
+        "from": "X36n0656_001:0025c02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "抉(於穴切剔也)。",
+        "from": "X36n0656_001:0025c02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "膜(未各切翳膜也)。",
+        "from": "X36n0656_001:0025c02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愜(詰叶切快也)。",
+        "from": "X36n0656_001:0025c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "跛(補火切足偏癈也)。",
+        "from": "X36n0656_001:0025c03_1",
         "context_with_next_sentence": false
     }
 ]

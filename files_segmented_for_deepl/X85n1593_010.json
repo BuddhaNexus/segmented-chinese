@@ -1090,7 +1090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "楊岐和麩糶麵。",
+        "source_sentence": "楊岐和麩糶麫。",
         "from": "X85n1593_010:0533b10_12",
         "context_with_next_sentence": true
     },
@@ -5300,7 +5300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "被祖詬罵懡[怡台+羅]而退歸寮閉門打睡恨祖不已悟已密知即往扣門。",
+        "source_sentence": "被祖詬罵懡[怡-台+羅]而退歸寮閉門打睡恨祖不已悟已密知即往扣門。",
         "from": "X85n1593_010:0536b22_47",
         "context_with_next_sentence": true
     },
@@ -5430,7 +5430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一場懡[怡台+羅]。",
+        "source_sentence": "一場懡[怡-台+羅]。",
         "from": "X85n1593_010:0536c06_73",
         "context_with_next_sentence": true
     },
@@ -10800,7 +10800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "護國此庵景元禪師習台教三祀。",
+        "source_sentence": "護國此庵景元禪師習台教三禩。",
         "from": "X85n1593_010:0540c14_0",
         "context_with_next_sentence": true
     },
@@ -11880,7 +11880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "中竺[仁二+(ㄠ*刀)]堂中仁禪師往來三藏譯經所。",
+        "source_sentence": "中竺[仁-二+(ㄠ*刀)]堂中仁禪師往來三藏譯經所。",
         "from": "X85n1593_010:0541c01_0",
         "context_with_next_sentence": true
     },
@@ -13165,7 +13165,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "悟[((白日+田)/廾)*頁]面曰。",
+        "source_sentence": "悟䫌面曰。",
         "from": "X85n1593_010:0542c07_9",
         "context_with_next_sentence": true
     },
@@ -13285,7 +13285,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "慧[打丁+於]之曰。",
+        "source_sentence": "慧[打-丁+於]之曰。",
         "from": "X85n1593_010:0542c13_3",
         "context_with_next_sentence": true
     },
@@ -16440,7 +16440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "昇元閣前懡[怡台+羅]。",
+        "source_sentence": "昇元閣前懡[怡-台+羅]。",
         "from": "X85n1593_010:0545a23_6",
         "context_with_next_sentence": true
     },
@@ -19175,7 +19175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "師淚交頤。",
+        "source_sentence": "師淚交頥。",
         "from": "X85n1593_010:0547b11_7",
         "context_with_next_sentence": true
     },
@@ -28077,6 +28077,16 @@
     {
         "source_sentence": "禪宗正脉卷第十(終)",
         "from": "X85n1593_010:0554b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X85n1593_010:0554b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偵(恥慶切侯也)　鈐(胡潭切車轄也)　陡(當口切地名)　潸(所班切涕也)　艤(魚倚切整舟回岸也)　丱(占患切冠也)　[車*袞](古本切轉也)　禩(音祀祭也年也)　聱(五苞切不听也)　[打-丁+於](於旅切擊也)　蛙(胡媧切蝦蟇也)　咍(訶臺切笑也)　橈(如昭也小楫貌)　餈(疾資切〡餻也)　淦(古南切泥也淺也)　鏴(力故切)　郯(徒甘切縣名)　眹(直引切〡兆也)　啐(子律切吮聲也)　箬(音若竹葉長大也)　霎(子葉切[雨/(耳*匕)]〡也)　揕(知鴆切右手其胷〡襟也)",
+        "from": "X85n1593_010:0554b20_0",
         "context_with_next_sentence": false
     }
 ]

@@ -6220,7 +6220,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "卒難頓拔。",
+        "source_sentence": "卒難頓㧞。",
         "from": "X80n1568_009:0738c05_3",
         "context_with_next_sentence": true
     },
@@ -8520,7 +8520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "僧思[邱丘+益]問。",
+        "source_sentence": "僧思[邱-丘+益]問。",
         "from": "X80n1568_009:0740a16_10",
         "context_with_next_sentence": true
     },
@@ -8745,7 +8745,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[邱丘+益]禮謝之。",
+        "source_sentence": "[邱-丘+益]禮謝之。",
         "from": "X80n1568_009:0740b02_3",
         "context_with_next_sentence": true
     },
@@ -10035,7 +10035,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔萃任汝拔萃。",
+        "source_sentence": "拔萃任汝㧞萃。",
         "from": "X80n1568_009:0741a20_0",
         "context_with_next_sentence": true
     },
@@ -12735,7 +12735,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "落纜不釆功。",
+        "source_sentence": "落䌫不釆功。",
         "from": "X80n1568_009:0743a20_3",
         "context_with_next_sentence": true
     },
@@ -16867,6 +16867,11 @@
     {
         "source_sentence": "五燈嚴統卷第九",
         "from": "X80n1568_009:0746b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋頵(於倫切)",
+        "from": "X80n1568_009:0746b11_0",
         "context_with_next_sentence": false
     }
 ]

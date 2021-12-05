@@ -3160,7 +3160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　如犢未生[(殼一)/牛]牛乳，　　乳不可得非時故；　若犢生已[(殼一)/牛]牛角，　　乳不可得無智故。",
+        "source_sentence": "　如犢未生[(殼-一)/牛]牛乳，　　乳不可得非時故；　若犢生已[(殼-一)/牛]牛角，　　乳不可得無智故。",
         "from": "T15n0614_002:0285c03_0",
         "context_with_next_sentence": true
     },
@@ -3235,12 +3235,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　譬如金師排扇炭，　　用功非時失[夢夕+棐]法；　怱怱急[夢夕+棐]不知時，　　或時水澆或放捨。",
+        "source_sentence": "　譬如金師排扇炭，　　用功非時失[夢-夕+棐]法；　怱怱急[夢-夕+棐]不知時，　　或時水澆或放捨。",
         "from": "T15n0614_002:0286a04_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　金融急[夢夕+棐]則消過，　　未融便止則不消；　非時水澆金則生，　　非時放置則不熟。",
+        "source_sentence": "　金融急[夢-夕+棐]則消過，　　未融便止則不消；　非時水澆金則生，　　非時放置則不熟。",
         "from": "T15n0614_002:0286a06_0",
         "context_with_next_sentence": true
     },

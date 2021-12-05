@@ -1190,7 +1190,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "賜防禦使浙西路總管張[揙戶+(今一)]。",
+        "source_sentence": "賜防禦使浙西路總管張[揙-戶+(今-一)]。",
         "from": "T47n1969A_001:0149a21_2",
         "context_with_next_sentence": true
     },
@@ -1470,7 +1470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故得張[揙戶+(今一)]所修。",
+        "source_sentence": "故得張[揙-戶+(今-一)]所修。",
         "from": "T47n1969A_001:0149b16_2",
         "context_with_next_sentence": true
     },

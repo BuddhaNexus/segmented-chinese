@@ -3665,8 +3665,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "布袋",
+        "source_sentence": "布袋是彌勒化身。",
         "from": "X88n1646_046:0272b02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豐干是彌陀化身。",
+        "from": "X88n1646_046:0272b03_5",
         "context_with_next_sentence": false
     }
 ]

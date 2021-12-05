@@ -1895,7 +1895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "目連即時五體投地，是時須彌山王跛[跳兆+我]大動，諸天皆大驚怖。",
+        "source_sentence": "目連即時五體投地，是時須彌山王跛[跳-兆+我]大動，諸天皆大驚怖。",
         "from": "T25n1509_032:0302b21_4",
         "context_with_next_sentence": true
     },

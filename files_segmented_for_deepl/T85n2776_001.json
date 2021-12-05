@@ -360,7 +360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "俊神等者歎德也。",
+        "source_sentence": "㑺神等者歎德也。",
         "from": "T85n2776_001:0438b10_9",
         "context_with_next_sentence": true
     },
@@ -415,7 +415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "俊神者俊英亦俊傑也。",
+        "source_sentence": "㑺神者㑺英亦㑺傑也。",
         "from": "T85n2776_001:0438b14_20",
         "context_with_next_sentence": true
     },
@@ -450,7 +450,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂俊傑之心世英之等。",
+        "source_sentence": "謂㑺傑之心世英之等。",
         "from": "T85n2776_001:0438b16_27",
         "context_with_next_sentence": true
     },
@@ -550,7 +550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則由俊神越世故能弘至理於萬機。",
+        "source_sentence": "則由㑺神越世故能弘至理於萬機。",
         "from": "T85n2776_001:0438b27_5",
         "context_with_next_sentence": true
     },
@@ -765,7 +765,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "太歲在午應曰敦[狂王+羊]。",
+        "source_sentence": "太歲在午應曰敦[狂-王+羊]。",
         "from": "T85n2776_001:0438c22_5",
         "context_with_next_sentence": true
     },
@@ -1577,6 +1577,11 @@
     {
         "source_sentence": "初述謙辭",
         "from": "T85n2776_001:0440a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二明注意",
+        "from": "T85n2776_001:0440a07_0",
         "context_with_next_sentence": false
     }
 ]

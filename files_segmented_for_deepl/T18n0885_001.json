@@ -2755,7 +2755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 唵字",
+        "source_sentence": "唵字",
         "from": "T18n0885_001:0474c28_0",
         "context_with_next_sentence": true
     },
@@ -2785,7 +2785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 吽字",
+        "source_sentence": "吽字",
         "from": "T18n0885_001:0475a05_0",
         "context_with_next_sentence": true
     },
@@ -2952,6 +2952,11 @@
     {
         "source_sentence": "此名一切祕密大明行金剛三業真實法門。",
         "from": "T18n0885_001:0475b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說一切如來金剛三業最上祕密大教王經卷第一",
+        "from": "T18n0885_001:0475b10_0",
         "context_with_next_sentence": false
     }
 ]

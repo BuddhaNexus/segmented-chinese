@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 法華玄贊決擇記序",
+        "source_sentence": "法華玄贊決擇記序",
         "from": "X34n0637_001:0126a03_0",
         "context_with_next_sentence": true
     },
@@ -1840,17 +1840,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "牛七尺為之揨(如均反)[((雪雨)/(土*矢))*(百日+ㄎ)]五尺為[昜*(白日+(九*、))]。",
+        "source_sentence": "牛七尺為之揨(如均反)[((雪-雨)/(土*矢))*(百-日+ㄎ)]五尺為[昜*(白-日+(九*、))]。",
         "from": "X34n0637_001:0127b07_16",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[((雪雨)/(土*矢))*(百日+ㄎ)]音滯。",
+        "source_sentence": "[((雪-雨)/(土*矢))*(百-日+ㄎ)]音滯。",
         "from": "X34n0637_001:0127b08_17",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[方*(虒虎+七)]音[厂@七]。",
+        "source_sentence": "[方*(虒-虎+七)]音&#;。",
         "from": "X34n0637_001:0127b08_18",
         "context_with_next_sentence": true
     },
@@ -5895,7 +5895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今欲開[打丁+雚]顯實旨。",
+        "source_sentence": "今欲開[打-丁+雚]顯實旨。",
         "from": "X34n0637_001:0130a21_5",
         "context_with_next_sentence": true
     },
@@ -23530,7 +23530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何得有謗法之[億音+(天*天)]。",
+        "source_sentence": "何得有謗法之[億-音+(天*天)]。",
         "from": "X34n0637_001:0142c03_5",
         "context_with_next_sentence": true
     },

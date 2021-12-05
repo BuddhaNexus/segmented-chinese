@@ -420,7 +420,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "隈隈[毯炎+崔][毯炎+崔]。",
+        "source_sentence": "隈隈[毯-炎+崔][毯-炎+崔]。",
         "from": "X70n1382_003:0246a23_2",
         "context_with_next_sentence": true
     },
@@ -1700,7 +1700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "淡飯黃虀。",
+        "source_sentence": "淡飰黃虀。",
         "from": "X70n1382_003:0247b03_4",
         "context_with_next_sentence": true
     },
@@ -2210,7 +2210,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "只如見前一眾與山僧於此眉毛[病丙+斯]結一夏。",
+        "source_sentence": "只如見前一眾與山僧於此眉毛[病-丙+斯]結一夏。",
         "from": "X70n1382_003:0247c12_17",
         "context_with_next_sentence": true
     },
@@ -8575,7 +8575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "眉毛[病丙+斯]結。",
+        "source_sentence": "眉毛[病-丙+斯]結。",
         "from": "X70n1382_003:0253a12_7",
         "context_with_next_sentence": true
     },
@@ -12375,7 +12375,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "見此快以糞箕笤帚用事乃可。",
+        "source_sentence": "見此快以糞箕笤箒用事乃可。",
         "from": "X70n1382_003:0256b22_2",
         "context_with_next_sentence": true
     },

@@ -9095,7 +9095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "言如龜[常吊+(龜(色巴+(口*一*口))+土)]之有甲也。",
+        "source_sentence": "言如龜[常-吊+(龜-(色-巴+(口*一*口))+土)]之有甲也。",
         "from": "X31n0608_005:0439c08_2",
         "context_with_next_sentence": true
     },
@@ -16065,7 +16065,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "非[怡台+龍]憧也。",
+        "source_sentence": "非[怡-台+龍]憧也。",
         "from": "X31n0608_005:0446b18_12",
         "context_with_next_sentence": true
     },

@@ -1405,7 +1405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　若常發心恭敬佛，　　無戒無行彼皆離，　離諸過患眾[億音+(天*天)]尤，　　復能稱讚彼功德。",
+        "source_sentence": "　若常發心恭敬佛，　　無戒無行彼皆離，　離諸過患眾[億-音+(天*天)]尤，　　復能稱讚彼功德。",
         "from": "T10n0299_003:0896b29_0",
         "context_with_next_sentence": true
     },

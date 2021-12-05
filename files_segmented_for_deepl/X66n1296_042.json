@@ -185,7 +185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "但向道老僧隨例餐[飢几+追]子。",
+        "source_sentence": "但向道老僧隨例餐[飢-几+追]子。",
         "from": "X66n1296_042:0243a16_5",
         "context_with_next_sentence": true
     },
@@ -1845,7 +1845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "祥麟不踏生草。",
+        "source_sentence": "祥麐不踏生草。",
         "from": "X66n1296_042:0244c17_1",
         "context_with_next_sentence": true
     },
@@ -3145,7 +3145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "抽釘拔楔即不無瑞巖。",
+        "source_sentence": "抽釘㧞楔即不無瑞巖。",
         "from": "X66n1296_042:0246a23_1",
         "context_with_next_sentence": true
     },

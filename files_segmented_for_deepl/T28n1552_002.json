@@ -5240,8 +5240,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　牛毛戶向塵　　蟣蝨[麩夫+廣]麥等　小大是轉增　　皆從七數起七羊毛塵成一牛毛塵。",
+        "source_sentence": "　牛毛戶向塵　　蟣蝨&#;麥等",
         "from": "T28n1552_002:0887a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　小大是轉增　　皆從七數起",
+        "from": "T28n1552_002:0887a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七羊毛塵成一牛毛塵。",
+        "from": "T28n1552_002:0887a04_0",
         "context_with_next_sentence": true
     },
     {
@@ -5260,13 +5270,23 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "七蝨成一[麩夫+廣]麥。",
+        "source_sentence": "七蝨成一&#;麥。",
         "from": "T28n1552_002:0887a05_4",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　如是七[麩夫+廣]麥　　轉增為一指　二十四指量　　名之為一肘七[麩夫+廣]麥為一指。",
+        "source_sentence": "　如是七&#;麥　　轉增為一指",
         "from": "T28n1552_002:0887a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　二十四指量　　名之為一肘",
+        "from": "T28n1552_002:0887a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七&#;麥為一指。",
+        "from": "T28n1552_002:0887a09_0",
         "context_with_next_sentence": true
     },
     {

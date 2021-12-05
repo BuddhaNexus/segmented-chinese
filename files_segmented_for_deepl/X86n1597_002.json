@@ -70,7 +70,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或醯[醢右+(乞乙+口)]魚菹。",
+        "source_sentence": "或醯[醢-右+(乞-乙+口)]魚菹。",
         "from": "X86n1597_002:0048a20_2",
         "context_with_next_sentence": true
     },
@@ -645,7 +645,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四眾",
+        "source_sentence": "四眾競圖其像。",
         "from": "X86n1597_002:0048c02_10",
         "context_with_next_sentence": false
     }

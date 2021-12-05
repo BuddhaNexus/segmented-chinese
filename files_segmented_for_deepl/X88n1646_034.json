@@ -865,7 +865,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "方免擔枷帶索受人圈[袖由+貴]。",
+        "source_sentence": "方免擔枷帶索受人圈[袖-由+貴]。",
         "from": "X88n1646_034:0244b14_18",
         "context_with_next_sentence": true
     },
@@ -885,7 +885,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此時正好[拚ㄙ+ㄊ]命捨身。",
+        "source_sentence": "此時正好[拚-ㄙ+ㄊ]命捨身。",
         "from": "X88n1646_034:0244b16_22",
         "context_with_next_sentence": true
     },
@@ -1335,8 +1335,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何",
+        "source_sentence": "何等切直。",
         "from": "X88n1646_034:0244c24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "著於居士傳。",
+        "from": "X88n1646_034:0245a01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法施之善者也。",
+        "from": "X88n1646_034:0245a01_9",
         "context_with_next_sentence": false
     }
 ]

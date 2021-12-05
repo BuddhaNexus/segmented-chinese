@@ -1145,7 +1145,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+親]簀而欹寢。",
+        "source_sentence": "[打-丁+親]簀而欹寢。",
         "from": "T50n2061_018:0821c02_14",
         "context_with_next_sentence": true
     },
@@ -4560,7 +4560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "以菰蔣葉角黍米[卄/瀹]之。",
+        "source_sentence": "以菰蔣葉角黍米&#;之。",
         "from": "T50n2061_018:0825a23_5",
         "context_with_next_sentence": true
     },
@@ -6330,7 +6330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "感應[月*(夸大+八)]蠁。",
+        "source_sentence": "感應[月*(夸-大+八)]蠁。",
         "from": "T50n2061_018:0827a09_10",
         "context_with_next_sentence": true
     },

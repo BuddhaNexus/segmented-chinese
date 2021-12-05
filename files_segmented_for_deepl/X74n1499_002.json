@@ -11125,7 +11125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛說[穀禾+牛]角及乳。",
+        "source_sentence": "佛說[穀-禾+牛]角及乳。",
         "from": "X74n1499_002:0960a10_17",
         "context_with_next_sentence": true
     },
@@ -15005,7 +15005,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有大黑神[示*旦]蹲那作惡佛說聲聞法調伏之。",
+        "source_sentence": "有大黑神&#;蹲那作惡佛說聲聞法調伏之。",
         "from": "X74n1499_002:0965b24_4",
         "context_with_next_sentence": true
     },
@@ -17585,7 +17585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蒙光救拔。",
+        "source_sentence": "蒙光救㧞。",
         "from": "X74n1499_002:0970b15_12",
         "context_with_next_sentence": true
     },
@@ -18837,6 +18837,11 @@
     {
         "source_sentence": "一心奉請未生怨經(拜觀同上)",
         "from": "X74n1499_002:0972b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吳$(\"#_\").(\"-\",\"%\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\".\");$(\".\").(\"-\",\".\");$(\".\").(\"-\",\".\");$(\".\").(\"\",\"\");網路分享：",
+        "from": "X74n1499_002:0972b21_0",
         "context_with_next_sentence": false
     }
 ]

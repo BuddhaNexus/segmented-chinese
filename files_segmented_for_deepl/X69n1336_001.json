@@ -3675,12 +3675,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "居士到芙蓉山大[旒方+每]禪師處。",
+        "source_sentence": "居士到芙蓉山大[旒-方+每]禪師處。",
         "from": "X69n1336_001:0133a24_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[旒方+每]行食與居士。",
+        "source_sentence": "[旒-方+每]行食與居士。",
         "from": "X69n1336_001:0133a24_1",
         "context_with_next_sentence": true
     },

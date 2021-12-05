@@ -415,7 +415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[顥京+隹]不偉歟。",
+        "source_sentence": "[顥-京+隹]不偉歟。",
         "from": "X77n1522_021:0253b23_4",
         "context_with_next_sentence": true
     },
@@ -6125,7 +6125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "晉安東將軍[((素糸)*力)/石]之後也。",
+        "source_sentence": "晉安東將軍[((素-糸)*力)/石]之後也。",
         "from": "X77n1522_021:0257c22_2",
         "context_with_next_sentence": true
     },

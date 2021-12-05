@@ -40,7 +40,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "屬律匠希覺師盛化於明州[鄖口+刀]山育王寺。",
+        "source_sentence": "屬律匠希覺師盛化於明州[鄖-口+刀]山育王寺。",
         "from": "X80n1565_010:0197a11_4",
         "context_with_next_sentence": true
     },
@@ -27235,7 +27235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "秋庭肅肅風[颱台+(癸天+虫)][颱台+(癸天+虫)]。",
+        "source_sentence": "秋庭肅肅風[颱-台+(癸-天+虫)][颱-台+(癸-天+虫)]。",
         "from": "X80n1565_010:0214c07_19",
         "context_with_next_sentence": true
     },
@@ -27245,7 +27245,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "搘頤靜坐神不勞。",
+        "source_sentence": "搘頥靜坐神不勞。",
         "from": "X80n1565_010:0214c08_21",
         "context_with_next_sentence": true
     },

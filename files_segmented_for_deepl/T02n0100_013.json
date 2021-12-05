@@ -505,7 +505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時婆耆奢白言：「此痛轉增，無有瘳損，今我所患，譬如力士捉儜人髮，[打丁+(稯禾)]搣揉捺，我患頭痛，亦復如是。",
+        "source_sentence": "時婆耆奢白言：「此痛轉增，無有瘳損，今我所患，譬如力士捉儜人髮，[打-丁+(稯-禾)]搣揉捺，我患頭痛，亦復如是。",
         "from": "T02n0100_013:0463c16_15",
         "context_with_next_sentence": true
     },
@@ -1370,7 +1370,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爾時，世尊說偈答言：「吾以信為種，　　諸善為良田，　精進為調牛，　　智慧為轅[輻田+冏]，　慚愧為犁具，　　念為御耕者，　身口意調順，　　持戒為鞅子。",
+        "source_sentence": "爾時，世尊說偈答言：「吾以信為種，　　諸善為良田，　精進為調牛，　　智慧為轅[輻-田+冏]，　慚愧為犁具，　　念為御耕者，　身口意調順，　　持戒為鞅子。",
         "from": "T02n0100_013:0466b27_0",
         "context_with_next_sentence": true
     },

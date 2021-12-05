@@ -265,7 +265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是時文殊與目連為化人亦[這言+赤]子震旦。",
+        "source_sentence": "是時文殊與目連為化人亦[這-言+赤]子震旦。",
         "from": "T50n2065_001:1015b15_3",
         "context_with_next_sentence": true
     },
@@ -2925,7 +2925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "性多[怡台+龍]戾。",
+        "source_sentence": "性多[怡-台+龍]戾。",
         "from": "T50n2065_001:1017c16_2",
         "context_with_next_sentence": true
     },

@@ -910,7 +910,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "狐狗虎狼師子惡獸競來[齒*(虎儿+且)]掣食噉其身。",
+        "source_sentence": "狐狗虎狼師子惡獸競來[齒*(虎-儿+且)]掣食噉其身。",
         "from": "T26n1521_001:0021a25_12",
         "context_with_next_sentence": true
     },
@@ -1130,7 +1130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又於畜生猪狗野干猫狸狖鼠獼猴[狂王+加]玃虎狼師子兕豹熊羆象馬牛羊蜈蚣蚰蜒蚖蛇蝮蝎黿龜魚鼈蛟虬螺蜯烏鵲鵄梟鷹鴿之類。",
+        "source_sentence": "又於畜生猪狗野干猫狸狖鼠獼猴[狂-王+加]玃虎狼師子兕豹熊羆象馬牛羊蜈蚣蚰蜒蚖蛇蝮蝎黿龜魚鼈蛟虬螺蜯烏鵲鵄梟鷹鴿之類。",
         "from": "T26n1521_001:0021b19_5",
         "context_with_next_sentence": true
     },

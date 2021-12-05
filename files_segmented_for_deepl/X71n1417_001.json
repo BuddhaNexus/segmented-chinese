@@ -305,7 +305,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "空裏[栽木+土]花。",
+        "source_sentence": "空裏[栽-木+土]花。",
         "from": "X71n1417_001:0446b21_0",
         "context_with_next_sentence": true
     },
@@ -575,7 +575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "楊岐[栽木+土]田博飯喫。",
+        "source_sentence": "楊岐[栽-木+土]田博飯喫。",
         "from": "X71n1417_001:0446c10_15",
         "context_with_next_sentence": true
     },
@@ -10990,7 +10990,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其僧懡[怡台+羅]而退。",
+        "source_sentence": "其僧懡[怡-台+羅]而退。",
         "from": "X71n1417_001:0455a04_15",
         "context_with_next_sentence": true
     },
@@ -11890,7 +11890,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雲門扇子[跳兆+孛]跳上三十三天。",
+        "source_sentence": "雲門扇子[跳-兆+孛]跳上三十三天。",
         "from": "X71n1417_001:0455c06_8",
         "context_with_next_sentence": true
     },

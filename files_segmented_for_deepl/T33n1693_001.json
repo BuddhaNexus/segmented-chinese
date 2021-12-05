@@ -1755,7 +1755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又令[庶廿+(臣*巳)]譃觀其常。",
+        "source_sentence": "又令[庶-廿+(臣*巳)]譃觀其常。",
         "from": "T33n1693_001:0005a18_0",
         "context_with_next_sentence": true
     },
@@ -2920,7 +2920,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五陰[聲耳+卵]蓋經以五陰為五習盡為七處昧苦出要為三觀。",
+        "source_sentence": "五陰[聲-耳+卵]蓋經以五陰為五習盡為七處昧苦出要為三觀。",
         "from": "T33n1693_001:0007c14_11",
         "context_with_next_sentence": true
     },

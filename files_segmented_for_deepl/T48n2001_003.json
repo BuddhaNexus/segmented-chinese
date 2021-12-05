@@ -2830,7 +2830,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "買[悍干+月]相頭。",
+        "source_sentence": "買[悍-干+月]相頭。",
         "from": "T48n2001_003:0029c15_0",
         "context_with_next_sentence": true
     },
@@ -8580,7 +8580,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一頭搕[打丁+(天/韭)]。",
+        "source_sentence": "一頭搕[打-丁+(天/韭)]。",
         "from": "T48n2001_003:0034a01_19",
         "context_with_next_sentence": true
     },

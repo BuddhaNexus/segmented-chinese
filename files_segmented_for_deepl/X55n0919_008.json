@@ -295,7 +295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "習如[泳永+豹]起。",
+        "source_sentence": "習如[泳-永+豹]起。",
         "from": "X55n0919_008:0838a09_6",
         "context_with_next_sentence": true
     },
@@ -1810,7 +1810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "初斥凡中佷[仁二+戾]者。",
+        "source_sentence": "初斥凡中佷[仁-二+戾]者。",
         "from": "X55n0919_008:0839a20_2",
         "context_with_next_sentence": true
     },
@@ -1825,7 +1825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[仁二+戾]。",
+        "source_sentence": "[仁-二+戾]。",
         "from": "X55n0919_008:0839a21_1",
         "context_with_next_sentence": true
     },
@@ -9555,7 +9555,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今江東人呼[狂王+央][狂王+吏]。",
+        "source_sentence": "今江東人呼[狂-王+央][狂-王+吏]。",
         "from": "X55n0919_008:0845b17_26",
         "context_with_next_sentence": true
     },
@@ -10070,7 +10070,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "治[怡台+追]愓中云偷﨟等者。",
+        "source_sentence": "治[怡-台+追]愓中云偷﨟等者。",
         "from": "X55n0919_008:0846a01_0",
         "context_with_next_sentence": true
     },

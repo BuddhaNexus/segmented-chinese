@@ -2320,7 +2320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[竺二+(尃*几)]金塔一座。",
+        "source_sentence": "[竺-二+(尃*几)]金塔一座。",
         "from": "T49n2039_005:1012b10_61",
         "context_with_next_sentence": true
     },
@@ -4755,7 +4755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "修容靘粧自[竺二+惟]箔間出。",
+        "source_sentence": "修容靘粧自[竺-二+惟]箔間出。",
         "from": "T49n2039_005:1014c08_46",
         "context_with_next_sentence": true
     },
@@ -5185,7 +5185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "舊理東尸汀叱　乾達婆矣遊烏隱城叱[月*(夸大+八)]良望良古　倭理叱軍置來叱多烽燒邪隱邊也藪耶　三花矣岳音見賜烏尸聞古　月置八切爾數於將來尸波衣　道尸掃尸星利望良古　彗星也白反也人是有叱多　後句　達阿羅浮去伊叱等邪　此也友物比所音叱彗叱只有叱故正秀師救氷女第四十哀莊王代。",
+        "source_sentence": "舊理東尸汀叱　乾達婆矣遊烏隱城叱[月*(夸-大+八)]良望良古　倭理叱軍置來叱多烽燒邪隱邊也藪耶　三花矣岳音見賜烏尸聞古　月置八切爾數於將來尸波衣　道尸掃尸星利望良古　彗星也白反也人是有叱多　後句　達阿羅浮去伊叱等邪　此也友物比所音叱彗叱只有叱故正秀師救氷女第四十哀莊王代。",
         "from": "T49n2039_005:1015a13_0",
         "context_with_next_sentence": true
     },
@@ -6925,7 +6925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+牒]師。",
+        "source_sentence": "[打-丁+牒]師。",
         "from": "T49n2039_005:1016c12_2",
         "context_with_next_sentence": true
     },
@@ -6965,7 +6965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[打丁+牒]音牒。",
+        "source_sentence": "[打-丁+牒]音牒。",
         "from": "T49n2039_005:1016c16_2",
         "context_with_next_sentence": true
     },
@@ -7110,7 +7110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自矣心米　皃史毛達只將來吞隱日遠鳥逸□過出知遣　今吞藪未去遣省如　但非乎隱焉破□主次弗□史內於都還於尸朗也　此兵物叱沙過乎好尸曰沙也內乎吞尼　阿耶　唯只伊吾音之叱恨隱[泳永+善]陵隱安支尚宅都乎隱以多賊感其意。",
+        "source_sentence": "自矣心米　皃史毛達只將來吞隱日遠鳥逸□過出知遣　今吞藪未去遣省如　但非乎隱焉破□主次弗□史內於都還於尸朗也　此兵物叱沙過乎好尸曰沙也內乎吞尼　阿耶　唯只伊吾音之叱恨隱㵛陵隱安支尚宅都乎隱以多賊感其意。",
         "from": "T49n2039_005:1017a03_0",
         "context_with_next_sentence": true
     },
@@ -9400,7 +9400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "推誠定難功臣嘉靖大夫慶尚道觀察使兼",
+        "source_sentence": "推誠定難功臣嘉靖大夫慶尚道觀察使兼兵馬水軍節度使安溏",
         "from": "T49n2039_005:1019a12_0",
         "context_with_next_sentence": false
     }

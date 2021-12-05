@@ -115,7 +115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "見師敞衲曾不掩[髆甫+一]祁寒無所侵。",
+        "source_sentence": "見師敞衲曾不掩[髆-甫+一]祁寒無所侵。",
         "from": "T50n2062_004:0912a22_4",
         "context_with_next_sentence": true
     },
@@ -2010,7 +2010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[橘矛+隹]李五臺居士陸光祖虛芙蓉之席見招。",
+        "source_sentence": "[橘-矛+隹]李五臺居士陸光祖虛芙蓉之席見招。",
         "from": "T50n2062_004:0914b09_79",
         "context_with_next_sentence": true
     },

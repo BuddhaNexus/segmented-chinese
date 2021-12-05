@@ -6250,7 +6250,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[卄/糾][葸十+夕]。",
+        "source_sentence": "[卄/糾][葸-十+夕]。",
         "from": "X60n1130_001:0702a01_2",
         "context_with_next_sentence": true
     },
@@ -6262,6 +6262,21 @@
     {
         "source_sentence": "以[卄/糾]屬蔥收。",
         "from": "X60n1130_001:0702a01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故不別出。",
+        "from": "X60n1130_001:0702a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "藠亦不載。",
+        "from": "X60n1130_001:0702a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由無功用故也。",
+        "from": "X60n1130_001:0702a02_2",
         "context_with_next_sentence": false
     }
 ]

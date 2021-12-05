@@ -1705,7 +1705,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "容質[王*(十/(罩卓+衣))]偉。",
+        "source_sentence": "容質[王*(十/(罩-卓+衣))]偉。",
         "from": "X76n1517_001:0136a17_11",
         "context_with_next_sentence": true
     },
@@ -3230,12 +3230,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四無量　大慈(廣濟)大悲(拔苦)大喜(無畏)大捨(無為)。",
+        "source_sentence": "四無量　大慈(廣濟)大悲(㧞苦)大喜(無畏)大捨(無為)。",
         "from": "X76n1517_001:0137d12_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "四攝法　布施(利誘)愛語(智拔)利行(克己)同事(和光)。",
+        "source_sentence": "四攝法　布施(利誘)愛語(智㧞)利行(克己)同事(和光)。",
         "from": "X76n1517_001:0137d13_0",
         "context_with_next_sentence": true
     },
@@ -4310,7 +4310,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "外道六師　富蘭那(說不生不滅計雙非一門)末迦利(說空自然撥無因果)刪闍夜(說過八萬劫道不用修)阿耆多翅舍(說修苦行拔髮等法)迦羅鳩陀(說兩亦法□亂不定)尼犍子(說業定執人死復人)。",
+        "source_sentence": "外道六師　富蘭那(說不生不滅計雙非一門)末迦利(說空自然撥無因果)刪闍夜(說過八萬劫道不用修)阿耆多翅舍(說修苦行㧞髮等法)迦羅鳩陀(說兩亦法□亂不定)尼犍子(說業定執人死復人)。",
         "from": "X76n1517_001:0138b21_0",
         "context_with_next_sentence": true
     },
@@ -8270,7 +8270,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[債貝+(雋隹)]一碑為後代記。",
+        "source_sentence": "[債-貝+(雋-隹)]一碑為後代記。",
         "from": "X76n1517_001:0142a04_32",
         "context_with_next_sentence": true
     },
@@ -9345,7 +9345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有[邱丘+共]亭廟。",
+        "source_sentence": "有[邱-丘+共]亭廟。",
         "from": "X76n1517_001:0142c20_2",
         "context_with_next_sentence": true
     },
@@ -9665,7 +9665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "而[邱丘+共]亭神。",
+        "source_sentence": "而[邱-丘+共]亭神。",
         "from": "X76n1517_001:0143a14_34",
         "context_with_next_sentence": true
     },
@@ -9870,7 +9870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "但發大心[飢几+頁]納。",
+        "source_sentence": "但發大心[飢-几+頁]納。",
         "from": "X76n1517_001:0143b05_30",
         "context_with_next_sentence": true
     },

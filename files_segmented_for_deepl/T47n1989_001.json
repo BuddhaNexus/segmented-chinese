@@ -6840,7 +6840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "劉鐵磨慷[怡台+羅]而行。",
+        "source_sentence": "劉鐵磨慷[怡-台+羅]而行。",
         "from": "T47n1989_001:0581a28_11",
         "context_with_next_sentence": true
     },
@@ -8030,7 +8030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "塔曰",
+        "source_sentence": "塔曰清淨。",
         "from": "T47n1989_001:0582a05_11",
         "context_with_next_sentence": false
     }

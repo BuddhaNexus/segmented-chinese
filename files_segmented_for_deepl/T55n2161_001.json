@@ -1165,7 +1165,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "佛舍利八十粒(就中金色舍利一粒)刻白檀佛菩薩金剛等像一龕白緤大曼荼羅尊四百四十七尊白緤金剛界三昧耶曼荼羅尊一百二十尊五寶三昧耶金剛一口金銅鉢子一具二口[豕?]床子一口白螺貝一口右八種物等。",
+        "source_sentence": "佛舍利八十粒(就中金色舍利一粒)刻白檀佛菩薩金剛等像一龕白緤大曼荼羅尊四百四十七尊白緤金剛界三昧耶曼荼羅尊一百二十尊五寶三昧耶金剛一口金銅鉢子一具二口[豕-?]床子一口白螺貝一口右八種物等。",
         "from": "T55n2161_001:1064c21_0",
         "context_with_next_sentence": true
     },
@@ -1925,7 +1925,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "高野山愚老",
+        "source_sentence": "高野山愚老沙門慶賢(八十二)。",
         "from": "T55n2161_001:1066a04_1",
         "context_with_next_sentence": false
     }

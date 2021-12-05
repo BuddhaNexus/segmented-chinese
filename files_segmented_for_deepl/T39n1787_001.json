@@ -3485,7 +3485,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "就別懺中輕[跳兆+參]難者。",
+        "source_sentence": "就別懺中輕[跳-兆+參]難者。",
         "from": "T39n1787_001:0164a23_17",
         "context_with_next_sentence": true
     },
@@ -10250,7 +10250,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "令人[口*賴]鼻多汁[病丙+帶]下等。",
+        "source_sentence": "令人[口*賴]鼻多汁[病-丙+帶]下等。",
         "from": "T39n1787_001:0171c26_2",
         "context_with_next_sentence": true
     },
@@ -12537,6 +12537,116 @@
     {
         "source_sentence": "金光明經疏一卷",
         "from": "T39n1787_001:0174b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鋟金光明經疏跋",
+        "from": "T39n1787_001:0174b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右金光明經疏一卷。",
+        "from": "T39n1787_001:0174b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隋嘉祥大師釋曇無讖譯四卷經文所著也。",
+        "from": "T39n1787_001:0174b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文簡義顯。",
+        "from": "T39n1787_001:0174b16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "科節尤精。",
+        "from": "T39n1787_001:0174b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大有裨於學者焉。",
+        "from": "T39n1787_001:0174b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頃有人携來。",
+        "from": "T39n1787_001:0174b17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謀入梓以廣其傳。",
+        "from": "T39n1787_001:0174b17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗚呼茲文也。",
+        "from": "T39n1787_001:0174b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖夙傳于本邦。",
+        "from": "T39n1787_001:0174b18_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而隱晦甚久矣。",
+        "from": "T39n1787_001:0174b18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而顯於今者。",
+        "from": "T39n1787_001:0174b19_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殆有數而然邪。",
+        "from": "T39n1787_001:0174b19_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惜魯魚寫脫差誤不少。",
+        "from": "T39n1787_001:0174b19_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂訪尋原本。",
+        "from": "T39n1787_001:0174b20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "精為校讎。",
+        "from": "T39n1787_001:0174b20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "傍加圀語。",
+        "from": "T39n1787_001:0174b20_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "授諸印生。",
+        "from": "T39n1787_001:0174b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聊題其卷尾用識之歲月云。",
+        "from": "T39n1787_001:0174b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　旹",
+        "from": "T39n1787_001:0174b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正德改元歲次辛卯初冬上澣",
+        "from": "T39n1787_001:0174b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　比叡山沙門(俊靜)敬筆於東谿本覺院",
+        "from": "T39n1787_001:0174b24_0",
         "context_with_next_sentence": false
     }
 ]

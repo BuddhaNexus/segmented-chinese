@@ -3620,7 +3620,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此五能益惛．眠故是彼食　又解此五皆是小惑中攝　[夢夕+登]瞢者。",
+        "source_sentence": "此五能益惛．眠故是彼食　又解此五皆是小惑中攝　[夢-夕+登]瞢者。",
         "from": "T41n1821_021:0323a26_3",
         "context_with_next_sentence": true
     },
@@ -10892,6 +10892,11 @@
     {
         "source_sentence": "俱舍論記卷第二十一",
         "from": "T41n1821_021:0332b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文永七年五月十七日巳時以東南院小經藏御本移點畢三論宗沙門叡算花押",
+        "from": "T41n1821_021:0332b25_0",
         "context_with_next_sentence": false
     }
 ]

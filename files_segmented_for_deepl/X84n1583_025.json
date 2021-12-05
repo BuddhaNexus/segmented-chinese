@@ -1105,7 +1105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "總是隔[革*(華(十*〡*十)+(人*〡*人))][打丁+瓜]癢。",
+        "source_sentence": "總是隔[革*(華-(十*〡*十)+(人*〡*人))][打-丁+瓜]癢。",
         "from": "X84n1583_025:0546b20_6",
         "context_with_next_sentence": true
     },
@@ -2110,7 +2110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "偶過缽盂塘。",
+        "source_sentence": "偶過盋盂塘。",
         "from": "X84n1583_025:0547b03_10",
         "context_with_next_sentence": true
     },

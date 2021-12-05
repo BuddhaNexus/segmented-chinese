@@ -120,7 +120,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 徑山南石和尚語錄序",
+        "source_sentence": "徑山南石和尚語錄序",
         "from": "X71n1422_001:0701a19_0",
         "context_with_next_sentence": true
     },
@@ -4680,7 +4680,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "看茶瓢從地[跳兆+孛]跳。",
+        "source_sentence": "看茶瓢從地[跳-兆+孛]跳。",
         "from": "X71n1422_001:0705a08_7",
         "context_with_next_sentence": true
     },
@@ -7825,7 +7825,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雖然一場懡[怡台+羅]。",
+        "source_sentence": "雖然一場懡[怡-台+羅]。",
         "from": "X71n1422_001:0707b18_5",
         "context_with_next_sentence": true
     },

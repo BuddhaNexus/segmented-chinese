@@ -3345,7 +3345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "除食已受餘[打丁+親]身衣燈油盡突吉羅。",
+        "source_sentence": "除食已受餘[打-丁+親]身衣燈油盡突吉羅。",
         "from": "T40n1806_002:0446c21_1",
         "context_with_next_sentence": true
     },
@@ -3770,7 +3770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "請比丘與餅麨飯若比丘須者當二三鉢受還至僧伽藍中應分與餘比丘食　若不持食還者告諸比丘。",
+        "source_sentence": "請比丘與䴵麨飯若比丘須者當二三鉢受還至僧伽藍中應分與餘比丘食　若不持食還者告諸比丘。",
         "from": "T40n1806_002:0447b15_0",
         "context_with_next_sentence": true
     },
@@ -5805,7 +5805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或水牽竹木[簿尃+卑]順流上下。",
+        "source_sentence": "或水牽竹木[簿-尃+卑]順流上下。",
         "from": "T40n1806_002:0450a22_4",
         "context_with_next_sentence": true
     },
@@ -6255,12 +6255,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若牛屎糠糞[(麩夫+弋)來+(土/儿)]中一切然者波逸提。",
+        "source_sentence": "若牛屎糠糞[(麩-夫+弋)-來+(土/儿)]中一切然者波逸提。",
         "from": "T40n1806_002:0450c17_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若火置草木乃至[(麩夫+弋)來+(土/儿)]中亦墮。",
+        "source_sentence": "若火置草木乃至[(麩-夫+弋)-來+(土/儿)]中亦墮。",
         "from": "T40n1806_002:0450c18_3",
         "context_with_next_sentence": true
     },
@@ -6490,7 +6490,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "氍氀毾[毯炎+登]。",
+        "source_sentence": "氍氀毾[毯-炎+登]。",
         "from": "T40n1806_002:0451a20_7",
         "context_with_next_sentence": true
     },
@@ -9380,7 +9380,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若作錫杖頭鏢[矛*(替曰+貝)]。",
+        "source_sentence": "若作錫杖頭鏢[矛*(替-曰+貝)]。",
         "from": "T40n1806_002:0455a17_2",
         "context_with_next_sentence": true
     },
@@ -9390,7 +9390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若作鉤若刮汗刀若如意若玦紐若匕若杓若鉤衣[金*刮]若眼藥[鎞囟+(奐大)]若刮舌刀摘齒物挑耳[鎞囟+(奐大)]禪鎮熏鼻筒。",
+        "source_sentence": "若作鉤若刮汗刀若如意若玦紐若匕若杓若鉤衣[金*刮]若眼藥[鎞-囟+(奐-大)]若刮舌刀摘齒物挑耳[鎞-囟+(奐-大)]禪鎮熏鼻筒。",
         "from": "T40n1806_002:0455a18_4",
         "context_with_next_sentence": true
     },

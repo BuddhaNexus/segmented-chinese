@@ -205,17 +205,17 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "忠於君而不[(厂@((既旡)日+口))*頁]其身耶。",
+        "source_sentence": "忠於君而不[(厂@((既-旡)-日+口))*頁]其身耶。",
         "from": "X75n1512_023:0221a16_38",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "抑尚[(厂@((既旡)日+口))*頁]其身而強言之以徇名耶。",
+        "source_sentence": "抑尚[(厂@((既-旡)-日+口))*頁]其身而強言之以徇名耶。",
         "from": "X75n1512_023:0221a17_39",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "忠於君而不[(厂@((既旡)日+口))*頁]其身。",
+        "source_sentence": "忠於君而不[(厂@((既-旡)-日+口))*頁]其身。",
         "from": "X75n1512_023:0221a17_40",
         "context_with_next_sentence": true
     },
@@ -240,7 +240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若尚[(厂@((既旡)日+口))*頁]其身而強言也。",
+        "source_sentence": "若尚[(厂@((既-旡)-日+口))*頁]其身而強言也。",
         "from": "X75n1512_023:0221a19_45",
         "context_with_next_sentence": true
     },
@@ -360,7 +360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "動天下而不[(厂@((既旡)日+口))*頁]以便己。",
+        "source_sentence": "動天下而不[(厂@((既-旡)-日+口))*頁]以便己。",
         "from": "X75n1512_023:0221b05_1",
         "context_with_next_sentence": true
     },
@@ -470,7 +470,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "是以不[(厂@((既旡)日+口))*頁]其身而斥之。",
+        "source_sentence": "是以不[(厂@((既-旡)-日+口))*頁]其身而斥之。",
         "from": "X75n1512_023:0221b12_23",
         "context_with_next_sentence": true
     },
@@ -2730,7 +2730,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "公登太行山反[(厂@((既旡)日+口))*頁]見白雲孤飛。",
+        "source_sentence": "公登太行山反[(厂@((既-旡)-日+口))*頁]見白雲孤飛。",
         "from": "X75n1512_023:0223c13_16",
         "context_with_next_sentence": true
     },
@@ -3790,7 +3790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皆狼[(厂@((既旡)日+口))*頁]鼠拱納質効地稽顙入朝。",
+        "source_sentence": "皆狼[(厂@((既-旡)-日+口))*頁]鼠拱納質効地稽顙入朝。",
         "from": "X75n1512_023:0225a05_10",
         "context_with_next_sentence": true
     },

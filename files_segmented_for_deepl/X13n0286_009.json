@@ -5015,7 +5015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "心精通[泳永+曶]。",
+        "source_sentence": "心精通[泳-永+曶]。",
         "from": "X13n0286_009:0478a14_0",
         "context_with_next_sentence": true
     },
@@ -5135,7 +5135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "心精通[泳永+曶]。",
+        "source_sentence": "心精通[泳-永+曶]。",
         "from": "X13n0286_009:0478a19_5",
         "context_with_next_sentence": true
     },
@@ -11550,7 +11550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "心愛緜[泳永+曶]。",
+        "source_sentence": "心愛緜[泳-永+曶]。",
         "from": "X13n0286_009:0483a04_0",
         "context_with_next_sentence": true
     },
@@ -11805,7 +11805,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[泳永+曶]。",
+        "source_sentence": "[泳-永+曶]。",
         "from": "X13n0286_009:0483a16_3",
         "context_with_next_sentence": true
     },
@@ -15242,6 +15242,11 @@
     {
         "source_sentence": "悲救之力耶。",
         "from": "X13n0286_009:0485c16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大佛頂如來密因修證了義諸菩薩萬行首楞嚴經如說第九卷",
+        "from": "X13n0286_009:0485c17_0",
         "context_with_next_sentence": false
     }
 ]

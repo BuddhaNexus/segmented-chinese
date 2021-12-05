@@ -6755,7 +6755,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "句[妳女+口]。",
+        "source_sentence": "句[妳-女+口]。",
         "from": "X68n1315_018:0116b24_19",
         "context_with_next_sentence": true
     },
@@ -9180,7 +9180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "出頭即[仁二+荅][瓜*至]。",
+        "source_sentence": "出頭即[仁-二+荅]&#;。",
         "from": "X68n1315_018:0117c19_3",
         "context_with_next_sentence": true
     },
@@ -9265,7 +9265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有什麼饅頭[飢几+追]子。",
+        "source_sentence": "有什麼饅頭[飢-几+追]子。",
         "from": "X68n1315_018:0117c22_11",
         "context_with_next_sentence": true
     },

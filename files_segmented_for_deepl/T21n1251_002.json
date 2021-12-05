@@ -5,7 +5,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "吽迦陀野[阿可+(俱/寸)][阿可+梨]護摩品第三之餘(二卷)即時是大力太子。",
+        "source_sentence": "吽迦陀野[阿-可+(俱/寸)][阿-可+梨]護摩品第三之餘(二卷)即時是大力太子。",
         "from": "T21n1251_002:0242a24_0",
         "context_with_next_sentence": true
     },
@@ -240,7 +240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "曩謨三滿多縛日羅赦[蹲酋+俱]梨[糸*感]吽(二合)次面印　蓮花合掌。",
+        "source_sentence": "曩謨三滿多縛日羅赦[蹲-酋+俱]梨[糸*感]吽(二合)次面印　蓮花合掌。",
         "from": "T21n1251_002:0242b18_0",
         "context_with_next_sentence": true
     },
@@ -530,7 +530,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "壇口[示*呈]一肘。",
+        "source_sentence": "壇口䄇一肘。",
         "from": "T21n1251_002:0242c22_22",
         "context_with_next_sentence": true
     },
@@ -4110,7 +4110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)阿婆哞阿婆哞(二)阿娑麼(三)皆染悉[口*(差工+目)]噤啌哞枝吒(四)結縛禁真言曰。",
+        "source_sentence": "唵(一)阿婆哞阿婆哞(二)阿娑麼(三)皆染悉[口*(差-工+目)]噤啌哞枝吒(四)結縛禁真言曰。",
         "from": "T21n1251_002:0247c02_0",
         "context_with_next_sentence": true
     },
@@ -4382,6 +4382,11 @@
     {
         "source_sentence": "吽迦陀野成就法卷第二",
         "from": "T21n1251_002:0248a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "久安三年八月二十一日申時許書寫了　　　　　　　　　　　　　一校了",
+        "from": "T21n1251_002:0248b01_0",
         "context_with_next_sentence": false
     }
 ]

@@ -3360,7 +3360,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何異灸[病丙+念]如艾。",
+        "source_sentence": "何異灸[病-丙+念]如艾。",
         "from": "X67n1308_002:0522b14_2",
         "context_with_next_sentence": true
     },
@@ -6355,7 +6355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "湘南潭北塔[打丁+羕]。",
+        "source_sentence": "湘南潭北塔[打-丁+羕]。",
         "from": "X67n1308_002:0524c13_3",
         "context_with_next_sentence": true
     },

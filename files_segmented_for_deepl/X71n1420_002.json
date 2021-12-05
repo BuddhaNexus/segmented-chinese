@@ -880,7 +880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "玉華晚後鳳銜來。",
+        "source_sentence": "玉華晚後鳳&#;來。",
         "from": "X71n1420_002:0552b08_8",
         "context_with_next_sentence": true
     },
@@ -1180,7 +1180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即便[栽木+土]禾。",
+        "source_sentence": "即便[栽-木+土]禾。",
         "from": "X71n1420_002:0552b24_10",
         "context_with_next_sentence": true
     },
@@ -1205,7 +1205,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "解纜張帆。",
+        "source_sentence": "解䌫張帆。",
         "from": "X71n1420_002:0552c01_15",
         "context_with_next_sentence": true
     },
@@ -1315,7 +1315,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦須[銜金+缶]鐵負鞍。",
+        "source_sentence": "亦須[銜-金+缶]鐵負鞍。",
         "from": "X71n1420_002:0552c07_10",
         "context_with_next_sentence": true
     },
@@ -2065,7 +2065,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "扇子[跳兆+孛]跳。",
+        "source_sentence": "扇子[跳-兆+孛]跳。",
         "from": "X71n1420_002:0553a20_13",
         "context_with_next_sentence": true
     },
@@ -6595,7 +6595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "龍王懡[怡台+羅]而退。",
+        "source_sentence": "龍王懡[怡-台+羅]而退。",
         "from": "X71n1420_002:0556b23_6",
         "context_with_next_sentence": true
     },
@@ -6747,6 +6747,16 @@
     {
         "source_sentence": "佛日普照慧辯楚石禪師語錄卷第二",
         "from": "X71n1420_002:0556c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音切",
+        "from": "X71n1420_002:0556c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "饙(甫云切)　剗(楚簡切)　嚲(丁可切)　愜(起頰切)　蟭螟(上子饒切下亡丁切)　睫(式涉切)　喋(丈甲切)　毬(巨六切)　搊(楚尤切)　趂(丑刃切)　謴(古困切)　咳(苦代切)　攫(居縛切)　挈(尼牙切)　毿(先含切)　颯(思合切)　屙(烏何切)　[日*良](力黨切)　聻(尼止切)　晷(居美切)　藞苴(上力瓦切下七閭切)　懡[怡-台+羅](上亡果切下來可切)",
+        "from": "X71n1420_002:0556c12_0",
         "context_with_next_sentence": false
     }
 ]

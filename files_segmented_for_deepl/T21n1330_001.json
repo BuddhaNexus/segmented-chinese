@@ -115,7 +115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "定獲輕[廆(白日+田)+(美大)]安樂吉祥。",
+        "source_sentence": "定獲輕[廆-(白-日+田)+(美-大)]安樂吉祥。",
         "from": "T21n1330_001:0491c22_0",
         "context_with_next_sentence": true
     },

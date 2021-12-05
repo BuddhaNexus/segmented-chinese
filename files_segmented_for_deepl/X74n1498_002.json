@@ -675,7 +675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　戶盧戶盧　底瑟吒　盤陀盤陀　阿那阿那阿密哩帝　烏[合*牛](二合)[打丁+(姊女)](撥)(法師想聖者威儀。",
+        "source_sentence": "唵　戶盧戶盧　底瑟吒　盤陀盤陀　阿那阿那阿密哩帝　烏[合*牛](二合)[打-丁+(姊-女)](撥)(法師想聖者威儀。",
         "from": "X74n1498_002:0832a16_0",
         "context_with_next_sentence": true
     },
@@ -1185,7 +1185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵　素悉地　迦履　入縛哩軃難　那牟謨羅軃曳　入縛囉入縛囉　畔陀畔陀　[可*欠](火)羅[可*欠]那虎[合*牛][打丁+(姊女)](撥)(二表濃然手爐香。",
+        "source_sentence": "唵　素悉地　迦履　入縛哩軃難　那牟謨羅軃曳　入縛囉入縛囉　畔陀畔陀　[可*欠](火)羅[可*欠]那虎[合*牛][打-丁+(姊-女)](撥)(二表濃然手爐香。",
         "from": "X74n1498_002:0832c06_0",
         "context_with_next_sentence": true
     },
@@ -1665,7 +1665,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "故不悟六相十[糸八]。",
+        "source_sentence": "故不悟六相十[糸-八]。",
         "from": "X74n1498_002:0833a08_13",
         "context_with_next_sentence": true
     },
@@ -3275,7 +3275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "優入真[糸八]。",
+        "source_sentence": "優入真[糸-八]。",
         "from": "X74n1498_002:0834a17_7",
         "context_with_next_sentence": true
     },

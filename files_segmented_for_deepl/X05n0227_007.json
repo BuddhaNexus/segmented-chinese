@@ -340,7 +340,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不[得彳]觀察。",
+        "source_sentence": "不[得-彳]觀察。",
         "from": "X05n0227_007:0136a22_25",
         "context_with_next_sentence": true
     },
@@ -3480,7 +3480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂展四無[得彳]。",
+        "source_sentence": "謂展四無[得-彳]。",
         "from": "X05n0227_007:0138c01_0",
         "context_with_next_sentence": true
     },
@@ -7040,7 +7040,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此十亦名十身無[得彳]。",
+        "source_sentence": "此十亦名十身無[得-彳]。",
         "from": "X05n0227_007:0141a23_20",
         "context_with_next_sentence": true
     },
@@ -7095,7 +7095,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唯一無[得彳]法界之身。",
+        "source_sentence": "唯一無[得-彳]法界之身。",
         "from": "X05n0227_007:0141b02_31",
         "context_with_next_sentence": true
     },
@@ -7500,7 +7500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "便性相無[得彳]。",
+        "source_sentence": "便性相無[得-彳]。",
         "from": "X05n0227_007:0141c01_4",
         "context_with_next_sentence": true
     },
@@ -10950,7 +10950,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "未得迴向無[得彳]妙智入實際故。",
+        "source_sentence": "未得迴向無[得-彳]妙智入實際故。",
         "from": "X05n0227_007:0144a24_6",
         "context_with_next_sentence": true
     },
@@ -10970,7 +10970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "未淨修道之障[得彳]故。",
+        "source_sentence": "未淨修道之障[得-彳]故。",
         "from": "X05n0227_007:0144b02_10",
         "context_with_next_sentence": true
     },
@@ -11450,7 +11450,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即用所依三業六根皆離障[得彳]。",
+        "source_sentence": "即用所依三業六根皆離障[得-彳]。",
         "from": "X05n0227_007:0144c08_6",
         "context_with_next_sentence": true
     },
@@ -16235,7 +16235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "權實無[得彳]。",
+        "source_sentence": "權實無[得-彳]。",
         "from": "X05n0227_007:0148b19_2",
         "context_with_next_sentence": true
     },
@@ -16440,7 +16440,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "通事通理及與無[得彳]。",
+        "source_sentence": "通事通理及與無[得-彳]。",
         "from": "X05n0227_007:0148c05_24",
         "context_with_next_sentence": true
     },
@@ -17405,7 +17405,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不[得彳]事故。",
+        "source_sentence": "不[得-彳]事故。",
         "from": "X05n0227_007:0149b13_5",
         "context_with_next_sentence": true
     },
@@ -17475,7 +17475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "悲智無[得彳]。",
+        "source_sentence": "悲智無[得-彳]。",
         "from": "X05n0227_007:0149b17_19",
         "context_with_next_sentence": true
     },
@@ -20272,6 +20272,16 @@
     {
         "source_sentence": "貞元新譯華嚴經疏卷第七",
         "from": "X05n0227_007:0151c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壽昌元年乙亥歲高麗國大興王寺奉",
+        "from": "X05n0227_007:0151c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宣雕造",
+        "from": "X05n0227_007:0151c05_0",
         "context_with_next_sentence": false
     }
 ]

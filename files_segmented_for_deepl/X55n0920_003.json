@@ -2115,7 +2115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又槃特掃帚之類。",
+        "source_sentence": "又槃特掃箒之類。",
         "from": "X55n0920_003:0891a05_3",
         "context_with_next_sentence": true
     },
@@ -4770,7 +4770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "譬如人問[穀禾+牛]牛角得幾斗乳。",
+        "source_sentence": "譬如人問[穀-禾+牛]牛角得幾斗乳。",
         "from": "X55n0920_003:0893c19_4",
         "context_with_next_sentence": true
     },
@@ -9575,7 +9575,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "論徑[仁二+延]語出莊子。",
+        "source_sentence": "論徑[仁-二+延]語出莊子。",
         "from": "X55n0920_003:0899a16_0",
         "context_with_next_sentence": true
     },

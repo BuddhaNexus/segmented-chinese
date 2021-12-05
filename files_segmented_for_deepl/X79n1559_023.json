@@ -260,7 +260,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更[跳兆+孛]跳在。",
+        "source_sentence": "更[跳-兆+孛]跳在。",
         "from": "X79n1559_023:0426b15_12",
         "context_with_next_sentence": true
     },
@@ -840,7 +840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一任[跳兆+孛]跳。",
+        "source_sentence": "一任[跳-兆+孛]跳。",
         "from": "X79n1559_023:0426c20_6",
         "context_with_next_sentence": true
     },
@@ -3785,7 +3785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "悟[((白日+田)/廾)*頁]面曰。",
+        "source_sentence": "悟䫌面曰。",
         "from": "X79n1559_023:0429a10_30",
         "context_with_next_sentence": true
     },
@@ -4780,7 +4780,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[曰/月]瀆鈞聽。",
+        "source_sentence": "冐瀆鈞聽。",
         "from": "X79n1559_023:0429c09_10",
         "context_with_next_sentence": true
     },
@@ -9820,7 +9820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "透過古今圈[袖由+貴]後。",
+        "source_sentence": "透過古今圈[袖-由+貴]後。",
         "from": "X79n1559_023:0433b08_28",
         "context_with_next_sentence": true
     },
@@ -10222,6 +10222,16 @@
     {
         "source_sentence": "嘉泰普燈錄卷第二十三",
         "from": "X79n1559_023:0433c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X79n1559_023:0433c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　懵莫孔切　瞠音撑　薨呼肱切　瀫音斛　孳音茲　黔音鉗　窣蘇骨切　蜣去羊切　蜋音良　舍與捨同　浹子恊切　姓秤去聲　藐亡角切　[卑*頁]匹米切　向式亮切　腆它典切　怫扶弗切　誚才笑切　溺與尿同　伻普耕切　邌音犂　搊楚尤切　[打-丁+於]於許切　豸池爾切　瀘音盧　痂音加　蕃音藩　蝮孚六切　悖音勃　叛音畔　淦音紺　啐子律切　揕知鴆切　楶音節　膴音武　與音預",
+        "from": "X79n1559_023:0433c12_0",
         "context_with_next_sentence": false
     }
 ]

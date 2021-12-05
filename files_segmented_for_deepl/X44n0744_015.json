@@ -85,12 +85,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "體蛘沸曰[病丙+貴]江南呼為沸子。",
+        "source_sentence": "體蛘沸曰[病-丙+貴]江南呼為沸子。",
         "from": "X44n0744_015:0515a01_3",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "山東名[病丙+貴]沮([病丙+貴]。",
+        "source_sentence": "山東名[病-丙+貴]沮([病-丙+貴]。",
         "from": "X44n0744_015:0515a02_4",
         "context_with_next_sentence": true
     },
@@ -790,7 +790,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "掃[麩夫+弋]",
+        "source_sentence": "掃䴬",
         "from": "X44n0744_015:0515b13_0",
         "context_with_next_sentence": true
     },
@@ -3460,7 +3460,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "曰[抏兀+廾]。",
+        "source_sentence": "曰[抏-兀+廾]。",
         "from": "X44n0744_015:0517a13_7",
         "context_with_next_sentence": true
     },
@@ -3475,7 +3475,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "皆曰[抏兀+廾]。",
+        "source_sentence": "皆曰[抏-兀+廾]。",
         "from": "X44n0744_015:0517a13_10",
         "context_with_next_sentence": true
     },
@@ -3595,7 +3595,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[抏兀+廾]。",
+        "source_sentence": "[抏-兀+廾]。",
         "from": "X44n0744_015:0517a17_15",
         "context_with_next_sentence": true
     },
@@ -9472,6 +9472,131 @@
     {
         "source_sentence": "四分律名義標釋卷第十五",
         "from": "X44n0744_015:0521a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　音釋",
+        "from": "X44n0744_015:0521a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蛘同癢。",
+        "from": "X44n0744_015:0521a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "訹音出。",
+        "from": "X44n0744_015:0521a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誘也。",
+        "from": "X44n0744_015:0521a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "井水觀察無蟲方用。",
+        "from": "X44n0744_015:0521a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有蟲濾用。",
+        "from": "X44n0744_015:0521a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　四分律名義標釋卷第十六目錄",
+        "from": "X44n0744_015:0521a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "難問雜碎戒毀呰毗尼",
+        "from": "X44n0744_015:0521a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿毗曇四沙門果若二若三",
+        "from": "X44n0744_015:0521a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨親厚與欲十八破僧事",
+        "from": "X44n0744_015:0521a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "口噤後悔隱處語",
+        "from": "X44n0744_015:0521a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瞋打挃者手搏",
+        "from": "X44n0744_015:0521a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "溝瀆喘息誹謗",
+        "from": "X44n0744_015:0521a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "耶若達多末羅園黃頭婢",
+        "from": "X44n0744_015:0521a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宮閤門閾未藏寶",
+        "from": "X44n0744_015:0521a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金輦王輿毗尼首陀羅",
+        "from": "X44n0744_015:0521a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "罰謫毗舍佉母摴蒱",
+        "from": "X44n0744_015:0521a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "囑授如來八指入陛",
+        "from": "X44n0744_015:0521a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兜羅綿貯白楊樹華楊柳華",
+        "from": "X44n0744_015:0521a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蒱臺華鳩羅耶草文若草",
+        "from": "X44n0744_015:0521a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "娑婆草支肩貧匱",
+        "from": "X44n0744_015:0521a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "骨牙角刳刮若葦",
+        "from": "X44n0744_015:0521b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍羅草鏢[金*纂]玦鈕",
+        "from": "X44n0744_015:0521b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衣[金*刮]藥篦禪鎮",
+        "from": "X44n0744_015:0521b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "熏鼻筒坐具增各半磔手",
+        "from": "X44n0744_015:0521b04_0",
         "context_with_next_sentence": false
     }
 ]

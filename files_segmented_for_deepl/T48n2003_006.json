@@ -4130,7 +4130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "且看這漢一場懡[怡台+羅])霜云。",
+        "source_sentence": "且看這漢一場懡[怡-台+羅])霜云。",
         "from": "T48n2003_006:0189a15_1",
         "context_with_next_sentence": true
     },
@@ -5850,7 +5850,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "退後則猛虎[銜金+缶]脚)　　可隣一鏃破三關(全機恁麼來時如何。",
+        "source_sentence": "退後則猛虎[銜-金+缶]脚)　　可隣一鏃破三關(全機恁麼來時如何。",
         "from": "T48n2003_006:0190b24_3",
         "context_with_next_sentence": true
     },
@@ -7770,7 +7770,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "這僧只得一場懡[怡台+羅]。",
+        "source_sentence": "這僧只得一場懡[怡-台+羅]。",
         "from": "T48n2003_006:0192a23_12",
         "context_with_next_sentence": true
     },
@@ -8807,6 +8807,46 @@
     {
         "source_sentence": "佛果圜悟禪師碧巖錄卷第六終",
         "from": "T48n2003_006:0193a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嵎中書隱鼎刊圜悟碧巖錄。",
+        "from": "T48n2003_006:0193a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幸已訖事。",
+        "from": "T48n2003_006:0193a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四方禪友或收得祖庭事苑萬善同歸錄及禪宗文字。",
+        "from": "T48n2003_006:0193a20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世罕刊本者。",
+        "from": "T48n2003_006:0193a22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幸乞見示當為繡梓。",
+        "from": "T48n2003_006:0193a22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以廣禪學。",
+        "from": "T48n2003_006:0193a23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此亦方便接引之一端也。",
+        "from": "T48n2003_006:0193a23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "告毋舍玉幸甚　稟白。",
+        "from": "T48n2003_006:0193a23_7",
         "context_with_next_sentence": false
     }
 ]

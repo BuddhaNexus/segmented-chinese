@@ -1240,7 +1240,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[郫卑+((白日+田)/廾)]縣西禪埀白禪師僧問。",
+        "source_sentence": "[郫-卑+((白-日+田)/廾)]縣西禪埀白禪師僧問。",
         "from": "X85n1590_003:0132c24_0",
         "context_with_next_sentence": true
     },
@@ -1275,7 +1275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "永鎮[郫卑+((白日+田)/廾)]城萬古傳。",
+        "source_sentence": "永鎮[郫-卑+((白-日+田)/廾)]城萬古傳。",
         "from": "X85n1590_003:0133a02_7",
         "context_with_next_sentence": true
     },
@@ -1685,7 +1685,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "王婆煑[飢几+追]。",
+        "source_sentence": "王婆煑[飢-几+追]。",
         "from": "X85n1590_003:0133b08_4",
         "context_with_next_sentence": true
     },
@@ -3420,7 +3420,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[障音]邡方水禪師示眾云。",
+        "source_sentence": "[障-音]邡方水禪師示眾云。",
         "from": "X85n1590_003:0134c02_0",
         "context_with_next_sentence": true
     },
@@ -4235,7 +4235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "學士還知天下衲僧出者婆子圈[袖由+貴]不得麼。",
+        "source_sentence": "學士還知天下衲僧出者婆子圈[袖-由+貴]不得麼。",
         "from": "X85n1590_003:0135b01_0",
         "context_with_next_sentence": true
     },

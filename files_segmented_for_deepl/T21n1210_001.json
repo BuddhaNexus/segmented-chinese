@@ -520,7 +520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若欲留癲[病丙+狂]病者。",
+        "source_sentence": "若欲留癲[病-丙+狂]病者。",
         "from": "T21n1210_001:0042a03_0",
         "context_with_next_sentence": true
     },

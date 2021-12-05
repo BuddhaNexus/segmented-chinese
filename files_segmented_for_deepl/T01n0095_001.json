@@ -1,5 +1,10 @@
 [
     {
+        "source_sentence": ".[~.,.]",
+        "from": "T01n0095_001:0918b20_0",
+        "context_with_next_sentence": true
+    },
+    {
         "source_sentence": "佛說蟻喻經",
         "from": "T01n0095_001:0918b21_0",
         "context_with_next_sentence": true
@@ -35,7 +40,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "次見諸水母蟲，次見一水蛭蟲，次見諸阿西蘇那蟲，次見一大蛇，次見一挼陀鉢他蟲，次見一[昝人+几]哥嚩吒蟲，其婆羅門見彼諸蟲已，皆如前言。",
+        "source_sentence": "次見諸水母蟲，次見一水蛭蟲，次見諸阿西蘇那蟲，次見一大蛇，次見一挼陀鉢他蟲，次見一[昝-人+几]哥嚩吒蟲，其婆羅門見彼諸蟲已，皆如前言。",
         "from": "T01n0095_001:0918c01_4",
         "context_with_next_sentence": true
     },
@@ -90,7 +95,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "又見大龜、水母蟲、水蛭蟲、阿西蘇那蟲、大蛇、挼陀鉢他蟲、[昝人+几]哥嚩吒蟲、大龍，此等所見皆是何相？",
+        "source_sentence": "又見大龜、水母蟲、水蛭蟲、阿西蘇那蟲、大蛇、挼陀鉢他蟲、[昝-人+几]哥嚩吒蟲、大龍，此等所見皆是何相？",
         "from": "T01n0095_001:0918c14_15",
         "context_with_next_sentence": true
     },
@@ -160,7 +165,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[昝人+几]哥嚩吒蟲者，是我慢。",
+        "source_sentence": "[昝-人+几]哥嚩吒蟲者，是我慢。",
         "from": "T01n0095_001:0918c23_29",
         "context_with_next_sentence": true
     },

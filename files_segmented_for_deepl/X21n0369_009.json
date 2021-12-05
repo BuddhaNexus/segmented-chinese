@@ -2170,7 +2170,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五者於處憒[〦/(內入+人)]世雜亂行。",
+        "source_sentence": "五者於處憒[〦/(內-入+人)]世雜亂行。",
         "from": "X21n0369_009:0383b09_0",
         "context_with_next_sentence": true
     },
@@ -12090,7 +12090,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或有一分唯能飲噉極可[病丙+猒]惡生熟臭穢。",
+        "source_sentence": "或有一分唯能飲噉極可[病-丙+猒]惡生熟臭穢。",
         "from": "X21n0369_009:0392b23_2",
         "context_with_next_sentence": true
     },
@@ -23570,7 +23570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "少有[億音+(天*天)]犯。",
+        "source_sentence": "少有[億-音+(天*天)]犯。",
         "from": "X21n0369_009:0402b20_15",
         "context_with_next_sentence": true
     },
@@ -27487,6 +27487,11 @@
     {
         "source_sentence": "解深密經疏卷第九",
         "from": "X21n0369_009:0405c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經文未竟宜有次疏惜哉此本罄于第九卷後學須尋而全備焉。",
+        "from": "X21n0369_009:0406a01_0",
         "context_with_next_sentence": false
     }
 ]

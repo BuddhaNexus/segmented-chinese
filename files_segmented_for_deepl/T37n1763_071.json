@@ -1295,7 +1295,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "彼以蘇[萉巴+(日/(句口+匕))]為地。",
+        "source_sentence": "彼以蘇[萉-巴+(日/(句-口+匕))]為地。",
         "from": "T37n1763_071:0609c17_7",
         "context_with_next_sentence": true
     },
@@ -2592,6 +2592,56 @@
     {
         "source_sentence": "大般涅槃經集解卷第七十一(終)",
         "from": "T37n1763_071:0611a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀應二年(辛卯)卯月十日。",
+        "from": "T37n1763_071:0611a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於大和州大御輪寺。",
+        "from": "T37n1763_071:0611a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "點寫之了。",
+        "from": "T37n1763_071:0611a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自觀應元年九月二十四日。",
+        "from": "T37n1763_071:0611a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至同二年四月十日。",
+        "from": "T37n1763_071:0611a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一部七十一卷。",
+        "from": "T37n1763_071:0611a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為每年講讚本。",
+        "from": "T37n1763_071:0611a11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一筆點之了。",
+        "from": "T37n1763_071:0611a11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偏為奉助興正菩薩御願而已。",
+        "from": "T37n1763_071:0611a12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　大御輪寺金剛資　圓宗(生年六十五度以四十五)",
+        "from": "T37n1763_071:0611a13_0",
         "context_with_next_sentence": false
     }
 ]

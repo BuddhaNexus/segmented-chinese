@@ -6955,7 +6955,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此是諸[仁二+業]中親族也。",
+        "source_sentence": "此是諸[仁-二+業]中親族也。",
         "from": "X34n0638_009:0369c15_2",
         "context_with_next_sentence": true
     },
@@ -13125,7 +13125,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "言應[(而/而)*(少/((色巴)+兄))]字者。",
+        "source_sentence": "言應[(而/而)*(少/((色-巴)+兄))]字者。",
         "from": "X34n0638_009:0374b14_0",
         "context_with_next_sentence": true
     },
@@ -21675,7 +21675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "今持[丮(舉與)+言]父母將還。",
+        "source_sentence": "今持[丮-(舉-與)+言]父母將還。",
         "from": "X34n0638_009:0380c21_6",
         "context_with_next_sentence": true
     },
@@ -33087,6 +33087,16 @@
     {
         "source_sentence": "妙法蓮華經玄贊要集第九",
         "from": "X34n0638_009:0390b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "弘長元年(辛酉)八月上旬天法隆寺石藏院書寫了。",
+        "from": "X34n0638_009:0390b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同年九月二十二日一交了。",
+        "from": "X34n0638_009:0390b25_0",
         "context_with_next_sentence": false
     }
 ]

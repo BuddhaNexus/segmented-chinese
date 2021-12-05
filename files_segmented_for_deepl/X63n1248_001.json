@@ -1235,7 +1235,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此會亦須預出經單請大眾隨意披閱(此會有開甘露門一[打丁+胃]。",
+        "source_sentence": "此會亦須預出經單請大眾隨意披閱(此會有開甘露門一[打-丁+胃]。",
         "from": "X63n1248_001:0573a09_4",
         "context_with_next_sentence": true
     },
@@ -1500,7 +1500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "調醯合[醢右+(乞乙+口)]杓柄上。",
+        "source_sentence": "調醯合[醢-右+(乞-乙+口)]杓柄上。",
         "from": "X63n1248_001:0573b12_10",
         "context_with_next_sentence": true
     },
@@ -1920,7 +1920,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "古人有[栽木+土]田愽飯與開田說大義及插鍬叉手之風。",
+        "source_sentence": "古人有[栽-木+土]田愽飯與開田說大義及插鍬叉手之風。",
         "from": "X63n1248_001:0574a03_3",
         "context_with_next_sentence": true
     },
@@ -2015,7 +2015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "實穿其柄杷。",
+        "source_sentence": "實穿其柄&#;。",
         "from": "X63n1248_001:0574a11_22",
         "context_with_next_sentence": true
     },
@@ -6750,7 +6750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "帚以掃蕩。",
+        "source_sentence": "箒以掃蕩。",
         "from": "X63n1248_001:0580c10_6",
         "context_with_next_sentence": true
     },
@@ -9255,7 +9255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "弊[示*詹]塵絮隨分禦寒。",
+        "source_sentence": "弊䄡塵絮隨分禦寒。",
         "from": "X63n1248_001:0583c12_8",
         "context_with_next_sentence": true
     },
@@ -10130,7 +10130,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "這回更不肯硬立脚頭[拚ㄙ+ㄊ]死[拚ㄙ+ㄊ]生打捱將去。",
+        "source_sentence": "這回更不肯硬立脚頭[拚-ㄙ+ㄊ]死[拚-ㄙ+ㄊ]生打捱將去。",
         "from": "X63n1248_001:0584c20_34",
         "context_with_next_sentence": true
     },
@@ -12255,7 +12255,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": " 開甘露門",
+        "source_sentence": "開甘露門",
         "from": "X63n1248_001:0588a04_0",
         "context_with_next_sentence": true
     },
@@ -15265,7 +15265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "日用須知(并)",
+        "source_sentence": "日用須知(并)甘露門終",
         "from": "X63n1248_001:0591c22_0",
         "context_with_next_sentence": false
     }

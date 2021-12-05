@@ -1655,7 +1655,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "俄取枕擲門窗上。",
+        "source_sentence": "俄取枕擲門窻上。",
         "from": "X82n1571_040:0066a03_21",
         "context_with_next_sentence": true
     },
@@ -4945,12 +4945,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "總出這圈[袖由+貴]不得。",
+        "source_sentence": "總出這圈[袖-由+貴]不得。",
         "from": "X82n1571_040:0068b18_12",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如何是這圈[袖由+貴]。",
+        "source_sentence": "如何是這圈[袖-由+貴]。",
         "from": "X82n1571_040:0068b18_13",
         "context_with_next_sentence": true
     },
@@ -9855,7 +9855,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "爭奈拈[飢几+追]舐指。",
+        "source_sentence": "爭奈拈[飢-几+追]舐指。",
         "from": "X82n1571_040:0072b19_32",
         "context_with_next_sentence": true
     },
@@ -12500,7 +12500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五燈全書",
+        "source_sentence": "五燈全書卷第四十",
         "from": "X82n1571_040:0074c03_0",
         "context_with_next_sentence": false
     }

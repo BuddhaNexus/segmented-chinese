@@ -6700,7 +6700,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如[駋口+巴]穴鼻。",
+        "source_sentence": "如[駋-口+巴]穴鼻。",
         "from": "X55n0919_007:0831b15_2",
         "context_with_next_sentence": true
     },
@@ -8165,7 +8165,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔其手足身分食之。",
+        "source_sentence": "㧞其手足身分食之。",
         "from": "X55n0919_007:0832b19_8",
         "context_with_next_sentence": true
     },
@@ -8300,7 +8300,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "愍他如[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "愍他如[(厂@((既-旡)-日+口))*頁]。",
         "from": "X55n0919_007:0832c04_5",
         "context_with_next_sentence": true
     },
@@ -8345,7 +8345,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]友名戀。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]友名戀。",
         "from": "X55n0919_007:0832c05_14",
         "context_with_next_sentence": true
     },
@@ -11105,7 +11105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "名[這言+至]路殊。",
+        "source_sentence": "名[這-言+至]路殊。",
         "from": "X55n0919_007:0834c22_4",
         "context_with_next_sentence": true
     },
@@ -11515,7 +11515,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "諸法相望[牙(必心)+?]為彼此。",
+        "source_sentence": "諸法相望[牙-(必-心)+?]為彼此。",
         "from": "X55n0919_007:0835a23_7",
         "context_with_next_sentence": true
     },
@@ -14390,7 +14390,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "蚖與長虵但[牙(必心)+?]舉耳。",
+        "source_sentence": "蚖與長虵但[牙-(必-心)+?]舉耳。",
         "from": "X55n0919_007:0837c03_0",
         "context_with_next_sentence": true
     },

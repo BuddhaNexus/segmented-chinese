@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 慈受深和尚語錄序",
+        "source_sentence": "慈受深和尚語錄序",
         "from": "X73n1451_001:0092a06_0",
         "context_with_next_sentence": true
     },
@@ -10400,7 +10400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "白日[廓享+墨]中自有人。",
+        "source_sentence": "白日[廓-享+墨]中自有人。",
         "from": "X73n1451_001:0100a19_3",
         "context_with_next_sentence": true
     },
@@ -12600,7 +12600,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大海釣魚[拚ㄙ+ㄊ]得失。",
+        "source_sentence": "大海釣魚[拚-ㄙ+ㄊ]得失。",
         "from": "X73n1451_001:0101c13_20",
         "context_with_next_sentence": true
     },
@@ -18250,7 +18250,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一毛不肯拔。",
+        "source_sentence": "一毛不肯㧞。",
         "from": "X73n1451_001:0105c21_21",
         "context_with_next_sentence": true
     },
@@ -19160,7 +19160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "更無[打丁+羕]度。",
+        "source_sentence": "更無[打-丁+羕]度。",
         "from": "X73n1451_001:0106b20_8",
         "context_with_next_sentence": true
     },
@@ -20840,7 +20840,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "船子便解纜。",
+        "source_sentence": "船子便解䌫。",
         "from": "X73n1451_001:0107c18_9",
         "context_with_next_sentence": true
     },
@@ -21082,6 +21082,11 @@
     {
         "source_sentence": "慈受深和尚廣錄卷第一",
         "from": "X73n1451_001:0108a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "門人慈覺大師　文剛　勸緣",
+        "from": "X73n1451_001:0108a10_0",
         "context_with_next_sentence": false
     }
 ]

@@ -500,7 +500,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "神化[月*(夸大+八)]響戒行精勤。",
+        "source_sentence": "神化[月*(夸-大+八)]響戒行精勤。",
         "from": "T52n2108_005:0465c09_3",
         "context_with_next_sentence": true
     },
@@ -4410,7 +4410,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二門之法[仁二+蹇]倨乖於恒典。",
+        "source_sentence": "二門之法[仁-二+蹇]倨乖於恒典。",
         "from": "T52n2108_005:0469b23_5",
         "context_with_next_sentence": true
     },

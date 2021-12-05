@@ -870,7 +870,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "食飯麵菜等。",
+        "source_sentence": "食飯麫菜等。",
         "from": "X16n0318_008:0889c09_6",
         "context_with_next_sentence": true
     },
@@ -21810,7 +21810,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一頭搕[打丁+(天/韭)]。",
+        "source_sentence": "一頭搕[打-丁+(天/韭)]。",
         "from": "X16n0318_008:0906a05_34",
         "context_with_next_sentence": true
     },
@@ -41467,6 +41467,16 @@
     {
         "source_sentence": "本無淨穢。",
         "from": "X16n0318_008:0920c23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而常住真心。",
+        "from": "X16n0318_008:0920c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安所不解脫哉。",
+        "from": "X16n0318_008:0920c24_1",
         "context_with_next_sentence": false
     }
 ]

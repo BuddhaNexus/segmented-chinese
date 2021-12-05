@@ -1397,6 +1397,21 @@
     {
         "source_sentence": "金光明最勝王經卷第十",
         "from": "T16n0665_010:0456c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此經梵筴，英國王立亞細亞協會所藏，比諸當譯頗有所缺，若陀羅尼不存者甚多矣。",
+        "from": "T16n0665_010:0456c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即依宗教大學圖書館西藏譯本，對比出之。",
+        "from": "T16n0665_010:0456c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蓋蕃藏《金光明經》有兩部，其一實原義淨漢本脗合，固其所已耳；而間有少異，讀者就知焉。",
+        "from": "T16n0665_010:0456c23_2",
         "context_with_next_sentence": false
     }
 ]

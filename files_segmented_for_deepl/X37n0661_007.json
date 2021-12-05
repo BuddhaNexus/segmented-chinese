@@ -1060,12 +1060,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "為迴[(厂@((既旡)日+口))*頁]者。",
+        "source_sentence": "為迴[(厂@((既-旡)-日+口))*頁]者。",
         "from": "X37n0661_007:0256a21_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "此即走中迴[(厂@((既旡)日+口))*頁]也。",
+        "source_sentence": "此即走中迴[(厂@((既-旡)-日+口))*頁]也。",
         "from": "X37n0661_007:0256a21_1",
         "context_with_next_sentence": true
     },
@@ -4430,7 +4430,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "并請舍利一[(厂@((既旡)日+口))*頁]。",
+        "source_sentence": "并請舍利一[(厂@((既-旡)-日+口))*頁]。",
         "from": "X37n0661_007:0259c24_8",
         "context_with_next_sentence": true
     },
@@ -17015,7 +17015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "兩[月*叉]。",
+        "source_sentence": "兩肞。",
         "from": "X37n0661_007:0274a13_5",
         "context_with_next_sentence": true
     },
@@ -19047,6 +19047,11 @@
     {
         "source_sentence": "涅槃疏私記卷第七",
         "from": "X37n0661_007:0276a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "承保四秊五月三日書寫已了以同月七日一校已了",
+        "from": "X37n0661_007:0276a20_0",
         "context_with_next_sentence": false
     }
 ]

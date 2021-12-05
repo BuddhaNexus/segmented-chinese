@@ -15225,7 +15225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "有裨正解。",
+        "source_sentence": "有禆正解。",
         "from": "X33n0631_006:0665a02_1",
         "context_with_next_sentence": true
     },
@@ -22030,7 +22030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "胡為不[拚ㄙ+ㄊ]其身命。",
+        "source_sentence": "胡為不[拚-ㄙ+ㄊ]其身命。",
         "from": "X33n0631_006:0670b22_6",
         "context_with_next_sentence": true
     },
@@ -22820,7 +22820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "拔一毛而利天下。",
+        "source_sentence": "㧞一毛而利天下。",
         "from": "X33n0631_006:0671a23_2",
         "context_with_next_sentence": true
     },
@@ -23667,6 +23667,31 @@
     {
         "source_sentence": "法華指掌疏卷第六",
         "from": "X33n0631_006:0672a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音釋",
+        "from": "X33n0631_006:0672a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汞(胡貢切音哄水銀也)。",
+        "from": "X33n0631_006:0672a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瘍(移章切音陽創癰也又身傷曰瘍)。",
+        "from": "X33n0631_006:0672a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顴(逵員切音權輔骨也)。",
+        "from": "X33n0631_006:0672a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喃(那含切音南語聲也)。",
+        "from": "X33n0631_006:0672a08_3",
         "context_with_next_sentence": false
     }
 ]

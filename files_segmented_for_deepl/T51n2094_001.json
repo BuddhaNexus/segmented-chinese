@@ -410,8 +410,18 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "小長于在",
+        "source_sentence": "小長于在瓦棺寺南。",
         "from": "T51n2094_001:1024b25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "巷西頭出大江。",
+        "from": "T51n2094_001:1024b26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梁初起長于寺。",
+        "from": "T51n2094_001:1024b26_6",
         "context_with_next_sentence": false
     }
 ]

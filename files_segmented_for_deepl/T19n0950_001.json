@@ -1160,7 +1160,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如是從無畏處從記[竺二+別]處。",
+        "source_sentence": "如是從無畏處從記[竺-二+別]處。",
         "from": "T19n0950_001:0194b11_5",
         "context_with_next_sentence": true
     },
@@ -4412,6 +4412,36 @@
     {
         "source_sentence": "菩提場所說一字頂輪王經卷第一",
         "from": "T19n0950_001:0198a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此經此卷國本有三處文義斷絕。",
+        "from": "T19n0950_001:0198a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第七幅八九行云大福莊嚴一切安(之下便云)王身如傘蓋(等)第十三幅十九行云神通熾盛無量(之下便云)樂易成就(等)第二十幅八行云白傘佛頂(之下便云)無邊一劫不能說(等)今按丹本。",
+        "from": "T19n0950_001:0198a15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則國本錯將白傘蓋佛頂(之下)王身如傘蓋(乃至)神通熾盛無量(等)凡一百四十九行之文。",
+        "from": "T19n0950_001:0198a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "進而安于一切安(之下)却將一切安(之下)樂易成就(乃至)白傘蓋佛頂(等)凡一百五十行之文。",
+        "from": "T19n0950_001:0198a21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "退而安于神通熾盛無量(之下)致使如是三節文斷。",
+        "from": "T19n0950_001:0198a23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今依丹本進退正之。",
+        "from": "T19n0950_001:0198a25_5",
         "context_with_next_sentence": false
     }
 ]

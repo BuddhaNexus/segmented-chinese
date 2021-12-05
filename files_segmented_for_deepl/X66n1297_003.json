@@ -565,7 +565,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一[打丁+羕]花蹊一[打丁+羕]紅。",
+        "source_sentence": "一[打-丁+羕]花蹊一[打-丁+羕]紅。",
         "from": "X66n1297_003:0289b18_0",
         "context_with_next_sentence": true
     },
@@ -1355,7 +1355,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "三脚瞎驢纔[跳兆+孛]跳。",
+        "source_sentence": "三脚瞎驢纔[跳-兆+孛]跳。",
         "from": "X66n1297_003:0290b11_6",
         "context_with_next_sentence": true
     },
@@ -3015,7 +3015,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大小寶華只解草鞵裏[跳兆+孛]跳。",
+        "source_sentence": "大小寶華只解草鞵裏[跳-兆+孛]跳。",
         "from": "X66n1297_003:0292b04_11",
         "context_with_next_sentence": true
     },
@@ -5605,7 +5605,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "未免一場懡[怡台+羅]。",
+        "source_sentence": "未免一場懡[怡-台+羅]。",
         "from": "X66n1297_003:0295a23_4",
         "context_with_next_sentence": true
     },

@@ -1415,7 +1415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即色頂摩[醢右+(乞乙+口)]首羅天。",
+        "source_sentence": "即色頂摩[醢-右+(乞-乙+口)]首羅天。",
         "from": "X15n0299_006:0083a07_17",
         "context_with_next_sentence": true
     },
@@ -4435,7 +4435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一時圓拔故。",
+        "source_sentence": "一時圓㧞故。",
         "from": "X15n0299_006:0085b12_12",
         "context_with_next_sentence": true
     },
@@ -11545,7 +11545,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不蹋不拔。",
+        "source_sentence": "不蹋不㧞。",
         "from": "X15n0299_006:0091c14_8",
         "context_with_next_sentence": true
     },

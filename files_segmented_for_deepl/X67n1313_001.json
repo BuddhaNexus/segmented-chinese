@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 青州百問序",
+        "source_sentence": "青州百問序",
         "from": "X67n1313_001:0706b06_0",
         "context_with_next_sentence": true
     },
@@ -80,7 +80,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "彌覆兒孫之[痾可+(企止+(套大))]。",
+        "source_sentence": "彌覆兒孫之[痾-可+(企-止+(套-大))]。",
         "from": "X67n1313_001:0706b13_0",
         "context_with_next_sentence": true
     },
@@ -6750,7 +6750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "鼻孔昂藏模[打丁+索]難。",
+        "source_sentence": "鼻孔昂藏模[打-丁+索]難。",
         "from": "X67n1313_001:0711c14_3",
         "context_with_next_sentence": true
     },
@@ -6785,12 +6785,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "得兔必假[(ㄇ@(企止))/弟]。",
+        "source_sentence": "得兔必假罤。",
         "from": "X67n1313_001:0711c17_2",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不假筌[(ㄇ@(企止))/弟]。",
+        "source_sentence": "不假筌罤。",
         "from": "X67n1313_001:0711c17_3",
         "context_with_next_sentence": true
     },
@@ -7320,7 +7320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "飯肚飽齁齁。",
+        "source_sentence": "飰肚飽齁齁。",
         "from": "X67n1313_001:0712a22_1",
         "context_with_next_sentence": true
     },

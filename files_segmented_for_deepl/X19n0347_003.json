@@ -3305,8 +3305,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "稱述",
+        "source_sentence": "稱述維摩詰所言。",
         "from": "X19n0347_003:0556b24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆曰不任詣彼問疾。",
+        "from": "X19n0347_003:0556c01_8",
         "context_with_next_sentence": false
     }
 ]

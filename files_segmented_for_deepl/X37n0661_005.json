@@ -2325,7 +2325,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唯有[序予+(這言+(庚(序予)))]子名全不同。",
+        "source_sentence": "唯有[序-予+(這-言+(庚-(序-予)))]子名全不同。",
         "from": "X37n0661_005:0214b20_19",
         "context_with_next_sentence": true
     },
@@ -2400,7 +2400,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "編([(白日+田)/廾]連反)塞(蘇代反如法疏記)此起近者。",
+        "source_sentence": "編([(白-日+田)/廾]連反)塞(蘇代反如法疏記)此起近者。",
         "from": "X37n0661_005:0214c02_1",
         "context_with_next_sentence": true
     },
@@ -18387,6 +18387,11 @@
     {
         "source_sentence": "涅槃疏私記卷第五",
         "from": "X37n0661_005:0231c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "承保四年五月六日以華林房本書寫已了",
+        "from": "X37n0661_005:0231c15_0",
         "context_with_next_sentence": false
     }
 ]

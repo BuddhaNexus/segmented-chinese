@@ -3070,7 +3070,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "線斷羞慚最懡[怡台+羅]。",
+        "source_sentence": "線斷羞慚最懡[怡-台+羅]。",
         "from": "X73n1456_036:0726a09_3",
         "context_with_next_sentence": true
     },
@@ -7580,7 +7580,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "王曰大[金*(起巳+戍)]。",
+        "source_sentence": "王曰大[金*(起-巳+戍)]。",
         "from": "X73n1456_036:0730a19_21",
         "context_with_next_sentence": true
     },
@@ -7760,7 +7760,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "雖居市[廓享+墨]。",
+        "source_sentence": "雖居市[廓-享+墨]。",
         "from": "X73n1456_036:0730b05_2",
         "context_with_next_sentence": true
     },

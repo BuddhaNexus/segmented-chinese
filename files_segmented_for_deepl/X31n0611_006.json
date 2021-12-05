@@ -585,7 +585,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "即須臾聞。",
+        "source_sentence": "即須㬰聞。",
         "from": "X31n0611_006:0581b06_2",
         "context_with_next_sentence": true
     },
@@ -10145,8 +10145,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則終會不",
+        "source_sentence": "則終會不再見矣。",
         "from": "X31n0611_006:0592a12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卷第六",
+        "from": "X31n0611_006:0592a13_7",
         "context_with_next_sentence": false
     }
 ]

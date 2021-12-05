@@ -135,7 +135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "成鉢[口*(肄聿+(企止+米))]。",
+        "source_sentence": "成鉢[口*(肄-聿+(企-止+米))]。",
         "from": "T18n0893b_002:0644a15_10",
         "context_with_next_sentence": true
     },
@@ -2275,7 +2275,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵．枳里枳里．　跋日羅．　矩嚕馱．吽[打丁+巿]以此真言。",
+        "source_sentence": "唵．枳里枳里．　跋日羅．　矩嚕馱．吽[打-丁+巿]以此真言。",
         "from": "T18n0893b_002:0645c05_0",
         "context_with_next_sentence": true
     },
@@ -2675,7 +2675,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "跋羅訖囉摩野．菩嚩弭[起巳+乞]那．毘那舍曩耶．　唵．　虎嚕虎嚕底瑟他．底瑟他．畔馱畔馱．[可*欠]那[可*欠]那．　阿蜜[口*栗]羝．　虎吽柹若本法中。",
+        "source_sentence": "跋羅訖囉摩野．菩嚩弭[起-巳+乞]那．毘那舍曩耶．　唵．　虎嚕虎嚕底瑟他．底瑟他．畔馱畔馱．[可*欠]那[可*欠]那．　阿蜜[口*栗]羝．　虎吽柹若本法中。",
         "from": "T18n0893b_002:0646a21_1",
         "context_with_next_sentence": true
     },
@@ -5965,7 +5965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "前所[怡台+貞]像舍利塔等。",
+        "source_sentence": "前所[怡-台+貞]像舍利塔等。",
         "from": "T18n0893b_002:0648c13_8",
         "context_with_next_sentence": true
     },
@@ -7060,7 +7060,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "項[打丁+(乖北+比)]諸嚲樹枝。",
+        "source_sentence": "項[打-丁+(乖-北+比)]諸嚲樹枝。",
         "from": "T18n0893b_002:0649c04_12",
         "context_with_next_sentence": true
     },
@@ -10265,7 +10265,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "木履[曰/月]鉺草。",
+        "source_sentence": "木履冐鉺草。",
         "from": "T18n0893b_002:0652a03_8",
         "context_with_next_sentence": true
     },
@@ -10650,7 +10650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如槡施鳥[毯炎+令]。",
+        "source_sentence": "如槡施鳥[毯-炎+令]。",
         "from": "T18n0893b_002:0652a27_5",
         "context_with_next_sentence": true
     },

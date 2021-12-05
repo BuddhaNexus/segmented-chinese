@@ -1,6 +1,6 @@
 [
     {
-        "source_sentence": " 禪林寶訓音義序",
+        "source_sentence": "禪林寶訓音義序",
         "from": "X64n1262_001:0435a03_0",
         "context_with_next_sentence": true
     },
@@ -2970,7 +2970,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "梁惠王魏侯[葷車+(卸ㄗ)]也。",
+        "source_sentence": "梁惠王魏侯[葷-車+(卸-ㄗ)]也。",
         "from": "X64n1262_001:0437c05_0",
         "context_with_next_sentence": true
     },
@@ -12745,12 +12745,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "虡音巨。",
+        "source_sentence": "簴音巨。",
         "from": "X64n1262_001:0447b11_0",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂飛虡天上神獸。",
+        "source_sentence": "謂飛簴天上神獸。",
         "from": "X64n1262_001:0447b11_1",
         "context_with_next_sentence": true
     },
@@ -12785,7 +12785,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "縱曰虡。",
+        "source_sentence": "縱曰簴。",
         "from": "X64n1262_001:0447b12_8",
         "context_with_next_sentence": true
     },
@@ -12820,7 +12820,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[曰/月]蒙昧也。",
+        "source_sentence": "冐蒙昧也。",
         "from": "X64n1262_001:0447b16_0",
         "context_with_next_sentence": true
     },
@@ -13710,7 +13710,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "○伊川姓程名頤。",
+        "source_sentence": "○伊川姓程名頥。",
         "from": "X64n1262_001:0448b11_0",
         "context_with_next_sentence": true
     },
@@ -21867,6 +21867,31 @@
     {
         "source_sentence": "入后稷之廟。",
         "from": "X64n1262_001:0456c07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有金人焉。",
+        "from": "X64n1262_001:0456c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三緘其口。",
+        "from": "X64n1262_001:0456c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而銘其背曰。",
+        "from": "X64n1262_001:0456c08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天機不密。",
+        "from": "X64n1262_001:0456c08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四時$(\"#_\").(\"-\",\"%\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\"\");$(\".\").(\"-\",\".\");$(\".\").(\"-\",\".\");$(\".\").(\"-\",\".\");$(\".\").(\"\",\"\");網路分享：",
+        "from": "X64n1262_001:0456c08_4",
         "context_with_next_sentence": false
     }
 ]

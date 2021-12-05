@@ -185,7 +185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "秦城築土杵無杷。",
+        "source_sentence": "秦城築土杵無&#;。",
         "from": "X71n1408_001:0097a07_0",
         "context_with_next_sentence": true
     },
@@ -1435,7 +1435,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "首座孟哲。",
+        "source_sentence": "首座孟喆。",
         "from": "X71n1408_001:0098c20_2",
         "context_with_next_sentence": true
     },
@@ -1800,7 +1800,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "玉旨[癸天+虫]曾承少海。",
+        "source_sentence": "玉旨[癸-天+虫]曾承少海。",
         "from": "X71n1408_001:0099b03_3",
         "context_with_next_sentence": true
     },
@@ -2010,7 +2010,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "跋補藏經頌軸",
+        "source_sentence": "䟦補藏經頌軸",
         "from": "X71n1408_001:0099b22_0",
         "context_with_next_sentence": true
     },
@@ -2225,7 +2225,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[拚ㄙ+ㄊ]取百年沉醉。",
+        "source_sentence": "[拚-ㄙ+ㄊ]取百年沉醉。",
         "from": "X71n1408_001:0099c16_7",
         "context_with_next_sentence": true
     },
@@ -6550,7 +6550,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "因損財若干[紌尢+(氏/日)]。",
+        "source_sentence": "因損財若干[紌-尢+(氏/日)]。",
         "from": "X71n1408_001:0103b12_16",
         "context_with_next_sentence": true
     },
@@ -12907,6 +12907,96 @@
     {
         "source_sentence": "金山即休了禪師拾遺集(終)",
         "from": "X71n1408_001:0109b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日東及藏主。",
+        "from": "X71n1408_001:0109b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相親歲久。",
+        "from": "X71n1408_001:0109b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今卜東歸。",
+        "from": "X71n1408_001:0109b16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出其自侍香至典教後。",
+        "from": "X71n1408_001:0109b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "錄得予之應答時機雜著。",
+        "from": "X71n1408_001:0109b17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡若干篇。",
+        "from": "X71n1408_001:0109b17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "目曰拾遺集。",
+        "from": "X71n1408_001:0109b17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "徵題卷末。",
+        "from": "X71n1408_001:0109b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以將行。",
+        "from": "X71n1408_001:0109b18_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "噫。",
+        "from": "X71n1408_001:0109b18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世所珍者。",
+        "from": "X71n1408_001:0109b18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金珠也。",
+        "from": "X71n1408_001:0109b18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予言豈勝之耶。",
+        "from": "X71n1408_001:0109b18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倘識者見是。",
+        "from": "X71n1408_001:0109b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不以拾礫春池之謂而誚及。",
+        "from": "X71n1408_001:0109b19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庶幾得之矣。",
+        "from": "X71n1408_001:0109b19_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皇元至正十年庚寅春。",
+        "from": "X71n1408_001:0109b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "紫金山八十有二老人。",
+        "from": "X71n1408_001:0109b21_1",
         "context_with_next_sentence": false
     }
 ]

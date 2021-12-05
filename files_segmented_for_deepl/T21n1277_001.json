@@ -135,7 +135,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "身上無瘢痕[病丙+猒]記。",
+        "source_sentence": "身上無瘢痕[病-丙+猒]記。",
         "from": "T21n1277_001:0329b20_11",
         "context_with_next_sentence": true
     },
@@ -927,6 +927,11 @@
     {
         "source_sentence": "天上亦來非但人間也。",
         "from": "T21n1277_001:0330c20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "速疾立驗魔醯首羅天說迦婁羅阿尾奢法一卷",
+        "from": "T21n1277_001:0331a01_0",
         "context_with_next_sentence": false
     }
 ]

@@ -105,7 +105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "何規規然尋牛[(殼一)/牛]乳於村落耶。",
+        "source_sentence": "何規規然尋牛[(殼-一)/牛]乳於村落耶。",
         "from": "T49n2035_001:0129a13_20",
         "context_with_next_sentence": true
     },
@@ -845,7 +845,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五謄成[葶丁+呆]。",
+        "source_sentence": "五謄成[葶-丁+呆]。",
         "from": "T49n2035_001:0129c25_9",
         "context_with_next_sentence": true
     },
@@ -9540,7 +9540,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "共八萬四千二百五",
+        "source_sentence": "共八萬四千二百五十王也。",
         "from": "T49n2035_001:0140b06_12",
         "context_with_next_sentence": false
     }

@@ -265,8 +265,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "使羅云為諸比丘比丘尼優",
+        "source_sentence": "使羅云為諸比丘比丘尼優婆塞優婆夷及諸白衣。",
         "from": "T21n1391_001:0908b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆令諷誦之。",
+        "from": "T21n1391_001:0908b04_2",
         "context_with_next_sentence": false
     }
 ]

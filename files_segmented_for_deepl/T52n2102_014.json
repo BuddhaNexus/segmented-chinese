@@ -505,7 +505,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "自稱仕人神者必是猨猴[狂王+加]玃。",
+        "source_sentence": "自稱仕人神者必是猨猴[狂-王+加]玃。",
         "from": "T52n2102_014:0092a01_15",
         "context_with_next_sentence": true
     },
@@ -2830,7 +2830,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "勤馬[起巳+參][起巳+覃]以騰擲。",
+        "source_sentence": "勤馬[起-巳+參][起-巳+覃]以騰擲。",
         "from": "T52n2102_014:0094b26_8",
         "context_with_next_sentence": true
     },

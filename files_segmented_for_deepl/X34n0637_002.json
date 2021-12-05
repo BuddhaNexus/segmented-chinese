@@ -3695,7 +3695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "其葉[蕸(巨匚)+几](下加反)其本蔤。",
+        "source_sentence": "其葉[蕸-(巨-匚)+几](下加反)其本蔤。",
         "from": "X34n0637_002:0149c04_1",
         "context_with_next_sentence": true
     },
@@ -12155,7 +12155,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大車無[貌豸+車]。",
+        "source_sentence": "大車無[貌-豸+車]。",
         "from": "X34n0637_002:0155c11_1",
         "context_with_next_sentence": true
     },
@@ -12175,7 +12175,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[貌豸+車]者。",
+        "source_sentence": "[貌-豸+車]者。",
         "from": "X34n0637_002:0155c12_1",
         "context_with_next_sentence": true
     },
@@ -12210,12 +12210,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "礙車輪為[貌豸+車]也。",
+        "source_sentence": "礙車輪為[貌-豸+車]也。",
         "from": "X34n0637_002:0155c13_4",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[車*(冗几+且)]古[貌豸+車]字。",
+        "source_sentence": "[車*(冗-几+且)]古[貌-豸+車]字。",
         "from": "X34n0637_002:0155c14_5",
         "context_with_next_sentence": true
     },
@@ -16020,7 +16020,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "母病[病丙+兼]出膿。",
+        "source_sentence": "母病[病-丙+兼]出膿。",
         "from": "X34n0637_002:0158b24_10",
         "context_with_next_sentence": true
     },
@@ -16110,7 +16110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "所居井桔[棉巾+幸]柱。",
+        "source_sentence": "所居井桔[棉-巾+幸]柱。",
         "from": "X34n0637_002:0158c04_28",
         "context_with_next_sentence": true
     },
@@ -21590,7 +21590,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[(厂@((既旡)日+口))*頁]此為其。",
+        "source_sentence": "[(厂@((既-旡)-日+口))*頁]此為其。",
         "from": "X34n0637_002:0162c10_5",
         "context_with_next_sentence": true
     },
@@ -24290,7 +24290,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一[燐火+角]角喻。",
+        "source_sentence": "一䚬角喻。",
         "from": "X34n0637_002:0164b23_0",
         "context_with_next_sentence": true
     },
@@ -30977,6 +30977,36 @@
     {
         "source_sentence": "法華疏決擇記第二",
         "from": "X34n0637_002:0169c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文治五年(己酉)九月二十三日午尅。",
+        "from": "X34n0637_002:0169c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於東勝院西房。",
+        "from": "X34n0637_002:0169c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "資養病痾之身。",
+        "from": "X34n0637_002:0169c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "拋萬事書寫畢。",
+        "from": "X34n0637_002:0169c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "執筆信遍。",
+        "from": "X34n0637_002:0169c11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同六年戌正月十七日午尅於北戒壇一交畢。",
+        "from": "X34n0637_002:0169c12_0",
         "context_with_next_sentence": false
     }
 ]

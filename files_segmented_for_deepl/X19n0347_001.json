@@ -55,7 +55,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "消散歸虗[壑土+丘]。",
+        "source_sentence": "消散歸虗[壑-土+丘]。",
         "from": "X19n0347_001:0549a17_3",
         "context_with_next_sentence": true
     },
@@ -2595,8 +2595,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不",
+        "source_sentence": "不受諸法。",
         "from": "X19n0347_001:0552b07_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "漏盡意解。",
+        "from": "X19n0347_001:0552b08_20",
         "context_with_next_sentence": false
     }
 ]

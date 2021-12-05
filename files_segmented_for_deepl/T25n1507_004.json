@@ -2110,7 +2110,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "時有五百賈客，乘船入海採寶，值此大魚[榻木+口]船，垂欲入口。",
+        "source_sentence": "時有五百賈客，乘船入海採寶，值此大魚[榻-木+口]船，垂欲入口。",
         "from": "T25n1507_004:0045b25_17",
         "context_with_next_sentence": true
     },

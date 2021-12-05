@@ -5955,7 +5955,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[序予+禾]者(靡皮反)。",
+        "source_sentence": "[序-予+禾]者(靡皮反)。",
         "from": "X43n0737_012:0317b23_18",
         "context_with_next_sentence": true
     },
@@ -5965,7 +5965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "呼為[序予+禾]。",
+        "source_sentence": "呼為[序-予+禾]。",
         "from": "X43n0737_012:0317b24_20",
         "context_with_next_sentence": true
     },
@@ -9480,7 +9480,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "好罅(呼亞反。",
+        "source_sentence": "好&#;(呼亞反。",
         "from": "X43n0737_012:0320a20_16",
         "context_with_next_sentence": true
     },
@@ -9895,7 +9895,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "乃轉缽四面局之。",
+        "source_sentence": "乃轉盋四面局之。",
         "from": "X43n0737_012:0320b19_17",
         "context_with_next_sentence": true
     },
@@ -11695,7 +11695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "謂[飢几+倉]觸著所踏水上。",
+        "source_sentence": "謂&#;觸著所踏水上。",
         "from": "X43n0737_012:0321c18_2",
         "context_with_next_sentence": true
     },
@@ -25415,7 +25415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二[阿可+台]針筒。",
+        "source_sentence": "二[阿-可+台]針筒。",
         "from": "X43n0737_012:0332a17_4",
         "context_with_next_sentence": true
     },
@@ -26330,7 +26330,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "則[澗日+活]三尺。",
+        "source_sentence": "則[澗-日+活]三尺。",
         "from": "X43n0737_012:0332c16_0",
         "context_with_next_sentence": true
     },
@@ -29195,7 +29195,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "食粘手[(厂@((既旡)日+口))*本]振之。",
+        "source_sentence": "食粘手[(厂@((既-旡)-日+口))*本]振之。",
         "from": "X43n0737_012:0335a01_36",
         "context_with_next_sentence": true
     },
@@ -29857,6 +29857,11 @@
     {
         "source_sentence": "四分律鈔簡正記卷第十二",
         "from": "X43n0737_012:0335b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吳越國天長寺長講律臨壇崇福普濟戒光大德賜紫志貞寫此一部丁巳歲記焉",
+        "from": "X43n0737_012:0335b16_0",
         "context_with_next_sentence": false
     }
 ]

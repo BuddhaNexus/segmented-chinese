@@ -545,7 +545,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "如世尊說：『凡[穀禾+牛]乳者不應令盡。』",
+        "source_sentence": "如世尊說：『凡[穀-禾+牛]乳者不應令盡。』",
         "from": "T23n1442_024:0756a27_10",
         "context_with_next_sentence": true
     },

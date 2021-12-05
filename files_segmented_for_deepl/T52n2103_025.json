@@ -2695,7 +2695,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "或有接近廛邸隣邇屠酤。",
+        "source_sentence": "或有接近&#;邸隣邇屠酤。",
         "from": "T52n2103_025:0283b24_34",
         "context_with_next_sentence": true
     },
@@ -8415,7 +8415,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "振錫異乎簪[卄/(爾*(乏之+(犮乂+又)))]。",
+        "source_sentence": "振錫異乎簪[卄/(爾*(乏-之+(犮-乂+又)))]。",
         "from": "T52n2103_025:0289b12_4",
         "context_with_next_sentence": true
     },
@@ -9520,7 +9520,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "情用[怡台+迴]惶輒此投訴。",
+        "source_sentence": "情用[怡-台+迴]惶輒此投訴。",
         "from": "T52n2103_025:0290c02_15",
         "context_with_next_sentence": true
     },
@@ -10842,6 +10842,241 @@
     {
         "source_sentence": "廣弘明集卷第二十五",
         "from": "T52n2103_025:0291c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隋煬帝大業三年新下律令格式令云。",
+        "from": "T52n2103_025:0292a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸僧道士等有所啟請者。",
+        "from": "T52n2103_025:0292a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "並先須致敬然後陳理。",
+        "from": "T52n2103_025:0292a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖有此令僧竟不行。",
+        "from": "T52n2103_025:0292a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時沙門釋彥琮不忍其事。",
+        "from": "T52n2103_025:0292a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃著福田論以抗之。",
+        "from": "T52n2103_025:0292a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意在諷刺言之者無罪聞之者以自誡也。",
+        "from": "T52n2103_025:0292a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帝後朝見諸沙門並無致敬者。",
+        "from": "T52n2103_025:0292a05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大業五年至西京郊南大張文物兩宗朝見僧等依舊不拜。",
+        "from": "T52n2103_025:0292a06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下勅曰。",
+        "from": "T52n2103_025:0292a07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "條令久行僧等何為不致敬。",
+        "from": "T52n2103_025:0292a07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時明贍法師對曰。",
+        "from": "T52n2103_025:0292a08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陛下弘護三寶。",
+        "from": "T52n2103_025:0292a08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當順佛言。",
+        "from": "T52n2103_025:0292a09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經中不令拜俗。",
+        "from": "T52n2103_025:0292a09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所以不敢違教。",
+        "from": "T52n2103_025:0292a09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又勅曰。",
+        "from": "T52n2103_025:0292a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若不拜敬。",
+        "from": "T52n2103_025:0292a10_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宋武時何以致敬。",
+        "from": "T52n2103_025:0292a10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "對曰。",
+        "from": "T52n2103_025:0292a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宋武虐君偏政不敬交有誅戮。",
+        "from": "T52n2103_025:0292a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陛下異此無得下拜。",
+        "from": "T52n2103_025:0292a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勅曰但拜。",
+        "from": "T52n2103_025:0292a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧等峙然如是。",
+        "from": "T52n2103_025:0292a12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "數四令拜。",
+        "from": "T52n2103_025:0292a12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧曰。",
+        "from": "T52n2103_025:0292a13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陛下必令僧拜。",
+        "from": "T52n2103_025:0292a13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當脫法服著俗衣此拜不晚帝夷然無何而止。",
+        "from": "T52n2103_025:0292a13_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明日設大齋法祀都不述之。",
+        "from": "T52n2103_025:0292a14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後語群公曰。",
+        "from": "T52n2103_025:0292a15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "朕謂僧中無人。",
+        "from": "T52n2103_025:0292a15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昨南郊對答亦有人矣。",
+        "from": "T52n2103_025:0292a15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾後至終必無拜者。",
+        "from": "T52n2103_025:0292a16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其黃巾士女初聞令拜合一李眾連拜不已。",
+        "from": "T52n2103_025:0292a16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帝亦不齒問之。",
+        "from": "T52n2103_025:0292a17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "議拜者。",
+        "from": "T52n2103_025:0292a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明沙門應致拜也。",
+        "from": "T52n2103_025:0292a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔皇覺御宇。",
+        "from": "T52n2103_025:0292a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尚開信毀之源。",
+        "from": "T52n2103_025:0292a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈唯像末不流弘約之議。",
+        "from": "T52n2103_025:0292a20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頃以法海宏曠類聚難分有穢玄猷。",
+        "from": "T52n2103_025:0292a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頗聞朝聽致使拘文之士。",
+        "from": "T52n2103_025:0292a21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廢道從人較而言之。",
+        "from": "T52n2103_025:0292a22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未曰通方之巨唱也。",
+        "from": "T52n2103_025:0292a22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余所以考諸。",
+        "from": "T52n2103_025:0292a23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故實隨而彈焉。",
+        "from": "T52n2103_025:0292a23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "庶崇佛君子或能詳覽。",
+        "from": "T52n2103_025:0292a24_11",
         "context_with_next_sentence": false
     }
 ]

@@ -3985,7 +3985,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "合則以見諸類通[泳永+曶]。",
+        "source_sentence": "合則以見諸類通[泳-永+曶]。",
         "from": "X16n0317_010:0742a16_15",
         "context_with_next_sentence": true
     },
@@ -4005,7 +4005,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "通[泳永+曶]者。",
+        "source_sentence": "通[泳-永+曶]者。",
         "from": "X16n0317_010:0742a17_19",
         "context_with_next_sentence": true
     },
@@ -7030,7 +7030,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "由是驗之。",
+        "source_sentence": "由是騐之。",
         "from": "X16n0317_010:0744c24_10",
         "context_with_next_sentence": true
     },
@@ -8917,6 +8917,1236 @@
     {
         "source_sentence": "首楞嚴經正見卷第十(終)",
         "from": "X16n0317_010:0746c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "首楞嚴經正見後序",
+        "from": "X16n0317_010:0746c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余嘗聞尊宿論及大藏。",
+        "from": "X16n0317_010:0746c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟楞嚴一經。",
+        "from": "X16n0317_010:0746c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能啟眾生妙悟。",
+        "from": "X16n0317_010:0746c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為入道指南。",
+        "from": "X16n0317_010:0746c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第註疏頗多。",
+        "from": "X16n0317_010:0746c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "求其直指覺性頓釋迷途者。",
+        "from": "X16n0317_010:0746c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "葢寥寥也。",
+        "from": "X16n0317_010:0746c20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乙亥冬。",
+        "from": "X16n0317_010:0746c20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "始侍　九峰左右。",
+        "from": "X16n0317_010:0746c20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "朝夕追隨。",
+        "from": "X16n0317_010:0746c20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "耳提面命。",
+        "from": "X16n0317_010:0746c20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "語及大乘義理。",
+        "from": "X16n0317_010:0746c21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "滔滔若江河之不竭。",
+        "from": "X16n0317_010:0746c21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "篋中有楞嚴正見十卷。",
+        "from": "X16n0317_010:0746c21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃和尚平日之著作也。",
+        "from": "X16n0317_010:0746c22_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其間分科立段。",
+        "from": "X16n0317_010:0746c22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "註釋詳明。",
+        "from": "X16n0317_010:0746c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真詮實理。",
+        "from": "X16n0317_010:0746c23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "發我佛之未發。",
+        "from": "X16n0317_010:0746c23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "立豁群迷。",
+        "from": "X16n0317_010:0746c23_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明列聖之未明。",
+        "from": "X16n0317_010:0746c23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可使塵點劫前死灰起舞。",
+        "from": "X16n0317_010:0746c24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "恒沙界外瓦礫騰輝。",
+        "from": "X16n0317_010:0746c24_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誠濟世利生之寶筏也。",
+        "from": "X16n0317_010:0747a01_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖欲不傳。",
+        "from": "X16n0317_010:0747a01_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其可得乎。",
+        "from": "X16n0317_010:0747a01_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨有議之者曰。",
+        "from": "X16n0317_010:0747a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宗教兩途。",
+        "from": "X16n0317_010:0747a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "似於禪流為分外。",
+        "from": "X16n0317_010:0747a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余笑對曰。",
+        "from": "X16n0317_010:0747a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宗之與教。",
+        "from": "X16n0317_010:0747a03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可判兩途。",
+        "from": "X16n0317_010:0747a03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黃面瞿曇。",
+        "from": "X16n0317_010:0747a03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不當合轍。",
+        "from": "X16n0317_010:0747a03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔有僧問巴陵鑒禪師云。",
+        "from": "X16n0317_010:0747a03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "祖意教義。",
+        "from": "X16n0317_010:0747a04_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是同是別。",
+        "from": "X16n0317_010:0747a04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鑒云。",
+        "from": "X16n0317_010:0747a04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鷄寒上樹。",
+        "from": "X16n0317_010:0747a04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鴨寒下水。",
+        "from": "X16n0317_010:0747a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此二語又何分焉。",
+        "from": "X16n0317_010:0747a05_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "這裏請下一轉看。",
+        "from": "X16n0317_010:0747a05_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吁。",
+        "from": "X16n0317_010:0747a05_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惜乎其不審佛理。",
+        "from": "X16n0317_010:0747a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不悟自心。",
+        "from": "X16n0317_010:0747a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以管窺天。",
+        "from": "X16n0317_010:0747a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以蠡測海。",
+        "from": "X16n0317_010:0747a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天海固如是耶。",
+        "from": "X16n0317_010:0747a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我和尚道闡宗風。",
+        "from": "X16n0317_010:0747a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住婁多載。",
+        "from": "X16n0317_010:0747a07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不事攀援。",
+        "from": "X16n0317_010:0747a07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不求炫世。",
+        "from": "X16n0317_010:0747a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟褁足深山。",
+        "from": "X16n0317_010:0747a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樂與往來學道人。",
+        "from": "X16n0317_010:0747a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諄諄指示。",
+        "from": "X16n0317_010:0747a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不吝婆心。",
+        "from": "X16n0317_010:0747a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是經之在篋中。",
+        "from": "X16n0317_010:0747a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二十餘年。",
+        "from": "X16n0317_010:0747a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人莫之知。",
+        "from": "X16n0317_010:0747a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "余既見之。",
+        "from": "X16n0317_010:0747a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安忍以覺世之津梁膜外視之。",
+        "from": "X16n0317_010:0747a10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂發誓願。",
+        "from": "X16n0317_010:0747a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲付剞劂。",
+        "from": "X16n0317_010:0747a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣求同志。",
+        "from": "X16n0317_010:0747a11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "共襄斯舉。",
+        "from": "X16n0317_010:0747a11_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兩歷寒暑。",
+        "from": "X16n0317_010:0747a11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "始得告竣。",
+        "from": "X16n0317_010:0747a11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其間感應召致之機緣不一而足。",
+        "from": "X16n0317_010:0747a11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此誠我佛之欲廣其傳也。",
+        "from": "X16n0317_010:0747a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不將與天壤永垂不朽哉。",
+        "from": "X16n0317_010:0747a13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫經之不朽。",
+        "from": "X16n0317_010:0747a13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即我佛之慧燈不朽。",
+        "from": "X16n0317_010:0747a13_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即我和尚之妙覺。",
+        "from": "X16n0317_010:0747a14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦與為不朽也。",
+        "from": "X16n0317_010:0747a14_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因將諸同志姓氏。",
+        "from": "X16n0317_010:0747a14_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一刊附簡端。",
+        "from": "X16n0317_010:0747a15_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而并述其始末。",
+        "from": "X16n0317_010:0747a15_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "學人道一薰沐拜跋後序道一髫年出家。",
+        "from": "X16n0317_010:0747a15_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即學諸經典。",
+        "from": "X16n0317_010:0747a22_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦如邨塾課四書相似。",
+        "from": "X16n0317_010:0747a22_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "秪要熟背。",
+        "from": "X16n0317_010:0747a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "弗攷義理。",
+        "from": "X16n0317_010:0747a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迨至剃染受具成僧。",
+        "from": "X16n0317_010:0747a23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "間取金剛經誦一過。",
+        "from": "X16n0317_010:0747a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "茫然弗知也。",
+        "from": "X16n0317_010:0747a24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "只是唵烏豆眡黑白而已。",
+        "from": "X16n0317_010:0747a24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吁可慨也。",
+        "from": "X16n0317_010:0747a24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由是懷疑。",
+        "from": "X16n0317_010:0747b01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不知此經何尊。",
+        "from": "X16n0317_010:0747b01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而使天龍擁護。",
+        "from": "X16n0317_010:0747b01_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "冥臺見重若是。",
+        "from": "X16n0317_010:0747b01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又不知此經何貴。",
+        "from": "X16n0317_010:0747b02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上至王公大人。",
+        "from": "X16n0317_010:0747b02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下及里閈黎庶。",
+        "from": "X16n0317_010:0747b02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喃喃敬持若是。",
+        "from": "X16n0317_010:0747b03_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃憮然歎曰。",
+        "from": "X16n0317_010:0747b03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛非世間人也。",
+        "from": "X16n0317_010:0747b03_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法非世間法也。",
+        "from": "X16n0317_010:0747b04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我安可以世間尋常見解意識消繳為哉。",
+        "from": "X16n0317_010:0747b04_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖然。",
+        "from": "X16n0317_010:0747b05_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予生愚魯。",
+        "from": "X16n0317_010:0747b05_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必欲明之。",
+        "from": "X16n0317_010:0747b05_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第懷念蓄志。",
+        "from": "X16n0317_010:0747b05_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已數年矣。",
+        "from": "X16n0317_010:0747b05_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "究竟弗能諭我心耳。",
+        "from": "X16n0317_010:0747b06_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此非予之憃耶。",
+        "from": "X16n0317_010:0747b06_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乙亥冬。",
+        "from": "X16n0317_010:0747b06_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "始覲　九峰老人。",
+        "from": "X16n0317_010:0747b06_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "室中偶閱金剛提要一書。",
+        "from": "X16n0317_010:0747b07_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "快哉快哉。",
+        "from": "X16n0317_010:0747b07_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令人讀之。",
+        "from": "X16n0317_010:0747b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若揭日月而覩青天。",
+        "from": "X16n0317_010:0747b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若臨青溪而識自己面目。",
+        "from": "X16n0317_010:0747b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分章析義。",
+        "from": "X16n0317_010:0747b09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鑿路津津。",
+        "from": "X16n0317_010:0747b09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "儼似如來金口。",
+        "from": "X16n0317_010:0747b09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一模脫出。",
+        "from": "X16n0317_010:0747b09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "泛觀他本疏記繁雜。",
+        "from": "X16n0317_010:0747b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "科判倒錯。",
+        "from": "X16n0317_010:0747b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如舉案於飽人之前。",
+        "from": "X16n0317_010:0747b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "味雖佳美。",
+        "from": "X16n0317_010:0747b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟恐其不早除去之也。",
+        "from": "X16n0317_010:0747b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於是慶幸無量。",
+        "from": "X16n0317_010:0747b11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悲喜交集。",
+        "from": "X16n0317_010:0747b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗚呼。",
+        "from": "X16n0317_010:0747b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "焉得此經此義。",
+        "from": "X16n0317_010:0747b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流布于天下。",
+        "from": "X16n0317_010:0747b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使人人開此光明。",
+        "from": "X16n0317_010:0747b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以見自心。",
+        "from": "X16n0317_010:0747b13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以見佛心。",
+        "from": "X16n0317_010:0747b13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈非一大盛事也哉。",
+        "from": "X16n0317_010:0747b13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故勒四十八願。",
+        "from": "X16n0317_010:0747b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勸諸同志。",
+        "from": "X16n0317_010:0747b14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫不歡喜信受。",
+        "from": "X16n0317_010:0747b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬付剞劂。",
+        "from": "X16n0317_010:0747b14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "用廣其傳。",
+        "from": "X16n0317_010:0747b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且桃竹非心。",
+        "from": "X16n0317_010:0747b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尚使古賢立地成佛。",
+        "from": "X16n0317_010:0747b15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "木樨非佛。",
+        "from": "X16n0317_010:0747b15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能教根利言下明心。",
+        "from": "X16n0317_010:0747b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "況以心契心。",
+        "from": "X16n0317_010:0747b16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "滴水傳器。",
+        "from": "X16n0317_010:0747b16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又何有文字相礙我眼光哉。",
+        "from": "X16n0317_010:0747b16_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願諸同人幸相勉焉。",
+        "from": "X16n0317_010:0747b17_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九峰學人道一沐手敬題於且閒室中",
+        "from": "X16n0317_010:0747b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無名正見禪人後序",
+        "from": "X16n0317_010:0747c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "楞嚴正見者。",
+        "from": "X16n0317_010:0747c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃定慧之別名也。",
+        "from": "X16n0317_010:0747c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍摩他三摩禪那。",
+        "from": "X16n0317_010:0747c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即定慧均等。",
+        "from": "X16n0317_010:0747c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "馬鳴唯止。",
+        "from": "X16n0317_010:0747c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "示其楞嚴大定。",
+        "from": "X16n0317_010:0747c07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍樹惟觀。",
+        "from": "X16n0317_010:0747c07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即顯三昧正見。",
+        "from": "X16n0317_010:0747c07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天台智者止觀雙舉。",
+        "from": "X16n0317_010:0747c08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無非不出定慧均等。",
+        "from": "X16n0317_010:0747c08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿難多聞。",
+        "from": "X16n0317_010:0747c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "落邪思邪見。",
+        "from": "X16n0317_010:0747c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "招淫術之患。",
+        "from": "X16n0317_010:0747c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "只因有慧無定。",
+        "from": "X16n0317_010:0747c09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未得三昧正見。",
+        "from": "X16n0317_010:0747c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來七破。",
+        "from": "X16n0317_010:0747c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿難覔心無處。",
+        "from": "X16n0317_010:0747c10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即指示阿難。",
+        "from": "X16n0317_010:0747c10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明自本性。",
+        "from": "X16n0317_010:0747c11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得入正定究竟。",
+        "from": "X16n0317_010:0747c11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從此下手立脚。",
+        "from": "X16n0317_010:0747c11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後又八還十顯。",
+        "from": "X16n0317_010:0747c11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "結解綰巾。",
+        "from": "X16n0317_010:0747c12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "指明大眾。",
+        "from": "X16n0317_010:0747c12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得其正見三昧。",
+        "from": "X16n0317_010:0747c12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "識本達源。",
+        "from": "X16n0317_010:0747c12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "參禪者自此轉機。",
+        "from": "X16n0317_010:0747c13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "滿慈子知清淨本然。",
+        "from": "X16n0317_010:0747c13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不入正位。",
+        "from": "X16n0317_010:0747c13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "墮在諸數。",
+        "from": "X16n0317_010:0747c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文殊菩薩。",
+        "from": "X16n0317_010:0747c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悟文殊不可得。",
+        "from": "X16n0317_010:0747c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬相皆空。",
+        "from": "X16n0317_010:0747c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如二祖見達摩初祖。",
+        "from": "X16n0317_010:0747c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "要求安心法。",
+        "from": "X16n0317_010:0747c15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初云。",
+        "from": "X16n0317_010:0747c15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "將心來與安。",
+        "from": "X16n0317_010:0747c15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二云。",
+        "from": "X16n0317_010:0747c15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覔心了不可得。",
+        "from": "X16n0317_010:0747c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初云。",
+        "from": "X16n0317_010:0747c16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與汝安心久矣。",
+        "from": "X16n0317_010:0747c16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二祖忽然大悟。",
+        "from": "X16n0317_010:0747c16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當下解脫意合此也。",
+        "from": "X16n0317_010:0747c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀音初於聞時。",
+        "from": "X16n0317_010:0747c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入流忘所。",
+        "from": "X16n0317_010:0747c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "動靜不生。",
+        "from": "X16n0317_010:0747c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即楞嚴大定。",
+        "from": "X16n0317_010:0747c18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如香岩擊竹聞聲悟道云。",
+        "from": "X16n0317_010:0747c18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一擊忘所知。",
+        "from": "X16n0317_010:0747c18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與此無二無別。",
+        "from": "X16n0317_010:0747c19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又轉機起用。",
+        "from": "X16n0317_010:0747c19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是漸增。",
+        "from": "X16n0317_010:0747c19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞所聞盡。",
+        "from": "X16n0317_010:0747c19_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "微細至生滅寂滅現前。",
+        "from": "X16n0317_010:0747c20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忽然頓悟得金剛三昧。",
+        "from": "X16n0317_010:0747c20_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "粉粹身心。",
+        "from": "X16n0317_010:0747c20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三十二應。",
+        "from": "X16n0317_010:0747c21_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如華嚴善才向南參。",
+        "from": "X16n0317_010:0747c21_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入彌勒閣。",
+        "from": "X16n0317_010:0747c21_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彌勒彈指。",
+        "from": "X16n0317_010:0747c21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樓門自開。",
+        "from": "X16n0317_010:0747c22_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分身千萬億。",
+        "from": "X16n0317_010:0747c22_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與此無殊。",
+        "from": "X16n0317_010:0747c22_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(南即自心內逆順境界。",
+        "from": "X16n0317_010:0747c22_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一透過差別智。",
+        "from": "X16n0317_010:0747c23_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫向外求)所以文殊拈偈云。",
+        "from": "X16n0317_010:0747c23_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖性無不通。",
+        "from": "X16n0317_010:0747c23_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "順逆皆方便。",
+        "from": "X16n0317_010:0747c23_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二十五圓通。",
+        "from": "X16n0317_010:0747c24_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從三科七大。",
+        "from": "X16n0317_010:0747c24_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各悟根本大智。",
+        "from": "X16n0317_010:0747c24_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三界勝流。",
+        "from": "X16n0317_010:0747c24_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依四禪八定。",
+        "from": "X16n0317_010:0748a01_30",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "終歸頑空境界。",
+        "from": "X16n0317_010:0748a01_31",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六十聖位。",
+        "from": "X16n0317_010:0748a01_32",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依戒定慧。",
+        "from": "X16n0317_010:0748a01_33",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入涅槃性海。",
+        "from": "X16n0317_010:0748a02_34",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無聞比丘住寂滅定。",
+        "from": "X16n0317_010:0748a02_35",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "絕斷思想。",
+        "from": "X16n0317_010:0748a02_36",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "成枯禪入死觀。",
+        "from": "X16n0317_010:0748a02_37",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "似氷凌魚。",
+        "from": "X16n0317_010:0748a03_38",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如石葢草。",
+        "from": "X16n0317_010:0748a03_39",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "命根不斷。",
+        "from": "X16n0317_010:0748a03_40",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後招地獄苦趣。",
+        "from": "X16n0317_010:0748a03_41",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆因有定無慧。",
+        "from": "X16n0317_010:0748a04_42",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非正定也。",
+        "from": "X16n0317_010:0748a04_43",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "定慧若均。",
+        "from": "X16n0317_010:0748a04_44",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陰魔不入。",
+        "from": "X16n0317_010:0748a04_45",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "定慧不均。",
+        "from": "X16n0317_010:0748a05_46",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必招魔境。",
+        "from": "X16n0317_010:0748a05_47",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即今行者。",
+        "from": "X16n0317_010:0748a05_48",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當下若舉父母未生以前。",
+        "from": "X16n0317_010:0748a05_49",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "追求下去。",
+        "from": "X16n0317_010:0748a06_50",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "內無身心。",
+        "from": "X16n0317_010:0748a06_51",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "外無世界。",
+        "from": "X16n0317_010:0748a06_52",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "窮盡根源。",
+        "from": "X16n0317_010:0748a06_53",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與過去諸佛無異。",
+        "from": "X16n0317_010:0748a06_54",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若也未然。",
+        "from": "X16n0317_010:0748a07_55",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "落與他家外道禪矣。",
+        "from": "X16n0317_010:0748a07_56",
         "context_with_next_sentence": false
     }
 ]

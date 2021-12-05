@@ -1075,8 +1075,13 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "所諫之語是傍僧言",
+        "source_sentence": "所諫之語是傍僧言有愛有恚。",
         "from": "T85n2790_001:0654a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故僧殘。",
+        "from": "T85n2790_001:0654a13_3",
         "context_with_next_sentence": false
     }
 ]

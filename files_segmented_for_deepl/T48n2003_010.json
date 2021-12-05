@@ -170,7 +170,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "於中書一牛字(草[葶丁+呆]不勞拈出。",
+        "source_sentence": "於中書一牛字(草[葶-丁+呆]不勞拈出。",
         "from": "T48n2003_010:0215c09_24",
         "context_with_next_sentence": true
     },
@@ -4880,7 +4880,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "剎竿頭上煎[飢几+追]子。",
+        "source_sentence": "剎竿頭上煎[飢-几+追]子。",
         "from": "T48n2003_010:0219b18_4",
         "context_with_next_sentence": true
     },
@@ -10845,8 +10845,1538 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　詒(音待欺也)　囓(倪結切噬也)　萬斛盈舟信手拏　　却因一粒甕吞蛇　拈提百轉舊公案　　撒却時人幾眼沙佛果圜悟禪師碧巖錄卷第十(終)",
+        "source_sentence": "　詒(音待欺也)　囓(倪結切噬也)　萬斛盈舟信手拏　　却因一粒甕吞蛇　拈提百轉舊公案　　撒却時人幾眼沙佛果圜悟禪師碧巖錄卷第十(終)後序雪竇頌古百則。",
         "from": "T48n2003_010:0224b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "叢林學道詮要也。",
+        "from": "T48n2003_010:0224b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其間取譬經論或儒家文史。",
+        "from": "T48n2003_010:0224b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以發明此事。",
+        "from": "T48n2003_010:0224b09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非具眼宗匠時為後學擊揚剖析。",
+        "from": "T48n2003_010:0224b09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則無以知之。",
+        "from": "T48n2003_010:0224b10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圜悟老師。",
+        "from": "T48n2003_010:0224b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在成都時。",
+        "from": "T48n2003_010:0224b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予與諸人請益其說。",
+        "from": "T48n2003_010:0224b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師後住夾山道林。",
+        "from": "T48n2003_010:0224b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復為學徒扣之。",
+        "from": "T48n2003_010:0224b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡三提宗綱。",
+        "from": "T48n2003_010:0224b12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "語雖不同。",
+        "from": "T48n2003_010:0224b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其旨一也。",
+        "from": "T48n2003_010:0224b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "門人掇而錄之。",
+        "from": "T48n2003_010:0224b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既二十年矣。",
+        "from": "T48n2003_010:0224b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師未甞過而問焉。",
+        "from": "T48n2003_010:0224b14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流傳四方。",
+        "from": "T48n2003_010:0224b14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或致踳駁。",
+        "from": "T48n2003_010:0224b14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸方且因其言以其道不能尋繹之。",
+        "from": "T48n2003_010:0224b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而妄有改作。",
+        "from": "T48n2003_010:0224b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則此書遂廢矣。",
+        "from": "T48n2003_010:0224b16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "學者幸諦其傳焉。",
+        "from": "T48n2003_010:0224b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宣和乙巳春暮上休。",
+        "from": "T48n2003_010:0224b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "[刀/牛]人關友無黨記。",
+        "from": "T48n2003_010:0224b17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "重刊圜悟禪師碧巖集疏",
+        "from": "T48n2003_010:0224b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雪竇頌古百則圜悟重下注脚。",
+        "from": "T48n2003_010:0224b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "單示叢林。",
+        "from": "T48n2003_010:0224b20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永垂宗旨經也。",
+        "from": "T48n2003_010:0224b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "學人機鋒捷出。",
+        "from": "T48n2003_010:0224b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大慧密室勘辨。",
+        "from": "T48n2003_010:0224b21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知無實詣。",
+        "from": "T48n2003_010:0224b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毀梓不傳權也。",
+        "from": "T48n2003_010:0224b22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此書諸佛正眼列祖大機。",
+        "from": "T48n2003_010:0224b22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "兩經鉗鎚。",
+        "from": "T48n2003_010:0224b23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一無瑕纇。",
+        "from": "T48n2003_010:0224b23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "茲欲與大慧長書並駕。",
+        "from": "T48n2003_010:0224b23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同圜悟心要兼行。",
+        "from": "T48n2003_010:0224b24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "揭杲日於迷途。",
+        "from": "T48n2003_010:0224b24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "指南鍼於慧海。",
+        "from": "T48n2003_010:0224b25_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "快然一覩。",
+        "from": "T48n2003_010:0224b25_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開彼群愚。",
+        "from": "T48n2003_010:0224b25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相與圓成。",
+        "from": "T48n2003_010:0224b26_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不無利益。",
+        "from": "T48n2003_010:0224b26_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幸甚。",
+        "from": "T48n2003_010:0224b26_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右伏以。",
+        "from": "T48n2003_010:0224b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十七歲便悟雲門睦州。",
+        "from": "T48n2003_010:0224b27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可道是口頭三昧。",
+        "from": "T48n2003_010:0224b27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二百年不見碧巖雪竇。",
+        "from": "T48n2003_010:0224b28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忽遭渠手下一交。",
+        "from": "T48n2003_010:0224b28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "怎忘得弓冶裘箕。",
+        "from": "T48n2003_010:0224b29_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫斷却兒孫種草。",
+        "from": "T48n2003_010:0224b29_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨人去脚跟後轉。",
+        "from": "T48n2003_010:0224b29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誰下得釣龍鉤。",
+        "from": "T48n2003_010:0224c01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有箇具眼目底來。",
+        "from": "T48n2003_010:0224c01_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不看作繫驢橛。",
+        "from": "T48n2003_010:0224c02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此事當如筏喻。",
+        "from": "T48n2003_010:0224c02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "他時自會筌忘。",
+        "from": "T48n2003_010:0224c02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "家家門戶透長安。",
+        "from": "T48n2003_010:0224c03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前者呼後者應。",
+        "from": "T48n2003_010:0224c03_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種種因緣歸大數。",
+        "from": "T48n2003_010:0224c03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔之廢今之興。",
+        "from": "T48n2003_010:0224c04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫怪山僧口多。",
+        "from": "T48n2003_010:0224c04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "終是老婆心切。",
+        "from": "T48n2003_010:0224c05_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不讀東土書。",
+        "from": "T48n2003_010:0224c05_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安知西來意。",
+        "from": "T48n2003_010:0224c05_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "重興一代宗風。",
+        "from": "T48n2003_010:0224c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖無南去雁。",
+        "from": "T48n2003_010:0224c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "看取北來魚。",
+        "from": "T48n2003_010:0224c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "便有十分消息。",
+        "from": "T48n2003_010:0224c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "持同文印。",
+        "from": "T48n2003_010:0224c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讀無盡燈。",
+        "from": "T48n2003_010:0224c07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謹疏。",
+        "from": "T48n2003_010:0224c07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今月　日疏",
+        "from": "T48n2003_010:0224c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圓悟老祖居夾山時。",
+        "from": "T48n2003_010:0224c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "集成此書。",
+        "from": "T48n2003_010:0224c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲天下後世知有佛祖玄奧。",
+        "from": "T48n2003_010:0224c10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈小補哉。",
+        "from": "T48n2003_010:0224c11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "老妙喜深患學者不根於道溺于知解。",
+        "from": "T48n2003_010:0224c11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由是毀之。",
+        "from": "T48n2003_010:0224c12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂其父子之間矛盾。",
+        "from": "T48n2003_010:0224c12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可乎。",
+        "from": "T48n2003_010:0224c13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今嵎中張居士重為板行。",
+        "from": "T48n2003_010:0224c13_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果何謂哉。",
+        "from": "T48n2003_010:0224c13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覽者宜自擇焉。",
+        "from": "T48n2003_010:0224c14_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大德壬寅中秋。",
+        "from": "T48n2003_010:0224c14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住天童第七世法孫比丘。",
+        "from": "T48n2003_010:0224c14_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨日拜手謹書。",
+        "from": "T48n2003_010:0224c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圜悟禪師。",
+        "from": "T48n2003_010:0224c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "評唱雪竇和尚頌古一百則。",
+        "from": "T48n2003_010:0224c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剖決玄微。",
+        "from": "T48n2003_010:0224c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "抉剔幽邃。",
+        "from": "T48n2003_010:0224c18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯列祖之機用。",
+        "from": "T48n2003_010:0224c18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開後學之心源。",
+        "from": "T48n2003_010:0224c18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "況妙智虛凝。",
+        "from": "T48n2003_010:0224c19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "神機默運。",
+        "from": "T48n2003_010:0224c19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "晶旭輝而玄扃洞照。",
+        "from": "T48n2003_010:0224c19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圓蟾升而幽室朗明。",
+        "from": "T48n2003_010:0224c20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈淺識而能致極哉。",
+        "from": "T48n2003_010:0224c20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後大慧禪師。",
+        "from": "T48n2003_010:0224c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因學人入室。",
+        "from": "T48n2003_010:0224c21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下語頗異。",
+        "from": "T48n2003_010:0224c21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "疑之纔勘而邪鋒自挫。",
+        "from": "T48n2003_010:0224c21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "再鞠而納欵。",
+        "from": "T48n2003_010:0224c22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自降曰。",
+        "from": "T48n2003_010:0224c22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我碧巖集中記來。",
+        "from": "T48n2003_010:0224c22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "實非有悟。",
+        "from": "T48n2003_010:0224c23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因慮其後不明根本。",
+        "from": "T48n2003_010:0224c23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "專尚語言以圖口捷。",
+        "from": "T48n2003_010:0224c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由是火之以救斯弊也。",
+        "from": "T48n2003_010:0224c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然成此書。",
+        "from": "T48n2003_010:0224c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "火此書。",
+        "from": "T48n2003_010:0224c25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其用心則一。",
+        "from": "T48n2003_010:0224c25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈有二哉。",
+        "from": "T48n2003_010:0224c25_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嵎中張明遠偶獲寫本後冊。",
+        "from": "T48n2003_010:0224c25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又獲雪堂刊本及蜀本。",
+        "from": "T48n2003_010:0224c26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "校訂訛舛。",
+        "from": "T48n2003_010:0224c27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "刊成此書。",
+        "from": "T48n2003_010:0224c27_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流通萬古。",
+        "from": "T48n2003_010:0224c27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使上根大智之士。",
+        "from": "T48n2003_010:0224c27_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一覽而頓開本心。",
+        "from": "T48n2003_010:0224c28_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "直造無疑之地。",
+        "from": "T48n2003_010:0224c28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈小補云乎哉。",
+        "from": "T48n2003_010:0224c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "延祐丁巳迎佛會日。",
+        "from": "T48n2003_010:0224c29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "徑山住持比丘。",
+        "from": "T48n2003_010:0224c29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "希陵拜書以為後序。",
+        "from": "T48n2003_010:0225a01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "儒門子貢極有功於東家聖人。",
+        "from": "T48n2003_010:0225a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "藉令良馬見鞭影而奔。",
+        "from": "T48n2003_010:0225a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆如瞠若乎後之顏子。",
+        "from": "T48n2003_010:0225a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾聖師遊乎何言之天久矣。",
+        "from": "T48n2003_010:0225a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靈山會上。",
+        "from": "T48n2003_010:0225a05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四眾海集。",
+        "from": "T48n2003_010:0225a05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊拈花宗旨。",
+        "from": "T48n2003_010:0225a05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸人罔措。",
+        "from": "T48n2003_010:0225a06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獨迦葉尊者。",
+        "from": "T48n2003_010:0225a06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "微為之破顏。",
+        "from": "T48n2003_010:0225a06_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與吾教中一唯之外口耳俱喪。",
+        "from": "T48n2003_010:0225a07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同一頓徹懸悟。",
+        "from": "T48n2003_010:0225a07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當時曾參。",
+        "from": "T48n2003_010:0225a08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不直下剖擊忠恕之祕鑰。",
+        "from": "T48n2003_010:0225a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈惟門人之惑滋甚。",
+        "from": "T48n2003_010:0225a08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "千載之下。",
+        "from": "T48n2003_010:0225a09_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以祛一貫之迷雲乎。",
+        "from": "T48n2003_010:0225a09_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "異時成都佛果圜悟老禪。",
+        "from": "T48n2003_010:0225a10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "笏夾山丈室。",
+        "from": "T48n2003_010:0225a10_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "拈提雪竇頌古百則。",
+        "from": "T48n2003_010:0225a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其大弟子杲上座。",
+        "from": "T48n2003_010:0225a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懼學人泥於言句。",
+        "from": "T48n2003_010:0225a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辜負從上諸祖。",
+        "from": "T48n2003_010:0225a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "取老和尚舌頭。",
+        "from": "T48n2003_010:0225a12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一截併付烈焰。",
+        "from": "T48n2003_010:0225a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煙而颺之拉[木*(天/韭)]堆。",
+        "from": "T48n2003_010:0225a13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自以巨壑太虛投置毫滴。",
+        "from": "T48n2003_010:0225a13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如古德德山賣弄油糍婆前。",
+        "from": "T48n2003_010:0225a14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此疏鈔已埃冷而無餘矣。",
+        "from": "T48n2003_010:0225a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "野火燒不盡。",
+        "from": "T48n2003_010:0225a15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "春風吹又生。",
+        "from": "T48n2003_010:0225a15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "花落碧巖。",
+        "from": "T48n2003_010:0225a16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陽坡如繡。",
+        "from": "T48n2003_010:0225a16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歷過去劫。",
+        "from": "T48n2003_010:0225a16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "死灰復然。",
+        "from": "T48n2003_010:0225a16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不知何許。",
+        "from": "T48n2003_010:0225a17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "許多葛藤。",
+        "from": "T48n2003_010:0225a17_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一從嵎中張居士手栽無影樹子上。",
+        "from": "T48n2003_010:0225a17_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "全體敗露。",
+        "from": "T48n2003_010:0225a18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "直得般若無說諸天雨花。",
+        "from": "T48n2003_010:0225a18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "百七八十年。",
+        "from": "T48n2003_010:0225a19_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衲僧驀地。",
+        "from": "T48n2003_010:0225a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "橫穿鼻孔。",
+        "from": "T48n2003_010:0225a19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從前不曾嗅底寶熏。",
+        "from": "T48n2003_010:0225a20_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一旦水湧雲蒸。",
+        "from": "T48n2003_010:0225a20_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於八萬四千毛孔。",
+        "from": "T48n2003_010:0225a20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悉普悉遍。",
+        "from": "T48n2003_010:0225a21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可謂甚深希有。",
+        "from": "T48n2003_010:0225a21_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "難值難遇之事。",
+        "from": "T48n2003_010:0225a21_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已而居士二子得心疾。",
+        "from": "T48n2003_010:0225a22_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或謂。",
+        "from": "T48n2003_010:0225a22_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勤寶經杲上座燬板。",
+        "from": "T48n2003_010:0225a22_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居士不當拾遺燼。",
+        "from": "T48n2003_010:0225a23_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而日月光景之故。",
+        "from": "T48n2003_010:0225a23_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受如是報。",
+        "from": "T48n2003_010:0225a24_26",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居士者疑其說。",
+        "from": "T48n2003_010:0225a24_27",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以質於予。",
+        "from": "T48n2003_010:0225a24_28",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予謂。",
+        "from": "T48n2003_010:0225a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圜悟門人人人而杲上座。",
+        "from": "T48n2003_010:0225a25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "碧巖自碧。",
+        "from": "T48n2003_010:0225a25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何得有說杲上座。",
+        "from": "T48n2003_010:0225a25_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見月亡指。",
+        "from": "T48n2003_010:0225a26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遂乃追尤古佛。",
+        "from": "T48n2003_010:0225a26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毒燎亘天。",
+        "from": "T48n2003_010:0225a26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倒却剎竿。",
+        "from": "T48n2003_010:0225a27_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不放一綫。",
+        "from": "T48n2003_010:0225a27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼未甞識月者。",
+        "from": "T48n2003_010:0225a27_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誰將乘一指而示之。",
+        "from": "T48n2003_010:0225a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或者又謂。",
+        "from": "T48n2003_010:0225a28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "杲上座火此書。",
+        "from": "T48n2003_010:0225a28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盟之社鬼者深重。",
+        "from": "T48n2003_010:0225a29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居士二子之患正坐此。",
+        "from": "T48n2003_010:0225a29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "予謂。",
+        "from": "T48n2003_010:0225b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當杲上座灼然秉炬時。",
+        "from": "T48n2003_010:0225b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煉得故紙通紅。",
+        "from": "T48n2003_010:0225b01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何緣密室通風。",
+        "from": "T48n2003_010:0225b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "老勤巴命門舌根。",
+        "from": "T48n2003_010:0225b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "別自有不壞處。",
+        "from": "T48n2003_010:0225b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一星迸散。",
+        "from": "T48n2003_010:0225b03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明月空山。",
+        "from": "T48n2003_010:0225b03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "張居士那裏得這消息來。",
+        "from": "T48n2003_010:0225b03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "把天然一段西蜀錦機。",
+        "from": "T48n2003_010:0225b04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依舊織作舊日花樣。",
+        "from": "T48n2003_010:0225b04_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意者主林神陰為之地。",
+        "from": "T48n2003_010:0225b05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "訶護至今。",
+        "from": "T48n2003_010:0225b05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "料亦是此書合出世因緣時節。",
+        "from": "T48n2003_010:0225b05_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清涼池上。",
+        "from": "T48n2003_010:0225b06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "針芥相逢。",
+        "from": "T48n2003_010:0225b06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則書寫讀誦。",
+        "from": "T48n2003_010:0225b07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為人演說之功。",
+        "from": "T48n2003_010:0225b07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應獲殊勝福德。",
+        "from": "T48n2003_010:0225b07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何況金石刻鏤。",
+        "from": "T48n2003_010:0225b08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "展轉流布。",
+        "from": "T48n2003_010:0225b08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居士二子之心疾根本。",
+        "from": "T48n2003_010:0225b08_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本不在此。",
+        "from": "T48n2003_010:0225b09_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "客作漢。",
+        "from": "T48n2003_010:0225b09_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妄以情識卜度。",
+        "from": "T48n2003_010:0225b09_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居士緣其目前不足計拔之禍福。",
+        "from": "T48n2003_010:0225b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦以情識卜度之。",
+        "from": "T48n2003_010:0225b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是相隨赴火坑也。",
+        "from": "T48n2003_010:0225b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈不冤哉。",
+        "from": "T48n2003_010:0225b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "冥驗記。",
+        "from": "T48n2003_010:0225b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沛國周氏。",
+        "from": "T48n2003_010:0225b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三子並瘖。",
+        "from": "T48n2003_010:0225b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一日有客造門曰。",
+        "from": "T48n2003_010:0225b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "君可內省宿愆。",
+        "from": "T48n2003_010:0225b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忽猛憶兒時見燕窠三子。",
+        "from": "T48n2003_010:0225b13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "伺其母出。",
+        "from": "T48n2003_010:0225b13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各以一蒺藜吞之。",
+        "from": "T48n2003_010:0225b14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斯須共斃。",
+        "from": "T48n2003_010:0225b14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "母還悲鳴而去。",
+        "from": "T48n2003_010:0225b14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常自悔責。",
+        "from": "T48n2003_010:0225b15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "客曰。",
+        "from": "T48n2003_010:0225b15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "君既知悔責。",
+        "from": "T48n2003_010:0225b15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "罪今免矣。",
+        "from": "T48n2003_010:0225b15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三子即皆能言。",
+        "from": "T48n2003_010:0225b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然則居士二子之病風喪心。",
+        "from": "T48n2003_010:0225b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得無亦有可悔恨之事乎。",
+        "from": "T48n2003_010:0225b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "談般若者。",
+        "from": "T48n2003_010:0225b17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若為人輕賤。",
+        "from": "T48n2003_010:0225b17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是人先世罪業應墮惡道。",
+        "from": "T48n2003_010:0225b18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以今世人輕賤故。",
+        "from": "T48n2003_010:0225b18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先世罪業即為消滅。",
+        "from": "T48n2003_010:0225b19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居士能於此有省。",
+        "from": "T48n2003_010:0225b19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縱無始劫來所造諸業。",
+        "from": "T48n2003_010:0225b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當應時消滅。",
+        "from": "T48n2003_010:0225b20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即君二子之心疾。",
+        "from": "T48n2003_010:0225b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當如周氏三子之應時能言。",
+        "from": "T48n2003_010:0225b21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可以不疑。",
+        "from": "T48n2003_010:0225b21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊住世。",
+        "from": "T48n2003_010:0225b22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四十九年。",
+        "from": "T48n2003_010:0225b22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六百函文字。",
+        "from": "T48n2003_010:0225b22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覆藏遍界。",
+        "from": "T48n2003_010:0225b22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若從杲上座之說。",
+        "from": "T48n2003_010:0225b23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "萬年一念。",
+        "from": "T48n2003_010:0225b23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更留踪跡作麼。",
+        "from": "T48n2003_010:0225b23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "向上禪林無限尊宿有兩句。",
+        "from": "T48n2003_010:0225b24_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最端的曰。",
+        "from": "T48n2003_010:0225b24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "任爾即心即佛。",
+        "from": "T48n2003_010:0225b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我但非心非佛。",
+        "from": "T48n2003_010:0225b25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今而後有謗如來正法輪者。",
+        "from": "T48n2003_010:0225b25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "君但應之曰。",
+        "from": "T48n2003_010:0225b26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "任汝說杲上座底是。",
+        "from": "T48n2003_010:0225b26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我只說勤老師底是。",
+        "from": "T48n2003_010:0225b27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若不如是。",
+        "from": "T48n2003_010:0225b27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即恐燎却面門。",
+        "from": "T48n2003_010:0225b27_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四百四病一時發矣。",
+        "from": "T48n2003_010:0225b28_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "將如居士二子心疾何。",
+        "from": "T48n2003_010:0225b28_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不見古人道。",
+        "from": "T48n2003_010:0225b29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "養子方知父母恩。",
+        "from": "T48n2003_010:0225b29_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居士學佛知恩。",
+        "from": "T48n2003_010:0225b29_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "臨老懺悔。",
+        "from": "T48n2003_010:0225c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "他日作家爐鞴。",
+        "from": "T48n2003_010:0225c01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "跳出丈六金身。",
+        "from": "T48n2003_010:0225c01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不知還見勤老師真箇揚眉竪拂否。",
+        "from": "T48n2003_010:0225c02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若還一句薦得。",
+        "from": "T48n2003_010:0225c03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "向道佛祖有誓。",
+        "from": "T48n2003_010:0225c03_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "罪不重科。",
+        "from": "T48n2003_010:0225c03_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莫殃及他家兒孫好。",
+        "from": "T48n2003_010:0225c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖然如是。",
+        "from": "T48n2003_010:0225c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且得沒交涉。",
+        "from": "T48n2003_010:0225c04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是年延祐丁巳中元日。",
+        "from": "T48n2003_010:0225c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "海粟老人馮子振題。",
+        "from": "T48n2003_010:0225c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "碧巖集行于世者數版。",
+        "from": "T48n2003_010:0225c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卷套多多。",
+        "from": "T48n2003_010:0225c07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "到上學徒盛笈非便也。",
+        "from": "T48n2003_010:0225c07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故(予)欲成小字縮行省紙冊。",
+        "from": "T48n2003_010:0225c08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有年所矣。",
+        "from": "T48n2003_010:0225c08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安政丁巳秋。",
+        "from": "T48n2003_010:0225c09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "篤信檀士戮力捨財。",
+        "from": "T48n2003_010:0225c09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喜資上木。",
+        "from": "T48n2003_010:0225c09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即命剞劂氏。",
+        "from": "T48n2003_010:0225c10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "事既竣焉。",
+        "from": "T48n2003_010:0225c10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喜捨刊梓製本賤價。",
+        "from": "T48n2003_010:0225c10_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "固予初志也。",
+        "from": "T48n2003_010:0225c11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若夫碧巖曲節。",
+        "from": "T48n2003_010:0225c11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先哲序跋善美盡盡。",
+        "from": "T48n2003_010:0225c11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "(予)何言乎。",
+        "from": "T48n2003_010:0225c12_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "簡省刻成。",
+        "from": "T48n2003_010:0225c12_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故書詹言於筴端。",
+        "from": "T48n2003_010:0225c12_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾安政六年歲在己未秋七月初吉勅住華園玉桃菴主萬寧玄彙敬識。",
+        "from": "T48n2003_010:0225c13_17",
         "context_with_next_sentence": false
     }
 ]

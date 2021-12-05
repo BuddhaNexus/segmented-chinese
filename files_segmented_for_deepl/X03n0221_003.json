@@ -3320,7 +3320,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "梵云[這言+(厂@若)]奈那。",
+        "source_sentence": "梵云[這-言+(厂@若)]奈那。",
         "from": "X03n0221_003:0617b23_10",
         "context_with_next_sentence": true
     },
@@ -5570,7 +5570,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五一切塵中用行無[得彳]。",
+        "source_sentence": "五一切塵中用行無[得-彳]。",
         "from": "X03n0221_003:0619c11_2",
         "context_with_next_sentence": true
     },
@@ -8115,7 +8115,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "五讚普身土鎔融依持無[得彳]。",
+        "source_sentence": "五讚普身土鎔融依持無[得-彳]。",
         "from": "X03n0221_003:0622b03_2",
         "context_with_next_sentence": true
     },
@@ -8725,7 +8725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "嚕迦駄都(世界)三慕達羅(海也)涅第奢(演說)[這言+(厂@若)]縛怛囊(觀察)三牟陀儉摩(合集)娜忙(名也)鉢里冗多。",
+        "source_sentence": "嚕迦駄都(世界)三慕達羅(海也)涅第奢(演說)[這-言+(厂@若)]縛怛囊(觀察)三牟陀儉摩(合集)娜忙(名也)鉢里冗多。",
         "from": "X03n0221_003:0622c18_10",
         "context_with_next_sentence": true
     },
@@ -8750,7 +8750,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "[這言+(厂@若)]縛怛囊亦照曜義。",
+        "source_sentence": "[這-言+(厂@若)]縛怛囊亦照曜義。",
         "from": "X03n0221_003:0622c21_15",
         "context_with_next_sentence": true
     },
@@ -11215,7 +11215,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "亦無[得彳]故。",
+        "source_sentence": "亦無[得-彳]故。",
         "from": "X03n0221_003:0625a19_21",
         "context_with_next_sentence": true
     },
@@ -13565,7 +13565,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "日[彰章+車]華旋眉光等剎。",
+        "source_sentence": "日[彰-章+車]華旋眉光等剎。",
         "from": "X03n0221_003:0627b10_5",
         "context_with_next_sentence": true
     },
@@ -15725,7 +15725,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "一一皆是純淨無漏無[得彳]法界。",
+        "source_sentence": "一一皆是純淨無漏無[得-彳]法界。",
         "from": "X03n0221_003:0629b16_6",
         "context_with_next_sentence": true
     },
@@ -17185,7 +17185,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "大小乘教並說虗空體無質[得彳]不可見相。",
+        "source_sentence": "大小乘教並說虗空體無質[得-彳]不可見相。",
         "from": "X03n0221_003:0630c24_7",
         "context_with_next_sentence": true
     },
@@ -21000,7 +21000,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "十證佛辨無[得彳]解智所作。",
+        "source_sentence": "十證佛辨無[得-彳]解智所作。",
         "from": "X03n0221_003:0634c01_19",
         "context_with_next_sentence": true
     },
@@ -23105,7 +23105,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "二威光壽盡德二[得彳]轉報天主其天城前焰光之隣。",
+        "source_sentence": "二威光壽盡德二[得-彳]轉報天主其天城前焰光之隣。",
         "from": "X03n0221_003:0636b18_7",
         "context_with_next_sentence": true
     },
@@ -23287,6 +23287,16 @@
     {
         "source_sentence": "上來五品總明第一會竟。",
         "from": "X03n0221_003:0636c05_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卍按。",
+        "from": "X03n0221_003:0636c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來名號品及四聖諦品之記恐不傳歟。",
+        "from": "X03n0221_003:0636c08_1",
         "context_with_next_sentence": false
     }
 ]

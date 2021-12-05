@@ -990,7 +990,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(二)枳里枳里(二)嚩日囉(二合)嚩日哩(二合合)步(引)囉滿(二合)馱滿(二合)馱(四)吽(五)[打丁+巿]吒(六)由結此印誦真言加持。",
+        "source_sentence": "唵(二)枳里枳里(二)嚩日囉(二合)嚩日哩(二合合)步(引)囉滿(二合)馱滿(二合)馱(四)吽(五)[打-丁+巿]吒(六)由結此印誦真言加持。",
         "from": "T19n0923_001:0024c13_0",
         "context_with_next_sentence": true
     },
@@ -1650,7 +1650,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "唵(一)阿密[口*栗](二合)妬(二)納婆(二合)嚩(三)吽(引四)[打丁+巿]吒(五)娑嚩(二合)賀(六)誦三遍。",
+        "source_sentence": "唵(一)阿密[口*栗](二合)妬(二)納婆(二合)嚩(三)吽(引四)[打-丁+巿]吒(五)娑嚩(二合)賀(六)誦三遍。",
         "from": "T19n0923_001:0026a08_0",
         "context_with_next_sentence": true
     },
@@ -3587,6 +3587,21 @@
     {
         "source_sentence": "藥師如來觀行儀軌",
         "from": "T19n0923_001:0029a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "延寶甲寅年寫畢淨嚴　天明元丑年。",
+        "from": "T19n0923_001:0029a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以宇治惠心院本寫之智積院慈忍　亨和二壬戌秋八月校整以上本。",
+        "from": "T19n0923_001:0029a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　豐山寓學沙門快道　誌一校加筆畢　享和癸亥四月十日　慈順",
+        "from": "T19n0923_001:0029a27_0",
         "context_with_next_sentence": false
     }
 ]

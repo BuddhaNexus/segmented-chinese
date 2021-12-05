@@ -1965,7 +1965,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "閻老子不[打丁+麼]攞。",
+        "source_sentence": "閻老子不[打-丁+麼]攞。",
         "from": "T48n2023_009:1088b19_2",
         "context_with_next_sentence": true
     },
@@ -5180,7 +5180,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "不可將淨桶入水槽中[泳永+耽]水。",
+        "source_sentence": "不可將淨桶入水槽中[泳-永+耽]水。",
         "from": "T48n2023_009:1092a02_11",
         "context_with_next_sentence": true
     },

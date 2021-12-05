@@ -3800,12 +3800,12 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "執線之時不應[起巳+百]。",
+        "source_sentence": "執線之時不應[起-巳+百]。",
         "from": "T19n0953_001:0290c03_3",
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "若[起巳+百]即身疾病。",
+        "source_sentence": "若[起-巳+百]即身疾病。",
         "from": "T19n0953_001:0290c03_4",
         "context_with_next_sentence": true
     },

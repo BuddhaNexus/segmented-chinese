@@ -525,7 +525,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "王復重請比丘，明日更食以苦酒煮[嘹口+豆]豆食之，食已問曰：「云何道士！",
+        "source_sentence": "王復重請比丘，明日更食以苦酒煮[嘹-口+豆]豆食之，食已問曰：「云何道士！",
         "from": "T04n0212_015:0690b03_33",
         "context_with_next_sentence": true
     },
@@ -560,7 +560,7 @@
         "context_with_next_sentence": true
     },
     {
-        "source_sentence": "　百味食續命，　　支形得行道，　苦酒[嘹口+豆]豆食，　　全命何假彼。」",
+        "source_sentence": "　百味食續命，　　支形得行道，　苦酒[嘹-口+豆]豆食，　　全命何假彼。」",
         "from": "T04n0212_015:0690b10_0",
         "context_with_next_sentence": true
     },
