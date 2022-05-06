@@ -12,11 +12,12 @@ Germany
 # About these translations
 
 This text was translated by DeepL using an experimental model that was trained as an internal, non-commercial research project. Given the sparsity of the training material and the diverse nature of the Taisho corpus, the model might not always meet DeepL's usual quality standards. Please take extreme caution when interpreting the results.
+We did not translate sentences with more than 400 characters as the resulting translations wouldn't be reliable at all.  
 
 # How to publish 
 You are free to publish these translations on your website. Please show a disclaimer (or a link to a disclaimer) with the translations so people can put the results into context. Please use the following disclaimer: 
 
->  This text was translated by DeepL using an experimental model that
+> This text was translated by DeepL using an experimental model that
 > was trained as an internal, non-commercial research project. Given the
 > sparsity of the training material and the diverse nature of the Taisho
 > corpus, the model might not always meet DeepL's usual quality
