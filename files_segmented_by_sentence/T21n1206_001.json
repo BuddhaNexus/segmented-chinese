@@ -1,50 +1,237 @@
-{
-    "T21n1206_001:0037c09_0": "佛說俱利伽羅大龍勝外道伏陀",
-    "T21n1206_001:0037c10_0": "羅尼經",
-    "T21n1206_001:0037c12_0": "如是我聞。",
-    "T21n1206_001:0037c12_1": "一時佛在王舍大城。",
-    "T21n1206_001:0037c12_2": "爾時寶幢陀羅尼菩薩白佛言。",
-    "T21n1206_001:0037c13_3": "俱利伽羅大龍。",
-    "T21n1206_001:0037c13_4": "以何因緣吞飲利劍。",
-    "T21n1206_001:0037c14_5": "及以四足被繞。",
-    "T21n1206_001:0037c14_6": "佛告寶幢陀羅尼菩薩言。",
-    "T21n1206_001:0037c15_7": "昔色究竟天魔醯首羅知勝城。",
-    "T21n1206_001:0037c15_8": "無動明王與外道論。",
-    "T21n1206_001:0037c16_9": "共致種種神變成智。",
-    "T21n1206_001:0037c16_10": "時無動明王變成智火之劍。",
-    "T21n1206_001:0037c17_11": "時有九十五種外道。",
-    "T21n1206_001:0037c17_12": "其首人名智達。",
-    "T21n1206_001:0037c18_13": "又成智火劍。",
-    "T21n1206_001:0037c18_14": "時無動明王智火大劍。",
-    "T21n1206_001:0037c19_15": "變成俱利伽羅大龍有四支。",
-    "T21n1206_001:0037c19_16": "降三世軍陀利琰魔都伽金剛夜叉等四大明王也。",
-    "T21n1206_001:0037c20_17": "頸王有蓮名智火含字俱利伽羅。",
-    "T21n1206_001:0037c21_18": "高十萬由旬也。",
-    "T21n1206_001:0037c22_19": "從口出氣如二萬億雷一時鳴。",
-    "T21n1206_001:0037c22_20": "聞之外道魔王捨惡疑邪執。",
-    "T21n1206_001:0037c23_21": "佛說陀羅尼曰。",
-    "T21n1206_001:0037c24_0": "曩謨悉底(二合)悉底(二合)蘇悉底(下同)悉底伽羅羅耶俱琰參摩摩悉利(二合)阿闍麼悉底娑婆呵此呪威力除一切不詳降伏諸魔王。",
-    "T21n1206_001:0037c27_1": "若有人靈氣惱。",
-    "T21n1206_001:0037c28_2": "書姓名。",
-    "T21n1206_001:0037c28_3": "以此呪誦三七遍。",
-    "T21n1206_001:0037c28_4": "靈鬼忽然之閒得焚燒。",
-    "T21n1206_001:0037c29_5": "斷五辛酒肉。",
-    "T21n1206_001:0037c29_6": "不染婦女穢執。",
-    "T21n1206_001:0037c29_7": "一心誦此呪。",
-    "T21n1206_001:0038a01_8": "一切所求決定得圓滿。",
-    "T21n1206_001:0038a01_9": "不時樹令開華。",
-    "T21n1206_001:0038a02_10": "四海成山妙高山王成海。",
-    "T21n1206_001:0038a02_11": "此呪威力此呪功德也。",
-    "T21n1206_001:0038a03_12": "焚氷如油凹心樹如水。",
-    "T21n1206_001:0038a03_13": "一切皆隨心。",
-    "T21n1206_001:0038a04_14": "猶如跋伽梵。",
-    "T21n1206_001:0038a04_15": "故重說偈曰。",
-    "T21n1206_001:0038a05_0": "　奉仕修行者　　猶如跋伽梵",
-    "T21n1206_001:0038a06_0": "　得三摩地上　　與菩薩同位",
-    "T21n1206_001:0038a07_0": "　俱利伽羅龍　　稱念彼名字",
-    "T21n1206_001:0038a08_0": "　現除怖魔障　　後生安樂國",
-    "T21n1206_001:0038a09_0": "佛說此經。",
-    "T21n1206_001:0038a09_1": "一切惡魔王九十五種大龍王。",
-    "T21n1206_001:0038a09_2": "大歡喜信受奉行。",
-    "T21n1206_001:0038a11_0": "俱利伽羅龍王陀羅尼經(終)"
-}
+[
+    {
+        "source_sentence": "佛說俱利伽羅大龍勝外道伏陀",
+        "from": "T21n1206_001:0037c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "羅尼經",
+        "from": "T21n1206_001:0037c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞。一時佛在王舍大城。爾時寶幢陀",
+        "from": "T21n1206_001:0037c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "羅尼菩薩白佛言。",
+        "from": "T21n1206_001:0037c13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俱利伽羅大龍。",
+        "from": "T21n1206_001:0037c13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以何因緣吞飲利劍。",
+        "from": "T21n1206_001:0037c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及以四足被繞。",
+        "from": "T21n1206_001:0037c14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛告寶幢陀羅尼菩薩言。",
+        "from": "T21n1206_001:0037c15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔色究竟天魔醯首羅知勝城。",
+        "from": "T21n1206_001:0037c15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無動明王與外道論。",
+        "from": "T21n1206_001:0037c16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "共致種種神變成智。",
+        "from": "T21n1206_001:0037c16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時無動明王變成智火之劍。",
+        "from": "T21n1206_001:0037c17_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時有九十五種外道。",
+        "from": "T21n1206_001:0037c17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其首人名智達。",
+        "from": "T21n1206_001:0037c18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又成智火劍。",
+        "from": "T21n1206_001:0037c18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時無動明王智火大劍。",
+        "from": "T21n1206_001:0037c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "變成俱利伽羅大龍有四支。",
+        "from": "T21n1206_001:0037c19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "降三世軍陀利琰魔都伽金剛夜叉等四大明王也。",
+        "from": "T21n1206_001:0037c20_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頸王有蓮名智火含字俱利伽羅。",
+        "from": "T21n1206_001:0037c21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "高十萬由旬也。",
+        "from": "T21n1206_001:0037c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從口出氣如二萬億雷一時鳴。",
+        "from": "T21n1206_001:0037c22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞之外道魔王捨惡疑邪執。",
+        "from": "T21n1206_001:0037c23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說陀羅尼曰。",
+        "from": "T21n1206_001:0037c23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曩謨悉底二合悉底二合蘇悉底下同悉底伽羅羅耶俱琰參摩摩悉利二合阿闍麼悉底娑婆呵此呪威力除一切不詳降伏諸魔王。",
+        "from": "T21n1206_001:0037c27_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有人靈氣惱。",
+        "from": "T21n1206_001:0037c28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "書姓名。",
+        "from": "T21n1206_001:0037c28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以此呪誦三七遍。",
+        "from": "T21n1206_001:0037c28_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靈鬼忽然之閒得焚燒。",
+        "from": "T21n1206_001:0037c29_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷五辛酒肉。",
+        "from": "T21n1206_001:0037c29_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不染婦女穢執。",
+        "from": "T21n1206_001:0037c29_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一心誦此呪。",
+        "from": "T21n1206_001:0038a01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切所求決定得圓滿。",
+        "from": "T21n1206_001:0038a01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不時樹令開華。",
+        "from": "T21n1206_001:0038a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四海成山妙高山王成海。",
+        "from": "T21n1206_001:0038a02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此呪威力此呪功德也。",
+        "from": "T21n1206_001:0038a03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "焚氷如油凹心樹如水。",
+        "from": "T21n1206_001:0038a03_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切皆隨心。",
+        "from": "T21n1206_001:0038a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶如跋伽梵。",
+        "from": "T21n1206_001:0038a04_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故重說偈曰。",
+        "from": "T21n1206_001:0038a04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奉仕修行者　　猶如跋伽梵",
+        "from": "T21n1206_001:0038a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得三摩地上　　與菩薩同位",
+        "from": "T21n1206_001:0038a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俱利伽羅龍　　稱念彼名字",
+        "from": "T21n1206_001:0038a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現除怖魔障　　後生安樂國",
+        "from": "T21n1206_001:0038a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說此經。",
+        "from": "T21n1206_001:0038a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切惡魔王九十五種大龍王。",
+        "from": "T21n1206_001:0038a09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大歡喜信受奉行。",
+        "from": "T21n1206_001:0038a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俱利伽羅龍王陀羅尼經終",
+        "from": "T21n1206_001:0038a11_100",
+        "context_with_next_sentence": false
+    }
+]

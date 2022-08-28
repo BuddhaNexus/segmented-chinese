@@ -1,49 +1,2562 @@
-{
-    "T31n1603_001:0583b20_0": "顯揚聖教論頌",
-    "T31n1603_001:0583b22_0": "無著菩薩造",
-    "T31n1603_001:0583b23_0": "三藏法師玄奘奉　詔譯",
-    "T31n1603_001:0583b24_0": "攝事品第一",
-    "T31n1603_001:0583b25_0-0": "　善逝善說妙三身　　無畏無流證教法　上乘真實牟尼子　　我今至誠先讚禮　稽首次敬大慈尊　　將紹種智法王位　無依世間所歸趣　　宣說瑜伽師地者　昔我無著從彼聞　　今當錯綜地中要　顯揚聖教慈悲故　　文約義周而易曉　攝事淨義成善巧　　無常苦空與無性　現觀瑜伽不思議　　攝勝決擇十一品　一切界雜染　　諦依止覺分　補特伽羅果　",
-    "T31n1603_001:0583b25_0-1": "　諸功德九事　心心所有色　　不相應無為　界謂欲色等　　及與三千界　煩惱業生性　　雜染相應知　諸諦有六種　　依止八與二　覺分有眾多　　最初三十七　智與解脫門　　行跡及止觀　居處及所依　　發心與悲愍　諸行通達性　　地波羅蜜多　菩薩行攝事　　及彼陀羅尼　三摩地等門　　諸無量作意　真如作意相　　信解不思議　廣大阿世耶　",
-    "T31n1603_001:0583b25_0-2": "　應知諸自數　隨信行等七　　復八種應知　及極七反等　　退法等有六　軟根等七種　　在俗及出家　聲聞乘等三　　可救不可救　入方便等九　　生差別故二　復由諸界別　　應知十三種　果斷有五種　　遍知及清淨　淨果界菩提　　無學由自數　斷多因故斷　　建立斷所從　由作意依修　　及得斷次第　斷差別應知　　及斷相利益　如是如所說　",
-    "T31n1603_001:0583b25_0-3": "　復應知多種　無量諸解脫　　勝處與遍處　無諍妙願智　　無礙解神通　諸相好清淨　　及諸力無畏　不護與念住　　永斷諸習氣　無忘失妙法　　及如來大悲　佛不共德法　　一切種妙智　當知前九事　　初為二所依　次二後六種　　攝雜染清淨　染依差別故　　清淨所緣故　心不流散故　　正修方便故　彼位差別故　　言說等因故　彼果故德故　",
-    "T31n1603_001:0583b25_0-4": "　數次第唯爾　欲思量無量　　諸問答差別　由諸佛語言　　事與相攝故　句迷惑戲論　　住真實淨妙　寂靜性道理　　假施設現觀　方所位分別　　作執持增減　闇語所覺上　　遠離轉藏護　簡擇與現行　　睡眠及相屬　諸相攝相應　　說任持次第　所作境瑜伽　　奢摩他與觀　諸作意教授　　德菩提聖教　若欲正修行　　遍知等功德　由十種法行　",
-    "T31n1603_001:0583b25_0-5": "　及六種理趣攝淨義品第二　諸論中勝論　　亦善入瑜伽　清淨義應知　　由具四淨德　攝一切義故　　彼外不壞故　易入故入已　　行不失壞故　諸佛說妙法　　正依於二諦　一者名世俗　　二者名勝義　初說我法用　　為隨餘故說　七種及四種　　真如名勝義　自性義建立　　數次第善巧　想差別應知　　顯蘊世俗義　五三法真實　　彼復四應知　",
-    "T31n1603_001:0583b25_0-6": "及四種尋思　　四種如實智　三自性成立　　差別業隱密　方便攝別異　　是各有多種　聞十二分教　　三最勝歸依　三學三菩提　　為有情淨說　聞歸學菩提　　六三十二五　隨名數次第　　如應廣分別　聖行無上乘　　大菩提功德　異論論法釋　　應知各多種　殊特非殊特　　平等心利益　報恩與欣讚　　不虛方便行　不顛倒方便　　退墮與勝進　",
-    "T31n1603_001:0583b25_0-7": "相似實功德　　善調伏有情　諸菩薩受記　　墮於決定數　定作常應作　　最勝法應知　諸施設建立　　一切法尋思　及如實遍智　　并及諸無量　宣說果利益　　大乘性與攝　菩薩十應知　　建立諸名號　執因中有果　　顯了有去來　我常宿作因　　自在等害法　邊無邊矯亂　　見無因斷空　計勝淨吉祥　　名十六異論　功能無體性　　攝不攝相違　",
-    "T31n1603_001:0583b25_0-8": "有用及無用　　為因成大過　論體論處所　　論據論莊嚴　論負論出離　　論多所作法　體釋文義法　　起義難次師　說眾聽讚佛　　略廣學勝利　諸地相作意　　依處德非德　所對治能治　　略廣義應知成善巧品第三　於諸蘊界處　　及眾緣起法　處非處根諦　　善巧事應知　身者自在等　　無因身者住　流轉作諸業　　及增上二種　於身者等起　",
-    "T31n1603_001:0583b25_0-9": "　實我所住持　流轉者作者　　及諸增上義　染污若清淨　　起七種愚癡　對治此應知　　攝七種善巧　妄計我身者　　依止諸根住　於境界迴轉　　受用愛非愛　言說所依住　　作者有覺者　由於差別蘊　　總見一身者　迷惑初因故　　計常因無因　我住持諸根　　能觸及能受　從此死生處　　計有流轉者　法非法作者　　及彼果增上　於修習邪行　",
-    "T31n1603_001:0583b25_0-10": "　計為染污者　於修習正行　　妄計解脫者　佛未出於世　　如是愚癡轉　由佛現世間　　說七種善巧　知世等別故　　能除一合想　即離與解脫　　眾生不可得　多種及總略　　共有差別轉　增益損減智　　蘊善巧應知　見三因生故　　說名界善巧　從無始自種　　多種種生起　由此及於此　　取者不可得　依自智成故　　能除下劣性　知諸觸諸受　",
-    "T31n1603_001:0583b25_0-11": "　由二種生門　依止於觸故　　當知處善巧　知法處天處　　後後所依止　由世俗諦故　　了知二種性　知未斷無常　　因能生諸果　自相續相似　　名緣起善巧　眾生不可得　　而有捨續者　由了達甚深　　四種緣起故　不作不趣得　　二餘體不轉　淨見無餘業　　非我自在二　如是智能知　　處非處善巧　於自果定處　　異此說非處　於能取生住　",
-    "T31n1603_001:0583b25_0-12": "　及染污清淨　無理我觀餘　　於彼果增上　於如是方便　　名為根善巧　謂於取生住　　染淨增上故　二自性苦故　　合故不應理　由無因有因　　及五種譬喻　如是隨覺故　　應知諦善巧　隨覺未曾見　　未受義因緣　當知諸善巧　　差別二十三　異攝論為先　　後最極清淨成無常品第四　無常謂有為　　三相相應故　無常義如應　　六八種應知　",
-    "T31n1603_001:0583b25_0-13": "無性壞轉異　　別離得當有　剎那續病等　　心器受用故　變異應當知　　十五種差別　所謂分位等　　八緣所逼故　下界具一切　　中界離三門　具三種變異　　上界復除器　無性義無常　　遍計之所執　所餘無常義　　依他起應知　諸無常皆苦　　眾苦所雜故　迷法性愚夫　　得為害不覺　由彼心果故　　生已自然滅　後變異可得　　念念滅應知　",
-    "T31n1603_001:0583b25_0-14": "心熏習增上　　定轉變自在　影像生道理　　及三種聖教　生因相違故　　無住滅兩因　自然住常過　　當知任運滅　非水火風滅　　以俱起滅故　彼相應滅已　　餘變異生因　相違相續斷　　二相成無相　違世間現見　　無法及餘因　非身乳林等　　先無有變異　亦非初不壞　　最後時方滅　位思煩惱分　　非常變異故　此若無變異　　受作脫非理　",
-    "T31n1603_001:0583b25_0-15": "功能無有故　　攝不攝相違　有用及無用　　為因成過失　自性變異相　　有無不應理　無差別無常　　有差別五失　無相亦無因　　非自性恒異　先無有變異　　我應常解脫　常造不應理　　由二三因故　財有情增上　　極微非常住　無常為彼依　　次第差別轉　諸受等異故　　當知覺無常　於無常無智　　四顛倒根本　當知世上道　　愚癡力轉增　",
-    "T31n1603_001:0583b25_0-16": "由放逸懈怠　　見昧乏資糧　惡友非正法　　當知無智因　不如理作意　　憶念前際等　相似相續轉　　於無常計常　生初後中間　　取三有為相　無常調伏智　　當知由二因　彼見有六種　　及緣起四種　自種故非他　　待緣故非自　無作故非共　　用故非無因成苦品第五　生為欲離因　　滅生和合欲　倒無倒厭離　　彼因為苦相　依三受差別　",
-    "T31n1603_001:0583b25_0-17": "　建立三苦相　故說一切受　　體性皆是苦　當知行性苦　　皆麁重隨故　樂捨不應理　　同無解脫過　利深等障礙　　依進住乘空　執著性下劣　　顛倒及染污　如癰疥癩等　　三受之所依　彼能發三觸　　取樂等隨轉　自相自分別　　不安隱苦性　五十五應知　　三苦之所攝　界緣身等趣　　種類諦三世　時命品異故　　引眾苦差別　未離欲色等　",
-    "T31n1603_001:0583b25_0-18": "　三種地應知　欲界一切種　　色無色除二　世俗有二種　　勝義謂遍行　二緣通上地　　當知無現染　非無色重擔　　遍行天麁重　及諦最後邊　　餘七上隨縛　當知生等苦　　各五種差別　苦麁重相應　　三苦所依止　最後與最後　　各四苦所依　謂生生根本　　及苦性變壞　三世之所攝　　二緣苦非上　所說餘諸苦　　皆欲界應知　失念無功用　",
-    "T31n1603_001:0583b25_0-19": "　亂不正思惟　不正了愚癡　　及由放逸等　昧故羸劣故　　及起放逸故　相續斷絕故　　忘念轉應知　昧故放逸故　　保重現法故　不信當苦故　　無功用發起　相似相續轉　　對治妄分別　串習總取故　　起四種顛倒　界別緣起別　　位別次第別　及相續差別　　當知各多種　信解與思擇　　不亂心厭離　見修及究竟　　又如前十一　纏疑不樂離　",
-    "T31n1603_001:0583b25_0-20": "　沈惡趣餘趣　下劣行所起　　遍獨眾苦盡成空品第六　若於此無有　　及此餘所有　隨二種道理　　說空相無二　甚深相應知　　取捨無增減　差別有眾多　　如彼彼宣說　唯假過失故　　蘊無我過故　我無身過故　　三我不應理　如主火明空　　形異依他過　無常無業用　　非因非有我　我唯應是假　　譬喻不可得　七喻妄分別　　無見者等三　",
-    "T31n1603_001:0583b25_0-21": "若如種無常　　作者應成假　如成就神通　　應世俗自在　我如地如空　　應無常無性　應如二無作　　分明業可得　能燒及能斷　　唯火等所作　我於見等具　　非如刀火等　如光能照用　　離光無異體　是故於內外　　空無我義成　如世間外物　　離我有損益　內雖無實我　　染淨義應成　位思煩惱分　　無常變異故　我常無轉易　　受作脫應無　",
-    "T31n1603_001:0583b25_0-22": "法性從緣生　　展轉現相續　有因而不住　　變異故名轉　如身牙河燈　　有種種作用　我常無變異　　轉還不應理　依我起名想　　見二種過失　是故遍一切　　實我性都無　為言說易故　　隨順世間故　斷除怖畏故　　顯得失二故　率爾覺亂起　　世間現可得　覺為先作業　　有十種過失　覺我因功用　　自在等各二　有因及無因　　當知十種過　",
-    "T31n1603_001:0583b25_0-23": "不審決遍行　　增益及無事　於事怖妄見　　譬喻五應知　無體及遠離　　除遣依三種　對治諸縛想　　十六種差別　自性與執著　　不開解失念　一切遍一分　　愚差別流轉　法住求自心　　住自心除縛　怖無二染淨　　證得真空理　修差別十八　　或有毒無毒　對治五種執　　略二種應知　修果應當知　　三菩提功德　依止轉依性　　所作事成就成無性品第七　",
-    "T31n1603_001:0583b25_0-24": "三自性應知　　初遍計所執　次依他起性　　最後圓成實　三無性應知　　不離三自性　由相無生無　　及勝義無性　非五事所攝　　此外更無有　由名於義轉　　二更互為客　於名前覺無　　多名及不定　於有義無義　　轉非理義成　取己立名故　　餘即不能取　如眾生邪執　　增益為顛倒　由熏起依他　　依此生顛倒　如是互為緣　　展轉生相續　",
-    "T31n1603_001:0583b25_0-25": "自性與差別　　有覺悟隨眠　加行名遍計　　又當知五種　分別有八種　　能生於三事　分別體應知　　三界心心法　由二縛所縛　　堅執二自性　故二縛解脫　　正無得無見　假有所依因　　若異壞二種　雜染可得故　　當知依他起　相麁重為體　　此更互緣生　非自然是有　　故說生無性　非決定有無　　一切種皆許　通假實二性　　世俗說為有　",
-    "T31n1603_001:0583b25_0-26": "宣說我法用　　皆名為世俗　當知勝義諦　　謂七種真如　圓成實自性　　二最勝智義　無有諸戲論　　遠離一異性　清淨之所緣　　常無有變異　善性及樂性　　一切皆成就　實勝義無性　　戲論我無故　依他無彼相　　亦勝義無性　依三相應知　　建立五種相　彼如其所應　　別別有五業　法執故愚夫　　起彼眾生執　彼除覺法性　　覺法我執斷　",
-    "T31n1603_001:0583b25_0-27": "於依他執初　　熏習成雜染　無執圓成實　　熏習成清淨　雜染有漏性　　清淨則無漏　此當知轉依　　不思議二種　真實及自體　　寂靜與功德　一切不思議　　當知由四道　聲聞有二種　　趣寂趣菩提　依止變化身　　趣無上正覺　諸聲聞轉依　　厭背修所得　菩薩方便修　　無二智依止　不住生滅故　　諸佛智無上　利樂諸有情　　不思議無二成現觀品第八　",
-    "T31n1603_001:0583b25_0-28": "當知現所觀　　下中上品事　有漏及無漏　　未見未受遍　出世間勝智　　能除見所斷　無分別證得　　唯依止靜慮　極慼非惡趣　　極欣非上二　處欲界人天　　佛出世現觀　未離欲倍離　　及已離欲者　獨一證正覺　　最勝我所生　非我為智因　　亦非自取境　我非自現觀　　執愛自我故　無常有境界　　待緣智生起　斷麁重等三　　故依心現觀　",
-    "T31n1603_001:0583b25_0-29": "已成熟相續　　或聽聞正法　自然極如理　　作意故現觀　繫念於所緣　　精勤修靜定　增上善根力　　證聖覺道分　從是入見道　　無漏正見起　永斷於三結　　證現觀應知　雖惡趣雜染　　計所起惑斷　境見導師等　　隨生三所攝　由先世間智　　簡擇諦究竟　於諦無加行　　決定生起相　智境和合相　　於所知究竟　當知諦現觀　　於十種決定　",
-    "T31n1603_001:0583b25_0-30": "我性無三有　　不滅無有二　無分別無怖　　自斷中決定　發起證等流　　成滿次第四　又法住智等　　次第八應知　無悔住所緣　　如實見境界　道所依無惑　　純差別行斷　三淨攝應知　　戒淨及心淨　境界依止道　　說為慧清淨　知身等因緣　　善達於三世　次了知四苦　　復八苦應知　從是正觀諦　　起十六行智　為治四顛倒　　後後之所依　",
-    "T31n1603_001:0583b25_0-31": "從是轉修習　　於心總厭離　諦簡擇決定　　究竟覺生起　從此無加行　　解脫智三心　一百一十二　　煩惱斷十攝　此證菩提分　　六種淨智相　行無分別故　　隨所作建立　菩薩在此位　　先修勝因力　於自他身苦　　起平等心性　是大我意樂　　於自性無得　廣意樂當知　　二性無分別　次上十六行　　清淨世間智　對治界地故　　究竟事成就　",
-    "T31n1603_001:0583b25_0-32": "此現觀差別　　或六或十八　相勝利眾多　　隨經論廣說成瑜伽品第九　般若度瑜伽　　等至無分別　一切一切種　　無有分別故　一切一切種　　三相與三輪　謂名相染淨　　及俱非二種　於法及法空　　無二種戲論　無分別無窮　　此上非應理　若都無所取　　無慧亦無度　俱成取離言　　為順非無用成不思議品第十　九事不思議　　由依止五處　",
-    "T31n1603_001:0583b25_0-33": "有五種因故　　得失俱三種　不應思不記　　當知由四因　非定一甚深　　引無義相住　不思我有無　　成二過失故　於他亦二失　　不應思一異　二雖不依見　　成故不應思　不思如是生　　三過所隨故　善趣與惡趣　　二作者非定　過去善惡業　　處事等難思　真如無漏性　　成所作義利　靜慮者如來　　無譬自在故　外道所宣說　　能引無義利　",
-    "T31n1603_001:0583b25_0-34": "非理遠四處　　無記不應思　非處勤功用　　毀謗於大我　不修清淨善　　故成三過失　遠離不思議　　思可思議處　具八種功德　　故如理應思　諸佛之所說　　遍知等無違　五因二因故　　於此不應思攝勝決擇品第十一　數相別有處　　邊際與生起　想善巧攝等　　勝決擇諸事　心性有二種　　異熟及與轉　初阿賴耶識　　種子二應知　",
-    "T31n1603_001:0583b25_0-35": "執受初明了　　種子業身受　無心定命終　　無皆不應理　所緣境相應　　更互二因性　識等俱流轉　　雜染污還滅　所依境界力　　建立心差別　復由七種行　　難了相應知　所緣無自在　　住惡所依止　隨緣力所轉　　心繫縛應知　散亂及安住　　六種十五種　緣境界六等　　所治心非一　依多境了別　　各為自業生　心法不應思　　相似境轉故　",
-    "T31n1603_001:0583b25_0-36": "引心三分別　　領位審了相　得失等營為　　名作意等業　上界無香味　　大造隨可得　極微無自體　　非實有七事　微和合不離　　善惡無自然　三相想外無　　法處色十二　當知不相應　　皆假施設有　假有性六種　　彼皆二過故　三過因非五　　因相略繫合　相依處差別　　建立有多種　心所緣等故　　清淨所緣故　四種離繫故　　建立八無為　",
-    "T31n1603_001:0583b25_0-37": "三界應當知　　十二相差別　所治及能治　　唯能損伏種　法王海醎味　　欲惡趣長壽　多世界共一　　各二種因緣　意相應四惑　　遍行而俱起　無記最後滅　　隨所生彼性　一切生相續　　現起及與緣　隨眠境麁重　　各差別二十　隨順自生故　　種子故事故　生四過失故　　不淨三因故　業思及思已　　差別有十三　彼果六三位　　業決定五種　",
-    "T31n1603_001:0583b25_0-38": "自業等四種　　此先熟亦四　復九種當知　　即二種差別　命終定不定　　中殀由六因　明了位三心　　中有或有無　依餘有所緣　　染污心生起　於四種生中　　及三界五趣　當知世俗諦　　意解義及說　淨所緣彼性　　方便名勝義　當知是四種　　染淨之所攝　未見未經受　　如病病滅因　當知是四諦　　各四相四行　遍知等四種　　因果性差別　",
-    "T31n1603_001:0583b25_0-39": "彼覺無乖諍　　法爾證亦然　諦三種唯善　　復二種應知　當知七依止　　三種所依性　彼善巧二種　　四句等廣說　靜慮數障分　　及彼廣建立　遠離於苦動　　後後分勝異　近分喜有動　　唯初能盡漏　亦二種緣聲　　八等至捨八　現法安樂住　　能入於現觀　讚說想解脫　　四種因當知　愛味等當知　　十種六三種　退相續障治　　各多種差別　",
-    "T31n1603_001:0583b25_0-40": "利根及生轉　　當知無有退　依下地發定　　離欲後生故　依二乘大乘　　由二十七相　正方便當知　　建立於覺分　身等三差別　　彼影像隨觀　由聞等三智　　念法無迷惑　彼所治九種　　作意當知二　修差別有三　　二種無失壞　為斷於沈掉　　相應道二種　觀察捨煩惱　　及為盡三愛　為斷增上慢　　味所依顛倒　及三心趣入　　修習於念住　",
-    "T31n1603_001:0583b25_0-41": "由根等差別　　建立五唯二　假設五應知　　三事成圓滿　證轉依不起　　二因果無退　三因故斷常　　三果三因記　建立諸功德　　由十七增上　彼差別無邊　　治所治障故　思惟義樂苦　　作意及安住　艱難與相貌　　殊特非殊特　種性如來說　　多佛與二乘　五種及十種　　六六種道理　諸佛妙功能　　彼果土清淨　解脫與法身　　等不思無上　",
-    "T31n1603_001:0583b25_0-42": "雖不用加行　　先願力所引　依無為發起　　所作無二相　宣說諸事法　　別解脫分別　諸法相十一　　是經律本藏　諸相與斷滅　　無失壞方便　彼二果差別　　是諸經略義　略說瑜伽道　　緣所聞正法　奢摩他與觀　　依影像成就顯揚聖教論頌"
-}
+[
+    {
+        "source_sentence": "顯揚聖教論頌",
+        "from": "T31n1603_001:0583b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無著菩薩造",
+        "from": "T31n1603_001:0583b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三藏法師玄奘奉　詔譯",
+        "from": "T31n1603_001:0583b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善逝善說妙三身，　　無畏無流證教法，",
+        "from": "T31n1603_001:0583b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上乘真實牟尼子，　　我今至誠先讚禮。",
+        "from": "T31n1603_001:0583b26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "稽首次敬大慈尊，　　將紹種智法王位，",
+        "from": "T31n1603_001:0583b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無依世間所歸趣，　　宣說瑜伽師地者。",
+        "from": "T31n1603_001:0583b28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔我無著從彼聞，　　今當錯綜地中要，",
+        "from": "T31n1603_001:0583b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯揚聖教慈悲故，　　文約義周而易曉。",
+        "from": "T31n1603_001:0583c01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "攝事淨義成善巧，　　無常苦空與無性，",
+        "from": "T31n1603_001:0583c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現觀瑜伽不思議，　　攝勝決擇十一品。",
+        "from": "T31n1603_001:0583c03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切界雜染，　　諦依止覺分，",
+        "from": "T31n1603_001:0583c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "補特伽羅果，　　諸功德九事。",
+        "from": "T31n1603_001:0583c05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心、心所有、色、　　不相應、無為。",
+        "from": "T31n1603_001:0583c06_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "界謂欲色等，　　及與三千界。",
+        "from": "T31n1603_001:0583c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煩惱業生性，　　雜染相應知。",
+        "from": "T31n1603_001:0583c08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸諦有六種。",
+        "from": "T31n1603_001:0583c09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　依止八與二。",
+        "from": "T31n1603_001:0583c09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覺分有眾多，　　最初三十七。",
+        "from": "T31n1603_001:0583c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智與解脫門，　　行跡及止觀。",
+        "from": "T31n1603_001:0583c11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "居處及所依，　　發心與悲愍，",
+        "from": "T31n1603_001:0583c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸行、通達性，　　地、波羅蜜多。",
+        "from": "T31n1603_001:0583c13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩行、攝事，　　及彼陀羅尼、",
+        "from": "T31n1603_001:0583c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三摩地等門，　　諸無量作意。",
+        "from": "T31n1603_001:0583c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真如作意相，　　信解不思議，",
+        "from": "T31n1603_001:0583c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣大阿世耶，　　應知諸自數。",
+        "from": "T31n1603_001:0583c17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨信行等七，　　復八種應知，",
+        "from": "T31n1603_001:0583c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及極七反等，　　退法等有六。",
+        "from": "T31n1603_001:0583c19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "軟根等七種，　　在俗及出家，",
+        "from": "T31n1603_001:0583c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聲聞乘等三，　　可救、不可救。",
+        "from": "T31n1603_001:0583c21_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入方便等九，　　生差別故二，",
+        "from": "T31n1603_001:0583c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復由諸界別，　　應知十三種。",
+        "from": "T31n1603_001:0583c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果斷有五種，　　遍知及清淨，",
+        "from": "T31n1603_001:0583c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨、果、界、菩提，　　無學由自數。",
+        "from": "T31n1603_001:0583c25_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷多因故斷，　　建立斷所從，",
+        "from": "T31n1603_001:0583c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由作意、依、修，　　及得斷次第。",
+        "from": "T31n1603_001:0583c27_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷差別應知，　　及斷相利益，",
+        "from": "T31n1603_001:0583c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是如所說，　　復應知多種。",
+        "from": "T31n1603_001:0583c29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無量、諸解脫、　　勝處與遍處、",
+        "from": "T31n1603_001:0584a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無諍、妙願智、　　無礙解、神通。",
+        "from": "T31n1603_001:0584a02_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸相、好、清淨，　　及諸力、無畏，",
+        "from": "T31n1603_001:0584a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不護與念住，　　永斷諸習氣。",
+        "from": "T31n1603_001:0584a04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無忘失妙法，　　及如來大悲，",
+        "from": "T31n1603_001:0584a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛不共德法，　　一切種妙智。",
+        "from": "T31n1603_001:0584a06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知前九事，　　初為二所依，",
+        "from": "T31n1603_001:0584a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次二、後六種，　　攝雜染、清淨，",
+        "from": "T31n1603_001:0584a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "染依差別故、　　清淨所緣故、",
+        "from": "T31n1603_001:0584a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心不流散故、　　正修方便故、",
+        "from": "T31n1603_001:0584a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼位差別故、　　言說等因故、",
+        "from": "T31n1603_001:0584a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼果故德故，　　數次第唯爾。",
+        "from": "T31n1603_001:0584a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲思量無量，　　諸問答差別，",
+        "from": "T31n1603_001:0584a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由諸佛語言，　　事與相攝故。",
+        "from": "T31n1603_001:0584a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "句、迷惑、戲論，　　住、真實、淨、妙，",
+        "from": "T31n1603_001:0584a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寂靜、性、道理，　　假施設、現觀。",
+        "from": "T31n1603_001:0584a16_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方所、位、分別，　　作、執持、增、減，",
+        "from": "T31n1603_001:0584a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "闇、語、所覺、上，　　遠離、轉、藏護。",
+        "from": "T31n1603_001:0584a18_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "簡擇與現行，　　睡眠及相屬，",
+        "from": "T31n1603_001:0584a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸相攝、相應，　　說、任持、次第。",
+        "from": "T31n1603_001:0584a20_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所作、境、瑜伽，　　奢摩他與觀，",
+        "from": "T31n1603_001:0584a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸作意、教授，　　德、菩提、聖教。",
+        "from": "T31n1603_001:0584a22_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若欲正修行，　　遍知等功德，",
+        "from": "T31n1603_001:0584a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由十種法行，　　及六種理趣。",
+        "from": "T31n1603_001:0584a24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸論中勝論，　　亦善入瑜伽，",
+        "from": "T31n1603_001:0584a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清淨義應知，　　由具四淨德。",
+        "from": "T31n1603_001:0584a27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "攝一切義故；",
+        "from": "T31n1603_001:0584a28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　彼外不壞故；",
+        "from": "T31n1603_001:0584a28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "易入故；",
+        "from": "T31n1603_001:0584a29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入已，　　行不失壞故。",
+        "from": "T31n1603_001:0584a29_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸佛說妙法，　　正依於二諦：",
+        "from": "T31n1603_001:0584b01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者名世俗、　　二者名勝義。",
+        "from": "T31n1603_001:0584b02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初說我、法、用，　　為隨餘故說；",
+        "from": "T31n1603_001:0584b03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七種及四種，　　真如名勝義。",
+        "from": "T31n1603_001:0584b04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自性、義、建立，　　數、次第善巧，",
+        "from": "T31n1603_001:0584b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "想差別應知，　　顯蘊世俗義。",
+        "from": "T31n1603_001:0584b06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五三法、真實，　　彼復四應知，",
+        "from": "T31n1603_001:0584b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及四種尋思，　　四種如實智。",
+        "from": "T31n1603_001:0584b08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三自性成立、　　差別、業、隱密、",
+        "from": "T31n1603_001:0584b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方便、攝、別異，　　是各有多種。",
+        "from": "T31n1603_001:0584b10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞十二分教，　　三最勝歸依，",
+        "from": "T31n1603_001:0584b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三學三菩提，　　為有情淨說。",
+        "from": "T31n1603_001:0584b12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞、歸、學、菩提，　　六、三、十二、五，",
+        "from": "T31n1603_001:0584b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨名數次第，　　如應廣分別。",
+        "from": "T31n1603_001:0584b14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖行、無上乘、　　大菩提、功德，",
+        "from": "T31n1603_001:0584b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "異論、論法、釋，　　應知各多種。",
+        "from": "T31n1603_001:0584b16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殊特、非殊特，　　平等心、利益，",
+        "from": "T31n1603_001:0584b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "報恩與欣讚，　　不虛方便行。",
+        "from": "T31n1603_001:0584b18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不顛倒方便，　　退墮與勝進，",
+        "from": "T31n1603_001:0584b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相似、實功德，　　善調伏有情。",
+        "from": "T31n1603_001:0584b20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸菩薩受記，　　墮於決定數，",
+        "from": "T31n1603_001:0584b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "定作、常應作，　　最勝法應知。",
+        "from": "T31n1603_001:0584b22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸施設建立，　　一切法尋思，",
+        "from": "T31n1603_001:0584b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及如實遍智，　　并及諸無量，",
+        "from": "T31n1603_001:0584b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宣說果利益，　　大乘性與攝，",
+        "from": "T31n1603_001:0584b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩十應知，　　建立諸名號。",
+        "from": "T31n1603_001:0584b26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "執因中有果、　　顯了、有去來、",
+        "from": "T31n1603_001:0584b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我、常、宿作因、　　自在等、害法、",
+        "from": "T31n1603_001:0584b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邊無邊、矯亂、　　見無因、斷、空、",
+        "from": "T31n1603_001:0584b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "計勝、淨、吉祥，　　名十六異論。",
+        "from": "T31n1603_001:0584c01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "功能無體性，　　攝不攝相違，",
+        "from": "T31n1603_001:0584c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有用及無用，　　為因成大過。",
+        "from": "T31n1603_001:0584c03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論體、論處所、　　論據、論莊嚴、",
+        "from": "T31n1603_001:0584c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論負、論出離，　　論多所作法。",
+        "from": "T31n1603_001:0584c05_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "體釋文義法，　　起義難次師，",
+        "from": "T31n1603_001:0584c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說眾聽讚佛，　　略廣學勝利。",
+        "from": "T31n1603_001:0584c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸地相作意，　　依處德非德，",
+        "from": "T31n1603_001:0584c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所對治能治，　　略廣義應知。",
+        "from": "T31n1603_001:0584c09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於諸蘊、界、處，　　及眾緣起法、",
+        "from": "T31n1603_001:0584c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "處非處、根、諦，　　善巧事應知。",
+        "from": "T31n1603_001:0584c12_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身者自在等，　　無因身者住，",
+        "from": "T31n1603_001:0584c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流轉作諸業，　　及增上二種。",
+        "from": "T31n1603_001:0584c14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於身者等起，　　實我所住持，",
+        "from": "T31n1603_001:0584c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流轉者作者，　　及諸增上義。",
+        "from": "T31n1603_001:0584c16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "染污若清淨，　　起七種愚癡，",
+        "from": "T31n1603_001:0584c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "對治此應知，　　攝七種善巧。",
+        "from": "T31n1603_001:0584c18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妄計我身者，　　依止諸根住，",
+        "from": "T31n1603_001:0584c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於境界迴轉，　　受用愛非愛。",
+        "from": "T31n1603_001:0584c20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言說所依住，　　作者有覺者，",
+        "from": "T31n1603_001:0584c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由於差別蘊，　　總見一身者。",
+        "from": "T31n1603_001:0584c22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迷惑初因故，　　計常因無因。",
+        "from": "T31n1603_001:0584c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我住持諸根，　　能觸及能受。",
+        "from": "T31n1603_001:0584c24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從此死生處，　　計有流轉者，",
+        "from": "T31n1603_001:0584c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法非法作者，　　及彼果增上。",
+        "from": "T31n1603_001:0584c26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於修習邪行，　　計為染污者；",
+        "from": "T31n1603_001:0584c27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於修習正行，　　妄計解脫者。",
+        "from": "T31n1603_001:0584c28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛未出於世，　　如是愚癡轉；",
+        "from": "T31n1603_001:0584c29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由佛現世間，　　說七種善巧。",
+        "from": "T31n1603_001:0585a01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知世等別故，　　能除一合想，",
+        "from": "T31n1603_001:0585a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即離與解脫，　　眾生不可得。",
+        "from": "T31n1603_001:0585a03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多種及總略，　　共有差別轉，",
+        "from": "T31n1603_001:0585a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "增益損減智，　　蘊善巧應知。",
+        "from": "T31n1603_001:0585a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見三因生故，　　說名界善巧，",
+        "from": "T31n1603_001:0585a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從無始自種，　　多種種生起，",
+        "from": "T31n1603_001:0585a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此及於此，　　取者不可得，",
+        "from": "T31n1603_001:0585a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依自智成故，　　能除下劣性。",
+        "from": "T31n1603_001:0585a09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知諸觸諸受，　　由二種生門，",
+        "from": "T31n1603_001:0585a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依止於觸故，　　當知處善巧。",
+        "from": "T31n1603_001:0585a11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知法處天處，　　後後所依止，",
+        "from": "T31n1603_001:0585a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由世俗諦故，　　了知二種性。",
+        "from": "T31n1603_001:0585a13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知未斷無常，　　因能生諸果，",
+        "from": "T31n1603_001:0585a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自相續相似，　　名緣起善巧。",
+        "from": "T31n1603_001:0585a15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾生不可得，　　而有捨續者，",
+        "from": "T31n1603_001:0585a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由了達甚深，　　四種緣起故。",
+        "from": "T31n1603_001:0585a17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不作，不趣、得，　　二、餘體不轉，",
+        "from": "T31n1603_001:0585a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨見無餘業，　　非我自在二。",
+        "from": "T31n1603_001:0585a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是智能知，　　處非處善巧，",
+        "from": "T31n1603_001:0585a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於自果定處，　　異此說非處。",
+        "from": "T31n1603_001:0585a21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於能取生住，　　及染污清淨，",
+        "from": "T31n1603_001:0585a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無理我觀餘，　　於彼果增上。",
+        "from": "T31n1603_001:0585a23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於如是方便，　　名為根善巧，",
+        "from": "T31n1603_001:0585a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂於取生住，　　染淨增上故。",
+        "from": "T31n1603_001:0585a25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二自性苦故，　　合故不應理，",
+        "from": "T31n1603_001:0585a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由無因有因，　　及五種譬喻。",
+        "from": "T31n1603_001:0585a27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是隨覺故，　　應知諦善巧，",
+        "from": "T31n1603_001:0585a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨覺未曾見，　　未受義因緣。",
+        "from": "T31n1603_001:0585a29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知諸善巧，　　差別二十三，",
+        "from": "T31n1603_001:0585b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "異攝論為先，　　後最極清淨。",
+        "from": "T31n1603_001:0585b02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無常謂有為，　　三相相應故，",
+        "from": "T31n1603_001:0585b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無常義如應，　　六八種應知。",
+        "from": "T31n1603_001:0585b05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無性、壞、轉異、　　別離、得、當有；",
+        "from": "T31n1603_001:0585b06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剎那、續、病等，　　心、器、受用故。",
+        "from": "T31n1603_001:0585b07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "變異應當知，　　十五種差別，",
+        "from": "T31n1603_001:0585b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂分位等，　　八緣所逼故。",
+        "from": "T31n1603_001:0585b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下界具一切，　　中界離三門，",
+        "from": "T31n1603_001:0585b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具三種變異，　　上界復除器。",
+        "from": "T31n1603_001:0585b11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無性義無常，　　遍計之所執；",
+        "from": "T31n1603_001:0585b12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所餘無常義，　　依他起應知。",
+        "from": "T31n1603_001:0585b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸無常皆苦，　　眾苦所雜故；",
+        "from": "T31n1603_001:0585b14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迷法性愚夫，　　得為害不覺。",
+        "from": "T31n1603_001:0585b15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由彼心果故，　　生已自然滅，",
+        "from": "T31n1603_001:0585b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後變異可得，　　念念滅應知。",
+        "from": "T31n1603_001:0585b17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心熏習增上，　　定轉變自在，",
+        "from": "T31n1603_001:0585b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "影像生道理，　　及三種聖教。",
+        "from": "T31n1603_001:0585b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生因相違故，　　無住滅兩因，",
+        "from": "T31n1603_001:0585b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自然住常過，　　當知任運滅。",
+        "from": "T31n1603_001:0585b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非水火風滅，　　以俱起滅故，",
+        "from": "T31n1603_001:0585b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼相應滅已，　　餘變異生因。",
+        "from": "T31n1603_001:0585b23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相違相續斷，　　二相成無相，",
+        "from": "T31n1603_001:0585b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "違世間現見，　　無法及餘因。",
+        "from": "T31n1603_001:0585b25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非身乳林等，　　先無有變異，",
+        "from": "T31n1603_001:0585b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦非初不壞，　　最後時方滅。",
+        "from": "T31n1603_001:0585b27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "位思煩惱分，　　非常變異故，",
+        "from": "T31n1603_001:0585b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此若無變異，　　受作脫非理。",
+        "from": "T31n1603_001:0585b29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "功能無有故，　　攝不攝相違，",
+        "from": "T31n1603_001:0585c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有用及無用，　　為因成過失。",
+        "from": "T31n1603_001:0585c02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自性變異相，　　有無不應理，",
+        "from": "T31n1603_001:0585c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無差別無常，　　有差別五失。",
+        "from": "T31n1603_001:0585c04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無相亦無因，　　非自性恒異，",
+        "from": "T31n1603_001:0585c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先無有變異，　　我應常解脫。",
+        "from": "T31n1603_001:0585c06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常、造不應理，　　由二三因故，",
+        "from": "T31n1603_001:0585c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "財有情增上，　　極微非常住。",
+        "from": "T31n1603_001:0585c08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無常為彼依，　　次第差別轉，",
+        "from": "T31n1603_001:0585c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸受等異故，　　當知覺無常。",
+        "from": "T31n1603_001:0585c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於無常無智，　　四顛倒根本，",
+        "from": "T31n1603_001:0585c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知世上道，　　愚癡力轉增。",
+        "from": "T31n1603_001:0585c12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由放逸、懈怠、　　見、昧、乏資糧、",
+        "from": "T31n1603_001:0585c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惡友、非正法，　　當知無智因。",
+        "from": "T31n1603_001:0585c14_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不如理作意、　　憶念前際等，",
+        "from": "T31n1603_001:0585c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相似相續轉，　　於無常計常。",
+        "from": "T31n1603_001:0585c16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生初後中間，　　取三有為相。",
+        "from": "T31n1603_001:0585c17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無常調伏智，　　當知由二因。",
+        "from": "T31n1603_001:0585c18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼見有六種，　　及緣起四種。",
+        "from": "T31n1603_001:0585c19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自種故非他，　　待緣故非自，",
+        "from": "T31n1603_001:0585c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無作故非共，　　用故非無因。",
+        "from": "T31n1603_001:0585c21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生為欲離因，　　滅生和合欲，",
+        "from": "T31n1603_001:0585c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "倒無倒厭離，　　彼因為苦相。",
+        "from": "T31n1603_001:0585c24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依三受差別，　　建立三苦相，",
+        "from": "T31n1603_001:0585c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故說一切受，　　體性皆是苦。",
+        "from": "T31n1603_001:0585c26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知行性苦，　　皆麁重隨故，",
+        "from": "T31n1603_001:0585c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樂、捨不應理，　　同無解脫過。",
+        "from": "T31n1603_001:0585c28_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "利深等障礙，　　依進住乘空，",
+        "from": "T31n1603_001:0585c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "執著性下劣，　　顛倒及染污。",
+        "from": "T31n1603_001:0586a01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如癰疥癩等，　　三受之所依，",
+        "from": "T31n1603_001:0586a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼能發三觸，　　取樂等隨轉。",
+        "from": "T31n1603_001:0586a03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自相、自分別、　　不安隱苦性，",
+        "from": "T31n1603_001:0586a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五十五應知，　　三苦之所攝。",
+        "from": "T31n1603_001:0586a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "界、緣、身等、趣、　　種類、諦、三世、",
+        "from": "T31n1603_001:0586a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時、命、品異故，　　引眾苦差別。",
+        "from": "T31n1603_001:0586a07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未離欲色等，　　三種地應知，",
+        "from": "T31n1603_001:0586a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲界一切種，　　色無色除二。",
+        "from": "T31n1603_001:0586a09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世俗有二種，　　勝義謂遍行，",
+        "from": "T31n1603_001:0586a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二緣通上地，　　當知無現染。",
+        "from": "T31n1603_001:0586a11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非無色重擔，　　遍行天麁重，",
+        "from": "T31n1603_001:0586a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及諦最後邊，　　餘七上隨縛。",
+        "from": "T31n1603_001:0586a13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知生等苦，　　各五種差別，",
+        "from": "T31n1603_001:0586a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "苦麁重相應，　　三苦所依止。",
+        "from": "T31n1603_001:0586a15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最後與最後，　　各四苦所依，",
+        "from": "T31n1603_001:0586a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂生、生根本，　　及苦性、變壞。",
+        "from": "T31n1603_001:0586a17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三世之所攝，　　二緣苦非上，",
+        "from": "T31n1603_001:0586a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所說餘諸苦，　　皆欲界應知。",
+        "from": "T31n1603_001:0586a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "失念無功用，　　亂不正思惟，",
+        "from": "T31n1603_001:0586a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不正了愚癡，　　及由放逸等。",
+        "from": "T31n1603_001:0586a21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昧故、羸劣故，　　及起放逸故、",
+        "from": "T31n1603_001:0586a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相續斷絕故，　　忘念轉應知。",
+        "from": "T31n1603_001:0586a23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昧故、放逸故、　　保重現法故、",
+        "from": "T31n1603_001:0586a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不信當苦故，　　無功用發起。",
+        "from": "T31n1603_001:0586a25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相似相續轉、　　對治妄分別、",
+        "from": "T31n1603_001:0586a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "串習、總取故，　　起四種顛倒。",
+        "from": "T31n1603_001:0586a27_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "界別、緣起別、　　位別、次第別，",
+        "from": "T31n1603_001:0586a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及相續差別，　　當知各多種。",
+        "from": "T31n1603_001:0586a29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "信解與思擇，　　不亂心厭離，",
+        "from": "T31n1603_001:0586b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見修及究竟，　　又如前十一。",
+        "from": "T31n1603_001:0586b02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "纏、疑、不樂離，　　沈、惡趣、餘趣，",
+        "from": "T31n1603_001:0586b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下劣行所起，　　遍獨眾苦盡。",
+        "from": "T31n1603_001:0586b04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若於此無有，　　及此餘所有，",
+        "from": "T31n1603_001:0586b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨二種道理，　　說空相無二。",
+        "from": "T31n1603_001:0586b07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "甚深相應知，　　取捨無增減。",
+        "from": "T31n1603_001:0586b08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "差別有眾多，　　如彼彼宣說。",
+        "from": "T31n1603_001:0586b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯假過失故，　　蘊無我過故，",
+        "from": "T31n1603_001:0586b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我無身過故，　　三我不應理。",
+        "from": "T31n1603_001:0586b11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如主、火、明、空，　　形異依他過，",
+        "from": "T31n1603_001:0586b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無常無業用，　　非因非有我。",
+        "from": "T31n1603_001:0586b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我唯應是假，　　譬喻不可得，",
+        "from": "T31n1603_001:0586b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七喻妄分別，　　無見者等三。",
+        "from": "T31n1603_001:0586b15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若如種無常，　　作者應成假，",
+        "from": "T31n1603_001:0586b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如成就神通，　　應世俗自在。",
+        "from": "T31n1603_001:0586b17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我如地如空，　　應無常無性，",
+        "from": "T31n1603_001:0586b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應如二無作，　　分明業可得。",
+        "from": "T31n1603_001:0586b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能燒及能斷，　　唯火等所作，",
+        "from": "T31n1603_001:0586b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我於見等具，　　非如刀火等。",
+        "from": "T31n1603_001:0586b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如光能照用，　　離光無異體，",
+        "from": "T31n1603_001:0586b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故於內外，　　空無我義成。",
+        "from": "T31n1603_001:0586b23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如世間外物，　　離我有損益，",
+        "from": "T31n1603_001:0586b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "內雖無實我，　　染淨義應成。",
+        "from": "T31n1603_001:0586b25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "位、思、煩惱分，　　無常變異故，",
+        "from": "T31n1603_001:0586b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我常無轉易，　　受、作、脫應無。",
+        "from": "T31n1603_001:0586b27_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法性從緣生，　　展轉現相續，",
+        "from": "T31n1603_001:0586b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有因而不住，　　變異故名轉。",
+        "from": "T31n1603_001:0586b29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如身牙河燈，　　有種種作用；",
+        "from": "T31n1603_001:0586c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我常無變異，　　轉還不應理。",
+        "from": "T31n1603_001:0586c02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依我起名想，　　見二種過失，",
+        "from": "T31n1603_001:0586c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故遍一切，　　實我性都無。",
+        "from": "T31n1603_001:0586c04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為言說易故、　　隨順世間故、",
+        "from": "T31n1603_001:0586c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷除怖畏故、　　顯得失二故。",
+        "from": "T31n1603_001:0586c06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "率爾覺亂起，　　世間現可得，",
+        "from": "T31n1603_001:0586c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覺為先作業，　　有十種過失。",
+        "from": "T31n1603_001:0586c08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覺、我、因、功用、　　自在等各二，",
+        "from": "T31n1603_001:0586c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有因及無因，　　當知十種過。",
+        "from": "T31n1603_001:0586c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不審決、遍行、　　增益及無事、",
+        "from": "T31n1603_001:0586c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於事怖妄見，　　譬喻五應知。",
+        "from": "T31n1603_001:0586c12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無體及遠離，　　除遣依三種，",
+        "from": "T31n1603_001:0586c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "對治諸縛想，　　十六種差別。",
+        "from": "T31n1603_001:0586c14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自性與執著、　　不開解、失念、",
+        "from": "T31n1603_001:0586c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切遍、一分，　　愚差別流轉。",
+        "from": "T31n1603_001:0586c16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法住、求自心、　　住自心、除縛、",
+        "from": "T31n1603_001:0586c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "怖、無二、染、淨，　　證得真空理。",
+        "from": "T31n1603_001:0586c18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修差別十八，　　或有毒無毒，",
+        "from": "T31n1603_001:0586c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "對治五種執，　　略二種應知。",
+        "from": "T31n1603_001:0586c20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修果應當知，　　三菩提功德，",
+        "from": "T31n1603_001:0586c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依止轉依性，　　所作事成就。",
+        "from": "T31n1603_001:0586c22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三自性應知，　　初遍計所執，",
+        "from": "T31n1603_001:0586c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次依他起性，　　最後圓成實。",
+        "from": "T31n1603_001:0586c25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三無性應知，　　不離三自性，",
+        "from": "T31n1603_001:0586c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由相無、生無，　　及勝義無性。",
+        "from": "T31n1603_001:0586c27_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非五事所攝，　　此外更無有，",
+        "from": "T31n1603_001:0586c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由名於義轉，　　二更互為客。",
+        "from": "T31n1603_001:0586c29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於名前覺無，　　多名及不定，",
+        "from": "T31n1603_001:0587a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於有義無義，　　轉非理義成。",
+        "from": "T31n1603_001:0587a02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "取己立名故，　　餘即不能取，",
+        "from": "T31n1603_001:0587a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如眾生邪執，　　增益為顛倒。",
+        "from": "T31n1603_001:0587a04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由熏起依他，　　依此生顛倒，",
+        "from": "T31n1603_001:0587a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是互為緣，　　展轉生相續。",
+        "from": "T31n1603_001:0587a06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自性與差別，　　有覺悟、隨眠、",
+        "from": "T31n1603_001:0587a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "加行、名遍計，　　又當知五種。",
+        "from": "T31n1603_001:0587a08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分別有八種，　　能生於三事，",
+        "from": "T31n1603_001:0587a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分別體應知，　　三界心心法。",
+        "from": "T31n1603_001:0587a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由二縛所縛，　　堅執二自性，",
+        "from": "T31n1603_001:0587a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故二縛解脫，　　正無得無見。",
+        "from": "T31n1603_001:0587a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假有所依因，　　若異壞二種，",
+        "from": "T31n1603_001:0587a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雜染可得故，　　當知依他起。",
+        "from": "T31n1603_001:0587a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相麁重為體，　　此更互緣生，",
+        "from": "T31n1603_001:0587a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非自然是有，　　故說生無性。",
+        "from": "T31n1603_001:0587a16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非決定有無，　　一切種皆許，",
+        "from": "T31n1603_001:0587a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "通假實二性，　　世俗說為有。",
+        "from": "T31n1603_001:0587a18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宣說我法用，　　皆名為世俗；",
+        "from": "T31n1603_001:0587a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知勝義諦，　　謂七種真如。",
+        "from": "T31n1603_001:0587a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圓成實自性，　　二最勝智義，",
+        "from": "T31n1603_001:0587a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無有諸戲論，　　遠離一異性。",
+        "from": "T31n1603_001:0587a22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清淨之所緣，　　常無有變異，",
+        "from": "T31n1603_001:0587a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善性及樂性，　　一切皆成就。",
+        "from": "T31n1603_001:0587a24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "實勝義無性，　　戲論我無故，",
+        "from": "T31n1603_001:0587a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依他無彼相，　　亦勝義無性。",
+        "from": "T31n1603_001:0587a26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依三相應知，　　建立五種相，",
+        "from": "T31n1603_001:0587a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼如其所應，　　別別有五業。",
+        "from": "T31n1603_001:0587a28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法執故愚夫，　　起彼眾生執；",
+        "from": "T31n1603_001:0587a29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼除覺法性，　　覺法我執斷。",
+        "from": "T31n1603_001:0587b01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於依他執初，　　熏習成雜染；",
+        "from": "T31n1603_001:0587b02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無執圓成實，　　熏習成清淨。",
+        "from": "T31n1603_001:0587b03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雜染有漏性，　　清淨則無漏，",
+        "from": "T31n1603_001:0587b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此當知轉依，　　不思議二種。",
+        "from": "T31n1603_001:0587b05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真實及自體，　　寂靜與功德，",
+        "from": "T31n1603_001:0587b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切不思議，　　當知由四道。",
+        "from": "T31n1603_001:0587b07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聲聞有二種，　　趣寂、趣菩提，",
+        "from": "T31n1603_001:0587b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依止變化身，　　趣無上正覺。",
+        "from": "T31n1603_001:0587b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸聲聞轉依，　　厭背修所得；",
+        "from": "T31n1603_001:0587b10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩方便修，　　無二智依止，",
+        "from": "T31n1603_001:0587b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不住生滅故；",
+        "from": "T31n1603_001:0587b12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　諸佛智無上，利樂諸有情，　　不思議無二。",
+        "from": "T31n1603_001:0587b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知現所觀，　　下中上品事，",
+        "from": "T31n1603_001:0587b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有漏及無漏，　　未見未受遍。",
+        "from": "T31n1603_001:0587b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出世間勝智，　　能除見所斷，",
+        "from": "T31n1603_001:0587b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無分別證得，　　唯依止靜慮。",
+        "from": "T31n1603_001:0587b18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "極慼非惡趣，　　極欣非上二，",
+        "from": "T31n1603_001:0587b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "處欲界人天，　　佛出世現觀。",
+        "from": "T31n1603_001:0587b20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未離欲、倍離，　　及已離欲者，",
+        "from": "T31n1603_001:0587b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獨、一證正覺，　　最勝我所生。",
+        "from": "T31n1603_001:0587b22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非我為智因，　　亦非自取境，",
+        "from": "T31n1603_001:0587b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我非自現觀，　　執愛自我故。",
+        "from": "T31n1603_001:0587b24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無常有境界，　　待緣智生起，",
+        "from": "T31n1603_001:0587b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷麁重等三，　　故依心現觀。",
+        "from": "T31n1603_001:0587b26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已成熟相續，　　或聽聞正法，",
+        "from": "T31n1603_001:0587b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自然極如理，　　作意故現觀，",
+        "from": "T31n1603_001:0587b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "繫念於所緣，　　精勤修靜定，",
+        "from": "T31n1603_001:0587b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "增上善根力，　　證聖覺道分。",
+        "from": "T31n1603_001:0587c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從是入見道，　　無漏正見起，",
+        "from": "T31n1603_001:0587c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永斷於三結，　　證現觀應知。",
+        "from": "T31n1603_001:0587c03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖惡趣雜染，　　計所起惑斷，",
+        "from": "T31n1603_001:0587c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "境見導師等，　　隨生三所攝。",
+        "from": "T31n1603_001:0587c05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由先世間智，　　簡擇諦究竟，",
+        "from": "T31n1603_001:0587c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於諦無加行，　　決定生起相，",
+        "from": "T31n1603_001:0587c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智境和合相，　　於所知究竟，",
+        "from": "T31n1603_001:0587c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知諦現觀，　　於十種決定。",
+        "from": "T31n1603_001:0587c09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我性無三有，　　不滅無有二，",
+        "from": "T31n1603_001:0587c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無分別無怖，　　自斷中決定。",
+        "from": "T31n1603_001:0587c11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "發起、證、等流、　　成滿次第四；",
+        "from": "T31n1603_001:0587c12_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又法住智等，　　次第八應知。",
+        "from": "T31n1603_001:0587c13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無悔住所緣，　　如實見境界，",
+        "from": "T31n1603_001:0587c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道所依無惑，　　純差別行斷。",
+        "from": "T31n1603_001:0587c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三淨攝應知，　　戒淨及心淨，",
+        "from": "T31n1603_001:0587c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "境界依止道，　　說為慧清淨。",
+        "from": "T31n1603_001:0587c17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知身等因緣，　　善達於三世，",
+        "from": "T31n1603_001:0587c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次了知四苦，　　復八苦應知。",
+        "from": "T31n1603_001:0587c19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從是正觀諦，　　起十六行智，",
+        "from": "T31n1603_001:0587c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為治四顛倒，　　後後之所依。",
+        "from": "T31n1603_001:0587c21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從是轉修習，　　於心總厭離、",
+        "from": "T31n1603_001:0587c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦簡擇、決定、　　究竟覺生起。",
+        "from": "T31n1603_001:0587c23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從此無加行，　　解脫智三心，",
+        "from": "T31n1603_001:0587c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一百一十二，　　煩惱斷十攝。",
+        "from": "T31n1603_001:0587c25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此證菩提分，　　六種淨智相，",
+        "from": "T31n1603_001:0587c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行無分別故，　　隨所作建立。",
+        "from": "T31n1603_001:0587c27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩在此位，　　先修勝因力，",
+        "from": "T31n1603_001:0587c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於自他身苦，　　起平等心性。",
+        "from": "T31n1603_001:0587c29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是大我意樂，　　於自性無得，",
+        "from": "T31n1603_001:0588a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣意樂當知，　　二性無分別。",
+        "from": "T31n1603_001:0588a02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次上十六行，　　清淨世間智，",
+        "from": "T31n1603_001:0588a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "對治界地故，　　究竟事成就。",
+        "from": "T31n1603_001:0588a04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此現觀差別，　　或六或十八，",
+        "from": "T31n1603_001:0588a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相勝利眾多，　　隨經論廣說。",
+        "from": "T31n1603_001:0588a06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "般若度瑜伽，　　等至無分別，",
+        "from": "T31n1603_001:0588a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切一切種，　　無有分別故。",
+        "from": "T31n1603_001:0588a09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切一切種，　　三相與三輪，",
+        "from": "T31n1603_001:0588a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂名相染淨，　　及俱非二種。",
+        "from": "T31n1603_001:0588a11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於法及法空，　　無二種戲論；",
+        "from": "T31n1603_001:0588a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無分別無窮，　　此上非應理。",
+        "from": "T31n1603_001:0588a13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若都無所取，　　無慧亦無度，",
+        "from": "T31n1603_001:0588a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "俱成取離言，　　為順非無用。",
+        "from": "T31n1603_001:0588a15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九事不思議，　　由依止五處，",
+        "from": "T31n1603_001:0588a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有五種因故，　　得失俱三種。",
+        "from": "T31n1603_001:0588a18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不應思不記，　　當知由四因，",
+        "from": "T31n1603_001:0588a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非定一甚深，　　引無義相住。",
+        "from": "T31n1603_001:0588a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不思我有無，　　成二過失故，",
+        "from": "T31n1603_001:0588a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於他亦二失，　　不應思一異。",
+        "from": "T31n1603_001:0588a22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二雖不依見，　　成故不應思，",
+        "from": "T31n1603_001:0588a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不思如是生，　　三過所隨故。",
+        "from": "T31n1603_001:0588a24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善趣與惡趣，　　二作者非定，",
+        "from": "T31n1603_001:0588a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "過去善惡業，　　處事等難思。",
+        "from": "T31n1603_001:0588a26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真如無漏性，　　成所作義利，",
+        "from": "T31n1603_001:0588a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靜慮者如來，　　無譬自在故。",
+        "from": "T31n1603_001:0588a28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "外道所宣說，　　能引無義利，",
+        "from": "T31n1603_001:0588a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非理遠四處，　　無記不應思。",
+        "from": "T31n1603_001:0588b01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非處勤功用，　　毀謗於大我，",
+        "from": "T31n1603_001:0588b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不修清淨善，　　故成三過失。",
+        "from": "T31n1603_001:0588b03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠離不思議，　　思可思議處，",
+        "from": "T31n1603_001:0588b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具八種功德，　　故如理應思。",
+        "from": "T31n1603_001:0588b05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸佛之所說，　　遍知等無違，",
+        "from": "T31n1603_001:0588b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五因二因故，　　於此不應思。",
+        "from": "T31n1603_001:0588b07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "數、相、別、有、處、　　邊際與生起、",
+        "from": "T31n1603_001:0588b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "想、善巧、攝等，　　勝決擇諸事。",
+        "from": "T31n1603_001:0588b10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心性有二種，　　異熟及與轉，",
+        "from": "T31n1603_001:0588b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初阿賴耶識，　　種子二應知。",
+        "from": "T31n1603_001:0588b12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "執受、初、明了、　　種子、業、身受、",
+        "from": "T31n1603_001:0588b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無心定、命終，　　無皆不應理。",
+        "from": "T31n1603_001:0588b14_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所緣境、相應，　　更互二因性，",
+        "from": "T31n1603_001:0588b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "識等俱流轉，　　雜染污還滅。",
+        "from": "T31n1603_001:0588b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所依境界力，　　建立心差別，",
+        "from": "T31n1603_001:0588b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復由七種行，　　難了相應知。",
+        "from": "T31n1603_001:0588b18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所緣無自在，　　住惡所依止，",
+        "from": "T31n1603_001:0588b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨緣力所轉，　　心繫縛應知。",
+        "from": "T31n1603_001:0588b20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "散亂及安住，　　六種十五種，",
+        "from": "T31n1603_001:0588b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "緣境界六等，　　所治心非一。",
+        "from": "T31n1603_001:0588b22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依多境了別，　　各為自業生，",
+        "from": "T31n1603_001:0588b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心法不應思，　　相似境轉故。",
+        "from": "T31n1603_001:0588b24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "引心三分別，　　領位審了相，",
+        "from": "T31n1603_001:0588b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得失等營為，　　名作意等業。",
+        "from": "T31n1603_001:0588b26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上界無香味，　　大造隨可得，",
+        "from": "T31n1603_001:0588b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "極微無自體，　　非實有七事。",
+        "from": "T31n1603_001:0588b28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "微和合不離，　　善惡無自然，",
+        "from": "T31n1603_001:0588b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三相想外無，　　法處色十二。",
+        "from": "T31n1603_001:0588c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知不相應，　　皆假施設有，",
+        "from": "T31n1603_001:0588c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假有性六種，　　彼皆二過故。",
+        "from": "T31n1603_001:0588c03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三過因非五，　　因相略繫合，",
+        "from": "T31n1603_001:0588c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相依處差別，　　建立有多種。",
+        "from": "T31n1603_001:0588c05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心所緣等故，　　清淨所緣故，",
+        "from": "T31n1603_001:0588c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四種離繫故，　　建立八無為。",
+        "from": "T31n1603_001:0588c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三界應當知，　　十二相差別，",
+        "from": "T31n1603_001:0588c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所治及能治，　　唯能損伏種。",
+        "from": "T31n1603_001:0588c09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法王、海醎味、　　欲惡趣長壽、",
+        "from": "T31n1603_001:0588c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多世界共一，　　各二種因緣。",
+        "from": "T31n1603_001:0588c11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意相應四惑，　　遍行而俱起，",
+        "from": "T31n1603_001:0588c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無記最後滅，　　隨所生彼性。",
+        "from": "T31n1603_001:0588c13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切生相續，　　現起及與緣，",
+        "from": "T31n1603_001:0588c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨眠、境麁重，　　各差別二十。",
+        "from": "T31n1603_001:0588c15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨順自生故，　　種子故事故，",
+        "from": "T31n1603_001:0588c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生四過失故，　　不淨三因故。",
+        "from": "T31n1603_001:0588c17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "業思及思已，　　差別有十三，",
+        "from": "T31n1603_001:0588c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼果六、三位，　　業決定五種。",
+        "from": "T31n1603_001:0588c19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自業等四種，　　此先熟亦四，",
+        "from": "T31n1603_001:0588c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復九種當知，　　即二種差別。",
+        "from": "T31n1603_001:0588c21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "命終定不定，　　中殀由六因，",
+        "from": "T31n1603_001:0588c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明了位三心，　　中有或有無。",
+        "from": "T31n1603_001:0588c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依餘有所緣，　　染污心生起，",
+        "from": "T31n1603_001:0588c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於四種生中，　　及三界五趣。",
+        "from": "T31n1603_001:0588c25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知世俗諦，　　意解義及說，",
+        "from": "T31n1603_001:0588c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨所緣彼性，　　方便名勝義。",
+        "from": "T31n1603_001:0588c27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知是四種，　　染淨之所攝，",
+        "from": "T31n1603_001:0588c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未見、未經受，　　如病、病滅因。",
+        "from": "T31n1603_001:0588c29_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知是四諦，　　各四相四行，",
+        "from": "T31n1603_001:0589a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遍知等四種，　　因果性差別。",
+        "from": "T31n1603_001:0589a02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼覺無乖諍，　　法爾、證亦然，",
+        "from": "T31n1603_001:0589a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦三種唯善，　　復二種應知。",
+        "from": "T31n1603_001:0589a04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知七依止，　　三種所依性，",
+        "from": "T31n1603_001:0589a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼善巧二種，　　四句等廣說。",
+        "from": "T31n1603_001:0589a06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靜慮數障分，　　及彼廣建立，",
+        "from": "T31n1603_001:0589a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠離於苦動，　　後後分勝異。",
+        "from": "T31n1603_001:0589a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "近分喜有動，　　唯初能盡漏，",
+        "from": "T31n1603_001:0589a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦二種緣聲，　　八等至捨八。",
+        "from": "T31n1603_001:0589a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現法安樂住，　　能入於現觀，",
+        "from": "T31n1603_001:0589a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讚說想解脫，　　四種因當知。",
+        "from": "T31n1603_001:0589a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愛味等當知，　　十種、六、三種，",
+        "from": "T31n1603_001:0589a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "退相續障治，　　各多種差別。",
+        "from": "T31n1603_001:0589a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "利根及生轉，　　當知無有退，",
+        "from": "T31n1603_001:0589a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依下地發定，　　離欲後生故。",
+        "from": "T31n1603_001:0589a16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依二乘大乘，　　由二十七相，",
+        "from": "T31n1603_001:0589a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正方便當知，　　建立於覺分。",
+        "from": "T31n1603_001:0589a18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身等三差別，　　彼影像隨觀，",
+        "from": "T31n1603_001:0589a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由聞等三智，　　念法無迷惑。",
+        "from": "T31n1603_001:0589a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼所治九種，　　作意當知二，",
+        "from": "T31n1603_001:0589a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修差別有三，　　二種無失壞。",
+        "from": "T31n1603_001:0589a22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為斷於沈掉，　　相應道二種，",
+        "from": "T31n1603_001:0589a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀察捨煩惱，　　及為盡三愛。",
+        "from": "T31n1603_001:0589a24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為斷增上慢，　　味所依顛倒，",
+        "from": "T31n1603_001:0589a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及三心趣入，　　修習於念住。",
+        "from": "T31n1603_001:0589a26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由根等差別，　　建立五唯二，",
+        "from": "T31n1603_001:0589a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假設五應知，　　三事成圓滿。",
+        "from": "T31n1603_001:0589a28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "證轉依不起，　　二因果無退，",
+        "from": "T31n1603_001:0589a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三因故斷常，　　三果三因記。",
+        "from": "T31n1603_001:0589b01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "建立諸功德，　　由十七增上，",
+        "from": "T31n1603_001:0589b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼差別無邊，　　治所治障故。",
+        "from": "T31n1603_001:0589b03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "思惟義樂苦，　　作意及安住，",
+        "from": "T31n1603_001:0589b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "艱難與相貌，　　殊特非殊特。",
+        "from": "T31n1603_001:0589b05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種性、如來說、　　多佛與二乘，",
+        "from": "T31n1603_001:0589b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五種及十種、　　六、六種道理。",
+        "from": "T31n1603_001:0589b07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸佛妙功能，　　彼果土清淨，",
+        "from": "T31n1603_001:0589b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "解脫與法身，　　等不思無上。",
+        "from": "T31n1603_001:0589b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖不用加行，　　先願力所引，",
+        "from": "T31n1603_001:0589b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依無為發起，　　所作無二相。",
+        "from": "T31n1603_001:0589b11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宣說諸事法，　　別解脫分別，",
+        "from": "T31n1603_001:0589b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸法相十一，　　是經律本藏。",
+        "from": "T31n1603_001:0589b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸相與斷滅、　　無失壞方便、",
+        "from": "T31n1603_001:0589b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼二果、差別，　　是諸經略義。",
+        "from": "T31n1603_001:0589b15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "略說瑜伽道，　　緣所聞正法，",
+        "from": "T31n1603_001:0589b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奢摩他與觀，　　依影像成就。",
+        "from": "T31n1603_001:0589b17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "顯揚聖教論頌",
+        "from": "T31n1603_001:0589b18_100",
+        "context_with_next_sentence": false
+    }
+]

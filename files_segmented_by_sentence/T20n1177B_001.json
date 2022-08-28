@@ -1,4 +1,32 @@
-{
-    "T20n1177B_001:0776a03_0": "千鉢文殊一百八名讚",
-    "T20n1177B_001:0777c14_0": "本(云)　般若寺僧正觀賢御本ヲ以テ交之朗澄明應六年(丁巳)五月十九日善忍律師染筆"
-}
+[
+    {
+        "source_sentence": "千鉢文殊一百八名讚",
+        "from": "T20n1177B_001:0776a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇖵􄙺􄚩􄗚􄙰􄕗􄗥􄕝􄕋􄙘􄟰􄙺􅞤􅛔􄙺",
+        "from": "T20n1177B_001:0776a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄕻􄖫􄗥􄒶􄑬􄖻􄕋􄙺􇧺􄖪􄗥􄕛􈅉􈋽􄒶",
+        "from": "T20n1177B_001:0776a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　􈃹",
+        "from": "T20n1177B_001:0776a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗭􆵋􄙢􄕗􄑊􄙺􄗥􆻤􇧆　　　　􈃹",
+        "from": "T20n1177B_001:0777c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本云　般若寺僧正觀賢御本ヲ以テ交之朗澄明應六年丁巳五月十九日善忍律師染筆",
+        "from": "T20n1177B_001:0777c17_100",
+        "context_with_next_sentence": false
+    }
+]

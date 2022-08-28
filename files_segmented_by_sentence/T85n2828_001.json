@@ -1,7 +1,142 @@
-{
-    "T85n2828_001:1266a13_0": "大乘淨土讚一本",
-    "T85n2828_001:1266a15_0-0": "　法鏡臨空照　　心通五色現　　現心淨妙察　法界亦通□　　意珠恒自淨　　身光照十方　至心無處住　　解脫得清□　　觀想如無想　高聲不□聲　　料知無門有　　惠鏡□殺□　側子由空淨　　悟則無所緣　　坐臥空消裏　超出裏人天　　暫到他邊立　　洗却意中泥　清淨無塵垢　　願以證菩提　　惠鏡無靈闇　智者常用明　　塵勞雖斷却　",
-    "T85n2828_001:1266a15_0-1": "　寶藏自然明　池練金沙水　　連中法性流　　花開化生子　說我本根由　　住想常觀察　　三昧寶王真　巡還三藏數　　弗却意中泥　　有人專念佛　念佛入深禪　　初夜端心坐　　西方在目前　念則知無念　　無念是□如　　若料此中意　是名法性殊　　淨土在心頭　　愚人向外求　深中有寶鏡　　不識一生休　　諸佛在心頭　如此不能求　",
-    "T85n2828_001:1266a15_0-2": "　甚物靈希有　　急手早懃修　寶鏡人皆有　　愚人不解磨　　不能返手照　塵垢更曾多　　寶鏡人家有　　智人則解摩　懃懃返自照　　塵垢莫來過　　意殊恒名徹　自性本□□　　悟理之修趣　　念佛即無生　碎未為金鑛　　鑛中不現金　　知者容消鍊　真金腸內見　　佛想空無想　　真如寂不言　口談文字教　　此界妄想禪　　涅盤末藏法　",
-    "T85n2828_001:1266a15_0-3": "祕密不交傳　　心通常自用　　威當度有緣　三乘尤不識　　外道未曾聞　　小恨多毀謗　誓願莫流傳　　道[遄-而+夆]梁賢　　犯手想傳　道[遄-而+夆]不凉賢　　子母莫交傳"
-}
+[
+    {
+        "source_sentence": "大乘淨土讚一本",
+        "from": "T85n2828_001:1266a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法鏡臨空照　　心通五色現　　現心淨妙察",
+        "from": "T85n2828_001:1266a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法界亦通□　　意珠恒自淨　　身光照十方",
+        "from": "T85n2828_001:1266a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至心無處住　　解脫得清□　　觀想如無想",
+        "from": "T85n2828_001:1266a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "高聲不□聲　　料知無門有　　惠鏡□殺□",
+        "from": "T85n2828_001:1266a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "側子由空淨　　悟則無所緣　　坐臥空消裏",
+        "from": "T85n2828_001:1266a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "超出裏人天　　暫到他邊立　　洗却意中泥",
+        "from": "T85n2828_001:1266a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清淨無塵垢　　願以證菩提　　惠鏡無靈闇",
+        "from": "T85n2828_001:1266a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者常用明　　塵勞雖斷却　　寶藏自然明",
+        "from": "T85n2828_001:1266a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "池練金沙水　　連中法性流　　花開化生子",
+        "from": "T85n2828_001:1266a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說我本根由　　住想常觀察　　三昧寶王真",
+        "from": "T85n2828_001:1266a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "巡還三藏數　　弗却意中泥　　有人專念佛",
+        "from": "T85n2828_001:1266a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "念佛入深禪　　初夜端心坐　　西方在目前",
+        "from": "T85n2828_001:1266a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "念則知無念　　無念是□如　　若料此中意",
+        "from": "T85n2828_001:1266a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名法性殊　　淨土在心頭　　愚人向外求",
+        "from": "T85n2828_001:1266a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "深中有寶鏡　　不識一生休　　諸佛在心頭",
+        "from": "T85n2828_001:1266a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如此不能求　　甚物靈希有　　急手早懃修",
+        "from": "T85n2828_001:1266b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶鏡人皆有　　愚人不解磨　　不能返手照",
+        "from": "T85n2828_001:1266b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "塵垢更曾多　　寶鏡人家有　　智人則解摩",
+        "from": "T85n2828_001:1266b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懃懃返自照　　塵垢莫來過　　意殊恒名徹",
+        "from": "T85n2828_001:1266b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自性本□□　　悟理之修趣　　念佛即無生",
+        "from": "T85n2828_001:1266b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "碎未為金鑛　　鑛中不現金　　知者容消鍊",
+        "from": "T85n2828_001:1266b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真金腸內見　　佛想空無想　　真如寂不言",
+        "from": "T85n2828_001:1266b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "口談文字教　　此界妄想禪　　涅盤末藏法",
+        "from": "T85n2828_001:1266b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "祕密不交傳　　心通常自用　　威當度有緣",
+        "from": "T85n2828_001:1266b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三乘尤不識　　外道未曾聞　　小恨多毀謗",
+        "from": "T85n2828_001:1266b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誓願莫流傳　　道𨕱梁賢　　犯手想傳",
+        "from": "T85n2828_001:1266b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道𨕱不凉賢　　子母莫交傳",
+        "from": "T85n2828_001:1266b12_0",
+        "context_with_next_sentence": true
+    }
+]

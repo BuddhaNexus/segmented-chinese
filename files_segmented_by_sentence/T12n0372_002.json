@@ -1,141 +1,842 @@
-{
-    "T12n0372_002:0360a08_0": "佛說如幻三摩地無量印法門經",
-    "T12n0372_002:0360a09_0": "卷中",
-    "T12n0372_002:0360a11_0": "西天譯經三藏朝奉大夫",
-    "T12n0372_002:0360a12_0": "試光祿卿傳法大師賜",
-    "T12n0372_002:0360a13_0": "紫臣施護等奉　詔譯",
-    "T12n0372_002:0360a14_0": "復次彼彼樓閣周匝，或有天女執眾樂器，所謂琵琶篳篥、琴笙箜篌、螺鼓小鼓、拍板等類，作妙音樂。",
-    "T12n0372_002:0360a16_1": "或有天女捧赤栴檀香末，或有天女捧龍實栴檀香末，或有天女捧沈水栴檀香末，或有天女捧黑沈栴檀香末，或有天女捧眾妙栴檀香末，或有天女執優鉢羅華、俱母陀華、奔拏利迦華，或有天女執曼陀羅華、摩訶曼陀羅華，或有天女執播嚕沙迦華、摩訶播嚕沙迦華，或有天女執曼殊沙華、摩訶曼殊沙華，或有天女執嚕左華、摩訶嚕左華，或有天女執作訖囉華、摩訶作訖囉華、三滿多作訖囉華、蘇嚕唧囉作訖囉華，或有天女執贊捺囉華、摩訶贊[木*奈]囉華、蘇嚕唧囉贊[木*奈]囉華，或有天女執薩他羅華、摩訶薩他羅華、蘇嚕唧囉薩他羅華。",
-    "T12n0372_002:0360a28_2": "或有天女捧天妙衣，及妙華妙香、塗香末香等，隨處而住。",
-    "T12n0372_002:0360a29_3": "而彼一一&;而彼一一樓閣之中，各各有大妙寶莊嚴師子之座，化如來像安處其上，三十二相莊嚴具足。",
-    "T12n0372_002:0360b01_4": "又復一一樓閣之中，化出八萬四千真珠瓔珞，其珠三色，謂青白赤。",
-    "T12n0372_002:0360b01_5": "又復一一樓閣之中，化出八萬四千殊妙寶幢，以諸金鈴網覆其上，天衣垂下而為嚴飾。",
-    "T12n0372_002:0360b01_6": "又復一一樓閣之中，化出八萬四千寶瓶，盛諸妙香。",
-    "T12n0372_002:0360b01_7": "又復一一樓閣之中，化出八萬四千上妙寶蓋，以百千種極妙彩繪而為嚴飾。",
-    "T12n0372_002:0360b01_8": "又復一一樓閣之中，化出八萬四千多羅行樹，及八萬四千七寶行樹，一一皆以寶繩交絡。",
-    "T12n0372_002:0360b01_9": "又復一一樓閣之中，化出八萬四千懸鈴寶網，微風吹動出和雅音，如百千種妙音樂聲。",
-    "T12n0372_002:0360b01_10": "又復一一樓閣之中，化出寶池，是池純以金沙布底，七寶界道，瑠璃水精周匝莊飾，八功德水充滿其中，池中出生優鉢羅華、鉢訥摩華、俱母陀華、奔拏利迦華等，其池復有鳧鴈鴛鴦異鳥和鳴。",
-    "T12n0372_002:0360b01_11": "八萬四千妙寶行樹，周匝圍繞，上以八萬四千寶繩，交絡而為嚴飾。",
-    "T12n0372_002:0360b01_12": "又復一一樓閣之中，出大光明，廣照八萬四千由。",
-    "T12n0372_002:0360b02_0": "如來像安處其上，三十二相莊嚴具足。",
-    "T12n0372_002:0360b02_1": "又復一一樓閣之中，化出八萬四千真珠瓔珞，其珠三色，謂青白赤。",
-    "T12n0372_002:0360b04_2": "又復一一樓閣之中，化出八萬四千殊妙寶幢，以諸金鈴網覆其上，天衣垂下而為嚴飾。",
-    "T12n0372_002:0360b06_3": "又復一一樓閣之中，化出八萬四千寶瓶，盛諸妙香。",
-    "T12n0372_002:0360b07_4": "又復一一樓閣之中，化出八萬四千上妙寶蓋，以百千種極妙彩繪而為嚴飾。",
-    "T12n0372_002:0360b09_5": "又復一一樓閣之中，化出八萬四千多羅行樹，及八萬四千七寶行樹，一一皆以寶繩交絡。",
-    "T12n0372_002:0360b11_6": "又復一一樓閣之中，化出八萬四千懸鈴寶網，微風吹動出和雅音，如百千種妙音樂聲。",
-    "T12n0372_002:0360b13_7": "又復一一樓閣之中，化出寶池，是池純以金沙布底，七寶界道，瑠璃水精周匝莊飾，八功德水充滿其中，池中出生優鉢羅華、鉢訥摩華、俱母陀華、奔拏利迦華等，其池復有鳧鴈鴛鴦異鳥和鳴。",
-    "T12n0372_002:0360b17_8": "八萬四千妙寶行樹，周匝圍繞，上以八萬四千寶繩，交絡而為嚴飾。",
-    "T12n0372_002:0360b19_9": "又復一一樓閣之中，出大光明，廣照八萬四千由旬。",
-    "T12n0372_002:0360b20_10": "爾時觀自在菩薩摩訶薩、大勢至菩薩摩訶薩，及彼所來諸菩薩眾，以是殊妙莊嚴一切樓閣，一時置在一樓閣中，諸莊嚴事互不相礙，譬如力士屈伸臂頃，到此娑婆世界。",
-    "T12n0372_002:0360b24_11": "而諸菩薩，以神通力故，各以所現八十四俱胝功德莊嚴殊妙樓閣，置於佛會，如其所應神通威力，令此娑婆世界地平如掌，而佛會中亦不迫窄。",
-    "T12n0372_002:0360b27_12": "是諸樓閣出大光明，照此三千大千世界。",
-    "T12n0372_002:0360b28_13": "是時彼二菩薩，前詣佛所，頭面禮足，右繞三匝退住一面，俱白佛言：「無量光如來、應供、正等正覺，致問世尊釋迦牟尼如來，少病少惱、動止輕利、安樂行不？」",
-    "T12n0372_002:0360c03_0": "彼二菩薩復白佛言：「我等菩薩聲聞，於極樂世界見佛世尊，故來瞻覲。」",
-    "T12n0372_002:0360c04_1": "時此娑婆世界佛會之中，所有菩薩聲聞大眾，見此世界清淨嚴飾，及見無數廣大樓閣已，咸起是念：「如來何故現是威力，而能令彼諸大菩薩來至於此？」",
-    "T12n0372_002:0360c09_0": "爾時勝華藏菩薩承佛威神，從座而起前白佛言：「希有。",
-    "T12n0372_002:0360c10_1": "世尊！",
-    "T12n0372_002:0360c10_2": "希有。",
-    "T12n0372_002:0360c10_3": "善逝！",
-    "T12n0372_002:0360c10_4": "今此娑婆世界如是嚴飾及現樓閣，為是如來威神力邪？",
-    "T12n0372_002:0360c11_5": "為是彼二菩薩威力所變？",
-    "T12n0372_002:0360c12_6": "願佛為說。」",
-    "T12n0372_002:0360c13_0": "佛告勝華藏菩薩摩訶薩言：「勝華藏！",
-    "T12n0372_002:0360c13_1": "此非如來威神之力，乃是觀自在菩薩摩訶薩、大勢至菩薩摩訶薩威力所變，故現是相。」",
-    "T12n0372_002:0360c15_2": "勝華藏復白佛言：「希有。",
-    "T12n0372_002:0360c16_3": "世尊！",
-    "T12n0372_002:0360c16_4": "希有。",
-    "T12n0372_002:0360c16_5": "善逝！",
-    "T12n0372_002:0360c16_6": "此二大士，已得不可思議願力清淨、善根潔白，乃能有是神通威力。」",
-    "T12n0372_002:0360c18_7": "佛言勝華藏：「如是如是，如汝所說。",
-    "T12n0372_002:0360c19_0": "此二大士已於俱胝百千那庾多劫，積集善根清淨潔白。",
-    "T12n0372_002:0360c20_1": "又復已得如幻三摩地法門，從是三摩地中，能現如是種種色相神通等事。",
-    "T12n0372_002:0360c22_0": "復次勝華藏！",
-    "T12n0372_002:0360c22_1": "且置是事，汝觀東方為有何相？」",
-    "T12n0372_002:0360c23_0": "勝華藏菩薩承佛聖旨，即以無礙清淨天眼，觀見東方殑伽沙數佛剎之中，有殑伽沙數諸佛世尊，彼一一佛前，皆有觀自在菩薩摩訶薩、大勢至菩薩摩訶薩，各禮佛足，又聞其言：「無量光如來、應供、正等正覺，致問世尊，少病少惱、動止輕利、安樂行不？」",
-    "T12n0372_002:0360c28_1": "及見無量廣大樓閣妙寶嚴飾；如是南西北方，四維上下，一一皆見殑伽沙數佛剎之中，有殑伽沙數諸佛世尊，彼一一佛前皆有二大士各禮佛足，又聞其言：「無量光如來、應供、正等正覺，致問世尊，少病少惱、動止輕利、安樂行不？」",
-    "T12n0372_002:0361a04_2": "及見無量廣大樓閣妙寶嚴飾。",
-    "T12n0372_002:0361a05_3": "時勝華藏菩薩見是相已，復白佛言：「希有。",
-    "T12n0372_002:0361a06_4": "世尊！",
-    "T12n0372_002:0361a06_5": "希有。",
-    "T12n0372_002:0361a06_6": "善逝！",
-    "T12n0372_002:0361a06_7": "此二大士真實已得最勝如幻三摩地門，能於十方諸佛剎中悉現其身，神通威力不可思議。」",
-    "T12n0372_002:0361a09_0": "爾時世尊觀察眾會，如其所應現神通相。",
-    "T12n0372_002:0361a09_1": "即時會中一切大眾，以佛威神力故，皆如勝華藏菩薩，亦能見彼十方世界如殑伽沙數諸佛剎土，彼彼剎中佛世尊前，皆有二大士，各禮佛足，乃至見彼廣大樓閣妙寶嚴飾。",
-    "T12n0372_002:0361a13_2": "當此眾會見是相時，會中有三萬二千眾生發阿耨多羅三藐三菩提心。",
-    "T12n0372_002:0361a16_0": "爾時勝華藏菩薩摩訶薩復白佛言：「世尊！",
-    "T12n0372_002:0361a16_1": "此二大士，於何佛所發阿耨多羅三藐三菩提心？",
-    "T12n0372_002:0361a18_2": "而所發心為久近耶？",
-    "T12n0372_002:0361a18_3": "其佛如來，名字何等？",
-    "T12n0372_002:0361a19_0": "惟願世尊，善為宣說，令餘菩薩知其所修，如其所行，畢竟皆得行願圓滿。」",
-    "T12n0372_002:0361a20_1": "佛告勝華藏菩薩言：「汝應善聽，極善作意，今為汝說。」",
-    "T12n0372_002:0361a21_2": "是時勝華藏菩薩受教而聽。",
-    "T12n0372_002:0361a23_0": "佛言勝華藏：「乃往過去阿僧祇阿僧祇劫前，又經廣大無量無邊不可思議劫數，過是劫已，將此三千大千世界碎為微塵，一塵一劫，過是微塵劫數之前，時有世界，名無量功德寶莊嚴普現妙樂，有佛出世，號師子遊戲金光王如來、應供、正等正覺、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。",
-    "T12n0372_002:0361a29_1": "彼佛剎中，所有功德莊嚴等事，廣大無量。",
-    "T12n0372_002:0361b01_2": "勝華藏！",
-    "T12n0372_002:0361b01_3": "於汝意云何？",
-    "T12n0372_002:0361b02_4": "彼無量光如來、應供、正等正覺，極樂世界中所有功德莊嚴，是為多不？」",
-    "T12n0372_002:0361b03_5": "勝華藏言：「甚多。",
-    "T12n0372_002:0361b04_6": "世尊！",
-    "T12n0372_002:0361b04_7": "無量無邊不可思議。」",
-    "T12n0372_002:0361b04_8": "佛言勝華藏：「我以譬喻略明斯義。",
-    "T12n0372_002:0361b05_9": "譬如有人，取彼一毛析為百分，將其一分於大海中取一滴水。",
-    "T12n0372_002:0361b06_10": "勝華藏！",
-    "T12n0372_002:0361b07_11": "於汝意云何？",
-    "T12n0372_002:0361b07_12": "彼毛端水是為多邪？",
-    "T12n0372_002:0361b07_13": "餘大海水而為多邪？」",
-    "T12n0372_002:0361b08_14": "勝華藏白佛言：「世尊！",
-    "T12n0372_002:0361b08_15": "毛端之水極為微少，餘大海水深廣無量。」",
-    "T12n0372_002:0361b09_16": "佛言勝華藏：「汝今當知，無量光如來極樂世界，所有功德莊嚴等事，如毛端水；師子遊戲金光王如來無量功德寶莊嚴普現妙樂世界，所有功德莊嚴等事，如大海水。",
-    "T12n0372_002:0361b13_17": "又師子遊戲金光王如來會中所有菩薩聲聞之眾，比無量光如來會中菩薩聲聞多百千倍，彼佛世尊隨應演說三乘之法。",
-    "T12n0372_002:0361b16_18": "勝華藏！",
-    "T12n0372_002:0361b16_19": "以要言之，彼師子遊戲金光王如來剎土之中，所有功德莊嚴及妙樂事，假使我於殑伽沙數劫中廣以辯才，而亦不能說其邊際。",
-    "T12n0372_002:0361b20_0": "「復次勝華藏！",
-    "T12n0372_002:0361b20_1": "彼師子遊戲金光王如來法中，有王名勝威，其王於千世界中，自在特尊，廣大富盛，正法化世，有七萬六千最上園苑，王所受用；其王諸子，各有一萬園林受用。」",
-    "T12n0372_002:0361b23_2": "勝華藏菩薩白佛言：「世尊！",
-    "T12n0372_002:0361b24_3": "彼佛剎中有女人不？」",
-    "T12n0372_002:0361b25_0": "佛言：「不也。",
-    "T12n0372_002:0361b25_1": "善男子！",
-    "T12n0372_002:0361b25_2": "彼佛剎中，尚無女人名字可聞，況有女人邪？",
-    "T12n0372_002:0361b26_3": "其中生者皆是化生，清淨潔白、咸修梵行，一切眾生皆以法喜禪悅為食，不受一切麁惡叚食。",
-    "T12n0372_002:0361b28_4": "勝華藏！",
-    "T12n0372_002:0361b28_5": "其王與子於八萬四千俱胝歲中，尊重供養師子遊戲金光王如來。",
-    "T12n0372_002:0361c01_6": "彼佛世尊知王深心起淨信已，即為宣說無量印善巧法門。",
-    "T12n0372_002:0361c02_7": "勝華藏！",
-    "T12n0372_002:0361c02_8": "何等名為無量印善巧法門邪？",
-    "T12n0372_002:0361c03_9": "謂諸菩薩摩訶薩所起諸行，未甞於限量法中而有趣求。",
-    "T12n0372_002:0361c04_10": "何以故？",
-    "T12n0372_002:0361c04_11": "以諸菩薩行無量布施、無量持戒、無量忍辱、無量精進、無量禪定、無量智慧，於無量生死中隨入，於無量眾生中慈愍，無量剎土莊嚴，無量聲聞莊嚴，無量色相成就，具足無量音聲及無量辯才。",
-    "T12n0372_002:0361c09_12": "「勝華藏！",
-    "T12n0372_002:0361c09_13": "諸菩薩乃至一發心所有善根，尚起無量廣大之心迴向一切，況復積集無量行願，普用迴向一切眾生，使諸眾生悉證無生，如佛涅槃而得涅槃。",
-    "T12n0372_002:0361c12_14": "善男子！",
-    "T12n0372_002:0361c12_15": "此即名為無量迴向。",
-    "T12n0372_002:0361c13_16": "以是迴向故，即空、無相、無願而悉無量，真如、實際、法界亦復無量，解脫、無生、離諸繫著。",
-    "T12n0372_002:0361c15_17": "善男子！",
-    "T12n0372_002:0361c15_18": "以要言之，無量義者，即一切法無量。",
-    "T12n0372_002:0361c16_19": "何故說一切法為無量邪？",
-    "T12n0372_002:0361c16_20": "以一切法無生無滅故無量，若法無量即無生無滅，若法無生無滅即無量，是名無量印法門。",
-    "T12n0372_002:0361c19_21": "「勝華藏！",
-    "T12n0372_002:0361c19_22": "爾時彼師子遊戲金光王如來，為彼勝威王，如是宣說無量印善巧法門時，其王於一切法而得覺了。",
-    "T12n0372_002:0361c22_0": "「復次勝華藏！",
-    "T12n0372_002:0361c22_1": "彼勝威王於佛法中修禪定行，後於一時安處禪定。",
-    "T12n0372_002:0361c23_2": "其王忽然左右二脇，生二蓮華殊妙可愛，清淨猶如龍實栴檀香，於其華中生二童子，跏趺而坐。",
-    "T12n0372_002:0361c25_3": "其王見已歎未曾有，即向童子說伽陀曰：「『汝或是天或是龍，　　或復夜叉羅剎類，　　若人非人若神仙？",
-    "T12n0372_002:0361c28_4": "　　汝等何名為我說。』",
-    "T12n0372_002:0361c29_0": "「時右脇生者童子，即說伽陀答彼王曰：「『於一切法空性中，　　汝今問我何名字，　　然彼諸法本無名，　　何故以名而見問？",
-    "T12n0372_002:0362a03_0": "　　法空性中無天龍，　　亦無夜叉羅剎類，　　人與非人若神仙，　　彼等一切無所有。』",
-    "T12n0372_002:0362a05_0": "「時左脇生者童子，亦說伽陀答彼王曰：「『名與名體二皆空，　　能名所名俱無有，　　於一切法無名中，　　但以強名而表示。",
-    "T12n0372_002:0362a08_0": "　　當知真實名自性，　　是中非見亦非聞，　　本來無滅復無生，　　何故以名而見問？",
-    "T12n0372_002:0362a10_0": "　　諸所作事所有名，　　既以假名而表示，　　是故我今亦假名，　　一名寶嚴二寶上。』",
-    "T12n0372_002:0362a12_0": "「彼二童子說伽陀已，宿善力故得五神通，即與勝威王同詣師子遊戲金光王如來所。",
-    "T12n0372_002:0362a13_1": "到已頭面各禮佛足，右繞三匝，退住一面。",
-    "T12n0372_002:0362a14_2": "彼二童子，合掌向佛異口同音，說伽陀曰：「『我今當以何等物，　　供養正覺二足尊？",
-    "T12n0372_002:0362a17_0": "　　此事願佛開我心，　　令我聞已心安定。",
-    "T12n0372_002:0362a18_0": "　　我今無華亦無香，　　復無飲食及衣服，　　諸妙供養悉皆無，　　將何供養最勝者？』",
-    "T12n0372_002:0362a20_0": "「爾時彼佛，為二童子說伽陀曰：「『若能一發菩提心，　　廣為眾生作利樂，　　此即名為真供養，　　正覺三十二相者。",
-    "T12n0372_002:0362a23_0": "　　若人以彼殑伽沙，　　是等數量諸佛剎，　　滿中勝上諸妙華，　　供養世尊救世者，　　若人至心但合掌，　　發起無上菩提心，　　是人所獲勝福門，　　倍多於前無有量。",
-    "T12n0372_002:0362a27_0": "　　異此何名真供養？",
-    "T12n0372_002:0362a27_1": "　　異此何名勝依止？",
-    "T12n0372_002:0362a28_0": "　　若人能發菩提心，　　我說名為上智者。』",
-    "T12n0372_002:0362a29_0": "佛說如幻三摩地無量印法門經卷中"
-}
+[
+    {
+        "source_sentence": "佛說如幻三摩地無量印法門經",
+        "from": "T12n0372_002:0360a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卷中",
+        "from": "T12n0372_002:0360a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝奉大夫",
+        "from": "T12n0372_002:0360a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "試光祿卿傳法大師賜紫臣施護等奉　詔譯復次彼彼樓閣周匝，或有天女執眾樂器，所謂琵琶篳篥、琴笙箜篌、螺鼓小鼓、拍板等類，作妙音樂。",
+        "from": "T12n0372_002:0360a16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有天女捧赤栴檀香末；",
+        "from": "T12n0372_002:0360a16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有天女捧龍實栴檀香末，或有天女捧沈水栴檀香末，或有天女捧黑沈栴檀香末，或有天女捧眾妙栴檀香末，或有天女執優鉢羅華、俱母陀華、奔拏利迦華，或有天女執曼陀羅華、摩訶曼陀羅華，或有天女執播嚕沙迦華、摩訶播嚕沙迦華，或有天女執曼殊沙華、摩訶曼殊沙華，或有天女執嚕左華、摩訶嚕左華，或有天女執作訖囉華、摩訶作訖囉華、三滿多作訖囉華、蘇嚕唧囉作訖囉華，或有天女執贊捺囉華、摩訶贊㮈囉華、蘇嚕唧囉贊㮈囉華，或有天女執薩他羅華、摩訶薩他羅華、蘇嚕唧囉薩他羅華；",
+        "from": "T12n0372_002:0360a28_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有天女捧天妙衣，及妙華妙香、塗香末香等，隨處而住。",
+        "from": "T12n0372_002:0360a29_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼一一樓閣之中，各各有大妙寶莊嚴師子之座，化如來像安處其上，三十二相莊嚴具足。",
+        "from": "T12n0372_002:0360b02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復一一樓閣之中，化出八萬四千真珠瓔珞，其珠三色，謂青、白、赤。",
+        "from": "T12n0372_002:0360b04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復一一樓閣之中，化出八萬四千殊妙寶幢，以諸金鈴網覆其上，天衣垂下而為嚴飾。",
+        "from": "T12n0372_002:0360b06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復一一樓閣之中，化出八萬四千寶瓶，盛諸妙香。",
+        "from": "T12n0372_002:0360b07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復一一樓閣之中，化出八萬四千上妙寶蓋，以百千種極妙彩繪而為嚴飾。",
+        "from": "T12n0372_002:0360b09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復一一樓閣之中，化出八萬四千多羅行樹，及八萬四千七寶行樹，一一皆以寶繩交絡。",
+        "from": "T12n0372_002:0360b11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復一一樓閣之中，化出八萬四千懸鈴寶網，微風吹動出和雅音，如百千種妙音樂聲。",
+        "from": "T12n0372_002:0360b13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復一一樓閣之中，化出寶池，是池純以金沙布底，七寶界道，瑠璃水精周匝莊飾，八功德水充滿其中，池中出生優鉢羅華、鉢訥摩華、俱母陀華、奔拏利迦華等，其池復有鳧鴈、鴛鴦異鳥和鳴。",
+        "from": "T12n0372_002:0360b17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八萬四千妙寶行樹，周匝圍繞，上以八萬四千寶繩交絡而為嚴飾。",
+        "from": "T12n0372_002:0360b19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復一一樓閣之中，出大光明，廣照八萬四千由旬。",
+        "from": "T12n0372_002:0360b20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時，觀自在菩薩摩訶薩、大勢至菩薩摩訶薩，及彼所來諸菩薩眾，以是殊妙莊嚴一切樓閣，一時置在一樓閣中，諸莊嚴事互不相礙；",
+        "from": "T12n0372_002:0360b23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如力士屈伸臂頃到此娑婆世界。",
+        "from": "T12n0372_002:0360b24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而諸菩薩以神通力故，各以所現八十四俱胝功德莊嚴殊妙樓閣置於佛會，如其所應神通威力，令此娑婆世界地平如掌，而佛會中亦不迫窄。",
+        "from": "T12n0372_002:0360b27_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是諸樓閣出大光明，照此三千大千世界。",
+        "from": "T12n0372_002:0360b28_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時彼二菩薩，前詣佛所頭面禮足，右繞三匝退住一面，俱白佛言：",
+        "from": "T12n0372_002:0360c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「無量光如來、應供、正等正覺，致問世尊釋迦牟尼如來，少病少惱、動止輕利、安樂行不？",
+        "from": "T12n0372_002:0360c02_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」彼二菩薩復白佛言：",
+        "from": "T12n0372_002:0360c03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我等菩薩聲聞，於極樂世界見佛世尊，故來瞻覲。",
+        "from": "T12n0372_002:0360c04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時此娑婆世界佛會之中，所有菩薩聲聞大眾，見此世界清淨嚴飾，及見無數廣大樓閣已，咸起是念：",
+        "from": "T12n0372_002:0360c06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如來何故現是威力，而能令彼諸大菩薩來至於此？",
+        "from": "T12n0372_002:0360c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，勝華藏菩薩承佛威神，從座而起前白佛言：",
+        "from": "T12n0372_002:0360c10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「希有。",
+        "from": "T12n0372_002:0360c10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T12n0372_002:0360c10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "希有。",
+        "from": "T12n0372_002:0360c10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善逝！",
+        "from": "T12n0372_002:0360c10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今此娑婆世界如是嚴飾及現樓閣，為是如來威神力邪？",
+        "from": "T12n0372_002:0360c11_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為是彼二菩薩威力所變？",
+        "from": "T12n0372_002:0360c12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願佛為說。",
+        "from": "T12n0372_002:0360c12_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛告勝華藏菩薩摩訶薩言：",
+        "from": "T12n0372_002:0360c13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「勝華藏！",
+        "from": "T12n0372_002:0360c13_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此非如來威神之力，乃是觀自在菩薩摩訶薩、大勢至菩薩摩訶薩威力所變，故現是相。",
+        "from": "T12n0372_002:0360c15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」勝華藏復白佛言：",
+        "from": "T12n0372_002:0360c16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「希有。",
+        "from": "T12n0372_002:0360c16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T12n0372_002:0360c16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "希有。",
+        "from": "T12n0372_002:0360c16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善逝！",
+        "from": "T12n0372_002:0360c16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此二大士，已得不可思議願力清淨、善根潔白，乃能有是神通威力。",
+        "from": "T12n0372_002:0360c18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言勝華藏：",
+        "from": "T12n0372_002:0360c18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如是如是，如汝所說。",
+        "from": "T12n0372_002:0360c18_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此二大士已於俱胝百千那庾多劫，積集善根清淨潔白；",
+        "from": "T12n0372_002:0360c20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復已得如幻三摩地法門，從是三摩地中，能現如是種種色相神通等事。",
+        "from": "T12n0372_002:0360c21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復次勝華藏！",
+        "from": "T12n0372_002:0360c22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "且置是事，汝觀東方為有何相？",
+        "from": "T12n0372_002:0360c22_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」勝華藏菩薩承佛聖旨，即以無礙清淨天眼，觀見東方殑伽沙數佛剎之中，有殑伽沙數諸佛世尊，彼一一佛前，皆有觀自在菩薩摩訶薩、大勢至菩薩摩訶薩，各禮佛足，又聞其言：",
+        "from": "T12n0372_002:0360c27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「無量光如來、應供、正等正覺，致問世尊，少病少惱、動止輕利、安樂行不？",
+        "from": "T12n0372_002:0360c28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」及見無量廣大樓閣妙寶嚴飾；",
+        "from": "T12n0372_002:0360c29_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是南西北方，四維上下，一一皆見殑伽沙數佛剎之中，有殑伽沙數諸佛世尊，彼一一佛前皆有二大士各禮佛足，又聞其言：",
+        "from": "T12n0372_002:0361a03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「無量光如來、應供、正等正覺，致問世尊，少病少惱、動止輕利、安樂行不？",
+        "from": "T12n0372_002:0361a04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」及見無量廣大樓閣妙寶嚴飾。",
+        "from": "T12n0372_002:0361a05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時勝華藏菩薩見是相已，復白佛言：",
+        "from": "T12n0372_002:0361a06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「希有。",
+        "from": "T12n0372_002:0361a06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T12n0372_002:0361a06_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "希有。",
+        "from": "T12n0372_002:0361a06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善逝！",
+        "from": "T12n0372_002:0361a06_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此二大士真實已得最勝如幻三摩地門，能於十方諸佛剎中悉現其身，神通威力不可思議。",
+        "from": "T12n0372_002:0361a08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊觀察眾會，如其所應現神通相。",
+        "from": "T12n0372_002:0361a09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即時會中一切大眾，以佛威神力故，皆如勝華藏菩薩，亦能見彼十方世界如殑伽沙數諸佛剎土，彼彼剎中佛世尊前，皆有二大士，各禮佛足，乃至見彼廣大樓閣妙寶嚴飾。",
+        "from": "T12n0372_002:0361a13_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當此眾會見是相時，會中有三萬二千眾生發阿耨多羅三藐三菩提心。",
+        "from": "T12n0372_002:0361a15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時，勝華藏菩薩摩訶薩復白佛言：",
+        "from": "T12n0372_002:0361a16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T12n0372_002:0361a16_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此二大士，於何佛所發阿耨多羅三藐三菩提心？",
+        "from": "T12n0372_002:0361a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而所發心為久近耶？",
+        "from": "T12n0372_002:0361a18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其佛如來，名字何等？",
+        "from": "T12n0372_002:0361a18_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟願世尊，善為宣說，令餘菩薩知其所修，如其所行，畢竟皆得行願圓滿。",
+        "from": "T12n0372_002:0361a20_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛告勝華藏菩薩言：",
+        "from": "T12n0372_002:0361a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝應善聽，極善作意，今為汝說。",
+        "from": "T12n0372_002:0361a21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」是時勝華藏菩薩受教而聽。",
+        "from": "T12n0372_002:0361a22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛言勝華藏：",
+        "from": "T12n0372_002:0361a23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「乃往過去阿僧祇阿僧祇劫前，又經廣大無量無邊不可思議劫數，過是劫已，將此三千大千世界碎為微塵，一塵一劫，過是微塵劫數之前，時有世界，名無量功德寶莊嚴普現妙樂，有佛出世，號師子遊戲金光王如來、應供、正等正覺、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛世尊。",
+        "from": "T12n0372_002:0361a29_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼佛剎中，所有功德莊嚴等事廣大無量。",
+        "from": "T12n0372_002:0361b01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勝華藏！",
+        "from": "T12n0372_002:0361b01_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於汝意云何？",
+        "from": "T12n0372_002:0361b02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼無量光如來、應供、正等正覺極樂世界中，所有功德莊嚴，是為多不？",
+        "from": "T12n0372_002:0361b03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」勝華藏言：",
+        "from": "T12n0372_002:0361b03_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「甚多。",
+        "from": "T12n0372_002:0361b04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T12n0372_002:0361b04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無量無邊不可思議。",
+        "from": "T12n0372_002:0361b04_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言勝華藏：",
+        "from": "T12n0372_002:0361b04_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我以譬喻略明斯義。",
+        "from": "T12n0372_002:0361b05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如有人，取彼一毛析為百分，將其一分於大海中取一滴水。",
+        "from": "T12n0372_002:0361b06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勝華藏！",
+        "from": "T12n0372_002:0361b07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於汝意云何？",
+        "from": "T12n0372_002:0361b07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼毛端水是為多邪？",
+        "from": "T12n0372_002:0361b07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘大海水而為多邪？",
+        "from": "T12n0372_002:0361b08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」勝華藏白佛言：",
+        "from": "T12n0372_002:0361b08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T12n0372_002:0361b08_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毛端之水極為微少，餘大海水深廣無量。",
+        "from": "T12n0372_002:0361b09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言勝華藏：",
+        "from": "T12n0372_002:0361b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝今當知，無量光如來極樂世界，所有功德莊嚴等事，如毛端水；",
+        "from": "T12n0372_002:0361b11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師子遊戲金光王如來無量功德寶莊嚴普現妙樂世界，所有功德莊嚴等事，如大海水。",
+        "from": "T12n0372_002:0361b13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又師子遊戲金光王如來會中所有菩薩聲聞之眾，比無量光如來會中菩薩聲聞多百千倍，彼佛世尊隨應演說三乘之法。",
+        "from": "T12n0372_002:0361b16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勝華藏！",
+        "from": "T12n0372_002:0361b16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以要言之，彼師子遊戲金光王如來剎土之中，所有功德莊嚴及妙樂事，假使我於殑伽沙數劫中廣以辯才，而亦不能說其邊際。",
+        "from": "T12n0372_002:0361b19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「復次勝華藏！",
+        "from": "T12n0372_002:0361b20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼師子遊戲金光王如來法中，有王名勝威，其王於千世界中，自在特尊，廣大富盛，正法化世，有七萬六千最上園苑，王所受用；",
+        "from": "T12n0372_002:0361b23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其王諸子，各有一萬園林受用。",
+        "from": "T12n0372_002:0361b23_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」勝華藏菩薩白佛言：",
+        "from": "T12n0372_002:0361b24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T12n0372_002:0361b24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼佛剎中有女人不？",
+        "from": "T12n0372_002:0361b24_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T12n0372_002:0361b25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「不也。",
+        "from": "T12n0372_002:0361b25_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T12n0372_002:0361b25_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼佛剎中，尚無女人名字可聞，況有女人邪？",
+        "from": "T12n0372_002:0361b26_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其中生者皆是化生，清淨潔白、咸修梵行，一切眾生皆以法喜禪悅為食，不受一切麁惡段食。",
+        "from": "T12n0372_002:0361b28_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勝華藏！",
+        "from": "T12n0372_002:0361b28_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其王與子於八萬四千俱胝歲中，尊重供養師子遊戲金光王如來。",
+        "from": "T12n0372_002:0361c01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼佛世尊知王深心起淨信已，即為宣說無量印善巧法門。",
+        "from": "T12n0372_002:0361c02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勝華藏！",
+        "from": "T12n0372_002:0361c02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等名為無量印善巧法門邪？",
+        "from": "T12n0372_002:0361c03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂諸菩薩摩訶薩所起諸行，未甞於限量法中而有趣求。",
+        "from": "T12n0372_002:0361c04_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T12n0372_002:0361c04_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以諸菩薩行無量布施、無量持戒、無量忍辱、無量精進、無量禪定、無量智慧，於無量生死中隨入，於無量眾生中慈愍，無量剎土莊嚴，無量聲聞莊嚴，無量色相成就，具足無量音聲及無量辯才。",
+        "from": "T12n0372_002:0361c09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「勝華藏！",
+        "from": "T12n0372_002:0361c09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸菩薩乃至一發心所有善根，尚起無量廣大之心迴向一切，況復積集無量行願，普用迴向一切眾生，使諸眾生悉證無生，如佛涅槃而得涅槃。",
+        "from": "T12n0372_002:0361c12_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T12n0372_002:0361c12_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此即名為無量迴向。",
+        "from": "T12n0372_002:0361c13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以是迴向故，即空、無相、無願而悉無量，真如、實際、法界亦復無量，解脫、無生、離諸繫著。",
+        "from": "T12n0372_002:0361c15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T12n0372_002:0361c15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以要言之，無量義者，即一切法無量。",
+        "from": "T12n0372_002:0361c16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何故說一切法為無量邪？",
+        "from": "T12n0372_002:0361c16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以一切法無生無滅故無量。",
+        "from": "T12n0372_002:0361c17_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若法無量即無生無滅，若法無生無滅即無量，是名無量印法門。",
+        "from": "T12n0372_002:0361c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「勝華藏！",
+        "from": "T12n0372_002:0361c19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時彼師子遊戲金光王如來，為彼勝威王，如是宣說無量印善巧法門時，其王於一切法而得覺了。",
+        "from": "T12n0372_002:0361c21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「復次勝華藏！",
+        "from": "T12n0372_002:0361c22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼勝威王於佛法中修禪定行，後於一時安處禪定。",
+        "from": "T12n0372_002:0361c23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其王忽然左右二脇，生二蓮華殊妙可愛，清淨猶如龍實栴檀香，於其華中生二童子，跏趺而坐。",
+        "from": "T12n0372_002:0361c25_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其王見已歎未曾有，即向童子說伽陀曰：",
+        "from": "T12n0372_002:0361c26_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「『汝或是天或是龍，　　或復夜叉、羅剎類，",
+        "from": "T12n0372_002:0361c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人、非人、若神仙？",
+        "from": "T12n0372_002:0361c28_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　汝等何名為我說。",
+        "from": "T12n0372_002:0361c28_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「時右脇生者童子，即說伽陀答彼王曰：",
+        "from": "T12n0372_002:0361c29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「『於一切法空性中，　　汝今問我何名字，",
+        "from": "T12n0372_002:0362a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然彼諸法本無名，　　何故以名而見問？",
+        "from": "T12n0372_002:0362a02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法空性中無天、龍，　　亦無夜叉、羅剎類，",
+        "from": "T12n0372_002:0362a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人與非人、若神仙，　　彼等一切無所有。",
+        "from": "T12n0372_002:0362a04_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「時左脇生者童子，亦說伽陀答彼王曰：",
+        "from": "T12n0372_002:0362a05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「『名與名體二皆空，　　能名所名俱無有，",
+        "from": "T12n0372_002:0362a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於一切法無名中，　　但以強名而表示。",
+        "from": "T12n0372_002:0362a07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知真實名自性，　　是中非見亦非聞，",
+        "from": "T12n0372_002:0362a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本來無滅復無生，　　何故以名而見問？",
+        "from": "T12n0372_002:0362a09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸所作事所有名，　　既以假名而表示，",
+        "from": "T12n0372_002:0362a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故我今亦假名，　　一名寶嚴二寶上。",
+        "from": "T12n0372_002:0362a11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「彼二童子說伽陀已，宿善力故得五神通，即與勝威王同詣師子遊戲金光王如來所。",
+        "from": "T12n0372_002:0362a13_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "到已頭面各禮佛足，右繞三匝，退住一面。",
+        "from": "T12n0372_002:0362a14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼二童子，合掌向佛異口同音，說伽陀曰：",
+        "from": "T12n0372_002:0362a15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「『我今當以何等物，　　供養正覺二足尊？",
+        "from": "T12n0372_002:0362a16_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此事願佛開我心，　　令我聞已心安定。",
+        "from": "T12n0372_002:0362a17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我今無華亦無香，　　復無飲食及衣服，",
+        "from": "T12n0372_002:0362a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸妙供養悉皆無，　　將何供養最勝者？",
+        "from": "T12n0372_002:0362a19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「爾時彼佛，為二童子說伽陀曰：",
+        "from": "T12n0372_002:0362a20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「『若能一發菩提心，　　廣為眾生作利樂，",
+        "from": "T12n0372_002:0362a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此即名為真供養，　　正覺三十二相者。",
+        "from": "T12n0372_002:0362a22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人以彼殑伽沙，　　是等數量諸佛剎，",
+        "from": "T12n0372_002:0362a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "滿中勝上諸妙華，　　供養世尊救世者，",
+        "from": "T12n0372_002:0362a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人至心但合掌，　　發起無上菩提心，",
+        "from": "T12n0372_002:0362a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是人所獲勝福門，　　倍多於前無有量。",
+        "from": "T12n0372_002:0362a26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "異此何名真供養？",
+        "from": "T12n0372_002:0362a27_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　異此何名勝依止？",
+        "from": "T12n0372_002:0362a27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人能發菩提心，　　我說名為上智者。",
+        "from": "T12n0372_002:0362a28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』佛說如幻三摩地無量印法門經卷中",
+        "from": "T12n0372_002:0362a29_100",
+        "context_with_next_sentence": false
+    }
+]

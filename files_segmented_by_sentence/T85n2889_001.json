@@ -1,18 +1,72 @@
-{
-    "T85n2889_001:1405a03_0": "佛說續命經",
-    "T85n2889_001:1405a05_0": "南無大慈大悲救苦觀世音。",
-    "T85n2889_001:1405a05_1": "唯願聖手摩我頂。",
-    "T85n2889_001:1405a06_2": "救護娑婆世界重罪者。",
-    "T85n2889_001:1405a06_3": "安著涅槃解脫地。",
-    "T85n2889_001:1405a07_0": "每供養諸佛。",
-    "T85n2889_001:1405a07_1": "度一切如影隨形。",
-    "T85n2889_001:1405a07_2": "願恒受持得不捨離。",
-    "T85n2889_001:1405a08_3": "西方阿彌陀佛觀世音菩薩得大勢至菩薩有能。",
-    "T85n2889_001:1405a09_4": "誦此一佛二菩薩名者。",
-    "T85n2889_001:1405a09_5": "離生死苦永不入地獄。",
-    "T85n2889_001:1405a10_6": "恒值善諸識。",
-    "T85n2889_001:1405a10_7": "有疑有難者。",
-    "T85n2889_001:1405a11_0": "誦此經一千遍即得解脫。",
-    "T85n2889_001:1405a11_1": "一願三寶恒存立　二願風雨順時行　三願國王壽萬歲　四願邊地無刀丘　五願三塗離苦難　六願百病盡消除　七願眾生行慈孝　八願屠人莫殺生　九願牢囚所得脫　十願法界普安寧　眼願莫見刀光刃　耳願不聞怨殃聲　口願不用為心語　手願不殺一眾生　總願當來值彌勒　連辟相將入化城。",
-    "T85n2889_001:1405a19_0": "佛說讀命經"
-}
+[
+    {
+        "source_sentence": "佛說續命經",
+        "from": "T85n2889_001:1405a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無大慈大悲救苦觀世音。唯願聖手摩我",
+        "from": "T85n2889_001:1405a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頂。救護娑婆世界重罪者。安著涅槃解脫地。",
+        "from": "T85n2889_001:1405a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "每供養諸佛。",
+        "from": "T85n2889_001:1405a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "度一切如影隨形。",
+        "from": "T85n2889_001:1405a07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願恒受持得不捨離。",
+        "from": "T85n2889_001:1405a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西方阿彌陀佛觀世音菩薩得大勢至菩薩有能。",
+        "from": "T85n2889_001:1405a09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誦此一佛二菩薩名者。",
+        "from": "T85n2889_001:1405a09_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離生死苦永不入地獄。",
+        "from": "T85n2889_001:1405a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "恒值善諸識。",
+        "from": "T85n2889_001:1405a10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有疑有難者。",
+        "from": "T85n2889_001:1405a10_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誦此經一千遍即得解脫。",
+        "from": "T85n2889_001:1405a11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一願三寶恒存立　二願風雨順時行　三願國王壽萬歲　四願邊地無刀丘　五願三塗離苦難　六願百病盡消除　七願眾生行慈孝　八願屠人莫殺生　九願牢囚所得脫　十願法界普安寧　眼願莫見刀光刃　耳願不聞怨殃聲　口願不用為心語　手願不殺一眾生　總願當來值彌勒　連辟相將入化城。",
+        "from": "T85n2889_001:1405a18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說讀命經",
+        "from": "T85n2889_001:1405a19_100",
+        "context_with_next_sentence": false
+    }
+]

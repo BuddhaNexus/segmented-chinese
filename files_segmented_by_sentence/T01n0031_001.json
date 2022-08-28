@@ -1,105 +1,617 @@
-{
-    "T01n0031_001:0813a05_0": "佛說一切流攝守因經",
-    "T01n0031_001:0813a07_0": "後漢安息國三藏安世高譯",
-    "T01n0031_001:0813a08_0": "聞如是：一時，佛在拘留國留國聚會法議思惟。",
-    "T01n0031_001:0813a09_1": "是時，佛告比丘：「比丘！」",
-    "T01n0031_001:0813a09_2": "應：「唯然。」",
-    "T01n0031_001:0813a09_3": "比丘便從佛受教。",
-    "T01n0031_001:0813a10_4": "佛便說是：「智者見者，比丘！",
-    "T01n0031_001:0813a10_5": "為得流盡，不智者不見者流不得盡。",
-    "T01n0031_001:0813a11_6": "何等，比丘！",
-    "T01n0031_001:0813a11_7": "智者見者令流得盡，不智不見者流不得盡？",
-    "T01n0031_001:0813a12_8": "但為本觀非本觀。",
-    "T01n0031_001:0813a13_9": "非本觀者，未有欲便有欲生，已生欲，欲便增生不致；未生有流亦癡流便生，已生有亦癡便增多不致。",
-    "T01n0031_001:0813a15_10": "癡者，比丘！",
-    "T01n0031_001:0813a15_11": "不聞者，世間人，不見慧者，亦不從慧人聞法，亦不從慧人受教誡，亦不從慧人分別解，便得非本念。",
-    "T01n0031_001:0813a18_0": "令未生流便生，已生流令增饒不致，未生有亦癡便生，已生有亦癡便增饒不致。",
-    "T01n0031_001:0813a19_1": "以不知不解，如有令不可念法便念，可應念法者便不念。",
-    "T01n0031_001:0813a21_2": "以應念法不念，不應念法者便念，便愛流生，已愛流生便增多不致，未生愛流亦癡流便生，已生愛流亦癡流便增多不致。",
-    "T01n0031_001:0813a24_3": "聞者，比丘！",
-    "T01n0031_001:0813a24_4": "道德弟子，以見慧者，以從慧者受教誡，亦從慧者分別解，便是如有知。",
-    "T01n0031_001:0813a25_5": "非本念者，未生愛流便生，已生愛流便增多不致，未生愛流亦癡流便生，已生愛流亦癡流便增多不致。",
-    "T01n0031_001:0813a28_6": "本念者，未生愛流不生，已生愛流能捨，未生愛流亦癡流不生，已生愛流亦癡流能捨。",
-    "T01n0031_001:0813b01_7": "若是如有知便所法，不應念便不念，所應念法便念。",
-    "T01n0031_001:0813b02_8": "以不應念法不念，應念法者念，令未生愛流不生，已生愛流便捨解，未生愛流亦癡流不生，已生愛流亦癡流便捨解。",
-    "T01n0031_001:0813b05_9": "「亦有比丘為七流，從是惱生、從是熱、從是憂。",
-    "T01n0031_001:0813b06_10": "何等為七？",
-    "T01n0031_001:0813b06_11": "有，比丘！",
-    "T01n0031_001:0813b06_12": "有流從見斷，有流從攝斷，有流從避斷，有流從更斷，有流從忍斷，有流從曉斷，有流從行念斷。",
-    "T01n0031_001:0813b08_13": "「何等，比丘！",
-    "T01n0031_001:0813b09_14": "流從見斷？",
-    "T01n0031_001:0813b09_15": "是聞，比丘！",
-    "T01n0031_001:0813b09_16": "癡，不聞者，世間人，不見賢者，亦不從賢者解，亦不從賢者解教誡，令如是非本念：前世我為有不？",
-    "T01n0031_001:0813b11_17": "前世我為無有不？",
-    "T01n0031_001:0813b12_18": "前世我為何等？",
-    "T01n0031_001:0813b12_19": "前世我為云何？",
-    "T01n0031_001:0813b12_20": "未來世我當有不？",
-    "T01n0031_001:0813b13_21": "未來世我當無有不？",
-    "T01n0031_001:0813b13_22": "未來世我當云何？",
-    "T01n0031_001:0813b14_23": "未來世我云何為？",
-    "T01n0031_001:0813b14_24": "自身爭疑有何等有？",
-    "T01n0031_001:0813b15_25": "是人從何來？",
-    "T01n0031_001:0813b15_26": "當復往至何許？",
-    "T01n0031_001:0813b15_27": "是要當云何？",
-    "T01n0031_001:0813b16_0": "以如是非本念者，為六處疑生、異異結生。",
-    "T01n0031_001:0813b16_1": "莊有是身？",
-    "T01n0031_001:0813b17_2": "莊無有是身？",
-    "T01n0031_001:0813b17_3": "是為疑生，生自計身身見。",
-    "T01n0031_001:0813b18_4": "如是疑生，生自計是身、是我身；為是疑生身、生身相見，為是疑生，生非身見是身，為是疑生，生計是為是我身。",
-    "T01n0031_001:0813b20_5": "所覺所說、所作所更、所舉所起，彼彼處處，所作所行善惡受罪，止不生亦生亦爾。",
-    "T01n0031_001:0813b23_0": "「是，比丘！",
-    "T01n0031_001:0813b23_1": "結令結、疑令疑，惡疑不正見，跳疑結疑相著，比丘！",
-    "T01n0031_001:0813b24_2": "不聞者世間人，從是苦習有，從是生致。",
-    "T01n0031_001:0813b25_3": "聞者，比丘！",
-    "T01n0031_001:0813b25_4": "道弟子，是苦如有知，是習如有知，是盡滅如有知，是苦滅行令滅如有知。",
-    "T01n0031_001:0813b27_5": "如是知已，如是見，便三縛結畢盡：一者身結，二者疑結，三者行願結。",
-    "T01n0031_001:0813b28_6": "以是三結盡，便隨道得一，不復墮惡處，當得度世。",
-    "T01n0031_001:0813b29_7": "在人間天上，不過七世，已更七世便畢苦。",
-    "T01n0031_001:0813c01_8": "若，比丘！",
-    "T01n0031_001:0813c01_9": "不知者、不見者所生流，從惱熱憂令從見者斷，為是流惱熱憂不復有，是名為，比丘！",
-    "T01n0031_001:0813c03_10": "從見流斷。",
-    "T01n0031_001:0813c04_0": "「何等為，比丘！",
-    "T01n0031_001:0813c04_1": "流從守斷？",
-    "T01n0031_001:0813c04_2": "是聞比丘行者，眼見色，攝眼根自守，行惡露觀；念本從所生。",
-    "T01n0031_001:0813c05_3": "比丘！",
-    "T01n0031_001:0813c06_0": "眼根不守攝，行令從惡露觀，從念本所生流惱熱憂，以眼根守攝止，便從惡露見本觀，便所流惱熱憂便不有，是為，比丘！",
-    "T01n0031_001:0813c08_1": "流從守斷。",
-    "T01n0031_001:0813c08_2": "耳、鼻、口、身、意亦爾。",
-    "T01n0031_001:0813c10_0": "「何等為，比丘！",
-    "T01n0031_001:0813c10_1": "流從避斷？",
-    "T01n0031_001:0813c10_2": "是聞比丘行者，所應從自守，避弊象、避弊馬、避弊牛、避弊狗、避弊虺、避深坑、避蒺[卄/梨]、避溪、避危、避陂池、避山、避不安、避河、避深澗、避惡知識、避惡伴、避惡求、避惡受、避惡處、避惡臥具所臥具。",
-    "T01n0031_001:0813c14_3": "從賢者疑生，如是應，比丘！",
-    "T01n0031_001:0813c15_4": "當避，如是上說不離，所生流惱熱憂已得避，令是流惱熱憂不復有，是名為，比丘！",
-    "T01n0031_001:0813c17_5": "流從避斷。",
-    "T01n0031_001:0813c17_6": "「何等為，比丘！",
-    "T01n0031_001:0813c17_7": "流從用斷？",
-    "T01n0031_001:0813c17_8": "是聞比丘行者，從所用被服，不綺故、不樂故、不貪故、不嚴事故，但為令是身却蚊、蚋、風、日曝、含毒相更從，亂意生亦自守，所食不樂故、不貪故、不健故、不端正故，但令是身得住行道故，供養令斷故。",
-    "T01n0031_001:0813c22_9": "痛痒、新痛痒不復起，令從是差不隨罪，得力安隱行，令從所更臥具牀席，不綺故、不樂故、不貪故、不嚴事故，但令從是是身以有用劇苦疲惓令得止，亦令從所樂用、樂所用，不綺故、不樂故、不貪故、不嚴事故，但為令從是是身以生有痛惱大劇甚痛不可意從斷，令救令解止，若比丘從不用故，生流惱熱憂以從用得止，為所流惱熱憂不復有，是名為，諸比丘！",
-    "T01n0031_001:0814a01_10": "流從以更得斷。",
-    "T01n0031_001:0814a02_0": "「何等為，比丘！",
-    "T01n0031_001:0814a02_1": "流從忍斷？",
-    "T01n0031_001:0814a02_2": "是聞比丘行者，發精進行令斷惡法，受清淨法行，增發膽力，堅精進方便，不捨清淨法。",
-    "T01n0031_001:0814a04_3": "方便聽令是身肌肉骨消乾壞并髓肪皮，但令所應發精進所得，令得膽者、堅者、精進方便者，所求未得精進，不可中止。",
-    "T01n0031_001:0814a07_4": "便行者比丘，能忍寒熱飢渴、蚊蚋風日曝令止含毒，從聞不可語言憍慢意以來，能忍能暇，以生有含毒痛惱、不可意劇痛能過止。",
-    "T01n0031_001:0814a10_5": "若，比丘！",
-    "T01n0031_001:0814a10_6": "從不忍耐所生流熱惱憂，令從過、令從是行，不復流惱熱憂，令得止，是名為，比丘！",
-    "T01n0031_001:0814a12_7": "流從忍耐斷。",
-    "T01n0031_001:0814a13_0": "「何等為比丘流從曉斷？",
-    "T01n0031_001:0814a13_1": "是聞，諸比丘！",
-    "T01n0031_001:0814a13_2": "比丘已生欲，令不聽、不過；捨、曉相、却離；已生瞋恚，不聽、不過；捨、曉相、却離；已生殺欺盜，不聽，不過，捨，曉相，却離。",
-    "T01n0031_001:0814a16_3": "若，諸比丘！",
-    "T01n0031_001:0814a16_4": "不從曉，生流惱熱憂，已從曉不生，便所流惱熱憂令無復有，是名為，諸比丘！",
-    "T01n0031_001:0814a18_5": "流從曉斷。",
-    "T01n0031_001:0814a19_0": "「何等為，比丘！",
-    "T01n0031_001:0814a19_1": "流從增行斷？",
-    "T01n0031_001:0814a19_2": "是聞諸比丘意，比丘意覺有增念行，獨坐止却猗離惡轉法。",
-    "T01n0031_001:0814a21_0": "分別覺亦如是，精進覺亦如是，喜覺亦如是，猗覺亦如是，定覺亦如是，觀却覺行亦如是，不聽、不過、捨、曉相、却。",
-    "T01n0031_001:0814a23_1": "若，諸比丘！",
-    "T01n0031_001:0814a23_2": "不行不增所生流惱熱憂已行增，為所流惱熱憂不復有，是名為，諸比丘！",
-    "T01n0031_001:0814a25_3": "流從行增斷。",
-    "T01n0031_001:0814a26_0": "「若，諸比丘！",
-    "T01n0031_001:0814a26_1": "所流應從見斷，已從見斷；若所流應從守攝斷，已從守攝斷；若流因從避斷，已從避斷；若流因從用斷，已從用斷；若流因從忍過斷，已從忍過斷；若流因從曉斷，已從曉斷；若流因從行增斷，已從行增斷；是名為，諸比丘！",
-    "T01n0031_001:0814b02_2": "一切流攝守因，已壞惡愛，從世間逮得度世，捨縛結，得要離苦。」",
-    "T01n0031_001:0814b03_3": "佛說是，從是聞比丘，意受喜行，得度世竟得道。",
-    "T01n0031_001:0814b05_0": "佛說一切流攝守因經"
-}
+[
+    {
+        "source_sentence": "佛說一切流攝守因經",
+        "from": "T01n0031_001:0813a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後漢安息國三藏安世高譯",
+        "from": "T01n0031_001:0813a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞如是：一時，佛在拘留國留國聚會法議思",
+        "from": "T01n0031_001:0813a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟。",
+        "from": "T01n0031_001:0813a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時，佛告比丘：",
+        "from": "T01n0031_001:0813a09_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「比丘！",
+        "from": "T01n0031_001:0813a09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」應：",
+        "from": "T01n0031_001:0813a09_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「唯然。",
+        "from": "T01n0031_001:0813a09_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」比丘便從佛受教。",
+        "from": "T01n0031_001:0813a10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛便說是：",
+        "from": "T01n0031_001:0813a10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「智者見者，比丘！",
+        "from": "T01n0031_001:0813a10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為得流盡，不智者不見者流不得盡。",
+        "from": "T01n0031_001:0813a11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等，比丘！",
+        "from": "T01n0031_001:0813a11_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者見者令流得盡，不智不見者流不得盡？",
+        "from": "T01n0031_001:0813a12_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但為本觀非本觀。",
+        "from": "T01n0031_001:0813a13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非本觀者，未有欲便有欲生，已生欲，欲便增生不致；",
+        "from": "T01n0031_001:0813a14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未生有流亦癡流便生，已生有亦癡便增多不致。",
+        "from": "T01n0031_001:0813a15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "癡者，比丘！",
+        "from": "T01n0031_001:0813a15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不聞者，世間人，不見慧者，亦不從慧人聞法，亦不從慧人受教誡，亦不從慧人分別解，便得非本念。",
+        "from": "T01n0031_001:0813a17_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令未生流便生，已生流令增饒不致，未生有亦癡便生，已生有亦癡便增饒不致。",
+        "from": "T01n0031_001:0813a19_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以不知不解，如有令不可念法便念，可應念法者便不念。",
+        "from": "T01n0031_001:0813a21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以應念法不念，不應念法者便念，便愛流生，已愛流生便增多不致，未生愛流亦癡流便生，已生愛流亦癡流便增多不致。",
+        "from": "T01n0031_001:0813a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞者，比丘！",
+        "from": "T01n0031_001:0813a24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道德弟子，以見慧者，以從慧者受教誡，亦從慧者分別解，便是如有知。",
+        "from": "T01n0031_001:0813a25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非本念者，未生愛流便生，已生愛流便增多不致，未生愛流亦癡流便生，已生愛流亦癡流便增多不致。",
+        "from": "T01n0031_001:0813a28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本念者，未生愛流不生，已生愛流能捨，未生愛流亦癡流不生，已生愛流亦癡流能捨。",
+        "from": "T01n0031_001:0813b01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若是如有知便所法，不應念便不念，所應念法便念。",
+        "from": "T01n0031_001:0813b02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以不應念法不念，應念法者念，令未生愛流不生，已生愛流便捨解，未生愛流亦癡流不生，已生愛流亦癡流便捨解。",
+        "from": "T01n0031_001:0813b05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「亦有比丘為七流，從是惱生、從是熱、從是憂。",
+        "from": "T01n0031_001:0813b06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為七？",
+        "from": "T01n0031_001:0813b06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有，比丘！",
+        "from": "T01n0031_001:0813b06_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有流從見斷，有流從攝斷，有流從避斷，有流從更斷，有流從忍斷，有流從曉斷，有流從行念斷。",
+        "from": "T01n0031_001:0813b08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「何等，比丘！",
+        "from": "T01n0031_001:0813b09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流從見斷？",
+        "from": "T01n0031_001:0813b09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是聞，比丘！",
+        "from": "T01n0031_001:0813b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "癡，不聞者，世間人，不見賢者，亦不從賢者解，亦不從賢者解教誡，令如是非本念：",
+        "from": "T01n0031_001:0813b11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前世我為有不？",
+        "from": "T01n0031_001:0813b11_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前世我為無有不？",
+        "from": "T01n0031_001:0813b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前世我為何等？",
+        "from": "T01n0031_001:0813b12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前世我為云何？",
+        "from": "T01n0031_001:0813b12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未來世我當有不？",
+        "from": "T01n0031_001:0813b13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未來世我當無有不？",
+        "from": "T01n0031_001:0813b13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未來世我當云何？",
+        "from": "T01n0031_001:0813b14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未來世我云何為？",
+        "from": "T01n0031_001:0813b14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自身爭疑有何等有？",
+        "from": "T01n0031_001:0813b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是人從何來？",
+        "from": "T01n0031_001:0813b15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當復往至何許？",
+        "from": "T01n0031_001:0813b15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是要當云何？",
+        "from": "T01n0031_001:0813b15_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以如是非本念者，為六處疑生、異異結生。",
+        "from": "T01n0031_001:0813b16_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莊有是身？",
+        "from": "T01n0031_001:0813b17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莊無有是身？",
+        "from": "T01n0031_001:0813b17_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為疑生，生自計身身見。",
+        "from": "T01n0031_001:0813b18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是疑生，生自計是身、是我身；",
+        "from": "T01n0031_001:0813b18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為是疑生身、生身相見，為是疑生，生非身見是身，為是疑生，生計是為是我身。",
+        "from": "T01n0031_001:0813b20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所覺所說、所作所更、所舉所起，彼彼處處，所作所行善惡受罪，止不生亦生亦爾。",
+        "from": "T01n0031_001:0813b22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「是，比丘！",
+        "from": "T01n0031_001:0813b23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "結令結、疑令疑，惡疑不正見，跳疑結疑相著，比丘！",
+        "from": "T01n0031_001:0813b24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不聞者世間人，從是苦習有，從是生致。",
+        "from": "T01n0031_001:0813b25_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞者，比丘！",
+        "from": "T01n0031_001:0813b25_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道弟子，是苦如有知，是習如有知，是盡滅如有知，是苦滅行令滅如有知。",
+        "from": "T01n0031_001:0813b27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是知已，如是見，便三縛結畢盡：",
+        "from": "T01n0031_001:0813b27_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者身結，二者疑結，三者行願結。",
+        "from": "T01n0031_001:0813b28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以是三結盡，便隨道得一，不復墮惡處，當得度世。",
+        "from": "T01n0031_001:0813b29_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在人間天上，不過七世，已更七世便畢苦。",
+        "from": "T01n0031_001:0813c01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若，比丘！",
+        "from": "T01n0031_001:0813c01_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不知者、不見者所生流，從惱熱憂令從見者斷，為是流惱熱憂不復有，是名為，比丘！",
+        "from": "T01n0031_001:0813c03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從見流斷。",
+        "from": "T01n0031_001:0813c03_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「何等為，比丘！",
+        "from": "T01n0031_001:0813c04_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流從守斷？",
+        "from": "T01n0031_001:0813c04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是聞比丘行者，眼見色，攝眼根自守，行惡露觀；",
+        "from": "T01n0031_001:0813c05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "念本從所生。",
+        "from": "T01n0031_001:0813c05_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T01n0031_001:0813c05_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眼根不守攝，行令從惡露觀，從念本所生流惱熱憂，以眼根守攝止，便從惡露見本觀，便所流惱熱憂便不有，是為，比丘！",
+        "from": "T01n0031_001:0813c08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流從守斷。",
+        "from": "T01n0031_001:0813c08_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "耳、鼻、口、身、意亦爾。",
+        "from": "T01n0031_001:0813c09_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「何等為，比丘！",
+        "from": "T01n0031_001:0813c10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流從避斷？",
+        "from": "T01n0031_001:0813c10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是聞比丘行者，所應從自守，避弊象、避弊馬、避弊牛、避弊狗、避弊虺、避深坑、避蒺䔧、避溪、避危、避陂池、避山、避不安、避河、避深㵎、避惡知識、避惡伴、避惡求、避惡受、避惡處、避惡臥具所臥具。",
+        "from": "T01n0031_001:0813c14_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從賢者疑生，如是應，比丘！",
+        "from": "T01n0031_001:0813c15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當避，如是上說不離，所生流惱熱憂已得避，令是流惱熱憂不復有，是名為，比丘！",
+        "from": "T01n0031_001:0813c17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流從避斷。",
+        "from": "T01n0031_001:0813c17_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「何等為，比丘！",
+        "from": "T01n0031_001:0813c17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流從用斷？",
+        "from": "T01n0031_001:0813c17_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是聞比丘行者，從所用被服，不綺故、不樂故、不貪故、不嚴事故，但為令是身却蚊、蚋、風、日曝、含毒相更從，亂意生亦自守，所食不樂故、不貪故、不健故、不端正故，但令是身得住行道故，供養令斷故。",
+        "from": "T01n0031_001:0813c22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "痛痒、新痛痒不復起，令從是差不隨罪，得力安隱行，令從所更臥具牀席，不綺故、不樂故、不貪故、不嚴事故，但令從是是身以有用劇苦疲惓令得止，亦令從所樂用、樂所用，不綺故、不樂故、不貪故、不嚴事故，但為令從是是身以生有痛惱大劇甚痛不可意從斷，令救令解止，若比丘從不用故，生流惱熱憂以從用得止，為所流惱熱憂不復有，是名為，諸比丘！",
+        "from": "T01n0031_001:0814a01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流從以更得斷。",
+        "from": "T01n0031_001:0814a01_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「何等為，比丘！",
+        "from": "T01n0031_001:0814a02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流從忍斷？",
+        "from": "T01n0031_001:0814a02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是聞比丘行者，發精進行令斷惡法，受清淨法行，增發膽力，堅精進方便，不捨清淨法。",
+        "from": "T01n0031_001:0814a04_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方便聽令是身肌肉骨消乾壞并髓肪皮，但令所應發精進所得，令得膽者、堅者、精進方便者，所求未得精進，不可中止。",
+        "from": "T01n0031_001:0814a07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "便行者比丘，能忍寒熱飢渴、蚊蚋風日曝令止含毒，從聞不可語言憍慢意以來，能忍能暇，以生有含毒痛惱、不可意劇痛能過止。",
+        "from": "T01n0031_001:0814a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若，比丘！",
+        "from": "T01n0031_001:0814a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從不忍耐所生流熱惱憂，令從過、令從是行，不復流惱熱憂，令得止，是名為，比丘！",
+        "from": "T01n0031_001:0814a12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流從忍耐斷。",
+        "from": "T01n0031_001:0814a12_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「何等為比丘流從曉斷？",
+        "from": "T01n0031_001:0814a13_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是聞，諸比丘！",
+        "from": "T01n0031_001:0814a13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘已生欲，令不聽、不過；",
+        "from": "T01n0031_001:0814a14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨、曉相、却離；",
+        "from": "T01n0031_001:0814a14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已生瞋恚，不聽、不過；",
+        "from": "T01n0031_001:0814a15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨、曉相、却離；",
+        "from": "T01n0031_001:0814a15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已生殺欺盜，不聽，不過，捨，曉相，却離。",
+        "from": "T01n0031_001:0814a16_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若，諸比丘！",
+        "from": "T01n0031_001:0814a16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不從曉，生流惱熱憂，已從曉不生，便所流惱熱憂令無復有，是名為，諸比丘！",
+        "from": "T01n0031_001:0814a18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流從曉斷。",
+        "from": "T01n0031_001:0814a18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「何等為，比丘！",
+        "from": "T01n0031_001:0814a19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流從增行斷？",
+        "from": "T01n0031_001:0814a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是聞諸比丘意，比丘意覺有增念行，獨坐止却猗離惡轉法。",
+        "from": "T01n0031_001:0814a20_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分別覺亦如是，精進覺亦如是，喜覺亦如是，猗覺亦如是，定覺亦如是，觀却覺行亦如是，不聽、不過、捨、曉相、却。",
+        "from": "T01n0031_001:0814a23_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若，諸比丘！",
+        "from": "T01n0031_001:0814a23_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不行不增所生流惱熱憂已行增，為所流惱熱憂不復有，是名為，諸比丘！",
+        "from": "T01n0031_001:0814a25_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "流從行增斷。",
+        "from": "T01n0031_001:0814a25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若，諸比丘！",
+        "from": "T01n0031_001:0814a26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所流應從見斷，已從見斷；",
+        "from": "T01n0031_001:0814a26_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若所流應從守攝斷，已從守攝斷；",
+        "from": "T01n0031_001:0814a27_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若流因從避斷，已從避斷；",
+        "from": "T01n0031_001:0814a28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若流因從用斷，已從用斷；",
+        "from": "T01n0031_001:0814a28_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若流因從忍過斷，已從忍過斷；",
+        "from": "T01n0031_001:0814a29_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若流因從曉斷，已從曉斷；",
+        "from": "T01n0031_001:0814b01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若流因從行增斷，已從行增斷；",
+        "from": "T01n0031_001:0814b01_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名為，諸比丘！",
+        "from": "T01n0031_001:0814b02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切流攝守因，已壞惡愛，從世間逮得度世，捨縛結，得要離苦。",
+        "from": "T01n0031_001:0814b03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛說是，從是聞比丘，意受喜行，得度世竟得道。",
+        "from": "T01n0031_001:0814b04_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說一切流攝守因經",
+        "from": "T01n0031_001:0814b05_100",
+        "context_with_next_sentence": false
+    }
+]

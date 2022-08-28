@@ -1,167 +1,787 @@
-{
-    "T18n0854_001:0164c03_0": "胎藏梵字真言上卷",
-    "T18n0854_001:0164c05_0": "灑淨真言。",
-    "T18n0854_001:0164c09_0": "持地真言曰。",
-    "T18n0854_001:0164c13_0": "持香水真言曰（押紙。",
-    "T18n0854_001:0164c13_1": "已下經二具緣品）。",
-    "T18n0854_001:0164c15_0": "略奉持護摩真言曰。",
-    "T18n0854_001:0164c18_0": "□",
-    "T18n0854_001:0164c19_0": "大力大護明妃真言曰。",
-    "T18n0854_001:0164c24_0": "入佛三昧耶真言曰。",
-    "T18n0854_001:0164c27_0": "法界生真言曰。",
-    "T18n0854_001:0165a01_0": "金剛薩埵真言曰。",
-    "T18n0854_001:0165a03_0": "金剛鎧真言曰。",
-    "T18n0854_001:0165a05_0": "如來眼真言曰。",
-    "T18n0854_001:0165a08_0": "塗香真言曰。",
-    "T18n0854_001:0165a10_0": "華供養真言曰。",
-    "T18n0854_001:0165a13_0": "燒香真言曰。",
-    "T18n0854_001:0165a16_0": "飲食真言曰。",
-    "T18n0854_001:0165a19_0": "燈明真言曰。",
-    "T18n0854_001:0165a22_0": "閼伽真言曰。",
-    "T18n0854_001:0165a25_0": "如來頂相真言曰。",
-    "T18n0854_001:0165a28_0": "如來甲真言曰。",
-    "T18n0854_001:0165a31_0": "如來舌真言。",
-    "T18n0854_001:0165b03_0": "如來圓光真言曰。",
-    "T18n0854_001:0165b06_0": "無礙力真言曰（押紙云。",
-    "T18n0854_001:0165b06_1": "已下第二卷普通真言藏品）。",
-    "T18n0854_001:0165b10_0": "彌勒菩薩真言曰。",
-    "T18n0854_001:0165b13_0": "虛空藏真言曰。",
-    "T18n0854_001:0165b16_0": "除蓋障真言曰。",
-    "T18n0854_001:0165b19_0": "觀自在真言曰。",
-    "T18n0854_001:0165b22_0": "得大勢至真言曰。",
-    "T18n0854_001:0165b24_0": "多羅尊真言曰。",
-    "T18n0854_001:0165b27_0": "毘俱胝真言曰。",
-    "T18n0854_001:0165b28_0": "□□",
-    "T18n0854_001:0165b30_0": "白處尊真言曰。",
-    "T18n0854_001:0165c02_0": "何耶揭嘌嚩真言曰。",
-    "T18n0854_001:0165c05_0": "地藏菩薩真言曰。",
-    "T18n0854_001:0165c08_0": "文殊師利真言曰。",
-    "T18n0854_001:0165c11_0": "金剛手真言曰。",
-    "T18n0854_001:0165c14_0": "忙莾計真言曰。",
-    "T18n0854_001:0165c17_0": "金剛鎖真言曰。",
-    "T18n0854_001:0165c21_0": "金剛月靨真言曰。",
-    "T18n0854_001:0165c23_0": "金剛針真言曰。",
-    "T18n0854_001:0165c26_0": "一切持金剛真言曰。",
-    "T18n0854_001:0165c29_0": "一切奉教真言曰。",
-    "T18n0854_001:0166a02_0": "釋迦牟尼真言曰。",
-    "T18n0854_001:0166a03_0": "□",
-    "T18n0854_001:0166a06_0": "毫相真言曰。",
-    "T18n0854_001:0166a09_0": "一切諸佛頂真言曰。",
-    "T18n0854_001:0166a12_0": "無能勝真言曰。",
-    "T18n0854_001:0166a14_0": "無能勝妃真言曰。",
-    "T18n0854_001:0166a17_0": "地神真言曰。",
-    "T18n0854_001:0166a19_0": "毘紐天真言曰。",
-    "T18n0854_001:0166a21_0": "伊舍那天真言曰。",
-    "T18n0854_001:0166a23_0": "風神真言曰。",
-    "T18n0854_001:0166a25_0": "六美音天。",
-    "T18n0854_001:0166a27_0": "羅剎主真言曰。",
-    "T18n0854_001:0166a30_0": "四閻魔真言曰。",
-    "T18n0854_001:0166b02_0": "三死王真言曰。",
-    "T18n0854_001:0166b04_0": "黑夜神真言曰。",
-    "T18n0854_001:0166b06_0": "七母等真言曰。",
-    "T18n0854_001:0166b08_0": "釋提桓因真言曰。",
-    "T18n0854_001:0166b10_0": "嚩嚕拏龍真言曰。",
-    "T18n0854_001:0166b12_0": "五梵天真言曰。",
-    "T18n0854_001:0166b14_0": "日天真言曰。",
-    "T18n0854_001:0166b16_0": "月天真言。",
-    "T18n0854_001:0166b18_0": "十諸龍真言。",
-    "T18n0854_001:0166b20_0": "難陀跋難陀真言曰。",
-    "T18n0854_001:0166b23_0": "虛空眼明妃真言曰。",
-    "T18n0854_001:0166b27_0": "不動主真言曰。",
-    "T18n0854_001:0166b30_0": "降三世真言曰。",
-    "T18n0854_001:0166c03_0": "聲聞真言曰。",
-    "T18n0854_001:0166c06_0": "緣覺真言曰。",
-    "T18n0854_001:0166c08_0": "普一切諸佛菩薩心真言曰。",
-    "T18n0854_001:0166c11_0": "普世明妃真言曰。",
-    "T18n0854_001:0166c16_0": "一切諸佛真言曰。",
-    "T18n0854_001:0166c19_0": "不可越守護門真言曰。",
-    "T18n0854_001:0166c22_0": "相向守護門真言曰。",
-    "T18n0854_001:0166c26_0": "大結界真言曰。",
-    "T18n0854_001:0167a02_0": "菩提心真言。",
-    "T18n0854_001:0167a04_0": "菩提行真言。",
-    "T18n0854_001:0167a06_0": "成菩提真言曰。",
-    "T18n0854_001:0167a08_0": "涅槃真言曰。",
-    "T18n0854_001:0167a10_0": "降三世真言曰。",
-    "T18n0854_001:0167a12_0": "不動尊真言曰。",
-    "T18n0854_001:0167a13_0": "□",
-    "T18n0854_001:0167a14_0": "無動尊真言曰。",
-    "T18n0854_001:0167a16_0": "除蓋障真言曰。",
-    "T18n0854_001:0167a18_0": "除蓋障真言曰。",
-    "T18n0854_001:0167a20_0": "觀自在真言曰。",
-    "T18n0854_001:0167a22_0": "金剛手真言曰。",
-    "T18n0854_001:0167a24_0": "文殊師利真言曰。",
-    "T18n0854_001:0167a26_0": "虛空眼真言曰。",
-    "T18n0854_001:0167a28_0": "法界真言曰。",
-    "T18n0854_001:0167a30_0": "大勤勇真言。",
-    "T18n0854_001:0167b02_0": "水自在真言曰。",
-    "T18n0854_001:0167b04_0": "多羅尊真言曰。",
-    "T18n0854_001:0167b06_0": "毘俱胝真言曰。",
-    "T18n0854_001:0167b08_0": "得大勢至真言曰。",
-    "T18n0854_001:0167b10_0": "白處尊真言曰。",
-    "T18n0854_001:0167b12_0": "何耶揭嘌嚩真言曰。",
-    "T18n0854_001:0167b14_0": "耶輸陀羅真言曰。",
-    "T18n0854_001:0167b16_0": "寶手真言。",
-    "T18n0854_001:0167b18_0": "光網真言曰。",
-    "T18n0854_001:0167b20_0": "釋迦牟尼真言曰。",
-    "T18n0854_001:0167b22_0": "□佛頂真言曰。",
-    "T18n0854_001:0167b24_0": "白傘蓋佛頂真言曰。",
-    "T18n0854_001:0167b26_0": "勝佛頂真言曰。",
-    "T18n0854_001:0167b28_0": "最勝佛頂真言曰。",
-    "T18n0854_001:0167c01_0": "光聚佛頂真言。",
-    "T18n0854_001:0167c03_0": "除障佛頂真言。",
-    "T18n0854_001:0167c05_0": "世明妃真言曰。",
-    "T18n0854_001:0167c07_0": "無能勝真言曰。",
-    "T18n0854_001:0167c09_0": "地神真言曰。",
-    "T18n0854_001:0167c11_0": "計設尼真言曰。",
-    "T18n0854_001:0167c13_0": "烏婆計設尼真言曰。",
-    "T18n0854_001:0167c15_0": "質多羅童子真言曰。",
-    "T18n0854_001:0167c17_0": "財惠童子真言曰。",
-    "T18n0854_001:0167c19_0": "除疑怪真言曰。",
-    "T18n0854_001:0167c21_0": "施一切眾生無畏真言曰。",
-    "T18n0854_001:0167c23_0": "除一切惡趣真言曰。",
-    "T18n0854_001:0167c24_0": "□",
-    "T18n0854_001:0167c25_0": "哀愍惠真言曰。",
-    "T18n0854_001:0167c26_0": "□□",
-    "T18n0854_001:0167c27_0": "大慈生真言。",
-    "T18n0854_001:0167c29_0": "大□纏真言曰。",
-    "T18n0854_001:0168a01_0": "除一切熱惱真言曰。",
-    "T18n0854_001:0168a02_0": "□",
-    "T18n0854_001:0168a03_0": "不可思議真言曰。",
-    "T18n0854_001:0168a05_0": "地藏旗真言曰。",
-    "T18n0854_001:0168a07_0": "寶處真言曰。",
-    "T18n0854_001:0168a09_0": "寶手真言曰。",
-    "T18n0854_001:0168a11_0": "持地真言曰。",
-    "T18n0854_001:0168a13_0": "寶印手真言曰。",
-    "T18n0854_001:0168a15_0": "堅固意真言曰。",
-    "T18n0854_001:0168a17_0": "虛空無垢真言曰。",
-    "T18n0854_001:0168a19_0": "虛空惠真言曰。",
-    "T18n0854_001:0168a21_0": "清淨惠真言曰。",
-    "T18n0854_001:0168a23_0": "行□真言曰。",
-    "T18n0854_001:0168a25_0": "□惠真言曰。",
-    "T18n0854_001:0168a26_0": "□",
-    "T18n0854_001:0168a27_0": "□。",
-    "T18n0854_001:0168a28_0": "□",
-    "T18n0854_001:0168a29_0": "諸菩薩所說真言曰。",
-    "T18n0854_001:0168b02_0": "淨居真言曰。",
-    "T18n0854_001:0168b05_0": "淨居天真言曰。",
-    "T18n0854_001:0168b07_0": "羅剎婆真言曰。",
-    "T18n0854_001:0168b09_0": "諸荼吉尼真言曰。",
-    "T18n0854_001:0168b11_0": "藥叉女真言曰。",
-    "T18n0854_001:0168b13_0": "諸毘舍遮真言曰。",
-    "T18n0854_001:0168b15_0": "諸部多羅真言曰。",
-    "T18n0854_001:0168b17_0": "諸阿修羅真言曰。",
-    "T18n0854_001:0168b19_0": "諸摩睺囉伽真言曰。",
-    "T18n0854_001:0168b21_0": "摩睺羅伽真言曰。",
-    "T18n0854_001:0168b23_0": "諸緊那羅真言曰。",
-    "T18n0854_001:0168b25_0": "諸人真言曰。",
-    "T18n0854_001:0168b28_0": "無所不至真言曰　已下第三卷（押紙云。",
-    "T18n0854_001:0168b29_0": "已下第三卷悉地出現品）。",
-    "T18n0854_001:0168c02_0": "□空藏明妃真言曰。",
-    "T18n0854_001:0168c06_0": "滿足一切金剛字句真言曰。",
-    "T18n0854_001:0168c08_0": "無礙力明妃真言曰（押紙云。",
-    "T18n0854_001:0168c08_1": "已下第三卷轉字輪マタラ行品）。",
-    "T18n0854_001:0168c13_0": "救世者真言曰。",
-    "T18n0854_001:0168c15_0": "無能害力明妃真言曰。",
-    "T18n0854_001:0168c19_0": "置字句。",
-    "T18n0854_001:0168c20_0": "已下第四卷。"
-}
+[
+    {
+        "source_sentence": "胎藏梵字真言上卷",
+        "from": "T18n0854_001:0164c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "灑淨真言：",
+        "from": "T18n0854_001:0164c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇖵􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􇩄􄕙􄙺􄗫􇟄􄑘􄑘",
+        "from": "T18n0854_001:0164c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄙺􄗫􇟄􄙺􄗥􆩗􄖭􄑘􄕝􇟄􇩄􆮧􄕙􄙘􄙦􇧼􇟄􄕻􇩷􄕼􄕛􄙘􄙪􄕻􄖫􇟄􇩉􄚩􇖴持地真言曰：",
+        "from": "T18n0854_001:0164c09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄕗􄕤􄑘􄕘􇟄􄕽􆵌􄖪􄕽􆵍􄕝􆿅􄑼􄙐􇟄􄙘􄗥􄙐􇟄􅋌􄗽􄕑􇟄􇩄􆮧􄕙􄖵􄙀􄙦􇧼􇩉􄚩􇖴持香水真言曰（押紙：",
+        "from": "T18n0854_001:0164c13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已下經二，具緣品）：",
+        "from": "T18n0854_001:0164c13_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􇪪􈎭􇧺􈁀􇟄􆿅􅍉􄗷􇩉􄚩􇖴略奉持護摩真言曰。",
+        "from": "T18n0854_001:0164c15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􆿔􄗥􄚩􄙣􆩘􄑘􄕗􄙣􆩘􄑀􄗽􇟄􇩄􄙢􄗥􄕻􇩷􄖫􈋷􄕗􇟄􆿅􄗚􄙖􇩉􄚩􄙖􄕻􅟇􄙺􈍇􄖪􄪽􆻤􇟄􇩉􄚩􇖴大力大護明妃真言曰：",
+        "from": "T18n0854_001:0164c19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􇩆􄕗􄕤􄑘􄕝􄢢􇟄􄙺􇩆􄗙􄗱􄙘􄑘􄕝􇧸􇟄􄙘􈂫􈁃􄑒􇧸􇟄􄙺􇩆􄕤􇟄􄚲􄑖􇟄􄗽􄚴􄗥􄚩􄙖􄙐􇟄􄙺􅞣􄕗􄕤􄑘􄕗􇟄􄖹􅝯􄖫􈅉􄕝􇩴􇩴􄩟􈁆􄩟􈁆􇟄􆿅􇩄􄖫􄚨􄕝􇟄􇩉􄚩􇖴入佛三昧耶真言曰：",
+        "from": "T18n0854_001:0164c24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄙺􄗫􄩠􄙺􄗫􇟄􄙺􄗥􄗷􇩉􄚩􇖴法界生真言曰：",
+        "from": "T18n0854_001:0164c27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕻􇩷􄕻􄕛􇟄􇩉􄚩􄙖􄑈􄚲􇖴金剛薩埵真言曰：",
+        "from": "T18n0854_001:0165a01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􄙖􄦽􈃄􇟄􄙖􇩶􈇪􄑈􄚲􇖴金剛鎧真言曰：",
+        "from": "T18n0854_001:0165a03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄙖􄦽􄑀􄙖􄑼􇩴􇖴如來眼真言曰：",
+        "from": "T18n0854_001:0165a05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕗􄕤􄑘􄕘􄑼􄚸􅧩􄙖􄙒􄑀􄗱􇩉􄚩􇖴塗香真言曰：",
+        "from": "T18n0854_001:0165a08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􄙘􄙦􇧹􄑘􆪤􇪮􄙖􇩉􄚩􇖴華供養真言曰：",
+        "from": "T18n0854_001:0165a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗥􄚩􄗬􈇢􄡼􆲪􄕝􇩉􄚩􇖴燒香真言曰：",
+        "from": "T18n0854_001:0165a13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕻􇩷􄕻􄽙􄖭􄑘􄕝􇩉􄚩􇟄飲食真言曰：",
+        "from": "T18n0854_001:0165a16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄗽􄗽􄑀􄗽􄗽􄙖􄙌􅛈􄕵􄗥􄚩􄙖􈁖􇩉􄚩􇖴燈明真言曰：",
+        "from": "T18n0854_001:0165a19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕗􄕤􄑘􄕘􅗗􇟄􆷱􄗽􄕋􄙖􄗚􄙺􄖩􇟄􄑘􄑘􄖲􄕰􅝩􇩉􄚩􇖴閼伽真言曰：",
+        "from": "T18n0854_001:0165a22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑘􄑘􄖩􄙺􄗦􄙺􄗥􇩉􄚩􇖴如來頂相真言曰：",
+        "from": "T18n0854_001:0165a25_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑘􄑘􄖪􄖩􆩖􆷱􄗽􄕋􇟄􄙘􄙦􇧹􄕻􇩷􄖫􈅉􄕝􇩉􄚩􇖴如來甲真言曰：",
+        "from": "T18n0854_001:0165a28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􇩄􄑼􆧽􄙖􄦽􈁊􄙊􇟄􄙘􆷵􄗽􇩴􇖴如來舌真言：",
+        "from": "T18n0854_001:0165a31_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗥􄚩􄗥􄚩􄕗􄕤􄑘􄕘􄒸􅁰􇟄􄙺􄟗􄕻􅝝􇩄􄕙􆵍􄕗􇩉􄚩􇖴如來圓光真言曰：",
+        "from": "T18n0854_001:0165b03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈁊􄙋􄗦􄙌􄖫􇟄􄕗􄕤􄑘􄕘􅗗􇩉􄚩􇖴無礙力真言曰（押紙云：",
+        "from": "T18n0854_001:0165b06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已下第二卷，普通真言藏品）：",
+        "from": "T18n0854_001:0165b07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􄗥􄕘􄖭􄑘􄕗􄙖􄗽􄒶􄕻􅝝􄖫􅗭􄕗􇟄􄗥􄚩􄗥􄚨􇩉􄚩􇖴彌勒菩薩真言曰：",
+        "from": "T18n0854_001:0165b10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄒸􄕡􄒶􄗷􇟄􄙺􇩆􄙺􄽚􄙢􄗲􄖭􄑘􄕗􇟄􇩉􄚩􇖴虛空藏真言曰：",
+        "from": "T18n0854_001:0165b13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄑁􄙢􄙺􄗥􄕘􄖭􄑘􄕘􇟄􄙘􄑾􈂷􄗍􄗽􄕻􄗽􇟄􇩉􄚩􇖴除蓋障真言曰：",
+        "from": "T18n0854_001:0165b16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈅺􄙺􄽙􄚪􄕘􄡼􆲪􄕗􇟄􄩨􄩨􄙈􄙈􇩉􄚩􇖴觀自在真言曰：",
+        "from": "T18n0854_001:0165b19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄕗􄕤􄑘􄕘􄙖􄙒􄑂􄕗􇟄􄑀􄙃􄕋􄗥􄗱􇟄􄗽􄗽􄗽􇩴􄓁􇩉􄚩􇖴得大勢至真言曰：",
+        "from": "T18n0854_001:0165b22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄒶􄒶􄚧􇩉􄚩􇖴多羅尊真言曰：",
+        "from": "T18n0854_001:0165b24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑀􄙃􄕑􇪮􄙜􇟄􄕘􄙄􄕘􄙀􄕍􇟄􇩉􄚩􇖴毘俱胝真言曰：",
+        "from": "T18n0854_001:0165b27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄗙􄗱􄩟􈍇􈍇􇩴􆷱􈁆􄗱􇩉􄚩􇖴白處尊真言曰：",
+        "from": "T18n0854_001:0165b30_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕗􄕤􄑘􄕗􄙘􄙮􄗱􇟄􄚦􄗙􄙜􇟄􄖵􇪯􄗦􄙌􄖫􇩉􄚩􇖴何耶揭嘌嚩真言曰：",
+        "from": "T18n0854_001:0165c02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􇩴􄑍􄕯􄕉􄓀􇟄􆷱􈁆􄗱􇟄􇩉􄚩􇖴地藏菩薩真言曰：",
+        "from": "T18n0854_001:0165c05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚨􄚨􄚨􇟄􈂼􄕗􄖭􇟄􇩉􄚩􇖴文殊師利真言曰：",
+        "from": "T18n0854_001:0165c08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚮􄚮􄑄􄗦􄗽􄑀􇟄􄙘􈁃􈁍􄖵􄕣􅁦􄕗􇟄􅋌􄗽􇥗􇩄􄕙􈇍􇩉􄚩􇖴金剛手真言曰：",
+        "from": "T18n0854_001:0165c11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄑼􆧽􄗥􄚩􄙆􄙮􄕋􇩴􇖴忙莾計真言曰：",
+        "from": "T18n0854_001:0165c14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􄩠􄓚􄩠􄓚􇟄􄒶􄗻􄕙􇟄􇩉􄚩􇖴金剛鎖真言曰：",
+        "from": "T18n0854_001:0165c17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􇩴􄗍􈏎􄗍􈏎􄗱􇟄􄗭􄓚􄗭􄓚􄗱􇟄􄙖􄧃􇪮􄙜􇟄􄙺􇩆􈅆􇩄􄕙􄚨􄕝􇟄􇩉􄚩􇖴金剛月靨真言曰：",
+        "from": "T18n0854_001:0165c21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􈁐􇩴􄗁􄓚􇟄􇩉􄚩􇖴金剛針真言曰：",
+        "from": "T18n0854_001:0165c23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄙺􅞣􄕻􈆺􄖫􄙜􄕻􄖫􄙖􄦽􈂼􄑾􄙖􄗽􄕵􇟄􇩉􄚩􇖴一切持金剛真言曰：",
+        "from": "T18n0854_001:0165c26_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􇩴􇩴􇩴􄗁􈁆􄗁􈁆􄓀􄓀􇩉􄚩􇖴一切奉教真言曰：",
+        "from": "T18n0854_001:0165c29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄚮􄚮􈃛􄑾􄗾􄗱􄙼􇟄􈃈􈁒􈃈􈁒􇟄􄑍􄕯􄑍􄕯􄖵􄙀􈁂􄗽􄗱􇟄􄙺􅞣􈆡􄑀􄗾􄕕􅁥􇩄􄕙􈂤􇟄􇩉􄚩􇖴釋迦牟尼真言曰：",
+        "from": "T18n0854_001:0166a02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄯁􄙢􄖫􄙺􈍇􄖩􇟄􄙺􇩆􄕻􈆺􄙖􄙤􄗾􄪼􆻤􇟄􄑘􄑘􄖩􄙺􄗦􄙺􄗥􇟄􇩉􄚩􇖴毫相真言曰：",
+        "from": "T18n0854_001:0166a06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙖􄗾􄕵􄙖􄗽􄪽􆻪􇩴􇖴一切諸佛頂真言曰：",
+        "from": "T18n0854_001:0166a09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙠􄙠􄙠􇩴􇩴􄗁􈁆􇟄􇩉􄚩􇖴無能勝真言曰：",
+        "from": "T18n0854_001:0166a12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈁔􈁔􈋈􈋈􈋀􈋀􇩉􄚩􇖴無能勝妃真言曰：",
+        "from": "T18n0854_001:0166a14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄖶􄗾􄒸􄕝􇟄􄒶􄗻􄕙􄕗􄓴􄕝􇟄􇩉􄚩􇖴地神真言曰：",
+        "from": "T18n0854_001:0166a17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆯷􄕥􄣅􇟄􇩉􄚩􇖴毘紐天真言曰：",
+        "from": "T18n0854_001:0166a19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙘􈇡􄙜􇟄􇩉􄚩􇖴伊舍那天真言曰：",
+        "from": "T18n0854_001:0166a21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙃􇪰􄗲􇩉􄚩􇖴風神真言曰：",
+        "from": "T18n0854_001:0166a23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙗􄗱􄙜􇟄􇩉􄚩􇖴六美音天：",
+        "from": "T18n0854_001:0166a25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈂼􄗽􇩉􄟞􇟄􇩉􄚩􇖴羅剎主真言曰：",
+        "from": "T18n0854_001:0166a27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗾􄚴􄙻􄕽􄖵􄕗􄗷􇟄􇩉􄚩􇖴四閻魔真言曰：",
+        "from": "T18n0854_001:0166a30_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙝􄙖􅁤􄕘􄗱􇟄􇩉􄚩􇖴三死王真言曰：",
+        "from": "T18n0854_001:0166b02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􇩸􄟗􄙜􇩉􄚩􇖴黑夜神真言曰：",
+        "from": "T18n0854_001:0166b04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑁􄙊􄗾􈋁􄗷􇟄􇩉􄚩􇖴七母等真言曰：",
+        "from": "T18n0854_001:0166b06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗥􆯣􇧸􇟄􇩉􄚩􇖴釋提桓因真言曰：",
+        "from": "T18n0854_001:0166b08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙢􄥇􄗱􇟄􇩉􄚩􇖴嚩嚕拏龍真言曰：",
+        "from": "T18n0854_001:0166b10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􈃽􄖵􄕗􄗷􇟄􇩉􄚩􇖴五梵天真言曰：",
+        "from": "T18n0854_001:0166b12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􇩄􄒶􄖵􄕗􄗷􇟄􄚩􇖴日天真言曰：",
+        "from": "T18n0854_001:0166b14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄕱􄟘􄗱􇟄􇩉􄚩􇖴月天真言：",
+        "from": "T18n0854_001:0166b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑼􈆦􄗱􇟄􇩉􄚩􇖴十諸龍真言：",
+        "from": "T18n0854_001:0166b18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗫􄑤􄙢􄖬􄗷􇟄􇩉􄚩􇖴難陀跋難陀真言曰：",
+        "from": "T18n0854_001:0166b20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄖩􆩴􄖵􄖩􆩮􄗱􇟄􇩉􄚩􇖴虛空眼明妃真言曰：",
+        "from": "T18n0854_001:0166b23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑘􄑘􄖩􄙖􄗽􄙊􄚴􄕑􇟄􄑘􄑘􄖩􄙺􄗥􄗱􇟄􄙺􇩆􄕟􆲪􄕘􇟄􄗛􄙻􄗽􄚦􄗙􄙜􇟄􈁊􄙊􄖪􄗭􄑥􈁀􇟄􇩉􄚩􇖴不動主真言曰：",
+        "from": "T18n0854_001:0166b27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄑼􄓺􄗥􄚩􄙆􄙮􄕋􇟄􆷱􈁆􄗱􇩴􈇳􄑀􈁅􈁝􇖴降三世真言曰：",
+        "from": "T18n0854_001:0166b30_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄚨􄚨􄚨􇟄􄙘􅋌􄗷􇟄􄙺􅞣􄕗􄕤􄑘􄕘􇟄􄙘􄙮􄗱􄚦􄗙􄙖􇟄􈉩􄙒􄛀􄙘􄒶􄗱􇩴􄓁􇟄􇩉􄚩􇖴聲聞真言曰：",
+        "from": "T18n0854_001:0166c03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑆􄕛􇩄􄟗􄗱􇟄􄙘􄑘􄕗􄑀􇩷􄖫􅗭􄕗􇟄􇩴􇖴緣覺真言曰：",
+        "from": "T18n0854_001:0166c06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙡􇖴普一切諸佛菩薩心真言曰：",
+        "from": "T18n0854_001:0166c08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􅞣􈎭􇧺􄗕􄕽􄙺􄽙􇟄􆱨􄕯􄗻􄡉􄙜􄙢􈋃􇟄􄖩􄗰􄙺􅞣􄙘􄕵􇟄􇩉􄚩􇖴普世明妃真言曰：",
+        "from": "T18n0854_001:0166c11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙒􄑁􄙒􄑁􄑀􄗾􄗱􇟄􄙺􇩆􄕵􄙖􄖪􄑘􄗱􄚴􄑘􈏎􅞤􇟄􆿅􈂼􄗽􄑘􄙃􄓲􈆡􄕯􄗽􇟄􄗥􄚩􄗽􄑙􄕱􇟄􆱨􄕯􄗲􇟄􄡉􄑀􅞻􄗱􇟄􄙘􄑾􇩌􄑘􄕙􇟄􇩉􄚩􇖴一切諸佛真言曰：",
+        "from": "T18n0854_001:0166c16_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄕤􇟄􄙘􄗥􄕙􄙘􄑂􄗽􈇱􇟄􄕻􇩷􄕼􄕛􄖫􅗭􄕗􄚦􄚦􄚨􇟄􇩉􄚩􇖴不可越守護門真言曰：",
+        "from": "T18n0854_001:0166c19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄓲􅛔􅞻􄗥􄚩􄙆􄙮􄕋􇟄􄑍􄕯􄗱􄙺􈊷􄕗􄕤􄑘􄕘􈆷􄑄􄙃􇟄􇩉􄚩􇖴相向守護門真言曰：",
+        "from": "T18n0854_001:0166c22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄗛􈁃􄑌􄚮􄗥􄚩􄪼􄑼􄓺􇟄􆿅􄗛􈁃􄑍􇟄􈃈􈁒􄑌􄕯􄗱􇟄􄑂􄑾􄗽􄗱􄙼􇟄􄙺􄗥􄗱􄗥􄖭􅋌􄗽􇟄􇩉􄚩􇖴大結界真言曰：",
+        "from": "T18n0854_001:0166c26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􈇳􄖭􄑘􄕝􇟄􄙖􄾫􄗱􄙽􄗯􇟄􄗥􄚩􄙺􄗥􄗱􄖫􅗭􄕝􇟄􅋌􄗽􄕋􆿅􇩄􄕙􄚨􄕵􇟄􄕻􄑀􄕻􄑀􇟄􄑼􄗽􄑼􄗽􇟄􄙖􄾫􇟄􄕯􄙢􈋅􄙬􇟄􄙺􇩆􄕗􄕤􄑘􄕘􄓲􈂤􄕝􇟄􇩄􄙖􄗽􄕻􅝝􄙊􇧹􄗏􄒶􄗷􇟄􄗙􄑘􄙖􄕙􇟄􄗏􄑄􄙃􄗏􄑄􄙐􇟄􄙐􄙌􄖹􄙀􇟄􇩉􄚩􇖴菩提心真言：",
+        "from": "T18n0854_001:0167a02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗕􄕽􆿅􇖴菩提行真言：",
+        "from": "T18n0854_001:0167a04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄑼􇩈􆿆􇖴成菩提真言曰：",
+        "from": "T18n0854_001:0167a06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄚦􄗕􄕽􆿓􇖴涅槃真言曰：",
+        "from": "T18n0854_001:0167a08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖫􅞤􄕋􇟄􆿔􇖴降三世真言曰：",
+        "from": "T18n0854_001:0167a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄩞􄙒􄛀􄗏􄒶􄗱􈉦􇖴不動尊真言曰：",
+        "from": "T18n0854_001:0167a12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􈍇􇖴無動尊真言曰：",
+        "from": "T18n0854_001:0167a14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􆿅􄑼􄙊􄖩􈉸􇖴除蓋障真言曰：",
+        "from": "T18n0854_001:0167a16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙺􅞣􄖬􄙖􄗽􄕋􄗏􈋆􄗜􇖴除蓋障真言曰：",
+        "from": "T18n0854_001:0167a18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿔􇖴觀自在真言曰：",
+        "from": "T18n0854_001:0167a20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􆿅􄙖􄙒􄑂􄕝􈂫􄗽􇟄􄚧􇖴金剛手真言曰：",
+        "from": "T18n0854_001:0167a22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙖􄦽􄖶􄕍􇟄􄙖􄦽􄕕􄙡􇖴文殊師利真言曰：",
+        "from": "T18n0854_001:0167a24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈆿􄒺􈊸􇟄􈎭􇧹􈁀􄗯􇖴虛空眼真言曰：",
+        "from": "T18n0854_001:0167a26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄑘􄑘􄖩􄙒􄑼􄖪􇟄􄑢􇖴法界真言曰：",
+        "from": "T18n0854_001:0167a28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄕻􇩷􄕼􄩩􄙈􇖴大勤勇真言：",
+        "from": "T18n0854_001:0167a30_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗥􄚩􄙙􄙉􇟄􄑖􇖴水自在真言曰：",
+        "from": "T18n0854_001:0167b02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄒶􄙑􈂫􄗾􇟄􄓀􇖴多羅尊真言曰：",
+        "from": "T18n0854_001:0167b04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄕘􄗾􄕵􄙙􇟄􄕡􇖴毘俱胝真言曰：",
+        "from": "T18n0854_001:0167b06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇧸􇟄􆱄􄑄􄓝􇖴得大勢至真言曰：",
+        "from": "T18n0854_001:0167b08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄚦􇟄􄗥􄚩􇩉􄗥􄪽􆻯􇖴白處尊真言曰：",
+        "from": "T18n0854_001:0167b10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖿􇟄􄖵􄓸􄗽􄙗􄙼􄖬􇖴何耶揭嘌嚩真言曰：",
+        "from": "T18n0854_001:0167b12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄚲􇟄􄚨􄗱􄥢􄙡􇖴耶輸陀羅真言曰：",
+        "from": "T18n0854_001:0167b14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗻􇟄􄗱􄙪􄕻􄗾􇖴寶手真言：",
+        "from": "T18n0854_001:0167b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄚦􇟄􄗽􅑈􄖶􄕍􇖴光網真言曰：",
+        "from": "T18n0854_001:0167b18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄓀􇟄􄒶􄙌􄖬􇩄􄗙􇖴釋迦牟尼真言曰：",
+        "from": "T18n0854_001:0167b20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗤􇟄􄙢􄛀􈁃􄖫􇖴□佛頂真言曰：",
+        "from": "T18n0854_001:0167b22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩴􇩴􄚦􈆭􇟄􇩴􈋱􇟄􆿉􈃇􄙮􇩌􄗻􇖴白傘蓋佛頂真言曰：",
+        "from": "T18n0854_001:0167b24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙔􇟄􄙼􄕘􄕗􄖵􇩌􇖴勝佛頂真言曰：",
+        "from": "T18n0854_001:0167b26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙬􇟄􄒶􄗹􈃇􄙮􇖴最勝佛頂真言曰：",
+        "from": "T18n0854_001:0167b28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙥􄙽􇟄􄙘􄒶􄗹􈃇􄙮􇖴光聚佛頂真言：",
+        "from": "T18n0854_001:0167c01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁓􇟄􄕝􄒼􄗾􄙤􇖴除障佛頂真言：",
+        "from": "T18n0854_001:0167c03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄮭􇟄􄙘􄑂􄗽􄕋􄖿􄒦􈃇􄙮􇖴世明妃真言曰：",
+        "from": "T18n0854_001:0167c05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄕡􄚲􄖿􄚲􄗻􇟄􄗏􄟰􄗾􈃇􄙒􄑆􇖴無能勝真言曰：",
+        "from": "T18n0854_001:0167c07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈆭􇟄􆿅􄖵􄗾􄒸􄗾􇖴地神真言曰：",
+        "from": "T18n0854_001:0167c09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗏􇟄􆯷􄕥􄙙􇖴計設尼真言曰：",
+        "from": "T18n0854_001:0167c11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄑂􄙌􇟄􄑆􄙤􄖬􇖴烏婆計設尼真言曰：",
+        "from": "T18n0854_001:0167c13_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄕱􄙌􇟄􆿉􄖵􄑆􄙤􄖬􇖴質多羅童子真言曰：",
+        "from": "T18n0854_001:0167c15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗧􄙌􇟄􄑾􄩟􇖴財惠童子真言曰：",
+        "from": "T18n0854_001:0167c17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄚪􄙌􇟄􄙖􈂼􄗥􄕙􇖴除疑怪真言曰：",
+        "from": "T18n0854_001:0167c19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄚨􄙺􈁀􇟄􄚱􄑄􄚨􄙌􄖴􇖴施一切眾生無畏真言曰：",
+        "from": "T18n0854_001:0167c21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗽􄙺􈁀􇟄􄙺􇩆􄙺􄽚􄗙􄗻􄕯􄕵􇖴除一切惡趣真言曰：",
+        "from": "T18n0854_001:0167c23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈍇􄙺􄖳􇟄􄙺􇩆􄖶􄗲􄒶􄚳􇖴哀愍惠真言曰：",
+        "from": "T18n0854_001:0167c25_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈍇􄙺􄖳􇟄􈍇大慈生真言：",
+        "from": "T18n0854_001:0167c27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄓰􇟄􄗥􄚩􄗬􈇢􈋇􆲪􄕗􇖴大□纏真言曰：",
+        "from": "T18n0854_001:0167c29_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗻􇟄􄗥􄚩􄑀􄙃􈇱􇩄􄕙􄕗􇖴除一切熱惱真言曰：",
+        "from": "T18n0854_001:0168a01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈉁􈍇􅞣􄕰􄚨􇩄􄙢􄗧􄖩􇖴不可思議真言曰：",
+        "from": "T18n0854_001:0168a03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇇴􇟄􆿅􄑾􈃭􄗥􄕙􄕯􆽕􇖴地藏旗真言曰：",
+        "from": "T18n0854_001:0168a05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄚨􄚨􄚨􇟄􄗏􄙺􇩆􄙣􄖵􄙀􈁂􄗾􄑀􇩉􄚩􇖴寶處真言曰：",
+        "from": "T18n0854_001:0168a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄕹􄓀􇟄􄗽􇩋􄑀􄗽􇖴寶手真言曰：",
+        "from": "T18n0854_001:0168a09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙮􇟄􄗽􅑈􄖶􄕍􇖴持地真言曰：",
+        "from": "T18n0854_001:0168a11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄑺􇟄􄕻􄗽􄕍􄾫􄗽􄓘􇖴寶印手真言曰：",
+        "from": "T18n0854_001:0168a13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗋􇟄􄗽􅑈􈁃􄩷􄚨􆶩􇖴堅固意真言曰：",
+        "from": "T18n0854_001:0168a15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈃄􇟄􆯫􄓾􄟼􄙢􄗱􇖴虛空無垢真言曰：",
+        "from": "T18n0854_001:0168a17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄚲􇟄􄑘􄑘􄖪􄗥􄙊􇖴虛空惠真言曰：",
+        "from": "T18n0854_001:0168a19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈋈􇟄􄑘􄑘􄖩􄗥􄕝􇖴清淨惠真言曰：",
+        "from": "T18n0854_001:0168a21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄑘􄕡􇟄􄗏􄙦􇧹􄗥􄕝􇖴行□真言曰：",
+        "from": "T18n0854_001:0168a23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄕽􄙈􇟄􄙀􇩌􄗥􄕝􇖴□惠真言曰：",
+        "from": "T18n0854_001:0168a25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈍇􄙼􄗽􈎭􇧼􇖴□：",
+        "from": "T18n0854_001:0168a27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈍇􈊸􄚨􄭛􇟄􄑂􄗾􈇱􇖴諸菩薩所說真言曰：",
+        "from": "T18n0854_001:0168a29_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄚿􄓲􄕗􄗽􄗻􄑊􇟄􄗱􄕫􈅂􄗕􄕽􄙺􄽚􇖴淨居真言曰：",
+        "from": "T18n0854_001:0168b02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗭􄗽􄗥􄕻􅝝􄚦􄗙􄙖􄗏􄗙􄙖􇟄􄑀􄕣􄖩􄚦􄚦􄙺􄕝􇩉􄚩􇖴淨居天真言曰：",
+        "from": "T18n0854_001:0168b05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙦􈒻􄙖􄚩􇖴羅剎娑真言曰：",
+        "from": "T18n0854_001:0168b07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄥑􄑆􄙀􇟄􄗾􄚴􄙺􇖴諸荼吉尼真言曰：",
+        "from": "T18n0854_001:0168b09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩵􄚳􇟄􄓲􄑂􄖬􈁀􇖴藥叉女真言曰：",
+        "from": "T18n0854_001:0168b11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗱􄚴􄗏􄟰􄕻􄙀􇟄􄗱􄚶􄕎􈁀􇖴諸毘舍遮真言曰：",
+        "from": "T18n0854_001:0168b13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖷􄑾􄖷􄑾􇟄􄖷􄙣􄑾􄖬􈁀􇖴諸部多羅真言曰：",
+        "from": "T18n0854_001:0168b15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈉎􈉁􄑜􆿇􄗯􄚦􄕝􇟄􄗞􄕘􈁀􇟄諸阿修羅真言曰：",
+        "from": "T18n0854_001:0168b17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗽􄓤􄗽􄓤􈆮􄕡􄫬􇟄􆿅􆿅􇩄􇖴諸摩睺囉伽真言曰：",
+        "from": "T18n0854_001:0168b19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗾􇟄􄑘􄗽􄙔􈃐􄗽􈃗􇖴摩睺羅伽真言曰：",
+        "from": "T18n0854_001:0168b21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗥􄚰􄗽􄑘􇖴諸緊那羅真言曰：",
+        "from": "T18n0854_001:0168b23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄚨􄑌􄙺􄖳􄗏􄚨􄙺􄖳􇟄􄑂􆩖􄗽􈃄􇖴諸人真言曰：",
+        "from": "T18n0854_001:0168b25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􆿇􇩺􄖵􄙈􄗥􈃂􄗥􄗷􄗫􅁤􄚩􄗥􄖭􄣖􄕕􇖴􄓦􇖴無所不至真言曰　已下第三卷（押紙云：",
+        "from": "T18n0854_001:0168b28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已下第三卷悉地出現品）：",
+        "from": "T18n0854_001:0168b29_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄙄􄢢􇟄􄗏􈂫􈁃􄑒􇧸􄙺􇩆􄕤􇟄􆿅􆿆􆿓􆿔􇖴□空藏明妃真言曰：",
+        "from": "T18n0854_001:0168c02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􇩆􄕗􄕤􄑘􄕝􄢢􇟄􄙘􈂫􈁃􄑒􇧸􇟄􄙺􇩆􄕤􄑖􇟄􇇳􆲪􄕝􆷱􄗽􄚫􄗯􇟄􄑘􄑘􄖩􄑊􇟄􇩉􄚩􇖴滿足一切金剛字句真言曰：",
+        "from": "T18n0854_001:0168c06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈅺􄗏􄗽􇩴􄑖􇖴無礙力明妃真言曰（押紙云：",
+        "from": "T18n0854_001:0168c08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已下第三卷轉字輪マタラ行品）：",
+        "from": "T18n0854_001:0168c09_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄕗􇩊􄕤􄑘􄑘􄖩􄙺􄗫􇟄􆿅􇩄􄕙􄙺􄗫􇟄􄙺􇩆􄕗􄕤􄑘􄕘􄙺􆩖􆯣􄑘􇟄􄑘􄑘􄖩􄙺􄗥􇟄　􄙖􄗽􄙊􄚴􄕑􇟄􇩉􄚩􇖴救世者真言曰：",
+        "from": "T18n0854_001:0168c13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􇖴無能害力明妃真言曰：",
+        "from": "T18n0854_001:0168c15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕝􇧸􇟄􄙺􅞣􈁃􄑒􇧸􇟄􆿅􄙺􄗫􄖵􄗽􄗫􇟄􆿅􄑼􄙐􇟄􄑘􄑘􄖯􇟄􅋌􄗽􄕑􇟄􄙺􅞣􄩟􄖭􄑘􄕝􇟄􇩉􄚩􇖴置字句：",
+        "from": "T18n0854_001:0168c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􄗯􇖴已下第四卷。",
+        "from": "T18n0854_001:0168c20_15",
+        "context_with_next_sentence": true
+    }
+]

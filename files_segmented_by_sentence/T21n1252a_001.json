@@ -1,51 +1,237 @@
-{
-    "T21n1252a_001:0252b06_0": "佛說大吉祥天女十二名號經",
-    "T21n1252a_001:0252b08_0": "開府儀同三司特進試鴻臚卿肅國",
-    "T21n1252a_001:0252b09_0": "公食邑三千戶賜紫贈司空諡大鑒",
-    "T21n1252a_001:0252b10_0": "正號大廣智大興善寺三藏沙門",
-    "T21n1252a_001:0252b11_0": "不空奉　詔譯",
-    "T21n1252a_001:0252b12_0": "如是我聞。",
-    "T21n1252a_001:0252b12_1": "一時薄伽梵。",
-    "T21n1252a_001:0252b12_2": "在安樂世界。",
-    "T21n1252a_001:0252b12_3": "爾時觀自在菩薩。",
-    "T21n1252a_001:0252b13_4": "來詣佛所頭面禮佛足退坐一面。",
-    "T21n1252a_001:0252b14_0": "爾時大吉祥天女菩薩摩訶薩。",
-    "T21n1252a_001:0252b14_1": "亦往佛所稽首佛足退坐一面。",
-    "T21n1252a_001:0252b16_0": "爾時世尊。",
-    "T21n1252a_001:0252b16_1": "為欲利益薄福貧窮諸有情故。",
-    "T21n1252a_001:0252b16_2": "見吉祥天女。",
-    "T21n1252a_001:0252b17_3": "告觀自在菩薩言。",
-    "T21n1252a_001:0252b17_4": "若有苾芻苾芻尼近事男近事女。",
-    "T21n1252a_001:0252b18_5": "及彼一切有情之類。",
-    "T21n1252a_001:0252b18_6": "知此大吉祥天女十二名號。",
-    "T21n1252a_001:0252b19_7": "受持讀誦修習供養為他宣說。",
-    "T21n1252a_001:0252b20_8": "能除一切貧窮業障。",
-    "T21n1252a_001:0252b20_9": "獲得豐饒財寶富貴。",
-    "T21n1252a_001:0252b21_10": "爾時會中一切天龍八部。",
-    "T21n1252a_001:0252b21_11": "異口同音咸作是言。",
-    "T21n1252a_001:0252b22_12": "世尊所說真實不虛。",
-    "T21n1252a_001:0252b22_13": "我等願聞十二名號。",
-    "T21n1252a_001:0252b23_14": "唯願世尊大悲演說。",
-    "T21n1252a_001:0252b23_15": "佛言汝當善聽。",
-    "T21n1252a_001:0252b24_0": "今為汝說所謂。",
-    "T21n1252a_001:0252b25_0": "吉慶　吉祥　蓮華　嚴飾　具財　白色　大名稱　大光曜　施食者　施飲者　寶光　大吉是十二名號。",
-    "T21n1252a_001:0252b28_1": "汝當受持。",
-    "T21n1252a_001:0252b28_2": "我今復說是吉祥言曰。",
-    "T21n1252a_001:0252c01_0": "怛儞也(二合)他室哩(二合)抳室哩(二合)抳(二)薩嚩迦哩野娑馱[寧*頁]悉[寧*頁]悉[寧*頁][寧*頁][寧*頁][寧*頁][寧*頁]阿落乞史茗　曩捨野　娑嚩(二合引)訶爾時世尊說是陀羅尼已。",
-    "T21n1252a_001:0252c04_1": "告觀自在菩薩言。",
-    "T21n1252a_001:0252c05_0": "此大吉祥陀羅尼及十二名號。",
-    "T21n1252a_001:0252c05_1": "能除貧窮一切不祥。",
-    "T21n1252a_001:0252c06_2": "所有願求。",
-    "T21n1252a_001:0252c06_3": "皆得圓滿。",
-    "T21n1252a_001:0252c06_4": "若能晝夜三時讀誦此經。",
-    "T21n1252a_001:0252c07_5": "每時三遍。",
-    "T21n1252a_001:0252c07_6": "或常受持不間。",
-    "T21n1252a_001:0252c07_7": "作饒益心隨力虔誠供養大吉祥天女菩薩。",
-    "T21n1252a_001:0252c08_8": "速獲一切財寶豐樂吉祥。",
-    "T21n1252a_001:0252c09_9": "時觀自在菩薩及諸大眾天龍八部。",
-    "T21n1252a_001:0252c10_10": "從佛聞說十二名號及真言。",
-    "T21n1252a_001:0252c10_11": "歎未曾有。",
-    "T21n1252a_001:0252c11_12": "皆大歡喜。",
-    "T21n1252a_001:0252c11_13": "信受奉行。",
-    "T21n1252a_001:0252c12_0": "佛說大吉祥天女十二名號經"
-}
+[
+    {
+        "source_sentence": "佛說大吉祥天女十二名號經",
+        "from": "T21n1252a_001:0252b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開府儀同三司特進試鴻臚卿肅國",
+        "from": "T21n1252a_001:0252b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "公食邑三千戶賜紫贈司空諡大鑒",
+        "from": "T21n1252a_001:0252b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正號大廣智大興善寺三藏沙門不空奉　詔譯如是我聞。",
+        "from": "T21n1252a_001:0252b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一時薄伽梵。",
+        "from": "T21n1252a_001:0252b12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在安樂世界。",
+        "from": "T21n1252a_001:0252b12_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時觀自在菩薩。",
+        "from": "T21n1252a_001:0252b13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "來詣佛所頭面禮佛足退坐一面。",
+        "from": "T21n1252a_001:0252b13_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時大吉祥天女菩薩摩訶薩。",
+        "from": "T21n1252a_001:0252b14_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦往佛所稽首佛足退坐一面。",
+        "from": "T21n1252a_001:0252b15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊。",
+        "from": "T21n1252a_001:0252b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為欲利益薄福貧窮諸有情故。",
+        "from": "T21n1252a_001:0252b16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見吉祥天女。",
+        "from": "T21n1252a_001:0252b17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "告觀自在菩薩言。",
+        "from": "T21n1252a_001:0252b17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有苾芻苾芻尼近事男近事女。",
+        "from": "T21n1252a_001:0252b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及彼一切有情之類。",
+        "from": "T21n1252a_001:0252b18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知此大吉祥天女十二名號。",
+        "from": "T21n1252a_001:0252b19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受持讀誦修習供養為他宣說。",
+        "from": "T21n1252a_001:0252b20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能除一切貧窮業障。",
+        "from": "T21n1252a_001:0252b20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獲得豐饒財寶富貴。",
+        "from": "T21n1252a_001:0252b21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時會中一切天龍八部。",
+        "from": "T21n1252a_001:0252b21_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "異口同音咸作是言。",
+        "from": "T21n1252a_001:0252b22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊所說真實不虛。",
+        "from": "T21n1252a_001:0252b22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我等願聞十二名號。",
+        "from": "T21n1252a_001:0252b23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯願世尊大悲演說。",
+        "from": "T21n1252a_001:0252b23_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛言汝當善聽。",
+        "from": "T21n1252a_001:0252b23_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今為汝說所謂。",
+        "from": "T21n1252a_001:0252b24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吉慶　吉祥　蓮華　嚴飾　具財　白色　大名稱　大光曜　施食者　施飲者　寶光　大吉是十二名號。",
+        "from": "T21n1252a_001:0252b28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝當受持。",
+        "from": "T21n1252a_001:0252b28_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我今復說是吉祥言曰。",
+        "from": "T21n1252a_001:0252b29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "怛儞也二合他室哩二合抳室哩二合抳二薩嚩迦哩野娑馱𩕳悉𩕳悉𩕳𩕳𩕳𩕳𩕳阿落乞史茗　曩捨野　娑嚩二合引訶爾時世尊說是陀羅尼已。",
+        "from": "T21n1252a_001:0252c04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "告觀自在菩薩言。",
+        "from": "T21n1252a_001:0252c04_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此大吉祥陀羅尼及十二名號。",
+        "from": "T21n1252a_001:0252c05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能除貧窮一切不祥。",
+        "from": "T21n1252a_001:0252c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有願求。",
+        "from": "T21n1252a_001:0252c06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆得圓滿。",
+        "from": "T21n1252a_001:0252c06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能晝夜三時讀誦此經。",
+        "from": "T21n1252a_001:0252c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "每時三遍。",
+        "from": "T21n1252a_001:0252c07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或常受持不間。",
+        "from": "T21n1252a_001:0252c07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作饒益心隨力虔誠供養大吉祥天女菩薩。",
+        "from": "T21n1252a_001:0252c08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "速獲一切財寶豐樂吉祥。",
+        "from": "T21n1252a_001:0252c09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時觀自在菩薩及諸大眾天龍八部。",
+        "from": "T21n1252a_001:0252c10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從佛聞說十二名號及真言。",
+        "from": "T21n1252a_001:0252c10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歎未曾有。",
+        "from": "T21n1252a_001:0252c11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆大歡喜。",
+        "from": "T21n1252a_001:0252c11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "信受奉行。",
+        "from": "T21n1252a_001:0252c11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說大吉祥天女十二名號經",
+        "from": "T21n1252a_001:0252c12_100",
+        "context_with_next_sentence": false
+    }
+]

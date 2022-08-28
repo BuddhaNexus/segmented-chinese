@@ -1,125 +1,1012 @@
-{
-    "T11n0320_005:0931b10_0": "父子合集經卷第五",
-    "T11n0320_005:0931b12_0": "西天譯經三藏朝散大夫",
-    "T11n0320_005:0931b13_0": "試鴻臚卿宣梵大師賜紫",
-    "T11n0320_005:0931b14_0": "沙門臣日稱等奉　詔譯",
-    "T11n0320_005:0931b15_0": "龍女授記品第七",
-    "T11n0320_005:0931b16_0": "爾時會中，復有九十六俱胝龍女，見彼阿修羅王、迦樓羅王於世尊所作供養已，復聞如來各與授彼成佛之記，心大歡喜，踊躍無量，發清淨心，廣陳供養。",
-    "T11n0320_005:0931b19_1": "此諸龍女以神通力化作九十六俱胝青色傘蓋，一一傘蓋吠琉璃寶而作千骨，巧妙安布，黃金為柄，真珠為網，垂諸花鬘，諸珍嚴飾。",
-    "T11n0320_005:0931b22_2": "復化九十六俱胝上妙良馬，亦以眾寶，裝鉸嚴飾，吠琉璃寶，而為轡勒。",
-    "T11n0320_005:0931b24_3": "又復變現眾寶網幔，其量周廣六十踰繕那，遍覆一切諸來大眾，寶幔之下現一殊妙摩尼寶珠，光明顯照，無不明了。",
-    "T11n0320_005:0931b26_4": "復現九十六俱胝眾寶花鬘，巧妙奇絕，周遍垂下。",
-    "T11n0320_005:0931b27_5": "又復懸綴無數寶鈴，微風動搖，其聲和雅，猶如天樂，聞者無厭。",
-    "T11n0320_005:0931b29_6": "復以細末多摩羅跋旃檀香沈水香等散如來上，復散優鉢羅花、詹博迦花，及散無量上妙衣服，種種無量雜色瓔珞，種種無量雜色花鬘。",
-    "T11n0320_005:0931c03_7": "是諸龍女各乘彼馬，張設傘蓋，於虛空中繞佛三匝。",
-    "T11n0320_005:0931c04_8": "復奏龍宮種種音樂，其聲清婉，眾所樂聞。",
-    "T11n0320_005:0931c05_9": "又於迦毘羅城，降諸塗香及眾香水如雨而下，與其香花合和成泥，縱廣六十踰繕那。",
-    "T11n0320_005:0931c07_10": "以彼如來威德加持，令此樂聲及香水泥普聞三千大千世界。",
-    "T11n0320_005:0931c08_11": "其中眾生聞此聲香，皆於阿耨多羅三藐三菩提得不退轉。",
-    "T11n0320_005:0931c10_12": "是諸龍女作供養已，頭面禮敬，合掌向佛，以偈讚曰：「我等宿慶值於佛，　　淨心忻樂興福業，　供養牟尼大導師，　　冀脫此身龍女報。",
-    "T11n0320_005:0931c14_0": "　化出九十六俱胝，　　眾寶莊嚴妙傘蓋，　供養無上調御師，　　以此善因求出離。",
-    "T11n0320_005:0931c16_0": "　復化九十六俱胝，　　調順善御青色馬，　上妙青寶以莊嚴，　　皆為供養如來故。",
-    "T11n0320_005:0931c18_0": "　復化九十六俱胝，　　青色寶幢空中轉，　一一皆以身語心，　　頭面作禮伸迴向。",
-    "T11n0320_005:0931c20_0": "　諸龍宮中妙樂音，　　一時俱奏聲清徹，　牟尼出現於世間，　　堪受如斯大供養。",
-    "T11n0320_005:0931c22_0": "　如是種種樂音聲，　　遠徹三千大千界，　其中眾生若得聞，　　皆得菩提不退轉。",
-    "T11n0320_005:0931c24_0": "　復現廣大一寶幔，　　縱廣六十踰繕那，　周匝普遍於空中，　　廣覆諸來大集會。",
-    "T11n0320_005:0931c26_0": "　中現最上摩尼珠，　　熾盛光明悉委照，　普於天人大會中，　　淨心忻喜為供養。",
-    "T11n0320_005:0931c28_0": "　我等以此少善根，　　志求寂靜菩提果，　一如牟尼大導師，　　成就甚深微妙慧。",
-    "T11n0320_005:0932a01_0": "　教化饒益諸眾生，　　解脫塵勞諸結縛，　亦如十力無上尊，　　演說無邊清淨法。",
-    "T11n0320_005:0932a03_0": "　諸有為法如幻化，　　亦如聚沫非堅牢，　如空注雨起浮泡，　　自性虛假無主宰。",
-    "T11n0320_005:0932a05_0": "　智者觀諸世間法，　　譬如鏡中現影像，　眾生體性亦同然，　　唯佛現證如實說。",
-    "T11n0320_005:0932a07_0": "　愚夫不了謂為實，　　於虛妄境生執著，　畢竟諸法本來空，　　此愚癡者自欺誑。",
-    "T11n0320_005:0932a09_0": "　由彼迷妄無知故，　　不達諸法真實性，　如來由是出世間，　　顯示無我不可得。",
-    "T11n0320_005:0932a11_0": "　譬如秋空起浮雲，　　暫時顯現須臾沒，　當知我相本來無，　　智者諦觀何所有？",
-    "T11n0320_005:0932a13_0": "　如是一切世間法，　　皆無自性非真實，　但能誑惑諸根門，　　愚夫由此增狂亂。",
-    "T11n0320_005:0932a15_0": "　牟尼超越於三界，　　了諸法性無分別，　若依如來教奉行，　　一切世間皆解脫。",
-    "T11n0320_005:0932a17_0": "　若人聞是深妙法，　　心生忻樂正思惟，　則能越離生死泥，　　此非愚者之境界。",
-    "T11n0320_005:0932a19_0": "　是故我今頭面禮，　　無煩惱者天人師，　大悲能救苦眾生，　　為舟為舍為依怙。",
-    "T11n0320_005:0932a21_0": "　我等供養於如來，　　為求無上菩提故，　當宣法要警群迷，　　普願自他成佛道。」",
-    "T11n0320_005:0932a23_0": "爾時如來，知諸龍女心之所念，希望授記。",
-    "T11n0320_005:0932a23_1": "即現瑞相，放大光明。",
-    "T11n0320_005:0932a24_2": "時尊者馬勝覩是相已，頭面禮足，合掌向佛，以偈問曰：「世出世間勝智者，　　忽興神變放光明，　時會覩此稱吉祥，　　非無因緣發斯瑞。",
-    "T11n0320_005:0932a28_0": "　人中最上牟尼主，　　願說光相之端由，　諸天人民龍鬼神，　　聞已咸生歡喜念。",
-    "T11n0320_005:0932b01_0": "　如來威德聖中聖，　　於世間法無不了，　憐愍攝受諸眾生，　　說此放光神變事。",
-    "T11n0320_005:0932b03_0": "　如來慧力妙難思，　　窮盡諸法實相義，　眾會瞻仰願欲聞，　　各令知已心安隱。",
-    "T11n0320_005:0932b05_0": "　牟尼久已成正覺，　　能與群生作義利，　何因放此大光明，　　願說咸得除疑惑。",
-    "T11n0320_005:0932b07_0": "　今此大眾心寂然，　　堪能領解深法義，　一心瞻仰於如來，　　聞已各發菩提意。",
-    "T11n0320_005:0932b09_0": "　若人於事未決了，　　其心掉動則生惱，　由此皆墮疑網中，　　唯冀洪慈速開示。",
-    "T11n0320_005:0932b11_0": "　誰於今日發大心？",
-    "T11n0320_005:0932b11_1": "　　何佛他方說大法？",
-    "T11n0320_005:0932b12_0": "　誰得菩提破魔軍？",
-    "T11n0320_005:0932b12_1": "　　放此光明甚希有。",
-    "T11n0320_005:0932b13_0": "　何人廣興淨福業？",
-    "T11n0320_005:0932b13_1": "　　佛憐愍故放淨光。",
-    "T11n0320_005:0932b14_0": "　聖主師子十力尊，　　於大眾中無畏說。",
-    "T11n0320_005:0932b15_0": "　我等若蒙佛顯示，　　離諸疑怖心泰然，　咸生清淨隨喜心，　　各各奉行於佛教。」",
-    "T11n0320_005:0932b17_0": "爾時世尊，為尊者馬勝說伽陀曰：「善哉馬勝大比丘，　　汝能諮問放光事，　吾今於此眾會中，　　為說龍女未來果。",
-    "T11n0320_005:0932b20_0": "　汝等一心當諦聽，　　離諸散亂染因緣，　聞我說此放光因，　　增長人天諸善利。",
-    "T11n0320_005:0932b22_0": "　此諸龍女心開解，　　能以智慧觀實相，　了知諸法本性空，　　不著世間業果報。",
-    "T11n0320_005:0932b24_0": "　無人無我無眾生，　　亦無作者及受者，　補特伽羅自相空，　　猶如陽焰鏡中像。",
-    "T11n0320_005:0932b26_0": "　諸龍女等植德本，　　共興廣大淨福業，　善能安住佛法中，　　了世間法皆如幻。",
-    "T11n0320_005:0932b28_0": "　如是作諸供養已，　　誓求佛果大菩提，　後當捨此龍女身，　　得生三十三天上，　得為帝釋天宮主，　　受用妙樂無毀訾，　具天壽量大名聞，　　復往焰摩天中住。",
-    "T11n0320_005:0932c03_0": "　得生焰摩天宮已，　　具足受彼殊妙樂，　佛子安住此天中，　　自在得終天壽量。",
-    "T11n0320_005:0932c05_0": "　後復生於兜率天，　　得彼天眾常愛敬，　雖受快樂心不著，　　猶若蓮花性本淨。",
-    "T11n0320_005:0932c07_0": "　由彼宿習出世智，　　常觀諸法皆空寂，　譬如刻石畫長存，　　安住正念無移動。",
-    "T11n0320_005:0932c09_0": "　後生樂變化天中，　　天子天女常圍繞，　不為他毀有名稱，　　滿彼壽量無中夭。",
-    "T11n0320_005:0932c11_0": "　受彼最上五欲樂，　　而與正念常相應，　善修三種解脫門，　　畢竟入解真空法。",
-    "T11n0320_005:0932c13_0": "　復生他化自在天，　　得彼天眾常恭敬，　清淨意樂住其中，　　任持正法心無動。",
-    "T11n0320_005:0932c15_0": "　所欲受用皆他變，　　不起染著癡愛心，　佛子安住彼天宮，　　得盡彼天壽邊際。",
-    "T11n0320_005:0932c17_0": "　由於欲樂生厭患，　　忻求定地伏諸惑，　獲得諸禪解脫門，　　由此得生梵天上。",
-    "T11n0320_005:0932c19_0": "　由彼定生諸善根，　　受用喜樂一中劫，　定中適悅勝難思，　　漸能進趣菩提道。",
-    "T11n0320_005:0932c21_0": "　住彼梵宮經一劫，　　專修正行淨無雜，　善巧方便利有情，　　無冤親想心平等，　於喜妙樂悉通達，　　亦不味著諸禪定，　善能覺悟寂諸根，　　是為最上牟尼子。",
-    "T11n0320_005:0932c25_0": "　彼梵天說自然法，　　不與業果理相應，　唯此真實解脫門，　　畢竟超越於三界。",
-    "T11n0320_005:0932c27_0": "　若人於此生信解，　　善能引導諸眾生，　速成無上妙菩提，　　是則名為世間眼。",
-    "T11n0320_005:0932c29_0": "　彼龍女等生梵世，　　饒益利樂諸天人，　教化令發清淨心，　　皆能進趣菩提道。",
-    "T11n0320_005:0933a02_0": "　往詣無邊佛剎土，　　供養承事諸如來，　過彼未來星宿劫，　　同成佛號寂諸根。",
-    "T11n0320_005:0933a04_0": "　彼等聞佛授記已，　　心淨踴躍志堅固，　時會咸生歡喜心，　　各各頭面禮佛足。」",
-    "T11n0320_005:0933a06_0": "父子合集經龍王授記品第八",
-    "T11n0320_005:0933a07_0": "爾時難陀烏波難陀龍王，與其眷屬九十俱胝龍眾，見諸龍女供養如來得授記已，身意泰然，得未曾有，稱讚如來：「究竟滿足廣大威德神通無礙，能知眾生心之所念，所作事業皆悉聞知，各各現證，無不了達。",
-    "T11n0320_005:0933a11_1": "然彼如來大悲增上，或不待請，即為說法或非時說，皆為教化成熟有情，除煩惱熱，得涅盤樂。",
-    "T11n0320_005:0933a13_2": "隨機授法必令得果，乃至女人志意動亂，於婬怒癡自性增上，設聞法要，不能領解，亦得如來之所化度，如彼六十俱胝龍女猶獲授記，何況我等豈不蒙益？」",
-    "T11n0320_005:0933a17_3": "時彼龍王作是說已，於世尊所生難遭想，以神通力興大香雲，滿閻浮提，遍覆一切諸山大海，雨眾香水，旃檀末香，其香遠聞普佛世界。",
-    "T11n0320_005:0933a20_4": "又復於彼迦毘羅城，雨赤真珠積至于膝，縱廣量等六十踰繕那。",
-    "T11n0320_005:0933a21_5": "復於尼拘律陀林中，普散無量龍自在花，散已復散，變成花殿，其量亦廣六十踰繕那。",
-    "T11n0320_005:0933a23_6": "七寶相間而為其柱，復以半拏紺末羅石以甃其地，其石柔軟，觸之清涼，眾所樂觀，非世所有。",
-    "T11n0320_005:0933a25_7": "復現九十俱胝眾寶花鬘周匝垂下，又復懸挂眾色名衣，復現種種巧妙繒幡、香鬘寶鬘真珠鬘等，周遍莊嚴殊妙清淨。",
-    "T11n0320_005:0933a28_8": "又復涌出無數寶藏，行列殿中而為供養。",
-    "T11n0320_005:0933a29_9": "又復出現最上無價摩尼寶珠，以成其鏡，表裏瑩徹，無不交照。",
-    "T11n0320_005:0933b01_10": "乃至迦毘羅城時會大眾，種種供養，殊勝莊嚴，於其鏡中皆悉顯現。",
-    "T11n0320_005:0933b03_11": "復有九十俱胝龍馬，諸妙珍寶以為轡勒，無數寶鈴進步鳴響。",
-    "T11n0320_005:0933b04_12": "是諸龍王各乘馬已，於虛空中繞佛三匝，復奏龍宮無量音樂，及雨種種殊妙珍寶，散於如來及聲聞眾。",
-    "T11n0320_005:0933b07_13": "作供養已，頭面禮足，瞻仰世尊目不暫捨，以我所集功德善根，願與眾生同得佛道。",
-    "T11n0320_005:0933b09_14": "合掌向佛，以偈頌曰：「久修慈忍大悲行，　　成就百福相莊嚴，　捨家逾彼迦毘城，　　志固為求無上道。",
-    "T11n0320_005:0933b12_0": "　六年示修於苦行，　　伏諸外道不疲勞，　直詣金剛座道場，　　普施群生甘露法。",
-    "T11n0320_005:0933b14_0": "　昔日如來調御師，　　棄捨王宮妙欲樂，　斷除頂髮住山林，　　於世浮榮心不顧。",
-    "T11n0320_005:0933b16_0": "　牟尼昔捨於頭目，　　積功成滿菩提因，　凡夫聞見尚無因，　　況復效修其苦行。",
-    "T11n0320_005:0933b18_0": "　如佛昔作忍辱仙，　　為歌利王無辜害，　割截耳鼻及身肢，　　不生恚惱心怡悅。",
-    "T11n0320_005:0933b20_0": "　時有愚癡婆羅門，　　來秤身肉而蹶倒，　說此難行苦行時，　　我等聞已生悲惱。",
-    "T11n0320_005:0933b22_0": "　何因如來不起瞋，　　愛念眾生如己子？",
-    "T11n0320_005:0933b23_0": "　由興害意墮泥犁，　　慈尊於彼能垂救。",
-    "T11n0320_005:0933b24_0": "　如來具足無上慧，　　於己害者不加報，　昔修廣大安樂因，　　故得身肢復如故。",
-    "T11n0320_005:0933b26_0": "　我等咸生淨信心，　　稱讚如來真實行，　如彼牟尼利有情，　　咸願速登無上覺。」",
-    "T11n0320_005:0933b28_0": "爾時世尊知諸龍王信解堅固，發大誓願，即於面門放種種光，其光普照上至梵天，復從如來頂門而入。",
-    "T11n0320_005:0933c01_1": "時尊者馬勝，合掌長跪，即白佛言：「法爾諸佛若放光明，必有所謂。",
-    "T11n0320_005:0933c02_2": "唯願如來方便演說。」",
-    "T11n0320_005:0933c03_3": "時彼尊者說伽陀曰：「大哉無畏釋師子，　　何因緣故放此光？",
-    "T11n0320_005:0933c05_0": "　慈門廣利諸天人，　　唯願如來為我說。",
-    "T11n0320_005:0933c06_0": "　此諸龍王并眷屬，　　及彼時會皆肅然，　唯冀牟尼震梵音，　　說此放光希有事。",
-    "T11n0320_005:0933c08_0": "　誰於釋迦佛法中，　　初發大心感斯瑞？",
-    "T11n0320_005:0933c09_0": "　誰能摧破諸魔軍，　　令彼惶怖皆退沒？",
-    "T11n0320_005:0933c10_0": "　將非龍眾久修行，　　獲得無盡諸功德？",
-    "T11n0320_005:0933c11_0": "　願聞現瑞之端由，　　斷除疑惑心清淨。」",
-    "T11n0320_005:0933c12_0": "爾時世尊以偈答曰：「我以最上勝功德，　　八種深遠梵音聲，　所說真實利眾生，　　汝當諦聽放光事。",
-    "T11n0320_005:0933c15_0": "　此諸龍王深淨信，　　設大供養世希有，　志心願證佛菩提，　　為度一切群生故。",
-    "T11n0320_005:0933c17_0": "　常以悲心觀世間，　　普使眾生脫苦厄，　未嘗一心生疲勞，　　堅固精進無退轉。",
-    "T11n0320_005:0933c19_0": "　修習清淨奢摩他，　　具足智力無能屈，　安住三種解脫門，　　謂空無相及無願。",
-    "T11n0320_005:0933c21_0": "　得佛無上甚深慧，　　了一切法皆虛假，　大悲愍念諸有情，　　離冤親想悉平等。",
-    "T11n0320_005:0933c23_0": "　過彼殑伽沙劫數，　　次第成佛出世間，　同名寂靜慧如來，　　十號具足土嚴淨。",
-    "T11n0320_005:0933c25_0": "　常說無我甘露法，　　無諸外道及魔冤，　善巧方便應群機，　　不違世俗談真諦。",
-    "T11n0320_005:0933c27_0": "　是諸眾生聞法已，　　了法自性悉皆空，　大悲方便演三乘，　　勝義法中無所說。",
-    "T11n0320_005:0933c29_0": "　此法非出於自然，　　求之少分不可得，　乃至無有一眾生，　　聞佛言教而不解。",
-    "T11n0320_005:0934a02_0": "　由飲解脫甘露味，　　則能出離生老死，　及彼憂悲我慢幢，　　皆因聞佛梵聲故。",
-    "T11n0320_005:0934a04_0": "　釋尊無畏聖師子，　　說諸龍意答所問，　佛子常隨智慧行，　　速得菩提無上果。」",
-    "T11n0320_005:0934a06_0": "　如來授彼諸龍記，　　時眾聞已生忻慶，　咸各歸命牟尼尊，　　於佛法中心寂靜。",
-    "T11n0320_005:0934a08_0": "父子合集經卷第五"
-}
+[
+    {
+        "source_sentence": "父子合集經卷第五",
+        "from": "T11n0320_005:0931b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫",
+        "from": "T11n0320_005:0931b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "試鴻臚卿宣梵大師賜紫",
+        "from": "T11n0320_005:0931b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙門臣日稱等奉　詔譯7 龍女授記品龍女授記品第七爾時會中，復有九十六俱胝龍女，見彼阿修羅王、迦樓羅王於世尊所作供養已，復聞如來各與授彼成佛之記，心大歡喜，踊躍無量，發清淨心，廣陳供養。",
+        "from": "T11n0320_005:0931b19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此諸龍女以神通力化作九十六俱胝青色傘蓋，一一傘蓋吠琉璃寶而作千骨，巧妙安布，黃金為柄，真珠為網，垂諸花鬘，諸珍嚴飾。",
+        "from": "T11n0320_005:0931b22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復化九十六俱胝上妙良馬，亦以眾寶，裝鉸嚴飾，吠琉璃寶，而為轡勒。",
+        "from": "T11n0320_005:0931b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復變現眾寶網幔，其量周廣六十踰繕那，遍覆一切諸來大眾，寶幔之下現一殊妙摩尼寶珠，光明顯照，無不明了。",
+        "from": "T11n0320_005:0931b26_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復現九十六俱胝眾寶花鬘，巧妙奇絕，周遍垂下。",
+        "from": "T11n0320_005:0931b27_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復懸綴無數寶鈴，微風動搖，其聲和雅，猶如天樂，聞者無厭。",
+        "from": "T11n0320_005:0931b29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復以細末多摩羅跋旃檀香沈水香等散如來上，復散優鉢羅花、詹博迦花，及散無量上妙衣服，種種無量雜色瓔珞，種種無量雜色花鬘。",
+        "from": "T11n0320_005:0931c03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是諸龍女各乘彼馬，張設傘蓋，於虛空中繞佛三匝。",
+        "from": "T11n0320_005:0931c04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復奏龍宮種種音樂，其聲清婉，眾所樂聞。",
+        "from": "T11n0320_005:0931c05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又於迦毘羅城，降諸塗香及眾香水如雨而下，與其香花合和成泥，縱廣六十踰繕那。",
+        "from": "T11n0320_005:0931c07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以彼如來威德加持，令此樂聲及香水泥普聞三千大千世界。",
+        "from": "T11n0320_005:0931c08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其中眾生聞此聲香，皆於阿耨多羅三藐三菩提得不退轉。",
+        "from": "T11n0320_005:0931c10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是諸龍女作供養已，頭面禮敬，合掌向佛，以偈讚曰：",
+        "from": "T11n0320_005:0931c11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我等宿慶值於佛，　　淨心忻樂興福業，",
+        "from": "T11n0320_005:0931c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "供養牟尼大導師，　　冀脫此身龍女報。",
+        "from": "T11n0320_005:0931c13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "化出九十六俱胝，　　眾寶莊嚴妙傘蓋，",
+        "from": "T11n0320_005:0931c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "供養無上調御師，　　以此善因求出離。",
+        "from": "T11n0320_005:0931c15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復化九十六俱胝，　　調順善御青色馬，",
+        "from": "T11n0320_005:0931c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上妙青寶以莊嚴，　　皆為供養如來故。",
+        "from": "T11n0320_005:0931c17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復化九十六俱胝，　　青色寶幢空中轉，",
+        "from": "T11n0320_005:0931c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一皆以身語心，　　頭面作禮伸迴向。",
+        "from": "T11n0320_005:0931c19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸龍宮中妙樂音，　　一時俱奏聲清徹，",
+        "from": "T11n0320_005:0931c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牟尼出現於世間，　　堪受如斯大供養。",
+        "from": "T11n0320_005:0931c21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是種種樂音聲，　　遠徹三千大千界，",
+        "from": "T11n0320_005:0931c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其中眾生若得聞，　　皆得菩提不退轉。",
+        "from": "T11n0320_005:0931c23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復現廣大一寶幔，　　縱廣六十踰繕那，",
+        "from": "T11n0320_005:0931c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "周匝普遍於空中，　　廣覆諸來大集會。",
+        "from": "T11n0320_005:0931c25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中現最上摩尼珠，　　熾盛光明悉委照，",
+        "from": "T11n0320_005:0931c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "普於天人大會中，　　淨心忻喜為供養。",
+        "from": "T11n0320_005:0931c27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我等以此少善根，　　志求寂靜菩提果，",
+        "from": "T11n0320_005:0931c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一如牟尼大導師，　　成就甚深微妙慧。",
+        "from": "T11n0320_005:0931c29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "教化饒益諸眾生，　　解脫塵勞諸結縛，",
+        "from": "T11n0320_005:0932a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦如十力無上尊，　　演說無邊清淨法。",
+        "from": "T11n0320_005:0932a02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸有為法如幻化，　　亦如聚沫非堅牢，",
+        "from": "T11n0320_005:0932a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如空注雨起浮泡，　　自性虛假無主宰。",
+        "from": "T11n0320_005:0932a04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者觀諸世間法，　　譬如鏡中現影像，",
+        "from": "T11n0320_005:0932a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾生體性亦同然，　　唯佛現證如實說。",
+        "from": "T11n0320_005:0932a06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愚夫不了謂為實，　　於虛妄境生執著，",
+        "from": "T11n0320_005:0932a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "畢竟諸法本來空，　　此愚癡者自欺誑。",
+        "from": "T11n0320_005:0932a08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由彼迷妄無知故，　　不達諸法真實性，",
+        "from": "T11n0320_005:0932a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來由是出世間，　　顯示無我不可得。",
+        "from": "T11n0320_005:0932a10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如秋空起浮雲，　　暫時顯現須臾沒，",
+        "from": "T11n0320_005:0932a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知我相本來無，　　智者諦觀何所有？",
+        "from": "T11n0320_005:0932a12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是一切世間法，　　皆無自性非真實，",
+        "from": "T11n0320_005:0932a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但能誑惑諸根門，　　愚夫由此增狂亂。",
+        "from": "T11n0320_005:0932a14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牟尼超越於三界，　　了諸法性無分別，",
+        "from": "T11n0320_005:0932a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若依如來教奉行，　　一切世間皆解脫。",
+        "from": "T11n0320_005:0932a16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人聞是深妙法，　　心生忻樂正思惟，",
+        "from": "T11n0320_005:0932a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則能越離生死泥，　　此非愚者之境界。",
+        "from": "T11n0320_005:0932a18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故我今頭面禮，　　無煩惱者天人師，",
+        "from": "T11n0320_005:0932a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大悲能救苦眾生，　　為舟為舍為依怙。",
+        "from": "T11n0320_005:0932a20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我等供養於如來，　　為求無上菩提故，",
+        "from": "T11n0320_005:0932a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當宣法要警群迷，　　普願自他成佛道。",
+        "from": "T11n0320_005:0932a22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時如來，知諸龍女心之所念，希望授記。",
+        "from": "T11n0320_005:0932a23_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即現瑞相，放大光明。",
+        "from": "T11n0320_005:0932a24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時尊者馬勝覩是相已，頭面禮足，合掌向佛，以偈問曰：",
+        "from": "T11n0320_005:0932a25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世出世間勝智者，　　忽興神變放光明，",
+        "from": "T11n0320_005:0932a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時會覩此稱吉祥，　　非無因緣發斯瑞。",
+        "from": "T11n0320_005:0932a27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人中最上牟尼主，　　願說光相之端由，",
+        "from": "T11n0320_005:0932a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸天人民龍鬼神，　　聞已咸生歡喜念。",
+        "from": "T11n0320_005:0932a29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來威德聖中聖，　　於世間法無不了，",
+        "from": "T11n0320_005:0932b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "憐愍攝受諸眾生，　　說此放光神變事。",
+        "from": "T11n0320_005:0932b02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來慧力妙難思，　　窮盡諸法實相義，",
+        "from": "T11n0320_005:0932b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾會瞻仰願欲聞，　　各令知已心安隱。",
+        "from": "T11n0320_005:0932b04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牟尼久已成正覺，　　能與群生作義利，",
+        "from": "T11n0320_005:0932b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何因放此大光明，　　願說咸得除疑惑。",
+        "from": "T11n0320_005:0932b06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今此大眾心寂然，　　堪能領解深法義，",
+        "from": "T11n0320_005:0932b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一心瞻仰於如來，　　聞已各發菩提意。",
+        "from": "T11n0320_005:0932b08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人於事未決了，　　其心掉動則生惱，",
+        "from": "T11n0320_005:0932b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由此皆墮疑網中，　　唯冀洪慈速開示。",
+        "from": "T11n0320_005:0932b10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誰於今日發大心？",
+        "from": "T11n0320_005:0932b11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　何佛他方說大法？",
+        "from": "T11n0320_005:0932b11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誰得菩提破魔軍？",
+        "from": "T11n0320_005:0932b12_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　放此光明甚希有。",
+        "from": "T11n0320_005:0932b12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何人廣興淨福業？",
+        "from": "T11n0320_005:0932b13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　佛憐愍故放淨光。",
+        "from": "T11n0320_005:0932b13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖主師子十力尊，　　於大眾中無畏說。",
+        "from": "T11n0320_005:0932b14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我等若蒙佛顯示，　　離諸疑怖心泰然，",
+        "from": "T11n0320_005:0932b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "咸生清淨隨喜心，　　各各奉行於佛教。",
+        "from": "T11n0320_005:0932b16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊，為尊者馬勝說伽陀曰：",
+        "from": "T11n0320_005:0932b17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「善哉馬勝大比丘，　　汝能諮問放光事，",
+        "from": "T11n0320_005:0932b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾今於此眾會中，　　為說龍女未來果。",
+        "from": "T11n0320_005:0932b19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝等一心當諦聽，　　離諸散亂染因緣，",
+        "from": "T11n0320_005:0932b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞我說此放光因，　　增長人天諸善利。",
+        "from": "T11n0320_005:0932b21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此諸龍女心開解，　　能以智慧觀實相，",
+        "from": "T11n0320_005:0932b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了知諸法本性空，　　不著世間業果報。",
+        "from": "T11n0320_005:0932b23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無人無我無眾生，　　亦無作者及受者，",
+        "from": "T11n0320_005:0932b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "補特伽羅自相空，　　猶如陽焰鏡中像。",
+        "from": "T11n0320_005:0932b25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸龍女等植德本，　　共興廣大淨福業，",
+        "from": "T11n0320_005:0932b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善能安住佛法中，　　了世間法皆如幻。",
+        "from": "T11n0320_005:0932b27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是作諸供養已，　　誓求佛果大菩提，",
+        "from": "T11n0320_005:0932b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後當捨此龍女身，　　得生三十三天上，",
+        "from": "T11n0320_005:0932b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得為帝釋天宮主，　　受用妙樂無毀訾，",
+        "from": "T11n0320_005:0932c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具天壽量大名聞，　　復往焰摩天中住。",
+        "from": "T11n0320_005:0932c02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得生焰摩天宮已，　　具足受彼殊妙樂，",
+        "from": "T11n0320_005:0932c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛子安住此天中，　　自在得終天壽量。",
+        "from": "T11n0320_005:0932c04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後復生於兜率天，　　得彼天眾常愛敬，",
+        "from": "T11n0320_005:0932c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖受快樂心不著，　　猶若蓮花性本淨。",
+        "from": "T11n0320_005:0932c06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由彼宿習出世智，　　常觀諸法皆空寂，",
+        "from": "T11n0320_005:0932c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如刻石畫長存，　　安住正念無移動。",
+        "from": "T11n0320_005:0932c08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後生樂變化天中，　　天子天女常圍繞，",
+        "from": "T11n0320_005:0932c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不為他毀有名稱，　　滿彼壽量無中夭。",
+        "from": "T11n0320_005:0932c10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受彼最上五欲樂，　　而與正念常相應，",
+        "from": "T11n0320_005:0932c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善修三種解脫門，　　畢竟入解真空法。",
+        "from": "T11n0320_005:0932c12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復生他化自在天，　　得彼天眾常恭敬，",
+        "from": "T11n0320_005:0932c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清淨意樂住其中，　　任持正法心無動。",
+        "from": "T11n0320_005:0932c14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所欲受用皆他變，　　不起染著癡愛心，",
+        "from": "T11n0320_005:0932c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛子安住彼天宮，　　得盡彼天壽邊際。",
+        "from": "T11n0320_005:0932c16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由於欲樂生厭患，　　忻求定地伏諸惑，",
+        "from": "T11n0320_005:0932c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獲得諸禪解脫門，　　由此得生梵天上。",
+        "from": "T11n0320_005:0932c18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由彼定生諸善根，　　受用喜樂一中劫，",
+        "from": "T11n0320_005:0932c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "定中適悅勝難思，　　漸能進趣菩提道。",
+        "from": "T11n0320_005:0932c20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住彼梵宮經一劫，　　專修正行淨無雜，",
+        "from": "T11n0320_005:0932c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善巧方便利有情，　　無冤親想心平等，",
+        "from": "T11n0320_005:0932c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於喜妙樂悉通達，　　亦不味著諸禪定，",
+        "from": "T11n0320_005:0932c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善能覺悟寂諸根，　　是為最上牟尼子。",
+        "from": "T11n0320_005:0932c24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼梵天說自然法，　　不與業果理相應，",
+        "from": "T11n0320_005:0932c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯此真實解脫門，　　畢竟超越於三界。",
+        "from": "T11n0320_005:0932c26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人於此生信解，　　善能引導諸眾生，",
+        "from": "T11n0320_005:0932c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "速成無上妙菩提，　　是則名為世間眼。",
+        "from": "T11n0320_005:0932c28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼龍女等生梵世，　　饒益利樂諸天人，",
+        "from": "T11n0320_005:0932c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "教化令發清淨心，　　皆能進趣菩提道。",
+        "from": "T11n0320_005:0933a01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "往詣無邊佛剎土，　　供養承事諸如來，",
+        "from": "T11n0320_005:0933a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "過彼未來星宿劫，　　同成佛號寂諸根。",
+        "from": "T11n0320_005:0933a03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼等聞佛授記已，　　心淨踴躍志堅固，",
+        "from": "T11n0320_005:0933a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時會咸生歡喜心，　　各各頭面禮佛足。",
+        "from": "T11n0320_005:0933a05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」8 龍王授記品父子合集經龍王授記品第八爾時難陀烏波難陀龍王，與其眷屬九十俱胝龍眾，見諸龍女供養如來得授記已，身意泰然，得未曾有，稱讚如來：",
+        "from": "T11n0320_005:0933a09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「究竟滿足廣大威德神通無礙，能知眾生心之所念，所作事業皆悉聞知，各各現證，無不了達。",
+        "from": "T11n0320_005:0933a11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然彼如來大悲增上，或不待請，即為說法或非時說，皆為教化成熟有情，除煩惱熱，得涅盤樂。",
+        "from": "T11n0320_005:0933a13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨機授法必令得果，乃至女人志意動亂，於婬怒癡自性增上，設聞法要，不能領解，亦得如來之所化度，如彼六十俱胝龍女猶獲授記，何況我等豈不蒙益？",
+        "from": "T11n0320_005:0933a17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時彼龍王作是說已，於世尊所生難遭想，以神通力興大香雲，滿閻浮提，遍覆一切諸山大海，雨眾香水，旃檀末香，其香遠聞普佛世界。",
+        "from": "T11n0320_005:0933a20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復於彼迦毘羅城，雨赤真珠積至于膝，縱廣量等六十踰繕那。",
+        "from": "T11n0320_005:0933a21_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復於尼拘律陀林中，普散無量龍自在花，散已復散，變成花殿，其量亦廣六十踰繕那。",
+        "from": "T11n0320_005:0933a23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七寶相間而為其柱，復以半拏紺末羅石以甃其地，其石柔軟，觸之清涼，眾所樂觀，非世所有。",
+        "from": "T11n0320_005:0933a25_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復現九十俱胝眾寶花鬘周匝垂下，又復懸挂眾色名衣，復現種種巧妙繒幡、香鬘寶鬘真珠鬘等，周遍莊嚴殊妙清淨。",
+        "from": "T11n0320_005:0933a28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復涌出無數寶藏，行列殿中而為供養。",
+        "from": "T11n0320_005:0933a29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復出現最上無價摩尼寶珠，以成其鏡，表裏瑩徹，無不交照。",
+        "from": "T11n0320_005:0933b01_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至迦毘羅城時會大眾，種種供養，殊勝莊嚴，於其鏡中皆悉顯現。",
+        "from": "T11n0320_005:0933b03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復有九十俱胝龍馬，諸妙珍寶以為轡勒，無數寶鈴進步鳴響。",
+        "from": "T11n0320_005:0933b04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是諸龍王各乘馬已，於虛空中繞佛三匝，復奏龍宮無量音樂，及雨種種殊妙珍寶，散於如來及聲聞眾。",
+        "from": "T11n0320_005:0933b07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作供養已，頭面禮足，瞻仰世尊目不暫捨，以我所集功德善根，願與眾生同得佛道。",
+        "from": "T11n0320_005:0933b09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "合掌向佛，以偈頌曰：",
+        "from": "T11n0320_005:0933b09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「久修慈忍大悲行，　　成就百福相莊嚴，",
+        "from": "T11n0320_005:0933b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨家逾彼迦毘城，　　志固為求無上道。",
+        "from": "T11n0320_005:0933b11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六年示修於苦行，　　伏諸外道不疲勞，",
+        "from": "T11n0320_005:0933b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "直詣金剛座道場，　　普施群生甘露法。",
+        "from": "T11n0320_005:0933b13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔日如來調御師，　　棄捨王宮妙欲樂，",
+        "from": "T11n0320_005:0933b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷除頂髮住山林，　　於世浮榮心不顧。",
+        "from": "T11n0320_005:0933b15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牟尼昔捨於頭目，　　積功成滿菩提因，",
+        "from": "T11n0320_005:0933b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡夫聞見尚無因，　　況復效修其苦行。",
+        "from": "T11n0320_005:0933b17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如佛昔作忍辱仙，　　為歌利王無辜害，",
+        "from": "T11n0320_005:0933b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "割截耳鼻及身肢，　　不生恚惱心怡悅。",
+        "from": "T11n0320_005:0933b19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時有愚癡婆羅門，　　來秤身肉而蹶倒，",
+        "from": "T11n0320_005:0933b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說此難行苦行時，　　我等聞已生悲惱。",
+        "from": "T11n0320_005:0933b21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何因如來不起瞋，　　愛念眾生如己子？",
+        "from": "T11n0320_005:0933b22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由興害意墮泥犁，　　慈尊於彼能垂救。",
+        "from": "T11n0320_005:0933b23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來具足無上慧，　　於己害者不加報，",
+        "from": "T11n0320_005:0933b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔修廣大安樂因，　　故得身肢復如故。",
+        "from": "T11n0320_005:0933b25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我等咸生淨信心，　　稱讚如來真實行，",
+        "from": "T11n0320_005:0933b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如彼牟尼利有情，　　咸願速登無上覺。",
+        "from": "T11n0320_005:0933b27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊知諸龍王信解堅固，發大誓願，即於面門放種種光，其光普照上至梵天，復從如來頂門而入。",
+        "from": "T11n0320_005:0933c01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時尊者馬勝，合掌長跪，即白佛言：",
+        "from": "T11n0320_005:0933c02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「法爾諸佛若放光明，必有所謂。",
+        "from": "T11n0320_005:0933c02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯願如來方便演說。",
+        "from": "T11n0320_005:0933c03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時彼尊者說伽陀曰：",
+        "from": "T11n0320_005:0933c03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大哉無畏釋師子，　　何因緣故放此光？",
+        "from": "T11n0320_005:0933c04_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慈門廣利諸天人，　　唯願如來為我說。",
+        "from": "T11n0320_005:0933c05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此諸龍王并眷屬，　　及彼時會皆肅然，",
+        "from": "T11n0320_005:0933c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯冀牟尼震梵音，　　說此放光希有事。",
+        "from": "T11n0320_005:0933c07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誰於釋迦佛法中，　　初發大心感斯瑞？",
+        "from": "T11n0320_005:0933c08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誰能摧破諸魔軍，　　令彼惶怖皆退沒？",
+        "from": "T11n0320_005:0933c09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "將非龍眾久修行，　　獲得無盡諸功德？",
+        "from": "T11n0320_005:0933c10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願聞現瑞之端由，　　斷除疑惑心清淨。",
+        "from": "T11n0320_005:0933c11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊以偈答曰：",
+        "from": "T11n0320_005:0933c12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我以最上勝功德，　　八種深遠梵音聲，",
+        "from": "T11n0320_005:0933c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所說真實利眾生，　　汝當諦聽放光事。",
+        "from": "T11n0320_005:0933c14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此諸龍王深淨信，　　設大供養世希有，",
+        "from": "T11n0320_005:0933c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "志心願證佛菩提，　　為度一切群生故。",
+        "from": "T11n0320_005:0933c16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常以悲心觀世間，　　普使眾生脫苦厄，",
+        "from": "T11n0320_005:0933c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未嘗一心生疲勞，　　堅固精進無退轉。",
+        "from": "T11n0320_005:0933c18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修習清淨奢摩他，　　具足智力無能屈，",
+        "from": "T11n0320_005:0933c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安住三種解脫門，　　謂空無相及無願。",
+        "from": "T11n0320_005:0933c20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得佛無上甚深慧，　　了一切法皆虛假，",
+        "from": "T11n0320_005:0933c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大悲愍念諸有情，　　離冤親想悉平等。",
+        "from": "T11n0320_005:0933c22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "過彼殑伽沙劫數，　　次第成佛出世間，",
+        "from": "T11n0320_005:0933c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同名寂靜慧如來，　　十號具足土嚴淨。",
+        "from": "T11n0320_005:0933c24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常說無我甘露法，　　無諸外道及魔冤，",
+        "from": "T11n0320_005:0933c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善巧方便應群機，　　不違世俗談真諦。",
+        "from": "T11n0320_005:0933c26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是諸眾生聞法已，　　了法自性悉皆空，",
+        "from": "T11n0320_005:0933c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大悲方便演三乘，　　勝義法中無所說。",
+        "from": "T11n0320_005:0933c28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此法非出於自然，　　求之少分不可得，",
+        "from": "T11n0320_005:0933c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至無有一眾生，　　聞佛言教而不解。",
+        "from": "T11n0320_005:0934a01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由飲解脫甘露味，　　則能出離生老死，",
+        "from": "T11n0320_005:0934a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及彼憂悲我慢幢，　　皆因聞佛梵聲故。",
+        "from": "T11n0320_005:0934a03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋尊無畏聖師子，　　說諸龍意答所問，",
+        "from": "T11n0320_005:0934a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛子常隨智慧行，　　速得菩提無上果。",
+        "from": "T11n0320_005:0934a05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來授彼諸龍記，　　時眾聞已生忻慶，",
+        "from": "T11n0320_005:0934a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "咸各歸命牟尼尊，　　於佛法中心寂靜。",
+        "from": "T11n0320_005:0934a07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "父子合集經卷第五",
+        "from": "T11n0320_005:0934a08_100",
+        "context_with_next_sentence": false
+    }
+]

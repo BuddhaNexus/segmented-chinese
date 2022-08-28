@@ -1,180 +1,917 @@
-{
-    "T11n0316_036:0874c16_0": "佛說大乘菩薩藏正法經卷第三",
-    "T11n0316_036:0874c17_0": "十六",
-    "T11n0316_036:0874c19_0": "西天譯經三藏銀青光祿大夫",
-    "T11n0316_036:0874c20_0": "試光祿卿慈覺傳梵大師賜紫沙",
-    "T11n0316_036:0874c21_0": "門臣法護等奉　詔譯",
-    "T11n0316_036:0874c22_0": "勝慧波羅蜜多品第十一之四",
-    "T11n0316_036:0874c23_0": "「復次舍利子！",
-    "T11n0316_036:0874c23_1": "一切有學阿那含辟支佛，於此福行應先發起如是勝心，得不退轉一生補處，次當作佛。",
-    "T11n0316_036:0874c25_2": "菩薩摩訶薩亦應於此發隨喜心，過去未來現在諸佛世尊此福行中一切善根亦皆隨喜，勸請諸佛轉妙法輪。",
-    "T11n0316_036:0874c27_3": "此福行中以一切菩提善根悉共回向。",
-    "T11n0316_036:0874c28_4": "未發菩提心者語令發起，已發菩提心者諸菩薩為說回向。",
-    "T11n0316_036:0875a01_5": "以利養攝諸貧窮，以醫藥施諸疾病，於諸怯弱亦當親近為作憐愍，於諸毀戒以法覆護，出離罪報令住涅槃。",
-    "T11n0316_036:0875a03_6": "於和尚阿闍梨尊重供養如佛世尊，於講法處精進勇猛。",
-    "T11n0316_036:0875a04_7": "求諸法師設百由旬亦應故往，樂聞正法而無厭足。",
-    "T11n0316_036:0875a06_8": "於說法者無所希望，常當親近恭敬供養，如己父母不生疲厭。",
-    "T11n0316_036:0875a07_9": "又福行中，於身口意不生動亂、離諸過失。",
-    "T11n0316_036:0875a08_10": "住佛塔廟，攝受梵福集諸善本，圓滿相好莊嚴化身。",
-    "T11n0316_036:0875a09_11": "離諸口過莊嚴語業，決定勝解莊嚴一心，遊戲神通莊嚴佛剎，以清淨智莊嚴法相。",
-    "T11n0316_036:0875a11_12": "聞彼正法離諸障礙得無障礙，於說法者歡喜稱讚，於所說法不生執著，亦無損壞如是莊嚴解脫法門。",
-    "T11n0316_036:0875a13_13": "以諸園林施佛及僧，如是莊嚴佛菩提樹，植諸善本憐愍一切，業惑清淨得無生滅，如是莊嚴菩提道場。",
-    "T11n0316_036:0875a16_14": "發無盡願施諸玩好，獲得圓滿無盡寶手。",
-    "T11n0316_036:0875a17_15": "遠離顰蹙平等如掌，樂施一切而先獲得面目端嚴，後諸有情共喜樂見。",
-    "T11n0316_036:0875a18_16": "光淨嚴飾施諸有情，而獲光明普照一切。",
-    "T11n0316_036:0875a19_17": "讚美言辭非由積習，戒福德藏悉皆清淨。",
-    "T11n0316_036:0875a20_18": "生人天中，十善道業亦復清淨，神通變化亦不唐捐。",
-    "T11n0316_036:0875a22_0": "順諸佛教不起分別，深心清淨平等開化，為諸有情之所愛敬。",
-    "T11n0316_036:0875a23_1": "於最上法及勝解行隨力為說，而能攝受一切福行。",
-    "T11n0316_036:0875a24_2": "又當發起一切智心，具七聖財信為先行，一切世間之所愛敬。",
-    "T11n0316_036:0875a26_0": "是故決定最先開導，而能圓滿一切佛法及諸善法。",
-    "T11n0316_036:0875a27_1": "此說是為菩薩摩訶薩福行善巧。",
-    "T11n0316_036:0875a27_2": "「云何諸菩薩智行善巧？",
-    "T11n0316_036:0875a28_3": "謂於因緣發生智解。",
-    "T11n0316_036:0875a28_4": "云何因緣？",
-    "T11n0316_036:0875a29_5": "謂深心樂欲隨知法會，勤求善友住於佛智，不依聲聞辟支佛智，於論議師極生信樂。",
-    "T11n0316_036:0875b02_6": "其說法者，知彼器已內心具足，於其智慧無有慳惜，相續為說甚深妙法。",
-    "T11n0316_036:0875b03_7": "彼聞法者，為作如是求法相應，則能於此智行相應。",
-    "T11n0316_036:0875b04_8": "云何求法相應？",
-    "T11n0316_036:0875b05_9": "謂於法師得是少義，而於初夜後夜思擇稱量，此等云何是理非理？",
-    "T11n0316_036:0875b06_10": "展轉研究乃至心無所得，離諸障礙及無垢染，得出離智發真實行。",
-    "T11n0316_036:0875b08_11": "於此甚深法、廣大法無邊法、勝外道法，智解通徹常放光明，最極高顯踰於山峯，勇猛精進不捨重擔，行殊勝行心唯一境，富樂作意不捨杜多，常樂法樂不持世行，求出世法憶念不忘隨為宣說。",
-    "T11n0316_036:0875b12_12": "聖族弟子咸皆歡喜，開導勝緣奉持禁戒慚愧莊嚴，趣向佛道，無明暗蔽諸無智者悉自遠離，而得慧眼清淨，廣大覺悟、深妙覺悟、極妙覺悟。",
-    "T11n0316_036:0875b15_13": "以觀察智，復能分別自他功德，而使純熟圓滿清淨業報。",
-    "T11n0316_036:0875b17_14": "是為菩薩摩訶薩智行善巧。",
-    "T11n0316_036:0875b17_15": "「復次求智菩薩於法師所行四種施。",
-    "T11n0316_036:0875b18_16": "何等為四？",
-    "T11n0316_036:0875b18_17": "謂樺皮紙筆墨等及妙法座、一切利養、法集偈讚。",
-    "T11n0316_036:0875b20_18": "是為四種，於智行中而得成辦。",
-    "T11n0316_036:0875b20_19": "又智行中於法師所，應當成就四種守護。",
-    "T11n0316_036:0875b21_20": "何等為四？",
-    "T11n0316_036:0875b21_21": "一者守護身，二者守護善，三者守護處所，四者守護所化徒眾，是名為四。",
-    "T11n0316_036:0875b23_22": "又智行中，而復成就四種重擔。",
-    "T11n0316_036:0875b24_23": "何等為四？",
-    "T11n0316_036:0875b24_24": "所謂法、智、財物及與菩提，是為四種。",
-    "T11n0316_036:0875b25_25": "又智行中成就五力：一者信力，於法勝解。",
-    "T11n0316_036:0875b26_26": "二者精進力，勤求多聞。",
-    "T11n0316_036:0875b26_27": "三者念力，於菩提心而無忘失。",
-    "T11n0316_036:0875b27_28": "四者定力，於一切法決定平等。",
-    "T11n0316_036:0875b28_29": "五者勝慧力，復樂多聞。",
-    "T11n0316_036:0875b28_30": "是為五種，於智行中而得圓滿。",
-    "T11n0316_036:0875b29_31": "又智行中成就四戒。",
-    "T11n0316_036:0875b29_32": "何等為四？",
-    "T11n0316_036:0875c01_33": "謂真實法戒、勤求法戒、決定法戒、向菩提戒，是名為四。",
-    "T11n0316_036:0875c02_34": "又諸勤求法者，於智行中成就四忍。",
-    "T11n0316_036:0875c03_35": "何等為四？",
-    "T11n0316_036:0875c03_36": "一者敝惡人來毀生罵辱，不應加報，善言悔謝；二者風日寒熱及飢渴等悉能忍受；三者於和尚阿闍梨隨轉給侍；四者於空無相無願三解脫門住大法忍；是為四種。",
-    "T11n0316_036:0875c07_37": "又復成就四種精進。",
-    "T11n0316_036:0875c07_38": "何等為四？",
-    "T11n0316_036:0875c08_39": "所謂多聞精進、總持精進、辯說精進、正行精進，是為四種。",
-    "T11n0316_036:0875c09_40": "又智行中而復成就四種勝定。",
-    "T11n0316_036:0875c10_41": "何等為四？",
-    "T11n0316_036:0875c10_42": "所謂離相寂靜、心一境性、入神通定、悟佛知見，是名為四。",
-    "T11n0316_036:0875c11_43": "又智行中成就四法。",
-    "T11n0316_036:0875c12_44": "云何為四？",
-    "T11n0316_036:0875c12_45": "謂諸有不住、非自然性、四緣生滅是無主宰、唯一信解，是名四法。",
-    "T11n0316_036:0875c13_46": "又復成就四種方便。",
-    "T11n0316_036:0875c14_47": "何等為四？",
-    "T11n0316_036:0875c14_48": "一者隨轉世間，二者隨轉契經，三者隨轉於法，四者隨轉於智；是為四種，於智行中而得具足。",
-    "T11n0316_036:0875c16_49": "又復成就四無礙道。",
-    "T11n0316_036:0875c17_50": "何等為四？",
-    "T11n0316_036:0875c17_51": "所謂波羅蜜多、七菩提分、八聖道支及一切智智，是為四種無障礙道。",
-    "T11n0316_036:0875c18_52": "又復成就四種無厭。",
-    "T11n0316_036:0875c19_53": "何等為四？",
-    "T11n0316_036:0875c19_54": "謂多聞無厭、辯說無厭、尋伺無厭、智慧無厭，是名四種。",
-    "T11n0316_036:0875c20_55": "又智行中如是知見，而復隨順一切有情、一切剎土，即布施、持戒、忍辱、精進、禪定、勝慧、慈悲喜捨。",
-    "T11n0316_036:0875c23_0": "所以者何？",
-    "T11n0316_036:0875c23_1": "舍利子！",
-    "T11n0316_036:0875c23_2": "乃至諸菩薩決定於諸智中以是知見而為先行，彼若安住是智而得通達一切智行，諸佛威神之所護念，諸有魔等皆不得便，普為集會一切智智。",
-    "T11n0316_036:0875c26_3": "舍利子！",
-    "T11n0316_036:0875c26_4": "是為菩薩摩訶薩於勝慧波羅蜜多得智行善巧。",
-    "T11n0316_036:0875c28_5": "「云何諸菩薩念處善巧？",
-    "T11n0316_036:0875c28_6": "菩薩念處此有四種。",
-    "T11n0316_036:0875c29_7": "何等為四？",
-    "T11n0316_036:0875c29_8": "一者以身觀身念處，二者以受觀受念處，三者以心觀心念處，四者以法觀法念處。",
-    "T11n0316_036:0876a02_9": "云何以身觀身念處？",
-    "T11n0316_036:0876a02_10": "舍利子！",
-    "T11n0316_036:0876a02_11": "此諸菩薩修身觀時，觀身前際、觀身後際、觀身現在，而此身者從顛倒生、隨因緣滅，無動無作無自性無執取。",
-    "T11n0316_036:0876a05_12": "譬如諸外山林藥草種等，從因緣生，亦無自性及無執取。",
-    "T11n0316_036:0876a06_13": "又此身者如墻壁瓦礫草木影像，謂蘊處界是無執是空、是無我我所、是無常是速朽滅、是不精實、是顛倒法、是可厭離、是不堅固。",
-    "T11n0316_036:0876a09_14": "諸菩薩摩訶薩應如是觀，當樂勤求堅固之身。",
-    "T11n0316_036:0876a10_15": "所以者何？",
-    "T11n0316_036:0876a10_16": "謂如來身。",
-    "T11n0316_036:0876a11_17": "如來身者，即法界身、金剛身、不可壞身、堅固身、於三界一切最勝妙身。",
-    "T11n0316_036:0876a12_18": "修是觀時，當知凡夫麁重穢惡具諸過患；彼復能離一切過患，得獲如來最妙身相。",
-    "T11n0316_036:0876a14_19": "又當觀念諸有情身，由何所造相續不斷？",
-    "T11n0316_036:0876a15_20": "謂四大種及阿賴耶識造作執持薰習功能有無量力。",
-    "T11n0316_036:0876a16_21": "譬如地界、水界、火界、風界，外四大種有種種門、種種處、種種名、種種相、種種物，由是一切有情任持命根。",
-    "T11n0316_036:0876a19_0": "身四大種集起亦復如是，有種種門、種種處、種種名、種種相、種種物，由是一切有情於其命根亦復任持。",
-    "T11n0316_036:0876a21_1": "以別相觀身無常，而不厭離生死。",
-    "T11n0316_036:0876a22_2": "以別相觀身是苦，而不樂住涅槃。",
-    "T11n0316_036:0876a22_3": "以別相觀身無我，而不遠離化度有情。",
-    "T11n0316_036:0876a23_4": "以別相觀身空寂，而無畢竟寂滅。",
-    "T11n0316_036:0876a24_5": "以別相觀身遠離，而不捨善法。",
-    "T11n0316_036:0876a25_6": "彼能如是以身觀身者，應當了知是不堅固、是不可愛。",
-    "T11n0316_036:0876a26_7": "觀內身者而知煩惱不能容受，觀外身者了諸煩惱不共合集，而得成就清淨身業，及得清淨莊嚴身相，為諸天人之所讚仰。",
-    "T11n0316_036:0876a29_8": "舍利子！",
-    "T11n0316_036:0876a29_9": "是為菩薩摩訶薩得以身觀身念處。",
-    "T11n0316_036:0876b01_10": "「云何諸菩薩以受觀受念處？",
-    "T11n0316_036:0876b01_11": "謂諸菩薩於彼一切苦樂等受，應以智慧方便善可了知，於諸樂受無貪惜意，若見諸惡道受苦觸時，起大悲心無緣息意，於苦樂受觸，無無明意隨念了知。",
-    "T11n0316_036:0876b05_12": "如是苦、樂、非苦非樂得出離見。",
-    "T11n0316_036:0876b06_13": "而諸菩薩以智慧方便，於諸有情，或為成就、或為遠離。",
-    "T11n0316_036:0876b07_14": "然此有情於受出離無所知解，於此樂受隨樂施與，於彼苦受隨為除滅，於非苦樂受隨順一切智智得獲輕安，以大方便善巧而攝受之，為說妙法，令諸有情亦獲輕安。",
-    "T11n0316_036:0876b11_15": "何等因緣說如是受？",
-    "T11n0316_036:0876b11_16": "謂於善成就而有樂受，於不善成就乃有苦受。",
-    "T11n0316_036:0876b12_17": "復於是處我人眾生壽者起種種受，所謂執受、取受、顛倒受、遍計受、惡見受、眼想受乃至意想受、色想受乃至法想受，乃至眼觸為緣所生諸受。",
-    "T11n0316_036:0876b16_0": "以要言之，乃至於內外法意觸為緣所生諸受，是中或苦、或樂、非苦非樂說名為受。",
-    "T11n0316_036:0876b18_0": "「復次於總聚中，或有一受，謂一心所表。",
-    "T11n0316_036:0876b18_1": "二受，謂內外所表。",
-    "T11n0316_036:0876b19_2": "三受，謂過去未來現在所表。",
-    "T11n0316_036:0876b19_3": "四受，謂四大所表。",
-    "T11n0316_036:0876b20_4": "五受，謂五蘊作意。",
-    "T11n0316_036:0876b20_5": "六受，謂六處遍計。",
-    "T11n0316_036:0876b21_6": "七受，謂七識住處。",
-    "T11n0316_036:0876b21_7": "八受，謂八邪相應。",
-    "T11n0316_036:0876b22_8": "九受，謂九有情居。",
-    "T11n0316_036:0876b22_9": "十受，謂十善業道。",
-    "T11n0316_036:0876b22_10": "乃至總略諸受種種作意，是故應知有情無量受亦無量。",
-    "T11n0316_036:0876b24_11": "又諸菩薩觀樂受時，見諸有情住生死際，令發智慧，為彼開示善不善受。",
-    "T11n0316_036:0876b25_12": "舍利子！",
-    "T11n0316_036:0876b26_13": "是為菩薩摩訶薩以受觀受念處。",
-    "T11n0316_036:0876b26_14": "「云何諸菩薩以心觀心念處？",
-    "T11n0316_036:0876b27_15": "謂諸菩薩祕密守護正念不動，觀察此心速疾生滅，無有狀貌及無住處，亦不在內亦不在外不在中間。",
-    "T11n0316_036:0876b29_16": "知初發心最極微量遠離心相，於其方分了不能得。",
-    "T11n0316_036:0876c02_0": "是心所集一切善根，最極微量亦皆遠離，及無方分。",
-    "T11n0316_036:0876c03_1": "又於是心回向菩提。",
-    "T11n0316_036:0876c03_2": "於自體相，無心所了、無心所觀、無心所入。」",
-    "T11n0316_036:0876c04_3": "佛言：「是故得成阿耨多羅三藐三菩提。",
-    "T11n0316_036:0876c05_4": "何以故？",
-    "T11n0316_036:0876c05_5": "謂菩提心與彼善心，於其作用而不共行，又善根心與菩提心亦不共行，又善根心與回向心亦不共行，又回向心與菩提心及善根心悉不共行。",
-    "T11n0316_036:0876c08_6": "應當如是觀察，不生驚怖，次復獲得甚深緣起不壞因果。",
-    "T11n0316_036:0876c10_7": "然法性心即有情自性，如是還屬諸法因緣，無動無作及無主宰，彼如覆障不共相應。",
-    "T11n0316_036:0876c12_8": "是故應知，此法性心亦不共行。",
-    "T11n0316_036:0876c12_9": "云何法性及覆障心？",
-    "T11n0316_036:0876c13_10": "法性心者，謂於是處悉無所施。",
-    "T11n0316_036:0876c14_11": "若復以一切所有回向遍覆莊嚴佛剎，是心覆障。",
-    "T11n0316_036:0876c15_12": "如彼幻化於剎那頃最極寂淨，名法性心。",
-    "T11n0316_036:0876c16_13": "若復集諸禁戒回向一切迅疾神通，是心覆障。",
-    "T11n0316_036:0876c17_14": "猶如夢想畢竟盡盡無餘，名法性心。",
-    "T11n0316_036:0876c18_15": "若復樂忍辱力乃至回向遍覆莊嚴，是心覆障。",
-    "T11n0316_036:0876c19_16": "猶如陽焰畢竟離身心相，名法性心。",
-    "T11n0316_036:0876c20_0": "若復發起一切精進回向圓滿一切佛法，是心覆障。",
-    "T11n0316_036:0876c21_1": "如水中月無執無見，名法性心。",
-    "T11n0316_036:0876c21_2": "若復以一切禪定解脫三摩地三摩鉢底回向諸佛三昧，是為覆障。",
-    "T11n0316_036:0876c23_3": "無色無見無對無表，名法性心。",
-    "T11n0316_036:0876c24_4": "若復以智分別宣說一切清淨句義回向圓滿諸佛智慧，是為覆障。",
-    "T11n0316_036:0876c25_5": "種種施設，名法性心。",
-    "T11n0316_036:0876c26_6": "若復於諸善根有所間斷，是為覆障。",
-    "T11n0316_036:0876c26_7": "心無因生，名法性心。",
-    "T11n0316_036:0876c27_8": "若復因菩提分法所起，是為覆障。",
-    "T11n0316_036:0876c28_9": "解脫六境，名法性心。",
-    "T11n0316_036:0876c28_10": "若復於佛境界有所斷滅，是為覆障。",
-    "T11n0316_036:0876c29_11": "舍利子！",
-    "T11n0316_036:0876c29_12": "菩薩摩訶薩如是行以觀心行時，安住神通，得彼神通於一心中，而能了知一切有情心之所趣，知已隨其本性而為說法。",
-    "T11n0316_036:0877a03_13": "又復安住大悲，得彼大悲而能化度一切有情無有疲倦，於此觀行加持是心無盡無滅。",
-    "T11n0316_036:0877a05_14": "設復入生死際斷諸繫縛，而於此心念智不起、超諸行法，一切聲聞辟支佛所不能及，而得安住是心乃至圓滿一切佛法。",
-    "T11n0316_036:0877a08_15": "是心於剎那頃能與勝慧平等相應，決定成就阿耨多羅三藐三菩提果。",
-    "T11n0316_036:0877a09_16": "舍利子！",
-    "T11n0316_036:0877a10_0": "是名菩薩摩訶薩以心觀心念處。」",
-    "T11n0316_036:0877a11_0": "佛說大乘菩薩藏正法經卷第三十六"
-}
+[
+    {
+        "source_sentence": "4佛說大乘菩薩藏正法經卷第三",
+        "from": "T11n0316_036:0874c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十六",
+        "from": "T11n0316_036:0874c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏銀青光祿大夫",
+        "from": "T11n0316_036:0874c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "試光祿卿慈覺傳梵大師賜紫沙門臣法護等奉　詔譯勝慧波羅蜜多品第十一之四「復次舍利子！",
+        "from": "T11n0316_036:0874c23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切有學阿那含辟支佛，於此福行應先發起如是勝心，得不退轉一生補處，次當作佛。",
+        "from": "T11n0316_036:0874c25_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩摩訶薩亦應於此發隨喜心，過去未來現在諸佛世尊此福行中一切善根亦皆隨喜，勸請諸佛轉妙法輪。",
+        "from": "T11n0316_036:0874c27_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此福行中以一切菩提善根悉共回向。",
+        "from": "T11n0316_036:0874c28_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未發菩提心者語令發起，已發菩提心者諸菩薩為說回向。",
+        "from": "T11n0316_036:0875a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以利養攝諸貧窮，以醫藥施諸疾病，於諸怯弱亦當親近為作憐愍，於諸毀戒以法覆護，出離罪報令住涅槃。",
+        "from": "T11n0316_036:0875a03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於和尚阿闍梨尊重供養如佛世尊，於講法處精進勇猛。",
+        "from": "T11n0316_036:0875a04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "求諸法師設百由旬亦應故往，樂聞正法而無厭足。",
+        "from": "T11n0316_036:0875a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於說法者無所希望，常當親近恭敬供養，如己父母不生疲厭。",
+        "from": "T11n0316_036:0875a07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又福行中，於身口意不生動亂、離諸過失。",
+        "from": "T11n0316_036:0875a08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住佛塔廟，攝受梵福集諸善本，圓滿相好莊嚴化身。",
+        "from": "T11n0316_036:0875a09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離諸口過莊嚴語業，決定勝解莊嚴一心，遊戲神通莊嚴佛剎，以清淨智莊嚴法相。",
+        "from": "T11n0316_036:0875a11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞彼正法離諸障礙得無障礙，於說法者歡喜稱讚，於所說法不生執著，亦無損壞如是莊嚴解脫法門。",
+        "from": "T11n0316_036:0875a13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以諸園林施佛及僧，如是莊嚴佛菩提樹，植諸善本憐愍一切，業惑清淨得無生滅，如是莊嚴菩提道場。",
+        "from": "T11n0316_036:0875a16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "發無盡願施諸玩好，獲得圓滿無盡寶手。",
+        "from": "T11n0316_036:0875a17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠離顰蹙平等如掌，樂施一切而先獲得面目端嚴，後諸有情共喜樂見。",
+        "from": "T11n0316_036:0875a18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "光淨嚴飾施諸有情，而獲光明普照一切。",
+        "from": "T11n0316_036:0875a19_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讚美言辭非由積習，戒福德藏悉皆清淨。",
+        "from": "T11n0316_036:0875a20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生人天中，十善道業亦復清淨，神通變化亦不唐捐。",
+        "from": "T11n0316_036:0875a21_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "順諸佛教不起分別，深心清淨平等開化，為諸有情之所愛敬。",
+        "from": "T11n0316_036:0875a23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於最上法及勝解行隨力為說，而能攝受一切福行。",
+        "from": "T11n0316_036:0875a24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又當發起一切智心，具七聖財信為先行，一切世間之所愛敬。",
+        "from": "T11n0316_036:0875a25_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故決定最先開導，而能圓滿一切佛法及諸善法。",
+        "from": "T11n0316_036:0875a27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此說是為菩薩摩訶薩福行善巧。",
+        "from": "T11n0316_036:0875a27_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「云何諸菩薩智行善巧？",
+        "from": "T11n0316_036:0875a28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂於因緣發生智解。",
+        "from": "T11n0316_036:0875a28_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何因緣？",
+        "from": "T11n0316_036:0875a29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂深心樂欲隨知法會，勤求善友住於佛智，不依聲聞辟支佛智，於論議師極生信樂。",
+        "from": "T11n0316_036:0875b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其說法者，知彼器已內心具足，於其智慧無有慳惜，相續為說甚深妙法。",
+        "from": "T11n0316_036:0875b03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼聞法者，為作如是求法相應，則能於此智行相應。",
+        "from": "T11n0316_036:0875b04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何求法相應？",
+        "from": "T11n0316_036:0875b05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂於法師得是少義，而於初夜後夜思擇稱量，此等云何是理非理？",
+        "from": "T11n0316_036:0875b06_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "展轉研究乃至心無所得，離諸障礙及無垢染，得出離智發真實行。",
+        "from": "T11n0316_036:0875b08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於此甚深法、廣大法無邊法、勝外道法，智解通徹常放光明，最極高顯踰於山峯，勇猛精進不捨重擔，行殊勝行心唯一境，富樂作意不捨杜多，常樂法樂不持世行，求出世法憶念不忘隨為宣說。",
+        "from": "T11n0316_036:0875b12_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖族弟子咸皆歡喜，開導勝緣奉持禁戒慚愧莊嚴，趣向佛道，無明暗蔽諸無智者悉自遠離，而得慧眼清淨，廣大覺悟、深妙覺悟、極妙覺悟。",
+        "from": "T11n0316_036:0875b15_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以觀察智，復能分別自他功德，而使純熟圓滿清淨業報。",
+        "from": "T11n0316_036:0875b17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為菩薩摩訶薩智行善巧。",
+        "from": "T11n0316_036:0875b17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「復次求智菩薩於法師所行四種施。",
+        "from": "T11n0316_036:0875b18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T11n0316_036:0875b18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂樺皮紙筆墨等及妙法座、一切利養、法集偈讚。",
+        "from": "T11n0316_036:0875b20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為四種，於智行中而得成辦。",
+        "from": "T11n0316_036:0875b20_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又智行中於法師所，應當成就四種守護。",
+        "from": "T11n0316_036:0875b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T11n0316_036:0875b21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者守護身，二者守護善，三者守護處所，四者守護所化徒眾，是名為四。",
+        "from": "T11n0316_036:0875b23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又智行中，而復成就四種重擔。",
+        "from": "T11n0316_036:0875b24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T11n0316_036:0875b24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂法、智、財物及與菩提，是為四種。",
+        "from": "T11n0316_036:0875b25_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又智行中成就五力：",
+        "from": "T11n0316_036:0875b25_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者信力，於法勝解。",
+        "from": "T11n0316_036:0875b26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者精進力，勤求多聞。",
+        "from": "T11n0316_036:0875b26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者念力，於菩提心而無忘失。",
+        "from": "T11n0316_036:0875b27_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者定力，於一切法決定平等。",
+        "from": "T11n0316_036:0875b28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者勝慧力，復樂多聞。",
+        "from": "T11n0316_036:0875b28_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為五種，於智行中而得圓滿。",
+        "from": "T11n0316_036:0875b29_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又智行中成就四戒。",
+        "from": "T11n0316_036:0875b29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T11n0316_036:0875c01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂真實法戒、勤求法戒、決定法戒、向菩提戒，是名為四。",
+        "from": "T11n0316_036:0875c02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又諸勤求法者，於智行中成就四忍。",
+        "from": "T11n0316_036:0875c03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T11n0316_036:0875c03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者敝惡人來毀生罵辱，不應加報，善言悔謝；",
+        "from": "T11n0316_036:0875c04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者風日寒熱及飢渴等悉能忍受；",
+        "from": "T11n0316_036:0875c05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者於和尚阿闍梨隨轉給侍；",
+        "from": "T11n0316_036:0875c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者於空無相無願三解脫門住大法忍；",
+        "from": "T11n0316_036:0875c07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為四種。",
+        "from": "T11n0316_036:0875c07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復成就四種精進。",
+        "from": "T11n0316_036:0875c07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T11n0316_036:0875c08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂多聞精進、總持精進、辯說精進、正行精進，是為四種。",
+        "from": "T11n0316_036:0875c09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又智行中而復成就四種勝定。",
+        "from": "T11n0316_036:0875c10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T11n0316_036:0875c10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂離相寂靜、心一境性、入神通定、悟佛知見，是名為四。",
+        "from": "T11n0316_036:0875c11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又智行中成就四法。",
+        "from": "T11n0316_036:0875c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何為四？",
+        "from": "T11n0316_036:0875c12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂諸有不住、非自然性、四緣生滅是無主宰、唯一信解，是名四法。",
+        "from": "T11n0316_036:0875c13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復成就四種方便。",
+        "from": "T11n0316_036:0875c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T11n0316_036:0875c14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者隨轉世間，二者隨轉契經，三者隨轉於法，四者隨轉於智；",
+        "from": "T11n0316_036:0875c15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為四種，於智行中而得具足。",
+        "from": "T11n0316_036:0875c16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復成就四無礙道。",
+        "from": "T11n0316_036:0875c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T11n0316_036:0875c17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂波羅蜜多、七菩提分、八聖道支及一切智智，是為四種無障礙道。",
+        "from": "T11n0316_036:0875c18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復成就四種無厭。",
+        "from": "T11n0316_036:0875c19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T11n0316_036:0875c19_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂多聞無厭、辯說無厭、尋伺無厭、智慧無厭，是名四種。",
+        "from": "T11n0316_036:0875c20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又智行中如是知見，而復隨順一切有情、一切剎土，即布施、持戒、忍辱、精進、禪定、勝慧、慈悲喜捨。",
+        "from": "T11n0316_036:0875c22_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所以者何？",
+        "from": "T11n0316_036:0875c23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍利子！",
+        "from": "T11n0316_036:0875c23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至諸菩薩決定於諸智中以是知見而為先行，彼若安住是智而得通達一切智行，諸佛威神之所護念，諸有魔等皆不得便，普為集會一切智智。",
+        "from": "T11n0316_036:0875c26_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍利子！",
+        "from": "T11n0316_036:0875c26_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為菩薩摩訶薩於勝慧波羅蜜多得智行善巧。",
+        "from": "T11n0316_036:0875c28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「云何諸菩薩念處善巧？",
+        "from": "T11n0316_036:0875c28_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩念處此有四種。",
+        "from": "T11n0316_036:0875c29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T11n0316_036:0875c29_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者以身觀身念處，二者以受觀受念處，三者以心觀心念處，四者以法觀法念處。",
+        "from": "T11n0316_036:0876a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何以身觀身念處？",
+        "from": "T11n0316_036:0876a02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍利子！",
+        "from": "T11n0316_036:0876a02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此諸菩薩修身觀時，觀身前際、觀身後際、觀身現在，而此身者從顛倒生、隨因緣滅，無動無作無自性無執取。",
+        "from": "T11n0316_036:0876a05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如諸外山林藥草種等，從因緣生，亦無自性及無執取。",
+        "from": "T11n0316_036:0876a06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又此身者如墻壁瓦礫草木影像，謂蘊處界是無執是空、是無我我所、是無常是速朽滅、是不精實、是顛倒法、是可厭離、是不堅固。",
+        "from": "T11n0316_036:0876a09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩應如是觀，當樂勤求堅固之身。",
+        "from": "T11n0316_036:0876a10_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所以者何？",
+        "from": "T11n0316_036:0876a10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂如來身。",
+        "from": "T11n0316_036:0876a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來身者，即法界身、金剛身、不可壞身、堅固身、於三界一切最勝妙身。",
+        "from": "T11n0316_036:0876a12_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修是觀時，當知凡夫麁重穢惡具諸過患；",
+        "from": "T11n0316_036:0876a13_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼復能離一切過患，得獲如來最妙身相。",
+        "from": "T11n0316_036:0876a14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又當觀念諸有情身，由何所造相續不斷？",
+        "from": "T11n0316_036:0876a15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂四大種及阿賴耶識造作執持薰習功能有無量力。",
+        "from": "T11n0316_036:0876a16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如地界、水界、火界、風界，外四大種有種種門、種種處、種種名、種種相、種種物，由是一切有情任持命根。",
+        "from": "T11n0316_036:0876a18_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身四大種集起亦復如是，有種種門、種種處、種種名、種種相、種種物，由是一切有情於其命根亦復任持。",
+        "from": "T11n0316_036:0876a21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以別相觀身無常，而不厭離生死。",
+        "from": "T11n0316_036:0876a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以別相觀身是苦，而不樂住涅槃。",
+        "from": "T11n0316_036:0876a22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以別相觀身無我，而不遠離化度有情。",
+        "from": "T11n0316_036:0876a23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以別相觀身空寂，而無畢竟寂滅。",
+        "from": "T11n0316_036:0876a24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以別相觀身遠離，而不捨善法。",
+        "from": "T11n0316_036:0876a25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼能如是以身觀身者，應當了知是不堅固、是不可愛。",
+        "from": "T11n0316_036:0876a26_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀內身者而知煩惱不能容受，觀外身者了諸煩惱不共合集，而得成就清淨身業，及得清淨莊嚴身相，為諸天人之所讚仰。",
+        "from": "T11n0316_036:0876a29_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍利子！",
+        "from": "T11n0316_036:0876a29_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為菩薩摩訶薩得以身觀身念處。",
+        "from": "T11n0316_036:0876b01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「云何諸菩薩以受觀受念處？",
+        "from": "T11n0316_036:0876b01_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂諸菩薩於彼一切苦樂等受，應以智慧方便善可了知，於諸樂受無貪惜意，若見諸惡道受苦觸時，起大悲心無緣息意，於苦樂受觸，無無明意隨念了知。",
+        "from": "T11n0316_036:0876b05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是苦、樂、非苦非樂得出離見。",
+        "from": "T11n0316_036:0876b06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而諸菩薩以智慧方便，於諸有情，或為成就、或為遠離。",
+        "from": "T11n0316_036:0876b07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然此有情於受出離無所知解，於此樂受隨樂施與，於彼苦受隨為除滅，於非苦樂受隨順一切智智得獲輕安，以大方便善巧而攝受之，為說妙法，令諸有情亦獲輕安。",
+        "from": "T11n0316_036:0876b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等因緣說如是受？",
+        "from": "T11n0316_036:0876b11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂於善成就而有樂受，於不善成就乃有苦受。",
+        "from": "T11n0316_036:0876b12_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復於是處我人眾生壽者起種種受，所謂執受、取受、顛倒受、遍計受、惡見受、眼想受乃至意想受、色想受乃至法想受，乃至眼觸為緣所生諸受。",
+        "from": "T11n0316_036:0876b15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以要言之，乃至於內外法意觸為緣所生諸受，是中或苦、或樂、非苦非樂說名為受。",
+        "from": "T11n0316_036:0876b17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「復次於總聚中，或有一受，謂一心所表。",
+        "from": "T11n0316_036:0876b18_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二受，謂內外所表。",
+        "from": "T11n0316_036:0876b19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三受，謂過去未來現在所表。",
+        "from": "T11n0316_036:0876b19_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四受，謂四大所表。",
+        "from": "T11n0316_036:0876b20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五受，謂五蘊作意。",
+        "from": "T11n0316_036:0876b20_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六受，謂六處遍計。",
+        "from": "T11n0316_036:0876b21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七受，謂七識住處。",
+        "from": "T11n0316_036:0876b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八受，謂八邪相應。",
+        "from": "T11n0316_036:0876b22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九受，謂九有情居。",
+        "from": "T11n0316_036:0876b22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十受，謂十善業道。",
+        "from": "T11n0316_036:0876b22_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至總略諸受種種作意，是故應知有情無量受亦無量。",
+        "from": "T11n0316_036:0876b24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又諸菩薩觀樂受時，見諸有情住生死際，令發智慧，為彼開示善不善受。",
+        "from": "T11n0316_036:0876b25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍利子！",
+        "from": "T11n0316_036:0876b26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為菩薩摩訶薩以受觀受念處。",
+        "from": "T11n0316_036:0876b26_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「云何諸菩薩以心觀心念處？",
+        "from": "T11n0316_036:0876b27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂諸菩薩祕密守護正念不動，觀察此心速疾生滅，無有狀貌及無住處，亦不在內亦不在外不在中間。",
+        "from": "T11n0316_036:0876b29_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知初發心最極微量遠離心相，於其方分了不能得。",
+        "from": "T11n0316_036:0876c01_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是心所集一切善根，最極微量亦皆遠離，及無方分。",
+        "from": "T11n0316_036:0876c03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又於是心回向菩提。",
+        "from": "T11n0316_036:0876c03_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於自體相，無心所了、無心所觀、無心所入。",
+        "from": "T11n0316_036:0876c04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0316_036:0876c04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「是故得成阿耨多羅三藐三菩提。",
+        "from": "T11n0316_036:0876c05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T11n0316_036:0876c05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂菩提心與彼善心，於其作用而不共行，又善根心與菩提心亦不共行，又善根心與回向心亦不共行，又回向心與菩提心及善根心悉不共行。",
+        "from": "T11n0316_036:0876c08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應當如是觀察，不生驚怖，次復獲得甚深緣起不壞因果。",
+        "from": "T11n0316_036:0876c10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然法性心即有情自性，如是還屬諸法因緣，無動無作及無主宰，彼如覆障不共相應。",
+        "from": "T11n0316_036:0876c12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故應知，此法性心亦不共行。",
+        "from": "T11n0316_036:0876c12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何法性及覆障心？",
+        "from": "T11n0316_036:0876c13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法性心者，謂於是處悉無所施。",
+        "from": "T11n0316_036:0876c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若復以一切所有回向遍覆莊嚴佛剎，是心覆障。",
+        "from": "T11n0316_036:0876c15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如彼幻化於剎那頃最極寂淨，名法性心。",
+        "from": "T11n0316_036:0876c16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若復集諸禁戒回向一切迅疾神通，是心覆障。",
+        "from": "T11n0316_036:0876c17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶如夢想畢竟盡盡無餘，名法性心。",
+        "from": "T11n0316_036:0876c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若復樂忍辱力乃至回向遍覆莊嚴，是心覆障。",
+        "from": "T11n0316_036:0876c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶如陽焰畢竟離身心相，名法性心。",
+        "from": "T11n0316_036:0876c19_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若復發起一切精進回向圓滿一切佛法，是心覆障。",
+        "from": "T11n0316_036:0876c21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如水中月無執無見，名法性心。",
+        "from": "T11n0316_036:0876c21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若復以一切禪定解脫三摩地三摩鉢底回向諸佛三昧，是為覆障。",
+        "from": "T11n0316_036:0876c23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無色無見無對無表，名法性心。",
+        "from": "T11n0316_036:0876c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若復以智分別宣說一切清淨句義回向圓滿諸佛智慧，是為覆障。",
+        "from": "T11n0316_036:0876c25_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種種施設，名法性心。",
+        "from": "T11n0316_036:0876c26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若復於諸善根有所間斷，是為覆障。",
+        "from": "T11n0316_036:0876c26_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心無因生，名法性心。",
+        "from": "T11n0316_036:0876c27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若復因菩提分法所起，是為覆障。",
+        "from": "T11n0316_036:0876c28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "解脫六境，名法性心。",
+        "from": "T11n0316_036:0876c28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若復於佛境界有所斷滅，是為覆障。",
+        "from": "T11n0316_036:0876c29_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍利子！",
+        "from": "T11n0316_036:0876c29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩摩訶薩如是行以觀心行時，安住神通，得彼神通於一心中，而能了知一切有情心之所趣，知已隨其本性而為說法。",
+        "from": "T11n0316_036:0877a03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復安住大悲，得彼大悲而能化度一切有情無有疲倦，於此觀行加持是心無盡無滅。",
+        "from": "T11n0316_036:0877a05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設復入生死際斷諸繫縛，而於此心念智不起、超諸行法，一切聲聞辟支佛所不能及，而得安住是心乃至圓滿一切佛法。",
+        "from": "T11n0316_036:0877a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是心於剎那頃能與勝慧平等相應，決定成就阿耨多羅三藐三菩提果。",
+        "from": "T11n0316_036:0877a09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍利子！",
+        "from": "T11n0316_036:0877a09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名菩薩摩訶薩以心觀心念處。",
+        "from": "T11n0316_036:0877a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛說大乘菩薩藏正法經卷第三十六",
+        "from": "T11n0316_036:0877a11_100",
+        "context_with_next_sentence": false
+    }
+]

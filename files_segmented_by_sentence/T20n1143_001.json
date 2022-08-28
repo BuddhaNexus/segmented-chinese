@@ -1,25 +1,117 @@
-{
-    "T20n1143_001:0600b15_0": "佛說慈氏菩薩誓願陀羅尼經",
-    "T20n1143_001:0600b17_0": "西天譯經三藏朝散大夫試光祿卿",
-    "T20n1143_001:0600b18_0": "明教大師臣法賢奉　詔譯",
-    "T20n1143_001:0600b19_0": "爾時佛告慈氏菩薩言。",
-    "T20n1143_001:0600b19_1": "汝當諦聽有陀羅尼具大威神最上功德。",
-    "T20n1143_001:0600b20_2": "能令眾生解脫惡趣。",
-    "T20n1143_001:0600b20_3": "轉身當得受勝妙樂。",
-    "T20n1143_001:0600b21_4": "時慈氏菩薩白言世尊願為宣說。",
-    "T20n1143_001:0600b22_5": "爾時世尊即說陀羅尼曰。",
-    "T20n1143_001:0600b23_0": "那謨(引)婆誐嚩帝(引一)舍(引)吉也(二合)母那曳(引二)怛他(引)誐多(引)野(三)阿囉曷(二合)帝(引)三藐訖三(二合)沒馱(引)野(四)怛[寧*也]他(引五)阿[口*爾]帝(引六)阿[口*爾]當惹曳(引七)婆囉婆囉(八)味怛囉(二合)嚩路吉帝(引九)哥囉哥囉(十)摩賀三摩野悉帝(引十一)婆囉婆囉(十二)冐地曼拏微[口*爾](引十三)三摩(二合)囉三摩(二合)囉(十四)阿娑摩(二合引)剛三摩煬(十五)冐地冐地(十六)摩賀(引)冐地娑嚩(二合引)賀(引十七)爾時慈氏菩薩。",
-    "T20n1143_001:0600c02_1": "聞佛世尊說陀羅尼已。",
-    "T20n1143_001:0600c02_2": "白言世尊。",
-    "T20n1143_001:0600c03_3": "是陀羅尼有大利益。",
-    "T20n1143_001:0600c03_4": "能令眾生解脫惡趣。",
-    "T20n1143_001:0600c04_5": "時慈氏菩薩復發願言。",
-    "T20n1143_001:0600c04_6": "若有眾生於未來世末法之時。",
-    "T20n1143_001:0600c05_7": "能讀誦受持者。",
-    "T20n1143_001:0600c05_8": "設以宿業墮阿鼻獄者。",
-    "T20n1143_001:0600c06_9": "我成佛時當以佛力救拔出之。",
-    "T20n1143_001:0600c06_10": "復與授於阿耨多羅三藐三菩提記。",
-    "T20n1143_001:0600c07_11": "時慈氏菩薩說是語已。",
-    "T20n1143_001:0600c08_12": "禮佛雙足歡喜而退。",
-    "T20n1143_001:0600c09_0": "佛說慈氏菩薩誓願陀羅尼經"
-}
+[
+    {
+        "source_sentence": "佛說慈氏菩薩誓願陀羅尼經",
+        "from": "T20n1143_001:0600b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫試光祿卿",
+        "from": "T20n1143_001:0600b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明教大師臣法賢奉　詔譯",
+        "from": "T20n1143_001:0600b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時佛告慈氏菩薩言。",
+        "from": "T20n1143_001:0600b19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝當諦聽有陀羅尼具大威神最上功德。",
+        "from": "T20n1143_001:0600b20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能令眾生解脫惡趣。",
+        "from": "T20n1143_001:0600b20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "轉身當得受勝妙樂。",
+        "from": "T20n1143_001:0600b21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時慈氏菩薩白言世尊願為宣說。",
+        "from": "T20n1143_001:0600b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊即說陀羅尼曰。",
+        "from": "T20n1143_001:0600b22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "那謨引婆誐嚩帝引一舍引吉也二合母那曳引二怛他引誐多引野三阿囉曷二合帝引三藐訖三二合沒馱引野四怛𭔞他引五阿𡁠帝引六阿𡁠當惹曳引七婆囉婆囉八味怛囉二合嚩路吉帝引九哥囉哥囉十摩賀三摩野悉帝引十一婆囉婆囉十二󰂛地曼拏微𡁠引十三三摩二合囉三摩二合囉十四阿娑摩二合引剛三摩煬十五󰂛地󰂛地十六摩賀引󰂛地娑嚩二合引賀引十七爾時慈氏菩薩。",
+        "from": "T20n1143_001:0600c02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞佛世尊說陀羅尼已。",
+        "from": "T20n1143_001:0600c02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "白言世尊。",
+        "from": "T20n1143_001:0600c03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是陀羅尼有大利益。",
+        "from": "T20n1143_001:0600c03_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能令眾生解脫惡趣。",
+        "from": "T20n1143_001:0600c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時慈氏菩薩復發願言。",
+        "from": "T20n1143_001:0600c04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生於未來世末法之時。",
+        "from": "T20n1143_001:0600c05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能讀誦受持者。",
+        "from": "T20n1143_001:0600c05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設以宿業墮阿鼻獄者。",
+        "from": "T20n1143_001:0600c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我成佛時當以佛力救拔出之。",
+        "from": "T20n1143_001:0600c06_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復與授於阿耨多羅三藐三菩提記。",
+        "from": "T20n1143_001:0600c07_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時慈氏菩薩說是語已。",
+        "from": "T20n1143_001:0600c08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禮佛雙足歡喜而退。",
+        "from": "T20n1143_001:0600c08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說慈氏菩薩誓願陀羅尼經",
+        "from": "T20n1143_001:0600c09_100",
+        "context_with_next_sentence": false
+    }
+]

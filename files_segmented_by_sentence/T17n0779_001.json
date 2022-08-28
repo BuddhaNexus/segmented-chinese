@@ -1,22 +1,217 @@
-{
-    "T17n0779_001:0715b03_0": "佛說八大人覺經",
-    "T17n0779_001:0715b05_0": "後漢安息國三藏安世高譯",
-    "T17n0779_001:0715b06_0": "為佛弟子，常於晝夜，至心誦念，八大人覺：第一覺悟：世間無常，國土危脆；四大苦空，五陰無我；生滅變異，虛偽無主；心是惡源，形為罪藪。",
-    "T17n0779_001:0715b09_1": "如是觀察，漸離生死。",
-    "T17n0779_001:0715b10_0": "第二覺知：多欲為苦，生死疲勞，從貪欲起；少欲無為，身心自在。",
-    "T17n0779_001:0715b12_0": "第三覺知：心無厭足，唯得多求，增長罪惡；菩薩不爾，常念知足，安貧守道，唯慧是業。",
-    "T17n0779_001:0715b14_0": "第四覺知：懈怠墜落；常行精進，破煩惱惡，摧伏四魔，出陰界獄。",
-    "T17n0779_001:0715b16_0": "第五覺悟：愚癡生死。",
-    "T17n0779_001:0715b16_1": "菩薩常念，廣學多聞，增長智慧，成就辯才，教化一切，悉以大樂。",
-    "T17n0779_001:0715b18_0": "第六覺知：貧苦多怨，橫結惡緣。",
-    "T17n0779_001:0715b18_1": "菩薩布施，等念冤親，不念舊惡，不憎惡人。",
-    "T17n0779_001:0715b20_0": "第七覺悟：五欲過患。",
-    "T17n0779_001:0715b20_1": "雖為俗人，不染世樂；念三衣，瓶鉢法器；志願出家，守道清白；梵行高遠，慈悲一切。",
-    "T17n0779_001:0715b23_0": "第八覺知：生死熾然，苦惱無量。",
-    "T17n0779_001:0715b23_1": "發大乘心，普濟一切；願代眾生，受無量苦；令諸眾生，畢竟大樂。",
-    "T17n0779_001:0715b26_0": "如此八事，乃是諸佛菩薩大人之所覺悟。",
-    "T17n0779_001:0715b26_1": "精進行道，慈悲修慧，乘法身船，至涅槃岸；復還生死，度脫眾生。",
-    "T17n0779_001:0715b28_2": "以前八事，開導一切，令諸眾生，覺生死苦，捨離五欲，修心聖道。",
-    "T17n0779_001:0715b29_3": "若佛弟子，誦此八事，於念念中，滅無量罪；進趣菩提，速登正覺；永斷生死，常住快樂。",
-    "T17n0779_001:0715c03_0": "佛說八大人覺經"
-}
+[
+    {
+        "source_sentence": "佛說八大人覺經",
+        "from": "T17n0779_001:0715b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後漢安息國三藏安世高譯",
+        "from": "T17n0779_001:0715b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為佛弟子，常於晝夜，至心誦念，八大人覺：",
+        "from": "T17n0779_001:0715b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第一覺悟：",
+        "from": "T17n0779_001:0715b07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世間無常，國土危脆；",
+        "from": "T17n0779_001:0715b07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四大苦空，五陰無我；",
+        "from": "T17n0779_001:0715b08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生滅變異，虛偽無主；",
+        "from": "T17n0779_001:0715b08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心是惡源，形為罪藪。",
+        "from": "T17n0779_001:0715b09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是觀察，漸離生死。",
+        "from": "T17n0779_001:0715b09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第二覺知：",
+        "from": "T17n0779_001:0715b10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多欲為苦，生死疲勞，從貪欲起；",
+        "from": "T17n0779_001:0715b10_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "少欲無為，身心自在。",
+        "from": "T17n0779_001:0715b11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第三覺知：",
+        "from": "T17n0779_001:0715b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心無厭足，唯得多求，增長罪惡；",
+        "from": "T17n0779_001:0715b12_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩不爾，常念知足，安貧守道，唯慧是業。",
+        "from": "T17n0779_001:0715b13_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第四覺知：",
+        "from": "T17n0779_001:0715b14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懈怠墜落；",
+        "from": "T17n0779_001:0715b14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常行精進，破煩惱惡，摧伏四魔，出陰界獄。",
+        "from": "T17n0779_001:0715b15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第五覺悟：",
+        "from": "T17n0779_001:0715b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愚癡生死。",
+        "from": "T17n0779_001:0715b16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩常念，廣學多聞，增長智慧，成就辯才，教化一切，悉以大樂。",
+        "from": "T17n0779_001:0715b17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第六覺知：",
+        "from": "T17n0779_001:0715b18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貧苦多怨，橫結惡緣。",
+        "from": "T17n0779_001:0715b18_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩布施，等念冤親，不念舊惡，不憎惡人。",
+        "from": "T17n0779_001:0715b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第七覺悟：",
+        "from": "T17n0779_001:0715b20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五欲過患。",
+        "from": "T17n0779_001:0715b20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖為俗人，不染世樂；",
+        "from": "T17n0779_001:0715b20_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常念三衣，瓦鉢法器；",
+        "from": "T17n0779_001:0715b21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "志願出家，守道清白；",
+        "from": "T17n0779_001:0715b21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵行高遠，慈悲一切。",
+        "from": "T17n0779_001:0715b22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第八覺知：",
+        "from": "T17n0779_001:0715b23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生死熾然，苦惱無量。",
+        "from": "T17n0779_001:0715b23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "發大乘心，普濟一切；",
+        "from": "T17n0779_001:0715b24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願代眾生，受無量苦；",
+        "from": "T17n0779_001:0715b24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令諸眾生，畢竟大樂。",
+        "from": "T17n0779_001:0715b25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如此八事，乃是諸佛菩薩大人之所覺悟。",
+        "from": "T17n0779_001:0715b26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "精進行道，慈悲修慧，乘法身船，至涅槃岸；",
+        "from": "T17n0779_001:0715b27_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復還生死，度脫眾生。",
+        "from": "T17n0779_001:0715b28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以前八事，開導一切，令諸眾生，覺生死苦，捨離五欲，修心聖道。",
+        "from": "T17n0779_001:0715b29_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若佛弟子，誦此八事，於念念中，滅無量罪；",
+        "from": "T17n0779_001:0715c01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "進趣菩提，速登正覺；",
+        "from": "T17n0779_001:0715c02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永斷生死，常住快樂。",
+        "from": "T17n0779_001:0715c02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說八大人覺經",
+        "from": "T17n0779_001:0715c03_100",
+        "context_with_next_sentence": false
+    }
+]

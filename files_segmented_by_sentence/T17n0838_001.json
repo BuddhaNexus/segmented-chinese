@@ -1,124 +1,1057 @@
-{
-    "T17n0838_001:0896c03_0": "佛說發菩提心破諸魔經卷上",
-    "T17n0838_001:0896c05_0": "西天譯經三藏朝奉大夫",
-    "T17n0838_001:0896c06_0": "試光祿卿傳法大師賜紫",
-    "T17n0838_001:0896c07_0": "臣施護奉　詔譯",
-    "T17n0838_001:0896c08_0": "如是我聞：一時佛在王舍城迦蘭陀竹林精舍，與大苾芻眾千二百五十人俱，并諸菩薩摩訶薩眾而共集會。",
-    "T17n0838_001:0896c10_1": "是時王舍大城有迦葉氏大婆羅門住在彼城，而忽一時於夜夢中見此閻浮提世界有其千葉廣大蓮華，七寶莊嚴清淨可愛，而彼華中有大月輪，潔白圓滿周匝光明熾盛照耀。",
-    "T17n0838_001:0896c14_2": "彼婆羅門於其夢中得見是相，心大歡喜適悅慶快。",
-    "T17n0838_001:0896c15_3": "從夢覺已作是思惟：「我聞沙門瞿曇是大智者，諸有智人無能過上，善巧方便大慧具足，我宜往彼請問其相。」",
-    "T17n0838_001:0896c18_4": "時婆羅門作是念已，過於夜分至明旦時，詣迦蘭陀竹林精舍佛世尊所，到已頭面禮世尊足，合掌恭敬，如夢所見具以白佛。",
-    "T17n0838_001:0896c21_0": "爾時世尊告婆羅門言：「如汝所夢是吉祥相。",
-    "T17n0838_001:0896c22_0": "婆羅門！",
-    "T17n0838_001:0896c22_1": "汝今當知，若人夢中見四種相者，皆是最上吉祥勝相。",
-    "T17n0838_001:0896c23_2": "何等為四？",
-    "T17n0838_001:0896c23_3": "一者、白蓮華。",
-    "T17n0838_001:0896c24_0": "二者、白傘蓋。",
-    "T17n0838_001:0896c24_1": "三者、月輪。",
-    "T17n0838_001:0896c24_2": "四者、佛像。",
-    "T17n0838_001:0896c24_3": "若見如是四種相者，當知必得最上大利。」",
-    "T17n0838_001:0896c25_4": "爾時世尊欲重宣此義，而說偈曰：「夢中若見蓮華相，　　及白傘蓋皆吉祥；　或見清淨大月輪，　　夢者當獲最上利。",
-    "T17n0838_001:0896c29_0": "　又復若見佛形像，　　是相最上中最勝；　斯人一切所愛敬，　　當能成就諸功德。」",
-    "T17n0838_001:0897a02_0": "爾時婆羅門復白佛言：「世尊！",
-    "T17n0838_001:0897a02_1": "何等名為最上大利？",
-    "T17n0838_001:0897a03_2": "佛以何緣作如是說？」",
-    "T17n0838_001:0897a04_0": "爾時世尊即以伽陀答婆羅門曰：「我今為說彼大利，　　汝婆羅門當諦聽；　若人能發菩提心，　　成二足尊名大利。",
-    "T17n0838_001:0897a07_0": "　轉輪聖王位尊勝，　　統四大洲而自在；　若有眾生樂成就，　　應當發起菩提心。",
-    "T17n0838_001:0897a09_0": "　帝釋天主勝福報，　　三十三天中自在；　若有眾生樂成就，　　應當發起菩提心。",
-    "T17n0838_001:0897a11_0": "　欲、色、無色三界中，　　彼彼福報皆增勝；　若有眾生樂成就，　　應當發起菩提心。",
-    "T17n0838_001:0897a13_0": "　所有眾生界無邊，　　如其所應善化度；　若有廣為利樂者，　　應當發起菩提心。",
-    "T17n0838_001:0897a15_0": "　世間所有大醫王，　　普能療治一切病；　若有眾生樂成就，　　應當發起菩提心。",
-    "T17n0838_001:0897a17_0": "　作大光明現世間，　　一切暗冥皆照耀；　若有眾生樂成就，　　應當發起菩提心。",
-    "T17n0838_001:0897a19_0": "　雖復生於三界中，　　斷除一切顛倒行；　若有眾生樂出離，　　應當發起菩提心。",
-    "T17n0838_001:0897a21_0": "　所有煩惱等諸障，　　及餘一切不善法；　若有眾生樂除斷，　　應當發起菩提心。",
-    "T17n0838_001:0897a23_0": "　所有三界諸結使，　　隨所造作為魔攝；　若有眾生樂除斷，　　應當發起菩提心。",
-    "T17n0838_001:0897a25_0": "　若能調伏於無明，　　一切愛網悉能斷；　若有眾生樂出離，　　應當發起菩提心。",
-    "T17n0838_001:0897a27_0": "　彼貪愛法若斷除，　　一切垢染皆清淨；　若有眾生樂出離，　　應當發起菩提心。",
-    "T17n0838_001:0897a29_0": "　所生族氏及色力，　　愚人持彼生憍倨；　若有眾生樂除斷，　　應當發起菩提心。",
-    "T17n0838_001:0897b02_0": "　愚執我見、壽者見，　　於自善利生憍倨；　若有眾生樂除斷，　　應當發起菩提心。",
-    "T17n0838_001:0897b04_0": "　於諸色法生憍倨，　　從染愛生過失大；　若有眾生樂除斷，　　應當發起菩提心。",
-    "T17n0838_001:0897b06_0": "　多聞持戒及修行，　　愚人恃以生憍倨；　若有眾生樂除斷，　　應當發起菩提心。",
-    "T17n0838_001:0897b08_0": "　住阿蘭若行乞食，　　於如是事生憍倨；　若有眾生樂除斷，　　應當發起菩提心。",
-    "T17n0838_001:0897b10_0": "　應供自在具神通，　　恃己尊勝生憍倨；　若有眾生樂除斷，　　應當發起菩提心。",
-    "T17n0838_001:0897b12_0": "　愚癡執著我人相，　　恃彼我相生憍倨；　若有眾生樂除斷，　　應當發起菩提心。",
-    "T17n0838_001:0897b14_0": "　現在未來佛世尊！",
-    "T17n0838_001:0897b14_1": "　　尊重恭敬而獲福；　若有眾生樂斯利，　　應當發起菩提心。",
-    "T17n0838_001:0897b16_0": "　諸佛出興於世間，　　轉大法輪普化度；　若有眾生樂聽受，　　應當發起菩提心。",
-    "T17n0838_001:0897b18_0": "　一切惡法斷所斷，　　一切善法修所修；　若有眾生樂成就，　　應當發起菩提心。",
-    "T17n0838_001:0897b20_0": "　諸修道者修梵行，　　由是得證無漏道；　若有眾生樂成就，　　應當發起菩提心。",
-    "T17n0838_001:0897b22_0": "　我所宣說無常法，　　各各於身自觀察；　若有眾生樂了知，　　應當發起菩提心。",
-    "T17n0838_001:0897b24_0": "　我說有漏行皆苦，　　智者見苦而生厭；　若有眾生樂出離，　　應當發起菩提心。",
-    "T17n0838_001:0897b26_0": "　我為有情廣宣說，　　當知一切法無我；　若有眾生樂通達，　　應當發起菩提心。",
-    "T17n0838_001:0897b28_0": "　宣說涅盤寂滅法，　　證悟無上大菩提；　若有眾生樂成就，　　應當發起菩提心。",
-    "T17n0838_001:0897b30_0": "　我所稱讚菩提心，　　汝婆羅門恭敬聞；　如聞深信能發心，　　乃名修行菩提者。」",
-    "T17n0838_001:0897c02_0": "爾時婆羅門聞佛宣說是伽陀已，即白佛言：「世尊！",
-    "T17n0838_001:0897c03_1": "若有人發菩提心者，是人當得幾數福蘊？」",
-    "T17n0838_001:0897c04_2": "爾時世尊復以伽陀答婆羅門曰：「正使一切眾生類，　　普集此佛世界中，　一一修持淨戒行，　　悉能安住戒學地，　而彼福蘊量無邊，　　於諸福中為最上，　若人能發菩提心，　　十六分中不及一。",
-    "T17n0838_001:0897c09_0": "　正使一切眾生類，　　普集此佛世界中，　一一發生淨信心，　　悉能安住信行地，　而彼福蘊量無邊，　　於諸福中為最上，　若人能發菩提心，　　十六分中不及一。",
-    "T17n0838_001:0897c13_0": "　正使一切眾生類，　　普集此佛世界中，　一一修習妙法門，　　悉能安住法行地，　而彼福蘊量無邊，　　於諸福中為最上，　若人能發菩提心，　　十六分中不及一。",
-    "T17n0838_001:0897c17_0": "　正使一切眾生類，　　普集此佛世界中，　廣修須陀洹行法，　　悉住須陀洹果位，　而彼福蘊量無邊，　　於諸福中為最上，　若人能發菩提心，　　十六分中不及一。",
-    "T17n0838_001:0897c21_0": "　正使一切眾生類，　　普集此佛世界中，　廣修斯陀含行法，　　悉住斯陀含果位，　而彼福蘊量無邊，　　於諸福中為最上，　若人能發菩提心，　　十六分中不及一。",
-    "T17n0838_001:0897c25_0": "　正使一切眾生類，　　普集此佛世界中，　廣修阿那含行法，　　悉住阿那含果位，　而彼福蘊量無邊，　　於諸福中為最上，　若人能發菩提心，　　十六分中不及一。",
-    "T17n0838_001:0897c29_0": "　正使一切眾生類，　　普集此佛世界中，　廣修阿羅漢行法，　　悉住阿羅漢果位，　而彼福蘊量無邊，　　於諸福中為最上，　若人能發菩提心，　　十六分中不及一。",
-    "T17n0838_001:0898a03_0": "　若人於此佛世界，　　廣集上妙旃檀香，　造佛塔寺勝莊嚴，　　高廣等彼須彌量，　如是福蘊亦無邊，　　於諸福中為最上，　若人能發菩提心，　　十六分中不及一。",
-    "T17n0838_001:0898a07_0": "　又若造立諸佛塔，　　如是分量所應作，　隨所作已廣莊嚴，　　是諸眾生勝果報，　而彼福利廣無邊，　　於諸福中為最上，　若人能發菩提心，　　十六分中不及一。",
-    "T17n0838_001:0898a11_0": "　又若一切眾生類，　　假使住壽滿一劫，　以諸樂具施眾生，　　隨眾生意使圓滿，　如是福蘊量無邊，　　於諸福中為最上，　若人能發菩提心，　　十六分中不及一。",
-    "T17n0838_001:0898a15_0": "　我所宣說如是等，　　一一皆為最上法；　若有眾生忻樂者，　　當求菩提寂靜果。",
-    "T17n0838_001:0898a17_0": "　住是果者得大利，　　無比無等最尊勝；　是故若人聞此法，　　應當尊重正慧行。",
-    "T17n0838_001:0898a19_0": "　廣修如是福蘊者，　　速證無上大菩提。」",
-    "T17n0838_001:0898a20_0": "爾時婆羅門聞佛世尊如是稱讚菩提心已，即白佛言：「世尊！",
-    "T17n0838_001:0898a21_1": "我於菩提心中無少法可轉。」",
-    "T17n0838_001:0898a22_0": "佛告婆羅門言：「如是如是！",
-    "T17n0838_001:0898a22_1": "婆羅門！",
-    "T17n0838_001:0898a22_2": "若人發菩提心者，實無法可轉。",
-    "T17n0838_001:0898a23_3": "何以故？",
-    "T17n0838_001:0898a23_4": "婆羅門！",
-    "T17n0838_001:0898a23_5": "當知菩提有其三種。",
-    "T17n0838_001:0898a24_6": "何等為三？",
-    "T17n0838_001:0898a24_7": "所謂：聲聞菩提、緣覺菩提、無上菩提。",
-    "T17n0838_001:0898a25_8": "「此中何名聲聞菩提？",
-    "T17n0838_001:0898a25_9": "婆羅門！",
-    "T17n0838_001:0898a26_10": "謂若有人雖發菩提心，但樂自利不樂利他，於利他心不能發起、不能修持、不能趣入、不能安住，於此經法不樂聽受，亦復不能為他宣說，於後生中而不受身斷去來想，亦不能得平等正智，於現生中樂求解脫。",
-    "T17n0838_001:0898b01_11": "婆羅門！",
-    "T17n0838_001:0898b02_0": "以是義故名為聲聞菩提。",
-    "T17n0838_001:0898b02_1": "「又復何名緣覺菩提？",
-    "T17n0838_001:0898b03_2": "謂若有人雖發菩提心，於大乘法不樂修習而不記念，亦復自利趣求果證不樂利他，於利他心不能修持、不能趣入、不能安住，於此經法不樂聽受，亦不為他宣說教示，不能安住平等正智，但起心念觀諸緣法，隨所觀察而得解脫。",
-    "T17n0838_001:0898b08_3": "婆羅門！",
-    "T17n0838_001:0898b08_4": "以是義故名為緣覺菩提。",
-    "T17n0838_001:0898b09_5": "「又復何名無上菩提？",
-    "T17n0838_001:0898b09_6": "謂若有人，自能發生阿耨多羅三藐三菩提心已，復勸他人發如是心，於此經法自所聽受修習記念，復為他人廣說其義，於輪迴身不生厭倦，樂欲利樂一切眾生，住平等智自解脫已，欲令一切眾生皆得解脫，自利利他得安隱樂，以己善利普施一切天人大眾。",
-    "T17n0838_001:0898b15_7": "婆羅門！",
-    "T17n0838_001:0898b15_8": "以是義故，名為無上菩提；修是行者名為菩薩乘人。",
-    "T17n0838_001:0898b16_9": "「婆羅門！",
-    "T17n0838_001:0898b17_0": "汝今當知，佛語諦誠無有虛妄，如我所說阿耨多羅三藐三菩提心是最上義，若離此大菩提心而發聲聞、緣覺心者，不能利他，終不得至大涅盤界。",
-    "T17n0838_001:0898b20_1": "何以故？",
-    "T17n0838_001:0898b20_2": "而彼聲聞、緣覺自所利己不復生起利他勝行，以是緣故，不能具足諸佛法分，雖發菩提心而自謂解脫，彼菩提心亦不能得利他果報。",
-    "T17n0838_001:0898b23_3": "婆羅門！",
-    "T17n0838_001:0898b23_4": "若人能發阿耨多羅三藐三菩提心者，於自於他皆悉平等，以自所利歡喜布施，即以此心普攝世間一切眾生，乃為世間最上大利，亦名世間善調御者。",
-    "T17n0838_001:0898b27_5": "如是即能住平等智，最上最勝不可思議。",
-    "T17n0838_001:0898b28_6": "婆羅門！",
-    "T17n0838_001:0898b28_7": "此即名為大菩提心，汝當如是如實了知」。",
-    "T17n0838_001:0898c01_0": "爾時婆羅門白佛言：「世尊！",
-    "T17n0838_001:0898c01_1": "佛說解脫，云何有其種種相耶？」",
-    "T17n0838_001:0898c02_2": "佛言：「婆羅門！",
-    "T17n0838_001:0898c02_3": "聲聞、緣覺、如來解脫無種種相。",
-    "T17n0838_001:0898c03_4": "婆羅門！",
-    "T17n0838_001:0898c03_5": "譬如有人乘三種獸欲詣寶所，雖所履道隨有差別，彼所向處而無有異。",
-    "T17n0838_001:0898c05_6": "其三獸者謂：驢、馬、象。",
-    "T17n0838_001:0898c05_7": "彼驢乘者力勢羸劣，由此因緣，是人雖至寶所，不能以其珍寶廣施眾生，但樂自利取證涅盤；彼馬乘者輕利快捷，由彼力故，是人雖至寶所，亦復不能以其珍寶廣施眾生，但與眾生作淨福田；彼象乘者行步平正勇健多力，由彼力故，是人得至一切寶聚廣大城中，至彼城已即作是念：『三乘珍寶皆於此出，我當以此無量珍寶，普施無邊一切眾生，廣為眾生作大利樂。』",
-    "T17n0838_001:0898c14_0": "婆羅門！",
-    "T17n0838_001:0898c14_1": "三乘行人修三乘法，亦復如是。",
-    "T17n0838_001:0898c14_2": "彼驢乘者即聲聞乘；彼馬乘者即緣覺乘；彼象乘者即是大乘。",
-    "T17n0838_001:0898c16_3": "汝今當知，彼三乘道雖種種相，所證涅盤、所得解脫，無種種相亦無差別。",
-    "T17n0838_001:0898c17_4": "「婆羅門！",
-    "T17n0838_001:0898c18_5": "又如世間有三士夫，俱欲過渡一深大河。",
-    "T17n0838_001:0898c19_6": "彼第一人依一小葉浮水而渡；彼第二人而勝於前，依其板木浮水而渡；彼第三人又復勝前，乘以大船與多人眾，安隱而渡得至彼岸，此復猶如世間長子，使其父母無所防護，於一切處離諸憂惱。",
-    "T17n0838_001:0898c23_7": "婆羅門！",
-    "T17n0838_001:0898c23_8": "彼第一人依葉而渡者，當知即是聲聞乘人；彼第二人依其板木而得渡者，當知即是緣覺乘人；彼第三人乘船得渡者，當知即是菩薩乘人，自所得度復度他人。",
-    "T17n0838_001:0898c27_9": "婆羅門！",
-    "T17n0838_001:0898c27_10": "是故當知，彼三乘人所修行法雖種種相，而聲聞、緣覺及彼如來所證涅盤無種種相。」",
-    "T17n0838_001:0899a01_0": "爾時世尊欲重宣此義而說偈曰：「三乘證涅盤，　　同一涅盤法；　證道雖差別，　　涅盤無二相。",
-    "T17n0838_001:0899a04_0": "　三世一切佛，　　得最上解脫；　如是等法眼，　　正覺尊所說。",
-    "T17n0838_001:0899a06_0": "　是最上法智，　　出生諸方便；　諸有修行者，　　應當如是學。」",
-    "T17n0838_001:0899a07_1": "◎佛說發菩提心破諸魔經卷上"
-}
+[
+    {
+        "source_sentence": "佛說發菩提心破諸魔經卷上",
+        "from": "T17n0838_001:0896c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝奉大夫",
+        "from": "T17n0838_001:0896c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "試光祿卿傳法大師賜紫",
+        "from": "T17n0838_001:0896c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "臣施護奉　詔譯如是我聞：",
+        "from": "T17n0838_001:0896c08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一時佛在王舍城迦蘭陀竹林精舍，與大苾芻眾千二百五十人俱，并諸菩薩摩訶薩眾而共集會。",
+        "from": "T17n0838_001:0896c10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時王舍大城有迦葉氏大婆羅門住在彼城，而忽一時於夜夢中見此閻浮提世界有其千葉廣大蓮華，七寶莊嚴清淨可愛，而彼華中有大月輪，潔白圓滿周匝光明熾盛照耀。",
+        "from": "T17n0838_001:0896c14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼婆羅門於其夢中得見是相，心大歡喜適悅慶快。",
+        "from": "T17n0838_001:0896c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從夢覺已作是思惟：",
+        "from": "T17n0838_001:0896c16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我聞沙門瞿曇是大智者，諸有智人無能過上，善巧方便大慧具足，我宜往彼請問其相。",
+        "from": "T17n0838_001:0896c18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時婆羅門作是念已，過於夜分至明旦時，詣迦蘭陀竹林精舍佛世尊所，到已頭面禮世尊足，合掌恭敬，如夢所見具以白佛。",
+        "from": "T17n0838_001:0896c20_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊告婆羅門言：",
+        "from": "T17n0838_001:0896c21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如汝所夢是吉祥相。",
+        "from": "T17n0838_001:0896c21_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅門！",
+        "from": "T17n0838_001:0896c22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝今當知，若人夢中見四種相者，皆是最上吉祥勝相。",
+        "from": "T17n0838_001:0896c23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T17n0838_001:0896c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者、白蓮華。",
+        "from": "T17n0838_001:0896c23_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者、白傘蓋。",
+        "from": "T17n0838_001:0896c24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者、月輪。",
+        "from": "T17n0838_001:0896c24_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者、佛像。",
+        "from": "T17n0838_001:0896c24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若見如是四種相者，當知必得最上大利。",
+        "from": "T17n0838_001:0896c25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊欲重宣此義，而說偈曰：",
+        "from": "T17n0838_001:0896c26_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「夢中若見蓮華相，　　及白傘蓋皆吉祥；",
+        "from": "T17n0838_001:0896c27_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或見清淨大月輪，　　夢者當獲最上利。",
+        "from": "T17n0838_001:0896c28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復若見佛形像，　　是相最上中最勝；",
+        "from": "T17n0838_001:0896c29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斯人一切所愛敬，　　當能成就諸功德。",
+        "from": "T17n0838_001:0897a01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時婆羅門復白佛言：",
+        "from": "T17n0838_001:0897a02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T17n0838_001:0897a02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等名為最上大利？",
+        "from": "T17n0838_001:0897a03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛以何緣作如是說？",
+        "from": "T17n0838_001:0897a03_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊即以伽陀答婆羅門曰：",
+        "from": "T17n0838_001:0897a04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我今為說彼大利，　　汝婆羅門當諦聽；",
+        "from": "T17n0838_001:0897a05_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人能發菩提心，　　成二足尊名大利。",
+        "from": "T17n0838_001:0897a06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "轉輪聖王位尊勝，　　統四大洲而自在；",
+        "from": "T17n0838_001:0897a07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂成就，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897a08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帝釋天主勝福報，　　三十三天中自在；",
+        "from": "T17n0838_001:0897a09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂成就，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897a10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲、色、無色三界中，　　彼彼福報皆增勝；",
+        "from": "T17n0838_001:0897a11_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂成就，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897a12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有眾生界無邊，　　如其所應善化度；",
+        "from": "T17n0838_001:0897a13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有廣為利樂者，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897a14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世間所有大醫王，　　普能療治一切病；",
+        "from": "T17n0838_001:0897a15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂成就，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897a16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作大光明現世間，　　一切暗冥皆照耀；",
+        "from": "T17n0838_001:0897a17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂成就，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897a18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖復生於三界中，　　斷除一切顛倒行；",
+        "from": "T17n0838_001:0897a19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂出離，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897a20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有煩惱等諸障，　　及餘一切不善法；",
+        "from": "T17n0838_001:0897a21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂除斷，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897a22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有三界諸結使，　　隨所造作為魔攝；",
+        "from": "T17n0838_001:0897a23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂除斷，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897a24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能調伏於無明，　　一切愛網悉能斷；",
+        "from": "T17n0838_001:0897a25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂出離，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897a26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼貪愛法若斷除，　　一切垢染皆清淨；",
+        "from": "T17n0838_001:0897a27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂出離，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897a28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所生族氏及色力，　　愚人持彼生憍倨；",
+        "from": "T17n0838_001:0897a29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂除斷，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愚執我見、壽者見，　　於自善利生憍倨；",
+        "from": "T17n0838_001:0897b02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂除斷，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於諸色法生憍倨，　　從染愛生過失大；",
+        "from": "T17n0838_001:0897b04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂除斷，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多聞持戒及修行，　　愚人恃以生憍倨；",
+        "from": "T17n0838_001:0897b06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂除斷，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住阿蘭若行乞食，　　於如是事生憍倨；",
+        "from": "T17n0838_001:0897b08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂除斷，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應供自在具神通，　　恃己尊勝生憍倨；",
+        "from": "T17n0838_001:0897b10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂除斷，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愚癡執著我人相，　　恃彼我相生憍倨；",
+        "from": "T17n0838_001:0897b12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂除斷，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現在未來佛世尊！",
+        "from": "T17n0838_001:0897b14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　尊重恭敬而獲福；",
+        "from": "T17n0838_001:0897b14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂斯利，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸佛出興於世間，　　轉大法輪普化度；",
+        "from": "T17n0838_001:0897b16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂聽受，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切惡法斷所斷，　　一切善法修所修；",
+        "from": "T17n0838_001:0897b18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂成就，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸修道者修梵行，　　由是得證無漏道；",
+        "from": "T17n0838_001:0897b20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂成就，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我所宣說無常法，　　各各於身自觀察；",
+        "from": "T17n0838_001:0897b22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂了知，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我說有漏行皆苦，　　智者見苦而生厭；",
+        "from": "T17n0838_001:0897b24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂出離，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我為有情廣宣說，　　當知一切法無我；",
+        "from": "T17n0838_001:0897b26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂通達，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宣說涅盤寂滅法，　　證悟無上大菩提；",
+        "from": "T17n0838_001:0897b28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生樂成就，　　應當發起菩提心。",
+        "from": "T17n0838_001:0897b29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我所稱讚菩提心，　　汝婆羅門恭敬聞；",
+        "from": "T17n0838_001:0897b30_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如聞深信能發心，　　乃名修行菩提者。",
+        "from": "T17n0838_001:0897c01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時婆羅門聞佛宣說是伽陀已，即白佛言：",
+        "from": "T17n0838_001:0897c02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T17n0838_001:0897c03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有人發菩提心者，是人當得幾數福蘊？",
+        "from": "T17n0838_001:0897c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊復以伽陀答婆羅門曰：",
+        "from": "T17n0838_001:0897c04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「正使一切眾生類，　　普集此佛世界中，",
+        "from": "T17n0838_001:0897c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一修持淨戒行，　　悉能安住戒學地，",
+        "from": "T17n0838_001:0897c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼福蘊量無邊，　　於諸福中為最上，",
+        "from": "T17n0838_001:0897c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人能發菩提心，　　十六分中不及一。",
+        "from": "T17n0838_001:0897c08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正使一切眾生類，　　普集此佛世界中，",
+        "from": "T17n0838_001:0897c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一發生淨信心，　　悉能安住信行地，",
+        "from": "T17n0838_001:0897c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼福蘊量無邊，　　於諸福中為最上，",
+        "from": "T17n0838_001:0897c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人能發菩提心，　　十六分中不及一。",
+        "from": "T17n0838_001:0897c12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正使一切眾生類，　　普集此佛世界中，",
+        "from": "T17n0838_001:0897c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一修習妙法門，　　悉能安住法行地，",
+        "from": "T17n0838_001:0897c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼福蘊量無邊，　　於諸福中為最上，",
+        "from": "T17n0838_001:0897c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人能發菩提心，　　十六分中不及一。",
+        "from": "T17n0838_001:0897c16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正使一切眾生類，　　普集此佛世界中，",
+        "from": "T17n0838_001:0897c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣修須陀洹行法，　　悉住須陀洹果位，",
+        "from": "T17n0838_001:0897c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼福蘊量無邊，　　於諸福中為最上，",
+        "from": "T17n0838_001:0897c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人能發菩提心，　　十六分中不及一。",
+        "from": "T17n0838_001:0897c20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正使一切眾生類，　　普集此佛世界中，",
+        "from": "T17n0838_001:0897c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣修斯陀含行法，　　悉住斯陀含果位，",
+        "from": "T17n0838_001:0897c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼福蘊量無邊，　　於諸福中為最上，",
+        "from": "T17n0838_001:0897c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人能發菩提心，　　十六分中不及一。",
+        "from": "T17n0838_001:0897c24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正使一切眾生類，　　普集此佛世界中，",
+        "from": "T17n0838_001:0897c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣修阿那含行法，　　悉住阿那含果位，",
+        "from": "T17n0838_001:0897c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼福蘊量無邊，　　於諸福中為最上，",
+        "from": "T17n0838_001:0897c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人能發菩提心，　　十六分中不及一。",
+        "from": "T17n0838_001:0897c28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正使一切眾生類，　　普集此佛世界中，",
+        "from": "T17n0838_001:0897c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣修阿羅漢行法，　　悉住阿羅漢果位，",
+        "from": "T17n0838_001:0897c30_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼福蘊量無邊，　　於諸福中為最上，",
+        "from": "T17n0838_001:0898a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人能發菩提心，　　十六分中不及一。",
+        "from": "T17n0838_001:0898a02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人於此佛世界，　　廣集上妙旃檀香，",
+        "from": "T17n0838_001:0898a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "造佛塔寺勝莊嚴，　　高廣等彼須彌量，",
+        "from": "T17n0838_001:0898a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是福蘊亦無邊，　　於諸福中為最上，",
+        "from": "T17n0838_001:0898a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人能發菩提心，　　十六分中不及一。",
+        "from": "T17n0838_001:0898a06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又若造立諸佛塔，　　如是分量所應作，",
+        "from": "T17n0838_001:0898a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨所作已廣莊嚴，　　是諸眾生勝果報，",
+        "from": "T17n0838_001:0898a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼福利廣無邊，　　於諸福中為最上，",
+        "from": "T17n0838_001:0898a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人能發菩提心，　　十六分中不及一。",
+        "from": "T17n0838_001:0898a10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又若一切眾生類，　　假使住壽滿一劫，",
+        "from": "T17n0838_001:0898a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以諸樂具施眾生，　　隨眾生意使圓滿，",
+        "from": "T17n0838_001:0898a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是福蘊量無邊，　　於諸福中為最上，",
+        "from": "T17n0838_001:0898a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人能發菩提心，　　十六分中不及一。",
+        "from": "T17n0838_001:0898a14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我所宣說如是等，　　一一皆為最上法；",
+        "from": "T17n0838_001:0898a15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生忻樂者，　　當求菩提寂靜果。",
+        "from": "T17n0838_001:0898a16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "住是果者得大利，　　無比無等最尊勝；",
+        "from": "T17n0838_001:0898a17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故若人聞此法，　　應當尊重正慧行。",
+        "from": "T17n0838_001:0898a18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣修如是福蘊者，　　速證無上大菩提。",
+        "from": "T17n0838_001:0898a19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時婆羅門聞佛世尊如是稱讚菩提心已，即白佛言：",
+        "from": "T17n0838_001:0898a21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T17n0838_001:0898a21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我於菩提心中無少法可轉。",
+        "from": "T17n0838_001:0898a21_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛告婆羅門言：",
+        "from": "T17n0838_001:0898a22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如是如是！",
+        "from": "T17n0838_001:0898a22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅門！",
+        "from": "T17n0838_001:0898a22_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人發菩提心者，實無法可轉。",
+        "from": "T17n0838_001:0898a23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T17n0838_001:0898a23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅門！",
+        "from": "T17n0838_001:0898a23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知菩提有其三種。",
+        "from": "T17n0838_001:0898a24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為三？",
+        "from": "T17n0838_001:0898a24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂：",
+        "from": "T17n0838_001:0898a24_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聲聞菩提、緣覺菩提、無上菩提。",
+        "from": "T17n0838_001:0898a25_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此中何名聲聞菩提？",
+        "from": "T17n0838_001:0898a25_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅門！",
+        "from": "T17n0838_001:0898a26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂若有人雖發菩提心，但樂自利不樂利他，於利他心不能發起、不能修持、不能趣入、不能安住，於此經法不樂聽受，亦復不能為他宣說，於後生中而不受身斷去來想，亦不能得平等正智，於現生中樂求解脫。",
+        "from": "T17n0838_001:0898b01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅門！",
+        "from": "T17n0838_001:0898b01_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以是義故名為聲聞菩提。",
+        "from": "T17n0838_001:0898b02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「又復何名緣覺菩提？",
+        "from": "T17n0838_001:0898b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂若有人雖發菩提心，於大乘法不樂修習而不記念，亦復自利趣求果證不樂利他，於利他心不能修持、不能趣入、不能安住，於此經法不樂聽受，亦不為他宣說教示，不能安住平等正智，但起心念觀諸緣法，隨所觀察而得解脫。",
+        "from": "T17n0838_001:0898b08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅門！",
+        "from": "T17n0838_001:0898b08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以是義故名為緣覺菩提。",
+        "from": "T17n0838_001:0898b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「又復何名無上菩提？",
+        "from": "T17n0838_001:0898b09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂若有人，自能發生阿耨多羅三藐三菩提心已，復勸他人發如是心，於此經法自所聽受修習記念，復為他人廣說其義，於輪迴身不生厭倦，樂欲利樂一切眾生，住平等智自解脫已，欲令一切眾生皆得解脫，自利利他得安隱樂，以己善利普施一切天人大眾。",
+        "from": "T17n0838_001:0898b15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅門！",
+        "from": "T17n0838_001:0898b15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以是義故，名為無上菩提；",
+        "from": "T17n0838_001:0898b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修是行者名為菩薩乘人。",
+        "from": "T17n0838_001:0898b16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「婆羅門！",
+        "from": "T17n0838_001:0898b16_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝今當知，佛語諦誠無有虛妄，如我所說阿耨多羅三藐三菩提心是最上義，若離此大菩提心而發聲聞、緣覺心者，不能利他，終不得至大涅盤界。",
+        "from": "T17n0838_001:0898b20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T17n0838_001:0898b20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼聲聞、緣覺自所利己不復生起利他勝行，以是緣故，不能具足諸佛法分，雖發菩提心而自謂解脫，彼菩提心亦不能得利他果報。",
+        "from": "T17n0838_001:0898b23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅門！",
+        "from": "T17n0838_001:0898b23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人能發阿耨多羅三藐三菩提心者，於自於他皆悉平等，以自所利歡喜布施，即以此心普攝世間一切眾生，乃為世間最上大利，亦名世間善調御者。",
+        "from": "T17n0838_001:0898b27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是即能住平等智，最上最勝不可思議。",
+        "from": "T17n0838_001:0898b28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅門！",
+        "from": "T17n0838_001:0898b28_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此即名為大菩提心，汝當如是如實了知」。",
+        "from": "T17n0838_001:0898b29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時婆羅門白佛言：",
+        "from": "T17n0838_001:0898c01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T17n0838_001:0898c01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說解脫，云何有其種種相耶？",
+        "from": "T17n0838_001:0898c02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T17n0838_001:0898c02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「婆羅門！",
+        "from": "T17n0838_001:0898c02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聲聞、緣覺、如來解脫無種種相。",
+        "from": "T17n0838_001:0898c03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅門！",
+        "from": "T17n0838_001:0898c03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如有人乘三種獸欲詣寶所，雖所履道隨有差別，彼所向處而無有異。",
+        "from": "T17n0838_001:0898c05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其三獸者謂：",
+        "from": "T17n0838_001:0898c05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "驢、馬、象。",
+        "from": "T17n0838_001:0898c05_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼驢乘者力勢羸劣，由此因緣，是人雖至寶所，不能以其珍寶廣施眾生，但樂自利取證涅盤；",
+        "from": "T17n0838_001:0898c07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼馬乘者輕利快捷，由彼力故，是人雖至寶所，亦復不能以其珍寶廣施眾生，但與眾生作淨福田；",
+        "from": "T17n0838_001:0898c09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼象乘者行步平正勇健多力，由彼力故，是人得至一切寶聚廣大城中，至彼城已即作是念：",
+        "from": "T17n0838_001:0898c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『三乘珍寶皆於此出，我當以此無量珍寶，普施無邊一切眾生，廣為眾生作大利樂。",
+        "from": "T17n0838_001:0898c13_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』婆羅門！",
+        "from": "T17n0838_001:0898c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三乘行人修三乘法，亦復如是。",
+        "from": "T17n0838_001:0898c14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼驢乘者即聲聞乘；",
+        "from": "T17n0838_001:0898c15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼馬乘者即緣覺乘；",
+        "from": "T17n0838_001:0898c15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼象乘者即是大乘。",
+        "from": "T17n0838_001:0898c16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝今當知，彼三乘道雖種種相，所證涅盤、所得解脫，無種種相亦無差別。",
+        "from": "T17n0838_001:0898c17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「婆羅門！",
+        "from": "T17n0838_001:0898c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如世間有三士夫，俱欲過渡一深大河。",
+        "from": "T17n0838_001:0898c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼第一人依一小葉浮水而渡；",
+        "from": "T17n0838_001:0898c19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼第二人而勝於前，依其板木浮水而渡；",
+        "from": "T17n0838_001:0898c20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼第三人又復勝前，乘以大船與多人眾，安隱而渡得至彼岸，此復猶如世間長子，使其父母無所防護，於一切處離諸憂惱。",
+        "from": "T17n0838_001:0898c23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅門！",
+        "from": "T17n0838_001:0898c23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼第一人依葉而渡者，當知即是聲聞乘人；",
+        "from": "T17n0838_001:0898c24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼第二人依其板木而得渡者，當知即是緣覺乘人；",
+        "from": "T17n0838_001:0898c25_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼第三人乘船得渡者，當知即是菩薩乘人，自所得度復度他人。",
+        "from": "T17n0838_001:0898c27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "婆羅門！",
+        "from": "T17n0838_001:0898c27_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故當知，彼三乘人所修行法雖種種相，而聲聞、緣覺及彼如來所證涅盤無種種相。",
+        "from": "T17n0838_001:0898c29_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊欲重宣此義而說偈曰：",
+        "from": "T17n0838_001:0899a01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「三乘證涅盤，　　同一涅盤法；",
+        "from": "T17n0838_001:0899a02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "證道雖差別，　　涅盤無二相。",
+        "from": "T17n0838_001:0899a03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三世一切佛，　　得最上解脫；",
+        "from": "T17n0838_001:0899a04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是等法眼，　　正覺尊所說。",
+        "from": "T17n0838_001:0899a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是最上法智，　　出生諸方便；",
+        "from": "T17n0838_001:0899a06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸有修行者，　　應當如是學。",
+        "from": "T17n0838_001:0899a07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛說發菩提心破諸魔經卷上",
+        "from": "T17n0838_001:0899a08_100",
+        "context_with_next_sentence": false
+    }
+]

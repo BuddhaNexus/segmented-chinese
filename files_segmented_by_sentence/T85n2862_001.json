@@ -1,55 +1,267 @@
-{
-    "T85n2862_001:1322c09_0": "大蕃沙洲釋門教法和尚洪辯修",
-    "T85n2862_001:1322c10_0": "功德記",
-    "T85n2862_001:1322c12_0": "依門神母及金光明經略述毘沙門功德天。",
-    "T85n2862_001:1322c13_0": "爾時世尊左香山。",
-    "T85n2862_001:1322c13_1": "禪定名於初夜分。",
-    "T85n2862_001:1322c13_2": "時三十三天眾及毘沙門天王受記　下來將諸音樂香花供養世尊。",
-    "T85n2862_001:1322c15_3": "供養訖世尊即與毘沙門天王受記。",
-    "T85n2862_001:1322c16_4": "故於來世當得作佛。",
-    "T85n2862_001:1322c16_5": "號泥勿羅遮毘沙門天王。",
-    "T85n2862_001:1322c17_6": "得受記已即於佛前發大誓願。",
-    "T85n2862_001:1322c18_0": "願我未成佛已來當作大力藥叉王。",
-    "T85n2862_001:1322c18_1": "護此南閻浮提。",
-    "T85n2862_001:1322c19_2": "世界一切眾生及國王大臣。",
-    "T85n2862_001:1322c19_3": "作禮王子合國人民。",
-    "T85n2862_001:1322c20_4": "若男若女願信受金光明。",
-    "T85n2862_001:1322c20_5": "四部之眾為我轉讀於其國內所有曾覺。",
-    "T85n2862_001:1322c22_0": "□□□□不成人民飢餓疾病流行。",
-    "T85n2862_001:1322c22_1": "隣國怨敵遞相討罰。",
-    "T85n2862_001:1322c23_2": "暴雨惡風不振。",
-    "T85n2862_001:1322c23_3": "時節日月博蝕。",
-    "T85n2862_001:1322c24_0": "井內發聲星流動地。",
-    "T85n2862_001:1322c24_1": "國內民人受諸苦惱。",
-    "T85n2862_001:1322c24_2": "有如是等無量百千災怪惡事起。",
-    "T85n2862_001:1322c25_3": "時世尊彼人王願護國。",
-    "T85n2862_001:1322c26_4": "王常於國內顯敞之。",
-    "T85n2862_001:1322c26_5": "據香水灑地置一道場。",
-    "T85n2862_001:1322c27_6": "為我讀一字。",
-    "T85n2862_001:1322c27_7": "師講誦金光明經我。",
-    "T85n2862_001:1322c28_0": "於是時無量百千天神。",
-    "T85n2862_001:1322c28_1": "并護國王諸舊善神。",
-    "T85n2862_001:1322c29_0": "及我眷屬各自隱形為作護助。",
-    "T85n2862_001:1322c29_1": "今彼怨敵自然降伏。",
-    "T85n2862_001:1323a01_2": "憂愁疾疫亦令除差。",
-    "T85n2862_001:1323a01_3": "所有軍兵悉皆勇健。",
-    "T85n2862_001:1323a02_4": "國內人民受請使樂。",
-    "T85n2862_001:1323a02_5": "世尊告曰。",
-    "T85n2862_001:1323a02_6": "是事實不。",
-    "T85n2862_001:1323a03_7": "時毘沙門天王答。",
-    "T85n2862_001:1323a03_8": "世尊曰。",
-    "T85n2862_001:1323a03_9": "若有人王佐如是請召我時。",
-    "T85n2862_001:1323a04_10": "如我不列彼處不護其王。",
-    "T85n2862_001:1323a04_11": "願莫見大國兄弟。",
-    "T85n2862_001:1323a05_12": "願破作七分見。",
-    "T85n2862_001:1323a05_13": "未來諸佛發是誓已便歸本天。",
-    "T85n2862_001:1323a06_14": "至天時己大眾俱集。",
-    "T85n2862_001:1323a06_15": "阿難從座而起偏袒右肩合掌恭敬。",
-    "T85n2862_001:1323a07_16": "白佛言。",
-    "T85n2862_001:1323a07_17": "世尊。",
-    "T85n2862_001:1323a07_18": "我是凡夫不知聖意。",
-    "T85n2862_001:1323a08_19": "作夜分時有天香花著。",
-    "T85n2862_001:1323a10_0": "大蕃沙州釋門教法和尚洪辯修功德。",
-    "T85n2862_001:1323a10_1": "大蕃國字監博士憲□驥。",
-    "T85n2862_001:1323a12_0": "勅河西歸節度□□"
-}
+[
+    {
+        "source_sentence": "大蕃沙洲釋門教法和尚洪𮗿修",
+        "from": "T85n2862_001:1322c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "功德記",
+        "from": "T85n2862_001:1322c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依門神母及金光明經略述毘沙門功德天。",
+        "from": "T85n2862_001:1322c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊左香山。",
+        "from": "T85n2862_001:1322c13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪定名於初夜分。",
+        "from": "T85n2862_001:1322c13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時三十三天眾及毘沙門天王受記　下來將諸音樂香花供養世尊。",
+        "from": "T85n2862_001:1322c15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "供養訖世尊即與毘沙門天王受記。",
+        "from": "T85n2862_001:1322c16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故於來世當得作佛。",
+        "from": "T85n2862_001:1322c16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "號泥勿羅遮毘沙門天王。",
+        "from": "T85n2862_001:1322c17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得受記已即於佛前發大誓願。",
+        "from": "T85n2862_001:1322c17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願我未成佛已來當作大力藥叉王。",
+        "from": "T85n2862_001:1322c18_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "護此南閻浮提。",
+        "from": "T85n2862_001:1322c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世界一切眾生及國王大臣。",
+        "from": "T85n2862_001:1322c19_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作禮王子合國人民。",
+        "from": "T85n2862_001:1322c20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若男若女願信受金光明。",
+        "from": "T85n2862_001:1322c20_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四部之眾為我轉讀於其國內所有曾覺。",
+        "from": "T85n2862_001:1322c21_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "□□□□不成人民飢餓疾病流行。",
+        "from": "T85n2862_001:1322c22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隣國怨敵遞相討罰。",
+        "from": "T85n2862_001:1322c23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "暴雨惡風不振。",
+        "from": "T85n2862_001:1322c23_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時節日月博蝕。",
+        "from": "T85n2862_001:1322c23_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "井內發聲星流動地。",
+        "from": "T85n2862_001:1322c24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "國內民人受諸苦惱。",
+        "from": "T85n2862_001:1322c24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有如是等無量百千災怪惡事起。",
+        "from": "T85n2862_001:1322c25_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時世尊彼人王願護國。",
+        "from": "T85n2862_001:1322c26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王常於國內顯敞之。",
+        "from": "T85n2862_001:1322c26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "據香水灑地置一道場。",
+        "from": "T85n2862_001:1322c27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為我讀一字。",
+        "from": "T85n2862_001:1322c27_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師講誦金光明經我。",
+        "from": "T85n2862_001:1322c27_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於是時無量百千天神。",
+        "from": "T85n2862_001:1322c28_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "并護國王諸舊善神。",
+        "from": "T85n2862_001:1322c28_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及我眷屬各自隱形為作護助。",
+        "from": "T85n2862_001:1322c29_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今彼怨敵自然降伏。",
+        "from": "T85n2862_001:1323a01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "憂愁疾疫亦令除差。",
+        "from": "T85n2862_001:1323a01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有軍兵悉皆勇健。",
+        "from": "T85n2862_001:1323a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "國內人民受請使樂。",
+        "from": "T85n2862_001:1323a02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊告曰。",
+        "from": "T85n2862_001:1323a02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是事實不。",
+        "from": "T85n2862_001:1323a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時毘沙門天王答。",
+        "from": "T85n2862_001:1323a03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊曰。",
+        "from": "T85n2862_001:1323a03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有人王佐如是請召我時。",
+        "from": "T85n2862_001:1323a04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如我不列彼處不護其王。",
+        "from": "T85n2862_001:1323a04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願莫見大國兄弟。",
+        "from": "T85n2862_001:1323a05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願破作七分見。",
+        "from": "T85n2862_001:1323a05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未來諸佛發是誓已便歸本天。",
+        "from": "T85n2862_001:1323a06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至天時己大眾俱集。",
+        "from": "T85n2862_001:1323a06_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿難從座而起偏袒右肩合掌恭敬。",
+        "from": "T85n2862_001:1323a07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "白佛言。",
+        "from": "T85n2862_001:1323a07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊。",
+        "from": "T85n2862_001:1323a07_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我是凡夫不知聖意。",
+        "from": "T85n2862_001:1323a08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作夜分時有天香花著。",
+        "from": "T85n2862_001:1323a08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大蕃沙州釋門教法和尚洪辯修功德。",
+        "from": "T85n2862_001:1323a10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大蕃國字監博士憲□驥。",
+        "from": "T85n2862_001:1323a11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勅河西歸節度□□",
+        "from": "T85n2862_001:1323a12_100",
+        "context_with_next_sentence": false
+    }
+]

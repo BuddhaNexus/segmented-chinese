@@ -1,60 +1,317 @@
-{
-    "T14n0469_001:0509b03_0": "文殊問經字母品第十四",
-    "T14n0469_001:0509b05_0": "開府儀同三司特進試鴻臚卿肅國公，食邑三千戶，賜紫贈司空，謚大鑒，正號大廣智，大興善寺三藏沙門不空，奉　詔譯爾時文殊師利白佛言：「世尊！",
-    "T14n0469_001:0509b08_1": "一切諸字母，云何一切諸法，入於此及陀羅尼字？」",
-    "T14n0469_001:0509b09_2": "佛告文殊師利：「一切諸法，入於字母及陀羅尼字。",
-    "T14n0469_001:0509b10_3": "文殊師利！",
-    "T14n0469_001:0509b11_4": "如：「稱阿(上)字時，是無常聲。",
-    "T14n0469_001:0509b13_0": "「稱阿(引、去)字時，是遠離我聲。",
-    "T14n0469_001:0509b14_0": "「稱伊(上)字時，是諸根廣博聲。",
-    "T14n0469_001:0509b15_0": "「稱伊(引、去)字時，是世間災害聲。",
-    "T14n0469_001:0509b16_0": "「稱塢(上)字時，是多種逼迫聲。",
-    "T14n0469_001:0509b17_0": "「稱污(引)字時，是損減世間多有情聲。",
-    "T14n0469_001:0509b18_0": "「稱[口*呂]字時，是直軟相續有情聲。",
-    "T14n0469_001:0509b19_0": "「稱[口*呂](引、去)字時，是斷染遊戲聲。",
-    "T14n0469_001:0509b20_0": "「稱力字時，是生法相聲。",
-    "T14n0469_001:0509b21_0": "「稱[口*慮](引)字時，是三有染相聲。",
-    "T14n0469_001:0509b22_0": "「稱曀字時，是起所求聲。",
-    "T14n0469_001:0509b23_0": "「稱愛字時，是威儀勝聲。",
-    "T14n0469_001:0509b24_0": "「稱污字時，是取聲。",
-    "T14n0469_001:0509b25_0": "「稱奧字時，是化生之聲。",
-    "T14n0469_001:0509b26_0": "「稱暗字時，是無我所聲。",
-    "T14n0469_001:0509b27_0": "「稱惡字時，是沈沒聲。",
-    "T14n0469_001:0509b28_0": "「稱迦(上)字時，是入業異熟聲。",
-    "T14n0469_001:0509b29_0": "「稱佉(上)字時，是出一切法等虛空聲。",
-    "T14n0469_001:0509c01_0": "「稱誐(上)字時，是甚深法聲。",
-    "T14n0469_001:0509c02_0": "「稱伽(去)字時，是摧稠密，無明、闇冥聲。",
-    "T14n0469_001:0509c03_0": "「稱仰字時，是五趣清淨聲。",
-    "T14n0469_001:0509c04_0": "「稱左字時，是四聖諦聲。",
-    "T14n0469_001:0509c05_0": "「稱磋(上)字時，是不覆欲聲。",
-    "T14n0469_001:0509c06_0": "「稱惹字時，是超老死聲。",
-    "T14n0469_001:0509c07_0": "「稱酇(才舸反)字時，是制伏惡語言聲。",
-    "T14n0469_001:0509c08_0": "「稱孃(上)字時，是制伏他魔聲。",
-    "T14n0469_001:0509c09_0": "「稱吒(上)字時，是斷語聲。",
-    "T14n0469_001:0509c10_0": "「稱咤(上)字時，是出置答聲。",
-    "T14n0469_001:0509c11_0": "「稱拏(上)字時，是出攝伏魔諍聲。",
-    "T14n0469_001:0509c12_0": "「稱荼(去)字時，是滅穢境界聲。",
-    "T14n0469_001:0509c13_0": "「稱拏(鼻聲呼)字時，是除諸煩惱聲。",
-    "T14n0469_001:0509c14_0": "「稱多(上)字時，是真如無間斷聲。",
-    "T14n0469_001:0509c15_0": "「稱佗(上)字時，是勢力進無畏聲。",
-    "T14n0469_001:0509c16_0": "「稱娜字時，是調伏律儀，寂靜安隱聲。",
-    "T14n0469_001:0509c17_0": "「稱馱字時，是七聖財聲。",
-    "T14n0469_001:0509c18_0": "「稱曩字時，是遍知名色聲。",
-    "T14n0469_001:0509c19_0": "「稱跛字時，是勝義聲。",
-    "T14n0469_001:0509c20_0": "「稱頗字時，是得果作證聲。",
-    "T14n0469_001:0509c21_0": "「稱麼字時，是解脫繫縛聲。",
-    "T14n0469_001:0509c22_0": "「稱婆字時，是出生三有聲。",
-    "T14n0469_001:0509c23_0": "「稱莽(鼻聲、呼)字時，是息憍慢聲。",
-    "T14n0469_001:0509c24_0": "「稱野字時，是佛通達聲。",
-    "T14n0469_001:0509c25_0": "「稱囉(梨假反)字時，是樂不樂勝義聲。",
-    "T14n0469_001:0509c26_0": "「稱砢字時，是斷愛支聲。",
-    "T14n0469_001:0509c27_0": "「稱嚩(無可反)字時，是最上乘聲。",
-    "T14n0469_001:0509c28_0": "「稱捨字時，是出信進、念定慧聲。",
-    "T14n0469_001:0509c29_0": "「稱灑字時，是制伏六處、得六神通智聲。",
-    "T14n0469_001:0510a01_0": "「稱娑(上)字時，是現證一切智聲。",
-    "T14n0469_001:0510a02_0": "「稱賀字時，是害煩惱，離欲聲。",
-    "T14n0469_001:0510a03_0": "「稱乞灑(二合)字時，是一切文字究竟無言說聲。",
-    "T14n0469_001:0510a04_0": "「文殊師利！",
-    "T14n0469_001:0510a04_1": "此謂字母義，一切諸字入於此中。」",
-    "T14n0469_001:0510a05_0": "文殊問經字母品"
-}
+[
+    {
+        "source_sentence": "文殊問經字母品第十四",
+        "from": "T14n0469_001:0509b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開府儀同三司特進試鴻臚卿肅國公，食",
+        "from": "T14n0469_001:0509b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邑三千戶，賜紫贈司空，謚大鑒，正號大廣",
+        "from": "T14n0469_001:0509b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智，大興善寺三藏沙門不空，奉　詔譯爾時文殊師利白佛言：",
+        "from": "T14n0469_001:0509b08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T14n0469_001:0509b08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切諸字母，云何一切諸法，入於此及陀羅尼字？",
+        "from": "T14n0469_001:0509b09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛告文殊師利：",
+        "from": "T14n0469_001:0509b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「一切諸法，入於字母及陀羅尼字。",
+        "from": "T14n0469_001:0509b10_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文殊師利！",
+        "from": "T14n0469_001:0509b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如：",
+        "from": "T14n0469_001:0509b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱阿上字時，是無常聲。",
+        "from": "T14n0469_001:0509b12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱阿引、去字時，是遠離我聲。",
+        "from": "T14n0469_001:0509b13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱伊上字時，是諸根廣博聲。",
+        "from": "T14n0469_001:0509b14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱伊引、去字時，是世間災害聲。",
+        "from": "T14n0469_001:0509b15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱塢上字時，是多種逼迫聲。",
+        "from": "T14n0469_001:0509b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱污引字時，是損減世間多有情聲。",
+        "from": "T14n0469_001:0509b17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱𠴊字時，是直軟相續有情聲。",
+        "from": "T14n0469_001:0509b18_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱𠴊引、去字時，是斷染遊戲聲。",
+        "from": "T14n0469_001:0509b19_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱力字時，是生法相聲。",
+        "from": "T14n0469_001:0509b20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱𡃖引字時，是三有染相聲。",
+        "from": "T14n0469_001:0509b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱曀字時，是起所求聲。",
+        "from": "T14n0469_001:0509b22_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱愛字時，是威儀勝聲。",
+        "from": "T14n0469_001:0509b23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱污字時，是取聲。",
+        "from": "T14n0469_001:0509b24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱奧字時，是化生之聲。",
+        "from": "T14n0469_001:0509b25_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱暗字時，是無我所聲。",
+        "from": "T14n0469_001:0509b26_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱惡字時，是沈沒聲。",
+        "from": "T14n0469_001:0509b27_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱迦上字時，是入業異熟聲。",
+        "from": "T14n0469_001:0509b28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱佉上字時，是出一切法等虛空聲。",
+        "from": "T14n0469_001:0509b29_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱誐上字時，是甚深法聲。",
+        "from": "T14n0469_001:0509c01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱伽去字時，是摧稠密，無明、闇冥聲。",
+        "from": "T14n0469_001:0509c02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱仰字時，是五趣清淨聲。",
+        "from": "T14n0469_001:0509c03_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱左字時，是四聖諦聲。",
+        "from": "T14n0469_001:0509c04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱磋上字時，是不覆欲聲。",
+        "from": "T14n0469_001:0509c05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱惹字時，是超老死聲。",
+        "from": "T14n0469_001:0509c06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱酇才舸反字時，是制伏惡語言聲。",
+        "from": "T14n0469_001:0509c07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱孃上字時，是制伏他魔聲。",
+        "from": "T14n0469_001:0509c08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱吒上字時，是斷語聲。",
+        "from": "T14n0469_001:0509c09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱咤上字時，是出置答聲。",
+        "from": "T14n0469_001:0509c10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱拏上字時，是出攝伏魔諍聲。",
+        "from": "T14n0469_001:0509c11_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱荼去字時，是滅穢境界聲。",
+        "from": "T14n0469_001:0509c12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱拏鼻聲呼字時，是除諸煩惱聲。",
+        "from": "T14n0469_001:0509c13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱多上字時，是真如無間斷聲。",
+        "from": "T14n0469_001:0509c14_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱佗上字時，是勢力進無畏聲。",
+        "from": "T14n0469_001:0509c15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱娜字時，是調伏律儀，寂靜安隱聲。",
+        "from": "T14n0469_001:0509c16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱馱字時，是七聖財聲。",
+        "from": "T14n0469_001:0509c17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱曩字時，是遍知名色聲。",
+        "from": "T14n0469_001:0509c18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱跛字時，是勝義聲。",
+        "from": "T14n0469_001:0509c19_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱頗字時，是得果作證聲。",
+        "from": "T14n0469_001:0509c20_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱麼字時，是解脫繫縛聲。",
+        "from": "T14n0469_001:0509c21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱婆字時，是出生三有聲。",
+        "from": "T14n0469_001:0509c22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱莽鼻聲、呼字時，是息憍慢聲。",
+        "from": "T14n0469_001:0509c23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱野字時，是佛通達聲。",
+        "from": "T14n0469_001:0509c24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱囉梨假反字時，是樂不樂勝義聲。",
+        "from": "T14n0469_001:0509c25_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱砢字時，是斷愛支聲。",
+        "from": "T14n0469_001:0509c26_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱嚩無可反字時，是最上乘聲。",
+        "from": "T14n0469_001:0509c27_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱捨字時，是出信進、念定慧聲。",
+        "from": "T14n0469_001:0509c28_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱灑字時，是制伏六處、得六神通智聲。",
+        "from": "T14n0469_001:0509c29_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱娑上字時，是現證一切智聲。",
+        "from": "T14n0469_001:0510a01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱賀字時，是害煩惱，離欲聲。",
+        "from": "T14n0469_001:0510a02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「稱乞灑二合字時，是一切文字究竟無言說聲。",
+        "from": "T14n0469_001:0510a03_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「文殊師利！",
+        "from": "T14n0469_001:0510a04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此謂字母義，一切諸字入於此中。",
+        "from": "T14n0469_001:0510a04_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」文殊問經字母品",
+        "from": "T14n0469_001:0510a05_100",
+        "context_with_next_sentence": false
+    }
+]

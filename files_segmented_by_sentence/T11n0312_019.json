@@ -1,225 +1,1557 @@
-{
-    "T11n0312_019:0745c21_0": "佛說如來不思議祕密大乘經卷",
-    "T11n0312_019:0745c22_0": "第十九",
-    "T11n0312_019:0745c24_0": "譯經三藏朝散大夫試光祿卿",
-    "T11n0312_019:0745c25_0": "光梵大師賜紫沙門臣惟淨等",
-    "T11n0312_019:0745c26_0": "奉　詔譯",
-    "T11n0312_019:0745c27_0": "阿闍世王問答品第二十二之二",
-    "T11n0312_019:0745c28_0": "復次阿闍世王白佛言：「世尊！",
-    "T11n0312_019:0745c28_1": "菩薩當修幾法，獲得自在之法趣向自在？」",
-    "T11n0312_019:0745c29_2": "佛言：「大王！",
-    "T11n0312_019:0745c29_3": "菩薩當修八法，即得自在之法趣向自在。",
-    "T11n0312_019:0746a01_4": "何等為八？",
-    "T11n0312_019:0746a02_0": "一者出美善語心意質直，二者心常柔軟，三者心善愛樂，四者心常平正，五者無諂，六者無誑，七者不嫉，八者心常調暢。",
-    "T11n0312_019:0746a04_1": "菩薩若具如是八法，即得自在之法趣向自在。」",
-    "T11n0312_019:0746a05_2": "阿闍世王復白佛言：「菩薩當修幾法，能於自在中住？」",
-    "T11n0312_019:0746a06_3": "佛言：「大王！",
-    "T11n0312_019:0746a07_4": "菩薩當修四法，能於自在中住。",
-    "T11n0312_019:0746a07_5": "何等為四？",
-    "T11n0312_019:0746a08_6": "一者若生人間，願為轉輪聖王，值佛出世。",
-    "T11n0312_019:0746a09_7": "二者願為帝釋，值佛出世。",
-    "T11n0312_019:0746a09_8": "三者願為娑婆界主大梵天王，值佛出世。",
-    "T11n0312_019:0746a10_9": "四者願為豪勝長者，值佛出世。",
-    "T11n0312_019:0746a11_10": "菩薩若具如是四法，能於自在中住。」",
-    "T11n0312_019:0746a12_11": "阿闍世王白佛言：「世尊！",
-    "T11n0312_019:0746a12_12": "淨信以何為畢竟？」",
-    "T11n0312_019:0746a13_13": "佛言：「大王！",
-    "T11n0312_019:0746a13_14": "善知識為畢竟。」",
-    "T11n0312_019:0746a13_15": "王言：「多聞何為畢竟？」",
-    "T11n0312_019:0746a14_16": "佛言：「多聞慧為畢竟。」",
-    "T11n0312_019:0746a14_17": "王言：「布施何為畢竟？」",
-    "T11n0312_019:0746a15_18": "佛言：「布施大富為畢竟。」",
-    "T11n0312_019:0746a16_0": "王言：「持戒何為畢竟？」",
-    "T11n0312_019:0746a16_1": "佛言：「持戒能生善趣而為畢竟。」",
-    "T11n0312_019:0746a17_2": "王言：「忍辱何為畢竟？」",
-    "T11n0312_019:0746a17_3": "佛言：「忍辱隨護眾生而為畢竟。」",
-    "T11n0312_019:0746a18_4": "王言：「精進何為畢竟？」",
-    "T11n0312_019:0746a19_0": "佛言：「精進善能圓滿一切佛法而為畢竟。」",
-    "T11n0312_019:0746a19_1": "王言：「禪定何為畢竟？」",
-    "T11n0312_019:0746a20_2": "佛言：「禪定近寂為畢竟。」",
-    "T11n0312_019:0746a21_0": "王言：「勝慧何為畢竟？」",
-    "T11n0312_019:0746a21_1": "佛言：「勝慧息諸煩惱而為畢竟。」",
-    "T11n0312_019:0746a22_2": "王言：「聽法何為畢竟？」",
-    "T11n0312_019:0746a22_3": "佛言：「聽法斷諸疑惑而為畢竟。」",
-    "T11n0312_019:0746a23_4": "王言：「問法何為畢竟？」",
-    "T11n0312_019:0746a23_5": "佛言：「問法離諸雜說而為畢竟。」",
-    "T11n0312_019:0746a24_6": "王言：「居處閑寂何為畢竟？」",
-    "T11n0312_019:0746a25_7": "佛言：「居處閑寂得禪定神通而為畢竟。」",
-    "T11n0312_019:0746a26_0": "王言：「觀想何為畢竟？」",
-    "T11n0312_019:0746a26_1": "佛言：「觀想離念為畢竟。」",
-    "T11n0312_019:0746a27_0": "王言：「無常聲何為畢竟？」",
-    "T11n0312_019:0746a27_1": "佛言：「無常聲離諸執著而為畢竟。」",
-    "T11n0312_019:0746a28_2": "王言：「苦聲何為畢竟？」",
-    "T11n0312_019:0746a28_3": "佛言：「苦聲無取為畢竟。」",
-    "T11n0312_019:0746a29_4": "王言：「無我聲何為畢竟？」",
-    "T11n0312_019:0746a29_5": "佛言：「無我聲滅我我所而為畢竟。」",
-    "T11n0312_019:0746b01_6": "王言：「寂靜聲何為畢竟？」",
-    "T11n0312_019:0746b02_7": "佛言：「寂靜聲隨止為畢竟。」",
-    "T11n0312_019:0746b02_8": "王言：「深固作意何為畢竟？」",
-    "T11n0312_019:0746b03_9": "佛言：「深固作意發起正見而為畢竟。」",
-    "T11n0312_019:0746b04_10": "王言：「若身心離何為畢竟？」",
-    "T11n0312_019:0746b04_11": "佛言：「身心離發起禪定神通而為畢竟。」",
-    "T11n0312_019:0746b05_12": "王言：「聖道何為畢竟？」",
-    "T11n0312_019:0746b06_13": "佛言：「聖道現前三昧果而為畢竟。」",
-    "T11n0312_019:0746b06_14": "王言：「信解何為畢竟？」",
-    "T11n0312_019:0746b07_15": "佛言：「信解解脫圓滿而為畢竟。」",
-    "T11n0312_019:0746b08_16": "王言：「諸佛出世何為畢竟？」",
-    "T11n0312_019:0746b08_17": "佛言：「諸佛出世成就一切菩提分法而為畢竟。」",
-    "T11n0312_019:0746b09_18": "王言：「如何是佛出世？」",
-    "T11n0312_019:0746b10_19": "佛言：「大王！",
-    "T11n0312_019:0746b10_20": "隨發菩提心即是佛出世。」",
-    "T11n0312_019:0746b11_0": "王言：「云何發菩提心？」",
-    "T11n0312_019:0746b11_1": "佛言：「所謂大悲出生。」",
-    "T11n0312_019:0746b11_2": "王言：「云何大悲出生？」",
-    "T11n0312_019:0746b12_3": "佛言：「謂即發起淨信。」",
-    "T11n0312_019:0746b12_4": "王言：「云何發起淨信？」",
-    "T11n0312_019:0746b13_5": "佛言：「若發菩提心即是發淨信。」",
-    "T11n0312_019:0746b14_6": "王言：「當云何發彼菩提心？」",
-    "T11n0312_019:0746b14_7": "佛言：「深心不退轉是發菩提心。」",
-    "T11n0312_019:0746b15_8": "王言：「云何是深心不退轉？」",
-    "T11n0312_019:0746b16_0": "佛言：「即是所起大悲。」",
-    "T11n0312_019:0746b16_1": "王言：「云何能發大悲？」",
-    "T11n0312_019:0746b16_2": "佛言：「於一切眾生不生厭捨之心即是大悲。」",
-    "T11n0312_019:0746b17_3": "王言：「云何於眾生得不厭捨？」",
-    "T11n0312_019:0746b18_4": "佛言：「所謂不著己樂。」",
-    "T11n0312_019:0746b19_5": "王言：「云何是不著己樂？」",
-    "T11n0312_019:0746b19_6": "佛言：「謂於三寶常不捨離。」",
-    "T11n0312_019:0746b20_7": "王言：「云何能於三寶不捨離邪？」",
-    "T11n0312_019:0746b20_8": "佛言：「若能除去一切煩惱，即於三寶而不捨離。」",
-    "T11n0312_019:0746b22_0": "爾時阿闍世王重復肅恭前白佛言：「希有世尊！",
-    "T11n0312_019:0746b23_1": "希有善逝！",
-    "T11n0312_019:0746b23_2": "善說如來清淨法律。",
-    "T11n0312_019:0746b23_3": "如來能善施設學處，復能隨順諸佛世尊所說正法，不壞因果遠離斷常，隨諸所說成辦事業，善惡果報俱無壞失，離諸虛誑如佛所說。",
-    "T11n0312_019:0746b26_4": "如是最上廣大清淨教中，誰人敢破？",
-    "T11n0312_019:0746b27_5": "復誰問難及生毀謗？",
-    "T11n0312_019:0746b28_6": "唯除不種善根諸罪業者。",
-    "T11n0312_019:0746b28_7": "世尊！",
-    "T11n0312_019:0746b28_8": "我昔不曾深種善根於佛勤孝，不能出自血肉報佛深恩。",
-    "T11n0312_019:0746c01_9": "願佛今時威力加護，令我一切煩惱、一切罪業皆悉消滅。",
-    "T11n0312_019:0746c02_10": "世尊！",
-    "T11n0312_019:0746c02_11": "彼妙吉祥童真菩薩是善知識，長夜利樂，為我息除諸有惡作，法光照我，我亦不能報彼深恩。",
-    "T11n0312_019:0746c04_12": "世尊大慈大善知識，能為我說普盡梵行最上正法。」",
-    "T11n0312_019:0746c06_0": "賢王天子品第二十三",
-    "T11n0312_019:0746c07_0": "爾時寂慧菩薩摩訶薩前白金剛手菩薩大祕密主言：「如佛世尊化所化事，汝祕密主！",
-    "T11n0312_019:0746c08_1": "可能隨作諸化事邪？」",
-    "T11n0312_019:0746c09_2": "金剛手菩薩言：「今佛現前為我作證！",
-    "T11n0312_019:0746c10_3": "所有殑伽沙數等諸佛如來諸有化事，而我亦能隨佛施作，所謂種種色相遊戲神通，但以宿世深心清淨而為畢竟。」",
-    "T11n0312_019:0746c13_0": "爾時寂慧菩薩復白金剛手菩薩大祕密主言：「我今勸請大祕密主，願以神力加持護念，令此正法於後時後分後五百歲廣宣流布，使彼正法所攝諸大士等，得此正法墮於手中。」",
-    "T11n0312_019:0746c17_1": "金剛手菩薩言：「善男子！",
-    "T11n0312_019:0746c17_2": "諸佛如來於此正法已共加持。",
-    "T11n0312_019:0746c18_3": "何以故？",
-    "T11n0312_019:0746c18_4": "今此正法即是文字所成，而彼文字無生無盡亦不隱沒，以其文字及所說義不能隱故。",
-    "T11n0312_019:0746c20_5": "如來此說甚深正法亦不能隱。",
-    "T11n0312_019:0746c21_6": "所以者何？",
-    "T11n0312_019:0746c21_7": "無法可生，若法無生即法無滅。",
-    "T11n0312_019:0746c22_8": "如是當知，如佛所言，若佛出世、若不出世，諸法常住，所謂法性、法界、法住，實際清淨，法如是故。",
-    "T11n0312_019:0746c24_9": "如其所說，諸法緣生亦不相違。",
-    "T11n0312_019:0746c25_0": "若法緣生不相違故，即是正法。",
-    "T11n0312_019:0746c25_1": "以正法故，即不隱沒。",
-    "T11n0312_019:0746c26_2": "如是所說乃名正法。」",
-    "T11n0312_019:0746c26_3": "寂慧菩薩言：「祕密主！",
-    "T11n0312_019:0746c27_4": "云何能被精進鎧攝護正法？」",
-    "T11n0312_019:0746c27_5": "金剛手菩薩言：「若於一切法不相違，即能被精進鎧攝護正法。",
-    "T11n0312_019:0746c29_6": "何以故？",
-    "T11n0312_019:0746c29_7": "而此正法與一切法不相違故。」",
-    "T11n0312_019:0747a01_8": "寂慧菩薩言：「何法是相違？」",
-    "T11n0312_019:0747a01_9": "金剛手菩薩言：「文字相違故即法相違，而不復與生法相違。",
-    "T11n0312_019:0747a03_0": "若彼不相違，是為攝護正法者。」",
-    "T11n0312_019:0747a03_1": "寂慧菩薩言：「彼攝護正法，有與一切世間相違不？」",
-    "T11n0312_019:0747a04_2": "金剛手菩薩言：「有。",
-    "T11n0312_019:0747a05_3": "善男子！",
-    "T11n0312_019:0747a05_4": "何以故？",
-    "T11n0312_019:0747a05_5": "世間眾生取著諸見，有執空語者，彼即世間相違。",
-    "T11n0312_019:0747a06_6": "又謂世間是常樂我淨，而世間者是無常，是苦、無我、不淨，彼即世間相違。",
-    "T11n0312_019:0747a08_7": "又世間眾生順生死流逆正法流，彼即世間相違。",
-    "T11n0312_019:0747a09_8": "又世間眾生尊現世法，護正法者尊他世法，彼即世間相違。",
-    "T11n0312_019:0747a10_9": "又世間眾生取蘊處界，護正法者說一切法無取著故，彼即世間相違。",
-    "T11n0312_019:0747a12_10": "寂慧當知，以是緣故，護正法者與彼世間相違。」",
-    "T11n0312_019:0747a13_11": "寂慧菩薩言：「大祕密主！",
-    "T11n0312_019:0747a14_0": "汝當云何攝護正法？」",
-    "T11n0312_019:0747a14_1": "金剛手菩薩言：「如我攝護者，謂無我、無眾生、無法而乃攝護。」",
-    "T11n0312_019:0747a15_2": "寂慧菩薩言：「此復云何？」",
-    "T11n0312_019:0747a16_3": "金剛手菩薩言：「謂我離故、眾生離故、法離故，我眾生法不離故。",
-    "T11n0312_019:0747a17_4": "過去離故、未來離故、現在離故，過去未來現在不離故。",
-    "T11n0312_019:0747a18_5": "三世離故，三世不離故。",
-    "T11n0312_019:0747a19_6": "諸佛離故，諸佛不離故。",
-    "T11n0312_019:0747a20_0": "剎土離故，剎土不離故。",
-    "T11n0312_019:0747a20_1": "法離故，法不離故。",
-    "T11n0312_019:0747a21_0": "若能通達如是法者，即能攝護正法。」",
-    "T11n0312_019:0747a22_0": "爾時世尊讚金剛手菩薩大祕密主言：「善哉善哉！",
-    "T11n0312_019:0747a23_1": "大士！",
-    "T11n0312_019:0747a23_2": "汝善攝護正法。",
-    "T11n0312_019:0747a23_3": "若於一切法無執無取，即能攝護正法。",
-    "T11n0312_019:0747a24_4": "若於一切法有相戲論無取無集，乃至一切分別遍計悉無分別，即能攝護正法。」",
-    "T11n0312_019:0747a27_0": "爾時會中有一天子名曰賢王，前白佛言：「世尊！",
-    "T11n0312_019:0747a28_1": "近止、近寂是佛所說。",
-    "T11n0312_019:0747a28_2": "若如所說者，即一切所緣皆悉寂止而無所觀，以彼近寂不復和合發生諸法。",
-    "T11n0312_019:0747b01_3": "雖法寂靜遍寂近寂，而復任持如來正法亦不棄捨。",
-    "T11n0312_019:0747b02_4": "雖復任持，然於一切法無所任持亦無棄捨。」",
-    "T11n0312_019:0747b03_5": "當彼天子說是法時，會中有千苾芻得心解脫，有千天子得法眼淨。",
-    "T11n0312_019:0747b05_0": "爾時寂慧菩薩白賢王天子言「云何得是辯才？」",
-    "T11n0312_019:0747b06_1": "天子答言：「能斷一切習氣，離語言道、無所記說，勝義諦中無法可取，故得辯才。」",
-    "T11n0312_019:0747b07_2": "寂慧菩薩言：「天子！",
-    "T11n0312_019:0747b08_3": "辯才云何出生？」",
-    "T11n0312_019:0747b08_4": "天子言：「無辯才故、離辯才故。",
-    "T11n0312_019:0747b09_5": "所以者何？",
-    "T11n0312_019:0747b09_6": "無辯才者，此說即是無和合義。",
-    "T11n0312_019:0747b10_7": "離辯才者，此說即是離戲論義。",
-    "T11n0312_019:0747b10_8": "復次善男子！",
-    "T11n0312_019:0747b11_9": "如所說故，何有辯才可得？",
-    "T11n0312_019:0747b11_10": "若為他表了識即不轉，若自表了識亦無住，以如是故乃得辯才。",
-    "T11n0312_019:0747b13_11": "若於諸所緣以意表了者又無障礙，法性之中而無所住，故得辯才。",
-    "T11n0312_019:0747b14_12": "又一切法中智無所轉，無有少法智可知解，故得辯才。",
-    "T11n0312_019:0747b16_13": "又無住法中無出無入越諸染法，故得辯才。",
-    "T11n0312_019:0747b17_14": "又一切法無生而生、無滅而滅，故得辯才。」",
-    "T11n0312_019:0747b18_0": "爾時寂慧菩薩白佛言：「希有世尊！",
-    "T11n0312_019:0747b18_1": "此賢王天子具大辯才。」",
-    "T11n0312_019:0747b19_2": "佛言：「寂慧！",
-    "T11n0312_019:0747b19_3": "此賢王天子從極樂世界阿閦佛剎中而來至此，欲聽金剛手菩薩大祕密主宣說如來祕密正法。",
-    "T11n0312_019:0747b21_4": "又此天子已得隨入一切法相陀羅尼故，於百劫中無所願求，自然獲得無礙辯才，隨所宣說辯才無礙。」",
-    "T11n0312_019:0747b25_0": "總持功德讚說譬喻無盡品第二十四之一爾時寂慧菩薩白佛言：「世尊！",
-    "T11n0312_019:0747b26_1": "云何名為隨入一切法相陀羅尼？」",
-    "T11n0312_019:0747b27_2": "佛言：「寂慧！",
-    "T11n0312_019:0747b27_3": "隨入法相者，即是文字無盡隨入之智，謂阿字門隨入一切法故。",
-    "T11n0312_019:0747b29_4": "又阿字者，是即諸法出生之門。",
-    "T11n0312_019:0747b29_5": "又阿字者，是即諸法初生後際。",
-    "T11n0312_019:0747c01_6": "又阿字者，於一切處成辦事業，隨起語業，無所了知非無了知。",
-    "T11n0312_019:0747c03_0": "以阿字門隨入一切法故，此說是名隨入法相陀羅尼門。",
-    "T11n0312_019:0747c05_0": "「復次寂慧！",
-    "T11n0312_019:0747c05_1": "所言隨入者，於一切處無有少法如微塵許可出可入，無文字故。",
-    "T11n0312_019:0747c06_2": "從何所來、復從何入、中亦何住，以其文字中無住故，而即無出何方而去。",
-    "T11n0312_019:0747c08_3": "又以文字無和合故，即無文字而可記說，亦非無說無增無減。",
-    "T11n0312_019:0747c09_4": "以無文字故，無有是法亦無非法而可分別。",
-    "T11n0312_019:0747c10_5": "以無文字故，無法可生、無法可滅，無法可成、無法可壞。",
-    "T11n0312_019:0747c12_0": "寂慧當知，如是文字算數，即是心之算數。",
-    "T11n0312_019:0747c12_1": "如心算數，即是一切法算數。",
-    "T11n0312_019:0747c13_2": "如一切法算數，即非算數。",
-    "T11n0312_019:0747c14_3": "何以故？",
-    "T11n0312_019:0747c14_4": "法無算數可得故。",
-    "T11n0312_019:0747c14_5": "以無算數法可算數故，即一切法算數不可得。",
-    "T11n0312_019:0747c15_6": "如是即能隨入法相，本來如是隨入無生，若入無生亦復無起，此即無有少法可入，是故諸法無入而入。",
-    "T11n0312_019:0747c18_7": "寂慧！",
-    "T11n0312_019:0747c18_8": "若能如是入諸算數，即於辯才而不能斷。",
-    "T11n0312_019:0747c19_9": "何以故？",
-    "T11n0312_019:0747c19_10": "法性無斷故。",
-    "T11n0312_019:0747c19_11": "若如是通達，即能隨應為他說法，隨有所說現前作證。",
-    "T11n0312_019:0747c20_12": "由如是隨入諸法相故，即是隨入眾生相。",
-    "T11n0312_019:0747c21_13": "以其隨入眾生相故，即如所信解善說諸法。",
-    "T11n0312_019:0747c22_14": "寂慧！",
-    "T11n0312_019:0747c23_0": "得陀羅尼菩薩，其心離垢意樂清淨正行潔白，其心高勝所行善住妙慧最上，而獲神通堅固圓滿，不為魔軍之所破壞，降伏外道制諸煩惱解除怨結，身有力勢心無疲倦，辯才無盡演法無邊善說無際，勝智無礙具深妙慧，善說深法多聞如海，住三摩地如須彌山。",
-    "T11n0312_019:0747c29_0": "所有眾會如師子王，世法清淨如彼蓮花，長養眾生如其大地，息煩惱愛猶如大水，成熟眾生猶如大火，於一切眾生起平等心猶如妙月，破煩惱癡暗猶如大日，除煩惱怨如勇力者，心善調伏猶如大龍，高振法音如大雲吼，普施法雨如澍大雨，療治眾生諸煩惱病如大醫王，作大法王如王自在，善護世法如護世天，善觀天人如帝釋天主，心得自在具增上力猶如梵王，無所繫著猶如飛鳥，怖諸憒閙猶如猴鹿，於一切眾生忍伏諸惡猶如慈母，教授藝能開諸學門猶如慈父，施諸法寶流注無盡如毘沙門天王。",
-    "T11n0312_019:0748a11_1": "得福莊嚴具諸相好，人所樂觀見者歡喜，具七珍財無貧乏苦，攝諸無智稱讚智者，具智慧故離諸過失，善護諸天、善護諸龍及夜叉等，說法自在神通無礙，了知一切眾生意樂，隨入一切眾生根性。",
-    "T11n0312_019:0748a16_2": "聽法無厭，不求一切名聞利養說法無吝。",
-    "T11n0312_019:0748a17_3": "無染著故具戒清淨，無怨害故忍力清淨，善能成辦諸事業故精進清淨，得自在故禪定清淨，潔白智故勝慧清淨，梵行最上故具四無量，善修出世靜慮等持，成就無上菩提聖道。",
-    "T11n0312_019:0748a21_4": "以具如是諸相功德故，當得無上法王灌頂。",
-    "T11n0312_019:0748a22_5": "寂慧當知，得陀羅尼菩薩尚獲如是無量功德，若復如來神力加持，諸有事業皆得。",
-    "T11n0312_019:0748a24_0": "陀羅尼菩薩功德，經百千歲稱讚譬喻而不能盡。」",
-    "T11n0312_019:0748a26_0": "爾時寂慧菩薩白賢王天子言：「仁者！",
-    "T11n0312_019:0748a26_1": "汝今快得善利，能善稱讚如來無量無邊功德。」",
-    "T11n0312_019:0748a27_2": "時賢王天子白寂慧菩薩言：「善男子！",
-    "T11n0312_019:0748a28_3": "勝義諦中無有少法可得稱讚。",
-    "T11n0312_019:0748a29_4": "何以故？",
-    "T11n0312_019:0748a29_5": "法無有相，非形顯色，是故功德不能稱讚得其邊際。",
-    "T11n0312_019:0748b01_6": "若形顯色中決定有相者，即可以言詞宣說稱讚。」",
-    "T11n0312_019:0748b03_0": "佛說如來不思議祕密大乘經卷第十九"
-}
+[
+    {
+        "source_sentence": "佛說如來不思議祕密大乘經卷",
+        "from": "T11n0312_019:0745c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第十九",
+        "from": "T11n0312_019:0745c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譯經三藏朝散大夫試光祿卿",
+        "from": "T11n0312_019:0745c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "光梵大師賜紫沙門臣惟淨等奉　詔譯阿闍世王問答品第二十二之二復次阿闍世王白佛言：",
+        "from": "T11n0312_019:0745c28_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T11n0312_019:0745c28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩當修幾法，獲得自在之法趣向自在？",
+        "from": "T11n0312_019:0745c29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0745c29_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大王！",
+        "from": "T11n0312_019:0745c29_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩當修八法，即得自在之法趣向自在。",
+        "from": "T11n0312_019:0746a01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為八？",
+        "from": "T11n0312_019:0746a01_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者出美善語心意質直，二者心常柔軟，三者心善愛樂，四者心常平正，五者無諂，六者無誑，七者不嫉，八者心常調暢。",
+        "from": "T11n0312_019:0746a04_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若具如是八法，即得自在之法趣向自在。",
+        "from": "T11n0312_019:0746a05_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」阿闍世王復白佛言：",
+        "from": "T11n0312_019:0746a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「菩薩當修幾法，能於自在中住？",
+        "from": "T11n0312_019:0746a06_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大王！",
+        "from": "T11n0312_019:0746a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩當修四法，能於自在中住。",
+        "from": "T11n0312_019:0746a07_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T11n0312_019:0746a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者若生人間，願為轉輪聖王，值佛出世。",
+        "from": "T11n0312_019:0746a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者願為帝釋，值佛出世。",
+        "from": "T11n0312_019:0746a09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者願為娑婆界主大梵天王，值佛出世。",
+        "from": "T11n0312_019:0746a10_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者願為豪勝長者，值佛出世。",
+        "from": "T11n0312_019:0746a11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若具如是四法，能於自在中住。",
+        "from": "T11n0312_019:0746a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」阿闍世王白佛言：",
+        "from": "T11n0312_019:0746a12_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T11n0312_019:0746a12_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨信以何為畢竟？",
+        "from": "T11n0312_019:0746a13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大王！",
+        "from": "T11n0312_019:0746a13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善知識為畢竟。",
+        "from": "T11n0312_019:0746a13_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a13_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「多聞何為畢竟？",
+        "from": "T11n0312_019:0746a14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「多聞慧為畢竟。",
+        "from": "T11n0312_019:0746a14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a14_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「布施何為畢竟？",
+        "from": "T11n0312_019:0746a15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「布施大富為畢竟。",
+        "from": "T11n0312_019:0746a15_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「持戒何為畢竟？",
+        "from": "T11n0312_019:0746a16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「持戒能生善趣而為畢竟。",
+        "from": "T11n0312_019:0746a17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「忍辱何為畢竟？",
+        "from": "T11n0312_019:0746a17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a17_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「忍辱隨護眾生而為畢竟。",
+        "from": "T11n0312_019:0746a18_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「精進何為畢竟？",
+        "from": "T11n0312_019:0746a18_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「精進善能圓滿一切佛法而為畢竟。",
+        "from": "T11n0312_019:0746a19_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「禪定何為畢竟？",
+        "from": "T11n0312_019:0746a20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「禪定近寂為畢竟。",
+        "from": "T11n0312_019:0746a20_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「勝慧何為畢竟？",
+        "from": "T11n0312_019:0746a21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a21_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「勝慧息諸煩惱而為畢竟。",
+        "from": "T11n0312_019:0746a22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「聽法何為畢竟？",
+        "from": "T11n0312_019:0746a22_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a22_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「聽法斷諸疑惑而為畢竟。",
+        "from": "T11n0312_019:0746a23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「問法何為畢竟？",
+        "from": "T11n0312_019:0746a23_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a23_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「問法離諸雜說而為畢竟。",
+        "from": "T11n0312_019:0746a24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「居處閑寂何為畢竟？",
+        "from": "T11n0312_019:0746a25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a25_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「居處閑寂得禪定神通而為畢竟。",
+        "from": "T11n0312_019:0746a25_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「觀想何為畢竟？",
+        "from": "T11n0312_019:0746a26_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a26_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「觀想離念為畢竟。",
+        "from": "T11n0312_019:0746a26_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「無常聲何為畢竟？",
+        "from": "T11n0312_019:0746a27_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a27_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「無常聲離諸執著而為畢竟。",
+        "from": "T11n0312_019:0746a28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a28_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「苦聲何為畢竟？",
+        "from": "T11n0312_019:0746a28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a28_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「苦聲無取為畢竟。",
+        "from": "T11n0312_019:0746a29_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746a29_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「無我聲何為畢竟？",
+        "from": "T11n0312_019:0746a29_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746a29_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「無我聲滅我我所而為畢竟。",
+        "from": "T11n0312_019:0746b01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「寂靜聲何為畢竟？",
+        "from": "T11n0312_019:0746b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「寂靜聲隨止為畢竟。",
+        "from": "T11n0312_019:0746b02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b02_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「深固作意何為畢竟？",
+        "from": "T11n0312_019:0746b03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「深固作意發起正見而為畢竟。",
+        "from": "T11n0312_019:0746b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若身心離何為畢竟？",
+        "from": "T11n0312_019:0746b04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b04_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「身心離發起禪定神通而為畢竟。",
+        "from": "T11n0312_019:0746b05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b05_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「聖道何為畢竟？",
+        "from": "T11n0312_019:0746b06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「聖道現前三昧果而為畢竟。",
+        "from": "T11n0312_019:0746b06_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b06_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「信解何為畢竟？",
+        "from": "T11n0312_019:0746b07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「信解解脫圓滿而為畢竟。",
+        "from": "T11n0312_019:0746b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「諸佛出世何為畢竟？",
+        "from": "T11n0312_019:0746b08_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b08_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「諸佛出世成就一切菩提分法而為畢竟。",
+        "from": "T11n0312_019:0746b09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b09_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如何是佛出世？",
+        "from": "T11n0312_019:0746b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大王！",
+        "from": "T11n0312_019:0746b10_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨發菩提心即是佛出世。",
+        "from": "T11n0312_019:0746b10_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「云何發菩提心？",
+        "from": "T11n0312_019:0746b11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b11_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「所謂大悲出生。",
+        "from": "T11n0312_019:0746b11_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「云何大悲出生？",
+        "from": "T11n0312_019:0746b12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「謂即發起淨信。",
+        "from": "T11n0312_019:0746b12_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「云何發起淨信？",
+        "from": "T11n0312_019:0746b13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若發菩提心即是發淨信。",
+        "from": "T11n0312_019:0746b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「當云何發彼菩提心？",
+        "from": "T11n0312_019:0746b14_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b14_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「深心不退轉是發菩提心。",
+        "from": "T11n0312_019:0746b15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「云何是深心不退轉？",
+        "from": "T11n0312_019:0746b15_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「即是所起大悲。",
+        "from": "T11n0312_019:0746b16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「云何能發大悲？",
+        "from": "T11n0312_019:0746b16_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「於一切眾生不生厭捨之心即是大悲。",
+        "from": "T11n0312_019:0746b17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「云何於眾生得不厭捨？",
+        "from": "T11n0312_019:0746b18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「所謂不著己樂。",
+        "from": "T11n0312_019:0746b19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「云何是不著己樂？",
+        "from": "T11n0312_019:0746b19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b19_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「謂於三寶常不捨離。",
+        "from": "T11n0312_019:0746b20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_019:0746b20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「云何能於三寶不捨離邪？",
+        "from": "T11n0312_019:0746b20_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0746b20_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若能除去一切煩惱，即於三寶而不捨離。",
+        "from": "T11n0312_019:0746b21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時阿闍世王重復肅恭前白佛言：",
+        "from": "T11n0312_019:0746b22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「希有世尊！",
+        "from": "T11n0312_019:0746b23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "希有善逝！",
+        "from": "T11n0312_019:0746b23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善說如來清淨法律。",
+        "from": "T11n0312_019:0746b23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來能善施設學處，復能隨順諸佛世尊所說正法，不壞因果遠離斷常，隨諸所說成辦事業，善惡果報俱無壞失，離諸虛誑如佛所說。",
+        "from": "T11n0312_019:0746b26_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是最上廣大清淨教中，誰人敢破？",
+        "from": "T11n0312_019:0746b27_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復誰問難及生毀謗？",
+        "from": "T11n0312_019:0746b28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯除不種善根諸罪業者。",
+        "from": "T11n0312_019:0746b28_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T11n0312_019:0746b28_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我昔不曾深種善根於佛勤孝，不能出自血肉報佛深恩。",
+        "from": "T11n0312_019:0746c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願佛今時威力加護，令我一切煩惱、一切罪業皆悉消滅。",
+        "from": "T11n0312_019:0746c02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T11n0312_019:0746c02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼妙吉祥童真菩薩是善知識，長夜利樂，為我息除諸有惡作，法光照我，我亦不能報彼深恩。",
+        "from": "T11n0312_019:0746c04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊大慈大善知識，能為我說普盡梵行最上正法。",
+        "from": "T11n0312_019:0746c05_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」23 賢王天子品賢王天子品第二十三爾時寂慧菩薩摩訶薩前白金剛手菩薩大祕密主言：",
+        "from": "T11n0312_019:0746c08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如佛世尊化所化事，汝祕密主！",
+        "from": "T11n0312_019:0746c08_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "可能隨作諸化事邪？",
+        "from": "T11n0312_019:0746c09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」金剛手菩薩言：",
+        "from": "T11n0312_019:0746c09_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「今佛現前為我作證！",
+        "from": "T11n0312_019:0746c10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有殑伽沙數等諸佛如來諸有化事，而我亦能隨佛施作，所謂種種色相遊戲神通，但以宿世深心清淨而為畢竟。",
+        "from": "T11n0312_019:0746c12_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時寂慧菩薩復白金剛手菩薩大祕密主言：",
+        "from": "T11n0312_019:0746c14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我今勸請大祕密主，願以神力加持護念，令此正法於後時後分後五百歲廣宣流布，使彼正法所攝諸大士等，得此正法墮於手中。",
+        "from": "T11n0312_019:0746c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」金剛手菩薩言：",
+        "from": "T11n0312_019:0746c17_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「善男子！",
+        "from": "T11n0312_019:0746c17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸佛如來於此正法已共加持。",
+        "from": "T11n0312_019:0746c18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T11n0312_019:0746c18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今此正法即是文字所成，而彼文字無生無盡亦不隱沒，以其文字及所說義不能隱故。",
+        "from": "T11n0312_019:0746c20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來此說甚深正法亦不能隱。",
+        "from": "T11n0312_019:0746c21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所以者何？",
+        "from": "T11n0312_019:0746c21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無法可生，若法無生即法無滅。",
+        "from": "T11n0312_019:0746c22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是當知，如佛所言，若佛出世、若不出世，諸法常住，所謂法性、法界、法住，實際清淨，法如是故。",
+        "from": "T11n0312_019:0746c24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如其所說，諸法緣生亦不相違。",
+        "from": "T11n0312_019:0746c24_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若法緣生不相違故，即是正法。",
+        "from": "T11n0312_019:0746c25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以正法故，即不隱沒。",
+        "from": "T11n0312_019:0746c26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是所說乃名正法。",
+        "from": "T11n0312_019:0746c26_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」寂慧菩薩言：",
+        "from": "T11n0312_019:0746c26_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「祕密主！",
+        "from": "T11n0312_019:0746c27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何能被精進鎧攝護正法？",
+        "from": "T11n0312_019:0746c27_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」金剛手菩薩言：",
+        "from": "T11n0312_019:0746c28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若於一切法不相違，即能被精進鎧攝護正法。",
+        "from": "T11n0312_019:0746c29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T11n0312_019:0746c29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而此正法與一切法不相違故。",
+        "from": "T11n0312_019:0747a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」寂慧菩薩言：",
+        "from": "T11n0312_019:0747a01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「何法是相違？",
+        "from": "T11n0312_019:0747a01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」金剛手菩薩言：",
+        "from": "T11n0312_019:0747a01_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「文字相違故即法相違，而不復與生法相違。",
+        "from": "T11n0312_019:0747a02_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若彼不相違，是為攝護正法者。",
+        "from": "T11n0312_019:0747a03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」寂慧菩薩言：",
+        "from": "T11n0312_019:0747a03_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「彼攝護正法，有與一切世間相違不？",
+        "from": "T11n0312_019:0747a04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」金剛手菩薩言：",
+        "from": "T11n0312_019:0747a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「有。",
+        "from": "T11n0312_019:0747a05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T11n0312_019:0747a05_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T11n0312_019:0747a05_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世間眾生取著諸見，有執空語者，彼即世間相違。",
+        "from": "T11n0312_019:0747a06_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又謂世間是常樂我淨，而世間者是無常，是苦、無我、不淨，彼即世間相違。",
+        "from": "T11n0312_019:0747a08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又世間眾生順生死流逆正法流，彼即世間相違。",
+        "from": "T11n0312_019:0747a09_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又世間眾生尊現世法，護正法者尊他世法，彼即世間相違。",
+        "from": "T11n0312_019:0747a10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又世間眾生取蘊處界，護正法者說一切法無取著故，彼即世間相違。",
+        "from": "T11n0312_019:0747a12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寂慧當知，以是緣故，護正法者與彼世間相違。",
+        "from": "T11n0312_019:0747a13_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」寂慧菩薩言：",
+        "from": "T11n0312_019:0747a13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大祕密主！",
+        "from": "T11n0312_019:0747a13_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝當云何攝護正法？",
+        "from": "T11n0312_019:0747a14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」金剛手菩薩言：",
+        "from": "T11n0312_019:0747a14_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如我攝護者，謂無我、無眾生、無法而乃攝護。",
+        "from": "T11n0312_019:0747a15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」寂慧菩薩言：",
+        "from": "T11n0312_019:0747a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此復云何？",
+        "from": "T11n0312_019:0747a16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」金剛手菩薩言：",
+        "from": "T11n0312_019:0747a16_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「謂我離故、眾生離故、法離故，我眾生法不離故。",
+        "from": "T11n0312_019:0747a17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "過去離故、未來離故、現在離故，過去未來現在不離故。",
+        "from": "T11n0312_019:0747a18_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三世離故，三世不離故。",
+        "from": "T11n0312_019:0747a19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸佛離故，諸佛不離故。",
+        "from": "T11n0312_019:0747a19_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剎土離故，剎土不離故。",
+        "from": "T11n0312_019:0747a20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法離故，法不離故。",
+        "from": "T11n0312_019:0747a20_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能通達如是法者，即能攝護正法。",
+        "from": "T11n0312_019:0747a21_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊讚金剛手菩薩大祕密主言：",
+        "from": "T11n0312_019:0747a22_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「善哉善哉！",
+        "from": "T11n0312_019:0747a23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大士！",
+        "from": "T11n0312_019:0747a23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝善攝護正法。",
+        "from": "T11n0312_019:0747a23_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若於一切法無執無取，即能攝護正法。",
+        "from": "T11n0312_019:0747a24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若於一切法有相戲論無取無集，乃至一切分別遍計悉無分別，即能攝護正法。",
+        "from": "T11n0312_019:0747a26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時會中有一天子名曰賢王，前白佛言：",
+        "from": "T11n0312_019:0747a27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T11n0312_019:0747a28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "近止、近寂是佛所說。",
+        "from": "T11n0312_019:0747a28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若如所說者，即一切所緣皆悉寂止而無所觀，以彼近寂不復和合發生諸法。",
+        "from": "T11n0312_019:0747b01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖法寂靜遍寂近寂，而復任持如來正法亦不棄捨。",
+        "from": "T11n0312_019:0747b02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖復任持，然於一切法無所任持亦無棄捨。",
+        "from": "T11n0312_019:0747b03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」當彼天子說是法時，會中有千苾芻得心解脫，有千天子得法眼淨。",
+        "from": "T11n0312_019:0747b04_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時寂慧菩薩白賢王天子言「云何得是辯才？",
+        "from": "T11n0312_019:0747b06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」天子答言：",
+        "from": "T11n0312_019:0747b06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「能斷一切習氣，離語言道、無所記說，勝義諦中無法可取，故得辯才。",
+        "from": "T11n0312_019:0747b07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」寂慧菩薩言：",
+        "from": "T11n0312_019:0747b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「天子！",
+        "from": "T11n0312_019:0747b08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辯才云何出生？",
+        "from": "T11n0312_019:0747b08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」天子言：",
+        "from": "T11n0312_019:0747b08_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「無辯才故、離辯才故。",
+        "from": "T11n0312_019:0747b09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所以者何？",
+        "from": "T11n0312_019:0747b09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無辯才者，此說即是無和合義。",
+        "from": "T11n0312_019:0747b10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離辯才者，此說即是離戲論義。",
+        "from": "T11n0312_019:0747b10_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復次善男子！",
+        "from": "T11n0312_019:0747b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如所說故，何有辯才可得？",
+        "from": "T11n0312_019:0747b11_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若為他表了識即不轉，若自表了識亦無住，以如是故乃得辯才。",
+        "from": "T11n0312_019:0747b13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若於諸所緣以意表了者又無障礙，法性之中而無所住，故得辯才。",
+        "from": "T11n0312_019:0747b14_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又一切法中智無所轉，無有少法智可知解，故得辯才。",
+        "from": "T11n0312_019:0747b16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又無住法中無出無入越諸染法，故得辯才。",
+        "from": "T11n0312_019:0747b17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又一切法無生而生、無滅而滅，故得辯才。",
+        "from": "T11n0312_019:0747b17_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時寂慧菩薩白佛言：",
+        "from": "T11n0312_019:0747b18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「希有世尊！",
+        "from": "T11n0312_019:0747b18_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此賢王天子具大辯才。",
+        "from": "T11n0312_019:0747b19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0747b19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「寂慧！",
+        "from": "T11n0312_019:0747b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此賢王天子從極樂世界阿閦佛剎中而來至此，欲聽金剛手菩薩大祕密主宣說如來祕密正法。",
+        "from": "T11n0312_019:0747b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又此天子已得隨入一切法相陀羅尼故，於百劫中無所願求，自然獲得無礙辯才，隨所宣說辯才無礙。",
+        "from": "T11n0312_019:0747b24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」24 總持功德讚說譬喻無盡品總持功德讚說譬喻無盡品第二十四之一爾時寂慧菩薩白佛言：",
+        "from": "T11n0312_019:0747b26_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T11n0312_019:0747b26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何名為隨入一切法相陀羅尼？",
+        "from": "T11n0312_019:0747b27_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_019:0747b27_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「寂慧！",
+        "from": "T11n0312_019:0747b27_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨入法相者，即是文字無盡隨入之智，謂阿字門隨入一切法故。",
+        "from": "T11n0312_019:0747b29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又阿字者，是即諸法出生之門。",
+        "from": "T11n0312_019:0747b29_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又阿字者，是即諸法初生後際。",
+        "from": "T11n0312_019:0747c01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又阿字者，於一切處成辦事業，隨起語業，無所了知非無了知。",
+        "from": "T11n0312_019:0747c02_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以阿字門隨入一切法故，此說是名隨入法相陀羅尼門。",
+        "from": "T11n0312_019:0747c04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「復次寂慧！",
+        "from": "T11n0312_019:0747c05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所言隨入者，於一切處無有少法如微塵許可出可入，無文字故。",
+        "from": "T11n0312_019:0747c06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從何所來、復從何入、中亦何住，以其文字中無住故，而即無出何方而去。",
+        "from": "T11n0312_019:0747c08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又以文字無和合故，即無文字而可記說，亦非無說無增無減。",
+        "from": "T11n0312_019:0747c09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無文字故，無有是法亦無非法而可分別。",
+        "from": "T11n0312_019:0747c10_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無文字故，無法可生、無法可滅，無法可成、無法可壞。",
+        "from": "T11n0312_019:0747c11_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寂慧當知，如是文字算數，即是心之算數。",
+        "from": "T11n0312_019:0747c12_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如心算數，即是一切法算數。",
+        "from": "T11n0312_019:0747c13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如一切法算數，即非算數。",
+        "from": "T11n0312_019:0747c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T11n0312_019:0747c14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法無算數可得故。",
+        "from": "T11n0312_019:0747c14_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無算數法可算數故，即一切法算數不可得。",
+        "from": "T11n0312_019:0747c15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是即能隨入法相，本來如是隨入無生，若入無生亦復無起，此即無有少法可入，是故諸法無入而入。",
+        "from": "T11n0312_019:0747c18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寂慧！",
+        "from": "T11n0312_019:0747c18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能如是入諸算數，即於辯才而不能斷。",
+        "from": "T11n0312_019:0747c19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T11n0312_019:0747c19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法性無斷故。",
+        "from": "T11n0312_019:0747c19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若如是通達，即能隨應為他說法，隨有所說現前作證。",
+        "from": "T11n0312_019:0747c20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由如是隨入諸法相故，即是隨入眾生相。",
+        "from": "T11n0312_019:0747c21_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以其隨入眾生相故，即如所信解善說諸法。",
+        "from": "T11n0312_019:0747c22_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寂慧！",
+        "from": "T11n0312_019:0747c22_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得陀羅尼菩薩，其心離垢意樂清淨正行潔白，其心高勝所行善住妙慧最上，而獲神通堅固圓滿，不為魔軍之所破壞，降伏外道制諸煩惱解除怨結，身有力勢心無疲倦，辯才無盡演法無邊善說無際，勝智無礙具深妙慧，善說深法多聞如海，住三摩地如須彌山。",
+        "from": "T11n0312_019:0747c28_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有眾會如師子王，世法清淨如彼蓮花，長養眾生如其大地，息煩惱愛猶如大水，成熟眾生猶如大火，於一切眾生起平等心猶如妙月，破煩惱癡暗猶如大日，除煩惱怨如勇力者，心善調伏猶如大龍，高振法音如大雲吼，普施法雨如澍大雨，療治眾生諸煩惱病如大醫王，作大法王如王自在，善護世法如護世天，善觀天人如帝釋天主，心得自在具增上力猶如梵王，無所繫著猶如飛鳥，怖諸憒閙猶如猴鹿，於一切眾生忍伏諸惡猶如慈母，教授藝能開諸學門猶如慈父，施諸法寶流注無盡如毘沙門天王。",
+        "from": "T11n0312_019:0748a11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得福莊嚴具諸相好，人所樂觀見者歡喜，具七珍財無貧乏苦，攝諸無智稱讚智者，具智慧故離諸過失，善護諸天、善護諸龍及夜叉等，說法自在神通無礙，了知一切眾生意樂，隨入一切眾生根性。",
+        "from": "T11n0312_019:0748a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聽法無厭，不求一切名聞利養說法無吝。",
+        "from": "T11n0312_019:0748a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無染著故具戒清淨，無怨害故忍力清淨，善能成辦諸事業故精進清淨，得自在故禪定清淨，潔白智故勝慧清淨，梵行最上故具四無量，善修出世靜慮等持，成就無上菩提聖道。",
+        "from": "T11n0312_019:0748a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以具如是諸相功德故，當得無上法王灌頂。",
+        "from": "T11n0312_019:0748a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寂慧當知，得陀羅尼菩薩尚獲如是無量功德，若復如來神力加持，諸有事業皆得。",
+        "from": "T11n0312_019:0748a23_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陀羅尼菩薩功德，經百千歲稱讚譬喻而不能盡。",
+        "from": "T11n0312_019:0748a25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時寂慧菩薩白賢王天子言：",
+        "from": "T11n0312_019:0748a26_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「仁者！",
+        "from": "T11n0312_019:0748a26_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝今快得善利，能善稱讚如來無量無邊功德。",
+        "from": "T11n0312_019:0748a27_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時賢王天子白寂慧菩薩言：",
+        "from": "T11n0312_019:0748a28_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「善男子！",
+        "from": "T11n0312_019:0748a28_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勝義諦中無有少法可得稱讚。",
+        "from": "T11n0312_019:0748a29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T11n0312_019:0748a29_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法無有相，非形顯色，是故功德不能稱讚得其邊際。",
+        "from": "T11n0312_019:0748b01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若形顯色中決定有相者，即可以言詞宣說稱讚。",
+        "from": "T11n0312_019:0748b02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛說如來不思議祕密大乘經卷第十九",
+        "from": "T11n0312_019:0748b03_100",
+        "context_with_next_sentence": false
+    }
+]

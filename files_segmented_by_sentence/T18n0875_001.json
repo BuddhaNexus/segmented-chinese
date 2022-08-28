@@ -1,116 +1,607 @@
-{
-    "T18n0875_001:0322b13_0": "蓮華部心念誦儀軌",
-    "T18n0875_001:0322b15_0": "淨地。",
-    "T18n0875_001:0322b17_0": "淨身。",
-    "T18n0875_001:0322b19_0": "觀佛。",
-    "T18n0875_001:0322b21_0": "金剛起。",
-    "T18n0875_001:0322b23_0": "阿閦。",
-    "T18n0875_001:0322b26_0": "寶生。",
-    "T18n0875_001:0322b29_0": "無量壽。",
-    "T18n0875_001:0322c04_0": "不空成就。",
-    "T18n0875_001:0322c07_0": "金剛持。",
-    "T18n0875_001:0322c10_0": "證定。",
-    "T18n0875_001:0322c13_0": "遍觀。",
-    "T18n0875_001:0322c15_0": "金剛掌。",
-    "T18n0875_001:0322c17_0": "金剛縛。",
-    "T18n0875_001:0322c19_0": "開心。",
-    "T18n0875_001:0322c21_0": "入智。",
-    "T18n0875_001:0322c23_0": "堅固智。",
-    "T18n0875_001:0322c25_0": "普賢三昧耶。",
-    "T18n0875_001:0322c27_0": "極喜三昧耶。",
-    "T18n0875_001:0322c29_0": "降三世。",
-    "T18n0875_001:0323a03_0": "蓮花三昧耶。",
-    "T18n0875_001:0323a05_0": "法輪。",
-    "T18n0875_001:0323a08_0": "大慾。",
-    "T18n0875_001:0323a10_0": "大樂金剛。",
-    "T18n0875_001:0323a13_0": "召罪。",
-    "T18n0875_001:0323a16_0": "擢罪。",
-    "T18n0875_001:0323a20_0": "淨三業。",
-    "T18n0875_001:0323a23_0": "菩提心。",
-    "T18n0875_001:0323a26_0": "普禮。",
-    "T18n0875_001:0323a28_0": "通達心。",
-    "T18n0875_001:0323b01_0": "證菩提心。",
-    "T18n0875_001:0323b03_0": "明顯。",
-    "T18n0875_001:0323b05_0": "八葉蓮花。",
-    "T18n0875_001:0323b07_0": "觀身本尊。",
-    "T18n0875_001:0323b09_0": "諸如來加持。",
-    "T18n0875_001:0323b11_0": "四如來三昧耶。",
-    "T18n0875_001:0323b16_0": "五佛灌頂。",
-    "T18n0875_001:0323b22_0": "四如來鬘。",
-    "T18n0875_001:0323b28_0": "金剛拍。",
-    "T18n0875_001:0323c01_0": "現智身。",
-    "T18n0875_001:0323c03_0": "見智身。",
-    "T18n0875_001:0323c05_0": "如來平等三昧耶。",
-    "T18n0875_001:0323c08_0": "八功德水。",
-    "T18n0875_001:0323c10_0": "須彌山。",
-    "T18n0875_001:0323c12_0": "小金剛輪。",
-    "T18n0875_001:0323c14_0": "啟請。",
-    "T18n0875_001:0323c17_0": "開門。",
-    "T18n0875_001:0323c19_0": "啟請伽陀曰。",
-    "T18n0875_001:0323c23_0": "佛海會。",
-    "T18n0875_001:0323c25_0": "東。",
-    "T18n0875_001:0324a13_0": "西。",
-    "T18n0875_001:0324a22_0": "北。",
-    "T18n0875_001:0324b09_0": "內口供養。",
-    "T18n0875_001:0324b12_0": "外四供養。",
-    "T18n0875_001:0324b15_0": "四攝。",
-    "T18n0875_001:0324b18_0": "已上羯磨會。",
-    "T18n0875_001:0324b19_0": "五佛。",
-    "T18n0875_001:0324b23_0": "四波羅蜜。",
-    "T18n0875_001:0324b26_0": "十六尊。",
-    "T18n0875_001:0324c06_0": "八供養。",
-    "T18n0875_001:0324c11_0": "四攝。",
-    "T18n0875_001:0324c14_0": "遍照尊。",
-    "T18n0875_001:0324c17_0": "金剛薩埵。",
-    "T18n0875_001:0324c20_0": "金剛寶。",
-    "T18n0875_001:0324c23_0": "金剛法。",
-    "T18n0875_001:0324c26_0": "金剛業。",
-    "T18n0875_001:0324c29_0": "心上金剛縛。",
-    "T18n0875_001:0325a01_0": "東。",
-    "T18n0875_001:0325a04_0": "右脇。",
-    "T18n0875_001:0325a07_0": "左脇。",
-    "T18n0875_001:0325a10_0": "要後。",
-    "T18n0875_001:0325a13_0": "額上　南。",
-    "T18n0875_001:0325a16_0": "心上。",
-    "T18n0875_001:0325a19_0": "頂上。",
-    "T18n0875_001:0325a22_0": "口上咲處。",
-    "T18n0875_001:0325a25_0": "口上密語　西。",
-    "T18n0875_001:0325a28_0": "右耳。",
-    "T18n0875_001:0325b01_0": "左耳。",
-    "T18n0875_001:0325b04_0": "頂後。",
-    "T18n0875_001:0325b07_0": "頂上　北。",
-    "T18n0875_001:0325b10_0": "右肩上。",
-    "T18n0875_001:0325b13_0": "右跨上。",
-    "T18n0875_001:0325b16_0": "置心上。",
-    "T18n0875_001:0325b19_0": "散□外四。",
-    "T18n0875_001:0325b22_0": "燒香。",
-    "T18n0875_001:0325b25_0": "燈。",
-    "T18n0875_001:0325b28_0": "塗香。",
-    "T18n0875_001:0325c01_0": "三昧耶。",
-    "T18n0875_001:0325c04_0": "戲嬉。",
-    "T18n0875_001:0325c07_0": "薩埵三昧。",
-    "T18n0875_001:0325c11_0": "羯磨三昧。",
-    "T18n0875_001:0325c14_0": "達磨三昧。",
-    "T18n0875_001:0325c17_0": "寶幢三昧。",
-    "T18n0875_001:0325c20_0": "□香身契。",
-    "T18n0875_001:0325c24_0": "羯磨。",
-    "T18n0875_001:0325c28_0": "鬪勝精進契。",
-    "T18n0875_001:0326a02_0": "三摩地。",
-    "T18n0875_001:0326a06_0": "遍照尊。",
-    "T18n0875_001:0326a10_0": "勝上三摩地。",
-    "T18n0875_001:0326a13_0": "合指爪。",
-    "T18n0875_001:0326a16_0": "金剛拳。",
-    "T18n0875_001:0326a18_0": "三昧耶。",
-    "T18n0875_001:0326a20_0": "法印。",
-    "T18n0875_001:0326a23_0": "羯磨印。",
-    "T18n0875_001:0326a26_0": "金剛三昧。",
-    "T18n0875_001:0326b04_0": "蓮華部三昧。",
-    "T18n0875_001:0326b11_0": "旋轉真言。",
-    "T18n0875_001:0326b13_0": "奉送。",
-    "T18n0875_001:0326b17_0": "寶印。",
-    "T18n0875_001:0326c02_0": "略念誦　行道及草草時念誦法。",
-    "T18n0875_001:0326c03_0": "先護身自器世間至被甲　次結小金剛輪印真言誦之　次結根本印誦根本真言加持四處　次金剛合掌置頂上誦字二十一遍是供養法也　次結根本印念誦根本真言二十一遍以下不必捻珠數自茲以後隨宜行耳。",
-    "T18n0875_001:0326c08_0": "寫本云。",
-    "T18n0875_001:0326c09_0": "永長二秊四月二十七日奉寫了僧賢尊。",
-    "T18n0875_001:0326c10_0": "請來之內以般若寺僧正手筆之本書之。"
-}
+[
+    {
+        "source_sentence": "蓮華部心念誦儀軌",
+        "from": "T18n0875_001:0322b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨地：",
+        "from": "T18n0875_001:0322b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇖵􄗽􄒼􄖵􄑘􈁛􄙺􇩆􄕻􈆺",
+        "from": "T18n0875_001:0322b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨身：",
+        "from": "T18n0875_001:0322b17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩉􄚩􄙖􄙦􈁜􄙺􇩆􄕻􈋪觀佛：",
+        "from": "T18n0875_001:0322b19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈆹􄙖􄦽􄕼􄕟金剛起：",
+        "from": "T18n0875_001:0322b21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄧃􄕙􆱠􈅼阿閦：",
+        "from": "T18n0875_001:0322b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􇩆􄕗􄕤􄑘􄕗􈁂􄒶􄖵􅁤􄖩􄗱􆿆􈁀􄖫􇩈􄕗􄗲􄗧􄙺􇩆􄕗􄕤􄑘􄕘􄙖􄦽􄙺􄽚􄕽􆵋􅁤􄗯􈅼寶生：",
+        "from": "T18n0875_001:0322b26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􇩆􄕗􄕤􄑘􄕘􈁂􄒶􄗛􄙴􄑁􄗱􆿆􈁀􄖫􇩈􄕗􄗲􄗧􄙺􅞣􄕗􄕤􄑘􄕘􄙖􄦽􄗽􅑈􄗛􄙰􄙖􄗯　􄩩無量壽：",
+        "from": "T18n0875_001:0322b29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􇩆􄕗􄕤􄑘􄕘􈁂􄒶􄪼􄙖􆕳􄖪􄗲􆿆􄖪􄖫􇩈􄕗􄗲􄙼􄙺􇩆􄕗􄕤􄑘􄕘􄙖􄦽􄕻􈊪􄪼􄙖􆕳􄗲􈁝􇩵不空成就：",
+        "from": "T18n0875_001:0322c04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􇩆􄕗􄕤􄑘􄕘􈁂􄒶􄑀􈆺􄕍􆿆􆿆􈁀􄖫􇩈􄕗􄗲􄗧􄙺􇩆􄕗􄕤􄑘􄕘􄙖􄦽􄑀􈆺􄑄􄙂􈁝　􈅺金剛持：",
+        "from": "T18n0875_001:0322c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􇩆􄕗􄕤􄑘􄕗􄑁􄗱􄙗􄹄􆩖􄙖􄦽􄙖􇪯􈁀􄑀􄙆􄗧􇩂􄙖􄦽􄙘證定：",
+        "from": "T18n0875_001:0322c10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙬􄙼􈁛􄙺􅞣􄙺􄽚􈁀􄙺􅞣􄙼􇧹􄗼􄚦􄖵􇩊􈁞􄕗􄕤􄑘􄕘􈋝􄕽􄕙􆵋􅑉遍觀：",
+        "from": "T18n0875_001:0322c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙖􄦽􆯫􆵍􄗥􈁆金剛掌：",
+        "from": "T18n0875_001:0322c15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙖􄦽􄒶􄙌金剛縛：",
+        "from": "T18n0875_001:0322c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙖􄒶􄗍􇧹開心：",
+        "from": "T18n0875_001:0322c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙖􄦽􄙖􄽙入智：",
+        "from": "T18n0875_001:0322c21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙖􄦽􄙜􄙢􆿔堅固智：",
+        "from": "T18n0875_001:0322c23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙖􄦽􈁃􆵍􄙠普賢三昧耶：",
+        "from": "T18n0875_001:0322c25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙺􄗥􄗱􈃺極喜三昧耶：",
+        "from": "T18n0875_001:0322c27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙺􄗥􄗱􈁟􈂼􄗽􄕗􈃺降三世：",
+        "from": "T18n0875_001:0322c29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􈂼􆫌􄖫􈂼􆫌􈁠􈃈􈁒􈃈􈁒􈆭􈃈􈁒􄖵􄗱􈁠􆿆􄖩􄗱􈁟􄗙􄑘􄙠􄙖􄦽􈁠􄗁􈁆蓮花三昧耶：",
+        "from": "T18n0875_001:0323a03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄖵􇪯􄙺􄗥􄗱􈁁法輪：",
+        "from": "T18n0875_001:0323a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁠􄓚􈁡􆷷􄓚􄗱􄗥􄚩􄙘􄗾􄑘􄙖􄒶􄙖􄦽􄕻􄗽􄙺􄟝􄖩􄓱大慾：",
+        "from": "T18n0875_001:0323a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􈂼􄗽􄕗􄙖􄧇　􄧈􈅼􄙠􄚰􄙺􄗥􄗱􈁁大樂金剛：",
+        "from": "T18n0875_001:0323a10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄗥􄚩􈂼􄑌􄙖􄧇􄙻􄕻􄗱􄙺􅞣􄙺􄽟􄢢􄓁􈅼􈆯􈁟召罪：",
+        "from": "T18n0875_001:0323a13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄖶􄖵􄑀􅞻􄕋􄙘􄙪􄕻􄖩􄙖􄦽􄙺􄽙􄙺􄗥􄗱􈅼􄗁􈁆擢罪：",
+        "from": "T18n0875_001:0323a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄖶􄕍􄙘􆷹􄓚􄗱􄙺􇩆􄖶􄗱􄗍􇧺􄖪􄖫􄪼􄗭􄚴􄗱􄙺􅞣􄖶􄗱􄑘􄕙􄢥􄙺􅞣􄙺􄽚􄙺􇩆􄕗􄕤􄑘􄕗􄙖􄦽􄙺􄗥􄗱􈅼􄩞􈁆淨三業：",
+        "from": "T18n0875_001:0323a20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄑀􈊪􄙘􄙪􄕻􄗱􄙺􅞣􄙖􄗽􄕋􄖫􈎭􇧹􄙺􄡾􄖩􄙺􄗥􄗱􈅼菩提心：",
+        "from": "T18n0875_001:0323a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄑼􈁢􅑈􄙄􈂼􄗥􅑈􄗙􄩶􄑂􄗽􄕍􄗥􄚩􄙖􄦽􄕍􈅼普禮：",
+        "from": "T18n0875_001:0323a26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄖶􄕯􄙖􆩮􈁀􄑀􄙆􄗧通達心：",
+        "from": "T18n0875_001:0323a28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄑾􆽕􄪼􄕙􄙜􄕻􄑀􄙆􄗧證菩提心：",
+        "from": "T18n0875_001:0323b01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄗕􄕽􄑾􆽕􈁃􈋞􄕯􄗲􄗧明顯：",
+        "from": "T18n0875_001:0323b03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄕙􆵋􄙖􄦽􄖵􇪯八葉蓮花：",
+        "from": "T18n0875_001:0323b05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄖵􇪯􈇪􄑈􄚲觀身本尊：",
+        "from": "T18n0875_001:0323b07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄗱􄕤􄙺􅞣􄕗􄕤􄑘􄕘􆶩􄕤􄚲諸如來加持：",
+        "from": "T18n0875_001:0323b09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕗􈁣􄚦􄗕􄕽􆯫􄗁􄙖􄦽􄕙􆵋四如來三昧耶：",
+        "from": "T18n0875_001:0323b11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄙺􄽚􄕽􆵋􅁥􈁝􇖴􈅼􈁴􄙖􄦽􄖩􅑉􄕽􆵋􅁥􈁝􇖴􄩩􈁴􄙖􄦽􄕻􈊪􄕽􆵋􅁥􈁝􇖴􇩵􈁴􄙖􄦽􄑀􈆺􄕽􆵋􅁥􈁝􇖴􆿔五佛灌頂：",
+        "from": "T18n0875_001:0323b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕝􈂫􅝪􄗛􄙴􄑀􆿁􈁴􄙖􄦽􄙺􄽚􄗛􈁤􄑼􈁝􈅼􈁴􄙖􄦽􄗽􅑉􄗛􈁤􄑼􈁝􇩳􈁴􄙖􄦽􄖵􈋟􄗛􈁤􄑼􈁝􇩵􈁴􄙖􄦽􄑀􈆺􄗛􈁤􄑼􈁝􆿔四如來鬘：",
+        "from": "T18n0875_001:0323b22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄙺􄽙􄗦􄙋􄗛􈁤􄑼􈁝􄙠􈁴􄙖􄦽􄗽􅑈􄗥􄙋􄗛􈁤􄑼􈁝􄙠􈁴􄙖􄦽􄖵􈋟􄗦􄙋􄗛􈁤􄑼􈁝􄙠􈁴􄙖􄦽􄑀􈆺􄗥􄙋􄗛􈁤􄑼􈁝􄙠􈁴􈁥金剛拍：",
+        "from": "T18n0875_001:0323b28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄕛􄣖􈁟現智身：",
+        "from": "T18n0875_001:0323c01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙖􄦽􄙺􄽙􆿔見智身：",
+        "from": "T18n0875_001:0323c03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄙺􄽙􆯫􄣊􄓁􈅼􄙠􄚳如來平等三昧耶：",
+        "from": "T18n0875_001:0323c05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙺􄗥􄗹􄚲􄗥􄚩􄙺􄗥􄗹􄚲􈁴􄙘􄗥􄙐􄕯􄕽􈅼八功德水：",
+        "from": "T18n0875_001:0323c08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄚲􄙠􄪼􈂼􄑊須彌山：",
+        "from": "T18n0875_001:0323c10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􆿅􄑼􄙊􈅼小金剛輪：",
+        "from": "T18n0875_001:0323c12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄑼􄥇􈅼啟請：",
+        "from": "T18n0875_001:0323c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗱􈁦􄖫􅞥􅍕􄙺􈁧􄥇􄙼􇧻􄣣􄕗􈁃􄚮􄙖􄕝􄙖􄦽􄑄􆧽􄙌􄚮􄕛􈁦􄕗􄢤􄗥􈁨􄙺􄕰􄖩􄗰開門：",
+        "from": "T18n0875_001:0323c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄽲􄙆􈋟􄓚􄗱􄙺􄗥􄗱􄪼􄙜􄙢􄗱􈅼啟請伽陀曰：",
+        "from": "T18n0875_001:0323c19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􆿆􈁩􄕛􄙺􅞩􄗝􄙖􄖩􄑀􄙻􈁛􄪼􈇱􄗧􈁛􄙢􄙮􄑀􄓛􄗽􄗦􈁪􄙻􄚴􆮧􄕘􄖩􅑈􄗙􄙖􅁤􄗚􈁫􅁥􄗻􄗝􄙞􄖩􅑈􄗙􄙖􅁤􄗙􈁫佛海會：",
+        "from": "T18n0875_001:0323c23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄙺􄗥􄒶􄓁東：",
+        "from": "T18n0875_001:0323c25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙖􄦽􄙺􄽙􄗥􄚩􄙺􄽙􄙖􄦽􄙺􅞣􆩖􄕤􄑘􄕗􄙺􄗥􆩖􄗙􄩶􄙖􄦽􇩊􄙖􄦽􄖶􄕋􄖩􄗭􈁨􄕝􄙖􄦽􄗾􄒶􈂼􈎭􇧺􈁬􄙖􈁺􄑄􄙢􄕗􄕤􄑘􄕗􆿅􄗭􄑤􄗾􄒶􄙖􄦽􈁬􄙖􄦽􄑀􅞻􄖩􄗭􈁨􄕝􄙖􄦾􄗾􄑘􄗥􄚩􄚤􄛌􄙖􄦽􄙗􄕋􄙖􄙬􄑀􄗽􄗦􄗽􄑁􄗥􄗥􄚩􄙖􄦽􄙖􄦽􄑼􄖵􄖩􄗭􈁨􄕝􄙖􄦽􄙺􄕽􈂼􄙖􄦽􈁬􄙖􄦽􄕛􈁭􄗥􄚩􄗽􄕝􄪽􄗭􇩊􄗽􄒶􄙖􄦽􈁬􄙖􄦽􄚩􅞻􄗽􄗭􈁨􄕝􄙖􄦽􄗽􅑈􈂼􄙖􄦽􅚼􄙖􄦽􄑁􄙢􄗥􄚩􄗥􄕍􆿆􄑀􄙢􄑘􅝑􄙖􄦽􈃃􄙖􄦽􄑘􅝑􄗽􄗭􈁨􄕝􄙖􄦽􄕝􄒶􄗥􄚩􈁊􄙊􄙖􄦽􈃳􅝩􄒸􄗽􄪼􄗙􄙖􄦽􄗽􅊶􄗥􄚩􄕝􄒶􄪼􄗙􄗽􄗭􈁨􄕝􄙖􄦽􄑆􄕛􈂼􄙺􄽚􅚼􄙖􄦽􈅣􄒶􈂼􄕟􄙮􄑀􄗽􅑈􄑆􄕛􄗥􄚩􄙖􄦽􄙖􄦽􄗱􈁭􄖩􄗭􈁨􄕝􄙖􄦽􄚩􄙺􄗥􄚩􄚩􄙺􄙖􄦽􅋎􄕗􄗥􄚩􈁯􄕗􄪿􄕙􄪽􄗭􇩊􄙖􄦽􇩊􄙖􄦽􄪿􄕝􄖩􄗭􈁨􄕝西：",
+        "from": "T18n0875_001:0324a13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙖􄦽􄕻􈆺􈂼􄙺􄽚􅚼􄙖􄦽􄖵􇪯􈂼􄙢􄕻􄑀􄙒􄑆􈂫􄗽􈂼􄙖􄦽􄚴􄙖􄦽􄕝􄩞􄖩􄗭􈁨􄕝􄙖􄦽􄕚􈁱􄗥􄚩􄗲􄖩􄙖􄦽􄑈􄙢􄗥􄚩􄗵􄕻􄗯􄒺􈊸􄙖􄦽􈁲􄗜􅝩􄙖􄦽􈎭􇧼􄖩􄗭􈁨􄕝􄙖􄦽􄚮􄕛􄗥􄚩􄗥􆧽􄙖􄦽􄑼􄥇􄗥􄚩􄖩􄗱􈂼􄪼􄙖􇪱􄖩􄙖􄧅􄒪􄙖􄦽􄗥􆧽􄗽􄗭􈁨􄕝􄙖􄦽􄗚􄙮􈂼􄙘􄟰􈁬􄙖􄦽􄒶􄖵􈂼􄙼􇧻􄕯􆿅􄙗􄑼􄙖􄦽􄑾􄟼􈁬􄙖􄦽􄗟􄙯􄖩􄗭􈁨􄕝北：",
+        "from": "T18n0875_001:0324a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙖􄦽􄑀􈆺􈂼􄙖􄦽􈁳􄑀􄓚􈆺􄙖􄦽􈂼􄙺􅞣􄑘􄙖􄦽􄗭􄑤􄗥􄚰􄕯􅝩􄙖􄦽􄙘􈂫􄖩􄗭􈁨􄕝􄙖􄦽􄗽􄚴􄗥􄚩􄙜􅝴􄙖􄦽􄕻􈆺􄗥􄚩􆯫􄓾􈇚􅝯􄕻􄖩􈂼􄙙􇩇􈁬􄙖􄦽􄙙􅝩􄖩􄗭􈁨􄕝􄙖􄦽􄗱􄚴􄗥􄚰􄖶􄗱􄙖􄦽􄕹􈇒􄗥􄚩􄗙􄗱􄗥􄗽􄪼􄗥􅛊􄙖􄧃􄥟􄙖􄦽􄑼􆧽􄖩􄗭􈁨􄕝􄙖􄦽􄚦􄕽􈂼􄙺􄖯􄟻􄙖􄦽􄙖􄽙􄪼􄗭􄑼􄑀􄙖􄦽􈁃􈋠􈁬􈁴􄙖􄦽􄗾􅑈􆿉　􈁴􄙖􄦽􄕝􄒶􈂵􈁴􄙖􄦽􄑆􄕛􈂷　􈁴􄙖􄦽􄚩􄙺􄚳􈁴􄙖􄦽􄕻􈆺􇩵　􈁴􄙖􄦽􄕚􈁵􄖧􈁴􄙖􄦽􄚮􄕛􄗯　􇩂􄙖􄦽􄗚􄙮􄙈􈁴􄙖􄦽􄑀􈆺􄑊　􇩂􄙖􄦽􄗽􄚴􄚲􈁴􄙖􄦽􄗱􄚴􈆭　􇩂􄙖􄦽􄚦􄚮􄙠內口供養：",
+        "from": "T18n0875_001:0324b09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄙋􄙺􄚳　􇩂􄙖􄦽􄗥􄙊􈁶􈁴􄙖􄦽􈁷􄕝􈁸　􇩂􄙖􄦽􆯫􄟝􆮧􈁆外四供養：",
+        "from": "T18n0875_001:0324b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􈃁􄖵􆿔　􈁴􄙖􄦽􄖹􈆶􈁴􈁴􄙖􄦽􄙒􄑆􈁹　􇩂􄙖􄦽􄑘􇧼􄑣四攝：",
+        "from": "T18n0875_001:0324b15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􈁺􄑄􄙢􄓁　􇩂􄙖􄦽􄖶􄙢􆿁􇩂􄙖􄦽􆷷􈁆􄙠　􇩂􄙖􄦽􄙜􄙢􈁟􈅼􈅼已上羯磨會。",
+        "from": "T18n0875_001:0324b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五佛：",
+        "from": "T18n0875_001:0324b19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙖􄦽􈂤􄙈􆿔　􄙖􄦽􈂤􄖳􈅼􄙖􄦽􈂤􄖳􄩩　􄙖􄦽􈂤􄖩􇩵􄙖􄦽􈂤􄖳􆿔四波羅蜜：",
+        "from": "T18n0875_001:0324b23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙖􄦽􈁻􆿁　􄙖􄦽􄑞􄙁􄩩􄙖􄦽􄕘􄗽􇩵　􄑌􄙖􄦿􄕍􈁟十六尊：",
+        "from": "T18n0875_001:0324b26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙺􄗥􄗱􈁁　􆿆􄖩􄗱􅁤􆿅􄚰􈂼􄑌　􄙺􈃁􄙻􈃁􈂼􄗥􄚩􄽣　􄙃􄖽􄟷􄕗􆿅􅛔􄪽􆻦　􄚨􄚨􈅼􄚳􄙺􅞣􄑁􈁼　􈉔􄑌􇪡􄕯􈎭􇧹􄗕􄕽　􄪼􄕙􄙢􆷁􈂼􄙖􄙤􄽣　􄖫􅝑􄗱􄽣􄙢􄩣􄗙􄚴　􄙺􅞣􄙼􇧻八供養：",
+        "from": "T18n0875_001:0324c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄗥􄚨􄗽􄕙　􄙃􄖵􄙨􄗟􄑠􄩞􄚣􄛒　􄙺􅞣􈁂􄒼􄪼􆱨􄕱􄖫　􄗁􄙊􄑘􄗫􈂼􄕝􄒷􄥡　􈂼􄑘􄓳􆥽四攝：",
+        "from": "T18n0875_001:0324c11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􆿆􄗱􄚪􄓁　􆿆􄚪􆿁􆿁􄚮􆷹􄓚􄙠　􄑮􄓚􆿔􆿔遍照尊：",
+        "from": "T18n0875_001:0324c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙖􄦽􄕼􄽙􄖭􆽕􄗽􈁂􄒶􆷱􄗽􄕋􄙺􄗥􄗷􆿁金剛薩埵：",
+        "from": "T18n0875_001:0324c17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄙖􄦽􄙺􄽙􄖭􆽕􄗽􈁂􄒶􆷱􄗽􄕋􄙺􄗥􄗷􈅼金剛寶：",
+        "from": "T18n0875_001:0324c20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅚰􄕗􄕤􄑘􄕘􄙖􄦽􄗽􅑈􄖭􆽕􄗽􈁂􄒶􆷱􄗽􄕋􄙺􄗥􄗷􈅼金剛法：",
+        "from": "T18n0875_001:0324c23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙖􄦽􄕻􈆺􄖭􆽕􄗽􈁂􄒶􆷱􄗽􄕋􄙺􄗥􄗷􈅼金剛業：",
+        "from": "T18n0875_001:0324c26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙖􄦽􄑀􈆺􄖭􄕗􄗽􈁂􄒶􆷱􄗽􄕋􄙺􄗥􄗷􈁴心上金剛縛。",
+        "from": "T18n0875_001:0324c29_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "東：",
+        "from": "T18n0875_001:0325a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄙺􅞣􈇪􄖫􅝩􄕗􄖩􈁂􄒶􆷱􄗽􄕋􄑀􈊪􄙖􄦿􇩱右脇：",
+        "from": "T18n0875_001:0325a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄙺􅞤􈇪􄖫􅝪􄕗􄖩􈁂􄒶􆷱􄗽􄕋􄑀􈊪􄥡􄓁左脇：",
+        "from": "T18n0875_001:0325a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄙺􄑄􈇪􄖫􅝩􄕗􄖪􄖭􄗽􄑘􄕋􈁂􄒶􆷱􄗽􄕋􄑀􈊪􄙗􄕋􈅼􄚰要後：",
+        "from": "T18n0875_001:0325a10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄙺􅞤􈇪􄖫􇩈􄕗􄖩􄙻􈃁􄑁􄗽􈁂􄒶􆷱􄗽􄕋􄑀􈆺􄕛􆵍􄚧額上：",
+        "from": "T18n0875_001:0325a13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　南：",
+        "from": "T18n0875_001:0325a13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕘􄗛􄙴􄑀􄗽􅑈􄢢􄙖􄦽􄗥􄕍􈁴心上：",
+        "from": "T18n0875_001:0325a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕗􈂼􅝯􄢢􄙖􄦽􄕝􄒸􄖫􈁊􄙊􇩵頂上：",
+        "from": "T18n0875_001:0325a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕘􄙣􄖵􄙀􈁂􄗽􄕋􄑾􆩖􄗥􄕍􈅣􄒶􄥥􄢢􄙖􄦽􈅣􄒶􄥡􈂷口上咲處：",
+        "from": "T18n0875_001:0325a22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕘􄗥􄚩􈋢􄕙􄪽􄗭􄟰􄑀􄙄􄢢􄑀􄙄􄢢􄙖􄦽􄚨􄚢􄚳口上密語：",
+        "from": "T18n0875_001:0325a25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　西：",
+        "from": "T18n0875_001:0325a25_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙖􄦽􄕻􈆺􄕘􈂼􄗥􄕽􈁾􈁨􄖪􄗧􄗥􄚩􄕻􈊪􄥡􇩵右耳：",
+        "from": "T18n0875_001:0325a28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄪼􈂤􄖶􄗽􄗧􄕘􈁾􄖫􅟛􈁨􄖱􄗧􄗥􄚩􄑬􄙮􄖭􄑞􄖧左耳：",
+        "from": "T18n0875_001:0325b01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄑼􄥇􄚴􄗽􄖵􄙀􄙖􇪱􄖩􄙺􅞣􈂼􄩟􄕗􄖩􄗱􈂡􈁨􄖱􄗧􄙺􅞣􄗥􆧽􄙊􈅼頂後：",
+        "from": "T18n0875_001:0325b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄚦􄕼􄗚􄙮􈎭􇧹􇩀􈁷􄕙􈁾􄑘􄕹􈁨􄖱􄗧􄙖􄦽􄙗􄒤􄒩頂上：",
+        "from": "T18n0875_001:0325b07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　北：",
+        "from": "T18n0875_001:0325b07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕗􈎭􄖵􄗫􄑤􄙺􈁃􆷱􄗽􄕋􈁂􄒶􄑀􆍋􄑀􄗽􄑀􄙉右肩上：",
+        "from": "T18n0875_001:0325b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕘􈁂􈆵􄪼􄙺􄗽􆷱􄗽􄕋􈁂􄒶􄑀􆍋􄑂􄙀􄑂􈃖右跨上：",
+        "from": "T18n0875_001:0325b13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙒􄑀􈁊􄙊􆷱􄗽􄕋􈁂􄒶􄑀􆍋􄗙􄗽􄗙􄙉置心上：",
+        "from": "T18n0875_001:0325b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄑘􄖭􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􈁂􄒶􄑀􆍋􄑄􄙂􄑄􄙉散□外四：",
+        "from": "T18n0875_001:0325b19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄖹􈆵􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼燒香：",
+        "from": "T18n0875_001:0325b22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕗􈃁􄖵􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􇩴燈：",
+        "from": "T18n0875_001:0325b25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄕲􄖵􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼塗香：",
+        "from": "T18n0875_001:0325b28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄑘􄾫􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗫􈅼三昧耶：",
+        "from": "T18n0875_001:0325c01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄗕􄟻􄑘􄗽􅑈􄙔􄑁􄗽􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼戲嬉：",
+        "from": "T18n0875_001:0325c04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄚩􄣢􄙋􄣣􄥊􈂢􄗽􄕙􄚣􄛍􆽕􄗽􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼薩埵三昧：",
+        "from": "T18n0875_001:0325c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙖􄧃􄖵􄗥􄙺􄗦􄕽􄗚􄙖􄖪􄖶􄖩􄙞􄒶􄖩􄙖􄙺􄖩􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼羯磨三昧：",
+        "from": "T18n0875_001:0325c11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄑁􄗱􄖫􇩈􄕗􄖩􄪼􄒷􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼達磨三昧：",
+        "from": "T18n0875_001:0325c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄑾􆽕􄖫􅝪􄕗􄖩􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼寶幢三昧：",
+        "from": "T18n0875_001:0325c17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄗥􄚩􄙖􄧃􆹊􄙖􄕷􄖩􄖶􄗽􄗧􄕘􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼□香身契：",
+        "from": "T18n0875_001:0325c20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄖭􆽕􄗽􄗥􄚩􄗕􄟼􄚩􄗽􄑀􄙥􄙊􄖶􄗽􄗧􄕗􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼羯磨：",
+        "from": "T18n0875_001:0325c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕗􄖭􆽕􄗽􄗥􄚩􄕻􈆺􄙖􄗕􄕻􄚵􄕙􄖵􄗽􄗧􄕗􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼鬪勝精進契：",
+        "from": "T18n0875_001:0325c28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕗􄚦􄙻􄗽􄖶􄙀􄟘􄑙􄖭􆽕􄗽􄗥􄚩􄙙􅝩􄖶􄗽􄗧􄕘􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􆿁三摩地：",
+        "from": "T18n0875_001:0326a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕗􄖭􆽕􄗽􄗥􄚩􄚣􄛌􄙘􄚩􄗽􄟻􄖩􄖶􄗽􄗧􄕗􈁂􄒷􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼遍照尊：",
+        "from": "T18n0875_001:0326a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄖭􆽕􄗽􄯁􄑘􈂣􄗲􄙖􄗽􄕋􄙗􄙺􄖪􄙘􄖩􄗱􄖩􄗥􄚩􄪼􈂤􄖶􄗽􄗧􄕗􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼勝上三摩地：",
+        "from": "T18n0875_001:0326a10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄑜􄡸􄗥􄚩􄪼􄕙􄖵􆩘􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􆿁合指爪：",
+        "from": "T18n0875_001:0326a13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄙺􅞣􄕗􄕤􄑘􄕗􄙞􄖫􇩈􄕗􄖩􈁂􄒶􄗫􄑤􄙺􈁃􇪰􆷱􄗽􄕋􄙺􄗥􄗷􆿁金剛拳：",
+        "from": "T18n0875_001:0326a16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􆱨􄕯􄗱􄖬􄙰􄕘􄖫􄙺􅞣􄕗􄕤􄑘􄕘􈁀􄙼􈁙􆽖三昧耶：",
+        "from": "T18n0875_001:0326a18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄙺􅞣􈁃􈋬􄗫􆯷􄗲􄗙􄙖􄕛法印：",
+        "from": "T18n0875_001:0326a20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􄖫􄥫􄖿􄑼􄙗􈋤􄽳􄗙􄙖􄕛􄙺􅞣􄕗􄕤􄑘􄕘􄙺􄗥􄕻􄗷􄗫􆿆􄒶􄗱􅑈羯磨印：",
+        "from": "T18n0875_001:0326a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􆿅􄙘􄟰􄽚􄙖􄕝􄗫􄙺􈉐􄙺􅞣􄕗􄕤􄑘􄕡􈂽􄙘􇩊􄕽􄑘􄗥􄚦􄙖􄗽􄙺􄗞􆽕金剛三昧：",
+        "from": "T18n0875_001:0326a26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄙺􄽙􄙺􄗥􄗱􄗥􄖭􄖶􄙊􄗱􄙖􄦽􄙺􄽙􄾱􄖱􄖵􄕙􆵋􆯫􄚰􄗫􄗙􄙖􄗧􈂼􄕛􄡄􄗫􄗙􄙖􆿅􄖭􄗽􈃌􄗫􄗙􄙖􈂼􄖹􄣞􄗫􄗙􄙖􄙺􅞣􄙼􈂧􄗫􄪼􄗱􇩹􄙺􅞣􄑀􅝝􈂼􄑼􄗫􄑾􆽕􄭥􄗱􄑄􄙂􆿁􄚨􄚨􄚨􄚨􈁟􄗙􄑘􄙠􄙺􅞣􄕗􄕤􄑘􄕗􄙖􄦽􄗦􄗥􈆿􄑼􄙖􄧀􄗙􄙖􄗥􄚩􄙺􄗥􄗱􄙺􄽚􇩱蓮華部三昧：",
+        "from": "T18n0875_001:0326b04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􄖵􇪯􄙺􄽙􄙺􄗥􄗱􄖭􄖶􄙊􄗱􄖵􇪯􄙺􄽙􄿭􄖱􄖵􄕙􆵋􆯫􄚰􄗫􄚨􄙖􈂼􄕟􄣞􄗫􄗙􄙖􈂼􄖭􄗽􈃌􄗫􄗙􄙖􈂼􄖹􄣞􄗫􄗙􄙖􄙺􅞣􄙼􈂧􄗫􄪼􄗱􇩹􄙺􅞣􄑀􈆺􈂼􄑼􄗫􄑾􆩘􄭥􄗱􄑄􄙂􆿁􄚨􄚨􄚨􄚨􄚰􄗙􄑘􄙠􄙺􅞣􄕗􄕤􄑘􄕗􄖵􇪯􄗦􄗥􈂱􄑼􄖵􅇜􄗙􄙖􄗥􄚩􄙺􄗥􄗱􄙺􄽙􇩵旋轉真言：",
+        "from": "T18n0875_001:0326b11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􄦽􄑜􄡸􄒷􄖵􄙺􄗥􄗷􆿁奉送：",
+        "from": "T18n0875_001:0326b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􇩂􆮧􄕟􄙺􅞣􄙡􄙺􄽚􅚼􄙼􇧻􅛈􆽕􄗱􄕤􄖭􄑙􄑘􇩹􄕭􈎭􇧹􄙘􄙮􄗻􄖹􄖩􄗽􄑘􄗥􄖩􄗱􄕛􈁴􄖵􇪯􄙺􄽙􈂨寶印：",
+        "from": "T18n0875_001:0326b17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "􈁴􄙖􈁊􄗽􄗛􄙰􄑼􈁝􄙺􅞣􈁃􄩶􄗭􆯫􄚫􄑄􄙂􄙖􄗽􄑀􄙖􄒤􄖩􄙠􄙖􄦽􄕛􄣖􈁟􆿅􅝪􄙼􄕗􄖩􄗭􄗧􄕘􄗙􄗱􄖩􄗭􄗧􄕗􄗵􄙮􇟄􄖩􄗭􄖩􄗫􄑾􄟗􄑜􄕋􄑀􄗽􈇪􄖯􇟄􄖩􄗭􄗧􄕘􄗙􄗱􄒸􄖩􄗱􄕝􄗭􄖯􈂼􄑌􄙖􈋭􄑀􄖩􄑀􄙘􄑾􄩞􄑀􄖩􈁀􇟄􄗥􈂢􄗽􄗦􈂼􄑘􄕗􈂼􄕞􄗽􄙔􆮧􈁀􇟄􄕗􄙗􈃡􄗱􇪯􄕗􄑜􄕋􄣢􄕽􄗥􄕢􇟄􄪼􄗱􄗧􈂩􄗥􈂪􄑜􄕋􄗽􅑈􄚦􄑼􈁩􈁴􄖩􄗰􈆯􈅼􄩩􇩵􇩱􄓁􈅼􈆯􈁟􄖩􄗰􄙖􄦽􄕻􄕛􄕻􅝝􆿏􄑀􄙙􄕽􄗽􇩹略念誦，行道及草草時念誦法。",
+        "from": "T18n0875_001:0326c02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先護身，自器世間至被甲，次結小金剛輪印，真言誦之。",
+        "from": "T18n0875_001:0326c04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次結根本印，誦根本真言加持四處。",
+        "from": "T18n0875_001:0326c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次金剛合掌置頂上，誦􇩂字二十一遍，是供養法也。",
+        "from": "T18n0875_001:0326c06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次結根本印，念誦根本真言二十一遍，以下不必捻珠數，自茲以後隨宜行耳。",
+        "from": "T18n0875_001:0326c07_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寫本云：",
+        "from": "T18n0875_001:0326c08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "永長二秊四月二十七日奉寫了。",
+        "from": "T18n0875_001:0326c09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧賢尊請來之，內以般若寺僧正手筆之本書之。",
+        "from": "T18n0875_001:0326c10_17",
+        "context_with_next_sentence": true
+    }
+]

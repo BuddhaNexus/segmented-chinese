@@ -1,101 +1,1402 @@
-{
-    "T11n0320_013:0954c13_0": "父子合集經卷第十三",
-    "T11n0320_013:0954c15_0": "西天譯經三藏朝散大夫",
-    "T11n0320_013:0954c16_0": "試鴻臚卿宣梵大師賜紫",
-    "T11n0320_013:0954c17_0": "沙門臣日稱等奉　詔譯",
-    "T11n0320_013:0954c18_0": "淨居天子說偈讚佛品第二十四",
-    "T11n0320_013:0954c19_0": "爾時會中有無數淨居天子及無量眾生，於佛法中，心得覺悟，離諸疑惑，深生愛樂，歡喜踊躍，得未曾有，一心合掌，住立佛前，各以伽陀，稱讚於佛。",
-    "T11n0320_013:0954c23_0": "爾時善施天子而說偈言：「佛昔捨身命，　　國土及妻子，　圓滿彼施行，　　故我稽首禮。」",
-    "T11n0320_013:0954c26_0": "爾時淨戒天子而說偈言：「堅固持淨戒，　　離一切垢染，　能渡於彼岸，　　頂禮具戒者。」",
-    "T11n0320_013:0954c29_0": "爾時安忍天子而說偈言：「佛廣修忍行，　　為他斷肢節，　不生怨恨心，　　得成無上慧。」",
-    "T11n0320_013:0955a03_0": "爾時精進天子而說偈言：「大雄猛世尊，　　捨生死重擔，　勤修無退屈，　　速至於菩提。」",
-    "T11n0320_013:0955a06_0": "爾時靜慮天子而說偈言：「如來大威德，　　常棲止禪定，　不著彼世間，　　三際悉平等。」",
-    "T11n0320_013:0955a09_0": "爾時勝慧天子而說偈言：「如來勝慧力，　　知眾生諸行，　如業而受報，　　隨界趣流轉。」",
-    "T11n0320_013:0955a12_0": "爾時明福業天子而說偈言：「若修彼福業，　　勝報常現前，　餘不能了知，　　此唯佛境界。」",
-    "T11n0320_013:0955a15_0": "爾時了罪性天子而說偈言：「眾生由惑業，　　常貪求彼物，　於心若了悟，　　一切悉通達。」",
-    "T11n0320_013:0955a18_0": "爾時善巧智天子而說偈言：「若人於佛智，　　善思惟分別，　常念如己物，　　菩提不難得。」",
-    "T11n0320_013:0955a21_0": "爾時善巧行天子而說偈言：「若起諸惑業，　　內心非所思，　了罪性本空，　　此為證法者。」",
-    "T11n0320_013:0955a24_0": "爾時遍趣行天子而說偈言：「若人造諸行，　　隨善惡流轉，　受好醜之報，　　佛眼悉知見。」",
-    "T11n0320_013:0955a27_0": "爾時離攀緣天子而說偈言：「若於所受報，　　能了知攀緣，　雖生諸趣中，　　常與智隨轉。」",
-    "T11n0320_013:0955b01_0": "爾時隨順善巧天子而說偈言：「若造作諸惡，　　或修習眾善，　皆由先業故，　　隨所生受果。」",
-    "T11n0320_013:0955b04_0": "爾時業善巧天子而說偈言：「了三世業行，　　斷故不造新，　愚夫無正慧，　　隨惡而流轉。」",
-    "T11n0320_013:0955b07_0": "爾時果善巧天子而說偈言：「或因少果多，　　或因多果少，　於此不了知，　　為愚癡外道。」",
-    "T11n0320_013:0955b10_0": "爾時了知業行天子而說偈言：「善因生勝處，　　惡業墮險難，　隨眾生所行，　　如來悉明了。」",
-    "T11n0320_013:0955b13_0": "爾時見法樂天子而說偈言：「若人受福報，　　而不了善法，　彼為自欺誑，　　不久當墮落。」",
-    "T11n0320_013:0955b16_0": "爾時善受生天子而說偈言：「若造諸勝業，　　順生受其報，　唯佛正了知，　　世間不能解。」",
-    "T11n0320_013:0955b19_0": "爾時善受名天子而說偈言：「若業經多生，　　或俱胝劫數，　展轉于今身，　　受報佛能了。」",
-    "T11n0320_013:0955b22_0": "爾時受報成熟天子而說偈言：「若此業和合，　　彼有情受生，　皆從昔因緣，　　如來悉明了。」",
-    "T11n0320_013:0955b25_0": "爾時根未成熟天子而說偈言：「彼根未成熟，　　樂作不善行，　遠離二足尊，　　不希望解脫。」",
-    "T11n0320_013:0955b28_0": "爾時善成熟天子而說偈言：「若業已成熟，　　及未成熟者，　業性本來空，　　隨心之所造。」",
-    "T11n0320_013:0955c02_0": "爾時決定受天子而說偈言：「眾生所作業，　　若重若輕微，　如來悉證知，　　受報無差忒。」",
-    "T11n0320_013:0955c05_0": "爾時了罪相天子而說偈言：「若造眾惡行，　　當墮於惡趣，　或外遇良緣，　　轉重令輕受。」",
-    "T11n0320_013:0955c08_0": "爾時明業報天子而說偈言：「積集諸罪惡，　　為彼所纏縛，　不畏未來苦，　　此邪見外道。」",
-    "T11n0320_013:0955c11_0": "爾時善思惟天子而說偈言：「能思擇善行，　　少善招勝報，　如以涓渧水，　　置海永無減。」",
-    "T11n0320_013:0955c14_0": "爾時入解諸法天子而說偈言：「若人能永盡，　　有漏分別業，　當證無學果，　　是如來所說。」",
-    "T11n0320_013:0955c17_0": "爾時證佛智天子而說偈言：「佛眼悉明了，　　三世諸業果，　種習無遺餘，　　敬禮遍知者。」",
-    "T11n0320_013:0955c20_0": "爾時業無餘天子而說偈言：「世間諸有情，　　或此生彼滅，　如來已永盡，　　得稱無畏者。」",
-    "T11n0320_013:0955c23_0": "爾時離攀緣行天子而說偈言：「眾生所行行，　　唯趣於生滅，　果報如夢幻，　　此如來所說。」",
-    "T11n0320_013:0955c26_0": "爾時伏諸惑天子而說偈言：「愚癡著欲者，　　如渴飲鹹水，　是故調御師，　　觀之如夢事。」",
-    "T11n0320_013:0955c29_0": "爾時離分別天子而說偈言：「由貪癡過患，　　起分別執著，　智者善了知，　　夢中何有樂。」",
-    "T11n0320_013:0956a03_0": "爾時息虛妄天子而說偈言：「夢中說夢事，　　從顛倒所起，　如來所教勅，　　當求寂靜法。」",
-    "T11n0320_013:0956a06_0": "爾時觀察漏盡天子而說偈言：「如人於夢中，　　見天雨洪注，　了夢體本無，　　應知漏非有。」",
-    "T11n0320_013:0956a09_0": "爾時了夢境天子而說偈言：「夢境本為假，　　何曾見其漏，　展轉妄想生，　　而作於漏解。」",
-    "T11n0320_013:0956a12_0": "爾時達真常天子而說偈言：「如世間童女，　　夢已生於子，　生已而夭殤，　　何有別離苦。」",
-    "T11n0320_013:0956a15_0": "爾時尋夢境天子而說偈言：「如人於夢中，　　為他斷己首，　彼識本無得，　　誰為能斷者。」",
-    "T11n0320_013:0956a18_0": "爾時正觀察天子而說偈言：「彼智了諸法，　　如夢境和合，　無喜無別離，　　此為真勝義。」",
-    "T11n0320_013:0956a21_0": "爾時智心天子而說偈言：「從佛聞正法，　　心了若虛空，　夢中尋夢因，　　法性本如是。」",
-    "T11n0320_013:0956a24_0": "爾時意喜天子而說偈言：「汝等諸天人，　　常樂在禪定，　了知彼世間，　　猶如鏡中像。」",
-    "T11n0320_013:0956a27_0": "爾時善慧天子而說偈言：「如來所說法，　　如箜篌發聲，　饒益諸天人，　　故我稱讚禮。」",
-    "T11n0320_013:0956b01_0": "爾時了幻化天子而說偈言：「幻人作幻事，　　愚夫不能了；　智者所了知，　　一切皆如幻。」",
-    "T11n0320_013:0956b04_0": "爾時定中變化天子而說偈言：「如來出於世，　　如夢中見幻，　善達佛理者，　　於此無疑惑。」",
-    "T11n0320_013:0956b07_0": "爾時如幻化天子而說偈言：「幻師知幻法，　　於幻能變現，　由了彼幻故，　　則見諸法性。」",
-    "T11n0320_013:0956b10_0": "爾時分別觀智天子而說偈言：「汝觀世間佛，　　起思惟分別，　夢中見佛身，　　於法何所說。」",
-    "T11n0320_013:0956b13_0": "爾時離思惟天子而說偈言：「無物不生貪，　　由貪而積聚，　無思亦無貪，　　見佛亦如此。」",
-    "T11n0320_013:0956b16_0": "爾時正智天子而說偈言：「深谷本無聲，　　亦無彼聽者，　如是達佛理，　　於世無所著。」",
-    "T11n0320_013:0956b19_0": "爾時善說天子而說偈言：「如人聞谷響，　　彼聲不可得，　愚夫不了知，　　妄執以為實。」",
-    "T11n0320_013:0956b22_0": "爾時各各入解天子而說偈言：「諸愚夫執著，　　不達勝義法，　若了法性者，　　自他無疑惑。」",
-    "T11n0320_013:0956b25_0": "爾時求利益天子而說偈言：「最上勝義法，　　諸佛等無異，　無說亦無聽，　　及彼領悟者。」",
-    "T11n0320_013:0956b28_0": "爾時入解法天子而說偈言：「斷諸煩惱垢，　　分別所分別，　離染得清淨，　　牟尼之所說。」",
-    "T11n0320_013:0956c02_0": "爾時善思惟天子而說偈言：「於諸法名數，　　斷有漏煩惱，　心淨無瑕穢，　　是名真佛子。」",
-    "T11n0320_013:0956c05_0": "爾時無依止天子而說偈言：「心等於虛空，　　三界無所著，　善施不希報，　　寂靜無畏者。」",
-    "T11n0320_013:0956c08_0": "爾時無染污天子而說偈言：「於欲離諸貪，　　色無色亦爾，　牟尼心平等，　　如空無障礙。」",
-    "T11n0320_013:0956c11_0": "爾時無希望天子而說偈言：「於欲不希望，　　色無色亦爾，　離和合相應，　　歸依無上王。」",
-    "T11n0320_013:0956c14_0": "爾時拔愛欲天子而說偈言：「由斷彼愛垢，　　拔三有毒箭，　敬禮調御師，　　永超於彼岸。」",
-    "T11n0320_013:0956c17_0": "爾時降伏愛天子而說偈言：「發最上精進，　　伏除世貪愛，　常起大悲心，　　是為救世者。」",
-    "T11n0320_013:0956c20_0": "爾時離相應愛天子而說偈言：「離相應愛欲，　　不復受輪迴，　歸依無上尊，　　如蓮超濁水。」",
-    "T11n0320_013:0956c23_0": "爾時達法性天子而說偈言：「歸依離縛者，　　善達實相義，　明了諸法性，　　其心無所畏。」",
-    "T11n0320_013:0956c26_0": "爾時超欲泥天子而說偈言：「貪欲如淤泥，　　勇捍能超越，　敬禮牟尼尊，　　不復生三有。」",
-    "T11n0320_013:0956c29_0": "爾時棄珍玩天子而說偈言：「若人遠追求，　　則能離諸惡，　於珍玩無貪，　　心淨踰於彼。」",
-    "T11n0320_013:0957a03_0": "爾時離憂天子而說偈言：「若人於欲境，　　心不生放逸，　則能越魔網，　　是為大智者。」",
-    "T11n0320_013:0957a06_0": "爾時施無畏天子而說偈言：「自他修正行，　　離憂怖熱惱，　佛以無礙辯，　　令眾生覺了。」",
-    "T11n0320_013:0957a09_0": "爾時持譽天子而說偈言：「若聞佛音教，　　善思惟分別，　是人於世間，　　能盡諸苦際。」",
-    "T11n0320_013:0957a12_0": "爾時無所畏天子而說偈言：「救世釋師子，　　智海廣無極，　決定了諸法，　　能起對治道。」",
-    "T11n0320_013:0957a15_0": "爾時離諸怖天子而說偈言：「敬禮天中尊，　　無垢無所著，　善拔煩惱箭，　　能離一切怖。」",
-    "T11n0320_013:0957a18_0": "爾時無所著天子而說偈言：「若諸天魔梵，　　請佛轉法輪，　於大集會中，　　唯佛得無畏。」",
-    "T11n0320_013:0957a21_0": "爾時師子奮迅天子而說偈言：「善說一切法，　　成就一切智，　敬禮釋師子，　　三界無倫比。」",
-    "T11n0320_013:0957a24_0": "爾時除驚怖天子而說偈言：「師子依山谷，　　心常離諸怖，　震吼林藪中，　　馳散餘小獸。",
-    "T11n0320_013:0957a27_0": "　聖主出世間，　　智慧叵思議，　演法怖眾魔，　　降伏諸外道。」",
-    "T11n0320_013:0957a29_0": "爾時降伏魔怨天子而說偈言：「所來所得法，　　世間無與等，　故我稽首禮，　　聖中最聖者。」",
-    "T11n0320_013:0957b03_0": "爾時師子慧天子而說偈言：「敬禮牟尼主，　　眾聖之導師，　成就一切智，　　通達無邊法。」",
-    "T11n0320_013:0957b06_0": "爾時隨佛受生天子而說偈言：「如來證諸法，　　無能發問者，　隨佛所受生，　　請宣深妙義。」",
-    "T11n0320_013:0957b09_0": "爾時持藏天子而說偈言：「佛持正法藏，　　無畏善宣說，　百千億有情，　　皆令生覺悟。」",
-    "T11n0320_013:0957b12_0": "爾時隨法行天子而說偈言：「隨法修諸行，　　能發菩提心，　於世間勇猛，　　為最上丈夫。」",
-    "T11n0320_013:0957b15_0": "爾時樂法樂天子而說偈言：「彼大心眾生，　　由聞佛音教，　如法而行學，　　得成無上果。」",
-    "T11n0320_013:0957b18_0": "爾時淨心天子而說偈言：「如來梵音聲，　　聞已心清淨，　雖萬類機緣，　　無能發問者。」",
-    "T11n0320_013:0957b21_0": "爾時清淨眷屬天子而說偈言：「佛於長夜中，　　如理修眾行，　具相好光明，　　得眷屬圓滿。」",
-    "T11n0320_013:0957b24_0": "爾時無漏法天子而說偈言：「如來盡諸漏，　　故能師子吼，　於未曾有法，　　分別除疑惑。」",
-    "T11n0320_013:0957b27_0": "爾時達勝義天子而說偈言：「如來大智力，　　了諸法自性，　諸天及世人，　　無有如佛者。」",
-    "T11n0320_013:0957c01_0": "爾時盡諸漏天子而說偈言：「最勝大沙門，　　畢竟盡諸漏，　今此大會中，　　無能伸詰問。」",
-    "T11n0320_013:0957c04_0": "爾時常勇猛天子而說偈言：「大雄大智力，　　諸法無不見，　惑業盡無餘，　　於問難無惱。」",
-    "T11n0320_013:0957c07_0": "爾時寂意天子而說偈言：「永離貪過患，　　瞋癡亦復然，　不起惡業思，　　敬禮寂靜者。」",
-    "T11n0320_013:0957c10_0": "爾時相應行天子而說偈言：「歸依善逝師，　　永盡諸業惑，　正行常相應，　　至一切智處。」",
-    "T11n0320_013:0957c13_0": "爾時相應智天子而說偈言：「無邊相應行，　　為佛所行處，　種現習亦除，　　得成一切智。」",
-    "T11n0320_013:0957c16_0": "爾時相應慧天子而說偈言：「佛以相應慧，　　為世作照明，　根本諸惑因，　　畢竟永除斷。」",
-    "T11n0320_013:0957c19_0": "爾時寂靜受天子而說偈言：「永斷一切惑，　　深心常寂靜，　佛子善精進，　　於怖何所有。」",
-    "T11n0320_013:0957c22_0": "爾時智現證天子而說偈言：「佛盡諸煩惱，　　種現及俱生，　破眾生無明，　　大悲無與等。」",
-    "T11n0320_013:0957c25_0": "爾時拔除隨惑天子而說偈言：「牟尼天中天，　　以智能覺悟，　斷增上隨惑，　　及除餘習氣。」",
-    "T11n0320_013:0957c28_0": "爾時安隱住天子而說偈言：「能仁出興世，　　斷諸有漏因，　示現從母生，　　為利有情故。」",
-    "T11n0320_013:0958a02_0": "爾時離諸染天子而說偈言：「調御天人師，　　離煩惱怖畏，　焚燒苦根芽，　　無復餘種子。」",
-    "T11n0320_013:0958a05_0": "爾時除虛妄天子而說偈言：「佛以一切智，　　永棄無明垢，　依止清淨行，　　此名善調伏。」",
-    "T11n0320_013:0958a08_0": "父子合集經卷第十三"
-}
+[
+    {
+        "source_sentence": "父子合集經卷第十三",
+        "from": "T11n0320_013:0954c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫",
+        "from": "T11n0320_013:0954c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "試鴻臚卿宣梵大師賜紫",
+        "from": "T11n0320_013:0954c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙門臣日稱等奉　詔譯24 淨居天子說偈讚佛品1淨居天子說偈讚佛品第二十四爾時會中有無數淨居天子及無量眾生，於佛法中，心得覺悟，離諸疑惑，深生愛樂，歡喜踊躍，得未曾有，一心合掌，住立佛前，各以伽陀，稱讚於佛。",
+        "from": "T11n0320_013:0954c22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時善施天子而說偈言：",
+        "from": "T11n0320_013:0954c23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「佛昔捨身命，　　國土及妻子，",
+        "from": "T11n0320_013:0954c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圓滿彼施行，　　故我稽首禮。",
+        "from": "T11n0320_013:0954c25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時淨戒天子而說偈言：",
+        "from": "T11n0320_013:0954c26_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「堅固持淨戒，　　離一切垢染，",
+        "from": "T11n0320_013:0954c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能渡於彼岸，　　頂禮具戒者。",
+        "from": "T11n0320_013:0954c28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時安忍天子而說偈言：",
+        "from": "T11n0320_013:0954c29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「佛廣修忍行，　　為他斷肢節，",
+        "from": "T11n0320_013:0955a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不生怨恨心，　　得成無上慧。",
+        "from": "T11n0320_013:0955a02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時精進天子而說偈言：",
+        "from": "T11n0320_013:0955a03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大雄猛世尊，　　捨生死重擔，",
+        "from": "T11n0320_013:0955a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勤修無退屈，　　速至於菩提。",
+        "from": "T11n0320_013:0955a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時靜慮天子而說偈言：",
+        "from": "T11n0320_013:0955a06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如來大威德，　　常棲止禪定，",
+        "from": "T11n0320_013:0955a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不著彼世間，　　三際悉平等。",
+        "from": "T11n0320_013:0955a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時勝慧天子而說偈言：",
+        "from": "T11n0320_013:0955a09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如來勝慧力，　　知眾生諸行，",
+        "from": "T11n0320_013:0955a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如業而受報，　　隨界趣流轉。",
+        "from": "T11n0320_013:0955a11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時明福業天子而說偈言：",
+        "from": "T11n0320_013:0955a12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若修彼福業，　　勝報常現前，",
+        "from": "T11n0320_013:0955a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘不能了知，　　此唯佛境界。",
+        "from": "T11n0320_013:0955a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時了罪性天子而說偈言：",
+        "from": "T11n0320_013:0955a15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「眾生由惑業，　　常貪求彼物，",
+        "from": "T11n0320_013:0955a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於心若了悟，　　一切悉通達。",
+        "from": "T11n0320_013:0955a17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時善巧智天子而說偈言：",
+        "from": "T11n0320_013:0955a18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若人於佛智，　　善思惟分別，",
+        "from": "T11n0320_013:0955a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常念如己物，　　菩提不難得。",
+        "from": "T11n0320_013:0955a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時善巧行天子而說偈言：",
+        "from": "T11n0320_013:0955a21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若起諸惑業，　　內心非所思，",
+        "from": "T11n0320_013:0955a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了罪性本空，　　此為證法者。",
+        "from": "T11n0320_013:0955a23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時遍趣行天子而說偈言：",
+        "from": "T11n0320_013:0955a24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若人造諸行，　　隨善惡流轉，",
+        "from": "T11n0320_013:0955a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受好醜之報，　　佛眼悉知見。",
+        "from": "T11n0320_013:0955a26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時離攀緣天子而說偈言：",
+        "from": "T11n0320_013:0955a27_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若於所受報，　　能了知攀緣，",
+        "from": "T11n0320_013:0955a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖生諸趣中，　　常與智隨轉。",
+        "from": "T11n0320_013:0955a29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時隨順善巧天子而說偈言：",
+        "from": "T11n0320_013:0955b01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若造作諸惡，　　或修習眾善，",
+        "from": "T11n0320_013:0955b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆由先業故，　　隨所生受果。",
+        "from": "T11n0320_013:0955b03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時業善巧天子而說偈言：",
+        "from": "T11n0320_013:0955b04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「了三世業行，　　斷故不造新，",
+        "from": "T11n0320_013:0955b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愚夫無正慧，　　隨惡而流轉。",
+        "from": "T11n0320_013:0955b06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時果善巧天子而說偈言：",
+        "from": "T11n0320_013:0955b07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「或因少果多，　　或因多果少，",
+        "from": "T11n0320_013:0955b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於此不了知，　　為愚癡外道。",
+        "from": "T11n0320_013:0955b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時了知業行天子而說偈言：",
+        "from": "T11n0320_013:0955b10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「善因生勝處，　　惡業墮險難，",
+        "from": "T11n0320_013:0955b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨眾生所行，　　如來悉明了。",
+        "from": "T11n0320_013:0955b12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時見法樂天子而說偈言：",
+        "from": "T11n0320_013:0955b13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若人受福報，　　而不了善法，",
+        "from": "T11n0320_013:0955b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼為自欺誑，　　不久當墮落。",
+        "from": "T11n0320_013:0955b15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時善受生天子而說偈言：",
+        "from": "T11n0320_013:0955b16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若造諸勝業，　　順生受其報，",
+        "from": "T11n0320_013:0955b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯佛正了知，　　世間不能解。",
+        "from": "T11n0320_013:0955b18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時善受名天子而說偈言：",
+        "from": "T11n0320_013:0955b19_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若業經多生，　　或俱胝劫數，",
+        "from": "T11n0320_013:0955b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "展轉于今身，　　受報佛能了。",
+        "from": "T11n0320_013:0955b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時受報成熟天子而說偈言：",
+        "from": "T11n0320_013:0955b22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若此業和合，　　彼有情受生，",
+        "from": "T11n0320_013:0955b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆從昔因緣，　　如來悉明了。",
+        "from": "T11n0320_013:0955b24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時根未成熟天子而說偈言：",
+        "from": "T11n0320_013:0955b25_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「彼根未成熟，　　樂作不善行，",
+        "from": "T11n0320_013:0955b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠離二足尊，　　不希望解脫。",
+        "from": "T11n0320_013:0955b27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時善成熟天子而說偈言：",
+        "from": "T11n0320_013:0955b28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若業已成熟，　　及未成熟者，",
+        "from": "T11n0320_013:0955b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "業性本來空，　　隨心之所造。",
+        "from": "T11n0320_013:0955c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時決定受天子而說偈言：",
+        "from": "T11n0320_013:0955c02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「眾生所作業，　　若重若輕微，",
+        "from": "T11n0320_013:0955c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來悉證知，　　受報無差忒。",
+        "from": "T11n0320_013:0955c04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時了罪相天子而說偈言：",
+        "from": "T11n0320_013:0955c05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若造眾惡行，　　當墮於惡趣，",
+        "from": "T11n0320_013:0955c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或外遇良緣，　　轉重令輕受。",
+        "from": "T11n0320_013:0955c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時明業報天子而說偈言：",
+        "from": "T11n0320_013:0955c08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「積集諸罪惡，　　為彼所纏縛，",
+        "from": "T11n0320_013:0955c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不畏未來苦，　　此邪見外道。",
+        "from": "T11n0320_013:0955c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時善思惟天子而說偈言：",
+        "from": "T11n0320_013:0955c11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「能思擇善行，　　少善招勝報，",
+        "from": "T11n0320_013:0955c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如以涓渧水，　　置海永無減。",
+        "from": "T11n0320_013:0955c13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時入解諸法天子而說偈言：",
+        "from": "T11n0320_013:0955c14_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若人能永盡，　　有漏分別業，",
+        "from": "T11n0320_013:0955c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當證無學果，　　是如來所說。",
+        "from": "T11n0320_013:0955c16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時證佛智天子而說偈言：",
+        "from": "T11n0320_013:0955c17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「佛眼悉明了，　　三世諸業果，",
+        "from": "T11n0320_013:0955c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種習無遺餘，　　敬禮遍知者。",
+        "from": "T11n0320_013:0955c19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時業無餘天子而說偈言：",
+        "from": "T11n0320_013:0955c20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世間諸有情，　　或此生彼滅，",
+        "from": "T11n0320_013:0955c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來已永盡，　　得稱無畏者。",
+        "from": "T11n0320_013:0955c22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時離攀緣行天子而說偈言：",
+        "from": "T11n0320_013:0955c23_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「眾生所行行，　　唯趣於生滅，",
+        "from": "T11n0320_013:0955c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "果報如夢幻，　　此如來所說。",
+        "from": "T11n0320_013:0955c25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時伏諸惑天子而說偈言：",
+        "from": "T11n0320_013:0955c26_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「愚癡著欲者，　　如渴飲鹹水，",
+        "from": "T11n0320_013:0955c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故調御師，　　觀之如夢事。",
+        "from": "T11n0320_013:0955c28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時離分別天子而說偈言：",
+        "from": "T11n0320_013:0955c29_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「由貪癡過患，　　起分別執著，",
+        "from": "T11n0320_013:0956a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者善了知，　　夢中何有樂。",
+        "from": "T11n0320_013:0956a02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時息虛妄天子而說偈言：",
+        "from": "T11n0320_013:0956a03_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「夢中說夢事，　　從顛倒所起，",
+        "from": "T11n0320_013:0956a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來所教勅，　　當求寂靜法。",
+        "from": "T11n0320_013:0956a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時觀察漏盡天子而說偈言：",
+        "from": "T11n0320_013:0956a06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如人於夢中，　　見天雨洪注，",
+        "from": "T11n0320_013:0956a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了夢體本無，　　應知漏非有。",
+        "from": "T11n0320_013:0956a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時了夢境天子而說偈言：",
+        "from": "T11n0320_013:0956a09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「夢境本為假，　　何曾見其漏，",
+        "from": "T11n0320_013:0956a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "展轉妄想生，　　而作於漏解。",
+        "from": "T11n0320_013:0956a11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時達真常天子而說偈言：",
+        "from": "T11n0320_013:0956a12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如世間童女，　　夢已生於子，",
+        "from": "T11n0320_013:0956a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生已而夭殤，　　何有別離苦。",
+        "from": "T11n0320_013:0956a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時尋夢境天子而說偈言：",
+        "from": "T11n0320_013:0956a15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如人於夢中，　　為他斷己首，",
+        "from": "T11n0320_013:0956a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼識本無得，　　誰為能斷者。",
+        "from": "T11n0320_013:0956a17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時正觀察天子而說偈言：",
+        "from": "T11n0320_013:0956a18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「彼智了諸法，　　如夢境和合，",
+        "from": "T11n0320_013:0956a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無喜無別離，　　此為真勝義。",
+        "from": "T11n0320_013:0956a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時智心天子而說偈言：",
+        "from": "T11n0320_013:0956a21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「從佛聞正法，　　心了若虛空，",
+        "from": "T11n0320_013:0956a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夢中尋夢因，　　法性本如是。",
+        "from": "T11n0320_013:0956a23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時意喜天子而說偈言：",
+        "from": "T11n0320_013:0956a24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝等諸天人，　　常樂在禪定，",
+        "from": "T11n0320_013:0956a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了知彼世間，　　猶如鏡中像。",
+        "from": "T11n0320_013:0956a26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時善慧天子而說偈言：",
+        "from": "T11n0320_013:0956a27_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如來所說法，　　如箜篌發聲，",
+        "from": "T11n0320_013:0956a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "饒益諸天人，　　故我稱讚禮。",
+        "from": "T11n0320_013:0956a29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時了幻化天子而說偈言：",
+        "from": "T11n0320_013:0956b01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「幻人作幻事，　　愚夫不能了；",
+        "from": "T11n0320_013:0956b02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者所了知，　　一切皆如幻。",
+        "from": "T11n0320_013:0956b03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時定中變化天子而說偈言：",
+        "from": "T11n0320_013:0956b04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如來出於世，　　如夢中見幻，",
+        "from": "T11n0320_013:0956b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善達佛理者，　　於此無疑惑。",
+        "from": "T11n0320_013:0956b06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時如幻化天子而說偈言：",
+        "from": "T11n0320_013:0956b07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「幻師知幻法，　　於幻能變現，",
+        "from": "T11n0320_013:0956b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由了彼幻故，　　則見諸法性。",
+        "from": "T11n0320_013:0956b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時分別觀智天子而說偈言：",
+        "from": "T11n0320_013:0956b10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝觀世間佛，　　起思惟分別，",
+        "from": "T11n0320_013:0956b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夢中見佛身，　　於法何所說。",
+        "from": "T11n0320_013:0956b12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時離思惟天子而說偈言：",
+        "from": "T11n0320_013:0956b13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「無物不生貪，　　由貪而積聚，",
+        "from": "T11n0320_013:0956b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無思亦無貪，　　見佛亦如此。",
+        "from": "T11n0320_013:0956b15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時正智天子而說偈言：",
+        "from": "T11n0320_013:0956b16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「深谷本無聲，　　亦無彼聽者，",
+        "from": "T11n0320_013:0956b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是達佛理，　　於世無所著。",
+        "from": "T11n0320_013:0956b18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時善說天子而說偈言：",
+        "from": "T11n0320_013:0956b19_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如人聞谷響，　　彼聲不可得，",
+        "from": "T11n0320_013:0956b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愚夫不了知，　　妄執以為實。",
+        "from": "T11n0320_013:0956b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時各各入解天子而說偈言：",
+        "from": "T11n0320_013:0956b22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「諸愚夫執著，　　不達勝義法，",
+        "from": "T11n0320_013:0956b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若了法性者，　　自他無疑惑。",
+        "from": "T11n0320_013:0956b24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時求利益天子而說偈言：",
+        "from": "T11n0320_013:0956b25_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「最上勝義法，　　諸佛等無異，",
+        "from": "T11n0320_013:0956b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無說亦無聽，　　及彼領悟者。",
+        "from": "T11n0320_013:0956b27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時入解法天子而說偈言：",
+        "from": "T11n0320_013:0956b28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「斷諸煩惱垢，　　分別所分別，",
+        "from": "T11n0320_013:0956b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離染得清淨，　　牟尼之所說。",
+        "from": "T11n0320_013:0956c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時善思惟天子而說偈言：",
+        "from": "T11n0320_013:0956c02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「於諸法名數，　　斷有漏煩惱，",
+        "from": "T11n0320_013:0956c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心淨無瑕穢，　　是名真佛子。",
+        "from": "T11n0320_013:0956c04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時無依止天子而說偈言：",
+        "from": "T11n0320_013:0956c05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「心等於虛空，　　三界無所著，",
+        "from": "T11n0320_013:0956c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善施不希報，　　寂靜無畏者。",
+        "from": "T11n0320_013:0956c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時無染污天子而說偈言：",
+        "from": "T11n0320_013:0956c08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「於欲離諸貪，　　色無色亦爾，",
+        "from": "T11n0320_013:0956c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牟尼心平等，　　如空無障礙。",
+        "from": "T11n0320_013:0956c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時無希望天子而說偈言：",
+        "from": "T11n0320_013:0956c11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「於欲不希望，　　色無色亦爾，",
+        "from": "T11n0320_013:0956c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離和合相應，　　歸依無上王。",
+        "from": "T11n0320_013:0956c13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時拔愛欲天子而說偈言：",
+        "from": "T11n0320_013:0956c14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「由斷彼愛垢，　　拔三有毒箭，",
+        "from": "T11n0320_013:0956c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬禮調御師，　　永超於彼岸。",
+        "from": "T11n0320_013:0956c16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時降伏愛天子而說偈言：",
+        "from": "T11n0320_013:0956c17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「發最上精進，　　伏除世貪愛，",
+        "from": "T11n0320_013:0956c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常起大悲心，　　是為救世者。",
+        "from": "T11n0320_013:0956c19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時離相應愛天子而說偈言：",
+        "from": "T11n0320_013:0956c20_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「離相應愛欲，　　不復受輪迴，",
+        "from": "T11n0320_013:0956c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸依無上尊，　　如蓮超濁水。",
+        "from": "T11n0320_013:0956c22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時達法性天子而說偈言：",
+        "from": "T11n0320_013:0956c23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「歸依離縛者，　　善達實相義，",
+        "from": "T11n0320_013:0956c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明了諸法性，　　其心無所畏。",
+        "from": "T11n0320_013:0956c25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時超欲泥天子而說偈言：",
+        "from": "T11n0320_013:0956c26_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「貪欲如淤泥，　　勇捍能超越，",
+        "from": "T11n0320_013:0956c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬禮牟尼尊，　　不復生三有。",
+        "from": "T11n0320_013:0956c28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時棄珍玩天子而說偈言：",
+        "from": "T11n0320_013:0956c29_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若人遠追求，　　則能離諸惡，",
+        "from": "T11n0320_013:0957a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於珍玩無貪，　　心淨踰於彼。",
+        "from": "T11n0320_013:0957a02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時離憂天子而說偈言：",
+        "from": "T11n0320_013:0957a03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若人於欲境，　　心不生放逸，",
+        "from": "T11n0320_013:0957a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "則能越魔網，　　是為大智者。",
+        "from": "T11n0320_013:0957a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時施無畏天子而說偈言：",
+        "from": "T11n0320_013:0957a06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「自他修正行，　　離憂怖熱惱，",
+        "from": "T11n0320_013:0957a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛以無礙辯，　　令眾生覺了。",
+        "from": "T11n0320_013:0957a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時持譽天子而說偈言：",
+        "from": "T11n0320_013:0957a09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若聞佛音教，　　善思惟分別，",
+        "from": "T11n0320_013:0957a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是人於世間，　　能盡諸苦際。",
+        "from": "T11n0320_013:0957a11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時無所畏天子而說偈言：",
+        "from": "T11n0320_013:0957a12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「救世釋師子，　　智海廣無極，",
+        "from": "T11n0320_013:0957a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "決定了諸法，　　能起對治道。",
+        "from": "T11n0320_013:0957a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時離諸怖天子而說偈言：",
+        "from": "T11n0320_013:0957a15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「敬禮天中尊，　　無垢無所著，",
+        "from": "T11n0320_013:0957a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善拔煩惱箭，　　能離一切怖。",
+        "from": "T11n0320_013:0957a17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時無所著天子而說偈言：",
+        "from": "T11n0320_013:0957a18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若諸天魔梵，　　請佛轉法輪，",
+        "from": "T11n0320_013:0957a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於大集會中，　　唯佛得無畏。",
+        "from": "T11n0320_013:0957a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時師子奮迅天子而說偈言：",
+        "from": "T11n0320_013:0957a21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「善說一切法，　　成就一切智，",
+        "from": "T11n0320_013:0957a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬禮釋師子，　　三界無倫比。",
+        "from": "T11n0320_013:0957a23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時除驚怖天子而說偈言：",
+        "from": "T11n0320_013:0957a24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「師子依山谷，　　心常離諸怖，",
+        "from": "T11n0320_013:0957a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "震吼林藪中，　　馳散餘小獸。",
+        "from": "T11n0320_013:0957a26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖主出世間，　　智慧叵思議，",
+        "from": "T11n0320_013:0957a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "演法怖眾魔，　　降伏諸外道。",
+        "from": "T11n0320_013:0957a28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時降伏魔怨天子而說偈言：",
+        "from": "T11n0320_013:0957a29_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「所來所得法，　　世間無與等，",
+        "from": "T11n0320_013:0957b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故我稽首禮，　　聖中最聖者。",
+        "from": "T11n0320_013:0957b02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時師子慧天子而說偈言：",
+        "from": "T11n0320_013:0957b03_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「敬禮牟尼主，　　眾聖之導師，",
+        "from": "T11n0320_013:0957b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "成就一切智，　　通達無邊法。",
+        "from": "T11n0320_013:0957b05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時隨佛受生天子而說偈言：",
+        "from": "T11n0320_013:0957b06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如來證諸法，　　無能發問者，",
+        "from": "T11n0320_013:0957b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨佛所受生，　　請宣深妙義。",
+        "from": "T11n0320_013:0957b08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時持藏天子而說偈言：",
+        "from": "T11n0320_013:0957b09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「佛持正法藏，　　無畏善宣說，",
+        "from": "T11n0320_013:0957b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "百千億有情，　　皆令生覺悟。",
+        "from": "T11n0320_013:0957b11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時隨法行天子而說偈言：",
+        "from": "T11n0320_013:0957b12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「隨法修諸行，　　能發菩提心，",
+        "from": "T11n0320_013:0957b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於世間勇猛，　　為最上丈夫。",
+        "from": "T11n0320_013:0957b14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時樂法樂天子而說偈言：",
+        "from": "T11n0320_013:0957b15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「彼大心眾生，　　由聞佛音教，",
+        "from": "T11n0320_013:0957b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如法而行學，　　得成無上果。",
+        "from": "T11n0320_013:0957b17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時淨心天子而說偈言：",
+        "from": "T11n0320_013:0957b18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如來梵音聲，　　聞已心清淨，",
+        "from": "T11n0320_013:0957b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖萬類機緣，　　無能發問者。",
+        "from": "T11n0320_013:0957b20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時清淨眷屬天子而說偈言：",
+        "from": "T11n0320_013:0957b21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「佛於長夜中，　　如理修眾行，",
+        "from": "T11n0320_013:0957b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具相好光明，　　得眷屬圓滿。",
+        "from": "T11n0320_013:0957b23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時無漏法天子而說偈言：",
+        "from": "T11n0320_013:0957b24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如來盡諸漏，　　故能師子吼，",
+        "from": "T11n0320_013:0957b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於未曾有法，　　分別除疑惑。",
+        "from": "T11n0320_013:0957b26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時達勝義天子而說偈言：",
+        "from": "T11n0320_013:0957b27_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如來大智力，　　了諸法自性，",
+        "from": "T11n0320_013:0957b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸天及世人，　　無有如佛者。",
+        "from": "T11n0320_013:0957b29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時盡諸漏天子而說偈言：",
+        "from": "T11n0320_013:0957c01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「最勝大沙門，　　畢竟盡諸漏，",
+        "from": "T11n0320_013:0957c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今此大會中，　　無能伸詰問。",
+        "from": "T11n0320_013:0957c03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時常勇猛天子而說偈言：",
+        "from": "T11n0320_013:0957c04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大雄大智力，　　諸法無不見，",
+        "from": "T11n0320_013:0957c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惑業盡無餘，　　於問難無惱。",
+        "from": "T11n0320_013:0957c06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時寂意天子而說偈言：",
+        "from": "T11n0320_013:0957c07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「永離貪過患，　　瞋癡亦復然，",
+        "from": "T11n0320_013:0957c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不起惡業思，　　敬禮寂靜者。",
+        "from": "T11n0320_013:0957c09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時相應行天子而說偈言：",
+        "from": "T11n0320_013:0957c10_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「歸依善逝師，　　永盡諸業惑，",
+        "from": "T11n0320_013:0957c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正行常相應，　　至一切智處。",
+        "from": "T11n0320_013:0957c12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時相應智天子而說偈言：",
+        "from": "T11n0320_013:0957c13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「無邊相應行，　　為佛所行處，",
+        "from": "T11n0320_013:0957c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種現習亦除，　　得成一切智。",
+        "from": "T11n0320_013:0957c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時相應慧天子而說偈言：",
+        "from": "T11n0320_013:0957c16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「佛以相應慧，　　為世作照明，",
+        "from": "T11n0320_013:0957c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "根本諸惑因，　　畢竟永除斷。",
+        "from": "T11n0320_013:0957c18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時寂靜受天子而說偈言：",
+        "from": "T11n0320_013:0957c19_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「永斷一切惑，　　深心常寂靜，",
+        "from": "T11n0320_013:0957c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛子善精進，　　於怖何所有。",
+        "from": "T11n0320_013:0957c21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時智現證天子而說偈言：",
+        "from": "T11n0320_013:0957c22_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「佛盡諸煩惱，　　種現及俱生，",
+        "from": "T11n0320_013:0957c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "破眾生無明，　　大悲無與等。",
+        "from": "T11n0320_013:0957c24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時拔除隨惑天子而說偈言：",
+        "from": "T11n0320_013:0957c25_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「牟尼天中天，　　以智能覺悟，",
+        "from": "T11n0320_013:0957c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷增上隨惑，　　及除餘習氣。",
+        "from": "T11n0320_013:0957c27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時安隱住天子而說偈言：",
+        "from": "T11n0320_013:0957c28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「能仁出興世，　　斷諸有漏因，",
+        "from": "T11n0320_013:0957c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "示現從母生，　　為利有情故。",
+        "from": "T11n0320_013:0958a01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時離諸染天子而說偈言：",
+        "from": "T11n0320_013:0958a02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「調御天人師，　　離煩惱怖畏，",
+        "from": "T11n0320_013:0958a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "焚燒苦根芽，　　無復餘種子。",
+        "from": "T11n0320_013:0958a04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時除虛妄天子而說偈言：",
+        "from": "T11n0320_013:0958a05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「佛以一切智，　　永棄無明垢，",
+        "from": "T11n0320_013:0958a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依止清淨行，　　此名善調伏。",
+        "from": "T11n0320_013:0958a07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」父子合集經卷第十三",
+        "from": "T11n0320_013:0958a08_100",
+        "context_with_next_sentence": false
+    }
+]

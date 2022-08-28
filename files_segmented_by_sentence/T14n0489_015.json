@@ -1,122 +1,987 @@
-{
-    "T14n0489_015:0741a03_0": "佛說除蓋障菩薩所問經卷第十",
-    "T14n0489_015:0741a04_0": "五",
-    "T14n0489_015:0741a05_0": "西天譯經三藏朝散大夫試鴻臚",
-    "T14n0489_015:0741a06_0": "卿傳梵大師賜紫沙門臣法護等",
-    "T14n0489_015:0741a07_0": "奉　詔譯",
-    "T14n0489_015:0741a08_0": "「復次，善男子！",
-    "T14n0489_015:0741a08_1": "云何是菩薩於諸過患善能除斷？",
-    "T14n0489_015:0741a09_2": "謂若菩薩於自身中所有過患勤行除斷，若他身中有諸過患教令斷滅，不堪任者即當捨離。",
-    "T14n0489_015:0741a11_3": "何等是過患？",
-    "T14n0489_015:0741a11_4": "所謂於佛法僧不生尊重，及於戒學并諸聖人，同梵行者上中下位，於是等處不生尊重，自生我慢輕易於他，順諸愛境逆背涅槃，起於我見，有情、壽者、士夫、養者、補特伽羅等見，執空斷見執常無常。",
-    "T14n0489_015:0741a15_5": "不樂諸聖親附愚人，遠離清淨持戒之者，尊重供養破戒之者，隨逐惡友棄捨善友，毀謗如來甚深經典。",
-    "T14n0489_015:0741a18_6": "復於深經而生驚怖，懶墮懈怠輕賤己身，志性下劣無有威光，亦無辯才非處造惡，不應疑處乃生疑惑，所應疑處而不能疑，蓋障纏縛諂誑隨逐，惛沈睡眠之所覆蔽。",
-    "T14n0489_015:0741a22_0": "「樂著利養貪愛種族眷屬國土，起諸愛見貪愛眾會，復常習近外道典籍，厭離正法破毀誓願。",
-    "T14n0489_015:0741a24_1": "慣習修作不善之法，於諸善法而不慣習，親洽於彼非出家人，又復親洽男子、女人、童男、童女及諸外道。",
-    "T14n0489_015:0741a26_2": "不樂阿蘭若處，食不知量，而不親附師尊長宿，凡所習誦亦不知時。",
-    "T14n0489_015:0741a28_0": "「又復，不知所行方處，微細戒學亦不尊敬，觀其小罪不生怖畏，於其癡暗根性之者計為寂靜，於其高勝利根之者，倨傲而行起諸邪執，常出惡言。",
-    "T14n0489_015:0741b02_1": "於諸可愛及不可愛色相之中隨順執著，見瞋恚者不起慈心，見苦惱者不生悲慜，見疾病者不起厭離，見彼死者不懷驚怖。",
-    "T14n0489_015:0741b05_2": "於火宅中不求出離，不能審細伺察其身，不觀戒行。",
-    "T14n0489_015:0741b06_3": "何者已作？",
-    "T14n0489_015:0741b06_4": "何者當作？",
-    "T14n0489_015:0741b06_5": "何者現作？",
-    "T14n0489_015:0741b07_6": "而悉不能審細伺察。",
-    "T14n0489_015:0741b07_7": "不應思惟而起思惟，不應計度而起計度，不應追求而起追求，非出離中計出離想，非道之中計正道想，未得所證計已得想。",
-    "T14n0489_015:0741b10_8": "「世俗所作專一其心，非所作中而生勤勇，廣大善法常所遠離，毀謗大乘之法，稱讚聲聞乘法，毀謗深信大乘之人，稱讚修行聲聞道人，常與他人而共言訟，常興鬪諍惡口麁言。",
-    "T14n0489_015:0741b14_9": "為性高倨自恃胸臆，磣毒暴惡恣其貪婪，語無誠信輕毀他人，非說而說言多虛妄，愛樂計著諸有戲論。",
-    "T14n0489_015:0741b16_10": "此等是為種種過患。",
-    "T14n0489_015:0741b17_11": "「菩薩善斷如是過患已，離諸戲論勤修空觀。",
-    "T14n0489_015:0741b18_12": "菩薩雖復多修空觀，然於處處其心流散有所樂住。",
-    "T14n0489_015:0741b19_13": "菩薩即時於諸境處遍求自性，皆悉是空了不可得。",
-    "T14n0489_015:0741b20_14": "由境空故，觀察彼心亦悉是空，心境空故能觀察智，而亦是空了不可得。",
-    "T14n0489_015:0741b22_15": "菩薩又復勤行觀察諸相皆空，菩薩雖觀無相，猶有彼彼諸相現前而為對礙，是故乃觀無有內相，無內相故身不可得，及身念住亦不可得，亦不繫心於身亦無外相可得，亦無外相念住可得，心不繫著，外相離故身相亦離。",
-    "T14n0489_015:0741b27_16": "「由內諸相得斷滅已，勤行發起修習意樂，由多修習諸觀行故，能常勤修於奢摩他毘鉢舍那，所修之行中無間斷。",
-    "T14n0489_015:0741b29_17": "所謂心一境性是奢摩他，如實觀察諸法自性是毘鉢舍那。",
-    "T14n0489_015:0741c02_18": "由心一境性住奢摩他故，即於三摩呬多心歡喜無悔。",
-    "T14n0489_015:0741c03_19": "何以故？",
-    "T14n0489_015:0741c03_20": "若戒清淨及戒具足，是即菩薩瑜伽之行。",
-    "T14n0489_015:0741c04_21": "以戒具足故增長瑜伽，戒具足故修習瑜伽，此說名為修瑜伽行。",
-    "T14n0489_015:0741c06_0": "善男子！",
-    "T14n0489_015:0741c06_1": "菩薩若修如是十種法者，善修瑜伽之行。",
-    "T14n0489_015:0741c07_2": "「又，善男子！",
-    "T14n0489_015:0741c07_3": "菩薩若修十種法者，能持如來修多羅教。",
-    "T14n0489_015:0741c08_4": "何等為十？",
-    "T14n0489_015:0741c08_5": "一者、為護正法故聽聞受持，不為資財；二者、為守護教故聽聞受持，不為利養；三者、令三寶種得不斷故聽聞受持，不為求他恭敬；四者、為欲攝受安住大乘諸有情故聽聞受持，不為名稱；五者、為利益無依無救諸有情故聽聞受持；六者、為令苦惱有情得安樂故聽聞受持；七者、為令無慧眼者得慧眼故聽聞受持；八者、為彼住聲聞乘者說示聲聞道故聽聞受持；九者、為彼住大乘者說示大乘法故聽聞受持；十者、為自取證無上智故聽聞受持，不為求彼下劣乘故。",
-    "T14n0489_015:0741c18_6": "善男子！",
-    "T14n0489_015:0741c19_7": "菩薩若修如是十種法者，能持如來修多羅教。",
-    "T14n0489_015:0741c20_8": "「又，善男子！",
-    "T14n0489_015:0741c20_9": "菩薩若修十種法者，能持律教。",
-    "T14n0489_015:0741c21_10": "何等為十？",
-    "T14n0489_015:0741c21_11": "一者、善知於律；二者、善知律之儀範；三者、善知律甚深義；四者、善知律微細相；五者、善知應作不應作；六者、善知自性違犯；七者、善知施設違犯；八者、善知波羅提木叉所起因緣；九者、善知聲聞律法；十者、善知菩薩律法。",
-    "T14n0489_015:0741c26_12": "善男子！",
-    "T14n0489_015:0741c26_13": "菩薩若修如是十種法者，善持律教。",
-    "T14n0489_015:0741c27_14": "「又，善男子！",
-    "T14n0489_015:0741c27_15": "菩薩若修十種法者，善解軌則所行境界威儀具足。",
-    "T14n0489_015:0741c28_16": "何等為十？",
-    "T14n0489_015:0741c28_17": "一者、善學聲聞學處；二者、善學緣覺學處；三者、善學菩薩學處；四者、於彼一切學處修習具足；五者、於所行軌則得具足已，而能遠離非沙門行；六者、以是因緣故，菩薩不於非處非方非時所行；七者、於其沙門軌則所行得具足已，不為諸沙門或婆羅門非理譏毀；八者、令他亦如是學；九者、所行軌則得具足故，容相端嚴威儀寂靜；十者、具足威儀而無詐異。",
-    "T14n0489_015:0742a08_0": "善男子！",
-    "T14n0489_015:0742a08_1": "菩薩若修如是十種法者，善解軌則所行境界威儀具足。",
-    "T14n0489_015:0742a09_2": "「又，善男子！",
-    "T14n0489_015:0742a09_3": "菩薩若修十種法者，能離慳嫉。",
-    "T14n0489_015:0742a10_4": "何等為十？",
-    "T14n0489_015:0742a10_5": "一者、自為施主；二者、教他行施；三者、讚歎布施；四者、見他施時心生隨喜；五者、令餘施主慶快利喜；六者、見施他時，不應生念：『此應施我勿施於他，我族應得他族非得。』",
-    "T14n0489_015:0742a14_6": "七者、菩薩發如是心，令諸有情一切皆得濟命資具悉獲安樂；八者、令諸有情悉能成就勝出世間最上安樂；九者、菩薩作如是念：『我常勤修利有情事。』",
-    "T14n0489_015:0742a17_7": "十者、菩薩作如是念：『我終不起慳嫉之心。』",
-    "T14n0489_015:0742a18_8": "善男子！",
-    "T14n0489_015:0742a18_9": "菩薩若修如是十種法者，能離慳嫉。",
-    "T14n0489_015:0742a19_10": "「又，善男子！",
-    "T14n0489_015:0742a19_11": "菩薩若修十種法者，能於一切有情住平等心。",
-    "T14n0489_015:0742a21_0": "何等為十？",
-    "T14n0489_015:0742a21_1": "一者、於一切有情起平等方便；二者、於一切有情起無障礙心；三者、於一切有情起無瞋惱心；四者、為一切有情廣行布施；五者、守護戒行；六者、修持忍辱；七者、發勤精進；八者、安住禪定；九者、修習勝慧；十者、積集彼一切智，菩薩如是依無二心之所積集。",
-    "T14n0489_015:0742a26_2": "何以故？",
-    "T14n0489_015:0742a27_3": "菩薩於一切有情平等積集故，以一切有情為所緣境而積集故，如是速能普令一切證得法性，菩薩自能出離大火宅已，復令他人亦悉出離，以其安住平等心故心無高下。",
-    "T14n0489_015:0742b02_4": "「善男子！",
-    "T14n0489_015:0742b02_5": "譬如長者有其六子，而一一子稱可父意，慈愛怜惜而悉同等，是等諸子幼無所識復不明了，其父同以方便訓育。",
-    "T14n0489_015:0742b04_6": "一時父舍欻然火起，而彼諸子各各異處。",
-    "T14n0489_015:0742b05_7": "善男子！",
-    "T14n0489_015:0742b06_0": "於汝意云何？",
-    "T14n0489_015:0742b06_1": "時彼長者可作是念：『此諸子等令同出邪？",
-    "T14n0489_015:0742b07_2": "前後出邪？』」",
-    "T14n0489_015:0742b07_3": "除蓋障菩薩白佛言：「不也。",
-    "T14n0489_015:0742b08_4": "世尊！",
-    "T14n0489_015:0742b08_5": "何以故？",
-    "T14n0489_015:0742b08_6": "而彼長者以平等心怜愛無異，是時諸子雖各異處，以等愛心俱時令出。」",
-    "T14n0489_015:0742b10_0": "佛言：「善男子！",
-    "T14n0489_015:0742b10_1": "菩薩亦復如是，一切有情悉是愚夫而非聖者。",
-    "T14n0489_015:0742b11_2": "久處生死大火宅中，愚癡無識復不明了，各各散在諸趣之中。",
-    "T14n0489_015:0742b12_3": "菩薩為救度故，隨以方便俱時令出彼大火宅，出火宅已，普令安住寂靜界中。",
-    "T14n0489_015:0742b14_4": "善男子！",
-    "T14n0489_015:0742b14_5": "菩薩若修如是十種法者，能於一切有情住平等心。",
-    "T14n0489_015:0742b15_6": "「又，善男子！",
-    "T14n0489_015:0742b16_7": "菩薩若修十種法者，善能承事供養如來。",
-    "T14n0489_015:0742b17_8": "何等為十？",
-    "T14n0489_015:0742b17_9": "一者、以法供養是為承事供養如來非財供養；二者、如說修行，是為供養；三者、為諸有情作利樂事，是為供養；四者、攝受有情，是為供養；五者、為諸有情隨順所行，是為供養；六者、不捨誓願，是為供養；七者、不捨菩薩事業，是為供養；八者、如說能行，是為供養；九者、諸有所作不生懈倦，是為供養；十者不捨菩提心，是為承事供養如來非財供養。",
-    "T14n0489_015:0742b25_10": "何以故？",
-    "T14n0489_015:0742b25_11": "善男子！",
-    "T14n0489_015:0742b25_12": "法身即是如來，是故以法供養即為供養如來。",
-    "T14n0489_015:0742b26_13": "又積集如來所說，是即如說修行；發起諸利樂事，是即利樂有情；施作有情事業，是即攝受有情。",
-    "T14n0489_015:0742b28_14": "「善男子！",
-    "T14n0489_015:0742b28_15": "若不能作利有情事，誓願微劣棄捨菩薩事業之者，即不能順有情行增長誓願，堅固菩薩事業。",
-    "T14n0489_015:0742c02_0": "又若起虛妄語志意缺減，即不能如說能行。",
-    "T14n0489_015:0742c03_0": "又若生其懈倦，即不能於諸所作不生懈倦。",
-    "T14n0489_015:0742c04_0": "又若於菩提心有所退失而無所證，即不能不捨菩提之心。",
-    "T14n0489_015:0742c05_1": "何以故？",
-    "T14n0489_015:0742c05_2": "善男子！",
-    "T14n0489_015:0742c05_3": "菩薩於阿耨多羅三藐三菩提，本無所得亦無所證，是故汝今應如是知，以法供養，是為承事供養如來非財供養。",
-    "T14n0489_015:0742c08_4": "善男子！",
-    "T14n0489_015:0742c08_5": "菩薩若修如是十種法者，善能承事供養如來。",
-    "T14n0489_015:0742c09_6": "「又，善男子！",
-    "T14n0489_015:0742c09_7": "菩薩若修十種法者，能摧伏我慢。",
-    "T14n0489_015:0742c10_8": "何等為十？",
-    "T14n0489_015:0742c10_9": "一者、菩薩捨家出家，離諸親友、眷屬、知識，猶如死故摧伏我慢；二者、毀己形好被服壞色，隨順正法故摧我慢；三者、剃除鬚髮執持應器，巡家行乞故摧我慢；四者、為乞食因緣卑下其心，與旃陀羅童子而無有異故摧我慢；五者、常作是念：『我從他乞，我之身命繫屬於他。』",
-    "T14n0489_015:0742c16_10": "故摧我慢；六者、我所受食以清淨故，諸佛所許故摧我慢；七者、為欲親近阿闍梨、師長、聖眾故摧我慢；八者、我具威儀軌則所行如法，欲令同梵行者見皆歡喜，故摧我慢；九者、於諸未具佛法之者願當得具，故摧我慢；十者、於彼忿恚惱害諸有情中，我當常行忍辱之行故摧我慢。",
-    "T14n0489_015:0742c23_11": "善男子！",
-    "T14n0489_015:0742c23_12": "菩薩若修如是十種法者，能摧我慢。",
-    "T14n0489_015:0742c24_13": "「又，善男子！",
-    "T14n0489_015:0742c24_14": "菩薩若修十種法者，能生淨信。",
-    "T14n0489_015:0742c25_15": "何等為十？",
-    "T14n0489_015:0742c25_16": "一者、福行成辦；二者、具正因故得宿世善根圓滿；三者、不起邪信故而具正見；四者、不依邪師故得意樂具足；五者、離諂誑故得正行無曲；六者、根性利故而得勝慧；七者、相續清淨故得離諸障；八者、遠離惡知識故常得親近諸善知識；九者、常求諸善說故而能除彼增上慢心；十者、於佛所說法中具大信故而能離諸邪執，了知如來廣大威德。",
-    "T14n0489_015:0743a04_17": "善男子！",
-    "T14n0489_015:0743a04_18": "菩薩若修如是十種法者，能生淨信。」",
-    "T14n0489_015:0743a06_0": "佛說除蓋障菩薩所問經卷第十五"
-}
+[
+    {
+        "source_sentence": "佛說除蓋障菩薩所問經卷第十",
+        "from": "T14n0489_015:0741a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五",
+        "from": "T14n0489_015:0741a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫試鴻臚",
+        "from": "T14n0489_015:0741a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卿傳梵大師賜紫沙門臣法護等奉　詔譯「復次，善男子！",
+        "from": "T14n0489_015:0741a08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何是菩薩於諸過患善能除斷？",
+        "from": "T14n0489_015:0741a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂若菩薩於自身中所有過患勤行除斷，若他身中有諸過患教令斷滅，不堪任者即當捨離。",
+        "from": "T14n0489_015:0741a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等是過患？",
+        "from": "T14n0489_015:0741a11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂於佛法僧不生尊重，及於戒學并諸聖人，同梵行者上中下位，於是等處不生尊重，自生我慢輕易於他，順諸愛境逆背涅槃，起於我見，有情、壽者、士夫、養者、補特伽羅等見，執空斷見執常無常。",
+        "from": "T14n0489_015:0741a15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不樂諸聖親附愚人，遠離清淨持戒之者，尊重供養破戒之者，隨逐惡友棄捨善友，毀謗如來甚深經典。",
+        "from": "T14n0489_015:0741a18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復於深經而生驚怖，懶墮懈怠輕賤己身，志性下劣無有威光，亦無辯才非處造惡，不應疑處乃生疑惑，所應疑處而不能疑，蓋障纏縛諂誑隨逐，惛沈睡眠之所覆蔽。",
+        "from": "T14n0489_015:0741a21_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「樂著利養貪愛種族眷屬國土，起諸愛見貪愛眾會，復常習近外道典籍，厭離正法破毀誓願。",
+        "from": "T14n0489_015:0741a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慣習修作不善之法，於諸善法而不慣習，親洽於彼非出家人，又復親洽男子、女人、童男、童女及諸外道。",
+        "from": "T14n0489_015:0741a26_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不樂阿蘭若處，食不知量，而不親附師尊長宿，凡所習誦亦不知時。",
+        "from": "T14n0489_015:0741a27_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「又復，不知所行方處，微細戒學亦不尊敬，觀其小罪不生怖畏，於其癡暗根性之者計為寂靜，於其高勝利根之者，倨傲而行起諸邪執，常出惡言。",
+        "from": "T14n0489_015:0741b02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於諸可愛及不可愛色相之中隨順執著，見瞋恚者不起慈心，見苦惱者不生悲慜，見疾病者不起厭離，見彼死者不懷驚怖。",
+        "from": "T14n0489_015:0741b05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於火宅中不求出離，不能審細伺察其身，不觀戒行。",
+        "from": "T14n0489_015:0741b06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何者已作？",
+        "from": "T14n0489_015:0741b06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何者當作？",
+        "from": "T14n0489_015:0741b06_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何者現作？",
+        "from": "T14n0489_015:0741b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而悉不能審細伺察。",
+        "from": "T14n0489_015:0741b07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不應思惟而起思惟，不應計度而起計度，不應追求而起追求，非出離中計出離想，非道之中計正道想，未得所證計已得想。",
+        "from": "T14n0489_015:0741b10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世俗所作專一其心，非所作中而生勤勇，廣大善法常所遠離，毀謗大乘之法，稱讚聲聞乘法，毀謗深信大乘之人，稱讚修行聲聞道人，常與他人而共言訟，常興鬪諍惡口麁言。",
+        "from": "T14n0489_015:0741b14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為性高倨自恃胸臆，磣毒暴惡恣其貪婪，語無誠信輕毀他人，非說而說言多虛妄，愛樂計著諸有戲論。",
+        "from": "T14n0489_015:0741b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此等是為種種過患。",
+        "from": "T14n0489_015:0741b17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「菩薩善斷如是過患已，離諸戲論勤修空觀。",
+        "from": "T14n0489_015:0741b18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩雖復多修空觀，然於處處其心流散有所樂住。",
+        "from": "T14n0489_015:0741b19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩即時於諸境處遍求自性，皆悉是空了不可得。",
+        "from": "T14n0489_015:0741b20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由境空故，觀察彼心亦悉是空，心境空故能觀察智，而亦是空了不可得。",
+        "from": "T14n0489_015:0741b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩又復勤行觀察諸相皆空，菩薩雖觀無相，猶有彼彼諸相現前而為對礙，是故乃觀無有內相，無內相故身不可得，及身念住亦不可得，亦不繫心於身亦無外相可得，亦無外相念住可得，心不繫著，外相離故身相亦離。",
+        "from": "T14n0489_015:0741b27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「由內諸相得斷滅已，勤行發起修習意樂，由多修習諸觀行故，能常勤修於奢摩他毘鉢舍那，所修之行中無間斷。",
+        "from": "T14n0489_015:0741b29_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂心一境性是奢摩他，如實觀察諸法自性是毘鉢舍那。",
+        "from": "T14n0489_015:0741c02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由心一境性住奢摩他故，即於三摩呬多心歡喜無悔。",
+        "from": "T14n0489_015:0741c03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T14n0489_015:0741c03_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若戒清淨及戒具足，是即菩薩瑜伽之行。",
+        "from": "T14n0489_015:0741c04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以戒具足故增長瑜伽，戒具足故修習瑜伽，此說名為修瑜伽行。",
+        "from": "T14n0489_015:0741c05_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T14n0489_015:0741c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修如是十種法者，善修瑜伽之行。",
+        "from": "T14n0489_015:0741c07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「又，善男子！",
+        "from": "T14n0489_015:0741c07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修十種法者，能持如來修多羅教。",
+        "from": "T14n0489_015:0741c08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為十？",
+        "from": "T14n0489_015:0741c08_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者、為護正法故聽聞受持，不為資財；",
+        "from": "T14n0489_015:0741c09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者、為守護教故聽聞受持，不為利養；",
+        "from": "T14n0489_015:0741c10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者、令三寶種得不斷故聽聞受持，不為求他恭敬；",
+        "from": "T14n0489_015:0741c11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者、為欲攝受安住大乘諸有情故聽聞受持，不為名稱；",
+        "from": "T14n0489_015:0741c12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者、為利益無依無救諸有情故聽聞受持；",
+        "from": "T14n0489_015:0741c13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六者、為令苦惱有情得安樂故聽聞受持；",
+        "from": "T14n0489_015:0741c14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七者、為令無慧眼者得慧眼故聽聞受持；",
+        "from": "T14n0489_015:0741c15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八者、為彼住聲聞乘者說示聲聞道故聽聞受持；",
+        "from": "T14n0489_015:0741c16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九者、為彼住大乘者說示大乘法故聽聞受持；",
+        "from": "T14n0489_015:0741c17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十者、為自取證無上智故聽聞受持，不為求彼下劣乘故。",
+        "from": "T14n0489_015:0741c18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T14n0489_015:0741c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修如是十種法者，能持如來修多羅教。",
+        "from": "T14n0489_015:0741c20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「又，善男子！",
+        "from": "T14n0489_015:0741c20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修十種法者，能持律教。",
+        "from": "T14n0489_015:0741c21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為十？",
+        "from": "T14n0489_015:0741c21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者、善知於律；",
+        "from": "T14n0489_015:0741c21_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者、善知律之儀範；",
+        "from": "T14n0489_015:0741c22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者、善知律甚深義；",
+        "from": "T14n0489_015:0741c22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者、善知律微細相；",
+        "from": "T14n0489_015:0741c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者、善知應作不應作；",
+        "from": "T14n0489_015:0741c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六者、善知自性違犯；",
+        "from": "T14n0489_015:0741c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七者、善知施設違犯；",
+        "from": "T14n0489_015:0741c24_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八者、善知波羅提木叉所起因緣；",
+        "from": "T14n0489_015:0741c25_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九者、善知聲聞律法；",
+        "from": "T14n0489_015:0741c25_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十者、善知菩薩律法。",
+        "from": "T14n0489_015:0741c26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T14n0489_015:0741c26_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修如是十種法者，善持律教。",
+        "from": "T14n0489_015:0741c27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「又，善男子！",
+        "from": "T14n0489_015:0741c27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修十種法者，善解軌則所行境界威儀具足。",
+        "from": "T14n0489_015:0741c28_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為十？",
+        "from": "T14n0489_015:0741c28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者、善學聲聞學處；",
+        "from": "T14n0489_015:0741c29_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者、善學緣覺學處；",
+        "from": "T14n0489_015:0741c29_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者、善學菩薩學處；",
+        "from": "T14n0489_015:0742a01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者、於彼一切學處修習具足；",
+        "from": "T14n0489_015:0742a02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者、於所行軌則得具足已，而能遠離非沙門行；",
+        "from": "T14n0489_015:0742a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六者、以是因緣故，菩薩不於非處非方非時所行；",
+        "from": "T14n0489_015:0742a04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七者、於其沙門軌則所行得具足已，不為諸沙門或婆羅門非理譏毀；",
+        "from": "T14n0489_015:0742a05_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八者、令他亦如是學；",
+        "from": "T14n0489_015:0742a06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九者、所行軌則得具足故，容相端嚴威儀寂靜；",
+        "from": "T14n0489_015:0742a07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十者、具足威儀而無詐異。",
+        "from": "T14n0489_015:0742a07_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T14n0489_015:0742a08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修如是十種法者，善解軌則所行境界威儀具足。",
+        "from": "T14n0489_015:0742a09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「又，善男子！",
+        "from": "T14n0489_015:0742a09_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修十種法者，能離慳嫉。",
+        "from": "T14n0489_015:0742a10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為十？",
+        "from": "T14n0489_015:0742a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者、自為施主；",
+        "from": "T14n0489_015:0742a10_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者、教他行施；",
+        "from": "T14n0489_015:0742a11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者、讚歎布施；",
+        "from": "T14n0489_015:0742a11_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者、見他施時心生隨喜；",
+        "from": "T14n0489_015:0742a12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者、令餘施主慶快利喜；",
+        "from": "T14n0489_015:0742a12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六者、見施他時，不應生念：",
+        "from": "T14n0489_015:0742a13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『此應施我勿施於他，我族應得他族非得。",
+        "from": "T14n0489_015:0742a14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』七者、菩薩發如是心，令諸有情一切皆得濟命資具悉獲安樂；",
+        "from": "T14n0489_015:0742a15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八者、令諸有情悉能成就勝出世間最上安樂；",
+        "from": "T14n0489_015:0742a16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九者、菩薩作如是念：",
+        "from": "T14n0489_015:0742a17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我常勤修利有情事。",
+        "from": "T14n0489_015:0742a17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』十者、菩薩作如是念：",
+        "from": "T14n0489_015:0742a18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我終不起慳嫉之心。",
+        "from": "T14n0489_015:0742a18_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』善男子！",
+        "from": "T14n0489_015:0742a18_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修如是十種法者，能離慳嫉。",
+        "from": "T14n0489_015:0742a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「又，善男子！",
+        "from": "T14n0489_015:0742a19_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修十種法者，能於一切有情住平等心。",
+        "from": "T14n0489_015:0742a20_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為十？",
+        "from": "T14n0489_015:0742a21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者、於一切有情起平等方便；",
+        "from": "T14n0489_015:0742a21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者、於一切有情起無障礙心；",
+        "from": "T14n0489_015:0742a22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者、於一切有情起無瞋惱心；",
+        "from": "T14n0489_015:0742a23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者、為一切有情廣行布施；",
+        "from": "T14n0489_015:0742a23_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者、守護戒行；",
+        "from": "T14n0489_015:0742a24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六者、修持忍辱；",
+        "from": "T14n0489_015:0742a24_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七者、發勤精進；",
+        "from": "T14n0489_015:0742a25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八者、安住禪定；",
+        "from": "T14n0489_015:0742a25_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九者、修習勝慧；",
+        "from": "T14n0489_015:0742a25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十者、積集彼一切智，菩薩如是依無二心之所積集。",
+        "from": "T14n0489_015:0742a26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T14n0489_015:0742a27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩於一切有情平等積集故，以一切有情為所緣境而積集故，如是速能普令一切證得法性，菩薩自能出離大火宅已，復令他人亦悉出離，以其安住平等心故心無高下。",
+        "from": "T14n0489_015:0742b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「善男子！",
+        "from": "T14n0489_015:0742b02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如長者有其六子，而一一子稱可父意，慈愛怜惜而悉同等，是等諸子幼無所識復不明了，其父同以方便訓育。",
+        "from": "T14n0489_015:0742b04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一時父舍欻然火起，而彼諸子各各異處。",
+        "from": "T14n0489_015:0742b05_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T14n0489_015:0742b05_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於汝意云何？",
+        "from": "T14n0489_015:0742b06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時彼長者可作是念：",
+        "from": "T14n0489_015:0742b06_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『此諸子等令同出邪？",
+        "from": "T14n0489_015:0742b07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前後出邪？",
+        "from": "T14n0489_015:0742b07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』」除蓋障菩薩白佛言：",
+        "from": "T14n0489_015:0742b07_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「不也。",
+        "from": "T14n0489_015:0742b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T14n0489_015:0742b08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T14n0489_015:0742b08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼長者以平等心怜愛無異，是時諸子雖各異處，以等愛心俱時令出。",
+        "from": "T14n0489_015:0742b09_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T14n0489_015:0742b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「善男子！",
+        "from": "T14n0489_015:0742b10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩亦復如是，一切有情悉是愚夫而非聖者。",
+        "from": "T14n0489_015:0742b11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "久處生死大火宅中，愚癡無識復不明了，各各散在諸趣之中。",
+        "from": "T14n0489_015:0742b12_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩為救度故，隨以方便俱時令出彼大火宅，出火宅已，普令安住寂靜界中。",
+        "from": "T14n0489_015:0742b14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T14n0489_015:0742b14_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修如是十種法者，能於一切有情住平等心。",
+        "from": "T14n0489_015:0742b15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「又，善男子！",
+        "from": "T14n0489_015:0742b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修十種法者，善能承事供養如來。",
+        "from": "T14n0489_015:0742b17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為十？",
+        "from": "T14n0489_015:0742b17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者、以法供養是為承事供養如來非財供養；",
+        "from": "T14n0489_015:0742b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者、如說修行，是為供養；",
+        "from": "T14n0489_015:0742b18_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者、為諸有情作利樂事，是為供養；",
+        "from": "T14n0489_015:0742b19_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者、攝受有情，是為供養；",
+        "from": "T14n0489_015:0742b20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者、為諸有情隨順所行，是為供養；",
+        "from": "T14n0489_015:0742b21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六者、不捨誓願，是為供養；",
+        "from": "T14n0489_015:0742b21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七者、不捨菩薩事業，是為供養；",
+        "from": "T14n0489_015:0742b22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八者、如說能行，是為供養；",
+        "from": "T14n0489_015:0742b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九者、諸有所作不生懈倦，是為供養；",
+        "from": "T14n0489_015:0742b23_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十者不捨菩提心，是為承事供養如來非財供養。",
+        "from": "T14n0489_015:0742b25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T14n0489_015:0742b25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T14n0489_015:0742b25_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法身即是如來，是故以法供養即為供養如來。",
+        "from": "T14n0489_015:0742b26_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又積集如來所說，是即如說修行；",
+        "from": "T14n0489_015:0742b27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "發起諸利樂事，是即利樂有情；",
+        "from": "T14n0489_015:0742b27_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "施作有情事業，是即攝受有情。",
+        "from": "T14n0489_015:0742b28_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「善男子！",
+        "from": "T14n0489_015:0742b28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若不能作利有情事，誓願微劣棄捨菩薩事業之者，即不能順有情行增長誓願，堅固菩薩事業。",
+        "from": "T14n0489_015:0742c01_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又若起虛妄語志意缺減，即不能如說能行。",
+        "from": "T14n0489_015:0742c02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又若生其懈倦，即不能於諸所作不生懈倦。",
+        "from": "T14n0489_015:0742c03_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又若於菩提心有所退失而無所證，即不能不捨菩提之心。",
+        "from": "T14n0489_015:0742c05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T14n0489_015:0742c05_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T14n0489_015:0742c05_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩於阿耨多羅三藐三菩提，本無所得亦無所證，是故汝今應如是知，以法供養，是為承事供養如來非財供養。",
+        "from": "T14n0489_015:0742c08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T14n0489_015:0742c08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修如是十種法者，善能承事供養如來。",
+        "from": "T14n0489_015:0742c09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「又，善男子！",
+        "from": "T14n0489_015:0742c09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修十種法者，能摧伏我慢。",
+        "from": "T14n0489_015:0742c10_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為十？",
+        "from": "T14n0489_015:0742c10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者、菩薩捨家出家，離諸親友、眷屬、知識，猶如死故摧伏我慢；",
+        "from": "T14n0489_015:0742c12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者、毀己形好被服壞色，隨順正法故摧我慢；",
+        "from": "T14n0489_015:0742c13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者、剃除鬚髮執持應器，巡家行乞故摧我慢；",
+        "from": "T14n0489_015:0742c14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者、為乞食因緣卑下其心，與旃陀羅童子而無有異故摧我慢；",
+        "from": "T14n0489_015:0742c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者、常作是念：",
+        "from": "T14n0489_015:0742c16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我從他乞，我之身命繫屬於他。",
+        "from": "T14n0489_015:0742c16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』故摧我慢；",
+        "from": "T14n0489_015:0742c17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六者、我所受食以清淨故，諸佛所許故摧我慢；",
+        "from": "T14n0489_015:0742c18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七者、為欲親近阿闍梨、師長、聖眾故摧我慢；",
+        "from": "T14n0489_015:0742c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八者、我具威儀軌則所行如法，欲令同梵行者見皆歡喜，故摧我慢；",
+        "from": "T14n0489_015:0742c20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九者、於諸未具佛法之者願當得具，故摧我慢；",
+        "from": "T14n0489_015:0742c21_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十者、於彼忿恚惱害諸有情中，我當常行忍辱之行故摧我慢。",
+        "from": "T14n0489_015:0742c23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T14n0489_015:0742c23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修如是十種法者，能摧我慢。",
+        "from": "T14n0489_015:0742c24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「又，善男子！",
+        "from": "T14n0489_015:0742c24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修十種法者，能生淨信。",
+        "from": "T14n0489_015:0742c25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為十？",
+        "from": "T14n0489_015:0742c25_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者、福行成辦；",
+        "from": "T14n0489_015:0742c25_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者、具正因故得宿世善根圓滿；",
+        "from": "T14n0489_015:0742c26_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者、不起邪信故而具正見；",
+        "from": "T14n0489_015:0742c27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者、不依邪師故得意樂具足；",
+        "from": "T14n0489_015:0742c27_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者、離諂誑故得正行無曲；",
+        "from": "T14n0489_015:0742c28_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六者、根性利故而得勝慧；",
+        "from": "T14n0489_015:0742c29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七者、相續清淨故得離諸障；",
+        "from": "T14n0489_015:0742c29_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八者、遠離惡知識故常得親近諸善知識；",
+        "from": "T14n0489_015:0743a01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九者、常求諸善說故而能除彼增上慢心；",
+        "from": "T14n0489_015:0743a02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十者、於佛所說法中具大信故而能離諸邪執，了知如來廣大威德。",
+        "from": "T14n0489_015:0743a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T14n0489_015:0743a04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修如是十種法者，能生淨信。",
+        "from": "T14n0489_015:0743a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛說除蓋障菩薩所問經卷第十五",
+        "from": "T14n0489_015:0743a06_100",
+        "context_with_next_sentence": false
+    }
+]

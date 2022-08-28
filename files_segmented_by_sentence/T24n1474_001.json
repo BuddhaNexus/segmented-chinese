@@ -1,116 +1,672 @@
-{
-    "T24n1474_001:0937a10_0": "沙彌尼戒經",
-    "T24n1474_001:0937a12_0": "在後漢錄",
-    "T24n1474_001:0937a13_0": "沙彌尼初戒：不得殺生。",
-    "T24n1474_001:0937a13_1": "慈愍群生如父母念子，加哀蠕動猶如赤子。",
-    "T24n1474_001:0937a14_2": "何謂不殺？",
-    "T24n1474_001:0937a14_3": "護身口意。",
-    "T24n1474_001:0937a15_0": "身不殺人物蚑行喘息之類，而不手為亦不教人，見殺不食、聞殺不食、疑殺不食、為我殺不食。",
-    "T24n1474_001:0937a17_1": "口不說言當殺、當害、報怨，亦不得言死快、殺快，某肥、某瘦，某肉多好、某肉少也。",
-    "T24n1474_001:0937a18_2": "意亦不念當有所賊殺於某快乎，某畜肥、某瘦。",
-    "T24n1474_001:0937a19_3": "哀諸眾生如己骨髓，如父、如母、如子、如身，等無差特，普等一心常志大乘。",
-    "T24n1474_001:0937a21_4": "是為沙彌尼始學戒也。",
-    "T24n1474_001:0937a23_0": "沙彌尼戒：不得盜竊。",
-    "T24n1474_001:0937a23_1": "一錢以上草葉毛米，不得取也。",
-    "T24n1474_001:0937a24_2": "主不手與不得取。",
-    "T24n1474_001:0937a24_3": "口不言取，心不念取，目不愛色，耳不愛聲，鼻不盜香，舌不偷味，身不貪衣，心不竊欲。",
-    "T24n1474_001:0937a26_4": "六情無著，常立權慧，則曰不盜。",
-    "T24n1474_001:0937a27_5": "是為沙彌尼戒也。",
-    "T24n1474_001:0937a28_0": "沙彌尼戒：不得婬泆。",
-    "T24n1474_001:0937a28_1": "何謂不得？",
-    "T24n1474_001:0937a28_2": "一心清潔，身不婬泆，口不說婬，心不念婬。",
-    "T24n1474_001:0937a29_3": "執己鮮明，如虛空風無所倚著。",
-    "T24n1474_001:0937b01_4": "身不行婬，目不婬視，耳不婬聽，鼻不婬香，口不婬言，心不存欲。",
-    "T24n1474_001:0937b02_5": "觀身四大本無所有，計地、水、火、風，無我、無人、無壽、無命，何所婬泆，何所著乎？",
-    "T24n1474_001:0937b04_6": "志空無相願。",
-    "T24n1474_001:0937b04_7": "是為沙彌尼戒也。",
-    "T24n1474_001:0937b06_0": "沙彌尼戒：不得兩舌惡言。",
-    "T24n1474_001:0937b06_1": "言語安詳，不見莫言見、不聞莫言聞。",
-    "T24n1474_001:0937b07_2": "見惡不傳、聞惡不宣，惡言直避，常行四等。",
-    "T24n1474_001:0937b08_3": "無有非言，言輒說道。",
-    "T24n1474_001:0937b08_4": "不得論說俗事，不講王者臣吏賊事，常歎經法菩薩正戒。",
-    "T24n1474_001:0937b10_5": "志于大乘，不為小學，行四等心。",
-    "T24n1474_001:0937b10_6": "是為沙彌尼戒也。",
-    "T24n1474_001:0937b12_0": "沙彌尼戒：不得飲酒。",
-    "T24n1474_001:0937b12_1": "不得嗜酒，不得甞酒。",
-    "T24n1474_001:0937b12_2": "酒有三十六失，失道、破家、危身、喪命，皆悉由之。",
-    "T24n1474_001:0937b14_0": "牽東引西，持南著北；不能諷經，不敬三尊；輕易師友，不孝父母；心閉意塞，世世愚癡；不值大道，其心無識，故不飲酒。",
-    "T24n1474_001:0937b16_1": "欲離五陰、五欲、五蓋，得五神通，得度五道。",
-    "T24n1474_001:0937b17_2": "是為沙彌尼戒也。",
-    "T24n1474_001:0937b18_0": "沙彌尼戒：不得持香華自熏飾，衣被履縷不得五色，不得以眾寶自瓔珞，不得著錦繡綾羅綺縠。",
-    "T24n1474_001:0937b20_1": "不得綺視，當著麁服，青、黑、木蘭，及泥洹裏衣，低頭而行。",
-    "T24n1474_001:0937b21_2": "欲除六衰，以戒為香。",
-    "T24n1474_001:0937b21_3": "求誦深法以為真寶，三十二相以為瓔珞，得殖眾好以為被服，願六神通無礙，六度導人。",
-    "T24n1474_001:0937b23_4": "是為沙彌尼戒也。",
-    "T24n1474_001:0937b25_0": "沙彌尼戒：不得坐金銀高床。",
-    "T24n1474_001:0937b25_1": "綺繡錦被，寶綩綖，不得念之。",
-    "T24n1474_001:0937b26_2": "不得教求索好床榻席、五色畫扇、上好[肖*毛]拂。",
-    "T24n1474_001:0937b27_3": "不得著臂釧指鐶。",
-    "T24n1474_001:0937b27_4": "直信、戒、慚、愧、施、博聞、智慧，一心精專。",
-    "T24n1474_001:0937b28_5": "常求三昧以為床榻，心不動搖；眾慧自然以為坐具，七覺不轉志于道心。",
-    "T24n1474_001:0937c01_6": "是為沙彌尼戒也。",
-    "T24n1474_001:0937c02_0": "沙彌尼戒：不得聽歌舞音樂聲拍手鼓節。",
-    "T24n1474_001:0937c02_1": "不得自為亦不教人。",
-    "T24n1474_001:0937c03_2": "常自修身，順行正法，不為邪行，一心歸佛，誦經行正以為法樂，不為俗樂。",
-    "T24n1474_001:0937c05_3": "聽經思惟深入大義。",
-    "T24n1474_001:0937c05_4": "自不有疾，不得乘車馬象。",
-    "T24n1474_001:0937c06_5": "當念輕舉、八不思議神通之達，以為車乘，度脫八難。",
-    "T24n1474_001:0937c07_6": "是為沙彌尼戒也。",
-    "T24n1474_001:0937c08_0": "沙彌尼戒：不得積聚珍寶。",
-    "T24n1474_001:0937c08_1": "不得手取，不得教人。",
-    "T24n1474_001:0937c09_2": "常自專精，以道為寶，以經為上，以義為妙，解空無相無願為本。",
-    "T24n1474_001:0937c10_3": "至於三脫，不求貪欲。",
-    "T24n1474_001:0937c11_0": "欲離九惱，住道甚久，無窮無極，無有邊際，亦無所住。",
-    "T24n1474_001:0937c12_1": "是為沙彌尼戒也。",
-    "T24n1474_001:0937c13_0": "沙彌尼戒：食不失時。",
-    "T24n1474_001:0937c13_1": "常以時食不得失度，過日中後不得復食，雖有甘美無極之味，終不復食。",
-    "T24n1474_001:0937c15_2": "亦不教人犯，心亦不念。",
-    "T24n1474_001:0937c15_3": "假使無上自然食來，亦不得食也。",
-    "T24n1474_001:0937c16_4": "若長者國王過日中後，亦不服食，終死不犯。",
-    "T24n1474_001:0937c17_5": "常思禪定，一切飲食雖有所食，裁自支命。",
-    "T24n1474_001:0937c18_6": "欲令一切解深達願，得十種力以為飲食。",
-    "T24n1474_001:0937c19_7": "是為沙彌尼戒也。",
-    "T24n1474_001:0937c20_0": "沙彌尼已受十戒，原道思純，能行是十事，五百戒自然具足。",
-    "T24n1474_001:0937c21_1": "譬如人頭、手、足、眼、耳、鼻、口、身、意、腹、背不毀，諸根具足，腸、胃、肺、肝、五藏諸節、筋、脈悉具。",
-    "T24n1474_001:0937c23_2": "譬如樹根安隱具足，不枯腐朽，莖節、枝葉、華、實自然弘茂。",
-    "T24n1474_001:0937c24_3": "沙彌尼如是，能備十戒之本，其五百戒皆悉周滿，可逮神通無所不達。",
-    "T24n1474_001:0937c26_4": "譬如好田，種不腐敗，風雨時節，五穀豐熟，人民得治。",
-    "T24n1474_001:0937c27_5": "沙彌尼如是能尊十戒，五百戒則為舉矣。",
-    "T24n1474_001:0937c28_6": "譬如國君風化普平，萬民安寧。",
-    "T24n1474_001:0937c29_0": "沙彌尼如是，若能具十戒者，五百之戒自然普備，若父母慈和，子孫、眷屬、奴客、婢使自然率從。",
-    "T24n1474_001:0938a03_0": "又沙彌尼常尊三寶，敬師和上，過於父母百千萬倍。",
-    "T24n1474_001:0938a04_1": "父母一世，和上度無極無限。",
-    "T24n1474_001:0938a04_2": "念報反復，不造反逆。",
-    "T24n1474_001:0938a05_3": "常厭穢身，如人閉獄，墮墜溷廁。",
-    "T24n1474_001:0938a06_4": "不貪女身，不燒色欲。",
-    "T24n1474_001:0938a06_5": "如于大火，譬若處賊。",
-    "T24n1474_001:0938a07_6": "心念一切，如父、如母、如子、如身。",
-    "T24n1474_001:0938a07_7": "常慚本行懷態不快，乃獲斯身。",
-    "T24n1474_001:0938a08_8": "當解本無，猶如幻化，無男無女從行得之，本無五道，況男女乎？",
-    "T24n1474_001:0938a10_0": "求大乘者，了一切空如幻、化、夢、影、響、野馬、芭蕉、深山之響，緣對而生，本無所有。",
-    "T24n1474_001:0938a11_1": "信色如影，痛癢如芭蕉，思想如野馬，生死如泡，識如幻，非我。",
-    "T24n1474_001:0938a13_2": "因緣合成，無緣則無，獨來獨去，無一隨者。",
-    "T24n1474_001:0938a14_3": "欲為道者。",
-    "T24n1474_001:0938a14_4": "權慧為父母；樂法為兄弟；不離深義以為和上；慈、悲、喜、護、諦住正法以為男女；六度無極以為伴黨；神通之慧以為車乘；不違經戒，思惟空義以為屋宅。",
-    "T24n1474_001:0938a17_5": "又沙彌尼不得獨行。",
-    "T24n1474_001:0938a18_6": "同類為伴，二人若三人。",
-    "T24n1474_001:0938a18_7": "若無沙彌尼，當與清信女俱行。",
-    "T24n1474_001:0938a19_8": "若婢使不得與大沙彌、男子同床座坐。",
-    "T24n1474_001:0938a20_9": "不妄語。",
-    "T24n1474_001:0938a20_10": "又不得比寺居止。",
-    "T24n1474_001:0938a20_11": "自不疾病，不得數往反。",
-    "T24n1474_001:0938a21_12": "檀越請讀經乃說。",
-    "T24n1474_001:0938a21_13": "不得自用等輩相教，隨年恭順，不得慢恣。",
-    "T24n1474_001:0938a22_14": "轉相導說，若有過失，屏處相諫，莫於眾中說。",
-    "T24n1474_001:0938a23_15": "聞善見善乃可宣揚，聞惡見惡不得傳說，唯可白和上，不得語餘人。",
-    "T24n1474_001:0938a25_16": "常自剋責，見善思及，見惡自察，悲哀彼人意不及故。",
-    "T24n1474_001:0938a26_17": "若作沙彌尼求和上者，當得好聰明智慧奉順法者，世世能度人。",
-    "T24n1474_001:0938a28_0": "譬若有船完具牢堅，在所能度至于彼岸。",
-    "T24n1474_001:0938a28_1": "若師不聰明，行不應法，非是大師。",
-    "T24n1474_001:0938a29_2": "持作和上，譬如壞船，乘欲度海中路而沒，既溺眾人，師亦併命，無有遺餘。",
-    "T24n1474_001:0938b02_3": "其初持法授人經戒，正則為師。",
-    "T24n1474_001:0938b03_4": "聞大師欲以為和上，本作沙彌尼，不得彼者，遙稱名、禮之以為師，未必面見，心近則近，心遠則遠，身雖相近，心乖不同，相去億里。",
-    "T24n1474_001:0938b06_0": "沙彌尼行路，不得與男子共行同道相隨，不得與男子、沙門比房同寺。",
-    "T24n1474_001:0938b07_1": "各各別異法之大節焉。",
-    "T24n1474_001:0938b09_0": "沙彌尼戒經一卷"
-}
+[
+    {
+        "source_sentence": "沙彌尼戒經",
+        "from": "T24n1474_001:0937a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在後漢錄",
+        "from": "T24n1474_001:0937a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼初戒：不得殺生。慈愍群生如父母念",
+        "from": "T24n1474_001:0937a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "子，加哀蠕動猶如赤子。",
+        "from": "T24n1474_001:0937a14_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何謂不殺？",
+        "from": "T24n1474_001:0937a14_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "護身口意。",
+        "from": "T24n1474_001:0937a14_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身不殺人物蚑行喘息之類，而不手為亦不教人，見殺不食、聞殺不食、疑殺不食、為我殺不食。",
+        "from": "T24n1474_001:0937a17_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "口不說言當殺、當害、報怨，亦不得言死快、殺快，某肥、某瘦，某肉多好、某肉少也。",
+        "from": "T24n1474_001:0937a18_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "意亦不念當有所賊殺於某快乎，某畜肥、某瘦。",
+        "from": "T24n1474_001:0937a19_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "哀諸眾生如己骨髓，如父、如母、如子、如身，等無差特，普等一心常志大乘。",
+        "from": "T24n1474_001:0937a21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為沙彌尼始學戒也。",
+        "from": "T24n1474_001:0937a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼戒：",
+        "from": "T24n1474_001:0937a23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得盜竊。",
+        "from": "T24n1474_001:0937a23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一錢以上草葉毛米，不得取也。",
+        "from": "T24n1474_001:0937a24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "主不手與不得取。",
+        "from": "T24n1474_001:0937a24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "口不言取，心不念取，目不愛色，耳不愛聲，鼻不盜香，舌不偷味，身不貪衣，心不竊欲。",
+        "from": "T24n1474_001:0937a26_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六情無著，常立權慧，則曰不盜。",
+        "from": "T24n1474_001:0937a27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為沙彌尼戒也。",
+        "from": "T24n1474_001:0937a27_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼戒：",
+        "from": "T24n1474_001:0937a28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得婬泆。",
+        "from": "T24n1474_001:0937a28_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何謂不得？",
+        "from": "T24n1474_001:0937a28_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一心清潔，身不婬泆，口不說婬，心不念婬。",
+        "from": "T24n1474_001:0937a29_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "執己鮮明，如虛空風無所倚著。",
+        "from": "T24n1474_001:0937b01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身不行婬，目不婬視，耳不婬聽，鼻不婬香，口不婬言，心不存欲。",
+        "from": "T24n1474_001:0937b02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀身四大本無所有，計地、水、火、風，無我、無人、無壽、無命，何所婬泆，何所著乎？",
+        "from": "T24n1474_001:0937b04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "志空無相願。",
+        "from": "T24n1474_001:0937b04_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為沙彌尼戒也。",
+        "from": "T24n1474_001:0937b05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼戒：",
+        "from": "T24n1474_001:0937b06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得兩舌惡言。",
+        "from": "T24n1474_001:0937b06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "言語安詳，不見莫言見、不聞莫言聞。",
+        "from": "T24n1474_001:0937b07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見惡不傳、聞惡不宣，惡言直避，常行四等。",
+        "from": "T24n1474_001:0937b08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無有非言，言輒說道。",
+        "from": "T24n1474_001:0937b08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得論說俗事，不講王者臣吏賊事，常歎經法菩薩正戒。",
+        "from": "T24n1474_001:0937b10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "志于大乘，不為小學，行四等心。",
+        "from": "T24n1474_001:0937b10_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為沙彌尼戒也。",
+        "from": "T24n1474_001:0937b11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼戒：",
+        "from": "T24n1474_001:0937b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得飲酒。",
+        "from": "T24n1474_001:0937b12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得嗜酒，不得甞酒。",
+        "from": "T24n1474_001:0937b12_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "酒有三十六失，失道、破家、危身、喪命，皆悉由之。",
+        "from": "T24n1474_001:0937b13_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牽東引西，持南著北；",
+        "from": "T24n1474_001:0937b14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不能諷經，不敬三尊；",
+        "from": "T24n1474_001:0937b14_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "輕易師友，不孝父母；",
+        "from": "T24n1474_001:0937b15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心閉意塞，世世愚癡；",
+        "from": "T24n1474_001:0937b15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不值大道，其心無識，故不飲酒。",
+        "from": "T24n1474_001:0937b16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲離五陰、五欲、五蓋，得五神通，得度五道。",
+        "from": "T24n1474_001:0937b17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為沙彌尼戒也。",
+        "from": "T24n1474_001:0937b17_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼戒：",
+        "from": "T24n1474_001:0937b18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得持香華自熏飾，衣被履縷不得五色，不得以眾寶自瓔珞，不得著錦繡綾羅綺縠。",
+        "from": "T24n1474_001:0937b20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得綺視，當著麁服，青、黑、木蘭，及泥洹裏衣，低頭而行。",
+        "from": "T24n1474_001:0937b21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲除六衰，以戒為香。",
+        "from": "T24n1474_001:0937b21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "求誦深法以為真寶，三十二相以為瓔珞，得殖眾好以為被服，願六神通無礙，六度導人。",
+        "from": "T24n1474_001:0937b23_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為沙彌尼戒也。",
+        "from": "T24n1474_001:0937b24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼戒：",
+        "from": "T24n1474_001:0937b25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得坐金銀高床。",
+        "from": "T24n1474_001:0937b25_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "綺繡錦被，寶綩綖，不得念之。",
+        "from": "T24n1474_001:0937b26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得教求索好床榻席、五色畫扇、上好㲖拂。",
+        "from": "T24n1474_001:0937b27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得著臂釧指鐶。",
+        "from": "T24n1474_001:0937b27_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "直信、戒、慚、愧、施、博聞、智慧，一心精專。",
+        "from": "T24n1474_001:0937b28_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常求三昧以為床榻，心不動搖；",
+        "from": "T24n1474_001:0937b29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾慧自然以為坐具，七覺不轉志于道心。",
+        "from": "T24n1474_001:0937c01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為沙彌尼戒也。",
+        "from": "T24n1474_001:0937c01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼戒：",
+        "from": "T24n1474_001:0937c02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得聽歌舞音樂聲拍手鼓節。",
+        "from": "T24n1474_001:0937c02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得自為亦不教人。",
+        "from": "T24n1474_001:0937c03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常自修身，順行正法，不為邪行，一心歸佛，誦經行正以為法樂，不為俗樂。",
+        "from": "T24n1474_001:0937c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聽經思惟深入大義。",
+        "from": "T24n1474_001:0937c05_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自不有疾，不得乘車馬象。",
+        "from": "T24n1474_001:0937c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當念輕舉、八不思議神通之達，以為車乘，度脫八難。",
+        "from": "T24n1474_001:0937c07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為沙彌尼戒也。",
+        "from": "T24n1474_001:0937c07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼戒：",
+        "from": "T24n1474_001:0937c08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得積聚珍寶。",
+        "from": "T24n1474_001:0937c08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得手取，不得教人。",
+        "from": "T24n1474_001:0937c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常自專精，以道為寶，以經為上，以義為妙，解空無相無願為本。",
+        "from": "T24n1474_001:0937c10_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "至於三脫，不求貪欲。",
+        "from": "T24n1474_001:0937c10_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲離九惱，住道甚久，無窮無極，無有邊際，亦無所住。",
+        "from": "T24n1474_001:0937c12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為沙彌尼戒也。",
+        "from": "T24n1474_001:0937c12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼戒：",
+        "from": "T24n1474_001:0937c13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "食不失時。",
+        "from": "T24n1474_001:0937c13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常以時食不得失度，過日中後不得復食，雖有甘美無極之味，終不復食。",
+        "from": "T24n1474_001:0937c15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦不教人犯，心亦不念。",
+        "from": "T24n1474_001:0937c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假使無上自然食來，亦不得食也。",
+        "from": "T24n1474_001:0937c16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若長者國王過日中後，亦不服食，終死不犯。",
+        "from": "T24n1474_001:0937c17_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常思禪定，一切飲食雖有所食，裁自支命。",
+        "from": "T24n1474_001:0937c18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲令一切解深達願，得十種力以為飲食。",
+        "from": "T24n1474_001:0937c19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是為沙彌尼戒也。",
+        "from": "T24n1474_001:0937c19_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼已受十戒，原道思純，能行是十事，五百戒自然具足。",
+        "from": "T24n1474_001:0937c21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如人頭、手、足、眼、耳、鼻、口、身、意、腹、背不毀，諸根具足，腸、胃、肺、肝、五藏諸節、筋、脈悉具。",
+        "from": "T24n1474_001:0937c23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如樹根安隱具足，不枯腐朽，莖節、枝葉、華、實自然弘茂。",
+        "from": "T24n1474_001:0937c24_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼如是，能備十戒之本，其五百戒皆悉周滿，可逮神通無所不達。",
+        "from": "T24n1474_001:0937c26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如好田，種不腐敗，風雨時節，五穀豐熟，人民得治。",
+        "from": "T24n1474_001:0937c27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼如是能尊十戒，五百戒則為舉矣。",
+        "from": "T24n1474_001:0937c28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如國君風化普平，萬民安寧。",
+        "from": "T24n1474_001:0937c28_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼如是，若能具十戒者，五百之戒自然普備，若父母慈和，子孫、眷屬、奴客、婢使自然率從。",
+        "from": "T24n1474_001:0938a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又沙彌尼常尊三寶，敬師和上，過於父母百千萬倍。",
+        "from": "T24n1474_001:0938a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "父母一世，和上度無極無限。",
+        "from": "T24n1474_001:0938a04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "念報反復，不造反逆。",
+        "from": "T24n1474_001:0938a05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常厭穢身，如人閉獄，墮墜溷廁。",
+        "from": "T24n1474_001:0938a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不貪女身，不燒色欲。",
+        "from": "T24n1474_001:0938a06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如于大火，譬若處賊。",
+        "from": "T24n1474_001:0938a07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心念一切，如父、如母、如子、如身。",
+        "from": "T24n1474_001:0938a07_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常慚本行懷態不快，乃獲斯身。",
+        "from": "T24n1474_001:0938a08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當解本無，猶如幻化，無男無女從行得之，本無五道，況男女乎？",
+        "from": "T24n1474_001:0938a09_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "求大乘者，了一切空如幻、化、夢、影、響、野馬、芭蕉、深山之響，緣對而生，本無所有。",
+        "from": "T24n1474_001:0938a11_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "信色如影，痛癢如芭蕉，思想如野馬，生死如泡，識如幻，非我。",
+        "from": "T24n1474_001:0938a13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因緣合成，無緣則無，獨來獨去，無一隨者。",
+        "from": "T24n1474_001:0938a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲為道者。",
+        "from": "T24n1474_001:0938a14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "權慧為父母；",
+        "from": "T24n1474_001:0938a14_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樂法為兄弟；",
+        "from": "T24n1474_001:0938a14_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不離深義以為和上；",
+        "from": "T24n1474_001:0938a15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慈、悲、喜、護、諦住正法以為男女；",
+        "from": "T24n1474_001:0938a16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六度無極以為伴黨；",
+        "from": "T24n1474_001:0938a16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "神通之慧以為車乘；",
+        "from": "T24n1474_001:0938a16_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不違經戒，思惟空義以為屋宅。",
+        "from": "T24n1474_001:0938a17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又沙彌尼不得獨行。",
+        "from": "T24n1474_001:0938a18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同類為伴，二人若三人。",
+        "from": "T24n1474_001:0938a18_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若無沙彌尼，當與清信女俱行。",
+        "from": "T24n1474_001:0938a19_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若婢使不得與大沙彌、男子同床座坐。",
+        "from": "T24n1474_001:0938a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不妄語。",
+        "from": "T24n1474_001:0938a20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又不得比寺居止。",
+        "from": "T24n1474_001:0938a20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自不疾病，不得數往反。",
+        "from": "T24n1474_001:0938a21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "檀越請讀經乃說。",
+        "from": "T24n1474_001:0938a21_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不得自用等輩相教，隨年恭順，不得慢恣。",
+        "from": "T24n1474_001:0938a22_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "轉相導說，若有過失，屏處相諫，莫於眾中說。",
+        "from": "T24n1474_001:0938a23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞善見善乃可宣揚，聞惡見惡不得傳說，唯可白和上，不得語餘人。",
+        "from": "T24n1474_001:0938a25_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常自剋責，見善思及，見惡自察，悲哀彼人意不及故。",
+        "from": "T24n1474_001:0938a26_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若作沙彌尼求和上者，當得好聰明智慧奉順法者，世世能度人。",
+        "from": "T24n1474_001:0938a27_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬若有船完具牢堅，在所能度至于彼岸。",
+        "from": "T24n1474_001:0938a28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若師不聰明，行不應法，非是大師。",
+        "from": "T24n1474_001:0938a29_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "持作和上，譬如壞船，乘欲度海中路而沒，既溺眾人，師亦併命，無有遺餘。",
+        "from": "T24n1474_001:0938b02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其初持法授人經戒，正則為師。",
+        "from": "T24n1474_001:0938b03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞大師欲以為和上，本作沙彌尼，不得彼者，遙稱名、禮之以為師，未必面見，心近則近，心遠則遠，身雖相近，心乖不同，相去億里。",
+        "from": "T24n1474_001:0938b05_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼行路，不得與男子共行同道相隨，不得與男子、沙門比房同寺。",
+        "from": "T24n1474_001:0938b07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各各別異法之大節焉。",
+        "from": "T24n1474_001:0938b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙彌尼戒經一卷",
+        "from": "T24n1474_001:0938b09_100",
+        "context_with_next_sentence": false
+    }
+]

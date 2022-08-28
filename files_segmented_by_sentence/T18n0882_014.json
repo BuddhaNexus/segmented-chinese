@@ -1,136 +1,742 @@
-{
-    "T18n0882_014:0387a04_0": "佛說一切如來真實攝大乘現證",
-    "T18n0882_014:0387a05_0": "三昧大教王經卷第十四",
-    "T18n0882_014:0387a07_0": "西天譯經三藏朝奉大夫試光祿卿",
-    "T18n0882_014:0387a08_0": "傳法大師賜紫沙門臣施護等",
-    "T18n0882_014:0387a09_0": "奉　詔譯",
-    "T18n0882_014:0387a10_0": "金剛部羯磨曼拏羅廣大儀軌分第九之餘復次教授如前法中息災等印智。",
-    "T18n0882_014:0387a12_0": "　吉木為柴并蜜用　　住等攝心作護摩　金剛忿怒法相應　　擲彼胡麻摧諸罪　復用前柴作護摩　　依法舉火大熾燃　常擲粳米作法時　　定於其舍得增益　吉木為柴并蜜用　　行人作法火熾燃　吉祥草及珊瑚枝　　與蘇同用增壽命　復用前柴作護摩　　依法舉火大熾燃　草并珊瑚枝和油　　隨擲作已常衛護此等護摩大明曰。",
-    "T18n0882_014:0387a21_0": "唵(引)薩哩嚩(二合)播(引)波捺賀那嚩日囉(二合引)野莎(引)賀(引一句)唵(引)嚩日囉(二合)補瑟吒(二合)曳(引)莎(引)賀(引一句)唵(引)嚩日囉(二合引)喻尸(引)莎(引)賀(引一句)唵(引)阿鉢囉(二合)底賀多嚩日囉(二合引)野莎(引)賀(引一句)　刺木為柴屈曲者　　棘刺同用火熾燃　金剛忿怒等持心　　作護摩者能鉤召　復用前柴作護摩　　忿怒心燃火熾焰　赤色華果擲爐中　　能令世間悉敬愛　吉木為柴依法用　　忿怒心舉火熾燃　碎鐵如塵擲爐中　　得金剛尊常營衛　復用前柴作護摩　　等攝心舉火熾燃　以苦味果擲爐中　　剎那能壞諸惡者此等大明曰。",
-    "T18n0882_014:0387b07_0": "吽(引)嚩日囉(二合引)葛哩莎(二合)野莎(引)賀(引一句)吽(引)嚩日囉(二合)嚩(引)誐野莎(引)賀(引一句)吽(引)嚩日囉(二合)滿馱野莎(引)賀(引一句)吽(引)羅日嚩(二合)摩(引)囉拏(引)野莎(引)賀(引一句)　酸木為柴依法用　　忿怒心舉火熾燃　酸味華果作護摩　　即成最上敬愛事　復用前柴作護摩　　等攝心燃火熾焰　以迦摩果擲爐中　　即成迦摩嚕波事　依法應用同前柴　　忿怒心燃火熾焰　想取曠野無形華　　隨擲即得隱身法　復以前柴依法用　　等攝心舉火熾燃　想取空中行列華　　隨擲即能空中行此等大明曰。",
-    "T18n0882_014:0387b20_0": "唵(引)嚩日囉(二合)嚩商葛囉(引)野莎(引)賀(引一句)唵(引)哥(引)摩嚕(引)波嚩日囉(二合引)野莎(引)賀(引一句)唵(引)阿禰哩(二合引)舍嚩日囉(二合引)野莎(引)賀(引一句)唵(引)嚩日囉(二合)朅左(引)哩尼(引)莎(引)賀(引一句)　苦味堅勁木為柴　　等攝心燃火熾焰　忿怒意爇金剛華　　得依金剛教令作　復以前柴依法用　　忿怒心舉火熾燃　隨取華鬘擲爐中　　使彼悉依教令作　吉木為柴忿怒意　　等攝心舉火熾燃　擲彼金剛手華鬘　　依彼教令成所作　復用前柴作護摩　　忿怒心燃火熾焰　衣服作法擲爐中　　剎那令彼隨教令此等大明曰。",
-    "T18n0882_014:0387c05_0": "吽(引)嚩日囉(二合)嚩商葛囉(引)野莎(引)賀(引一句)吽(引)燥(引)哩嚩日囉(二合)嚩商葛囉(引)野莎(引)賀(引一句)吽(引)嚩日囉(二合)播(引)尼嚩商葛囉(引)野莎(引)賀(引一句)吽(引)沒馱嚩商葛囉(引)野莎(引)賀(引一句)復次教授祕密羯磨印智。",
-    "T18n0882_014:0387c12_0": "　同彼所愛作法者　　安膳那用出生門　和合設法置其中　　得樂觸故生敬愛　雌黃用於出生門　　作金剛縛而打擲　隨四種相作相應　　即獲四種成就法　牛黃安置出生門　　以祕密拳而逼附　即於彼處熾焰生　　得與執金剛無異　欝金用於出生門　　彼作薩埵金剛法　隱覆彼中熾焰燃　　得與執金剛無異此等大明曰。",
-    "T18n0882_014:0387c21_0": "唵(引)虞呬也(二合)囉底嚩日囉(二合)嚩商葛囉悉[亭*夜](切身下同)吽(引一)唵(引)虞呬也(二合)嚩日囉(二合)悉[亭*夜]吽(引一句)唵(引)嚩日囉(二合)馱囉虞呬也(二合)悉[亭*夜]吽(引一句)唵(引)嚩日囉(二合)虞呬也(二合)悉[亭*夜]吽(引一句)復次教授金剛部羯磨大印智。",
-    "T18n0882_014:0387c27_0": "　金剛事業依法用　　所有大印如次第　金剛忿怒法相應　　以金剛拳善作用　勝三昧印亦如是　　當依降三世指法　所有法印用亦然　　即唵字等諸文字　彼諸羯磨印次第　　以羯磨拳依法作　金剛羯磨法相應　　作諸成就皆清淨大金剛部廣大儀軌分第十爾時世尊。",
-    "T18n0882_014:0388a06_1": "復入一切如來金剛三昧印加持三摩地。",
-    "T18n0882_014:0388a07_2": "宣說自部最上大明曰。",
-    "T18n0882_014:0388a08_0": "唵(引)薩哩嚩(二合)怛他(引)誐多嚩日囉(二合)三摩曳(引)吽(引一句)爾時金剛手菩薩摩訶薩。",
-    "T18n0882_014:0388a10_1": "宣說自部金剛三昧印明曰。",
-    "T18n0882_014:0388a12_0": "唵(引)嚩日哩(二合)摩吒(半音一句)爾時金剛藏菩薩摩訶薩。",
-    "T18n0882_014:0388a13_1": "宣說自部寶三昧印明曰。",
-    "T18n0882_014:0388a15_0": "吽(引)勃哩(二合)酤胝嚩日哩(二合)囉吒(半音一句)爾時金剛眼菩薩摩訶薩。",
-    "T18n0882_014:0388a16_1": "宣說自部法三昧印明曰。",
-    "T18n0882_014:0388a18_0": "吽(引)鉢訥摩(二合)嚩日哩(二合)涅哩(二合)吒(半音一句)爾時金剛巧業菩薩摩訶薩。",
-    "T18n0882_014:0388a19_1": "宣說自部羯磨三昧印明曰。",
-    "T18n0882_014:0388a21_0": "吽(引)嚩日囉(二合)葛哩摩(二合引)屹哩(二合)訖哩(二合)吒(半音一句)爾時金剛手菩薩摩訶薩。",
-    "T18n0882_014:0388a22_1": "復次宣說降三世四印曼拏羅。",
-    "T18n0882_014:0388a24_0": "　我今次第當演說　　最上四印曼拏羅　其相猶如金剛界　　金剛忿怒故此說　依大曼拏羅法用　　如此抨諸曼拏羅　降三世等隨所應　　周匝當畫於佛像所有四印曼拏羅中。",
-    "T18n0882_014:0388a28_1": "鉤召等法廣大儀軌。",
-    "T18n0882_014:0388a28_2": "皆悉依彼大曼拏羅法用作已。",
-    "T18n0882_014:0388a29_3": "行人依法應入四印曼拏羅中。",
-    "T18n0882_014:0388b01_4": "入已教授祕密印智。",
-    "T18n0882_014:0388b02_0": "　自當依法畫四印　　清淨法性曼拏羅　與相應者同語言　　常得所作皆成就　自當依法畫四印　　清淨法性曼拏羅　同彼妙愛語言時　　由觀視故得成就　自當依法畫四印　　清淨法性曼拏羅　妙相相應者轉時　　即得妙樂事成就　自當依法畫四印　　清淨法性曼拏羅　同妙愛語樂合時　　即獲一切勝悉地此等清淨法性印明。",
-    "T18n0882_014:0388b11_0": "唵(引)薩哩嚩(二合)怛他(引)誐多秫馱達哩摩(二合)帝(引)呼(引一句)唵(引)嚩日囉(二合)尾秫馱捺哩(二合)瑟徵(二合)[口*弱](一句)唵(引)莎婆(引)嚩秫馱目契吽(引一句)唵(引)薩哩嚩(二合)秫馱哥(引)野嚩(引)吒摩(二合)那塞哥(二合)哩摩(二合)嚩日哩(二合)[亢*欠](一句)復次教授四印曼拏羅中祕密中祕密印智。",
-    "T18n0882_014:0388b18_0": "　此曼拏羅得入已　　五欲妙樂悉能成　他相應者法合時　　即得最上成就事此大明曰。",
-    "T18n0882_014:0388b21_0": "呼(引)嚩日囉(二合)哥(引)摩(一句)然後如教所說。",
-    "T18n0882_014:0388b22_1": "以金剛寶蓮華三叉印等。",
-    "T18n0882_014:0388b22_2": "如是四三昧印廣大儀軌。",
-    "T18n0882_014:0388b23_3": "如應教授已。",
-    "T18n0882_014:0388b23_4": "即當依此四印法用。",
-    "T18n0882_014:0388b24_5": "作金剛歌樂及金剛薩埵嬉戲歌音歌詠。",
-    "T18n0882_014:0388b25_6": "奉獻一切聖賢。",
-    "T18n0882_014:0388b25_7": "次以印對印小印智印。",
-    "T18n0882_014:0388b26_8": "現前一切旋舞。",
-    "T18n0882_014:0388b26_9": "作供養事。",
-    "T18n0882_014:0388b26_10": "由是旋舞供養故。",
-    "T18n0882_014:0388b27_11": "即得旋舞供養事業成就。",
-    "T18n0882_014:0388b28_0": "　當依金剛旋舞法　　即以二手忿怒指　依法當於自心間　　結彼降三世大印　金剛旋舞亦復然　　左手當執右手拳　旋轉還復額前安　　頭指次應置於口　又復解其旋舞相　　二拳齊密而相合　頭指復安於心間　　頂禮意生於戰悚　次竪金剛忿怒指　　即復仰起面相合　後復旋轉置頂間　　頭指還於口門住此名四印曼拏羅。",
-    "T18n0882_014:0388c09_0": "爾時金剛手菩薩摩訶薩。",
-    "T18n0882_014:0388c09_1": "復說自部金剛忿怒三昧大明曰。",
-    "T18n0882_014:0388c11_0": "吽(引)",
-    "T18n0882_014:0388c12_0": "復次說此曼拏羅。",
-    "T18n0882_014:0388c13_0": "　我今次第當演說　　外界最上曼拏羅　其相猶如金剛界　　應知此即降三世　依大曼拏羅法用　　外曼拏羅應遍畫　彼中所畫依法儀　　月輪中布金剛杵　金剛杵即降三世　　依法執持於大印　作金剛步妙威勢　　色相隨應如教說所有外祕密曼拏羅中。",
-    "T18n0882_014:0388c19_1": "一切所用儀軌廣大作已。",
-    "T18n0882_014:0388c20_2": "次說金剛降三世祕密印智。",
-    "T18n0882_014:0388c21_0": "　此曼拏羅當入已　　以忿怒指而堅密　出生門中作法時　　一切事業善成就求成就大明曰。",
-    "T18n0882_014:0388c24_0": "吽(引)嚩日囉(二合)三摩野訖哩(二合)咄(半音一句)復次教授金剛降三世祕密成就印智。",
-    "T18n0882_014:0388c26_0": "　此曼拏羅善入已　　最勝大印應安置　金剛吽字和合時　　即能善作諸事業彼成就大明曰。",
-    "T18n0882_014:0388c29_0": "吽(引)嚩日囉(二合)三摩野吽(引一句)如其所說四印。",
-    "T18n0882_014:0389a01_1": "依法教授。",
-    "T18n0882_014:0389a01_2": "成結儀則。",
-    "T18n0882_014:0389a01_3": "然後從是出生諸成就事。",
-    "T18n0882_014:0389a02_4": "隨其曼拏羅如是幀像等。",
-    "T18n0882_014:0389a03_0": "諸有畫者。",
-    "T18n0882_014:0389a03_1": "作諸形像。",
-    "T18n0882_014:0389a03_2": "應悉通用此成就法。",
-    "T18n0882_014:0389a04_0": "爾時金剛手菩薩摩訶薩。",
-    "T18n0882_014:0389a04_1": "向諸如來作是白言。",
-    "T18n0882_014:0389a05_2": "世尊一切如來。",
-    "T18n0882_014:0389a05_3": "願加持我。",
-    "T18n0882_014:0389a05_4": "我此部中所作法用。",
-    "T18n0882_014:0389a06_5": "悉為一切有情隨其所欲作利益事。",
-    "T18n0882_014:0389a07_0": "普令獲得諸成就故。",
-    "T18n0882_014:0389a08_0": "爾時世尊一切如來。",
-    "T18n0882_014:0389a08_1": "為欲建立此降三世大儀軌故。",
-    "T18n0882_014:0389a09_2": "即復雲集作是讚言。",
-    "T18n0882_014:0389a10_0": "　金剛薩埵善哉者　　金剛大寶復善哉　善哉金剛妙法門　　善哉金剛勝羯磨　能善宣說此正法　　無上金剛祕密乘　一切如來祕密門　　大乘現證法中攝三世輪大曼拏羅廣大儀軌分第十一爾時世尊一切如來。",
-    "T18n0882_014:0389a15_1": "如是悉知金剛手菩薩摩訶薩已。",
-    "T18n0882_014:0389a16_2": "咸作是言。",
-    "T18n0882_014:0389a16_3": "金剛手汝今當依一切如來教令所行。",
-    "T18n0882_014:0389a17_4": "彼大自在天以降伏故。",
-    "T18n0882_014:0389a17_5": "久踐足心。",
-    "T18n0882_014:0389a18_6": "而今宜應舉足放釋。",
-    "T18n0882_014:0389a19_0": "是時金剛手菩薩摩訶薩。",
-    "T18n0882_014:0389a19_1": "白諸如來言。",
-    "T18n0882_014:0389a19_2": "我首受於一切如來忿怒灌頂。",
-    "T18n0882_014:0389a20_3": "使我調伏一切惡者。",
-    "T18n0882_014:0389a21_4": "今此云何令我放釋。",
-    "T18n0882_014:0389a21_5": "爾時一切如來。",
-    "T18n0882_014:0389a21_6": "為令普盡三世增上主宰大自在天得活命故。",
-    "T18n0882_014:0389a23_0": "從一切如來心出是大明曰。",
-    "T18n0882_014:0389a24_0": "唵(引)嚩日囉(二合)薩埵吽(引)[口*弱](一句)此大明印。",
-    "T18n0882_014:0389a26_0": "　堅固應作祕密鉤　　諸指向外而舒展　是印相合置頂中　　死者能令得還命說是印明時。",
-    "T18n0882_014:0389a28_1": "而彼下方跋娑摩餐那世界。",
-    "T18n0882_014:0389a28_2": "跋娑彌莎囉儞哩瞿沙如來。",
-    "T18n0882_014:0389a29_3": "忽從大自在天身中出現。",
-    "T18n0882_014:0389b01_4": "說此頌曰。",
-    "T18n0882_014:0389b02_0": "　大哉一切正覺尊　　諸佛大智無有上　能令死者有情身　　去識還來得活命爾時金剛手菩薩摩訶薩。",
-    "T18n0882_014:0389b04_1": "即說此舉足大明曰。",
-    "T18n0882_014:0389b06_0": "唵(引)嚩日囉(二合)目(一句)此大明印。",
-    "T18n0882_014:0389b08_0": "　齊竪金剛忿怒指　　指面不著堅固住　旋轉還成二金剛　　從下漸起至頂上說是印明時。",
-    "T18n0882_014:0389b10_1": "金剛手菩薩摩訶薩。",
-    "T18n0882_014:0389b10_2": "即舉足心。",
-    "T18n0882_014:0389b11_0": "彼大自在天。",
-    "T18n0882_014:0389b11_1": "從是得起還活其命。",
-    "T18n0882_014:0389b11_2": "時大自在天。",
-    "T18n0882_014:0389b12_3": "由彼如來威神建立。",
-    "T18n0882_014:0389b12_4": "得活命已。",
-    "T18n0882_014:0389b12_5": "於彼世界當受灌頂。",
-    "T18n0882_014:0389b13_6": "即於彼界。",
-    "T18n0882_014:0389b13_7": "為諸有情作利益事。",
-    "T18n0882_014:0389b13_8": "亦使調伏諸惡有情。",
-    "T18n0882_014:0389b15_0": "爾時金剛手菩薩摩訶薩。",
-    "T18n0882_014:0389b15_1": "從此足心出生大明。",
-    "T18n0882_014:0389b16_2": "名為月足。",
-    "T18n0882_014:0389b16_3": "是即一切如來菩薩智印。",
-    "T18n0882_014:0389b16_4": "大明曰。",
-    "T18n0882_014:0389b18_0": "唵(引)贊捺嚕(二合引)多哩(引)三滿多跋捺囉(二合)枳囉尼(引一句)摩賀(引)嚩日哩(二合)尼吽(引)(二)此大明印。",
-    "T18n0882_014:0389b21_0": "　堅固應作金剛縛　　小指大指二皆竪　起是印住等攝心　　此說名為月光印出是印明時。",
-    "T18n0882_014:0389b23_1": "即從金剛手大菩薩足心。",
-    "T18n0882_014:0389b23_2": "出現月上如來。",
-    "T18n0882_014:0389b24_3": "如是出現已。",
-    "T18n0882_014:0389b24_4": "時大自在天。",
-    "T18n0882_014:0389b24_5": "舉頭置於金剛手大菩薩足。",
-    "T18n0882_014:0389b25_6": "菩薩即為灌其半月頂相。",
-    "T18n0882_014:0389b26_7": "得灌頂已。",
-    "T18n0882_014:0389b26_8": "乃於金剛手大菩薩左面。",
-    "T18n0882_014:0389b26_9": "如理而住。",
-    "T18n0882_014:0389b27_10": "然後一切如來。",
-    "T18n0882_014:0389b27_11": "以金剛叉授大自在天雙手掌中。",
-    "T18n0882_014:0389b28_12": "令與金剛手大菩薩作助伴者。",
-    "T18n0882_014:0389b29_0": "復以金剛最上明灌頂法。",
-    "T18n0882_014:0389b29_1": "而為灌頂。",
-    "T18n0882_014:0389b29_2": "乃立其名號金剛最上明菩薩。",
-    "T18n0882_014:0389c02_0": "佛說一切如來真實攝大乘現證三昧大教王經卷第十四"
-}
+[
+    {
+        "source_sentence": "佛說一切如來真實攝大乘現證",
+        "from": "T18n0882_014:0387a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三昧大教王經卷第十四",
+        "from": "T18n0882_014:0387a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝奉大夫試光祿卿",
+        "from": "T18n0882_014:0387a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "傳法大師賜紫沙門臣施護等奉　詔譯金剛部羯磨曼拏羅廣大儀軌分第九之餘「復次，教授如前法中息災等印智：",
+        "from": "T18n0882_014:0387a11_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「吉木為柴并蜜用，　　住等攝心作護摩，",
+        "from": "T18n0882_014:0387a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛忿怒法相應，　　擲彼胡麻摧諸罪。",
+        "from": "T18n0882_014:0387a13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復用前柴作護摩，　　依法舉火大熾燃，",
+        "from": "T18n0882_014:0387a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常擲粳米作法時，　　定於其舍得增益。",
+        "from": "T18n0882_014:0387a15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吉木為柴并蜜用，　　行人作法火熾燃，",
+        "from": "T18n0882_014:0387a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吉祥草及珊瑚枝，　　與蘇同用增壽命。",
+        "from": "T18n0882_014:0387a17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復用前柴作護摩，　　依法舉火大熾燃，",
+        "from": "T18n0882_014:0387a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "草并珊瑚枝和油，　　隨擲作已常衛護。",
+        "from": "T18n0882_014:0387a19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此等護摩大明曰：",
+        "from": "T18n0882_014:0387a20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「刺木為柴屈曲者，　　棘刺同用火熾燃，",
+        "from": "T18n0882_014:0387a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛忿怒等持心，　　作護摩者能鉤召。",
+        "from": "T18n0882_014:0387a28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復用前柴作護摩，　　忿怒心燃火熾焰，",
+        "from": "T18n0882_014:0387a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "赤色華果擲爐中，　　能令世間悉敬愛。",
+        "from": "T18n0882_014:0387b01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吉木為柴依法用，　　忿怒心舉火熾燃，",
+        "from": "T18n0882_014:0387b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "碎鐵如塵擲爐中，　　得金剛尊常營衛。",
+        "from": "T18n0882_014:0387b03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復用前柴作護摩，　　等攝心舉火熾燃，",
+        "from": "T18n0882_014:0387b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以苦味果擲爐中，　　剎那能壞諸惡者。",
+        "from": "T18n0882_014:0387b05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此等大明曰：",
+        "from": "T18n0882_014:0387b06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「酸木為柴依法用，　　忿怒心舉火熾燃，",
+        "from": "T18n0882_014:0387b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "酸味華果作護摩，　　即成最上敬愛事。",
+        "from": "T18n0882_014:0387b12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復用前柴作護摩，　　等攝心燃火熾焰，",
+        "from": "T18n0882_014:0387b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以迦摩果擲爐中，　　即成迦摩嚕波事。",
+        "from": "T18n0882_014:0387b14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依法應用同前柴，　　忿怒心燃火熾焰，",
+        "from": "T18n0882_014:0387b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "想取曠野無形華，　　隨擲即得隱身法。",
+        "from": "T18n0882_014:0387b16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復以前柴依法用，　　等攝心舉火熾燃，",
+        "from": "T18n0882_014:0387b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "想取空中行列華，　　隨擲即能空中行。",
+        "from": "T18n0882_014:0387b18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此等大明曰：",
+        "from": "T18n0882_014:0387b19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「苦味堅勁木為柴，　　等攝心燃火熾焰，",
+        "from": "T18n0882_014:0387b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忿怒意爇金剛華，　　得依金剛教令作。",
+        "from": "T18n0882_014:0387b25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復以前柴依法用，　　忿怒心舉火熾燃，",
+        "from": "T18n0882_014:0387b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨取華鬘擲爐中，　　使彼悉依教令作。",
+        "from": "T18n0882_014:0387b27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吉木為柴忿怒意，　　等攝心舉火熾燃，",
+        "from": "T18n0882_014:0387b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "擲彼金剛手華鬘，　　依彼教令成所作。",
+        "from": "T18n0882_014:0387c01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復用前柴作護摩，　　忿怒心燃火熾焰，",
+        "from": "T18n0882_014:0387c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衣服作法擲爐中，　　剎那令彼隨教令。",
+        "from": "T18n0882_014:0387c03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此等大明曰：",
+        "from": "T18n0882_014:0387c04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「吽引　嚩日囉二合　嚩商葛囉引　野莎引　賀引一句「吽引　燥引　哩嚩日囉二合　嚩商葛囉引　野莎引　賀引一句「吽引　嚩日囉二合　播引　尼嚩商葛囉引　野莎引　賀引一句「吽引　沒馱嚩商葛囉引　野莎引　賀引一句「復次，教授祕密羯磨印智：",
+        "from": "T18n0882_014:0387c11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「同彼所愛作法者，　　安膳那用出生門，",
+        "from": "T18n0882_014:0387c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "和合設法置其中，　　得樂觸故生敬愛。",
+        "from": "T18n0882_014:0387c13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雌黃用於出生門，　　作金剛縛而打擲，",
+        "from": "T18n0882_014:0387c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨四種相作相應，　　即獲四種成就法。",
+        "from": "T18n0882_014:0387c15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牛黃安置出生門，　　以祕密拳而逼附，",
+        "from": "T18n0882_014:0387c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即於彼處熾焰生，　　得與執金剛無異。",
+        "from": "T18n0882_014:0387c17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欝金用於出生門，　　彼作薩埵金剛法，",
+        "from": "T18n0882_014:0387c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隱覆彼中熾焰燃，　　得與執金剛無異。",
+        "from": "T18n0882_014:0387c19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」「此等大明曰：",
+        "from": "T18n0882_014:0387c20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「唵引　虞呬也二合　囉底嚩日囉二合　嚩商葛囉悉𠆙切身下同　吽引一「唵引　虞呬也二合　嚩日囉二合　悉𠆙吽引一句「唵引　嚩日囉二合　馱囉虞呬也二合　悉𠆙吽引一句「唵引　嚩日囉二合　虞呬也二合　悉𠆙吽引一句「復次，教授金剛部羯磨大印智：",
+        "from": "T18n0882_014:0387c26_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「金剛事業依法用，　　所有大印如次第，",
+        "from": "T18n0882_014:0387c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛忿怒法相應，　　以金剛拳善作用。",
+        "from": "T18n0882_014:0387c28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勝三昧印亦如是，　　當依降三世指法，",
+        "from": "T18n0882_014:0388a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有法印用亦然，　　即唵字等諸文字。",
+        "from": "T18n0882_014:0388a02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼諸羯磨印次第，　　以羯磨拳依法作，",
+        "from": "T18n0882_014:0388a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛羯磨法相應，　　作諸成就皆清淨。",
+        "from": "T18n0882_014:0388a04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」10 大金剛部廣大儀軌分大金剛部廣大儀軌分第十爾時，世尊復入一切如來金剛三昧印加持三摩地，宣說自部最上大明曰：",
+        "from": "T18n0882_014:0388a07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「唵引　薩哩嚩二合　怛他引　誐多嚩日囉二合　三摩曳引吽引一句」爾時，金剛手菩薩摩訶薩宣說自部金剛三昧印明曰：",
+        "from": "T18n0882_014:0388a11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「唵引　嚩日哩二合　摩吒半音一句」爾時，金剛藏菩薩摩訶薩宣說自部寶三昧印明曰：",
+        "from": "T18n0882_014:0388a14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「吽引　勃哩二合　酤胝嚩日哩二合　囉吒半音一句」爾時，金剛眼菩薩摩訶薩宣說自部法三昧印明曰：",
+        "from": "T18n0882_014:0388a17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「吽引　鉢訥摩二合　嚩日哩二合　涅哩二合　吒半音一句」爾時，金剛巧業菩薩摩訶薩宣說自部羯磨三昧印明曰：",
+        "from": "T18n0882_014:0388a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「吽引　嚩日囉二合　葛哩摩二合引　屹哩二合　訖哩二合　吒半音一句」爾時，金剛手菩薩摩訶薩復次宣說降三世四印曼拏羅：",
+        "from": "T18n0882_014:0388a23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我今次第當演說，　　最上四印曼拏羅，",
+        "from": "T18n0882_014:0388a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其相猶如金剛界，　　金剛忿怒故此說。",
+        "from": "T18n0882_014:0388a25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依大曼拏羅法用，　　如此抨諸曼拏羅，",
+        "from": "T18n0882_014:0388a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "降三世等隨所應，　　周匝當畫於佛像。",
+        "from": "T18n0882_014:0388a27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「所有四印曼拏羅中鉤召等法廣大儀軌，皆悉依彼大曼拏羅法用作已，行人依法應入四印曼拏羅中。",
+        "from": "T18n0882_014:0388b01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入已，教授祕密印智：",
+        "from": "T18n0882_014:0388b01_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「自當依法畫四印，　　清淨法性曼拏羅，",
+        "from": "T18n0882_014:0388b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與相應者同語言，　　常得所作皆成就。",
+        "from": "T18n0882_014:0388b03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自當依法畫四印，　　清淨法性曼拏羅，",
+        "from": "T18n0882_014:0388b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同彼妙愛語言時，　　由觀視故得成就。",
+        "from": "T18n0882_014:0388b05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自當依法畫四印，　　清淨法性曼拏羅，",
+        "from": "T18n0882_014:0388b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙相相應者轉時，　　即得妙樂事成就。",
+        "from": "T18n0882_014:0388b07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自當依法畫四印，　　清淨法性曼拏羅，",
+        "from": "T18n0882_014:0388b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "同妙愛語樂合時，　　即獲一切勝悉地。",
+        "from": "T18n0882_014:0388b09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此等清淨法性印明：",
+        "from": "T18n0882_014:0388b10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「唵引　薩哩嚩二合　怛他引　誐多󰡊馱達哩摩二合　帝引呼引一句「唵引　嚩日囉二合　尾󰡊馱捺哩二合　瑟徵二合　𠺁一句「唵引　莎婆引　嚩󰡊馱目契吽引一句「唵引　薩哩嚩二合　󰡊馱哥引　野嚩引　吒摩二合　那塞哥二合　哩摩二合　嚩日哩二合　㰠一句「復次，教授四印曼拏羅中祕密中祕密印智：",
+        "from": "T18n0882_014:0388b17_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此曼拏羅得入已，　　五欲妙樂悉能成，",
+        "from": "T18n0882_014:0388b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "他相應者法合時，　　即得最上成就事。",
+        "from": "T18n0882_014:0388b19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此大明曰：",
+        "from": "T18n0882_014:0388b20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「呼引　嚩日囉二合　哥引　摩一句「然後如教所說，以金剛寶蓮華三叉印等如是四三昧印廣大儀軌如應教授已，即當依此四印法用，作金剛歌樂及金剛薩埵嬉戲歌音歌詠奉獻一切聖賢，次以印、對印、小印、智印，現前一切旋舞作供養事，由是旋舞供養故，即得旋舞供養事業成就：",
+        "from": "T18n0882_014:0388b27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「當依金剛旋舞法，　　即以二手忿怒指，",
+        "from": "T18n0882_014:0388b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依法當於自心間，　　結彼降三世大印。",
+        "from": "T18n0882_014:0388c01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛旋舞亦復然，　　左手當執右手拳，",
+        "from": "T18n0882_014:0388c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "旋轉還復額前安，　　頭指次應置於口。",
+        "from": "T18n0882_014:0388c03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復解其旋舞相，　　二拳齊密而相合，",
+        "from": "T18n0882_014:0388c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頭指復安於心間，　　頂禮意生於戰悚。",
+        "from": "T18n0882_014:0388c05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次竪金剛忿怒指，　　即復仰起面相合，",
+        "from": "T18n0882_014:0388c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後復旋轉置頂間，　　頭指還於口門住。",
+        "from": "T18n0882_014:0388c07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此名四印曼拏羅。",
+        "from": "T18n0882_014:0388c08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，金剛手菩薩摩訶薩復說自部金剛忿怒三昧大明曰：",
+        "from": "T18n0882_014:0388c10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「吽引「復次，說此曼拏羅：",
+        "from": "T18n0882_014:0388c12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我今次第當演說，　　外界最上曼拏羅，",
+        "from": "T18n0882_014:0388c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其相猶如金剛界，　　應知此即降三世，",
+        "from": "T18n0882_014:0388c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依大曼拏羅法用，　　外曼拏羅應遍畫。",
+        "from": "T18n0882_014:0388c15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼中所畫依法儀，　　月輪中布金剛杵，",
+        "from": "T18n0882_014:0388c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛杵即降三世，　　依法執持於大印，",
+        "from": "T18n0882_014:0388c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作金剛步妙威勢，　　色相隨應如教說。",
+        "from": "T18n0882_014:0388c18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「所有外祕密曼拏羅中一切所用儀軌廣大作已，次說金剛降三世祕密印智：",
+        "from": "T18n0882_014:0388c20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此曼拏羅當入已，　　以忿怒指而堅密，",
+        "from": "T18n0882_014:0388c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出生門中作法時，　　一切事業善成就。",
+        "from": "T18n0882_014:0388c22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「求成就大明曰：",
+        "from": "T18n0882_014:0388c23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「吽引　嚩日囉二合　三摩野訖哩二合　咄半音一句「復次，教授金剛降三世祕密成就印智：",
+        "from": "T18n0882_014:0388c25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此曼拏羅善入已，　　最勝大印應安置，",
+        "from": "T18n0882_014:0388c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛吽字和合時，　　即能善作諸事業。",
+        "from": "T18n0882_014:0388c27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「彼成就大明曰：",
+        "from": "T18n0882_014:0388c28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「吽引　嚩日囉二合　三摩野吽引一句「如其所說四印依法教授，成結儀則。",
+        "from": "T18n0882_014:0389a01_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然後從是出生諸成就事，隨其曼拏羅如是㡧像等，諸有畫者作諸形像，應悉通用此成就法。",
+        "from": "T18n0882_014:0389a03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，金剛手菩薩摩訶薩向諸如來作是白言：",
+        "from": "T18n0882_014:0389a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊一切如來！",
+        "from": "T18n0882_014:0389a05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願加持我，我此部中所作法用，悉為一切有情隨其所欲作利益事，普令獲得諸成就故。",
+        "from": "T18n0882_014:0389a07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，世尊一切如來，為欲建立此降三世大儀軌故，即復雲集作是讚言：",
+        "from": "T18n0882_014:0389a09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「金剛薩埵善哉者，　　金剛大寶復善哉！",
+        "from": "T18n0882_014:0389a10_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善哉！",
+        "from": "T18n0882_014:0389a11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛妙法門，　　善哉！",
+        "from": "T18n0882_014:0389a11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能善宣說此正法，　　無上金剛祕密乘，",
+        "from": "T18n0882_014:0389a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切如來祕密門，　　大乘現證法中攝。",
+        "from": "T18n0882_014:0389a13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」11 三世輪大曼拏羅廣大儀軌分1三世輪大曼拏羅廣大儀軌分第十一爾時，世尊一切如來如是悉知金剛手菩薩摩訶薩已，咸作是言：",
+        "from": "T18n0882_014:0389a16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「金剛手！",
+        "from": "T18n0882_014:0389a16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝今當依一切如來教令所行。",
+        "from": "T18n0882_014:0389a17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼大自在天以降伏故，久踐足心，而今宜應舉足放釋。",
+        "from": "T18n0882_014:0389a18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」是時，金剛手菩薩摩訶薩白諸如來言：",
+        "from": "T18n0882_014:0389a19_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我首受於一切如來忿怒灌頂，使我調伏一切惡者，今此云何令我放釋？",
+        "from": "T18n0882_014:0389a21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時一切如來為令普盡三世增上主宰大自在天得活命故，從一切如來心出是大明曰：",
+        "from": "T18n0882_014:0389a23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「唵引　嚩日囉二合　薩埵吽引　𠺁一句「此大明印：",
+        "from": "T18n0882_014:0389a25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「堅固應作祕密鉤，　　諸指向外而舒展，",
+        "from": "T18n0882_014:0389a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是印相合置頂中，　　死者能令得還命。",
+        "from": "T18n0882_014:0389a27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」說是印明時，而彼下方跋娑摩餐那世界跋娑彌莎囉儞哩瞿沙如來，忽從大自在天身中出現，說此頌曰：",
+        "from": "T18n0882_014:0389b01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大哉一切正覺尊，　　諸佛大智無有上，",
+        "from": "T18n0882_014:0389b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能令死者有情身，　　去識還來得活命。",
+        "from": "T18n0882_014:0389b03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，金剛手菩薩摩訶薩即說此舉足大明曰：",
+        "from": "T18n0882_014:0389b05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「唵引　嚩日囉二合　目一句「此大明印：",
+        "from": "T18n0882_014:0389b07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「齊竪金剛忿怒指，　　指面不著堅固住，",
+        "from": "T18n0882_014:0389b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "旋轉還成二金剛，　　從下漸起至頂上。",
+        "from": "T18n0882_014:0389b09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」說是印明時，金剛手菩薩摩訶薩即舉足心，彼大自在天從是得起還活其命。",
+        "from": "T18n0882_014:0389b11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時大自在天由彼如來威神建立得活命已，於彼世界當受灌頂，即於彼界為諸有情作利益事，亦使調伏諸惡有情。",
+        "from": "T18n0882_014:0389b14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時，金剛手菩薩摩訶薩從此足心出生大明，名為月足，是即一切如來菩薩智印。",
+        "from": "T18n0882_014:0389b16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大明曰：",
+        "from": "T18n0882_014:0389b17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「唵引　贊捺嚕二合引　多哩引　三滿多跋捺囉二合　枳囉尼引一句　摩賀引　嚩日哩二合　尼吽引二「此大明印：",
+        "from": "T18n0882_014:0389b20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「堅固應作金剛縛，　　小指大指二皆竪，",
+        "from": "T18n0882_014:0389b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "起是印住等攝心，　　此說名為月光印。",
+        "from": "T18n0882_014:0389b22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」出是印明時，即從金剛手大菩薩足心出現月上如來。",
+        "from": "T18n0882_014:0389b24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是出現已，時大自在天舉頭置於金剛手大菩薩足，菩薩即為灌其半月頂相。",
+        "from": "T18n0882_014:0389b26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得灌頂已，乃於金剛手大菩薩左面，如理而住。",
+        "from": "T18n0882_014:0389b27_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然後一切如來以金剛叉授大自在天雙手掌中，令與金剛手大菩薩作助伴者，復以金剛最上明灌頂法而為灌頂，乃立其名號金剛最上明菩薩。",
+        "from": "T18n0882_014:0389c01_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說一切如來真實攝大乘現證三昧大教王經卷第十四",
+        "from": "T18n0882_014:0389c03_100",
+        "context_with_next_sentence": false
+    }
+]

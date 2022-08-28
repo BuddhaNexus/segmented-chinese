@@ -1,19 +1,697 @@
-{
-    "T30n1575_001:0254b17_0": "六十頌如理論",
-    "T30n1575_001:0254b19_0": "龍樹菩薩造",
-    "T30n1575_001:0254b20_0": "西天譯經三藏朝奉大",
-    "T30n1575_001:0254b21_0": "夫試光祿卿傳法大師",
-    "T30n1575_001:0254b22_0": "賜紫臣施護奉　詔譯",
-    "T30n1575_001:0254b23_0-0": "　歸命三世寂默主　　宣說緣生正法語　若了諸法離緣生　　所作法行如是離　離有無二邊　　智者無所依　甚深無所緣　　緣生義成立　若謂法無性　　即生諸過失　智者應如理　　伺察法有性　若有性實得　　如愚者分別　無性即無因　　解脫義何立　不可說有性　　不可說無性　了知性無性　　大智如理說　涅盤與生死　　勿觀別異性　",
-    "T30n1575_001:0254b23_0-1": "非涅槃生死　　二性有差別　生死及涅槃　　二俱無所有　若了知生死　　此即是涅槃　破彼生有性　　分別滅亦然　如幻所作事　　滅現前無實　若滅有所壞　　知彼是有為　現法尚無得　　復何知壞法　彼諸蘊不滅　　染盡即涅槃　若了知滅性　　彼即得解脫　若生法滅法　　二俱不可得　正智所觀察　　從無明緣生　若見法寂靜　　諸所作亦然　",
-    "T30n1575_001:0254b23_0-2": "知此最勝法　　獲法智無邊　緣生性可見　　是義非無見　此中微妙性　　非緣生分別　佛正覺所說　　有說非無因　若盡煩惱源　　即破輪迴相　諸法決定行　　見有作有取　前後際云何　　從緣所安立　云何前已生　　彼後復別轉　故前後邊際　　如世幻所見　云何幻可生　　云何有所著　癡者於幻中　　求幻而為實　前際非後際　　執見故不捨　",
-    "T30n1575_001:0254b23_0-3": "智觀性無性　　如幻焰影像　若謂生非滅　　是有為分別　而彼緣生輪　　隨轉無所現　若已生未生　　彼自性無生　若自性無生　　生名云何得　因寂即法盡　　此盡不可得　若自性無盡　　盡名云何立　無少法可生　　無少法可滅　彼生滅二道　　隨事隨義現　知生即知滅　　知滅知無常　無常性若知　　不得諸法底　諸法從緣生　　雖生即離滅　",
-    "T30n1575_001:0254b23_0-4": "如到彼岸者　　即見大海事　若自心不了　　異生執我性　性無性顛倒　　即生諸過失　諸法是無常　　苦空及無我　此中見法離　　智觀性無性　無住無所緣　　無根亦不立　從無明種生　　離初中後際　癡闇大惡城　　如芭蕉不實　如乾闥婆城　　皆世幻所見　此界梵王初　　佛如實正說　後諸聖無妄　　說亦無差別　世間癡所闇　　愛相續流轉　",
-    "T30n1575_001:0254b23_0-5": "智者了諸愛　　而平等善說　初說諸法有　　於有求實性　後求性亦無　　即無著性離　若不知離義　　隨聞即有著　而所作福業　　凡愚者自破　如先平等說　　彼諸業真實　自性若了知　　此說即無生　我如是所說　　皆依佛言教　如其所宣揚　　即蘊處界法　大種等及識　　所說皆平等　彼智現證時　　無妄無分別　此一若如實　　佛說為涅槃　",
-    "T30n1575_001:0254b23_0-6": "此最勝無妄　　無智即分別　若心有散亂　　與諸魔作便　若如實離過　　此即無所生　如是無明緣　　佛為世間說　若世無分別　　此云何無生　若無明可滅　　滅已即非生　生滅名乖違　　無智起分別　有因即有生　　無緣即無住　離緣若有性　　此有亦何得　若有性可取　　即說有生住　此中疑復多　　謂有法可住　若菩提可證　　即處處常語　",
-    "T30n1575_001:0254b23_0-7": "若住性可取　　此說還有生　若謂法有實　　無智作是說　若謂法有處　　取亦不可得　法無生無我　　智悟入實性　常無常等相　　皆由心起見　若成立多性　　即成欲實性　彼云何非此　　常得生過失　若成立一性　　所欲如水月　非實非無實　　皆由心起見　貪瞋法極重　　由是生見執　諍論故安立　　離性而執實　彼因起諸見　　見故生煩惱　",
-    "T30n1575_001:0254b23_0-8": "若此正了知　　見煩惱俱盡　當知法無常　　從緣生故現　緣生亦無生　　此最上實語　眾生邪妄智　　無實謂實想　於他諍論興　　自行顛倒轉　自分不可立　　他分云何有　自他分俱無　　智了無諍論　有少法可依　　煩惱如毒蛇　若無寂無動　　心即無所依　煩惱如毒蛇　　生極重過失　煩惱毒所覆　　云何見諸心　如愚見影像　　彼妄生實想　",
-    "T30n1575_001:0254b23_0-9": "世間縛亦然　　慧為癡所網　性喻如影像　　非智眼境界　大智本不生　　微細境界想　著色謂凡夫　　離貪即小聖　了知色自性　　是為最上智　若著諸善法　　如離貪顛倒　猶見幻人已　　離所作求體　知此義為失　　不觀性無性　煩惱不可得　　性光破邪智　智離染清淨　　亦無淨可依　有依即有染　　彼淨還生過　極惡煩惱法　　若見自性離　",
-    "T30n1575_001:0254b23_0-10": "即心無動亂　　得渡生死海　此善法甘露　　從大悲所生　依如來言宣　　無分限分別　此中如是難可說　　隨智者見即成就　智者隨觀隨順門　　如是皆從大悲轉　一切法中真實性　　智者隨應如理觀　所向由是信得生　　拔彼眾生離諸苦　此義甚深復廣大　　我為勝利故讚說　如大智言今已宣　　自他癡闇皆能破　破彼癡闇煩惱已　　如如所作離魔障　",
-    "T30n1575_001:0254b23_0-11": "由是能開善趣門　　諸解脫事而何失　持淨戒者得生天　　此即決定真實句　設破戒者住正心　　雖壞戒而不壞見　種子生長非無義　　見義利故廣施作　不以大悲為正因　　智者何能生法欲六十頌如理論"
-}
+[
+    {
+        "source_sentence": "六十頌如理論",
+        "from": "T30n1575_001:0254b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍樹菩薩造",
+        "from": "T30n1575_001:0254b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝奉大",
+        "from": "T30n1575_001:0254b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫試光祿卿傳法大師賜紫臣施護奉　詔譯歸命三世寂默主，　　宣說緣生正法語；",
+        "from": "T30n1575_001:0254b23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若了諸法離緣生，　　所作法行如是離。",
+        "from": "T30n1575_001:0254b24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離有無二邊，　　智者無所依；",
+        "from": "T30n1575_001:0254b25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "甚深無所緣，　　緣生義成立。",
+        "from": "T30n1575_001:0254b26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若謂法無性，　　即生諸過失；",
+        "from": "T30n1575_001:0254b27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者應如理，　　伺察法有性。",
+        "from": "T30n1575_001:0254b28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有性實得，　　如愚者分別；",
+        "from": "T30n1575_001:0254b29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無性即無因，　　解脫義何立？",
+        "from": "T30n1575_001:0254c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不可說有性，　　不可說無性；",
+        "from": "T30n1575_001:0254c02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了知性無性，　　大智如理說。",
+        "from": "T30n1575_001:0254c03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "涅盤與生死，　　勿觀別異性；",
+        "from": "T30n1575_001:0254c04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非涅槃生死，　　二性有差別。",
+        "from": "T30n1575_001:0254c05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生死及涅槃，　　二俱無所有；",
+        "from": "T30n1575_001:0254c06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若了知生死，　　此即是涅槃。",
+        "from": "T30n1575_001:0254c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "破彼生有性，　　分別滅亦然；",
+        "from": "T30n1575_001:0254c08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如幻所作事，　　滅現前無實。",
+        "from": "T30n1575_001:0254c09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若滅有所壞，　　知彼是有為；",
+        "from": "T30n1575_001:0254c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現法尚無得，　　復何知壞法？",
+        "from": "T30n1575_001:0254c11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼諸蘊不滅，　　染盡即涅槃；",
+        "from": "T30n1575_001:0254c12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若了知滅性，　　彼即得解脫。",
+        "from": "T30n1575_001:0254c13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若生法滅法，　　二俱不可得；",
+        "from": "T30n1575_001:0254c14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正智所觀察，　　從無明緣生。",
+        "from": "T30n1575_001:0254c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若見法寂靜，　　諸所作亦然；",
+        "from": "T30n1575_001:0254c16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知此最勝法，　　獲法智無邊。",
+        "from": "T30n1575_001:0254c17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "緣生性可見，　　是義非無見；",
+        "from": "T30n1575_001:0254c18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此中微妙性，　　非緣生分別。",
+        "from": "T30n1575_001:0254c19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛正覺所說，　　有說非無因；",
+        "from": "T30n1575_001:0254c20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若盡煩惱源，　　即破輪迴相。",
+        "from": "T30n1575_001:0254c21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸法決定行，　　見有作有取；",
+        "from": "T30n1575_001:0254c22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前後際云何，　　從緣所安立？",
+        "from": "T30n1575_001:0254c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何前已生，　　彼後復別轉？",
+        "from": "T30n1575_001:0254c24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故前後邊際，　　如世幻所見。",
+        "from": "T30n1575_001:0254c25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何幻可生？",
+        "from": "T30n1575_001:0254c26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　云何有所著？",
+        "from": "T30n1575_001:0254c26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "癡者於幻中，　　求幻而為實。",
+        "from": "T30n1575_001:0254c27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前際非後際，　　執見故不捨；",
+        "from": "T30n1575_001:0254c28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智觀性無性，　　如幻焰影像。",
+        "from": "T30n1575_001:0254c29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若謂生非滅，　　是有為分別；",
+        "from": "T30n1575_001:0255a01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼緣生輪，　　隨轉無所現。",
+        "from": "T30n1575_001:0255a02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若已生未生，　　彼自性無生；",
+        "from": "T30n1575_001:0255a03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若自性無生，　　生名云何得？",
+        "from": "T30n1575_001:0255a04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因寂即法盡，　　此盡不可得；",
+        "from": "T30n1575_001:0255a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若自性無盡，　　盡名云何立？",
+        "from": "T30n1575_001:0255a06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無少法可生，　　無少法可滅；",
+        "from": "T30n1575_001:0255a07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼生滅二道，　　隨事隨義現。",
+        "from": "T30n1575_001:0255a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知生即知滅，　　知滅知無常；",
+        "from": "T30n1575_001:0255a09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無常性若知，　　不得諸法底。",
+        "from": "T30n1575_001:0255a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸法從緣生，　　雖生即離滅；",
+        "from": "T30n1575_001:0255a11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如到彼岸者，　　即見大海事。",
+        "from": "T30n1575_001:0255a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若自心不了，　　異生執我性；",
+        "from": "T30n1575_001:0255a13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "性無性顛倒，　　即生諸過失。",
+        "from": "T30n1575_001:0255a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸法是無常，　　苦空及無我；",
+        "from": "T30n1575_001:0255a15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此中見法離，　　智觀性無性。",
+        "from": "T30n1575_001:0255a16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無住無所緣，　　無根亦不立；",
+        "from": "T30n1575_001:0255a17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從無明種生，　　離初中後際。",
+        "from": "T30n1575_001:0255a18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "癡闇大惡城，　　如芭蕉不實，",
+        "from": "T30n1575_001:0255a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如乾闥婆城，　　皆世幻所見。",
+        "from": "T30n1575_001:0255a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此界梵王初，　　佛如實正說；",
+        "from": "T30n1575_001:0255a21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後諸聖無妄，　　說亦無差別。",
+        "from": "T30n1575_001:0255a22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世間癡所闇，　　愛相續流轉；",
+        "from": "T30n1575_001:0255a23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者了諸愛，　　而平等善說。",
+        "from": "T30n1575_001:0255a24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初說諸法有，　　於有求實性；",
+        "from": "T30n1575_001:0255a25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後求性亦無，　　即無著性離。",
+        "from": "T30n1575_001:0255a26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若不知離義，　　隨聞即有著；",
+        "from": "T30n1575_001:0255a27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而所作福業，　　凡愚者自破。",
+        "from": "T30n1575_001:0255a28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如先平等說，　　彼諸業真實；",
+        "from": "T30n1575_001:0255a29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自性若了知，　　此說即無生。",
+        "from": "T30n1575_001:0255b01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我如是所說，　　皆依佛言教，",
+        "from": "T30n1575_001:0255b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如其所宣揚，　　即蘊處界法，",
+        "from": "T30n1575_001:0255b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大種等及識，　　所說皆平等；",
+        "from": "T30n1575_001:0255b04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼智現證時，　　無妄無分別，",
+        "from": "T30n1575_001:0255b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此一若如實，　　佛說為涅槃。",
+        "from": "T30n1575_001:0255b06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此最勝無妄，　　無智即分別，",
+        "from": "T30n1575_001:0255b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若心有散亂，　　與諸魔作便。",
+        "from": "T30n1575_001:0255b08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若如實離過，　　此即無所生；",
+        "from": "T30n1575_001:0255b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是無明緣，　　佛為世間說。",
+        "from": "T30n1575_001:0255b10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若世無分別，　　此云何無生？",
+        "from": "T30n1575_001:0255b11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若無明可滅，　　滅已即非生，",
+        "from": "T30n1575_001:0255b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生滅名乖違，　　無智起分別。",
+        "from": "T30n1575_001:0255b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有因即有生，　　無緣即無住；",
+        "from": "T30n1575_001:0255b14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離緣若有性，　　此有亦何得？",
+        "from": "T30n1575_001:0255b15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有性可取，　　即說有生住；",
+        "from": "T30n1575_001:0255b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此中疑復多，　　謂有法可住。",
+        "from": "T30n1575_001:0255b17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若菩提可證，　　即處處常語；",
+        "from": "T30n1575_001:0255b18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若住性可取，　　此說還有生。",
+        "from": "T30n1575_001:0255b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若謂法有實，　　無智作是說；",
+        "from": "T30n1575_001:0255b20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若謂法有處，　　取亦不可得。",
+        "from": "T30n1575_001:0255b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法無生無我，　　智悟入實性；",
+        "from": "T30n1575_001:0255b22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常無常等相，　　皆由心起見。",
+        "from": "T30n1575_001:0255b23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若成立多性，　　即成欲實性；",
+        "from": "T30n1575_001:0255b24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼云何非此，　　常得生過失。",
+        "from": "T30n1575_001:0255b25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若成立一性，　　所欲如水月；",
+        "from": "T30n1575_001:0255b26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非實非無實，　　皆由心起見。",
+        "from": "T30n1575_001:0255b27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貪瞋法極重，　　由是生見執，",
+        "from": "T30n1575_001:0255b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諍論故安立，　　離性而執實。",
+        "from": "T30n1575_001:0255b29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼因起諸見，　　見故生煩惱；",
+        "from": "T30n1575_001:0255c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若此正了知，　　見煩惱俱盡。",
+        "from": "T30n1575_001:0255c02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知法無常，　　從緣生故現；",
+        "from": "T30n1575_001:0255c03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "緣生亦無生，　　此最上實語。",
+        "from": "T30n1575_001:0255c04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾生邪妄智，　　無實謂實想；",
+        "from": "T30n1575_001:0255c05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於他諍論興，　　自行顛倒轉。",
+        "from": "T30n1575_001:0255c06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自分不可立，　　他分云何有？",
+        "from": "T30n1575_001:0255c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自他分俱無，　　智了無諍論。",
+        "from": "T30n1575_001:0255c08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有少法可依，　　煩惱如毒蛇；",
+        "from": "T30n1575_001:0255c09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若無寂無動，　　心即無所依。",
+        "from": "T30n1575_001:0255c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煩惱如毒蛇，　　生極重過失；",
+        "from": "T30n1575_001:0255c11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煩惱毒所覆，　　云何見諸心？",
+        "from": "T30n1575_001:0255c12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如愚見影像，　　彼妄生實想；",
+        "from": "T30n1575_001:0255c13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世間縛亦然，　　慧為癡所網。",
+        "from": "T30n1575_001:0255c14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "性喻如影像，　　非智眼境界；",
+        "from": "T30n1575_001:0255c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大智本不生，　　微細境界想。",
+        "from": "T30n1575_001:0255c16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "著色謂凡夫，　　離貪即小聖；",
+        "from": "T30n1575_001:0255c17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了知色自性，　　是為最上智。",
+        "from": "T30n1575_001:0255c18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若著諸善法，　　如離貪顛倒；",
+        "from": "T30n1575_001:0255c19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶見幻人已，　　離所作求體。",
+        "from": "T30n1575_001:0255c20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知此義為失，　　不觀性無性；",
+        "from": "T30n1575_001:0255c21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煩惱不可得，　　性光破邪智。",
+        "from": "T30n1575_001:0255c22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智離染清淨，　　亦無淨可依；",
+        "from": "T30n1575_001:0255c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有依即有染，　　彼淨還生過。",
+        "from": "T30n1575_001:0255c24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "極惡煩惱法，　　若見自性離，",
+        "from": "T30n1575_001:0255c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即心無動亂，　　得渡生死海。",
+        "from": "T30n1575_001:0255c26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此善法甘露，　　從大悲所生；",
+        "from": "T30n1575_001:0255c27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依如來言宣，　　無分限分別。",
+        "from": "T30n1575_001:0255c28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此中如是難可說，　　隨智者見即成就，",
+        "from": "T30n1575_001:0255c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者隨觀隨順門，　　如是皆從大悲轉。",
+        "from": "T30n1575_001:0256a01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切法中真實性，　　智者隨應如理觀，",
+        "from": "T30n1575_001:0256a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所向由是信得生，　　拔彼眾生離諸苦。",
+        "from": "T30n1575_001:0256a03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此義甚深復廣大，　　我為勝利故讚說，",
+        "from": "T30n1575_001:0256a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如大智言今已宣，　　自他癡闇皆能破。",
+        "from": "T30n1575_001:0256a05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "破彼癡闇煩惱已，　　如如所作離魔障，",
+        "from": "T30n1575_001:0256a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由是能開善趣門，　　諸解脫事而何失？",
+        "from": "T30n1575_001:0256a07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "持淨戒者得生天，　　此即決定真實句；",
+        "from": "T30n1575_001:0256a08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設破戒者住正心，　　雖壞戒而不壞見。",
+        "from": "T30n1575_001:0256a09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種子生長非無義，　　見義利故廣施作；",
+        "from": "T30n1575_001:0256a10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不以大悲為正因，　　智者何能生法欲？",
+        "from": "T30n1575_001:0256a11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六十頌如理論",
+        "from": "T30n1575_001:0256a12_100",
+        "context_with_next_sentence": false
+    }
+]

@@ -1,16 +1,272 @@
-{
-    "T19n0942_001:0097c10_0": "釋迦佛讚",
-    "T19n0942_001:0097c12_0": "內廷清字經館行走唐古",
-    "T19n0942_001:0097c13_0": "忒學教習闡福寺副達喇",
-    "T19n0942_001:0097c14_0": "嘛薩穆丹達爾吉譯",
-    "T19n0942_001:0097c15_0": "納摩沙喇伊麻尼鴉徂郭卡阿鴉",
-    "T19n0942_001:0097c16_0": "　三時及釋冤　　成道與龍乾",
-    "T19n0942_001:0097c17_0": "　悉戴上寶尊　　妙莊足蓮下",
-    "T19n0942_001:0097c18_0-0": "　金光朗耀威德身　　乾闥妙音難比語　億日光潔清明心　　導引眾生釋迦尊　如清天列諸星宿　　遍照海中悉澈明　誠意海內眾德像　　分明不共極顯然　手指相扶心間持　　如月映照少水生　一心現前與尊身　　微讚世尊祈悲憐　諸勇猛菩薩圍繞　　眾羅漢聚會排前　如星在天皆拱月　　似群牛中之勝尊　光現千輻網遶身　　其輝遍滿虛空界　",
-    "T19n0942_001:0097c18_0-1": "種種神變施無礙　　來如鵞王飛降臨　爾時因昔修善業　　百千人天應成熟　將覩尊面即解脫　　諸縛百罪暴心捐　菩提樹下英勇坐　　以慈慧兵鎮魔君　威力降伏皆已盡　　猶如烈風掃黑雲　不著甲冑器　　獨與億萬魔　全勝無餘陣　　除尊有誰能　世尊仁慈火　　極煎欲天心　慈海於有情　　親疎無不均　為利眾生故　　絲毫無倦時　眾生在尊前　",
-    "T19n0942_001:0097c18_0-2": "　誦德亦無倦　心深莫測如淵海　　語善妙若天鼓音　身勝現似須彌臺　　見聞憶念悉不空　所有世界諸眾生　　一時共稟所疑義　隨彼一一各等前　　同時示現身及語　即斷諸惑已盡矣　聖身語意之密理　　菩薩緣覺及羅漢　任爾觀察非智境　　何況釋梵世間等　如金翅王行虛空　　有時力弱即止回　惟有虛空無盡止　　言佛功德亦如是　",
-    "T19n0942_001:0097c18_0-3": "亦如大鵬奮翼飛　　途間微雀勉隨行　十力自在所行境　　彼勝道中雖欲入　見至理之智眼盲　　菩提厭離心又窮　大力煩惱冤常擾　　復陷我執之深窟　如是垢辱可歎處　　設被慈尊再棄置　大慈憐憫諸卑下　　非歸依仁而誰持　五濁惡世儳雜境　　他尊棄時仁全持　諸佛菩薩咸讚歎　　直比白蓮今柰何　世尊事業為調伏　　雖無微舍不觀察　",
-    "T19n0942_001:0097c18_0-4": "盡因惡緣自作罪　　故於爾尊無過時　我願從今修菩提　　乃至成道伏魔君　生生世尊常隨護　　承受甘露語無厭右為釋迦牟尼讚文謂速得攝受因持三藏弟子將[巴/拉][加/么]磋祈請多聞大德慧賢名師在西藏雪山洞萵德工[加/拉]之神祠著作。",
-    "T19n0942_001:0098b04_0": "　如來體微妙云何　　及於眷屬共壽量　境界及於號云何　　願我等皆亦復然　讚祝世尊微善力　　我等隨方所在處　病魔貧爭盡消除　　善祥增長祈皆賜　一切諸佛興於世　　聖教顯明如日光　持教相和如兄弟　　願施正教恒吉祥右十二句誦者之願文隨前讚誦之可也。",
-    "T19n0942_001:0098b11_0": "釋迦佛讚竟"
-}
+[
+    {
+        "source_sentence": "釋迦佛讚",
+        "from": "T19n0942_001:0097c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "內廷清字經館行走唐古",
+        "from": "T19n0942_001:0097c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忒學教習闡福寺副達喇",
+        "from": "T19n0942_001:0097c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三時及釋冤　　成道與龍乾",
+        "from": "T19n0942_001:0097c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悉戴上寶尊　　妙莊足蓮下",
+        "from": "T19n0942_001:0097c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金光朗耀威德身　　乾闥妙音難比語",
+        "from": "T19n0942_001:0097c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "億日光潔清明心　　導引眾生釋迦尊",
+        "from": "T19n0942_001:0097c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如清天列諸星宿　　遍照海中悉澈明",
+        "from": "T19n0942_001:0097c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誠意海內眾德像　　分明不共極顯然",
+        "from": "T19n0942_001:0097c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手指相扶心間持　　如月映照少水生",
+        "from": "T19n0942_001:0097c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一心現前與尊身　　微讚世尊祈悲憐",
+        "from": "T19n0942_001:0097c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸勇猛菩薩圍繞　　眾羅漢聚會排前",
+        "from": "T19n0942_001:0097c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如星在天皆拱月　　似群牛中之勝尊",
+        "from": "T19n0942_001:0097c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "光現千輻網遶身　　其輝遍滿虛空界",
+        "from": "T19n0942_001:0097c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種種神變施無礙　　來如鵞王飛降臨",
+        "from": "T19n0942_001:0097c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時因昔修善業　　百千人天應成熟",
+        "from": "T19n0942_001:0097c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "將覩尊面即解脫　　諸縛百罪暴心捐",
+        "from": "T19n0942_001:0097c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩提樹下英勇坐　　以慈慧兵鎮魔君",
+        "from": "T19n0942_001:0098a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "威力降伏皆已盡　　猶如烈風掃黑雲",
+        "from": "T19n0942_001:0098a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不著甲冑器　　獨與億萬魔",
+        "from": "T19n0942_001:0098a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "全勝無餘陣　　除尊有誰能",
+        "from": "T19n0942_001:0098a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊仁慈火　　極煎欲天心",
+        "from": "T19n0942_001:0098a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慈海於有情　　親疎無不均",
+        "from": "T19n0942_001:0098a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為利眾生故　　絲毫無倦時",
+        "from": "T19n0942_001:0098a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾生在尊前　　誦德亦無倦",
+        "from": "T19n0942_001:0098a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心深莫測如淵海　　語善妙若天鼓音",
+        "from": "T19n0942_001:0098a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身勝現似須彌臺　　見聞憶念悉不空",
+        "from": "T19n0942_001:0098a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有世界諸眾生　　一時共稟所疑義",
+        "from": "T19n0942_001:0098a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨彼一一各等前　　同時示現身及語",
+        "from": "T19n0942_001:0098a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖身語意之密理　　菩薩緣覺及羅漢",
+        "from": "T19n0942_001:0098a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "任爾觀察非智境　　何況釋梵世間等",
+        "from": "T19n0942_001:0098a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如金翅王行虛空　　有時力弱即止回",
+        "from": "T19n0942_001:0098a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟有虛空無盡止　　言佛功德亦如是",
+        "from": "T19n0942_001:0098a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦如大鵬奮翼飛　　途間微雀勉隨行",
+        "from": "T19n0942_001:0098a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十力自在所行境　　彼勝道中雖欲入",
+        "from": "T19n0942_001:0098a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見至理之智眼盲　　菩提厭離心又窮",
+        "from": "T19n0942_001:0098a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大力煩惱冤常擾　　復陷我執之深窟",
+        "from": "T19n0942_001:0098a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是垢辱可歎處　　設被慈尊再棄置",
+        "from": "T19n0942_001:0098a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大慈憐憫諸卑下　　非歸依仁而誰持",
+        "from": "T19n0942_001:0098a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五濁惡世儳雜境　　他尊棄時仁全持",
+        "from": "T19n0942_001:0098a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸佛菩薩咸讚歎　　直比白蓮今柰何",
+        "from": "T19n0942_001:0098a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊事業為調伏　　雖無微舍不觀察",
+        "from": "T19n0942_001:0098a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盡因惡緣自作罪　　故於爾尊無過時",
+        "from": "T19n0942_001:0098a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我願從今修菩提　　乃至成道伏魔君",
+        "from": "T19n0942_001:0098a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生生世尊常隨護　　承受甘露語無厭",
+        "from": "T19n0942_001:0098a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右為釋迦牟尼讚文謂速得攝受因持三藏弟子將𭘏𭄢磋祈請多聞大德慧賢名師在西藏雪山洞萵德工𭄻之神祠著作。",
+        "from": "T19n0942_001:0098b03_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來體微妙云何　　及於眷屬共壽量",
+        "from": "T19n0942_001:0098b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "境界及於號云何　　願我等皆亦復然",
+        "from": "T19n0942_001:0098b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讚祝世尊微善力　　我等隨方所在處",
+        "from": "T19n0942_001:0098b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "病魔貧爭盡消除　　善祥增長祈皆賜",
+        "from": "T19n0942_001:0098b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切諸佛興於世　　聖教顯明如日光",
+        "from": "T19n0942_001:0098b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "持教相和如兄弟　　願施正教恒吉祥",
+        "from": "T19n0942_001:0098b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右十二句誦者之願文隨前讚誦之可也。",
+        "from": "T19n0942_001:0098b10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋迦佛讚竟",
+        "from": "T19n0942_001:0098b11_100",
+        "context_with_next_sentence": false
+    }
+]

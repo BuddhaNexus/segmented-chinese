@@ -1,50 +1,167 @@
-{
-    "T29n1561_003:0326b19_0": "阿毘達磨俱舍論實義疏卷第三",
-    "T29n1561_003:0326b21_0": "尊者安惠造",
-    "T29n1561_003:0326b22_0": "三科一聚二生門三種族。",
-    "T29n1561_003:0326b22_1": "聚蘊義。",
-    "T29n1561_003:0326b22_2": "生門義。",
-    "T29n1561_003:0326b23_0": "心心所法生長門義。",
-    "T29n1561_003:0326b23_1": "生於眼識以眼為門。",
-    "T29n1561_003:0326b23_2": "此經證門義有六。",
-    "T29n1561_003:0326b24_3": "然心所法有十二。",
-    "T29n1561_003:0326b24_4": "故契經說。",
-    "T29n1561_003:0326b25_0": "眼色為緣生於眼識。",
-    "T29n1561_003:0326b25_1": "三和合。",
-    "T29n1561_003:0326b25_2": "觸起俱受想思如是。",
-    "T29n1561_003:0326b26_3": "乃至意法為緣生於意識三和合。",
-    "T29n1561_003:0326b27_0": "種族義是界義。",
-    "T29n1561_003:0326b27_1": "如一山中有多銅鐵金銀界族說名多界。",
-    "T29n1561_003:0326b28_2": "如是一身或一相續。",
-    "T29n1561_003:0326b28_3": "有十八類。",
-    "T29n1561_003:0326b29_4": "諸法種族名十八界。",
-    "T29n1561_003:0326b29_5": "眼根現在未來過去是。",
-    "T29n1561_003:0326c02_0": "無明顛倒頌曰。",
-    "T29n1561_003:0326c03_0": "　如魚處泥中　　躍水令渾濁",
-    "T29n1561_003:0326c04_0": "　無明中倒想　　污患亦復然",
-    "T29n1561_003:0326c05_0": "蘊名想頌曰。",
-    "T29n1561_003:0326c06_0": "　牟尼說法蘊　　數有八十千",
-    "T29n1561_003:0326c07_0": "　彼體語或名　　此必行蘊攝",
-    "T29n1561_003:0326c08_0": "論頌曰。",
-    "T29n1561_003:0326c09_0": "　空界謂竅隟　　傳說是明闇",
-    "T29n1561_003:0326c10_0": "　識界有漏識　　有情生所依",
-    "T29n1561_003:0326c11_0": "論卷第二",
-    "T29n1561_003:0326c12_0": "十八界中幾有見幾無見。",
-    "T29n1561_003:0326c12_1": "幾有對幾無對。",
-    "T29n1561_003:0326c12_2": "幾善幾不善幾無記。",
-    "T29n1561_003:0326c13_3": "頌曰。",
-    "T29n1561_003:0326c14_0": "　一有見謂色　　十有色有對",
-    "T29n1561_003:0326c15_0": "　此八除色聲　　無記得三種",
-    "T29n1561_003:0326c16_0": "　五無分別　　由計度隨念",
-    "T29n1561_003:0326c17_0": "　以意地散惠　　意諸念為體",
-    "T29n1561_003:0326c18_0": "論曰。",
-    "T29n1561_003:0326c18_1": "說分別略有三種。",
-    "T29n1561_003:0326c18_2": "一自性分別。",
-    "T29n1561_003:0326c18_3": "二計度分別。",
-    "T29n1561_003:0326c19_4": "三隨念分別。",
-    "T29n1561_003:0326c19_5": "由五識身雖有自性而無餘二。",
-    "T29n1561_003:0326c20_6": "說有八種分別非也。",
-    "T29n1561_003:0326c20_7": "唯有自性分別。",
-    "T29n1561_003:0326c20_8": "而無計度隨念分別。",
-    "T29n1561_003:0326c21_9": "唯一分別名無分別。"
-}
+[
+    {
+        "source_sentence": "3阿毘達磨俱舍論實義疏卷第三",
+        "from": "T29n1561_003:0326b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尊者安惠造",
+        "from": "T29n1561_003:0326b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三科：一聚、二生門、三種族。聚，蘊義。生，門義。",
+        "from": "T29n1561_003:0326b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心心所法生長門義，生於眼識以眼為門。",
+        "from": "T29n1561_003:0326b23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此經證門義有六，然心所法有十二，故契經說：",
+        "from": "T29n1561_003:0326b24_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眼色為緣生於眼識，三和合觸起，俱受想思，如是乃至意法為緣生於意識，三和合。",
+        "from": "T29n1561_003:0326b26_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種族義是界義，如一山中有多銅鐵金銀界族，說名多界。",
+        "from": "T29n1561_003:0326b28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是一身或一相續，有十八類諸法種族，名十八界。",
+        "from": "T29n1561_003:0326b29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眼根現在未來過去是。",
+        "from": "T29n1561_003:0326c01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無明顛倒，頌曰：",
+        "from": "T29n1561_003:0326c02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如魚處泥中，　　躍水令渾濁，",
+        "from": "T29n1561_003:0326c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無明中倒想，　　污患亦復然。",
+        "from": "T29n1561_003:0326c04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蘊名想，頌曰：",
+        "from": "T29n1561_003:0326c05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牟尼說法蘊，　　數有八十千，",
+        "from": "T29n1561_003:0326c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼體語或名，　　此必行蘊攝。",
+        "from": "T29n1561_003:0326c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論頌曰：",
+        "from": "T29n1561_003:0326c08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "空界謂竅隟，　　傳說是明闇，",
+        "from": "T29n1561_003:0326c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "識界有漏識，　　有情生所依。",
+        "from": "T29n1561_003:0326c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論卷第二十八界中幾有見幾無見？",
+        "from": "T29n1561_003:0326c12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幾有對幾無對？",
+        "from": "T29n1561_003:0326c12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "幾善幾不善幾無記？",
+        "from": "T29n1561_003:0326c13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰：",
+        "from": "T29n1561_003:0326c13_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一有見謂色，　　十有色有對，",
+        "from": "T29n1561_003:0326c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此八除色聲，　　無記得三種。",
+        "from": "T29n1561_003:0326c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五無分別，　　由計度隨念，",
+        "from": "T29n1561_003:0326c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以意地散惠，　　意諸念為體。",
+        "from": "T29n1561_003:0326c17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰：",
+        "from": "T29n1561_003:0326c18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說分別，略有三種：",
+        "from": "T29n1561_003:0326c18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一自性分別、二計度分別、三隨念分別。",
+        "from": "T29n1561_003:0326c19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由五識身雖有自性而無餘二。",
+        "from": "T29n1561_003:0326c20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說有八種分別，非也。",
+        "from": "T29n1561_003:0326c20_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯有自性分別，而無計度、隨念分別。",
+        "from": "T29n1561_003:0326c21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯一分別，名無分別。",
+        "from": "T29n1561_003:0326c21_18",
+        "context_with_next_sentence": true
+    }
+]

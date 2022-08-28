@@ -1,44 +1,217 @@
-{
-    "T85n2872_001:1355c10_0": "妙法蓮華經度量天地品第二",
-    "T85n2872_001:1355c11_0": "十九",
-    "T85n2872_001:1355c13_0": "爾時觀世音菩薩摩□□□□□□□□服偏袒右肩頭面著地。",
-    "T85n2872_001:1355c14_1": "為□作禮[跍*月]跪合掌而白佛言。",
-    "T85n2872_001:1355c15_2": "世尊我等無量諸菩薩眾并及一切諸天人等。",
-    "T85n2872_001:1355c16_3": "以於佛前廣聞諸法敷演解說妙法華經。",
-    "T85n2872_001:1355c17_4": "心淨踊躍得未曾有。",
-    "T85n2872_001:1355c17_5": "重白佛言。",
-    "T85n2872_001:1355c17_6": "世尊我常晝夜周旋往返十方一切無量世界教化眾生。",
-    "T85n2872_001:1355c19_7": "未知天地深淺近遠。",
-    "T85n2872_001:1355c19_8": "唯願世尊為我解說令我大眾悉皆得聞。",
-    "T85n2872_001:1355c21_0": "爾時佛告觀世音菩薩摩訶薩□□恒河沙諸菩薩等。",
-    "T85n2872_001:1355c22_1": "汝今諦聽□□□之。",
-    "T85n2872_001:1355c22_2": "吾當為汝分別解說。",
-    "T85n2872_001:1355c23_3": "如是大地深二十億萬里。",
-    "T85n2872_001:1355c23_4": "次有潤澤亦深二十億萬里。",
-    "T85n2872_001:1355c24_5": "次有金銀琉璃車渠馬瑙珊瑚虎珀諸妙珍寶深四十億萬里。",
-    "T85n2872_001:1355c25_6": "次有金粟深八十億萬里。",
-    "T85n2872_001:1355c26_7": "次有銀剛亦深八十億萬里。",
-    "T85n2872_001:1355c27_8": "次有銀粟深百億萬里。",
-    "T85n2872_001:1355c27_9": "次有金剛深二百億萬里。",
-    "T85n2872_001:1355c28_10": "下有無極大風稱其天地不使傾動。",
-    "T85n2872_001:1355c29_0": "其大地者是天之梁柱。",
-    "T85n2872_001:1355c29_1": "何以故。",
-    "T85n2872_001:1355c29_2": "天下所有一切萬物皆因於地。",
-    "T85n2872_001:1356a01_3": "及□□□□□□河大海小海汎瀾井谷卉木聚林藥草諸樹皆地生長。",
-    "T85n2872_001:1356a03_4": "土山里山小鐵圍山及彌樓山金剛山須彌山等。",
-    "T85n2872_001:1356a04_5": "如是一切眾妙寶山諸山中王。",
-    "T85n2872_001:1356a04_6": "四寶涌成高出一切眾妙寶山。",
-    "T85n2872_001:1356a05_7": "皆因大地涌出珍寶而共合成。",
-    "T85n2872_001:1356a06_8": "又須彌山王四寶涌成高出一切諸世間上。",
-    "T85n2872_001:1356a07_9": "何等為四。",
-    "T85n2872_001:1356a07_10": "南名琉璃。",
-    "T85n2872_001:1356a07_11": "西名頗梨。",
-    "T85n2872_001:1356a08_0": "北名馬瑙。",
-    "T85n2872_001:1356a08_1": "東名黃金。",
-    "T85n2872_001:1356a08_2": "四寶光炎照曜四方。",
-    "T85n2872_001:1356a08_3": "天下眾生共相瞻視謂名為天。",
-    "T85n2872_001:1356a09_4": "須彌山者是天主護世四鎮依止而住。",
-    "T85n2872_001:1356a10_5": "何等為須彌山南有無量七寶宮殿。",
-    "T85n2872_001:1356a11_6": "去地百萬里。",
-    "T85n2872_001:1356a11_7": "中有天王名毘。"
-}
+[
+    {
+        "source_sentence": "妙法蓮華經度量天地品第二",
+        "from": "T85n2872_001:1355c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十九",
+        "from": "T85n2872_001:1355c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時觀世音菩薩摩□□□□□□□□服",
+        "from": "T85n2872_001:1355c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偏袒右肩頭面著地。",
+        "from": "T85n2872_001:1355c14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為□作禮䠒跪合掌而白佛言。",
+        "from": "T85n2872_001:1355c15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊我等無量諸菩薩眾并及一切諸天人等。",
+        "from": "T85n2872_001:1355c16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以於佛前廣聞諸法敷演解說妙法華經。",
+        "from": "T85n2872_001:1355c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心淨踊躍得未曾有。",
+        "from": "T85n2872_001:1355c17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "重白佛言。",
+        "from": "T85n2872_001:1355c17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊我常晝夜周旋往返十方一切無量世界教化眾生。",
+        "from": "T85n2872_001:1355c19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未知天地深淺近遠。",
+        "from": "T85n2872_001:1355c19_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯願世尊為我解說令我大眾悉皆得聞。",
+        "from": "T85n2872_001:1355c20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時佛告觀世音菩薩摩訶薩□□恒河沙諸菩薩等。",
+        "from": "T85n2872_001:1355c22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝今諦聽□□□之。",
+        "from": "T85n2872_001:1355c22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吾當為汝分別解說。",
+        "from": "T85n2872_001:1355c23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是大地深二十億萬里。",
+        "from": "T85n2872_001:1355c23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次有潤澤亦深二十億萬里。",
+        "from": "T85n2872_001:1355c24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次有金銀琉璃車渠馬瑙珊瑚虎珀諸妙珍寶深四十億萬里。",
+        "from": "T85n2872_001:1355c25_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次有金粟深八十億萬里。",
+        "from": "T85n2872_001:1355c26_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次有銀剛亦深八十億萬里。",
+        "from": "T85n2872_001:1355c27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次有銀粟深百億萬里。",
+        "from": "T85n2872_001:1355c27_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次有金剛深二百億萬里。",
+        "from": "T85n2872_001:1355c28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下有無極大風稱其天地不使傾動。",
+        "from": "T85n2872_001:1355c28_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其大地者是天之梁柱。",
+        "from": "T85n2872_001:1355c29_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故。",
+        "from": "T85n2872_001:1355c29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天下所有一切萬物皆因於地。",
+        "from": "T85n2872_001:1356a01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及□□□□□□河大海小海汎瀾井谷卉木聚林藥草諸樹皆地生長。",
+        "from": "T85n2872_001:1356a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "土山里山小鐵圍山及彌樓山金剛山須彌山等。",
+        "from": "T85n2872_001:1356a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是一切眾妙寶山諸山中王。",
+        "from": "T85n2872_001:1356a04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四寶涌成高出一切眾妙寶山。",
+        "from": "T85n2872_001:1356a05_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆因大地涌出珍寶而共合成。",
+        "from": "T85n2872_001:1356a06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又須彌山王四寶涌成高出一切諸世間上。",
+        "from": "T85n2872_001:1356a07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四。",
+        "from": "T85n2872_001:1356a07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南名琉璃。",
+        "from": "T85n2872_001:1356a07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西名頗梨。",
+        "from": "T85n2872_001:1356a07_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "北名馬瑙。",
+        "from": "T85n2872_001:1356a08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "東名黃金。",
+        "from": "T85n2872_001:1356a08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四寶光炎照曜四方。",
+        "from": "T85n2872_001:1356a08_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天下眾生共相瞻視謂名為天。",
+        "from": "T85n2872_001:1356a09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "須彌山者是天主護世四鎮依止而住。",
+        "from": "T85n2872_001:1356a10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為須彌山南有無量七寶宮殿。",
+        "from": "T85n2872_001:1356a11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "去地百萬里。",
+        "from": "T85n2872_001:1356a11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中有天王名毘。",
+        "from": "T85n2872_001:1356a11_19",
+        "context_with_next_sentence": true
+    }
+]

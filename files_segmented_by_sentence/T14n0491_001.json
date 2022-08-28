@@ -1,18 +1,187 @@
-{
-    "T14n0491_001:0752a16_0": "六菩薩亦當誦持經",
-    "T14n0491_001:0752a18_0": "失譯附後漢錄",
-    "T14n0491_001:0752a19_0": "師子戲菩薩、師子奮迅菩薩、師子幡菩薩、師子作菩薩、堅勇精進菩薩、擊金剛慧菩薩。",
-    "T14n0491_001:0752a22_0": "　巍巍十方佛，　　堂堂聖中王，　妙相三十二，　　眾好八十章，　身出妙光明，　　普照諸十方，　願身自歸命，　　稽首諸法王。",
-    "T14n0491_001:0752a26_0": "　巍巍十方佛，　　無極大慈悲，　興立諸大誓，　　濟度諸群黎，　多聞歡喜者，　　功德叵稱載，　願身自歸命，　　稽首諸大哀。",
-    "T14n0491_001:0752b01_0": "　巍巍十方佛，　　功德不可量，　慧如無量海，　　灌澤諸十方，　其有聞名者，　　除咎消諸殃，　歸命大智慧，　　稽首正覺王。",
-    "T14n0491_001:0752b05_0": "　巍巍十方佛，　　國土甚清淨，　七寶為莊嚴，　　妙香栴檀形，　悉純諸菩薩，　　亦無二乘名，　唯說不退轉，　　般若之道英。",
-    "T14n0491_001:0752b09_0": "　巍巍十方佛，　　三世道之珍，　其聞信樂者，　　疾成無上真，　遊於菩薩道，　　堅住不退轉，　所生常見佛，　　速值諸世尊。",
-    "T14n0491_001:0752b13_0": "　巍巍十方佛，　　三世之導師，　志心懷恭敬，　　信樂無狐疑，　所生常端正，　　顏容甚光暉，　辯才慧獨遠，　　願禮天人師。",
-    "T14n0491_001:0752b17_0": "　別有四菩薩。",
-    "T14n0491_001:0752b18_0": "此四大士，皆過去十方諸佛之師。",
-    "T14n0491_001:0752b18_1": "此四大士，初始造行之時，發大誓願言：「我當度一切眾生，至其都得涅槃，然後當取佛。」",
-    "T14n0491_001:0752b20_2": "以是故應誦念誦持，得無量無邊功德至不退轉。",
-    "T14n0491_001:0752b21_3": "譬如三千世界盡虛空滿中紫磨黃金，用之布施；不如一須臾之間誦念此四大士名，其所得功德，出過爾所黃金施上千億萬倍。",
-    "T14n0491_001:0752b24_4": "其名曰：棄陰蓋菩薩、寂根菩薩、慧威菩薩、不離菩薩。",
-    "T14n0491_001:0752b27_0": "六菩薩亦當誦持經"
-}
+[
+    {
+        "source_sentence": "六菩薩亦當誦持經",
+        "from": "T14n0491_001:0752a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "失譯附後漢錄",
+        "from": "T14n0491_001:0752a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師子戲菩薩、師子奮迅菩薩、師子幡菩薩、",
+        "from": "T14n0491_001:0752a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師子作菩薩、堅勇精進菩薩、擊金剛慧菩薩。",
+        "from": "T14n0491_001:0752a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "巍巍十方佛，　　堂堂聖中王，",
+        "from": "T14n0491_001:0752a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙相三十二，　　眾好八十章，",
+        "from": "T14n0491_001:0752a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身出妙光明，　　普照諸十方，",
+        "from": "T14n0491_001:0752a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願身自歸命，　　稽首諸法王。",
+        "from": "T14n0491_001:0752a25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "巍巍十方佛，　　無極大慈悲，",
+        "from": "T14n0491_001:0752a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "興立諸大誓，　　濟度諸群黎，",
+        "from": "T14n0491_001:0752a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多聞歡喜者，　　功德叵稱載，",
+        "from": "T14n0491_001:0752a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願身自歸命，　　稽首諸大哀。",
+        "from": "T14n0491_001:0752a29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "巍巍十方佛，　　功德不可量，",
+        "from": "T14n0491_001:0752b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慧如無量海，　　灌澤諸十方，",
+        "from": "T14n0491_001:0752b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其有聞名者，　　除咎消諸殃，",
+        "from": "T14n0491_001:0752b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸命大智慧，　　稽首正覺王。",
+        "from": "T14n0491_001:0752b04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "巍巍十方佛，　　國土甚清淨，",
+        "from": "T14n0491_001:0752b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七寶為莊嚴，　　妙香栴檀形，",
+        "from": "T14n0491_001:0752b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悉純諸菩薩，　　亦無二乘名，",
+        "from": "T14n0491_001:0752b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯說不退轉，　　般若之道英。",
+        "from": "T14n0491_001:0752b08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "巍巍十方佛，　　三世道之珍，",
+        "from": "T14n0491_001:0752b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其聞信樂者，　　疾成無上真，",
+        "from": "T14n0491_001:0752b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遊於菩薩道，　　堅住不退轉，",
+        "from": "T14n0491_001:0752b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所生常見佛，　　速值諸世尊。",
+        "from": "T14n0491_001:0752b12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "巍巍十方佛，　　三世之導師，",
+        "from": "T14n0491_001:0752b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "志心懷恭敬，　　信樂無狐疑，",
+        "from": "T14n0491_001:0752b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所生常端正，　　顏容甚光暉，",
+        "from": "T14n0491_001:0752b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "辯才慧獨遠，　　願禮天人師。",
+        "from": "T14n0491_001:0752b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "別有四菩薩此四大士，皆過去十方諸佛之師。",
+        "from": "T14n0491_001:0752b18_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此四大士，初始造行之時，發大誓願言：",
+        "from": "T14n0491_001:0752b19_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我當度一切眾生，至其都得涅槃，然後當取佛。",
+        "from": "T14n0491_001:0752b20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」以是故應誦念誦持，得無量無邊功德至不退轉。",
+        "from": "T14n0491_001:0752b21_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如三千世界盡虛空滿中紫磨黃金，用之布施；",
+        "from": "T14n0491_001:0752b22_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不如一須臾之間誦念此四大士名，其所得功德，出過爾所黃金施上千億萬倍。",
+        "from": "T14n0491_001:0752b24_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其名曰：",
+        "from": "T14n0491_001:0752b24_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "棄陰蓋菩薩、寂根菩薩、慧威菩薩、不離菩薩。",
+        "from": "T14n0491_001:0752b26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六菩薩亦當誦持經",
+        "from": "T14n0491_001:0752b27_100",
+        "context_with_next_sentence": false
+    }
+]

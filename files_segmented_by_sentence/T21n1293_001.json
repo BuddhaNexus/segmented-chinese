@@ -1,130 +1,647 @@
-{
-    "T21n1293_001:0378a11_0": "般若守護十六善神王形體",
-    "T21n1293_001:0378a13_0": "金剛智三藏譯",
-    "T21n1293_001:0378a14_0": "提頭攞宅善神　綠青色。",
-    "T21n1293_001:0378a14_1": "開口現忿怒相貌。",
-    "T21n1293_001:0378a15_0": "被甲冑著赤衣。",
-    "T21n1293_001:0378a15_1": "右手持大刀。",
-    "T21n1293_001:0378a15_2": "左手捧鉾。",
-    "T21n1293_001:0378a15_3": "髮紫色也。",
-    "T21n1293_001:0378a17_0": "毘盧勒叉善神　赤紫色。",
-    "T21n1293_001:0378a17_1": "忿怒相現閉唇之形。",
-    "T21n1293_001:0378a18_2": "右拔折囉。",
-    "T21n1293_001:0378a18_3": "左押腰。",
-    "T21n1293_001:0378a18_4": "被甲冑著白青色衣。",
-    "T21n1293_001:0378a18_5": "鬢髮紺色。",
-    "T21n1293_001:0378a20_0": "摧伏毒害善神　鬢聳立弭也。",
-    "T21n1293_001:0378a20_1": "赤肉色。",
-    "T21n1293_001:0378a20_2": "右手持大刀。",
-    "T21n1293_001:0378a21_3": "左手向外當胸。",
-    "T21n1293_001:0378a21_4": "被甲冑著白色衣服餘如常。",
-    "T21n1293_001:0378a23_0": "增益善神　赤肉色。",
-    "T21n1293_001:0378a23_1": "四臂容怒鬼。",
-    "T21n1293_001:0378a23_2": "右第一手持大刀。",
-    "T21n1293_001:0378a24_3": "第二手把劍輪。",
-    "T21n1293_001:0378a24_4": "左第一手持楊枝。",
-    "T21n1293_001:0378a24_5": "第二手捧半月。",
-    "T21n1293_001:0378a25_6": "著袈裟其色綠色。",
-    "T21n1293_001:0378a25_7": "裳紅懸頸瓔珞。",
-    "T21n1293_001:0378a27_0": "歡喜善神　綠色。",
-    "T21n1293_001:0378a27_1": "頂上有孔雀。",
-    "T21n1293_001:0378a27_2": "其色金色。",
-    "T21n1293_001:0378a27_3": "右手持一股鉤。",
-    "T21n1293_001:0378a28_4": "左手押腰。",
-    "T21n1293_001:0378a28_5": "被甲冑著赤衣。",
-    "T21n1293_001:0378a28_6": "鬢髮丹色。",
-    "T21n1293_001:0378a29_7": "面體忿怒也。",
-    "T21n1293_001:0378b01_0": "除一切障難善神　黃色。",
-    "T21n1293_001:0378b01_1": "作瞋怒相。",
-    "T21n1293_001:0378b01_2": "六臂被鮮白衣服。",
-    "T21n1293_001:0378b02_3": "右手持三戟叉。",
-    "T21n1293_001:0378b02_4": "次手持經典。",
-    "T21n1293_001:0378b02_5": "次手捧舍利寶塔。",
-    "T21n1293_001:0378b03_6": "左手持紅蓮華。",
-    "T21n1293_001:0378b03_7": "次手持寶鉤。",
-    "T21n1293_001:0378b03_8": "次手把寶螺。",
-    "T21n1293_001:0378b04_9": "戴寶冠著袈裟。",
-    "T21n1293_001:0378b04_10": "吹天衣風。",
-    "T21n1293_001:0378b04_11": "瓔珞環釧如常。",
-    "T21n1293_001:0378b06_0": "拔除罪垢善神　裸形被赤綠色袈裟。",
-    "T21n1293_001:0378b06_1": "髮毛聳立。",
-    "T21n1293_001:0378b07_2": "赤黃色相也。",
-    "T21n1293_001:0378b07_3": "右手持棒。",
-    "T21n1293_001:0378b07_4": "其棒有五叉。",
-    "T21n1293_001:0378b07_5": "左手作拳置頂上。",
-    "T21n1293_001:0378b08_6": "瞋眼開口。",
-    "T21n1293_001:0378b08_7": "利牙出上下。",
-    "T21n1293_001:0378b08_8": "甚怖畏也。",
-    "T21n1293_001:0378b10_0": "能忍善神　空色。",
-    "T21n1293_001:0378b10_1": "右手持大刀。",
-    "T21n1293_001:0378b10_2": "左手持矟。",
-    "T21n1293_001:0378b11_0": "被頂巾。",
-    "T21n1293_001:0378b11_1": "其色白下至腂纔見冑端。",
-    "T21n1293_001:0378b11_2": "鬢髮紫也(已上右方立之)。",
-    "T21n1293_001:0378b13_0": "吠室羅摩拏善神　青黑色。",
-    "T21n1293_001:0378b13_1": "現瞋王相。",
-    "T21n1293_001:0378b13_2": "作閉唇相。",
-    "T21n1293_001:0378b14_3": "右手持金剛棓。",
-    "T21n1293_001:0378b14_4": "左手捧全身舍利寶塔。",
-    "T21n1293_001:0378b15_5": "被甲冑著赤衣。",
-    "T21n1293_001:0378b15_6": "鬢髮紫色也。",
-    "T21n1293_001:0378b16_0": "毘盧博叉善神　肉色。",
-    "T21n1293_001:0378b16_1": "懸黑絲臂。",
-    "T21n1293_001:0378b16_2": "以筆作書寫之勢。",
-    "T21n1293_001:0378b17_3": "被甲冑著綠色衣服。",
-    "T21n1293_001:0378b17_4": "鬢髮赤色。",
-    "T21n1293_001:0378b17_5": "微笑之形也。",
-    "T21n1293_001:0378b19_0": "離一切怖畏神　形體如帝釋天。",
-    "T21n1293_001:0378b19_1": "但頂上有髑髏。",
-    "T21n1293_001:0378b20_2": "髑髏上有三股形。",
-    "T21n1293_001:0378b21_0": "救護一切善神　青白色。",
-    "T21n1293_001:0378b21_1": "相貌如毘沙門天。",
-    "T21n1293_001:0378b22_0": "左右手合掌。",
-    "T21n1293_001:0378b22_1": "十指端有紅色微敷蓮華。",
-    "T21n1293_001:0378b22_2": "衣服赤黃色。",
-    "T21n1293_001:0378b24_0": "攝伏諸魔善神　髮毛聳立。",
-    "T21n1293_001:0378b24_1": "黑肉色。",
-    "T21n1293_001:0378b24_2": "相貌以瓔珞為莊嚴。",
-    "T21n1293_001:0378b25_3": "右手持劍。",
-    "T21n1293_001:0378b25_4": "左手下掌向外。",
-    "T21n1293_001:0378b25_5": "衣服黃色。",
-    "T21n1293_001:0378b27_0": "能救諸有善神　白綠色顏貌玉相也。",
-    "T21n1293_001:0378b27_1": "二手虛心合掌屈二頭指。",
-    "T21n1293_001:0378b28_2": "附中指背第一文。",
-    "T21n1293_001:0378b28_3": "冑上被白色袈裟。",
-    "T21n1293_001:0378b29_4": "裳赤色也。",
-    "T21n1293_001:0378c01_0": "師子威猛善神　肉色戴師子寶冠。",
-    "T21n1293_001:0378c01_1": "右第一持斧。",
-    "T21n1293_001:0378c02_2": "第二手持劍。",
-    "T21n1293_001:0378c02_3": "左第一手持梵夾。",
-    "T21n1293_001:0378c02_4": "第二手持三叉戟。",
-    "T21n1293_001:0378c03_5": "被袈裟其色紺色也。",
-    "T21n1293_001:0378c03_6": "著小服虎皮。",
-    "T21n1293_001:0378c04_0": "極惡忿怒也。",
-    "T21n1293_001:0378c05_0": "勇猛心地善神　被甲冑綠色。",
-    "T21n1293_001:0378c05_1": "如能救諸有。",
-    "T21n1293_001:0378c06_0": "二手外縛當胸。",
-    "T21n1293_001:0378c06_1": "微笑之相也(已上左方立之)。",
-    "T21n1293_001:0378c07_0": "本奧云。",
-    "T21n1293_001:0378c07_1": "又陀羅尼集經第三卷說十六善神名字并總呪。",
-    "T21n1293_001:0378c08_2": "又如空比丘夢感自塔院律師之(已上)。",
-    "T21n1293_001:0378c10_0": "谷響集八云。",
-    "T21n1293_001:0378c10_1": "世有金剛智所譯般若守護十六善神一卷三紙。",
-    "T21n1293_001:0378c11_2": "讀之明知非是金剛智筆語。",
-    "T21n1293_001:0378c12_3": "綴文甚拙。",
-    "T21n1293_001:0378c12_4": "想先達依金剛智圖畫錄之。",
-    "T21n1293_001:0378c13_5": "而假金智名矣。",
-    "T21n1293_001:0378c13_6": "不自揣之甚。",
-    "T21n1293_001:0378c13_7": "今謂於翻譯席設譯語筆授證義綴文等職。",
-    "T21n1293_001:0378c14_8": "翻梵為漢。",
-    "T21n1293_001:0378c15_9": "必不譯主之一手。",
-    "T21n1293_001:0378c15_10": "而有再治有未治。",
-    "T21n1293_001:0378c16_0": "唯以義通為其長。",
-    "T21n1293_001:0378c16_1": "豈以文飾為。",
-    "T21n1293_001:0378c16_2": "今歲得一本於智積院方丈。",
-    "T21n1293_001:0378c17_3": "挍小池坊藏本而印行。",
-    "T21n1293_001:0378c18_0": "時享和二壬戌年仲夏月。",
-    "T21n1293_001:0378c19_0": "　　　豐山長谷輪下沙門　快道　誌　　　　　　　　　　一校了　慈順　文政三年庚辰仲秋晦日。",
-    "T21n1293_001:0378c21_1": "右以秀陽闍梨令密榮挍之本亦　一校了。",
-    "T21n1293_001:0378c22_2": "　龍肝"
-}
+[
+    {
+        "source_sentence": "般若守護十六善神王形體",
+        "from": "T21n1293_001:0378a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛智三藏譯",
+        "from": "T21n1293_001:0378a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "提頭攞宅善神　綠青色。開口現忿怒相貌。",
+        "from": "T21n1293_001:0378a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "被甲冑著赤衣。",
+        "from": "T21n1293_001:0378a15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右手持大刀。",
+        "from": "T21n1293_001:0378a15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左手捧鉾。",
+        "from": "T21n1293_001:0378a15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "髮紫色也。",
+        "from": "T21n1293_001:0378a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毘盧勒叉善神　赤紫色。",
+        "from": "T21n1293_001:0378a17_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忿怒相現閉唇之形。",
+        "from": "T21n1293_001:0378a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右拔折囉。",
+        "from": "T21n1293_001:0378a18_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左押腰。",
+        "from": "T21n1293_001:0378a18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "被甲冑著白青色衣。",
+        "from": "T21n1293_001:0378a18_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鬢髮紺色。",
+        "from": "T21n1293_001:0378a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摧伏毒害善神　鬢聳立弭也。",
+        "from": "T21n1293_001:0378a20_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "赤肉色。",
+        "from": "T21n1293_001:0378a20_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右手持大刀。",
+        "from": "T21n1293_001:0378a21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左手向外當胸。",
+        "from": "T21n1293_001:0378a21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "被甲冑著白色衣服餘如常。",
+        "from": "T21n1293_001:0378a22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "增益善神　赤肉色。",
+        "from": "T21n1293_001:0378a23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四臂容怒鬼。",
+        "from": "T21n1293_001:0378a23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右第一手持大刀。",
+        "from": "T21n1293_001:0378a24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第二手把劍輪。",
+        "from": "T21n1293_001:0378a24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左第一手持楊枝。",
+        "from": "T21n1293_001:0378a24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第二手捧半月。",
+        "from": "T21n1293_001:0378a25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "著袈裟其色綠色。",
+        "from": "T21n1293_001:0378a25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "裳紅懸頸瓔珞。",
+        "from": "T21n1293_001:0378a26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歡喜善神　綠色。",
+        "from": "T21n1293_001:0378a27_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頂上有孔雀。",
+        "from": "T21n1293_001:0378a27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其色金色。",
+        "from": "T21n1293_001:0378a27_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右手持一股鉤。",
+        "from": "T21n1293_001:0378a28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左手押腰。",
+        "from": "T21n1293_001:0378a28_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "被甲冑著赤衣。",
+        "from": "T21n1293_001:0378a28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鬢髮丹色。",
+        "from": "T21n1293_001:0378a29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "面體忿怒也。",
+        "from": "T21n1293_001:0378a29_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除一切障難善神　黃色。",
+        "from": "T21n1293_001:0378b01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作瞋怒相。",
+        "from": "T21n1293_001:0378b01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六臂被鮮白衣服。",
+        "from": "T21n1293_001:0378b02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右手持三戟叉。",
+        "from": "T21n1293_001:0378b02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次手持經典。",
+        "from": "T21n1293_001:0378b02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次手捧舍利寶塔。",
+        "from": "T21n1293_001:0378b03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左手持紅蓮華。",
+        "from": "T21n1293_001:0378b03_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次手持寶鉤。",
+        "from": "T21n1293_001:0378b03_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次手把寶螺。",
+        "from": "T21n1293_001:0378b04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "戴寶冠著袈裟。",
+        "from": "T21n1293_001:0378b04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吹天衣風。",
+        "from": "T21n1293_001:0378b04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瓔珞環釧如常。",
+        "from": "T21n1293_001:0378b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "拔除罪垢善神　裸形被赤綠色袈裟。",
+        "from": "T21n1293_001:0378b06_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "髮毛聳立。",
+        "from": "T21n1293_001:0378b07_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "赤黃色相也。",
+        "from": "T21n1293_001:0378b07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右手持棒。",
+        "from": "T21n1293_001:0378b07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其棒有五叉。",
+        "from": "T21n1293_001:0378b07_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左手作拳置頂上。",
+        "from": "T21n1293_001:0378b08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瞋眼開口。",
+        "from": "T21n1293_001:0378b08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "利牙出上下。",
+        "from": "T21n1293_001:0378b08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "甚怖畏也。",
+        "from": "T21n1293_001:0378b09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能忍善神　空色。",
+        "from": "T21n1293_001:0378b10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右手持大刀。",
+        "from": "T21n1293_001:0378b10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左手持矟。",
+        "from": "T21n1293_001:0378b10_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "被頂巾。",
+        "from": "T21n1293_001:0378b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其色白下至腂纔見冑端。",
+        "from": "T21n1293_001:0378b11_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鬢髮紫也已上右方立之。",
+        "from": "T21n1293_001:0378b12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "吠室羅摩拏善神　青黑色。",
+        "from": "T21n1293_001:0378b13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現瞋王相。",
+        "from": "T21n1293_001:0378b13_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作閉唇相。",
+        "from": "T21n1293_001:0378b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右手持金剛棓。",
+        "from": "T21n1293_001:0378b14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左手捧全身舍利寶塔。",
+        "from": "T21n1293_001:0378b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "被甲冑著赤衣。",
+        "from": "T21n1293_001:0378b15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鬢髮紫色也。",
+        "from": "T21n1293_001:0378b15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毘盧博叉善神　肉色。",
+        "from": "T21n1293_001:0378b16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懸黑絲臂。",
+        "from": "T21n1293_001:0378b16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以筆作書寫之勢。",
+        "from": "T21n1293_001:0378b17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "被甲冑著綠色衣服。",
+        "from": "T21n1293_001:0378b17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鬢髮赤色。",
+        "from": "T21n1293_001:0378b17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "微笑之形也。",
+        "from": "T21n1293_001:0378b18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離一切怖畏神　形體如帝釋天。",
+        "from": "T21n1293_001:0378b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "但頂上有髑髏。",
+        "from": "T21n1293_001:0378b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "髑髏上有三股形。",
+        "from": "T21n1293_001:0378b20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "救護一切善神　青白色。",
+        "from": "T21n1293_001:0378b21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相貌如毘沙門天。",
+        "from": "T21n1293_001:0378b21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左右手合掌。",
+        "from": "T21n1293_001:0378b22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十指端有紅色微敷蓮華。",
+        "from": "T21n1293_001:0378b22_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衣服赤黃色。",
+        "from": "T21n1293_001:0378b23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "攝伏諸魔善神　髮毛聳立。",
+        "from": "T21n1293_001:0378b24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "黑肉色。",
+        "from": "T21n1293_001:0378b24_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相貌以瓔珞為莊嚴。",
+        "from": "T21n1293_001:0378b25_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右手持劍。",
+        "from": "T21n1293_001:0378b25_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左手下掌向外。",
+        "from": "T21n1293_001:0378b25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衣服黃色。",
+        "from": "T21n1293_001:0378b26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能救諸有善神　白綠色顏貌玉相也。",
+        "from": "T21n1293_001:0378b27_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二手虛心合掌屈二頭指。",
+        "from": "T21n1293_001:0378b28_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "附中指背第一文。",
+        "from": "T21n1293_001:0378b28_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "冑上被白色袈裟。",
+        "from": "T21n1293_001:0378b29_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "裳赤色也。",
+        "from": "T21n1293_001:0378b29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師子威猛善神　肉色戴師子寶冠。",
+        "from": "T21n1293_001:0378c01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右第一持斧。",
+        "from": "T21n1293_001:0378c02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第二手持劍。",
+        "from": "T21n1293_001:0378c02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左第一手持梵夾。",
+        "from": "T21n1293_001:0378c02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第二手持三叉戟。",
+        "from": "T21n1293_001:0378c03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "被袈裟其色紺色也。",
+        "from": "T21n1293_001:0378c03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "著小服虎皮。",
+        "from": "T21n1293_001:0378c03_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "極惡忿怒也。",
+        "from": "T21n1293_001:0378c04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勇猛心地善神　被甲冑綠色。",
+        "from": "T21n1293_001:0378c05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如能救諸有。",
+        "from": "T21n1293_001:0378c05_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二手外縛當胸。",
+        "from": "T21n1293_001:0378c06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "微笑之相也已上左方立之。",
+        "from": "T21n1293_001:0378c06_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本奧云。",
+        "from": "T21n1293_001:0378c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又陀羅尼集經第三卷說十六善神名字并總呪。",
+        "from": "T21n1293_001:0378c08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如空比丘夢感自塔院律師之已上。",
+        "from": "T21n1293_001:0378c09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "谷響集八云。",
+        "from": "T21n1293_001:0378c10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世有金剛智所譯般若守護十六善神一卷三紙。",
+        "from": "T21n1293_001:0378c11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讀之明知非是金剛智筆語。",
+        "from": "T21n1293_001:0378c12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "綴文甚拙。",
+        "from": "T21n1293_001:0378c12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "想先達依金剛智圖畫錄之。",
+        "from": "T21n1293_001:0378c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而假金智名矣。",
+        "from": "T21n1293_001:0378c13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不自揣之甚。",
+        "from": "T21n1293_001:0378c13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今謂於翻譯席設譯語筆授證義綴文等職。",
+        "from": "T21n1293_001:0378c14_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "翻梵為漢。",
+        "from": "T21n1293_001:0378c15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "必不譯主之一手。",
+        "from": "T21n1293_001:0378c15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而有再治有未治。",
+        "from": "T21n1293_001:0378c15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯以義通為其長。",
+        "from": "T21n1293_001:0378c16_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈以文飾為。",
+        "from": "T21n1293_001:0378c16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今歲得一本於智積院方丈。",
+        "from": "T21n1293_001:0378c17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "挍小池坊藏本而印行。",
+        "from": "T21n1293_001:0378c17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時享和二壬戌年仲夏月。",
+        "from": "T21n1293_001:0378c18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　豐山長谷輪下沙門　快道　誌",
+        "from": "T21n1293_001:0378c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　　　　　　　　　一校了　慈順",
+        "from": "T21n1293_001:0378c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　文政三年庚辰仲秋晦日。",
+        "from": "T21n1293_001:0378c21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右以秀陽闍梨令密榮挍之本亦　一校了。",
+        "from": "T21n1293_001:0378c22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　龍肝",
+        "from": "T21n1293_001:0378c22_100",
+        "context_with_next_sentence": false
+    }
+]

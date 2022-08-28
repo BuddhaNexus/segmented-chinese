@@ -1,25 +1,122 @@
-{
-    "T85n2917B_001:1462b12_0": "新菩薩經",
-    "T85n2917B_001:1462b14_0": "率□□□□□□□大小念百萬口。",
-    "T85n2917B_001:1462b14_1": "阿彌陀佛五百身中不入□□菩薩說今[(乖-北+(刀*刀))/干]八[匚@出]九[匚@出]太山崩須九萬億□亦須九千億牛。",
-    "T85n2917B_001:1462b16_2": "第一患死。",
-    "T85n2917B_001:1462b17_3": "第二卒死。",
-    "T85n2917B_001:1462b17_4": "第三產坐死。",
-    "T85n2917B_001:1462b17_5": "第四不持齋死。",
-    "T85n2917B_001:1462b17_6": "第五腸肚熱死。",
-    "T85n2917B_001:1462b18_7": "第六自絞死。",
-    "T85n2917B_001:1462b18_8": "今[(乖-北+(刀*刀))/干]禾荳熟恐無人無收度。",
-    "T85n2917B_001:1462b19_9": "今[(乖-北+(刀*刀))/干]即好信者寫一通免身。",
-    "T85n2917B_001:1462b19_10": "寫二通免合家。",
-    "T85n2917B_001:1462b20_11": "寫三通免一村。",
-    "T85n2917B_001:1462b20_12": "若聞不寫即滅門。",
-    "T85n2917B_001:1462b21_0": "若有轉讀此經者。",
-    "T85n2917B_001:1462b21_1": "皆度苦難。",
-    "T85n2917B_001:1462b21_2": "不信即身滅。",
-    "T85n2917B_001:1462b21_3": "經從西涼州縣來。",
-    "T85n2917B_001:1462b22_4": "在彼城東門口。",
-    "T85n2917B_001:1462b22_5": "四[匚@出]雷鳴雨下一石如斗。",
-    "T85n2917B_001:1462b23_6": "破兩片遂見此經。",
-    "T85n2917B_001:1462b23_7": "轉示眾生得福無量。",
-    "T85n2917B_001:1462b25_0": "長安四[(乖-北+(刀*刀))/干]五[匚@出]十五日"
-}
+[
+    {
+        "source_sentence": "新菩薩經",
+        "from": "T85n2917B_001:1462b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "率□□□□□□□大小念百萬口。阿彌陀",
+        "from": "T85n2917B_001:1462b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛五百身中不入□□菩薩說今󱭚八𠥱九𠥱",
+        "from": "T85n2917B_001:1462b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "太山崩須九萬億□亦須九千億牛。",
+        "from": "T85n2917B_001:1462b16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第一患死。",
+        "from": "T85n2917B_001:1462b17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第二卒死。",
+        "from": "T85n2917B_001:1462b17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第三產坐死。",
+        "from": "T85n2917B_001:1462b17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第四不持齋死。",
+        "from": "T85n2917B_001:1462b17_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第五腸肚熱死。",
+        "from": "T85n2917B_001:1462b18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第六自絞死。",
+        "from": "T85n2917B_001:1462b18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今󱭚禾荳熟恐無𤯔無收度。",
+        "from": "T85n2917B_001:1462b19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今󱭚即好信者寫一通免身。",
+        "from": "T85n2917B_001:1462b19_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寫二通免合家。",
+        "from": "T85n2917B_001:1462b20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寫三通免一村。",
+        "from": "T85n2917B_001:1462b20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若聞不寫即滅門。",
+        "from": "T85n2917B_001:1462b20_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有轉讀此經者。",
+        "from": "T85n2917B_001:1462b21_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "皆度苦難。",
+        "from": "T85n2917B_001:1462b21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不信即身滅。",
+        "from": "T85n2917B_001:1462b21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經從西涼州縣來。",
+        "from": "T85n2917B_001:1462b22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "在彼城東門口。",
+        "from": "T85n2917B_001:1462b22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四𠥱雷鳴雨下一石如斗。",
+        "from": "T85n2917B_001:1462b23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "破兩片遂見此經。",
+        "from": "T85n2917B_001:1462b23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "轉示眾生得福無量。",
+        "from": "T85n2917B_001:1462b24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "長安四󱭚五𠥱十五日",
+        "from": "T85n2917B_001:1462b25_100",
+        "context_with_next_sentence": false
+    }
+]

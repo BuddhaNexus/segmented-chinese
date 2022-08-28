@@ -1,207 +1,1022 @@
-{
-    "T20n1045b_001:0041c02_0": "六字神呪王經",
-    "T20n1045b_001:0041c04_0": "開元拾遺失譯人名附梁錄",
-    "T20n1045b_001:0041c05_0": "如是我聞。",
-    "T20n1045b_001:0041c05_1": "一時佛在舍衛國祇陀林中。",
-    "T20n1045b_001:0041c05_2": "爾時有一外道旃陀羅女。",
-    "T20n1045b_001:0041c06_3": "專行眾惡符書厭禱。",
-    "T20n1045b_001:0041c06_4": "或事山神樹神樹下鬼神。",
-    "T20n1045b_001:0041c07_5": "日月五星南斗北辰。",
-    "T20n1045b_001:0041c08_0": "一切魍魎雜魔邪魅。",
-    "T20n1045b_001:0041c08_1": "厭惑尊者阿難陀及諸善人。",
-    "T20n1045b_001:0041c09_2": "如是等恒河沙數。",
-    "T20n1045b_001:0041c09_3": "即時如來因見阿難陀恍惚。",
-    "T20n1045b_001:0041c10_4": "及憐愍一切三世有情故。",
-    "T20n1045b_001:0041c10_5": "為說此六字神呪王經。",
-    "T20n1045b_001:0041c11_6": "先佛所說我今亦說。",
-    "T20n1045b_001:0041c11_7": "即說呪曰。",
-    "T20n1045b_001:0041c12_0": "安陀隷　鉢陀隷　迦羅胝翅由隷　帝闍婆帝　頻頭婆帝　陀頭隷　陀究帝隷　陀究摩帝　脩摩帝　安陀羅槃陀羅　檀陀羅提兜羅　陀那延陀　曼陀婆帝　阿那阿那夜　摩豆摩婆帝　迦羅吒翅由羅浮蹬伽彌　帝闇婆帝　頻頭摩帝　阿羅婆伽帝　毘咤毘提膩　質吒毘提膩　質吒毘提膩　莎婆呵若有為某甲作惡呪詛。",
-    "T20n1045b_001:0041c20_1": "若作已若當作。",
-    "T20n1045b_001:0041c20_2": "若天若魔若龍。",
-    "T20n1045b_001:0041c21_3": "若夜叉若羅剎。",
-    "T20n1045b_001:0041c21_4": "若餓鬼若鳩槃茶。",
-    "T20n1045b_001:0041c22_5": "若富單那若毘舍闍。",
-    "T20n1045b_001:0041c22_6": "若阿波摩羅若優波摩羅。",
-    "T20n1045b_001:0041c23_7": "若吉遮若佉傴陀。",
-    "T20n1045b_001:0041c23_8": "若毘陀羅若半毘陀羅。",
-    "T20n1045b_001:0041c24_9": "若沙門若婆羅門。",
-    "T20n1045b_001:0041c24_10": "若剎利若毘舍若首陀。",
-    "T20n1045b_001:0041c25_0": "若摩蹬伽若摩蹬伽女若旃陀羅若旃陀羅女。",
-    "T20n1045b_001:0041c26_1": "若奴若婢。",
-    "T20n1045b_001:0041c26_2": "若男若女。",
-    "T20n1045b_001:0041c26_3": "若外道尼乾陀若外道出家男女。",
-    "T20n1045b_001:0041c27_4": "如是等種種若能呪詛厭蠱。",
-    "T20n1045b_001:0041c28_0": "我今以此六字神呪王經。",
-    "T20n1045b_001:0041c28_1": "若天上作天上滅之。",
-    "T20n1045b_001:0041c29_2": "若天下作天下滅之。",
-    "T20n1045b_001:0041c29_3": "若上向作上向滅之。",
-    "T20n1045b_001:0042a01_0": "若下向作下向滅之。",
-    "T20n1045b_001:0042a01_1": "若壁上作壁上滅之。",
-    "T20n1045b_001:0042a01_2": "若著壁作著壁滅之。",
-    "T20n1045b_001:0042a02_3": "若雲漢中作雲漢中滅之。",
-    "T20n1045b_001:0042a03_0": "若虛空中作虛空中滅之。",
-    "T20n1045b_001:0042a03_1": "若地上作地上滅之。",
-    "T20n1045b_001:0042a04_2": "若地下作地下滅之。",
-    "T20n1045b_001:0042a04_3": "若八表外作八表外滅之。",
-    "T20n1045b_001:0042a05_4": "若六合內作六合內滅之。",
-    "T20n1045b_001:0042a05_5": "若隨風飄中作隨風飄中滅之。",
-    "T20n1045b_001:0042a06_6": "若四海大水中邊作四海大水中邊滅之。",
-    "T20n1045b_001:0042a07_7": "若江河淮濟中邊作江河淮濟中邊滅之。",
-    "T20n1045b_001:0042a08_8": "若陂塘中邊作坡塘中邊滅之。",
-    "T20n1045b_001:0042a09_9": "若雜水中邊作雜水中邊滅之。",
-    "T20n1045b_001:0042a09_10": "若山川溪谷堆阜坑中邊作山川溪谷堆阜坑中邊滅之。",
-    "T20n1045b_001:0042a11_11": "若五嶽中邊作五嶽中邊滅之。",
-    "T20n1045b_001:0042a11_12": "若大澤林藪中邊作大澤林藪中邊滅之。",
-    "T20n1045b_001:0042a12_13": "若大樹小草中邊作大樹小草中邊滅之。",
-    "T20n1045b_001:0042a13_14": "若草木根莖中邊作草木根莖中邊滅之。",
-    "T20n1045b_001:0042a14_15": "若大小道徑中邊作大小道徑中邊滅之。",
-    "T20n1045b_001:0042a15_16": "若大小四交道中邊作大小四交道中邊滅之若城堡坊村外門中邊作城堡坊村外門中邊滅之。",
-    "T20n1045b_001:0042a17_17": "若城堡坊村內作城堡坊村內滅之。",
-    "T20n1045b_001:0042a18_18": "若宮外內門邊作宮外內門邊滅之。",
-    "T20n1045b_001:0042a19_19": "若宮門中作宮門中滅之。",
-    "T20n1045b_001:0042a19_20": "若於塚墓中邊作塚墓中邊滅之。",
-    "T20n1045b_001:0042a20_21": "若家舍宅垣牆中邊作悉皆滅之。",
-    "T20n1045b_001:0042a21_22": "若屋宕作屋宕滅之。",
-    "T20n1045b_001:0042a21_23": "若柱邊作柱邊滅之。",
-    "T20n1045b_001:0042a22_24": "若柱礎邊下作柱礎邊下滅之。",
-    "T20n1045b_001:0042a23_25": "若糞土中邊作糞土中邊滅之。",
-    "T20n1045b_001:0042a23_26": "若井竈碓磨中邊作井竈碓磨中邊滅之。",
-    "T20n1045b_001:0042a24_27": "若火爐中邊作火爐中邊滅之。",
-    "T20n1045b_001:0042a25_28": "若廁溷中邊作廁溷中邊滅之。",
-    "T20n1045b_001:0042a26_29": "若車乘具中邊作車乘具中邊滅之。",
-    "T20n1045b_001:0042a27_30": "若鞍馬服飾中邊作鞍馬服飾中邊滅之。",
-    "T20n1045b_001:0042a28_0": "若床鋪衣被氈褥靴帽雜器中邊作床鋪衣被氈褥靴帽雜器中邊滅之。",
-    "T20n1045b_001:0042a29_1": "若於一切飲食中邊作一切飲食中邊滅之。",
-    "T20n1045b_001:0042b01_2": "若側近人作者及於一切處行住坐臥如是皆悉滅之。",
-    "T20n1045b_001:0042b02_3": "若晝作晝滅之。",
-    "T20n1045b_001:0042b03_4": "若夜作夜滅之。",
-    "T20n1045b_001:0042b03_5": "若晝夜常作晝夜滅之。",
-    "T20n1045b_001:0042b04_6": "此呪能斷絕帝釋呪道。",
-    "T20n1045b_001:0042b04_7": "能斷絕梵天呪道。",
-    "T20n1045b_001:0042b05_0": "能斷絕四天王呪道。",
-    "T20n1045b_001:0042b05_1": "及與一切所有邪鬼呪道方術悉皆能斷。",
-    "T20n1045b_001:0042b06_2": "若有為某甲作惡厭蠱呪詛。",
-    "T20n1045b_001:0042b07_3": "及與毒藥悉皆滅之。",
-    "T20n1045b_001:0042b07_4": "若佉傴陀若毘陀羅。",
-    "T20n1045b_001:0042b08_5": "若吉遮若富單那所為悉皆滅之。",
-    "T20n1045b_001:0042b08_6": "眾惡都盡眾善補處。",
-    "T20n1045b_001:0042b09_7": "願此呪常吉。",
-    "T20n1045b_001:0042b09_8": "以此真實章句。",
-    "T20n1045b_001:0042b09_9": "使某甲晝安夜安晝夜常安。",
-    "T20n1045b_001:0042b10_10": "得壽百歲得見百秋。",
-    "T20n1045b_001:0042b11_11": "何以故世間最上無過於佛。",
-    "T20n1045b_001:0042b11_12": "天尊所尚眾神奉仰。",
-    "T20n1045b_001:0042b12_13": "若有行惡呪道。",
-    "T20n1045b_001:0042b12_14": "若作已若當作。",
-    "T20n1045b_001:0042b12_15": "若中間作若成就若未成就悉皆滅之。",
-    "T20n1045b_001:0042b13_16": "及與一切眾毒能害人者。",
-    "T20n1045b_001:0042b14_17": "此六字神呪王經所在之處。",
-    "T20n1045b_001:0042b15_0": "若讀若誦受持憶念者。",
-    "T20n1045b_001:0042b15_1": "所有惡業重障皆消滅之。",
-    "T20n1045b_001:0042b16_2": "即說呪曰。",
-    "T20n1045b_001:0042b17_0": "佉[月*氏]佉住佉毘[月*氏]　緘壽　緘壽　多胝　婆胝　莎婆訶若有為某甲作惡呪詛。",
-    "T20n1045b_001:0042b19_1": "若作已若當作。",
-    "T20n1045b_001:0042b19_2": "若天若龍若藥叉若羅剎。",
-    "T20n1045b_001:0042b20_3": "及與一切能作惡呪詛者悉皆滅之。",
-    "T20n1045b_001:0042b21_4": "若佉傴陀若毘陀羅若富單那所為悉皆滅之。",
-    "T20n1045b_001:0042b22_5": "眾惡都盡眾善補處。",
-    "T20n1045b_001:0042b22_6": "願此呪常吉。",
-    "T20n1045b_001:0042b23_7": "以此真實章句。",
-    "T20n1045b_001:0042b23_8": "使某甲晝安夜安晝夜常安。",
-    "T20n1045b_001:0042b24_9": "得壽百歲得見百秋。",
-    "T20n1045b_001:0042b24_10": "何以故世間最上無過於法。",
-    "T20n1045b_001:0042b25_11": "天人所敬眾魔奉受離欲無著。",
-    "T20n1045b_001:0042b25_12": "即說呪曰。",
-    "T20n1045b_001:0042b27_0": "佉胝佉住佉毘胝　緘壽　緘壽　多胝　婆胝　莎婆訶何以故世間最上無過於僧。",
-    "T20n1045b_001:0042b29_1": "良善福田賢聖所敬眾善擁護。",
-    "T20n1045b_001:0042c01_2": "即說呪曰。",
-    "T20n1045b_001:0042c02_0": "佉胝佉住佉毘胝　緘壽　緘壽　多胝婆胝兜帝　阿禰帝　阿周帝　莎婆訶若有為某甲作惡呪詛。",
-    "T20n1045b_001:0042c04_1": "若和合毒藥若真若偽所作非法。",
-    "T20n1045b_001:0042c05_2": "若前身若今身行業眾惡。",
-    "T20n1045b_001:0042c05_3": "一切重罪悉皆滅之。",
-    "T20n1045b_001:0042c06_4": "即說呪曰。",
-    "T20n1045b_001:0042c07_0": "摩休婆烏摩帝　烏摩陀徙陀禰　佉傴陀婆提徙陀禰　頻頭摩提　質帝質多提婆徙陀禰　阿鞞旃阿鞞　莎婆訶若有人能誦持是六字神呪王經。",
-    "T20n1045b_001:0042c10_1": "假令呪枯樹可得還生枝葉。",
-    "T20n1045b_001:0042c11_2": "何況人身。",
-    "T20n1045b_001:0042c11_3": "使某甲得壽百歲得見百秋。",
-    "T20n1045b_001:0042c12_4": "諸佛所說阿難所傳。",
-    "T20n1045b_001:0042c12_5": "若人讀誦通利悉皆自護。",
-    "T20n1045b_001:0042c13_6": "眾惡遠身恒與善俱。",
-    "T20n1045b_001:0042c13_7": "若呪他者能除彼人眾苦惡患。",
-    "T20n1045b_001:0042c14_8": "讀者斷五辛至心鮮潔然後乃得行之。",
-    "T20n1045b_001:0042c15_9": "諸難凶禍無有遺餘無不吉利。",
-    "T20n1045b_001:0042c16_10": "即說呪曰。",
-    "T20n1045b_001:0042c17_0": "呵呵遮唎　呵呵那彌　呵呵浮陀摩提　呵呵尼呵咜　尼劬沙　呵呵尼呵陀　佉傴陀　尼毘沙佉傴陀　伊禰彌禰　陀弊　陀陀弊　莎婆訶敬禮三寶。",
-    "T20n1045b_001:0042c21_1": "敬禮聖智海遍照莊嚴王如來。",
-    "T20n1045b_001:0042c21_2": "敬禮一切如來應正等覺。",
-    "T20n1045b_001:0042c22_3": "敬禮聖阿縛盧枳低濕伐羅摩訶薩埵。",
-    "T20n1045b_001:0042c23_4": "如是歸命已。",
-    "T20n1045b_001:0042c23_5": "然後說是神呪。",
-    "T20n1045b_001:0042c24_6": "願此呪常吉。",
-    "T20n1045b_001:0042c24_7": "敬禮聖阿縛盧枳低濕伐羅。",
-    "T20n1045b_001:0042c25_0": "觀照我身(此一句如是三稱)憐愍我故。",
-    "T20n1045b_001:0042c25_1": "即說呪曰。",
-    "T20n1045b_001:0042c26_0": "烏呵尼謩阿尼阿陀尼阿陀毘阿陀闍毘尼耽毘尼　安陀隷　鉢陀隷　死卑提　安陀羅婆死尼　薩陸豆率吒　波羅豆率吒　質擔閻婆夜　耽婆夜摩訶夜耶婆貿羅　提那貿遮提　盧樓質吒那陀死　盧樓盧漏質吒鉢陀死　莎婆訶此呪能護一切厄難。",
-    "T20n1045b_001:0043a03_1": "鮮潔無垢解脫光明觀照縛一切賊行惡者無復迷荒念善者濟度眾難一切惡魔。",
-    "T20n1045b_001:0043a05_2": "現世護我身師子狂象虎狼犲犬猨猿。",
-    "T20n1045b_001:0043a06_3": "及諸惡獸欲害人者悉令被縛。",
-    "T20n1045b_001:0043a06_4": "我今為某甲及共行同伴。",
-    "T20n1045b_001:0043a07_5": "一切呪力所向之處行住坐臥願悉平吉。",
-    "T20n1045b_001:0043a08_6": "即說呪曰。",
-    "T20n1045b_001:0043a09_0": "知醯唎　知唎　牧唎　摩蹬耆　旃陀唎叉羅叉羅羅耶　莎婆訶敬禮三寶必願此呪令大吉善用此呪法。",
-    "T20n1045b_001:0043a11_1": "當用之日洗浴鮮潔淨除垢穢。",
-    "T20n1045b_001:0043a12_2": "身心恬怕不得行婬不食五辛飲酒噉肉。",
-    "T20n1045b_001:0043a13_3": "舌不惡語當以白縷手捉其綖。",
-    "T20n1045b_001:0043a14_4": "誦呪七遍一遍一結。",
-    "T20n1045b_001:0043a14_5": "作索成已若有官事被言。",
-    "T20n1045b_001:0043a15_6": "或逢鬪諍更相呪詛。",
-    "T20n1045b_001:0043a15_7": "讒謗謀枉及一切眾惡以此呪結著其人衣帶中如上諸難悉皆滅之。",
-    "T20n1045b_001:0043a17_8": "事過之後。",
-    "T20n1045b_001:0043a17_9": "請佛法僧燒眾名香。",
-    "T20n1045b_001:0043a18_10": "設齋請福深修悲敬報佛慈恩主自解結發大願云我與一切四生永絕八難所願從心。",
-    "T20n1045b_001:0043a20_11": "即說呪曰。",
-    "T20n1045b_001:0043a21_0": "醯豆摩帝耶舍婆帝　婆羅沙天婆帝　烏受婆帝　欝多羅尼　阿叉夜婆帝　阿[少/兔]羶帝目企婆羅婆目帝　婆羅婆枳豆莎訶敬禮過去未來現在一切常住三寶。",
-    "T20n1045b_001:0043a24_1": "敬禮聖智海遍照莊嚴王如來。",
-    "T20n1045b_001:0043a25_2": "敬禮一切如來應正等覺。",
-    "T20n1045b_001:0043a26_3": "敬禮聖阿縛盧枳低濕伐羅消伏毒害救苦大悲者。",
-    "T20n1045b_001:0043a27_4": "敬禮曼殊室利菩薩三曼多跋達羅菩薩。",
-    "T20n1045b_001:0043a28_5": "慈氏菩薩棄陰蓋菩薩。",
-    "T20n1045b_001:0043a28_6": "寂根菩薩。",
-    "T20n1045b_001:0043a29_0": "慧尚菩薩。",
-    "T20n1045b_001:0043a29_1": "常不離世菩薩。",
-    "T20n1045b_001:0043a29_2": "首楞嚴三昧虛空藏。",
-    "T20n1045b_001:0043b01_3": "寶幢。",
-    "T20n1045b_001:0043b01_4": "孔雀王陀羅尼。",
-    "T20n1045b_001:0043b01_5": "六字章句。",
-    "T20n1045b_001:0043b01_6": "藥王。",
-    "T20n1045b_001:0043b01_7": "藥上。",
-    "T20n1045b_001:0043b02_8": "堅意。",
-    "T20n1045b_001:0043b02_9": "不污行等菩薩摩訶薩。",
-    "T20n1045b_001:0043b02_10": "各稱其號。",
-    "T20n1045b_001:0043b02_11": "歸依如是一切得道聖眾。",
-    "T20n1045b_001:0043b03_12": "然後說此大陀羅尼神呪。",
-    "T20n1045b_001:0043b04_13": "即說呪曰。",
-    "T20n1045b_001:0043b05_0": "迦囉尼摩帝　毘輸多尼　伽帝婆囉毘　耶舍首羅婆隷　陀提[少/兔]提散陀婆提　舍陀目佉　欝多羅尼　舍陀婆囉毘舍毘羶陀　迦唎奢　婆薩那婆伽帝　鳩舍羅婆婆尼　阿[少/兔]珊帝毘珊帝　知帝　阿知帝　湯那伽帝　阿湯那伽帝　阿婆娑唎　阿舍娑囉禰　婆羅禰目隷　牟囉牟囉婆陀隷　舍尼婆囉陸　須梨婆帝殊帝婆羅陸　須毘摩隷菴摩隷　莎訶此呪能除一切闇冥。",
-    "T20n1045b_001:0043b14_1": "如來所持諸天敬受。",
-    "T20n1045b_001:0043b14_2": "善神護念梵天所解。",
-    "T20n1045b_001:0043b15_3": "帝釋敬事護世所護。",
-    "T20n1045b_001:0043b15_4": "決了眾聖諸仙受持和合眾姓解脫繫縛。",
-    "T20n1045b_001:0043b16_5": "一切諸天及人斷諸煩惱降伏魔怨。",
-    "T20n1045b_001:0043b17_6": "制諸外道摧諸憍慢過諸法師談論諍訟。",
-    "T20n1045b_001:0043b18_7": "無不獲勝善根增長身心清淨不捨大眾。",
-    "T20n1045b_001:0043b19_8": "悅諸學法守護經典。",
-    "T20n1045b_001:0043b20_0": "甚深法藏利益三寶。",
-    "T20n1045b_001:0043b20_1": "愍念一切眾生之類。",
-    "T20n1045b_001:0043b20_2": "莊嚴眾義有如是等大利。",
-    "T20n1045b_001:0043b21_3": "益事名無盡藏陀羅尼章句非護能護若復有人能讀誦書持。",
-    "T20n1045b_001:0043b22_4": "若使人書乃至以香華供養經卷者。",
-    "T20n1045b_001:0043b23_5": "得三十二無疑畏難。",
-    "T20n1045b_001:0043b24_6": "用此呪法者晨朝澡身漱口燒香深心頂禮。",
-    "T20n1045b_001:0043b25_7": "讀誦三遍如是作訖所行之處言語談說。",
-    "T20n1045b_001:0043b26_8": "四眾瞻仰所向至方未嘗不吉。",
-    "T20n1045b_001:0043b26_9": "眾人貴敬見者歡喜。",
-    "T20n1045b_001:0043b27_10": "怨家降諾阿難陀汝等。",
-    "T20n1045b_001:0043b27_11": "應當一心奉持此陀羅尼章句。",
-    "T20n1045b_001:0043b28_12": "說是法時一切天龍八部鬼神聞佛所說皆大歡喜作禮而去。",
-    "T20n1045b_001:0043c01_0": "六字神呪王經"
-}
+[
+    {
+        "source_sentence": "六字神呪王經",
+        "from": "T20n1045b_001:0041c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開元拾遺失譯人名附梁錄",
+        "from": "T20n1045b_001:0041c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞。一時佛在舍衛國祇陀林中。爾時",
+        "from": "T20n1045b_001:0041c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有一外道旃陀羅女。",
+        "from": "T20n1045b_001:0041c06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "專行眾惡符書厭禱。",
+        "from": "T20n1045b_001:0041c06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或事山神樹神樹下鬼神。",
+        "from": "T20n1045b_001:0041c07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "日月五星南斗北辰。",
+        "from": "T20n1045b_001:0041c07_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切魍魎雜魔邪魅。",
+        "from": "T20n1045b_001:0041c08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "厭惑尊者阿難陀及諸善人。",
+        "from": "T20n1045b_001:0041c09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是等恒河沙數。",
+        "from": "T20n1045b_001:0041c09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即時如來因見阿難陀恍惚。",
+        "from": "T20n1045b_001:0041c10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及憐愍一切三世有情故。",
+        "from": "T20n1045b_001:0041c10_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為說此六字神呪王經。",
+        "from": "T20n1045b_001:0041c11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先佛所說我今亦說。",
+        "from": "T20n1045b_001:0041c11_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即說呪曰。",
+        "from": "T20n1045b_001:0041c11_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安陀隷　鉢陀隷　迦羅胝翅由隷　帝闍婆帝　頻頭婆帝　陀頭隷　陀究帝隷　陀究摩帝　脩摩帝　安陀羅槃陀羅　檀陀羅提兜羅　陀那延陀　曼陀婆帝　阿那阿那夜　摩豆摩婆帝　迦羅吒翅由羅浮蹬伽彌　帝闇婆帝　頻頭摩帝　阿羅婆伽帝　毘咤毘提膩　質吒毘提膩　質吒毘提膩　莎婆呵若有為某甲作惡呪詛。",
+        "from": "T20n1045b_001:0041c20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若作已若當作。",
+        "from": "T20n1045b_001:0041c20_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若天若魔若龍。",
+        "from": "T20n1045b_001:0041c21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若夜叉若羅剎。",
+        "from": "T20n1045b_001:0041c21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若餓鬼若鳩槃茶。",
+        "from": "T20n1045b_001:0041c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若富單那若毘舍闍。",
+        "from": "T20n1045b_001:0041c22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若阿波摩羅若優波摩羅。",
+        "from": "T20n1045b_001:0041c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若吉遮若佉傴陀。",
+        "from": "T20n1045b_001:0041c23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若毘陀羅若半毘陀羅。",
+        "from": "T20n1045b_001:0041c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若沙門若婆羅門。",
+        "from": "T20n1045b_001:0041c24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若剎利若毘舍若首陀。",
+        "from": "T20n1045b_001:0041c24_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若摩蹬伽若摩蹬伽女若旃陀羅若旃陀羅女。",
+        "from": "T20n1045b_001:0041c26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若奴若婢。",
+        "from": "T20n1045b_001:0041c26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若男若女。",
+        "from": "T20n1045b_001:0041c26_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若外道尼乾陀若外道出家男女。",
+        "from": "T20n1045b_001:0041c27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是等種種若能呪詛厭蠱。",
+        "from": "T20n1045b_001:0041c27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我今以此六字神呪王經。",
+        "from": "T20n1045b_001:0041c28_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若天上作天上滅之。",
+        "from": "T20n1045b_001:0041c29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若天下作天下滅之。",
+        "from": "T20n1045b_001:0041c29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若上向作上向滅之。",
+        "from": "T20n1045b_001:0041c29_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若下向作下向滅之。",
+        "from": "T20n1045b_001:0042a01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若壁上作壁上滅之。",
+        "from": "T20n1045b_001:0042a01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若著壁作著壁滅之。",
+        "from": "T20n1045b_001:0042a02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若雲漢中作雲漢中滅之。",
+        "from": "T20n1045b_001:0042a02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若虛空中作虛空中滅之。",
+        "from": "T20n1045b_001:0042a03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若地上作地上滅之。",
+        "from": "T20n1045b_001:0042a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若地下作地下滅之。",
+        "from": "T20n1045b_001:0042a04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若八表外作八表外滅之。",
+        "from": "T20n1045b_001:0042a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若六合內作六合內滅之。",
+        "from": "T20n1045b_001:0042a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若隨風飄中作隨風飄中滅之。",
+        "from": "T20n1045b_001:0042a06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若四海大水中邊作四海大水中邊滅之。",
+        "from": "T20n1045b_001:0042a07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若江河淮濟中邊作江河淮濟中邊滅之。",
+        "from": "T20n1045b_001:0042a08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若陂塘中邊作坡塘中邊滅之。",
+        "from": "T20n1045b_001:0042a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若雜水中邊作雜水中邊滅之。",
+        "from": "T20n1045b_001:0042a09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若山川溪谷堆阜坑中邊作山川溪谷堆阜坑中邊滅之。",
+        "from": "T20n1045b_001:0042a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若五嶽中邊作五嶽中邊滅之。",
+        "from": "T20n1045b_001:0042a11_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若大澤林藪中邊作大澤林藪中邊滅之。",
+        "from": "T20n1045b_001:0042a12_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若大樹小草中邊作大樹小草中邊滅之。",
+        "from": "T20n1045b_001:0042a13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若草木根莖中邊作草木根莖中邊滅之。",
+        "from": "T20n1045b_001:0042a14_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若大小道徑中邊作大小道徑中邊滅之。",
+        "from": "T20n1045b_001:0042a15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若大小四交道中邊作大小四交道中邊滅之若城堡坊村外門中邊作城堡坊村外門中邊滅之。",
+        "from": "T20n1045b_001:0042a17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若城堡坊村內作城堡坊村內滅之。",
+        "from": "T20n1045b_001:0042a18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若宮外內門邊作宮外內門邊滅之。",
+        "from": "T20n1045b_001:0042a19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若宮門中作宮門中滅之。",
+        "from": "T20n1045b_001:0042a19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若於塚墓中邊作塚墓中邊滅之。",
+        "from": "T20n1045b_001:0042a20_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若家舍宅垣牆中邊作悉皆滅之。",
+        "from": "T20n1045b_001:0042a21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若屋宕作屋宕滅之。",
+        "from": "T20n1045b_001:0042a21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若柱邊作柱邊滅之。",
+        "from": "T20n1045b_001:0042a22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若柱礎邊下作柱礎邊下滅之。",
+        "from": "T20n1045b_001:0042a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若糞土中邊作糞土中邊滅之。",
+        "from": "T20n1045b_001:0042a23_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若井竈碓磨中邊作井竈碓磨中邊滅之。",
+        "from": "T20n1045b_001:0042a24_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若火爐中邊作火爐中邊滅之。",
+        "from": "T20n1045b_001:0042a25_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若廁溷中邊作廁溷中邊滅之。",
+        "from": "T20n1045b_001:0042a26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若車乘具中邊作車乘具中邊滅之。",
+        "from": "T20n1045b_001:0042a27_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若鞍馬服飾中邊作鞍馬服飾中邊滅之。",
+        "from": "T20n1045b_001:0042a27_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若床鋪衣被氈褥靴帽雜器中邊作床鋪衣被氈褥靴帽雜器中邊滅之。",
+        "from": "T20n1045b_001:0042a29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若於一切飲食中邊作一切飲食中邊滅之。",
+        "from": "T20n1045b_001:0042b01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若側近人作者及於一切處行住坐臥如是皆悉滅之。",
+        "from": "T20n1045b_001:0042b02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若晝作晝滅之。",
+        "from": "T20n1045b_001:0042b03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若夜作夜滅之。",
+        "from": "T20n1045b_001:0042b03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若晝夜常作晝夜滅之。",
+        "from": "T20n1045b_001:0042b04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此呪能斷絕帝釋呪道。",
+        "from": "T20n1045b_001:0042b04_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能斷絕梵天呪道。",
+        "from": "T20n1045b_001:0042b04_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能斷絕四天王呪道。",
+        "from": "T20n1045b_001:0042b05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及與一切所有邪鬼呪道方術悉皆能斷。",
+        "from": "T20n1045b_001:0042b06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有為某甲作惡厭蠱呪詛。",
+        "from": "T20n1045b_001:0042b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及與毒藥悉皆滅之。",
+        "from": "T20n1045b_001:0042b07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若佉傴陀若毘陀羅。",
+        "from": "T20n1045b_001:0042b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若吉遮若富單那所為悉皆滅之。",
+        "from": "T20n1045b_001:0042b08_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾惡都盡眾善補處。",
+        "from": "T20n1045b_001:0042b09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願此呪常吉。",
+        "from": "T20n1045b_001:0042b09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以此真實章句。",
+        "from": "T20n1045b_001:0042b09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使某甲晝安夜安晝夜常安。",
+        "from": "T20n1045b_001:0042b10_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得壽百歲得見百秋。",
+        "from": "T20n1045b_001:0042b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故世間最上無過於佛。",
+        "from": "T20n1045b_001:0042b11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天尊所尚眾神奉仰。",
+        "from": "T20n1045b_001:0042b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有行惡呪道。",
+        "from": "T20n1045b_001:0042b12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若作已若當作。",
+        "from": "T20n1045b_001:0042b12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若中間作若成就若未成就悉皆滅之。",
+        "from": "T20n1045b_001:0042b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及與一切眾毒能害人者。",
+        "from": "T20n1045b_001:0042b14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此六字神呪王經所在之處。",
+        "from": "T20n1045b_001:0042b14_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若讀若誦受持憶念者。",
+        "from": "T20n1045b_001:0042b15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有惡業重障皆消滅之。",
+        "from": "T20n1045b_001:0042b16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即說呪曰。",
+        "from": "T20n1045b_001:0042b16_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佉𦙆佉住佉毘𦙆　緘壽　緘壽　多胝　婆胝　莎婆訶若有為某甲作惡呪詛。",
+        "from": "T20n1045b_001:0042b19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若作已若當作。",
+        "from": "T20n1045b_001:0042b19_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若天若龍若藥叉若羅剎。",
+        "from": "T20n1045b_001:0042b20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及與一切能作惡呪詛者悉皆滅之。",
+        "from": "T20n1045b_001:0042b21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若佉傴陀若毘陀羅若富單那所為悉皆滅之。",
+        "from": "T20n1045b_001:0042b22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾惡都盡眾善補處。",
+        "from": "T20n1045b_001:0042b22_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願此呪常吉。",
+        "from": "T20n1045b_001:0042b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以此真實章句。",
+        "from": "T20n1045b_001:0042b23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使某甲晝安夜安晝夜常安。",
+        "from": "T20n1045b_001:0042b24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得壽百歲得見百秋。",
+        "from": "T20n1045b_001:0042b24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故世間最上無過於法。",
+        "from": "T20n1045b_001:0042b25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天人所敬眾魔奉受離欲無著。",
+        "from": "T20n1045b_001:0042b25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即說呪曰。",
+        "from": "T20n1045b_001:0042b26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佉胝佉住佉毘胝　緘壽　緘壽　多胝　婆胝　莎婆訶何以故世間最上無過於僧。",
+        "from": "T20n1045b_001:0042b29_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "良善福田賢聖所敬眾善擁護。",
+        "from": "T20n1045b_001:0042c01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即說呪曰。",
+        "from": "T20n1045b_001:0042c01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佉胝佉住佉毘胝　緘壽　緘壽　多胝婆胝兜帝　阿禰帝　阿周帝　莎婆訶若有為某甲作惡呪詛。",
+        "from": "T20n1045b_001:0042c04_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若和合毒藥若真若偽所作非法。",
+        "from": "T20n1045b_001:0042c05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若前身若今身行業眾惡。",
+        "from": "T20n1045b_001:0042c05_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切重罪悉皆滅之。",
+        "from": "T20n1045b_001:0042c06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即說呪曰。",
+        "from": "T20n1045b_001:0042c06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摩休婆烏摩帝　烏摩陀徙陀禰　佉傴陀婆提徙陀禰　頻頭摩提　質帝質多提婆徙陀禰　阿鞞旃阿鞞　莎婆訶若有人能誦持是六字神呪王經。",
+        "from": "T20n1045b_001:0042c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假令呪枯樹可得還生枝葉。",
+        "from": "T20n1045b_001:0042c11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何況人身。",
+        "from": "T20n1045b_001:0042c11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使某甲得壽百歲得見百秋。",
+        "from": "T20n1045b_001:0042c12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸佛所說阿難所傳。",
+        "from": "T20n1045b_001:0042c12_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人讀誦通利悉皆自護。",
+        "from": "T20n1045b_001:0042c13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾惡遠身恒與善俱。",
+        "from": "T20n1045b_001:0042c13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若呪他者能除彼人眾苦惡患。",
+        "from": "T20n1045b_001:0042c14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讀者斷五辛至心鮮潔然後乃得行之。",
+        "from": "T20n1045b_001:0042c15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸難凶禍無有遺餘無不吉利。",
+        "from": "T20n1045b_001:0042c16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即說呪曰。",
+        "from": "T20n1045b_001:0042c16_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "呵呵遮唎　呵呵那彌　呵呵浮陀摩提　呵呵尼呵咜　尼劬沙　呵呵尼呵陀　佉傴陀　尼毘沙佉傴陀　伊禰彌禰　陀弊　陀陀弊　莎婆訶敬禮三寶。",
+        "from": "T20n1045b_001:0042c21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬禮聖智海遍照莊嚴王如來。",
+        "from": "T20n1045b_001:0042c21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬禮一切如來應正等覺。",
+        "from": "T20n1045b_001:0042c22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬禮聖阿縛盧枳低濕伐羅摩訶薩埵。",
+        "from": "T20n1045b_001:0042c23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是歸命已。",
+        "from": "T20n1045b_001:0042c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然後說是神呪。",
+        "from": "T20n1045b_001:0042c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願此呪常吉。",
+        "from": "T20n1045b_001:0042c24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬禮聖阿縛盧枳低濕伐羅。",
+        "from": "T20n1045b_001:0042c24_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀照我身此一句如是三稱憐愍我故。",
+        "from": "T20n1045b_001:0042c25_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即說呪曰。",
+        "from": "T20n1045b_001:0042c25_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "烏呵尼謩阿尼阿陀尼阿陀毘阿陀闍毘尼耽毘尼　安陀隷　鉢陀隷　死卑提　安陀羅婆死尼　薩陸豆率吒　波羅豆率吒　質擔閻婆夜　耽婆夜摩訶夜耶婆貿羅　提那貿遮提　盧樓質吒那陀死　盧樓盧漏質吒鉢陀死　莎婆訶此呪能護一切厄難。",
+        "from": "T20n1045b_001:0043a03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鮮潔無垢解脫光明觀照縛一切賊行惡者無復迷荒念善者濟度眾難一切惡魔。",
+        "from": "T20n1045b_001:0043a05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現世護我身師子狂象虎狼犲犬猨猿。",
+        "from": "T20n1045b_001:0043a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及諸惡獸欲害人者悉令被縛。",
+        "from": "T20n1045b_001:0043a06_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我今為某甲及共行同伴。",
+        "from": "T20n1045b_001:0043a07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切呪力所向之處行住坐臥願悉平吉。",
+        "from": "T20n1045b_001:0043a08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即說呪曰。",
+        "from": "T20n1045b_001:0043a08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知醯唎　知唎　牧唎　摩蹬耆　旃陀唎叉羅叉羅羅耶　莎婆訶敬禮三寶必願此呪令大吉善用此呪法。",
+        "from": "T20n1045b_001:0043a11_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當用之日洗浴鮮潔淨除垢穢。",
+        "from": "T20n1045b_001:0043a12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身心恬怕不得行婬不食五辛飲酒噉肉。",
+        "from": "T20n1045b_001:0043a13_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舌不惡語當以白縷手捉其綖。",
+        "from": "T20n1045b_001:0043a14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "誦呪七遍一遍一結。",
+        "from": "T20n1045b_001:0043a14_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作索成已若有官事被言。",
+        "from": "T20n1045b_001:0043a15_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或逢鬪諍更相呪詛。",
+        "from": "T20n1045b_001:0043a15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讒謗謀枉及一切眾惡以此呪結著其人衣帶中如上諸難悉皆滅之。",
+        "from": "T20n1045b_001:0043a17_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "事過之後。",
+        "from": "T20n1045b_001:0043a17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請佛法僧燒眾名香。",
+        "from": "T20n1045b_001:0043a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設齋請福深修悲敬報佛慈恩主自解結發大願云我與一切四生永絕八難所願從心。",
+        "from": "T20n1045b_001:0043a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即說呪曰。",
+        "from": "T20n1045b_001:0043a20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "醯豆摩帝耶舍婆帝　婆羅沙天婆帝　烏受婆帝　欝多羅尼　阿叉夜婆帝　阿㝹羶帝目企婆羅婆目帝　婆羅婆枳豆莎訶敬禮過去未來現在一切常住三寶。",
+        "from": "T20n1045b_001:0043a24_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬禮聖智海遍照莊嚴王如來。",
+        "from": "T20n1045b_001:0043a25_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬禮一切如來應正等覺。",
+        "from": "T20n1045b_001:0043a26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬禮聖阿縛盧枳低濕伐羅消伏毒害救苦大悲者。",
+        "from": "T20n1045b_001:0043a27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敬禮曼殊室利菩薩三曼多跋達羅菩薩。",
+        "from": "T20n1045b_001:0043a28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慈氏菩薩棄陰蓋菩薩。",
+        "from": "T20n1045b_001:0043a28_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寂根菩薩。",
+        "from": "T20n1045b_001:0043a28_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慧尚菩薩。",
+        "from": "T20n1045b_001:0043a29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常不離世菩薩。",
+        "from": "T20n1045b_001:0043a29_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "首楞嚴三昧虛空藏。",
+        "from": "T20n1045b_001:0043b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶幢。",
+        "from": "T20n1045b_001:0043b01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "孔雀王陀羅尼。",
+        "from": "T20n1045b_001:0043b01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六字章句。",
+        "from": "T20n1045b_001:0043b01_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "藥王。",
+        "from": "T20n1045b_001:0043b01_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "藥上。",
+        "from": "T20n1045b_001:0043b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "堅意。",
+        "from": "T20n1045b_001:0043b02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不污行等菩薩摩訶薩。",
+        "from": "T20n1045b_001:0043b02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各稱其號。",
+        "from": "T20n1045b_001:0043b02_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸依如是一切得道聖眾。",
+        "from": "T20n1045b_001:0043b03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然後說此大陀羅尼神呪。",
+        "from": "T20n1045b_001:0043b04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即說呪曰。",
+        "from": "T20n1045b_001:0043b04_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迦囉尼摩帝　毘輸多尼　伽帝婆囉毘　耶舍首羅婆隷　陀提㝹提散陀婆提　舍陀目佉　欝多羅尼　舍陀婆囉毘舍毘羶陀　迦唎奢　婆薩那婆伽帝　鳩舍羅婆婆尼　阿㝹珊帝毘珊帝　知帝　阿知帝　湯那伽帝　阿湯那伽帝　阿婆娑唎　阿舍娑囉禰　婆羅禰目隷　牟囉牟囉婆陀隷　舍尼婆囉陸　須梨婆帝殊帝婆羅陸　須毘摩隷菴摩隷　莎訶此呪能除一切闇冥。",
+        "from": "T20n1045b_001:0043b14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來所持諸天敬受。",
+        "from": "T20n1045b_001:0043b14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善神護念梵天所解。",
+        "from": "T20n1045b_001:0043b15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帝釋敬事護世所護。",
+        "from": "T20n1045b_001:0043b15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "決了眾聖諸仙受持和合眾姓解脫繫縛。",
+        "from": "T20n1045b_001:0043b16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切諸天及人斷諸煩惱降伏魔怨。",
+        "from": "T20n1045b_001:0043b17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "制諸外道摧諸憍慢過諸法師談論諍訟。",
+        "from": "T20n1045b_001:0043b18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無不獲勝善根增長身心清淨不捨大眾。",
+        "from": "T20n1045b_001:0043b19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悅諸學法守護經典。",
+        "from": "T20n1045b_001:0043b19_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "甚深法藏利益三寶。",
+        "from": "T20n1045b_001:0043b20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愍念一切眾生之類。",
+        "from": "T20n1045b_001:0043b20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "莊嚴眾義有如是等大利。",
+        "from": "T20n1045b_001:0043b21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "益事名無盡藏陀羅尼章句非護能護若復有人能讀誦書持。",
+        "from": "T20n1045b_001:0043b22_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若使人書乃至以香華供養經卷者。",
+        "from": "T20n1045b_001:0043b23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得三十二無疑畏難。",
+        "from": "T20n1045b_001:0043b24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "用此呪法者晨朝澡身漱口燒香深心頂禮。",
+        "from": "T20n1045b_001:0043b25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "讀誦三遍如是作訖所行之處言語談說。",
+        "from": "T20n1045b_001:0043b26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四眾瞻仰所向至方未嘗不吉。",
+        "from": "T20n1045b_001:0043b26_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾人貴敬見者歡喜。",
+        "from": "T20n1045b_001:0043b27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "怨家降諾阿難陀汝等。",
+        "from": "T20n1045b_001:0043b27_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應當一心奉持此陀羅尼章句。",
+        "from": "T20n1045b_001:0043b28_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說是法時一切天龍八部鬼神聞佛所說皆大歡喜作禮而去。",
+        "from": "T20n1045b_001:0043b29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六字神呪王經",
+        "from": "T20n1045b_001:0043c01_100",
+        "context_with_next_sentence": false
+    }
+]

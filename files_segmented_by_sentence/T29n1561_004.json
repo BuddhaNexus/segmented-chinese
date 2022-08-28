@@ -1,39 +1,162 @@
-{
-    "T29n1561_004:0326c24_0": "阿毘達磨俱舍論實義疏卷第四",
-    "T29n1561_004:0326c26_0": "尊者安惠造",
-    "T29n1561_004:0326c27_0": "一剎那頌曰。",
-    "T29n1561_004:0326c28_0": "　內五有熟養　　聲無異熟生",
-    "T29n1561_004:0326c29_0": "　八無礙等流　　亦異熟生性",
-    "T29n1561_004:0327a01_0": "　餘三實唯法　　剎那唯後三",
-    "T29n1561_004:0327a02_0": "內五即是眼之五界。",
-    "T29n1561_004:0327a02_1": "十八界中幾是見幾非見頌曰。",
-    "T29n1561_004:0327a04_0": "　眼法界一分　　八種說名見",
-    "T29n1561_004:0327a05_0": "　五識俱生惠　　非見不度故",
-    "T29n1561_004:0327a06_0": "　眼見色同分　　非彼能依識",
-    "T29n1561_004:0327a07_0": "　傳說不能觀　　被障諸色故",
-    "T29n1561_004:0327a08_0": "論曰。",
-    "T29n1561_004:0327a08_1": "眼全是見故。",
-    "T29n1561_004:0327a08_2": "法界一分八種是見。",
-    "T29n1561_004:0327a08_3": "餘皆非見。",
-    "T29n1561_004:0327a09_4": "論今當略辯。",
-    "T29n1561_004:0327a09_5": "此決定相。",
-    "T29n1561_004:0327a09_6": "頌曰。",
-    "T29n1561_004:0327a10_0": "　眼不下於身　　色識非上眼",
-    "T29n1561_004:0327a11_0": "　色於識一切　　二於身亦然",
-    "T29n1561_004:0327a12_0": "　如眼耳亦然　　次三皆自地",
-    "T29n1561_004:0327a13_0": "　身識自下地　　意不定應知",
-    "T29n1561_004:0327a14_0": "論又經中說二十二根。",
-    "T29n1561_004:0327a14_1": "謂眼根．耳根．鼻根．舌根．身根．意根．女根．男根．命根．樂根．苦根．喜根．憂根．捨根．信根．勤根．念根．定根．惠根．未知當知根．已知根．具知根。",
-    "T29n1561_004:0327a18_0": "釋曰。",
-    "T29n1561_004:0327a18_1": "此是何經所說。",
-    "T29n1561_004:0327a18_2": "謂有梵志名曰生測。",
-    "T29n1561_004:0327a18_3": "來詣佛所。",
-    "T29n1561_004:0327a19_4": "歡喜問訊。",
-    "T29n1561_004:0327a19_5": "在一面坐。",
-    "T29n1561_004:0327a19_6": "而白佛言。",
-    "T29n1561_004:0327a19_7": "施設幾根攝諸根盡。",
-    "T29n1561_004:0327a20_8": "佛言。",
-    "T29n1561_004:0327a20_9": "我說二十二根攝諸根盡。",
-    "T29n1561_004:0327a21_10": "若有遮此更說餘根。",
-    "T29n1561_004:0327a21_11": "當知彼說有言無義。"
-}
+[
+    {
+        "source_sentence": "4阿毘達磨俱舍論實義疏卷第四",
+        "from": "T29n1561_004:0326c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尊者安惠造",
+        "from": "T29n1561_004:0326c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一剎那，頌曰：",
+        "from": "T29n1561_004:0326c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "內五有熟養，　　聲無異熟生，",
+        "from": "T29n1561_004:0326c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八無礙等流，　　亦異熟生性，",
+        "from": "T29n1561_004:0326c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘三實唯法，　　剎那唯後三。",
+        "from": "T29n1561_004:0327a01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "內五即是眼之五界。",
+        "from": "T29n1561_004:0327a02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十八界中幾是見、幾非見？",
+        "from": "T29n1561_004:0327a03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰：",
+        "from": "T29n1561_004:0327a03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眼法界一分，　　八種說名見，",
+        "from": "T29n1561_004:0327a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五識俱生惠，　　非見不度故。",
+        "from": "T29n1561_004:0327a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眼見色同分，　　非彼能依識，",
+        "from": "T29n1561_004:0327a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "傳說不能觀，　　被障諸色故。",
+        "from": "T29n1561_004:0327a07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰：",
+        "from": "T29n1561_004:0327a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眼全是見故。",
+        "from": "T29n1561_004:0327a08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "法界一分八種是見，餘皆非見。",
+        "from": "T29n1561_004:0327a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論：",
+        "from": "T29n1561_004:0327a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今當略辯此決定相。",
+        "from": "T29n1561_004:0327a09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頌曰：",
+        "from": "T29n1561_004:0327a09_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眼不下於身，　　色識非上眼，",
+        "from": "T29n1561_004:0327a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "色於識一切，　　二於身亦然。",
+        "from": "T29n1561_004:0327a11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如眼耳亦然，　　次三皆自地，",
+        "from": "T29n1561_004:0327a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身識自下地，　　意不定應知。",
+        "from": "T29n1561_004:0327a13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論：",
+        "from": "T29n1561_004:0327a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又經中說二十二根，謂眼根、耳根、鼻根、舌根、身根、意根、女根、男根、命根、樂根、苦根、喜根、憂根、捨根、信根、勤根、念根、定根、惠根、未知當知根、已知根、具知根。",
+        "from": "T29n1561_004:0327a17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋曰：",
+        "from": "T29n1561_004:0327a18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此是何經所說？",
+        "from": "T29n1561_004:0327a18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂有梵志名曰生測，來詣佛所，歡喜問訊，在一面坐，而白佛言：",
+        "from": "T29n1561_004:0327a19_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "施設幾根攝諸根盡？",
+        "from": "T29n1561_004:0327a20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛言：",
+        "from": "T29n1561_004:0327a20_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我說二十二根攝諸根盡。",
+        "from": "T29n1561_004:0327a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有遮此更說餘根，當知彼說有言無義。",
+        "from": "T29n1561_004:0327a21_19",
+        "context_with_next_sentence": true
+    }
+]

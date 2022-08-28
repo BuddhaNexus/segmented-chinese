@@ -1,125 +1,997 @@
-{
-    "T13n0400_001:0473c04_0": "佛說海意菩薩所問淨印法門經",
-    "T13n0400_001:0473c05_0": "卷第一",
-    "T13n0400_001:0473c07_0": "譯經三藏朝散大夫試鴻臚卿光梵大師賜紫沙門臣惟淨等奉　詔譯如是我聞：一時，世尊住於如來神通境界大寶莊嚴最勝道場大菩薩宮中——而彼道場皆是如來威神建立，積集廣大勝福莊嚴，圓滿廣大福智妙行，現轉一切佛法勝報，顯示如來無邊神變加持之力，善入無礙境界大智，一切見者生大喜悅；入念慧行普遍運行無動妙智，於無邊劫修集無量眾功德聚；而佛世尊，現證諸法平等覺道，轉妙法輪，能善調伏無邊學眾，已於諸法得大自在；善知一切眾生心意及諸根性，已能到於最上彼岸；善斷一切種子習氣，得無發悟佛身輕安。",
-    "T13n0400_001:0473c20_0": "是時與大苾芻之眾六百八十萬人俱，皆住近心，悉斷一切煩惱種習，皆是如來法王之子；能善出生諸無所得甚深法行，身相端嚴威儀圓備，作大福田正智具足。",
-    "T13n0400_001:0473c23_1": "復有無量無數不思議無等比不可說不可說諸大菩薩摩訶薩眾，悉獲無所得菩薩智忍，已超菩薩灌頂之位，而能游戲無加行位菩薩神通，得無盡陀羅尼及諸菩薩陀羅尼門；於諸菩薩首楞嚴王三摩地中而得自在，一切眾生歡喜樂見；已得菩薩諸無礙解，出生菩薩無發悟行，深心安住殊妙莊嚴。",
-    "T13n0400_001:0474a01_2": "其名曰：無盡藏菩薩摩訶薩、無量慧菩薩摩訶薩、無邊慧菩薩摩訶薩、無緣觀菩薩摩訶薩、常精進菩薩摩訶薩、精進慧菩薩摩訶薩、無斷辯才菩薩摩訶薩、無著無畏積菩薩摩訶薩、畢竟義慧菩薩摩訶薩。",
-    "T13n0400_001:0474a06_3": "如是等無量無數不思議無等比不可說不可說諸大菩薩摩訶薩眾而共集會。",
-    "T13n0400_001:0474a09_0": "爾時世尊，以菩薩行位，方便出生無障礙門甚深正法，而用莊嚴諸菩薩道，成辦一切佛法力、無畏等真實智行，入一切法最上自在總持印門；入無礙解，決定出生大神通智妙境界門，宣示一切不退轉輪，普攝諸乘住平等理；混入法界無分別性，隨諸眾生根性意樂開示演說。",
-    "T13n0400_001:0474a15_1": "隨知真實決定正法，破諸魔境；以深固法理，止息一切煩惱見等。",
-    "T13n0400_001:0474a16_2": "入無著慧，宣說普遍廣大迴向善方便智。",
-    "T13n0400_001:0474a17_3": "入一切佛平等性智，以無著加持法門如實決定宣說諸法。",
-    "T13n0400_001:0474a19_4": "於無分別、非無分別悉入平等，覺了甚深緣生之法，積集無量福智妙行。",
-    "T13n0400_001:0474a20_5": "佛身、語、心平等莊嚴，隨知一切念慧行等無盡慧門，以四聖諦理顯示聲聞乘法；以覺了身、心、智顯示緣覺乘法；以得一切智灌頂顯示大乘之法。",
-    "T13n0400_001:0474a24_0": "入一切法自在理中，出生如來無邊功德。",
-    "T13n0400_001:0474a24_1": "是故如來開示演說，施設表了，分別解釋，顯明宣暢。",
-    "T13n0400_001:0474a27_0": "爾時世尊，將說如是廣大甚深決定法時，忽然於此三千大千世界之中大水充滿，猶如大海，下至地界，上至大寶莊嚴最勝道場。",
-    "T13n0400_001:0474b01_0": "又如劫壞水災現時，一切三千大千世界，大水充滿，下至水輪混如一海，今此大水亦復如是。",
-    "T13n0400_001:0474b03_1": "然此三千大千世界，如是大水一切充滿，其中國土城邑聚落及諸人民，悉無所壞亦無障礙，及閻浮提諸四大洲乃至大海須彌山等，欲界諸天一切宮殿，悉無少分損壞障礙。",
-    "T13n0400_001:0474b07_2": "先現如是相已，後復於此大水之中，出現俱胝那庾多百千廣大蓮花。",
-    "T13n0400_001:0474b08_3": "其花高顯，瑠璃為莖，帝青為枝，閻浮檀金而為其葉，吉祥藏寶以為其鬚，馬瑙為臺，真珠交絡；一一花有無數俱胝多百千葉，其葉量廣一俱盧舍。",
-    "T13n0400_001:0474b12_4": "是諸蓮花於大寶莊嚴最勝道場中，涌現虛空，高一多羅樹，一切大眾坐蓮花上，於蓮花中隨其色相放大光明，是光普照十方無量阿僧祇佛剎。",
-    "T13n0400_001:0474b15_5": "此諸光明廣照耀時，而此會中一切大眾歎未曾有，合掌恭敬咸作是言：「今現如是希有瑞相，將非世尊說妙法邪？」",
-    "T13n0400_001:0474b19_0": "爾時，慈氏菩薩摩訶薩，見是廣大神變事已，即於所坐蓮花臺上，偏袒右肩右膝著地，合掌向佛恭敬頂禮，而白佛言：「世尊！",
-    "T13n0400_001:0474b21_1": "何故今時先現是相？",
-    "T13n0400_001:0474b22_2": "而此三千大千世界之中大水充滿混如一海，其中復現俱胝那庾多百千蓮花高顯。",
-    "T13n0400_001:0474b24_3": "世尊！",
-    "T13n0400_001:0474b24_4": "昔所未聞，昔所未見，如是廣大希有神變，願佛為說。」",
-    "T13n0400_001:0474b26_0": "佛告慈氏菩薩言：「慈氏當知！",
-    "T13n0400_001:0474b26_1": "下方去此佛剎，過十佛剎不可說俱胝那庾多百千微塵等數諸佛剎土，有世界名無量功德寶無垢殊妙莊嚴，彼土有佛，號海勝持慧遊戲出高神通如來、應供、正等正覺，今現住彼說法教化。",
-    "T13n0400_001:0474c01_2": "彼有菩薩名曰海意，與出過算數諸大菩薩摩訶薩眾，將同來此娑婆世界，瞻禮恭敬供養於我，又復於我所說法中而有所問；以是因緣，先現瑞相。」",
-    "T13n0400_001:0474c06_0": "爾時，尊者舍利子白佛言：「世尊！",
-    "T13n0400_001:0474c06_1": "彼海意菩薩去此甚遠，何故世尊說彼菩薩能聞此會佛說法邪？」",
-    "T13n0400_001:0474c08_2": "佛言：「舍利子！",
-    "T13n0400_001:0474c08_3": "如汝今時於我前聞所說正法，海意菩薩雖復住於彼世界中，而能聞我所說之法，亦復如是。",
-    "T13n0400_001:0474c10_4": "舍利子！",
-    "T13n0400_001:0474c10_5": "又如汝今現前觀我及諸大眾，彼海意菩薩能見我身及諸大眾，亦復如是。」",
-    "T13n0400_001:0474c12_6": "舍利子言：「希有世尊！",
-    "T13n0400_001:0474c13_7": "諸菩薩摩訶薩所有神通智力不可思議，而彼海意菩薩居于極遠剎中，能以無障礙眼見此色相，無障礙耳聞此音聲。",
-    "T13n0400_001:0474c15_8": "世尊！",
-    "T13n0400_001:0474c16_0": "若有聞是諸菩薩摩訶薩不可思議功德威神者，其誰不發阿耨多羅三藐三菩提心？」",
-    "T13n0400_001:0474c17_1": "尊者舍利子作是說時，二萬四千天子皆發阿耨多羅三藐三菩提心。",
-    "T13n0400_001:0474c20_0": "爾時，海意菩薩摩訶薩與彼出過算數諸大菩薩摩訶薩眾，恭敬圍繞，同時瞻仰彼佛世尊海勝持慧遊戲出高神通如來已，即受教勅，承彼如來神足通力，及無加行菩薩已辦神通，於一念間瞬目之頃，於彼世界隱伏身相，即時於此娑婆世界大寶莊嚴最勝道場中，涌現虛空，高一多羅樹，於最高廣蓮花臺上師子座中安詳而坐；餘諸菩薩亦各處于蓮花臺座。",
-    "T13n0400_001:0474c28_1": "下方世界無量無數諸佛剎中，復有無量無數菩薩之眾，隨從海意菩薩而來聽法。",
-    "T13n0400_001:0475a01_2": "是時大寶莊嚴最勝道場中所有十方世界普來集會一切菩薩摩訶薩眾，皆悉處于蓮花臺座，周匝充滿，殊妙奇特。",
-    "T13n0400_001:0475a03_3": "而彼一切諸來大眾，心生歡喜，悉得清淨，歎未曾有，合掌頂禮彼諸菩薩。",
-    "T13n0400_001:0475a05_4": "時海意菩薩，以彼無量功德寶無垢殊妙莊嚴世界之中諸勝妙花，其花名為無憂適悅愛樂喜見，量廣一俱盧舍，花有無數多百千葉，隨其所應供養如來，令諸菩薩一切見者深心無垢，宿世善根悉得清淨，是諸眾會皆生歡喜悅意愛樂。",
-    "T13n0400_001:0475a10_5": "花有光明，復有妙香，此諸勝花於世尊前作供養已，復雨廣大殊妙花雨。",
-    "T13n0400_001:0475a12_6": "其一一花可七人量，遍布充滿大寶莊嚴最勝道場，一切大眾悉得離生喜樂禪悅之味；空中自然擊種種鼓鼓出微妙可愛之音，一切大眾聞者悉得禪定妙樂。",
-    "T13n0400_001:0475a17_0": "爾時，海意菩薩摩訶薩，作如是等供養事已，從空而下，頭面著地禮世尊足，右繞七匝合掌恭敬，住立佛前，作是白言：「世尊！",
-    "T13n0400_001:0475a19_1": "海勝持慧游戲出高神通如來，問訊世尊釋迦牟尼如來，少病少惱，起居輕利，勢力安不？",
-    "T13n0400_001:0475a21_2": "得妙樂邪？」",
-    "T13n0400_001:0475a22_3": "時彼同來一切菩薩，悉從空下，亦各頭面禮佛足已，右繞七匝，各各還復本座而坐。",
-    "T13n0400_001:0475a25_0": "爾時，此三千界有大梵王，名大悲思惟，居此梵世此四大洲無憂安隱，忽然見是三千大千世界，大水充滿混如一海。",
-    "T13n0400_001:0475a27_1": "復有俱胝那庾多百千廣大蓮花高顯出現種種勝相，及此道場菩薩充滿。",
-    "T13n0400_001:0475a29_2": "見是相已即自思惟：「劫火未然壞相，安有大水充滿？",
-    "T13n0400_001:0475b01_3": "此復何緣，將非如來神變力邪？",
-    "T13n0400_001:0475b02_4": "我今宜往問佛世尊，此希有相，何因何緣？」",
-    "T13n0400_001:0475b03_5": "時大悲思惟大梵天王作是念已，即與六萬八千梵眾隱于梵界，恭敬圍繞，來詣大寶莊嚴最勝道場佛世尊前，住虛空中，曲躬合掌頂禮世尊，作是白言：「世尊！",
-    "T13n0400_001:0475b06_6": "何故今此三千大千世界大水充滿混如一海，復有俱胝那庾多百千廣大蓮花高顯而出，及諸菩薩大士皆悉處于蓮花座上，而此三千大千世界一切國土城邑聚落諸人民眾，及閻浮提四大洲等欲界天宮，乃至大海須彌諸山，悉無損壞亦無障礙。",
-    "T13n0400_001:0475b12_7": "如是等相甚為希有，此何因緣？",
-    "T13n0400_001:0475b13_8": "復何神力？",
-    "T13n0400_001:0475b13_9": "願佛為說。」",
-    "T13n0400_001:0475b14_0": "爾時佛告大悲思惟梵天言：「大梵當知！",
-    "T13n0400_001:0475b14_1": "下方世界有佛剎，名無量功德寶無垢殊妙莊嚴，其佛世尊，號海勝持慧游戲出高神通如來。",
-    "T13n0400_001:0475b17_0": "彼有菩薩名曰海意，與出過算數諸大菩薩摩訶薩眾，而共來此娑婆世界，瞻禮恭敬供養於我；又復於此廣大集會正法之中而有所問。",
-    "T13n0400_001:0475b20_1": "是彼菩薩神通之力，於此世界先現瑞相。」",
-    "T13n0400_001:0475b21_2": "梵天白佛言：「世尊！",
-    "T13n0400_001:0475b21_3": "大集會中所有正法，今尚說邪？」",
-    "T13n0400_001:0475b22_4": "佛言：「大梵！",
-    "T13n0400_001:0475b22_5": "諸佛境界不可思議，所有如來智慧辯才及威神力，不應限量。",
-    "T13n0400_001:0475b24_6": "汝或見於如來默然，勿謂無說。",
-    "T13n0400_001:0475b24_7": "而我常為十方世界所來菩薩，廣大宣說決定正法。」",
-    "T13n0400_001:0475b27_0": "爾時，大悲思惟大梵天王復白佛言：「世尊！",
-    "T13n0400_001:0475b27_1": "佛所說言現神變者海意菩薩，其誰是邪？」",
-    "T13n0400_001:0475b28_2": "佛言：「大梵！",
-    "T13n0400_001:0475b29_3": "今此會中有大蓮花廣十由旬，花中有臺，臺上復有眾寶莊嚴師子之座，座中有一菩薩大士處于其上，身真金色相好端嚴，唯除如來，餘諸菩薩所有身相皆能映攝，有無數千菩薩之眾圍繞頂禮者，汝可見不？」",
-    "T13n0400_001:0475c04_4": "答言：「已見。」",
-    "T13n0400_001:0475c05_5": "佛言：「大梵！",
-    "T13n0400_001:0475c05_6": "圓具如是神通相者，即是海意菩薩。」",
-    "T13n0400_001:0475c06_7": "是時大悲思惟梵天，乃向海意菩薩恭敬頂禮已，即白佛言：「世尊！",
-    "T13n0400_001:0475c07_8": "若有眾生得聞如是海意菩薩名字之者，當知是人得大善利。",
-    "T13n0400_001:0475c09_9": "我於今日聞此菩薩大士名字，得見菩薩如是色相，深自欣慶快得善利。」",
-    "T13n0400_001:0475c10_10": "梵天復白佛言：「世尊！",
-    "T13n0400_001:0475c11_11": "此大集會正法當住為久如邪？」",
-    "T13n0400_001:0475c11_12": "佛言：「大梵！",
-    "T13n0400_001:0475c12_13": "今此正法，隨佛壽量久近而住。",
-    "T13n0400_001:0475c12_14": "佛涅槃後，有諸菩薩，於此正法受持讀誦，廣為佗人開示演說。",
-    "T13n0400_001:0475c14_15": "何以故？",
-    "T13n0400_001:0475c14_16": "大梵！",
-    "T13n0400_001:0475c14_17": "所有過去、未來、現在世中諸佛菩提從此中出。」",
-    "T13n0400_001:0475c16_0": "爾時，海意菩薩摩訶薩，承佛神力，普為此會一切大眾生歡喜故；及為大悲思惟大梵天王起信敬故；復為莊嚴此正法故；亦為顯示己之智慧辯才力故；即時同彼高廣蓮花及師子座，俱涌虛空高七多羅樹，乃於空中說伽陀曰：「下方過於塵數剎，　　有佛剎名功德嚴；　彼佛化主現居中，　　其名海勝神通慧。",
-    "T13n0400_001:0475c24_0": "　剎中眾德皆圓具，　　菩薩依止無所畏；　其佛如來說法門，　　我等聞已能持受。",
-    "T13n0400_001:0475c26_0": "　我等故來茲剎土，　　瞻仰敬禮十力尊；　其諸菩薩此所來，　　佛大牛王各伸問。",
-    "T13n0400_001:0475c28_0": "　我今禮此法王已，　　亦禮無比佛大智；　所應供養隨所施，　　廣伸供養佛正覺。",
-    "T13n0400_001:0476a01_0": "　若能觀佛色、無色，　　離受離行亦離識；　三種領納此亦無，　　是中潔白常清淨。",
-    "T13n0400_001:0476a03_0": "　若無色相及種好，　　是為正觀佛世尊；　慧眼清淨照法身，　　乃見無垢真實義。",
-    "T13n0400_001:0476a05_0": "　若法無取亦無捨，　　二邊無我、無我所；　安住內入性寂然，　　止息心外諸所取。",
-    "T13n0400_001:0476a07_0": "　有無分別、離分別，　　是心寂默如虛空；　即能供養諸世尊，　　於正法幢善建立。",
-    "T13n0400_001:0476a09_0": "　若觀諸法猶如幻，　　此中施、受二皆空；　雖知造作本所無，　　亦不捨離於諸法。",
-    "T13n0400_001:0476a11_0": "　而不決定求菩提，　　又不決定住生、死；　亦無施者無慳心，　　遠離施中諸過失。",
-    "T13n0400_001:0476a13_0": "　止息調寂身、語、心，　　隨行三業無逼惱；　除諸煩惱息燒然，　　利智諸根常寂靜。",
-    "T13n0400_001:0476a15_0": "　雖知菩提無所得，　　不捨眾生住無我；　為度破戒諸眾生，　　修持廣大淨戒行。",
-    "T13n0400_001:0476a17_0": "　覺了諸法剎那性，　　亦不為諸境所壞；　內心寂靜若虛空，　　外觀世間猶如幻。",
-    "T13n0400_001:0476a19_0": "　節節支解於身分，　　亦復不起瞋恚心；　乃至坐樹成菩提，　　堅持忍行佛所說。",
-    "T13n0400_001:0476a21_0": "　能觀諸法如水月，　　如泡、如幻、如陽焰；　了知無壽亦無人，　　及無摩拏嚩迦等。",
-    "T13n0400_001:0476a23_0": "　菩提眾生雖無得，　　為利他故求菩提；　若聞此理怖不生，　　是中能發精進行。",
-    "T13n0400_001:0476a25_0": "　若能於心無所著，　　乃於外境不生厭；　知他眾生心所行，　　於三世中隨順轉。",
-    "T13n0400_001:0476a27_0": "　令諸魔眾不能知，　　心之所行隨所轉；　到於彼岸善住心，　　圓滿禪定神通慧。",
-    "T13n0400_001:0476a29_0": "　我聞諸佛所說法，　　隨所聞已能受持；　設經無邊劫數中，　　佛之辯才不能斷。",
-    "T13n0400_001:0476b02_0": "　復於一切佛法中，　　眾生無墮亦無著；　具智慧藏有力尊，　　三界自在寂默者。",
-    "T13n0400_001:0476b04_0": "　能到所到二俱離，　　是中無去亦無來；　隨諸眾生心所行，　　所向無住亦無動。",
-    "T13n0400_001:0476b06_0": "　雖到彼岸具眾德，　　亦於眾德無取相；　無比釋迦大牛王，　　是故我今伸頂禮。",
-    "T13n0400_001:0476b08_0": "　如日清淨大明曜，　　能蔽螢光、星宿光；　又如劫火映諸明，　　上騰梵世下至地。",
-    "T13n0400_001:0476b10_0": "　復如須彌大山王，　　持地亦持諸山等；　釋迦牛王毫相中，　　最勝光明出三界。",
-    "T13n0400_001:0476b12_0": "　十方一切菩薩眾，　　皆從百佛剎中來；　瞻佛色相及威光，　　一切皆生大歡喜。",
-    "T13n0400_001:0476b14_0": "　隨諸眾生心意願，　　如來各各為開示；　我知如來大威神，　　故從本土來斯剎。",
-    "T13n0400_001:0476b16_0": "　佛以一音演說法，　　隨諸眾生各知解；　乃至眾生差別音，　　如來普為隨宜說。",
-    "T13n0400_001:0476b18_0": "　一切眾生意差別，　　如塵如沙尚可數；　牟尼種種妙音聲，　　量等虛空不可數。",
-    "T13n0400_001:0476b20_0": "　虛空不能度其邊，　　眾生不能窮其數；　乃至生死先際中，　　亦復不能知其限。",
-    "T13n0400_001:0476b22_0": "　虛空邊量眾生數，　　生死先際尚可知；　諸佛戒、定、慧境中，　　畢竟不能知少分。",
-    "T13n0400_001:0476b24_0": "　眾生無量咸歸命，　　牛王法主人中尊；　多劫精修眾德嚴，　　色相邊際無比度。",
-    "T13n0400_001:0476b26_0": "　我佛具大威神力，　　遍知眾生諸信解；　見此希有難思尊，　　頂禮善調諸趣者。」",
-    "T13n0400_001:0476b27_1": "◎佛說海意菩薩所問淨印法門經卷第一"
-}
+[
+    {
+        "source_sentence": "佛說海意菩薩所問淨印法門經",
+        "from": "T13n0400_001:0473c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卷第一",
+        "from": "T13n0400_001:0473c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譯經三藏朝散大夫試鴻臚卿光梵大師",
+        "from": "T13n0400_001:0473c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "賜紫沙門臣惟淨等奉　詔譯如是我聞：",
+        "from": "T13n0400_001:0473c09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一時，世尊住於如來神通境界大寶莊嚴最勝道場大菩薩宮中——而彼道場皆是如來威神建立，積集廣大勝福莊嚴，圓滿廣大福智妙行，現轉一切佛法勝報，顯示如來無邊神變加持之力，善入無礙境界大智，一切見者生大喜悅；",
+        "from": "T13n0400_001:0473c14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入念慧行普遍運行無動妙智，於無邊劫修集無量眾功德聚；",
+        "from": "T13n0400_001:0473c15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而佛世尊，現證諸法平等覺道，轉妙法輪，能善調伏無邊學眾，已於諸法得大自在；",
+        "from": "T13n0400_001:0473c17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善知一切眾生心意及諸根性，已能到於最上彼岸；",
+        "from": "T13n0400_001:0473c19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善斷一切種子習氣，得無發悟佛身輕安。",
+        "from": "T13n0400_001:0473c19_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時與大苾芻之眾六百八十萬人俱，皆住近心，悉斷一切煩惱種習，皆是如來法王之子；",
+        "from": "T13n0400_001:0473c22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能善出生諸無所得甚深法行，身相端嚴威儀圓備，作大福田正智具足。",
+        "from": "T13n0400_001:0473c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復有無量無數不思議無等比不可說不可說諸大菩薩摩訶薩眾，悉獲無所得菩薩智忍，已超菩薩灌頂之位，而能游戲無加行位菩薩神通，得無盡陀羅尼及諸菩薩陀羅尼門；",
+        "from": "T13n0400_001:0473c27_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於諸菩薩首楞嚴王三摩地中而得自在，一切眾生歡喜樂見；",
+        "from": "T13n0400_001:0473c29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已得菩薩諸無礙解，出生菩薩無發悟行，深心安住殊妙莊嚴。",
+        "from": "T13n0400_001:0474a01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其名曰：",
+        "from": "T13n0400_001:0474a01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無盡藏菩薩摩訶薩、無量慧菩薩摩訶薩、無邊慧菩薩摩訶薩、無緣觀菩薩摩訶薩、常精進菩薩摩訶薩、精進慧菩薩摩訶薩、無斷辯才菩薩摩訶薩、無著無畏積菩薩摩訶薩、畢竟義慧菩薩摩訶薩。",
+        "from": "T13n0400_001:0474a06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是等無量無數不思議無等比不可說不可說諸大菩薩摩訶薩眾而共集會。",
+        "from": "T13n0400_001:0474a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊，以菩薩行位，方便出生無障礙門甚深正法，而用莊嚴諸菩薩道，成辦一切佛法力、無畏等真實智行，入一切法最上自在總持印門；",
+        "from": "T13n0400_001:0474a12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入無礙解，決定出生大神通智妙境界門，宣示一切不退轉輪，普攝諸乘住平等理；",
+        "from": "T13n0400_001:0474a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "混入法界無分別性，隨諸眾生根性意樂開示演說。",
+        "from": "T13n0400_001:0474a15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨知真實決定正法，破諸魔境；",
+        "from": "T13n0400_001:0474a15_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以深固法理，止息一切煩惱見等。",
+        "from": "T13n0400_001:0474a16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入無著慧，宣說普遍廣大迴向善方便智。",
+        "from": "T13n0400_001:0474a17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入一切佛平等性智，以無著加持法門如實決定宣說諸法。",
+        "from": "T13n0400_001:0474a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於無分別、非無分別悉入平等，覺了甚深緣生之法，積集無量福智妙行。",
+        "from": "T13n0400_001:0474a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛身、語、心平等莊嚴，隨知一切念慧行等無盡慧門，以四聖諦理顯示聲聞乘法；",
+        "from": "T13n0400_001:0474a22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以覺了身、心、智顯示緣覺乘法；",
+        "from": "T13n0400_001:0474a23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以得一切智灌頂顯示大乘之法。",
+        "from": "T13n0400_001:0474a23_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入一切法自在理中，出生如來無邊功德。",
+        "from": "T13n0400_001:0474a24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故如來開示演說，施設表了，分別解釋，顯明宣暢。",
+        "from": "T13n0400_001:0474a26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊，將說如是廣大甚深決定法時，忽然於此三千大千世界之中大水充滿，猶如大海，下至地界，上至大寶莊嚴最勝道場。",
+        "from": "T13n0400_001:0474a29_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如劫壞水災現時，一切三千大千世界，大水充滿，下至水輪混如一海，今此大水亦復如是。",
+        "from": "T13n0400_001:0474b03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然此三千大千世界，如是大水一切充滿，其中國土城邑聚落及諸人民，悉無所壞亦無障礙，及閻浮提諸四大洲乃至大海須彌山等，欲界諸天一切宮殿，悉無少分損壞障礙。",
+        "from": "T13n0400_001:0474b07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先現如是相已，後復於此大水之中，出現俱胝那庾多百千廣大蓮花。",
+        "from": "T13n0400_001:0474b08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其花高顯，瑠璃為莖，帝青為枝，閻浮檀金而為其葉，吉祥藏寶以為其鬚，馬瑙為臺，真珠交絡；",
+        "from": "T13n0400_001:0474b10_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一花有無數俱胝多百千葉，其葉量廣一俱盧舍。",
+        "from": "T13n0400_001:0474b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是諸蓮花於大寶莊嚴最勝道場中，涌現虛空，高一多羅樹，一切大眾坐蓮花上，於蓮花中隨其色相放大光明，是光普照十方無量阿僧祇佛剎。",
+        "from": "T13n0400_001:0474b15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此諸光明廣照耀時，而此會中一切大眾歎未曾有，合掌恭敬咸作是言：",
+        "from": "T13n0400_001:0474b17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「今現如是希有瑞相，將非世尊說妙法邪？",
+        "from": "T13n0400_001:0474b18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，慈氏菩薩摩訶薩，見是廣大神變事已，即於所坐蓮花臺上，偏袒右肩右膝著地，合掌向佛恭敬頂禮，而白佛言：",
+        "from": "T13n0400_001:0474b21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T13n0400_001:0474b21_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何故今時先現是相？",
+        "from": "T13n0400_001:0474b22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而此三千大千世界之中大水充滿混如一海，其中復現俱胝那庾多百千蓮花高顯。",
+        "from": "T13n0400_001:0474b24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T13n0400_001:0474b24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔所未聞，昔所未見，如是廣大希有神變，願佛為說。",
+        "from": "T13n0400_001:0474b25_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛告慈氏菩薩言：",
+        "from": "T13n0400_001:0474b26_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「慈氏當知！",
+        "from": "T13n0400_001:0474b26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下方去此佛剎，過十佛剎不可說俱胝那庾多百千微塵等數諸佛剎土，有世界名無量功德寶無垢殊妙莊嚴，彼土有佛，號海勝持慧遊戲出高神通如來、應供、正等正覺，今現住彼說法教化。",
+        "from": "T13n0400_001:0474c01_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼有菩薩名曰海意，與出過算數諸大菩薩摩訶薩眾，將同來此娑婆世界，瞻禮恭敬供養於我，又復於我所說法中而有所問；",
+        "from": "T13n0400_001:0474c04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以是因緣，先現瑞相。",
+        "from": "T13n0400_001:0474c05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，尊者舍利子白佛言：",
+        "from": "T13n0400_001:0474c06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T13n0400_001:0474c06_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼海意菩薩去此甚遠，何故世尊說彼菩薩能聞此會佛說法邪？",
+        "from": "T13n0400_001:0474c08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T13n0400_001:0474c08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「舍利子！",
+        "from": "T13n0400_001:0474c08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如汝今時於我前聞所說正法，海意菩薩雖復住於彼世界中，而能聞我所說之法，亦復如是。",
+        "from": "T13n0400_001:0474c10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍利子！",
+        "from": "T13n0400_001:0474c10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如汝今現前觀我及諸大眾，彼海意菩薩能見我身及諸大眾，亦復如是。",
+        "from": "T13n0400_001:0474c12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」舍利子言：",
+        "from": "T13n0400_001:0474c12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「希有世尊！",
+        "from": "T13n0400_001:0474c13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩所有神通智力不可思議，而彼海意菩薩居于極遠剎中，能以無障礙眼見此色相，無障礙耳聞此音聲。",
+        "from": "T13n0400_001:0474c15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T13n0400_001:0474c15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有聞是諸菩薩摩訶薩不可思議功德威神者，其誰不發阿耨多羅三藐三菩提心？",
+        "from": "T13n0400_001:0474c17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」尊者舍利子作是說時，二萬四千天子皆發阿耨多羅三藐三菩提心。",
+        "from": "T13n0400_001:0474c19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時，海意菩薩摩訶薩與彼出過算數諸大菩薩摩訶薩眾，恭敬圍繞，同時瞻仰彼佛世尊海勝持慧遊戲出高神通如來已，即受教勅，承彼如來神足通力，及無加行菩薩已辦神通，於一念間瞬目之頃，於彼世界隱伏身相，即時於此娑婆世界大寶莊嚴最勝道場中，涌現虛空，高一多羅樹，於最高廣蓮花臺上師子座中安詳而坐；",
+        "from": "T13n0400_001:0474c27_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘諸菩薩亦各處于蓮花臺座。",
+        "from": "T13n0400_001:0474c28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下方世界無量無數諸佛剎中，復有無量無數菩薩之眾，隨從海意菩薩而來聽法。",
+        "from": "T13n0400_001:0475a01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時大寶莊嚴最勝道場中所有十方世界普來集會一切菩薩摩訶薩眾，皆悉處于蓮花臺座，周匝充滿，殊妙奇特。",
+        "from": "T13n0400_001:0475a03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼一切諸來大眾，心生歡喜，悉得清淨，歎未曾有，合掌頂禮彼諸菩薩。",
+        "from": "T13n0400_001:0475a05_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時海意菩薩，以彼無量功德寶無垢殊妙莊嚴世界之中諸勝妙花，其花名為無憂適悅愛樂喜見，量廣一俱盧舍，花有無數多百千葉，隨其所應供養如來，令諸菩薩一切見者深心無垢，宿世善根悉得清淨，是諸眾會皆生歡喜悅意愛樂。",
+        "from": "T13n0400_001:0475a10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "花有光明，復有妙香，此諸勝花於世尊前作供養已，復雨廣大殊妙花雨。",
+        "from": "T13n0400_001:0475a12_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其一一花可七人量，遍布充滿大寶莊嚴最勝道場，一切大眾悉得離生喜樂禪悅之味；",
+        "from": "T13n0400_001:0475a14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "空中自然擊種種鼓鼓出微妙可愛之音，一切大眾聞者悉得禪定妙樂。",
+        "from": "T13n0400_001:0475a16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時，海意菩薩摩訶薩，作如是等供養事已，從空而下，頭面著地禮世尊足，右繞七匝合掌恭敬，住立佛前，作是白言：",
+        "from": "T13n0400_001:0475a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T13n0400_001:0475a19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "海勝持慧游戲出高神通如來，問訊世尊釋迦牟尼如來，少病少惱，起居輕利，勢力安不？",
+        "from": "T13n0400_001:0475a21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "得妙樂邪？",
+        "from": "T13n0400_001:0475a22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時彼同來一切菩薩，悉從空下，亦各頭面禮佛足已，右繞七匝，各各還復本座而坐。",
+        "from": "T13n0400_001:0475a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時，此三千界有大梵王，名大悲思惟，居此梵世此四大洲無憂安隱，忽然見是三千大千世界，大水充滿混如一海。",
+        "from": "T13n0400_001:0475a27_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復有俱胝那庾多百千廣大蓮花高顯出現種種勝相，及此道場菩薩充滿。",
+        "from": "T13n0400_001:0475a29_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見是相已即自思惟：",
+        "from": "T13n0400_001:0475a29_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「劫火未然壞相，安有大水充滿？",
+        "from": "T13n0400_001:0475b01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此復何緣，將非如來神變力邪？",
+        "from": "T13n0400_001:0475b02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我今宜往問佛世尊，此希有相，何因何緣？",
+        "from": "T13n0400_001:0475b03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時大悲思惟大梵天王作是念已，即與六萬八千梵眾隱于梵界，恭敬圍繞，來詣大寶莊嚴最勝道場佛世尊前，住虛空中，曲躬合掌頂禮世尊，作是白言：",
+        "from": "T13n0400_001:0475b06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T13n0400_001:0475b06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何故今此三千大千世界大水充滿混如一海，復有俱胝那庾多百千廣大蓮花高顯而出，及諸菩薩大士皆悉處于蓮花座上，而此三千大千世界一切國土城邑聚落諸人民眾，及閻浮提四大洲等欲界天宮，乃至大海須彌諸山，悉無損壞亦無障礙。",
+        "from": "T13n0400_001:0475b12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是等相甚為希有，此何因緣？",
+        "from": "T13n0400_001:0475b13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復何神力？",
+        "from": "T13n0400_001:0475b13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願佛為說。",
+        "from": "T13n0400_001:0475b13_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時佛告大悲思惟梵天言：",
+        "from": "T13n0400_001:0475b14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大梵當知！",
+        "from": "T13n0400_001:0475b14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下方世界有佛剎，名無量功德寶無垢殊妙莊嚴，其佛世尊，號海勝持慧游戲出高神通如來。",
+        "from": "T13n0400_001:0475b16_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼有菩薩名曰海意，與出過算數諸大菩薩摩訶薩眾，而共來此娑婆世界，瞻禮恭敬供養於我；",
+        "from": "T13n0400_001:0475b19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復於此廣大集會正法之中而有所問。",
+        "from": "T13n0400_001:0475b20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是彼菩薩神通之力，於此世界先現瑞相。",
+        "from": "T13n0400_001:0475b21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」梵天白佛言：",
+        "from": "T13n0400_001:0475b21_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T13n0400_001:0475b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大集會中所有正法，今尚說邪？",
+        "from": "T13n0400_001:0475b22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T13n0400_001:0475b22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大梵！",
+        "from": "T13n0400_001:0475b22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸佛境界不可思議，所有如來智慧辯才及威神力，不應限量。",
+        "from": "T13n0400_001:0475b24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝或見於如來默然，勿謂無說。",
+        "from": "T13n0400_001:0475b24_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而我常為十方世界所來菩薩，廣大宣說決定正法。",
+        "from": "T13n0400_001:0475b26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，大悲思惟大梵天王復白佛言：",
+        "from": "T13n0400_001:0475b27_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T13n0400_001:0475b27_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛所說言現神變者海意菩薩，其誰是邪？",
+        "from": "T13n0400_001:0475b28_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T13n0400_001:0475b28_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大梵！",
+        "from": "T13n0400_001:0475b29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今此會中有大蓮花廣十由旬，花中有臺，臺上復有眾寶莊嚴師子之座，座中有一菩薩大士處于其上，身真金色相好端嚴，唯除如來，餘諸菩薩所有身相皆能映攝，有無數千菩薩之眾圍繞頂禮者，汝可見不？",
+        "from": "T13n0400_001:0475c04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」答言：",
+        "from": "T13n0400_001:0475c04_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「已見。",
+        "from": "T13n0400_001:0475c05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T13n0400_001:0475c05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大梵！",
+        "from": "T13n0400_001:0475c05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圓具如是神通相者，即是海意菩薩。",
+        "from": "T13n0400_001:0475c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」是時大悲思惟梵天，乃向海意菩薩恭敬頂禮已，即白佛言：",
+        "from": "T13n0400_001:0475c07_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T13n0400_001:0475c07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生得聞如是海意菩薩名字之者，當知是人得大善利。",
+        "from": "T13n0400_001:0475c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我於今日聞此菩薩大士名字，得見菩薩如是色相，深自欣慶快得善利。",
+        "from": "T13n0400_001:0475c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」梵天復白佛言：",
+        "from": "T13n0400_001:0475c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T13n0400_001:0475c11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此大集會正法當住為久如邪？",
+        "from": "T13n0400_001:0475c11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T13n0400_001:0475c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大梵！",
+        "from": "T13n0400_001:0475c12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今此正法，隨佛壽量久近而住。",
+        "from": "T13n0400_001:0475c12_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛涅槃後，有諸菩薩，於此正法受持讀誦，廣為佗人開示演說。",
+        "from": "T13n0400_001:0475c14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T13n0400_001:0475c14_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大梵！",
+        "from": "T13n0400_001:0475c14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有過去、未來、現在世中諸佛菩提從此中出。",
+        "from": "T13n0400_001:0475c15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，海意菩薩摩訶薩，承佛神力，普為此會一切大眾生歡喜故；",
+        "from": "T13n0400_001:0475c17_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及為大悲思惟大梵天王起信敬故；",
+        "from": "T13n0400_001:0475c18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復為莊嚴此正法故；",
+        "from": "T13n0400_001:0475c18_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦為顯示己之智慧辯才力故；",
+        "from": "T13n0400_001:0475c19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即時同彼高廣蓮花及師子座，俱涌虛空高七多羅樹，乃於空中說伽陀曰：",
+        "from": "T13n0400_001:0475c21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「下方過於塵數剎，　　有佛剎名功德嚴；",
+        "from": "T13n0400_001:0475c22_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼佛化主現居中，　　其名海勝神通慧。",
+        "from": "T13n0400_001:0475c23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "剎中眾德皆圓具，　　菩薩依止無所畏；",
+        "from": "T13n0400_001:0475c24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其佛如來說法門，　　我等聞已能持受。",
+        "from": "T13n0400_001:0475c25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我等故來茲剎土，　　瞻仰敬禮十力尊；",
+        "from": "T13n0400_001:0475c26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其諸菩薩此所來，　　佛大牛王各伸問。",
+        "from": "T13n0400_001:0475c27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我今禮此法王已，　　亦禮無比佛大智；",
+        "from": "T13n0400_001:0475c28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所應供養隨所施，　　廣伸供養佛正覺。",
+        "from": "T13n0400_001:0475c29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能觀佛色、無色，　　離受離行亦離識；",
+        "from": "T13n0400_001:0476a01_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三種領納此亦無，　　是中潔白常清淨。",
+        "from": "T13n0400_001:0476a02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若無色相及種好，　　是為正觀佛世尊；",
+        "from": "T13n0400_001:0476a03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慧眼清淨照法身，　　乃見無垢真實義。",
+        "from": "T13n0400_001:0476a04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若法無取亦無捨，　　二邊無我、無我所；",
+        "from": "T13n0400_001:0476a05_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安住內入性寂然，　　止息心外諸所取。",
+        "from": "T13n0400_001:0476a06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有無分別、離分別，　　是心寂默如虛空；",
+        "from": "T13n0400_001:0476a07_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即能供養諸世尊，　　於正法幢善建立。",
+        "from": "T13n0400_001:0476a08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若觀諸法猶如幻，　　此中施、受二皆空；",
+        "from": "T13n0400_001:0476a09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖知造作本所無，　　亦不捨離於諸法。",
+        "from": "T13n0400_001:0476a10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而不決定求菩提，　　又不決定住生、死；",
+        "from": "T13n0400_001:0476a11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦無施者無慳心，　　遠離施中諸過失。",
+        "from": "T13n0400_001:0476a12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "止息調寂身、語、心，　　隨行三業無逼惱；",
+        "from": "T13n0400_001:0476a13_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除諸煩惱息燒然，　　利智諸根常寂靜。",
+        "from": "T13n0400_001:0476a14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖知菩提無所得，　　不捨眾生住無我；",
+        "from": "T13n0400_001:0476a15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為度破戒諸眾生，　　修持廣大淨戒行。",
+        "from": "T13n0400_001:0476a16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "覺了諸法剎那性，　　亦不為諸境所壞；",
+        "from": "T13n0400_001:0476a17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "內心寂靜若虛空，　　外觀世間猶如幻。",
+        "from": "T13n0400_001:0476a18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "節節支解於身分，　　亦復不起瞋恚心；",
+        "from": "T13n0400_001:0476a19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至坐樹成菩提，　　堅持忍行佛所說。",
+        "from": "T13n0400_001:0476a20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能觀諸法如水月，　　如泡、如幻、如陽焰；",
+        "from": "T13n0400_001:0476a21_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了知無壽亦無人，　　及無摩拏嚩迦等。",
+        "from": "T13n0400_001:0476a22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩提眾生雖無得，　　為利他故求菩提；",
+        "from": "T13n0400_001:0476a23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若聞此理怖不生，　　是中能發精進行。",
+        "from": "T13n0400_001:0476a24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能於心無所著，　　乃於外境不生厭；",
+        "from": "T13n0400_001:0476a25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知他眾生心所行，　　於三世中隨順轉。",
+        "from": "T13n0400_001:0476a26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令諸魔眾不能知，　　心之所行隨所轉；",
+        "from": "T13n0400_001:0476a27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "到於彼岸善住心，　　圓滿禪定神通慧。",
+        "from": "T13n0400_001:0476a28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我聞諸佛所說法，　　隨所聞已能受持；",
+        "from": "T13n0400_001:0476a29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設經無邊劫數中，　　佛之辯才不能斷。",
+        "from": "T13n0400_001:0476b01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復於一切佛法中，　　眾生無墮亦無著；",
+        "from": "T13n0400_001:0476b02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具智慧藏有力尊，　　三界自在寂默者。",
+        "from": "T13n0400_001:0476b03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能到所到二俱離，　　是中無去亦無來；",
+        "from": "T13n0400_001:0476b04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨諸眾生心所行，　　所向無住亦無動。",
+        "from": "T13n0400_001:0476b05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖到彼岸具眾德，　　亦於眾德無取相；",
+        "from": "T13n0400_001:0476b06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無比釋迦大牛王，　　是故我今伸頂禮。",
+        "from": "T13n0400_001:0476b07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如日清淨大明曜，　　能蔽螢光、星宿光；",
+        "from": "T13n0400_001:0476b08_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如劫火映諸明，　　上騰梵世下至地。",
+        "from": "T13n0400_001:0476b09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復如須彌大山王，　　持地亦持諸山等；",
+        "from": "T13n0400_001:0476b10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋迦牛王毫相中，　　最勝光明出三界。",
+        "from": "T13n0400_001:0476b11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十方一切菩薩眾，　　皆從百佛剎中來；",
+        "from": "T13n0400_001:0476b12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瞻佛色相及威光，　　一切皆生大歡喜。",
+        "from": "T13n0400_001:0476b13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨諸眾生心意願，　　如來各各為開示；",
+        "from": "T13n0400_001:0476b14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我知如來大威神，　　故從本土來斯剎。",
+        "from": "T13n0400_001:0476b15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛以一音演說法，　　隨諸眾生各知解；",
+        "from": "T13n0400_001:0476b16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至眾生差別音，　　如來普為隨宜說。",
+        "from": "T13n0400_001:0476b17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切眾生意差別，　　如塵如沙尚可數；",
+        "from": "T13n0400_001:0476b18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牟尼種種妙音聲，　　量等虛空不可數。",
+        "from": "T13n0400_001:0476b19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "虛空不能度其邊，　　眾生不能窮其數；",
+        "from": "T13n0400_001:0476b20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至生死先際中，　　亦復不能知其限。",
+        "from": "T13n0400_001:0476b21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "虛空邊量眾生數，　　生死先際尚可知；",
+        "from": "T13n0400_001:0476b22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸佛戒、定、慧境中，　　畢竟不能知少分。",
+        "from": "T13n0400_001:0476b23_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾生無量咸歸命，　　牛王法主人中尊；",
+        "from": "T13n0400_001:0476b24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多劫精修眾德嚴，　　色相邊際無比度。",
+        "from": "T13n0400_001:0476b25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我佛具大威神力，　　遍知眾生諸信解；",
+        "from": "T13n0400_001:0476b26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見此希有難思尊，　　頂禮善調諸趣者。",
+        "from": "T13n0400_001:0476b27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛說海意菩薩所問淨印法門經卷第一",
+        "from": "T13n0400_001:0476b28_100",
+        "context_with_next_sentence": false
+    }
+]

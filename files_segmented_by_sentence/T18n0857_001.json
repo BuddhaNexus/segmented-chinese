@@ -1,11 +1,367 @@
-{
-    "T18n0857_001:0176a10_0": "大日經略攝念誦隨行法(亦名五支略念誦要行法一卷)開府儀同三司特進試鴻臚卿肅國公食邑三千戶賜紫贈司空諡大鑒正號大廣智大興善寺三藏沙門不空奉　詔譯　稽首無礙智　　密教意生子　依彼蘇多羅　　攝此隨行法　真言行菩薩　　先住平等誓　語密身密俱　　後作相應行三昧耶真言曰。",
-    "T18n0857_001:0176a22_0": "曩莫三曼多勃馱難唵阿三謎底哩(二合)三謎(三)三摩曳娑嚩(二合引)訶(引)　契謂齊輪合　　並建於二空　五處頂肩心　　最後加咽位　次以不動聖　　辟障及除垢　而能淨眾事　　結護隨相應不動尊真言曰。",
-    "T18n0857_001:0176a29_0": "曩莫三曼多嚩日囉(二合)赧(引)(一)戰拏摩賀(引)嚧曬拏(二)娑頗(二合)吒野(三)吽怛羅(二合)吒(半音呼四)憾(引)[牟*含](五)　定空加地水　　風火竪於心　慧劍亦如是　　出鞘能成辦　次說如來鉤　　用請於本尊　一切眾聖主　　依本誓而來如來鉤真言曰。",
-    "T18n0857_001:0176b08_0": "曩莫三曼多勃馱南阿(引)薩嚩怛囉(二合)阿(引)鉢囉(二合)底賀多怛他薩儻(引)矩奢(四)冒地拶哩耶(二合)波唎布囉(上聲)迦(半音)娑嚩(二合引)訶(引)　止觀內相叉　　堅合智風竪　纔屈於初分　　餘輪狀若環　聖天悲願力　　隨請咸來降　奉現三昧耶　　明契如前說　既呈本誓已　　發喜而無謬　次當隨力分　　供養表誠心　閼伽香食燈　　下至一花水　或但心運想　　殊勝最難量　當以普通印　　密語共加之　有表無表俱　　一時皆成就普通真言曰。",
-    "T18n0857_001:0176b23_0": "曩莫三曼多勃馱南(一)薩嚩他欠(平聲)嗢娜孽(二合)諦薩頗(二合)囉係呬[牟*含]伽伽那劍(平聲呼)娑嚩(二合引)訶　禪智互相叉　　齊輪頂上合　運心普周遍　　所念皆現前　既施供養已　　修常作持誦　先擐金剛鎧　　結護事相應金剛甲冑真言。",
-    "T18n0857_001:0176c03_0-0": "曩莫三曼多嚩囉(二合)赧嚩日囉(二合)迦嚩者吽　先作虛心合　　風輪糺持火　大空依火本　　遍觸後居心　次結方隅界　　如前不動尊　左轉成辟除　　右旋及上下　備觸身支分　　結護悉堅牢　真言及本契　　如前已分別　既為嚴備訖　　當示根本契　還加五位處　　七轉或再三　散印頂上開　　半跏正身意　或作相應坐　　隨方如教說　",
-    "T18n0857_001:0176c03_0-1": "正面住身前　　覩一圓明像　清淨無瑕玷　　猶如滿月輪　中有本尊形　　如色超三界　妙縠嚴身服　　寶冠紺髮垂　寂然三摩地　　輝焰過眾電　猶如淨鏡內　　幽邃現真容　喜怒顯顏色　　操持與願等　正受相應身　　明了心無亂　無相淨法體　　應願濟群生　專注而念持　　限數既終畢　懈極後方已　　復結普通印　虔誠啟願等　　慇重禮聖尊　",
-    "T18n0857_001:0176c03_0-2": "左轉無動力　　解前所結護　還呈本尊契　　頂上散開之　心送於聖天　　五輪投地禮　然起隨眾善　　後會復如初　一時與二三　　或四皆如此　餘分旋繞塔　　浴像讚方廣　塗飾曼荼羅　　布花讚佛德　或復無雜念　　專注於等引　以此淨三業　　悉地速現前　聖力所加持　　行願相應故　諸有樂修習　　隨師而受學　持明傳本教　　無越三昧耶　",
-    "T18n0857_001:0176c03_0-3": "勤策無間斷　　離蓋及熏醉　順行於學處　　悉地隨力成　我依大日教　　略示瑜伽行　修證殊勝福　　普潤諸有情大日經略攝念誦隨行法一卷"
-}
+[
+    {
+        "source_sentence": "大日經略攝念誦隨行法亦名五支略念誦要行法",
+        "from": "T18n0857_001:0176a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一卷",
+        "from": "T18n0857_001:0176a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開府儀同三司特進試鴻臚卿肅",
+        "from": "T18n0857_001:0176a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "稽首無礙智，　　密教意生子，",
+        "from": "T18n0857_001:0176a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依彼蘇多羅，　　攝此隨行法。",
+        "from": "T18n0857_001:0176a18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真言行菩薩，　　先住平等誓，",
+        "from": "T18n0857_001:0176a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "語密身密俱，　　後作相應行。",
+        "from": "T18n0857_001:0176a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三昧耶真言曰：",
+        "from": "T18n0857_001:0176a21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "契謂齊輪合，　　並建於二空，",
+        "from": "T18n0857_001:0176a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五處頂肩心，　　最後加咽位。",
+        "from": "T18n0857_001:0176a25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次以不動聖，　　辟障及除垢，",
+        "from": "T18n0857_001:0176a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而能淨眾事，　　結護隨相應。",
+        "from": "T18n0857_001:0176a27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不動尊真言曰：",
+        "from": "T18n0857_001:0176a28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "定空加地水，　　風火竪於心，",
+        "from": "T18n0857_001:0176b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慧劍亦如是，　　出鞘能成辦。",
+        "from": "T18n0857_001:0176b04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次說如來鉤，　　用請於本尊，",
+        "from": "T18n0857_001:0176b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切眾聖主，　　依本誓而來。",
+        "from": "T18n0857_001:0176b06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來鉤真言曰：",
+        "from": "T18n0857_001:0176b07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "止觀內相叉，　　堅合智風竪，",
+        "from": "T18n0857_001:0176b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "纔屈於初分，　　餘輪狀若環。",
+        "from": "T18n0857_001:0176b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖天悲願力，　　隨請咸來降，",
+        "from": "T18n0857_001:0176b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "奉現三昧耶，　　明契如前說。",
+        "from": "T18n0857_001:0176b15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既呈本誓已，　　發喜而無謬，",
+        "from": "T18n0857_001:0176b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次當隨力分，　　供養表誠心，",
+        "from": "T18n0857_001:0176b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "閼伽香食燈，　　下至一花水，",
+        "from": "T18n0857_001:0176b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或但心運想，　　殊勝最難量。",
+        "from": "T18n0857_001:0176b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當以普通印，　　密語共加之，",
+        "from": "T18n0857_001:0176b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有表無表俱，　　一時皆成就。",
+        "from": "T18n0857_001:0176b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "普通真言曰：",
+        "from": "T18n0857_001:0176b22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪智互相叉，　　齊輪頂上合，",
+        "from": "T18n0857_001:0176b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "運心普周遍，　　所念皆現前。",
+        "from": "T18n0857_001:0176b27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既施供養已，　　修常作持誦，",
+        "from": "T18n0857_001:0176b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先擐金剛鎧，　　結護事相應。",
+        "from": "T18n0857_001:0176c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛甲冑真言：",
+        "from": "T18n0857_001:0176c02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先作虛心合，　　風輪糺持火，",
+        "from": "T18n0857_001:0176c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大空依火本，　　遍觸後居心。",
+        "from": "T18n0857_001:0176c06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次結方隅界，　　如前不動尊，",
+        "from": "T18n0857_001:0176c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左轉成辟除，　　右旋及上下，",
+        "from": "T18n0857_001:0176c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "備觸身支分，　　結護悉堅牢，",
+        "from": "T18n0857_001:0176c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真言及本契，　　如前已分別。",
+        "from": "T18n0857_001:0176c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既為嚴備訖，　　當示根本契，",
+        "from": "T18n0857_001:0176c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "還加五位處，　　七轉或再三，",
+        "from": "T18n0857_001:0176c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "散印頂上開。",
+        "from": "T18n0857_001:0176c13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　半跏正身意，或作相應坐，　　隨方如教說。",
+        "from": "T18n0857_001:0176c14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正面住身前，　　覩一圓明像，",
+        "from": "T18n0857_001:0177a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清淨無瑕玷，　　猶如滿月輪，",
+        "from": "T18n0857_001:0177a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中有本尊形，　　如色超三界，",
+        "from": "T18n0857_001:0177a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙縠嚴身服，　　寶冠紺髮垂，",
+        "from": "T18n0857_001:0177a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寂然三摩地，　　輝焰過眾電，",
+        "from": "T18n0857_001:0177a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶如淨鏡內，　　幽邃現真容，",
+        "from": "T18n0857_001:0177a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "喜怒顯顏色，　　操持與願等，",
+        "from": "T18n0857_001:0177a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正受相應身，　　明了心無亂，",
+        "from": "T18n0857_001:0177a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無相淨法體，　　應願濟群生。",
+        "from": "T18n0857_001:0177a09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "專注而念持，　　限數既終畢，",
+        "from": "T18n0857_001:0177a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懈極後方已。",
+        "from": "T18n0857_001:0177a11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "虔誠啟願等，　　慇重禮聖尊，",
+        "from": "T18n0857_001:0177a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "左轉無動力，　　解前所結護，",
+        "from": "T18n0857_001:0177a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "還呈本尊契，　　頂上散開之。",
+        "from": "T18n0857_001:0177a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心送於聖天，　　五輪投地禮，",
+        "from": "T18n0857_001:0177a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然起隨眾善，　　後會復如初，",
+        "from": "T18n0857_001:0177a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一時與二三，　　或四皆如此。",
+        "from": "T18n0857_001:0177a17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘分旋繞塔，　　浴像讚方廣，",
+        "from": "T18n0857_001:0177a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "塗飾曼荼羅，　　布花讚佛德。",
+        "from": "T18n0857_001:0177a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或復無雜念，　　專注於等引，",
+        "from": "T18n0857_001:0177a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以此淨三業，　　悉地速現前，",
+        "from": "T18n0857_001:0177a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖力所加持，　　行願相應故。",
+        "from": "T18n0857_001:0177a22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸有樂修習，　　隨師而受學，",
+        "from": "T18n0857_001:0177a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "持明傳本教，　　無越三昧耶，",
+        "from": "T18n0857_001:0177a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勤策無間斷，　　離蓋及熏醉，",
+        "from": "T18n0857_001:0177a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "順行於學處，　　悉地隨力成。",
+        "from": "T18n0857_001:0177a26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我依大日教，　　略示瑜伽行，",
+        "from": "T18n0857_001:0177a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修證殊勝福，　　普潤諸有情。",
+        "from": "T18n0857_001:0177a28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大日經略攝念誦隨行法一卷",
+        "from": "T18n0857_001:0177a29_100",
+        "context_with_next_sentence": false
+    }
+]

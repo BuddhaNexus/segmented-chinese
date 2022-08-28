@@ -1,28 +1,132 @@
-{
-    "T31n1623_001:0887c25_0": "觀總相論頌一卷",
-    "T31n1623_001:0887c27_0": "陳那菩薩造",
-    "T31n1623_001:0887c28_0": "三藏法師義淨奉　制譯",
-    "T31n1623_001:0887c29_0": "　諸有樂略者　　彼已顯方隅",
-    "T31n1623_001:0888a01_0": "　若有愛煩文　　為彼說總相",
-    "T31n1623_001:0888a02_0": "　由聲及義智　　俗言為本者",
-    "T31n1623_001:0888a03_0": "　是觀總相言　　此頌聲及義",
-    "T31n1623_001:0888a04_0": "　謂聲并義二　　此中二種智",
-    "T31n1623_001:0888a05_0": "　名聲兼義智　　彼為根本者",
-    "T31n1623_001:0888a06_0": "　謂即於因義　　由諸世間說",
-    "T31n1623_001:0888a07_0": "　以聲義智本　　是故勒為頌",
-    "T31n1623_001:0888a08_0": "　聲義及智義　　故略造斯論",
-    "T31n1623_001:0888a09_0": "　問名義連屬　　是俗說為本",
-    "T31n1623_001:0888a10_0": "　何以故今云　　但唯辦聲義",
-    "T31n1623_001:0888a11_0": "　答曰不如此　　縱有連屬聲",
-    "T31n1623_001:0888a12_0": "　唯名與義二　　諸有許共相",
-    "T31n1623_001:0888a13_0": "　所詮及能詮　　此中理印持",
-    "T31n1623_001:0888a14_0": "　咸攝入於此　　謂不相離性",
-    "T31n1623_001:0888a15_0": "　方許相連屬　　故今不別說",
-    "T31n1623_001:0888a16_0": "　由能詮名等　　唯局連屬門",
-    "T31n1623_001:0888a17_0": "　了彼所詮義　　故以總相性",
-    "T31n1623_001:0888a18_0": "　方得解了者　　後當以廣說",
-    "T31n1623_001:0888a19_0": "　故唯聲義智　　連屬道理成",
-    "T31n1623_001:0888a20_0": "　有餘復意樂　　此中名義二",
-    "T31n1623_001:0888a21_0": "　有三種差別　　謂聲并義二",
-    "T31n1623_001:0888a22_0": "觀總相論頌一卷"
-}
+[
+    {
+        "source_sentence": "觀總相論頌一卷",
+        "from": "T31n1623_001:0887c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陳那菩薩造",
+        "from": "T31n1623_001:0887c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三藏法師義淨奉　制譯",
+        "from": "T31n1623_001:0887c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸有樂略者，　　彼已顯方隅；",
+        "from": "T31n1623_001:0887c29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有愛煩文，　　為彼說總相，",
+        "from": "T31n1623_001:0888a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由聲及義智，　　俗言為本者，",
+        "from": "T31n1623_001:0888a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是觀總相言。",
+        "from": "T31n1623_001:0888a03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂聲并義二，　　此中二種智，",
+        "from": "T31n1623_001:0888a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名聲兼義智，　　彼為根本者。",
+        "from": "T31n1623_001:0888a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂即於因義，　　由諸世間說，",
+        "from": "T31n1623_001:0888a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以聲義智本，　　是故勒為頌，",
+        "from": "T31n1623_001:0888a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聲義及智義，　　故略造斯論。",
+        "from": "T31n1623_001:0888a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問名義連屬，　　是俗說為本，",
+        "from": "T31n1623_001:0888a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故今云，　　但唯辦聲義？",
+        "from": "T31n1623_001:0888a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答曰不如此，　　縱有連屬聲，",
+        "from": "T31n1623_001:0888a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯名與義二。",
+        "from": "T31n1623_001:0888a12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所詮及能詮，　　此中理印持，",
+        "from": "T31n1623_001:0888a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "咸攝入於此。",
+        "from": "T31n1623_001:0888a14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　謂不相離性，方許相連屬，　　故今不別說。",
+        "from": "T31n1623_001:0888a15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由能詮名等，　　唯局連屬門，",
+        "from": "T31n1623_001:0888a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了彼所詮義。",
+        "from": "T31n1623_001:0888a17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　故以總相性，方得解了者，　　後當以廣說。",
+        "from": "T31n1623_001:0888a18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故唯聲義智，　　連屬道理成。",
+        "from": "T31n1623_001:0888a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有餘復意樂，　　此中名義二，",
+        "from": "T31n1623_001:0888a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有三種差別，　　謂聲并義二。",
+        "from": "T31n1623_001:0888a21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀總相論頌一卷",
+        "from": "T31n1623_001:0888a22_100",
+        "context_with_next_sentence": false
+    }
+]

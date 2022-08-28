@@ -1,26 +1,117 @@
-{
-    "T21n1369a_001:0885c11_0": "百千印陀羅尼經一卷",
-    "T21n1369a_001:0885c13_0": "大周三藏實叉難陀奉　制譯",
-    "T21n1369a_001:0885c14_0": "如是我聞。",
-    "T21n1369a_001:0885c14_1": "一時佛在王舍城耆闍崛山。",
-    "T21n1369a_001:0885c14_2": "與大比丘眾及大菩薩眾俱。",
-    "T21n1369a_001:0885c15_3": "爾時世尊告諸比丘。",
-    "T21n1369a_001:0885c16_0": "有陀羅尼名百千印。",
-    "T21n1369a_001:0885c16_1": "汝等應當受持。",
-    "T21n1369a_001:0885c16_2": "所謂歸命面貌廣大頂出真金光明幢如來。",
-    "T21n1369a_001:0885c17_3": "歸命釋迦牟尼如來應正等覺。",
-    "T21n1369a_001:0885c18_4": "即說根本陀羅尼曰。",
-    "T21n1369a_001:0885c19_0": "怛姪他唵(一)部地部地部地部地(二)薩婆怛他揭多衢折囉(三)馱囉馱囉(四)訶囉訶囉(五)跋訶囉跋訶囉(六)摩訶菩提質多(七)炷魯炷魯(八)設多囉濕彌珊招地羝(九)薩婆怛他揭多遏地使咃那阿毘色羝(十)衢儜衢那跋羝(十一)部陀衢那阿婆婆(上聲)西(十二)弭禮弭禮(十三)伽伽(上聲)那怛犁薩婆怛他揭多阿地史恥羝納婆娑怛犁(十四)閃麼閃麼跋閃麼跋閃麼(十五)薩婆播波跋閃麼寧(十六)薩婆播波毘戍燒達寧(十七)虎盧虎盧(十八)菩提末伽三鉢囉瑟恥羝(十九)薩婆怛他揭多鉢囉羝瑟恥多戍遞娑婆訶此是根本陀羅尼。",
-    "T21n1369a_001:0886a02_0": "唵(一)薩婆怛他揭多毘婆　枳羝(二)社耶社耶娑婆訶此是陀羅尼心呪。",
-    "T21n1369a_001:0886a05_0": "唵(一)虎嚧虎嚧社耶目佉娑婆訶此是隨心呪。",
-    "T21n1369a_001:0886a07_0": "若有比丘比丘尼優婆塞優婆夷。",
-    "T21n1369a_001:0886a07_1": "及餘淨信善男子善女人等。",
-    "T21n1369a_001:0886a08_2": "能造一塔書寫此百千印陀羅尼置其中者。",
-    "T21n1369a_001:0886a09_3": "造此一塔所得功德。",
-    "T21n1369a_001:0886a09_4": "如造百千塔功德無異。",
-    "T21n1369a_001:0886a10_5": "佛說此經已。",
-    "T21n1369a_001:0886a10_6": "彼諸比丘及菩薩眾。",
-    "T21n1369a_001:0886a11_7": "天人阿修羅等。",
-    "T21n1369a_001:0886a11_8": "聞佛所說皆大歡喜信受奉行。",
-    "T21n1369a_001:0886a13_0": "百千印陀羅尼經"
-}
+[
+    {
+        "source_sentence": "百千印陀羅尼經一卷",
+        "from": "T21n1369a_001:0885c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大周三藏實叉難陀奉　制譯",
+        "from": "T21n1369a_001:0885c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞。一時佛在王舍城耆闍崛山。與大",
+        "from": "T21n1369a_001:0885c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘眾及大菩薩眾俱。",
+        "from": "T21n1369a_001:0885c15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊告諸比丘。",
+        "from": "T21n1369a_001:0885c15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有陀羅尼名百千印。",
+        "from": "T21n1369a_001:0885c16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝等應當受持。",
+        "from": "T21n1369a_001:0885c16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂歸命面貌廣大頂出真金光明幢如來。",
+        "from": "T21n1369a_001:0885c17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸命釋迦牟尼如來應正等覺。",
+        "from": "T21n1369a_001:0885c18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即說根本陀羅尼曰。",
+        "from": "T21n1369a_001:0885c18_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "怛姪他唵一部地部地部地部地二薩婆怛他揭多衢折囉三馱囉馱囉四訶囉訶囉五跋訶囉跋訶囉六摩訶菩提質多七炷魯炷魯八設多囉濕彌珊招地羝九薩婆怛他揭多遏地使咃那阿毘色羝十衢儜衢那跋羝十一部陀衢那阿婆婆上聲西十二弭禮弭禮十三伽伽上聲那怛犁薩婆怛他揭多阿地史恥羝納婆娑怛犁十四閃麼閃麼跋閃麼跋閃麼十五薩婆播波跋閃麼寧十六薩婆播波毘戍燒達寧十七虎盧虎盧十八菩提末伽三鉢囉瑟恥羝十九薩婆怛他揭多鉢囉羝瑟恥多戍遞娑婆訶此是根本陀羅尼。",
+        "from": "T21n1369a_001:0886a01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唵一薩婆怛他揭多毘婆　枳羝二社耶社耶娑婆訶此是陀羅尼心呪。",
+        "from": "T21n1369a_001:0886a04_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唵一虎嚧虎嚧社耶目佉娑婆訶此是隨心呪。",
+        "from": "T21n1369a_001:0886a06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有比丘比丘尼優婆塞優婆夷。",
+        "from": "T21n1369a_001:0886a07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及餘淨信善男子善女人等。",
+        "from": "T21n1369a_001:0886a08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能造一塔書寫此百千印陀羅尼置其中者。",
+        "from": "T21n1369a_001:0886a09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "造此一塔所得功德。",
+        "from": "T21n1369a_001:0886a09_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如造百千塔功德無異。",
+        "from": "T21n1369a_001:0886a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說此經已。",
+        "from": "T21n1369a_001:0886a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼諸比丘及菩薩眾。",
+        "from": "T21n1369a_001:0886a11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天人阿修羅等。",
+        "from": "T21n1369a_001:0886a11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞佛所說皆大歡喜信受奉行。",
+        "from": "T21n1369a_001:0886a12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "百千印陀羅尼經",
+        "from": "T21n1369a_001:0886a13_100",
+        "context_with_next_sentence": false
+    }
+]

@@ -1,84 +1,527 @@
-{
-    "T02n0149_001:0874b04_0": "佛說阿難同學經(出增一阿含經)",
-    "T02n0149_001:0874b06_0": "後漢安息國三藏安世高譯",
-    "T02n0149_001:0874b07_0": "聞如是：一時，婆伽婆在舍衛城祇樹給孤獨園。",
-    "T02n0149_001:0874b08_1": "爾時，舍衛城有比丘名掘多，是尊者阿難少小同學，甚愛敬念親昵，未曾恚怒，然不樂修梵行，欲得捨戒還為白衣。",
-    "T02n0149_001:0874b10_2": "是時阿難，至世尊所，到已頭面禮足，在一面立。",
-    "T02n0149_001:0874b11_3": "時阿難白世尊言：「於此舍衛城，有比丘名曰掘多，是我少小同學，不堪任修梵行，欲捨戒還為白衣。",
-    "T02n0149_001:0874b13_4": "願世尊，與掘多比丘說法，使於此現法中清淨修梵行。」",
-    "T02n0149_001:0874b15_5": "時世尊告阿難：「阿難！",
-    "T02n0149_001:0874b15_6": "汝自往詣彼掘多比丘所。」",
-    "T02n0149_001:0874b16_7": "對曰：「如是。",
-    "T02n0149_001:0874b16_8": "世尊！」",
-    "T02n0149_001:0874b16_9": "阿難從佛受教，便至掘多比丘所：「世尊呼。」",
-    "T02n0149_001:0874b17_10": "對曰：「如是。」",
-    "T02n0149_001:0874b17_11": "時，掘多比丘從阿難教，至世尊所，到已頭面禮足，在一面坐。",
-    "T02n0149_001:0874b19_12": "時，世尊告掘多比丘言：「云何比丘，汝審不樂修梵行，欲捨禁戒還為白衣耶？」",
-    "T02n0149_001:0874b20_13": "比丘報言：「審然世尊！",
-    "T02n0149_001:0874b21_14": "所以然者？",
-    "T02n0149_001:0874b21_15": "身熾盛意亦熾盛，不堪任清淨修梵行。」",
-    "T02n0149_001:0874b22_16": "世尊告曰：「比丘！",
-    "T02n0149_001:0874b22_17": "女人有五穢行。",
-    "T02n0149_001:0874b23_18": "云何為五？",
-    "T02n0149_001:0874b23_19": "比丘！",
-    "T02n0149_001:0874b23_20": "女人臭穢，言語麁獷，無反復心，猶如蚖虵，常懷毒垢，此女人，增益魔眾，難得解脫，亦如鈎鎖。",
-    "T02n0149_001:0874b25_21": "女人不可親近，猶如雜毒不可食。",
-    "T02n0149_001:0874b26_22": "女人不可消，亦如金剛壞敗人身。",
-    "T02n0149_001:0874b27_23": "比丘！",
-    "T02n0149_001:0874b27_24": "亦如火炎，猶彼阿鼻泥黎。",
-    "T02n0149_001:0874b27_25": "比丘！",
-    "T02n0149_001:0874b28_26": "女人不可觀察，猶彼臭糞。",
-    "T02n0149_001:0874b28_27": "比丘！",
-    "T02n0149_001:0874b28_28": "女人不可聽聞，猶如死嚮。",
-    "T02n0149_001:0874b29_29": "比丘！",
-    "T02n0149_001:0874b29_30": "女人如牢獄，猶如鞞摩質多牢獄(阿須繫輪)。",
-    "T02n0149_001:0874c01_31": "比丘！",
-    "T02n0149_001:0874c01_32": "女人是怨家，亦如蚖虵，比丘！",
-    "T02n0149_001:0874c02_33": "當遠離，猶惡知識。",
-    "T02n0149_001:0874c02_34": "比丘！",
-    "T02n0149_001:0874c02_35": "女人為恐怖，猶賊村落。",
-    "T02n0149_001:0874c03_36": "比丘！",
-    "T02n0149_001:0874c03_37": "人身難得，猶優曇鉢花。",
-    "T02n0149_001:0874c04_38": "比丘！",
-    "T02n0149_001:0874c04_39": "人身甚難得，猶彼板一孔推著水中，數萬歲乃值其孔。",
-    "T02n0149_001:0874c05_40": "比丘！",
-    "T02n0149_001:0874c05_41": "時亦難遇，除其八時。",
-    "T02n0149_001:0874c06_0": "汝比丘！",
-    "T02n0149_001:0874c06_1": "已得人身，皆是本行所造。",
-    "T02n0149_001:0874c06_2": "比丘！",
-    "T02n0149_001:0874c06_3": "佛世尊出世甚難遇，猶如石女無子。",
-    "T02n0149_001:0874c07_4": "比丘！",
-    "T02n0149_001:0874c07_5": "如來出世甚難遇，亦如優曇鉢花。",
-    "T02n0149_001:0874c08_6": "比丘！",
-    "T02n0149_001:0874c08_7": "已得人身，已得受具足戒，亦得入眾，猶彼蒙尊國王，亦為人說法，休息止觀至涅槃界，至彼處，如來善說此法。",
-    "T02n0149_001:0874c11_8": "汝比丘！",
-    "T02n0149_001:0874c11_9": "淨修梵行，當盡苦原。」",
-    "T02n0149_001:0874c11_10": "時，彼比丘從佛受是教誡，即從坐上，無有塵垢，得法眼淨。",
-    "T02n0149_001:0874c13_11": "時，彼比丘即從坐起，頭面禮世尊足，便退而去。",
-    "T02n0149_001:0874c14_12": "爾時，彼比丘聞世尊說是教誡，在一閑靜處，而自娛樂已。",
-    "T02n0149_001:0874c15_13": "在閑靜處，而自娛樂，所以族姓子，剃除鬚髮，著袈裟衣，於如來所，修無上梵行，盡生死原，梵行已立，所作已辦，更不復受母胎。",
-    "T02n0149_001:0874c18_14": "是時彼比丘，即成阿羅漢。",
-    "T02n0149_001:0874c19_15": "時，尊者掘多至世尊所，到已頭面禮足，在一面坐。",
-    "T02n0149_001:0874c20_16": "時，尊者掘多白世尊言：「世尊所教誡，今已還覺，願世尊聽般涅槃。」",
-    "T02n0149_001:0874c21_17": "時世尊默然不對。",
-    "T02n0149_001:0874c22_18": "尊者掘多比丘，再三白世尊言：「世尊所教，今已還覺，願世尊聽般涅槃。」",
-    "T02n0149_001:0874c23_19": "時，世尊告曰：「比丘！",
-    "T02n0149_001:0874c24_20": "今正是時。」",
-    "T02n0149_001:0874c24_21": "彼比丘，即從坐起，頭面禮足，繞世尊三匝，便退而去，還詣己房。",
-    "T02n0149_001:0874c25_22": "到已除去坐具，於露地布坐具，便昇虛空，現若干變化，或化一身為若干身，或化若干身為一身；或為石鐵，或為金剛，或為牆壁城郭，或為高山石壁，皆過無礙，出沒於地，譬如流水而無罣礙；結加趺坐，滿虛空中，譬如大火炎，亦如飛鳥，猶如此日月，有大威神，有大力勢，以手摩抆，化身至梵天，於虛空中；坐臥經行，或現煙炎，身下出煙，身上出火，身上出煙，身下出火，左出煙右出火，右出煙左出火，前出煙後出炎，後出煙前出炎，舉身出煙，舉身出炎，舉身出火。",
-    "T02n0149_001:0875a07_23": "時，彼比丘還斂神足，身就獨坐，結加趺坐，直身正意，繫念在前，便入初禪，從初禪起，入第二禪，從二禪起，入第三禪，從三禪起，入第四禪；從第四禪起，入空處，從空處起，入識處，從識處起，入不用處，從不用處起，入有想無想，從有想無想起，入想知滅三昧；從想知滅三昧起，入有想、無想、不用處、識處空處、四禪、三禪、二禪、初禪；復從初禪起，入第二禪、第三禪，時尊者掘多，從第四禪起，便捨身壽，於無餘涅槃界，便般涅槃。",
-    "T02n0149_001:0875a17_24": "時，阿難供養尊者掘多舍利，至世尊所，到已頭面禮足，在一面立。",
-    "T02n0149_001:0875a18_25": "時阿難白世尊言：「彼掘多比丘者，從如來受教誡，在閑靜處而自娛樂，所以族姓子，剃除鬚髮，著三法衣，已信堅固，出家學道，修無上梵行，盡生死原，梵行已立，所作已辦，更不受母胎。",
-    "T02n0149_001:0875a23_26": "世尊！",
-    "T02n0149_001:0875a23_27": "彼尊者掘多，已般涅槃。」",
-    "T02n0149_001:0875a23_28": "世尊告曰：「甚奇甚特！",
-    "T02n0149_001:0875a24_29": "阿難！",
-    "T02n0149_001:0875a24_30": "佛世尊成就無量智慧，能使掘多比丘濟生死淵，此，阿難！",
-    "T02n0149_001:0875a25_31": "如來所行已足，況度無數百千眾生，濟生死淵，及餘當拔濟者。",
-    "T02n0149_001:0875a27_32": "是故，阿難！",
-    "T02n0149_001:0875a27_33": "當發茲意於佛、於法、於眾。",
-    "T02n0149_001:0875a28_0": "如是，阿難！",
-    "T02n0149_001:0875a28_1": "當作是學。」",
-    "T02n0149_001:0875a28_2": "是時，尊者阿難聞佛所說，歡喜奉行。",
-    "T02n0149_001:0875b01_0": "佛說阿難同學經"
-}
+[
+    {
+        "source_sentence": "佛說阿難同學經出增一阿含經",
+        "from": "T02n0149_001:0874b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後漢安息國三藏安世高譯",
+        "from": "T02n0149_001:0874b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞如是：一時，婆伽婆在舍衛城祇樹給孤獨",
+        "from": "T02n0149_001:0874b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "園。",
+        "from": "T02n0149_001:0874b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時，舍衛城有比丘名掘多，是尊者阿難少小同學，甚愛敬念、親昵，未曾恚怒，然不樂修梵行，欲得捨戒還為白衣。",
+        "from": "T02n0149_001:0874b10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時阿難，至世尊所，到已頭面禮足，在一面立。",
+        "from": "T02n0149_001:0874b11_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時阿難白世尊言：",
+        "from": "T02n0149_001:0874b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「於此舍衛城，有比丘名曰掘多，是我少小同學，不堪任修梵行，欲捨戒還為白衣。",
+        "from": "T02n0149_001:0874b13_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願世尊與掘多比丘說法，使於此現法中清淨修梵行！",
+        "from": "T02n0149_001:0874b15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時，世尊告阿難：",
+        "from": "T02n0149_001:0874b15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「阿難！",
+        "from": "T02n0149_001:0874b15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝自往詣彼掘多比丘所。",
+        "from": "T02n0149_001:0874b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」對曰：",
+        "from": "T02n0149_001:0874b16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如是。",
+        "from": "T02n0149_001:0874b16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T02n0149_001:0874b16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」阿難從佛受教，便至掘多比丘所。",
+        "from": "T02n0149_001:0874b17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊呼？",
+        "from": "T02n0149_001:0874b17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」對曰：",
+        "from": "T02n0149_001:0874b17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如是。",
+        "from": "T02n0149_001:0874b17_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時，掘多比丘從阿難教，至世尊所，到已頭面禮足，在一面坐。",
+        "from": "T02n0149_001:0874b19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時，世尊告掘多比丘言：",
+        "from": "T02n0149_001:0874b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「云何比丘汝審不樂修梵行，欲捨禁戒還為白衣耶？",
+        "from": "T02n0149_001:0874b20_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」比丘報言：",
+        "from": "T02n0149_001:0874b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「審然，世尊！",
+        "from": "T02n0149_001:0874b21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所以然者？",
+        "from": "T02n0149_001:0874b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身熾盛意亦熾盛，不堪任清淨修梵行。",
+        "from": "T02n0149_001:0874b22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」世尊告曰：",
+        "from": "T02n0149_001:0874b22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「比丘！",
+        "from": "T02n0149_001:0874b22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "女人有五穢行。",
+        "from": "T02n0149_001:0874b23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何為五？",
+        "from": "T02n0149_001:0874b23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T02n0149_001:0874b23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "女人臭穢，言語麁獷，無反復心，猶如蚖虵常懷毒垢；",
+        "from": "T02n0149_001:0874b24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此女人，增益魔眾，難得解脫，亦如鈎鎖。",
+        "from": "T02n0149_001:0874b25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "女人不可親近，猶如雜毒不可食；",
+        "from": "T02n0149_001:0874b26_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "女人不可消，亦如金剛壞敗人身；",
+        "from": "T02n0149_001:0874b27_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T02n0149_001:0874b27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦如火炎，猶彼阿鼻泥黎。",
+        "from": "T02n0149_001:0874b27_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T02n0149_001:0874b28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "女人不可觀察，猶彼臭糞；",
+        "from": "T02n0149_001:0874b28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T02n0149_001:0874b28_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "女人不可聽聞，猶如死嚮；",
+        "from": "T02n0149_001:0874b29_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T02n0149_001:0874b29_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "女人如牢獄，猶如鞞摩質多牢獄阿須繫輪；",
+        "from": "T02n0149_001:0874c01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T02n0149_001:0874c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "女人是怨家，亦如蚖虵，比丘當遠離，猶惡知識；",
+        "from": "T02n0149_001:0874c02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T02n0149_001:0874c02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "女人為恐怖，猶賊村落。",
+        "from": "T02n0149_001:0874c03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T02n0149_001:0874c03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人身難得，猶優曇鉢花；",
+        "from": "T02n0149_001:0874c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T02n0149_001:0874c04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人身甚難得，猶彼板一孔，推著水中數萬歲乃值其孔。",
+        "from": "T02n0149_001:0874c05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T02n0149_001:0874c05_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時亦難遇，除其八時。",
+        "from": "T02n0149_001:0874c05_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝比丘已得人身，皆是本行所造。",
+        "from": "T02n0149_001:0874c06_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T02n0149_001:0874c06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛世尊出世甚難遇，猶如石女無子；",
+        "from": "T02n0149_001:0874c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T02n0149_001:0874c07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來出世甚難遇，亦如優曇鉢花。",
+        "from": "T02n0149_001:0874c08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘！",
+        "from": "T02n0149_001:0874c08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已得人身，已得受具足戒，亦得入眾，猶彼蒙尊國王，亦為人說法，休息止觀至涅槃界，至彼處，如來善說此法。",
+        "from": "T02n0149_001:0874c11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝比丘淨修梵行，當盡苦原。",
+        "from": "T02n0149_001:0874c11_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時，彼比丘從佛受是教誡，即從坐上，無有塵垢，得法眼淨。",
+        "from": "T02n0149_001:0874c13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時，彼比丘即從坐起，頭面禮世尊足，便退而去。",
+        "from": "T02n0149_001:0874c14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時，彼比丘聞世尊說是教誡，在一閑靜處而自娛樂。",
+        "from": "T02n0149_001:0874c15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已在閑靜處，而自娛樂，所以，族姓子剃除鬚髮，著袈裟衣，於如來所修無上梵行，盡生死原，梵行已立，所作已辦，更不復受母胎。",
+        "from": "T02n0149_001:0874c18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時，彼比丘即成阿羅漢。",
+        "from": "T02n0149_001:0874c19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時，尊者掘多至世尊所，到已頭面禮足，在一面坐。",
+        "from": "T02n0149_001:0874c20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時，尊者掘多白世尊言：",
+        "from": "T02n0149_001:0874c20_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T02n0149_001:0874c20_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所教誡今已還覺，願世尊聽般涅槃！",
+        "from": "T02n0149_001:0874c21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時，世尊默然不對。",
+        "from": "T02n0149_001:0874c22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尊者掘多比丘再三白世尊言：",
+        "from": "T02n0149_001:0874c22_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T02n0149_001:0874c22_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所教今已還覺，願世尊聽般涅槃！",
+        "from": "T02n0149_001:0874c23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時，世尊告曰：",
+        "from": "T02n0149_001:0874c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「比丘！",
+        "from": "T02n0149_001:0874c24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今正是時。",
+        "from": "T02n0149_001:0874c24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」彼比丘即從坐起，頭面禮足，繞世尊三匝，便退而去，還詣己房。",
+        "from": "T02n0149_001:0874c25_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "到已除去坐具，於露地布坐具，便昇虛空，現若干變化：",
+        "from": "T02n0149_001:0874c27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或化一身為若干身，或化若干身為一身；",
+        "from": "T02n0149_001:0874c28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或為石鐵，或為金剛，或為牆壁城郭，或為高山石壁，皆過無礙，出沒於地，譬如流水而無罣礙；",
+        "from": "T02n0149_001:0875a01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "結加趺坐，滿虛空中，譬如大火炎，亦如飛鳥，猶如此日月，有大威神，有大力勢；",
+        "from": "T02n0149_001:0875a02_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以手摩抆，化身至梵天，於虛空中，坐臥經行，或現煙炎，身下出煙身上出火，身上出煙身下出火，左出煙右出火，右出煙左出火，前出煙後出炎，後出煙前出炎，舉身出煙，舉身出炎，舉身出火。",
+        "from": "T02n0149_001:0875a07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時，彼比丘還斂神足，身就獨坐，結加趺坐，直身正意，繫念在前，便入初禪。",
+        "from": "T02n0149_001:0875a09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從初禪起，入第二禪，從二禪起，入第三禪，從三禪起，入第四禪，從第四禪起，入空處，從空處起，入識處，從識處起，入不用處，從不用處起，入有想無想，從有想無想起，入想知滅三昧；",
+        "from": "T02n0149_001:0875a13_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從想知滅三昧起，入有想、無想、不用處、識處空處、四禪、三禪、二禪、初禪；",
+        "from": "T02n0149_001:0875a15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復從初禪起，入第二禪、第三禪。",
+        "from": "T02n0149_001:0875a15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時，尊者掘多從第四禪起，便捨身壽，於無餘涅槃界便般涅槃。",
+        "from": "T02n0149_001:0875a17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時，阿難供養尊者掘多舍利，至世尊所，到已頭面禮足，在一面立。",
+        "from": "T02n0149_001:0875a18_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時阿難白世尊言：",
+        "from": "T02n0149_001:0875a19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「彼掘多比丘者，從如來受教誡，在閑靜處而自娛樂，所以，族姓子剃除鬚髮，著三法衣，已信堅固，出家學道，修無上梵行，盡生死原，梵行已立，所作已辦，更不受母胎。",
+        "from": "T02n0149_001:0875a23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T02n0149_001:0875a23_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼尊者掘多已般涅槃。",
+        "from": "T02n0149_001:0875a23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」世尊告曰：",
+        "from": "T02n0149_001:0875a24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「甚奇，甚特！",
+        "from": "T02n0149_001:0875a24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿難！",
+        "from": "T02n0149_001:0875a24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛世尊成就無量智慧，能使掘多比丘濟生死淵。",
+        "from": "T02n0149_001:0875a25_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此，阿難！",
+        "from": "T02n0149_001:0875a25_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來所行已足，況度無數百千眾生濟生死淵及餘當拔濟者？",
+        "from": "T02n0149_001:0875a27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故，阿難！",
+        "from": "T02n0149_001:0875a27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當發茲意於佛、於法、於眾。",
+        "from": "T02n0149_001:0875a27_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是，阿難！",
+        "from": "T02n0149_001:0875a28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當作是學。",
+        "from": "T02n0149_001:0875a28_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」是時，尊者阿難聞佛所說，歡喜奉行。",
+        "from": "T02n0149_001:0875a29_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說阿難同學經",
+        "from": "T02n0149_001:0875b01_100",
+        "context_with_next_sentence": false
+    }
+]

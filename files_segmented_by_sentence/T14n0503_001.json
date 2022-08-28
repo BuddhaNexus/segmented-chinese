@@ -1,18 +1,137 @@
-{
-    "T14n0503_001:0771c03_0": "比丘避女惡名欲自殺經",
-    "T14n0503_001:0771c05_0": "西晉沙門法炬譯",
-    "T14n0503_001:0771c06_0": "如是我聞：一時佛住舍衛國祇樹給孤獨園，時有異比丘，在拘薩羅人間住一林中。",
-    "T14n0503_001:0771c07_1": "時彼比丘與長者婦女嬉戲，起惡名聲。",
-    "T14n0503_001:0771c08_2": "時彼比丘作是念：「我今不應共他婦女起惡名聲，我今欲於此林中自殺！」",
-    "T14n0503_001:0771c10_3": "時彼林中，止住天神作是念：「惡、不善不類，此比丘不壞無過，而於林中欲自殺身，我今當往，方便開悟！」",
-    "T14n0503_001:0771c12_4": "時彼天神化作長者女身，語比丘言：「於諸巷路四衢道中，世間諸人，為我及汝起惡名聲言：『我與汝共相習近，作不正事。』",
-    "T14n0503_001:0771c15_5": "已有惡名，今可還俗，共相娛樂。」",
-    "T14n0503_001:0771c16_6": "比丘答言：「以彼里巷四衢道中，為我與汝，起惡名聲，共相習近，為不正事。",
-    "T14n0503_001:0771c18_7": "我今且自殺身。」",
-    "T14n0503_001:0771c18_8": "時彼天神還復天身，而說偈言：「雖聞多惡名，　　苦行者忍之，　不應苦自害，　　亦不應起惱。",
-    "T14n0503_001:0771c22_0": "　聞聲恐怖者，　　是則林中獸，　是輕躁眾生，　　不成出家法。",
-    "T14n0503_001:0771c24_0": "　仁者當堪耐，　　下中上惡聲，　執心堅住者，　　是則出家法。",
-    "T14n0503_001:0771c26_0": "　不由他人語，　　令汝成劫賊，　亦不由他人，　　令汝得羅漢；　如汝自知已，　　諸天亦復知。」",
-    "T14n0503_001:0771c29_0": "爾時比丘為彼天神所開悟已，專精思惟，斷除煩惱，得阿羅漢。",
-    "T14n0503_001:0772a02_0": "比丘避女惡名欲自殺經"
-}
+[
+    {
+        "source_sentence": "比丘避女惡名欲自殺經",
+        "from": "T14n0503_001:0771c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西晉沙門法炬譯",
+        "from": "T14n0503_001:0771c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞：一時，佛住舍衛國祇樹給孤獨園。",
+        "from": "T14n0503_001:0771c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時有異比丘，在拘薩羅人間住一林中。",
+        "from": "T14n0503_001:0771c07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時彼比丘與長者婦女嬉戲，起惡名聲。",
+        "from": "T14n0503_001:0771c08_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時彼比丘作是念：",
+        "from": "T14n0503_001:0771c09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我今不應共他婦女起惡名聲，我今欲於此林中自殺！",
+        "from": "T14n0503_001:0771c10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時彼林中，止住天神作是念：",
+        "from": "T14n0503_001:0771c11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「惡不善，不類此。",
+        "from": "T14n0503_001:0771c11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘不壞無過，而於林中欲自殺身，我今當往，方便開悟！",
+        "from": "T14n0503_001:0771c12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時彼天神化作長者女身，語比丘言：",
+        "from": "T14n0503_001:0771c13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「於諸巷路四衢道中，世間諸人為我及汝起惡名聲，言我與汝共相習近，作不正事。",
+        "from": "T14n0503_001:0771c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已有惡名，今可還俗，共相娛樂。",
+        "from": "T14n0503_001:0771c16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」比丘答言：",
+        "from": "T14n0503_001:0771c16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「以彼里巷四衢道中，為我與汝起惡名聲，共相習近，為不正事，我今且自殺身。",
+        "from": "T14n0503_001:0771c18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時彼天神還復天身，而說偈言：",
+        "from": "T14n0503_001:0771c19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「雖聞多惡名，　　苦行者忍之，",
+        "from": "T14n0503_001:0771c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不應苦自害，　　亦不應起惱。",
+        "from": "T14n0503_001:0771c21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞聲恐怖者，　　是則林中獸，",
+        "from": "T14n0503_001:0771c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是輕躁眾生，　　不成出家法。",
+        "from": "T14n0503_001:0771c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仁者當堪耐，　　下、中、上惡聲，",
+        "from": "T14n0503_001:0771c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "執心堅住者，　　是則出家法。",
+        "from": "T14n0503_001:0771c25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不由他人語，　　令汝成劫賊，",
+        "from": "T14n0503_001:0771c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦不由他人，　　令汝得羅漢；",
+        "from": "T14n0503_001:0771c27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如汝自知已，　　諸天亦復知。",
+        "from": "T14n0503_001:0771c28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時比丘為彼天神所開悟已，專精思惟，斷除煩惱，得阿羅漢。",
+        "from": "T14n0503_001:0772a01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘避女惡名欲自殺經",
+        "from": "T14n0503_001:0772a02_100",
+        "context_with_next_sentence": false
+    }
+]

@@ -1,40 +1,217 @@
-{
-    "T08n0255_001:0850b20_0": "般若波羅蜜多心經(燉煌石室本)",
-    "T08n0255_001:0850b22_0": "國大德三藏法師沙門法成譯",
-    "T08n0255_001:0850b23_0": "如是我聞：一時薄伽梵住王舍城鷲峯山中，與大苾蒭眾及諸菩薩摩訶薩俱。",
-    "T08n0255_001:0850b24_1": "爾時，世尊等入甚深明了三摩地法之異門。",
-    "T08n0255_001:0850b25_2": "復於爾時，觀自在菩薩摩訶薩行深般若波羅蜜多時，觀察照見五蘊體性悉皆是空。",
-    "T08n0255_001:0850b27_3": "時，具壽舍利子，承佛威力，白聖者觀自在菩薩摩訶薩曰：「若善男子欲修行甚深般若波羅蜜多者，復當云何修學？」",
-    "T08n0255_001:0850c01_4": "作是語已。",
-    "T08n0255_001:0850c01_5": "觀自在菩薩摩訶薩答具壽舍利子言：「若善男子及善女人，欲修行甚深般若波羅蜜多者，彼應如是觀察，五蘊體性皆空。",
-    "T08n0255_001:0850c04_6": "色即是空，空即是色。",
-    "T08n0255_001:0850c04_7": "色不異空，空不異色。",
-    "T08n0255_001:0850c05_8": "如是受、想、行、識亦復皆空。",
-    "T08n0255_001:0850c05_9": "是故舍利子！",
-    "T08n0255_001:0850c06_10": "一切法空性無相，無生無滅，無垢離垢，無減無增。",
-    "T08n0255_001:0850c07_11": "舍利子！",
-    "T08n0255_001:0850c07_12": "是故爾時空性之中，無色、無受、無想、無行亦無有識。",
-    "T08n0255_001:0850c08_13": "無眼、無耳、無鼻、無舌、無身、無意。",
-    "T08n0255_001:0850c09_14": "無色、無聲、無香、無味、無觸、無法。",
-    "T08n0255_001:0850c10_15": "無眼界乃至無意識界。",
-    "T08n0255_001:0850c10_16": "無無明亦無無明盡，乃至無老死亦無老死盡。",
-    "T08n0255_001:0850c11_17": "無苦、集、滅、道，無智無得亦無不得。",
-    "T08n0255_001:0850c12_18": "是故舍利子！",
-    "T08n0255_001:0850c12_19": "以無所得故，諸菩薩眾依止般若波羅蜜多，心無障礙，無有恐怖，超過顛倒，究竟涅槃。",
-    "T08n0255_001:0850c14_20": "三世一切諸佛亦皆依般若波羅蜜多故，證得無上正等菩提。",
-    "T08n0255_001:0850c16_21": "舍利子！",
-    "T08n0255_001:0850c16_22": "是故當知般若波羅蜜多大密咒者，是大明咒，是無上咒，是無等等咒。",
-    "T08n0255_001:0850c18_23": "能除一切諸苦之咒，真實無倒。",
-    "T08n0255_001:0850c18_24": "故知般若波羅蜜多是祕密咒。」",
-    "T08n0255_001:0850c19_25": "即說般若波羅蜜多咒曰：「峩帝　峩帝　波囉峩帝　波囉僧峩帝　菩提　莎訶「舍利子！",
-    "T08n0255_001:0850c22_26": "菩薩摩訶薩應如是修學甚深般若波羅蜜多。」",
-    "T08n0255_001:0850c23_27": "爾時，世尊從彼定起，告聖者觀自在菩薩摩訶薩曰：「善哉，善哉！",
-    "T08n0255_001:0850c24_28": "善男子！",
-    "T08n0255_001:0850c24_29": "如是，如是！",
-    "T08n0255_001:0850c25_30": "如汝所說。",
-    "T08n0255_001:0850c25_31": "彼當如是修學般若波羅蜜多。",
-    "T08n0255_001:0850c26_0": "一切如來亦當隨喜。」",
-    "T08n0255_001:0850c26_1": "時薄伽梵說是語已。",
-    "T08n0255_001:0850c26_2": "具壽舍利子，聖者觀自在菩薩摩訶薩，一切世間天、人、阿蘇羅、乾闥婆等，聞佛所說，皆大歡喜，信受奉行。",
-    "T08n0255_001:0851a01_0": "般若波羅蜜多心經"
-}
+[
+    {
+        "source_sentence": "般若波羅蜜多心經燉煌石室本",
+        "from": "T08n0255_001:0850b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "國大德三藏法師沙門法成譯",
+        "from": "T08n0255_001:0850b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞：一時薄伽梵住王舍城鷲峯山中，",
+        "from": "T08n0255_001:0850b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與大苾蒭眾及諸菩薩摩訶薩俱。",
+        "from": "T08n0255_001:0850b24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時，世尊等入甚深明了三摩地法之異門。",
+        "from": "T08n0255_001:0850b25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復於爾時，觀自在菩薩摩訶薩行深般若波羅蜜多時，觀察照見五蘊體性悉皆是空。",
+        "from": "T08n0255_001:0850b27_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時，具壽舍利子，承佛威力，白聖者觀自在菩薩摩訶薩曰：",
+        "from": "T08n0255_001:0850b28_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若善男子欲修行甚深般若波羅蜜多者，復當云何修學？",
+        "from": "T08n0255_001:0850c01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」作是語已。",
+        "from": "T08n0255_001:0850c01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀自在菩薩摩訶薩答具壽舍利子言：",
+        "from": "T08n0255_001:0850c02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若善男子及善女人，欲修行甚深般若波羅蜜多者，彼應如是觀察，五蘊體性皆空。",
+        "from": "T08n0255_001:0850c04_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "色即是空，空即是色。",
+        "from": "T08n0255_001:0850c04_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "色不異空，空不異色。",
+        "from": "T08n0255_001:0850c05_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是受、想、行、識亦復皆空。",
+        "from": "T08n0255_001:0850c05_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故舍利子！",
+        "from": "T08n0255_001:0850c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切法空性無相，無生無滅，無垢離垢，無減無增。",
+        "from": "T08n0255_001:0850c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍利子！",
+        "from": "T08n0255_001:0850c07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故爾時空性之中，無色、無受、無想、無行亦無有識。",
+        "from": "T08n0255_001:0850c08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無眼、無耳、無鼻、無舌、無身、無意。",
+        "from": "T08n0255_001:0850c09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無色、無聲、無香、無味、無觸、無法。",
+        "from": "T08n0255_001:0850c10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無眼界乃至無意識界。",
+        "from": "T08n0255_001:0850c10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無無明亦無無明盡，乃至無老死亦無老死盡。",
+        "from": "T08n0255_001:0850c11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無苦、集、滅、道，無智無得亦無不得。",
+        "from": "T08n0255_001:0850c12_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故舍利子！",
+        "from": "T08n0255_001:0850c12_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以無所得故，諸菩薩眾依止般若波羅蜜多，心無障礙，無有恐怖，超過顛倒，究竟涅槃。",
+        "from": "T08n0255_001:0850c14_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三世一切諸佛亦皆依般若波羅蜜多故，證得無上正等菩提。",
+        "from": "T08n0255_001:0850c16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舍利子！",
+        "from": "T08n0255_001:0850c16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故當知般若波羅蜜多大密咒者，是大明咒，是無上咒，是無等等咒。",
+        "from": "T08n0255_001:0850c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能除一切諸苦之咒，真實無倒。",
+        "from": "T08n0255_001:0850c18_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故知般若波羅蜜多是祕密咒。",
+        "from": "T08n0255_001:0850c19_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」即說般若波羅蜜多咒曰：",
+        "from": "T08n0255_001:0850c20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「峩帝　峩帝　波囉峩帝　波囉僧峩帝　菩提　莎訶「舍利子！",
+        "from": "T08n0255_001:0850c22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩摩訶薩應如是修學甚深般若波羅蜜多。",
+        "from": "T08n0255_001:0850c23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，世尊從彼定起，告聖者觀自在菩薩摩訶薩曰：",
+        "from": "T08n0255_001:0850c24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「善哉，善哉！",
+        "from": "T08n0255_001:0850c24_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T08n0255_001:0850c24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是，如是！",
+        "from": "T08n0255_001:0850c25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如汝所說。",
+        "from": "T08n0255_001:0850c25_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼當如是修學般若波羅蜜多。",
+        "from": "T08n0255_001:0850c25_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切如來亦當隨喜。",
+        "from": "T08n0255_001:0850c26_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時薄伽梵說是語已。",
+        "from": "T08n0255_001:0850c26_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具壽舍利子，聖者觀自在菩薩摩訶薩，一切世間天、人、阿蘇羅、乾闥婆等，聞佛所說，皆大歡喜，信受奉行。",
+        "from": "T08n0255_001:0850c29_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "般若波羅蜜多心經",
+        "from": "T08n0255_001:0851a01_100",
+        "context_with_next_sentence": false
+    }
+]

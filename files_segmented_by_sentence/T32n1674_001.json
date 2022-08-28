@@ -1,43 +1,1347 @@
-{
-    "T32n1674_001:0751a26_0": "龍樹菩薩勸誡王頌",
-    "T32n1674_001:0751a28_0": "大唐三藏法師義淨譯",
-    "T32n1674_001:0751a29_0": "此頌是龍樹菩薩以詩代書。",
-    "T32n1674_001:0751a29_1": "寄與南印度親友乘土國王一首。",
-    "T32n1674_001:0751b01_2": "此書已先譯神州處藏人多不見。",
-    "T32n1674_001:0751b02_3": "遂令妙語不得詳知。",
-    "T32n1674_001:0751b02_4": "為此更定本文。",
-    "T32n1674_001:0751b03_0": "冀使流通罔滯。",
-    "T32n1674_001:0751b03_1": "沙門義淨創至東印度耽摩立底國譯。",
-    "T32n1674_001:0751b05_0": "　有情無知覆心故　　由此興悲為開解　大德龍樹為國王　　寄書與彼令修學此一行頌乃是後人所述標書本意也。",
-    "T32n1674_001:0751b08_0-0": "　具德我演如如教　　為生福愛而興述　真善宜應可審聽　　此頌名為聖祇底　隨何木等雕佛像　　諸有智者咸供養　縱使我詩非巧妙　　依正法說勿當輕　王雖先解如如教　　更聞佛語增勝解　猶如粉壁月光輝　　豈不鮮明益姝妙　佛法并僧眾　　施戒及與天　一一功德聚　　佛說應常念　十善諸業道　　身語意常親　遠離於諸酒　　亦行清淨命　",
-    "T32n1674_001:0751b08_0-1": "知財體非固　　如法施苾芻　貧賤及再生　　來世為親友　眾德依戒住　　如地長一切　勿宂瘦雜悕　　佛說應常習　施戒忍勇定　　惠不可稱量　此能到應修　　渡有海成佛　若孝養父母　　其家有梵王　現招善名稱　　來世生天堂　殺盜婬妄說　　耽食愛高床　斷諸酒歌舞　　華彩及塗香　若女男能成　　此八支聖戒　欲界六天上　　長淨善當生　",
-    "T32n1674_001:0751b08_0-2": "慳諂誑貪怠　　慢婬嗔氏族　多聞年少嬌　　並視如怨賊　說無生由勤　　有死因放逸　勤能長善法　　爾可修謹慎　先時離放逸　　後若改勤修　猶如雲翳除　　良宵覩明月　孫陀羅難陀　　央具理摩羅　達舍綺莫迦　　翻惡皆成善　勇進無同忍　　勿使忿勢行　終得不還位　　佛證可除嗔　他人打罵我　　欺陵奪我財　懷恨招怨諍　　捨恨眠安樂　",
-    "T32n1674_001:0751b08_0-3": "如於水土石　　人心盡彼同　起煩惱前勝　　愛法者如後　佛說三種語　　人美實虛言　猶如蜜花糞　　棄後可行前　今明後亦明　　今闇後還闇　或今明後闇　　或今闇後明　如是四種人　　王當依第一　自有生如熟　　亦有熟如生　亦有熟如熟　　或復生如生　菴沒羅果中　　有如是差別　人亦同彼四　　難識王應知　勿覩他妻室　　設觀如母女　",
-    "T32n1674_001:0751b08_0-4": "姊妹想隨年　　起貪思不淨　如聞子藏命　　防持躁動心　獸藥刀怨火　　無令欲樂侵　由欲作無利　　譬如兼博果　佛說彼應除　　生死牢枷鎖　譎誑常搖境　　能降斯六識　執仗掃眾怨　　許初為勇極　臭氣九門眾穢室　　行軀難滿薄皮纏　請看少女除莊彩　　折別形骸惡叵言　癩虫穿已痛　　求安就火邊　止息無由免　　耽欲亦同然　",
-    "T32n1674_001:0751b08_0-5": "為知真勝理　　作意觀眾事　唯斯德應習　　無餘法可親　若人具族望　　貌美復多聞　無智破尸羅　　是人何足責　若人無族望　　貌醜寡知聞　有智護尸羅　　人皆應供養　利無利苦樂　　稱無稱毀譏　了俗世八法　　齊心離斯境　再生天乞士　　父母妻子人　勿由斯造罪　　獄果他不分　若行諸罪業　　非如刀斬傷　待至臨終際　　惡業果全彰　",
-    "T32n1674_001:0751b08_0-6": "信戒施淨聞　　慚愧及正慧　七財牟尼說　　共有物誠虛　博弈樂觀諠雜境　　嬾惰惡友敦親志　飲酒非時行六過　　此劫芳名爾應棄　求財少欲最　　人天師盛陳　若能修少欲　　雖貧是富人　若人廣求諸事者　　還被爾許苦來加　智者若不修少欲　　受惱還如眾首蛇　稟性抱怨如殺者　　欺輕夫主如男偶　縱使片物必行偷　　宜可棄茲三賊婦　",
-    "T32n1674_001:0751b08_0-7": "順若姊妹慈如母　　隨從若婢伴猶親　如茲四婦宜應供　　應知此室號天人　受飡如服藥　　知量去貪嗔　不為肥憍傲　　但欲住持身　勤軀度永日　　於初後夜中　眠夢猶存念　　勿使命虛終　慈悲喜正捨　　修習可常研　上流雖未入　　能生梵世天　捨雜欲苦尋喜樂　　隨業當生四地中　大梵光音及遍淨　　廣果天生與彼同　若恒修對治　",
-    "T32n1674_001:0751b08_0-8": "　德勝愍眾生　此五行為善　　不行為大惡　雨鹽醎少水　　豈若瀉江池　縱令微罪業　　善大殄應知　嗔掉舉惡作　　惛睡欲貪疑　如斯五蓋賊　　常偷諸善利　有五最勝法　　信勇念定慧　於此應勤習　　能招根力頂　病苦死愛別　　斯皆自業為　未度可勤修　　對品亡嬌恣　若悕天解脫　　爾當修正見　設使人行善　　邪見招惡果　無樂常無我　",
-    "T32n1674_001:0751b08_0-9": "　不淨審知人　妄念四倒見　　難苦在茲身　說色不是我　　我非有於色　色我非更在　　知餘四蘊空　不從時節生　　非自然本性　非無因自在　　從愚業愛生　戒禁見身見　　及毘織吉蹉　應知三種結　　能縛木叉門　解脫終依己　　不由他伴成　勤修聞戒定　　四真諦便生　增上戒心慧　　茲學可常修　百五十餘戒　　咸歸此三攝　於身住身念　",
-    "T32n1674_001:0751b08_0-10": "　茲路善修常　如其虧正念　　諸法盡淪亡　壽命多災厄　　如風吹水泡　若得瞬息停　　臥起成希有　卒歸灰燥爛　　糞穢難久持　觀身非實法　　滅壞墮分離　大地迷盧海　　七日出燒燃　況此極微軀　　那不成煨燼　如是無常亦非久　　無歸無救無家室　生死勝人須厭背　　併若芭蕉體無實　海龜投木孔　　一會甚難遭　棄畜成人體　",
-    "T32n1674_001:0751b08_0-11": "　惡行果還招　金寶盤除糞　　斯為是大癡　若生人作罪　　全成極憃兒　生中依善友　　及發於正願　先身為福業　　四大輪全獲　佛言近善友　　全梵行是親　善士依佛故　　眾多證圓寂　邪見生鬼畜　　泥黎法不聞　邊地蔑戾車　　生便癡瘂性　或生長壽天　　除八無暇過　閑暇既已得　　爾可務當生　愛別老病死　　斯等眾苦處　智者應生厭　",
-    "T32n1674_001:0751b08_0-12": "　說少過應聽　母或改為婦　　父乃轉成兒　怨家翻作友　　遷流無定規　一一飲母乳　　過於四海水　轉受異生身　　更飲多於彼　過去一一生身骨　　展轉積若妙高山　地土丸為酸棗核　　數己形軀豈盡邊　梵主世皆供　　業力終淪地　縱紹轉輪王　　迴身化奴使　三十三天中妓女樂　　多時受已墮泥黎　速疾磣毒經諸苦　　磨身碎體鎮號啼　",
-    "T32n1674_001:0751b08_0-13": "妙高岑受樂　　地軟隨其足　轉受煻煨苦　　行經糞屎獄　歡喜芳園裏　　天女隨遊戲　墮落劍林中　　截手足耳鼻　或入曼陀妙池浴　　天女金花艶彩容　捨身更受泥黎苦　　熱焰難當灰澗中　欲天受法樂　　除貪大梵天　更墮阿毘止　　薪焰苦恒連　或生居日月　　身光遍四洲　一朝歸黑闇　　展手見無由　三種燈明福　　死後可持將　",
-    "T32n1674_001:0751b08_0-14": "獨入無邊闇　　日月不流光　有命黑繩熱　　合叫無間下　斯等恒纏苦　　燒諸行惡者　或若麻床[打-丁+此]　　或粉如細末　如利斧斫木　　猶如鋸解割　猛火恒煎煮　　令飲熱銅漿　驅令上劍刺　　叉身熱鐵床　或時高舉手　　鐵牙猛狗飡　鷹鳥觜爪利　　任彼啅心肝　虻蠅及諸虫　　其數過千億　利觜唼身軀　　急墮皆飡食　若人具造眾罪業　",
-    "T32n1674_001:0751b08_0-15": "　聞苦身自不干墮　如此頑騃金剛性　　氣盡泥犁遭猛火　時觀盡變聞應念　　讀誦經論常尋鞠　泥犁聽響已驚惶　　如何遣當斯異熟　於諸樂中誰是最　　愛盡無生樂最精　於眾苦內誰為極　　無間泥犁苦極成　人間一日中　　屢刺三百槊　比地獄輕苦　　毫分寧相捅　此處受極苦　　經百俱胝秋　如其惡未盡　　命捨定無由　如是諸惡果　",
-    "T32n1674_001:0751b08_0-16": "　種由身語心　爾勤隨力護　　輕塵惡勿侵　或入傍生趣　　殺縛苦恒親　遠離於寂善　　更互被艱辛　或被殺縛苦　　求珠尾角皮　錐鞭鉤斲頂　　踏拍任他騎　受鬼望不遂　　無敵苦常臨　飢渴及冷熱　　困怖苦恒侵　口小如針孔　　腹大等山丘　飢纏縱己糞　　得少定無由　形如枯杌樹　　皮方作衣服　炬口夜夜然　　飛蛾墮充食　血膿諸不淨　",
-    "T32n1674_001:0751b08_0-17": "　福少獲無從　更相口排逼　　還飡癭熟癰　月下便招熱　　日中身遂寒　望菓唯空樹　　瞻江水剩乾　如是受眾苦　　經萬五千年　長時擊身命　　良由苦器堅　若生飢鬼中　　遭斯一味苦　非賢澁者愛　　佛說由慳垢　生天雖受樂　　福盡苦難思　終歸會墜墮　　勿樂可應知　厭坐衣沾垢　　身光有變衰　液下新流汗　　頭上故花萎　如斯五相現　",
-    "T32n1674_001:0751b08_0-18": "　天眾死無疑　地居人若卒　　悶亂改常儀　若從天處墮　　眾善盡無餘　任落傍生鬼　　泥犁隨一居　阿蘇羅本性　　縱令全覺慧　忿天生苦心　　趣遮於見諦　如是漂流生死處　　天人畜及阿蘇羅　下賤業生眾苦器　　鬼趣兼投捺落迦　縱使烈火燃頭上　　遍身衣服焰皆通　此苦無暇能除拂　　無生住想涅槃中　爾求尸羅及定慧　　寂靜調柔離垢殃　",
-    "T32n1674_001:0751b08_0-19": "涅槃無盡無老死　　四大日月悉皆亡　念擇法勇進　　定慧喜輕安　此七菩提分　　能招妙涅槃　無慧定非有　　缺定慧便溺　若其雙運者　　有海如牛跡　十四不記法　　日親之所說　於此勿應思　　不能令覺滅　從無知起業　　由業復生識　識緣於名色　　名色生六處　六處緣於觸　　觸生緣於受　受既緣於愛　　由愛招於取　取復緣於有　",
-    "T32n1674_001:0751b08_0-20": "　有復緣於生　生緣於老死　　憂病求不得　輪迴大苦蘊　　斯應速斷除　如其生若滅　　眾苦珍無餘　最勝言教藏　　深妙緣起門　如能正見此　　便觀無上尊　正見命正念　　正定語業思　此謂八聖道　　為寂可修治　無由集愛起　　託身眾苦生　除斯證解脫　　八聖道宜行　即此瑜伽業　　四種聖諦因　雖居舍嚴飾　　智遮煩惱津　不從空處墮　",
-    "T32n1674_001:0751b08_0-21": "　如穀因地造　諸先證法人　　皆凡具煩惱　何假多陳述　　除惱略呈言　事由情可伏　　聖談心是源　如上所陳法　　苾芻難總行　隨能修一事　　勿令虛夭生　眾善皆隨喜　　妙行三自修　迴向為成佛　　福聚令恒收　後生壽無量　　廣度於天人　猶如觀自在　　極難等怨親　生老病死三毒除　　佛國託生為世父　壽命時長量叵知　　同彼大覺彌陀主　",
-    "T32n1674_001:0751b08_0-22": "開顯尸羅及捨惠　　天地虛空名遍彰　大地居人及天眾　　勿使妖妍女愛傷　煩惱羈纏有情眾　　絕流生死登正覺　超度世間但有名　　由獲無生離塵濁阿離野那伽曷樹那菩提薩埵蘇頡里蜜離佉。",
-    "T32n1674_001:0754b03_1": "了(阿離野是聖。",
-    "T32n1674_001:0754b03_2": "那伽是龍是象。",
-    "T32n1674_001:0754b03_3": "曷樹那義翻為猛。",
-    "T32n1674_001:0754b03_4": "菩提薩埵謂是覺情。",
-    "T32n1674_001:0754b03_5": "蘇頡里即是親密。",
-    "T32n1674_001:0754b03_6": "離佉者書也。",
-    "T32n1674_001:0754b03_7": "先云龍樹者訛也)。",
-    "T32n1674_001:0754b05_0": "龍樹菩薩勸誡王頌"
-}
+[
+    {
+        "source_sentence": "龍樹菩薩勸誡王頌",
+        "from": "T32n1674_001:0751a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大唐三藏法師義淨譯",
+        "from": "T32n1674_001:0751a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此頌是龍樹菩薩以詩代書，寄與南印度親",
+        "from": "T32n1674_001:0751a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "友乘土國王一首。",
+        "from": "T32n1674_001:0751b01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此書已先譯神州處藏，人多不見，遂令妙語不得詳知。",
+        "from": "T32n1674_001:0751b02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為此更定本文，冀使流通罔滯。",
+        "from": "T32n1674_001:0751b03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沙門義淨創至東印度耽摩立底國譯。",
+        "from": "T32n1674_001:0751b04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有情無知覆心故，　　由此興悲為開解，",
+        "from": "T32n1674_001:0751b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大德龍樹為國王，　　寄書與彼令修學。",
+        "from": "T32n1674_001:0751b06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此一行頌乃是後人所述標書本意也。",
+        "from": "T32n1674_001:0751b07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具德我演如如教，　　為生福愛而興述，",
+        "from": "T32n1674_001:0751b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真善宜應可審聽，　　此頌名為聖祇底。",
+        "from": "T32n1674_001:0751b09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨何木等雕佛像，　　諸有智者咸供養，",
+        "from": "T32n1674_001:0751b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縱使我詩非巧妙，　　依正法說勿當輕。",
+        "from": "T32n1674_001:0751b11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王雖先解如如教，　　更聞佛語增勝解，",
+        "from": "T32n1674_001:0751b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶如粉壁月光輝，　　豈不鮮明益姝妙。",
+        "from": "T32n1674_001:0751b13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛法并僧眾，　　施戒及與天，",
+        "from": "T32n1674_001:0751b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一功德聚，　　佛說應常念。",
+        "from": "T32n1674_001:0751b15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十善諸業道，　　身語意常親，",
+        "from": "T32n1674_001:0751b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠離於諸酒，　　亦行清淨命。",
+        "from": "T32n1674_001:0751b17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知財體非固，　　如法施苾芻，",
+        "from": "T32n1674_001:0751b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貧賤及再生，　　來世為親友。",
+        "from": "T32n1674_001:0751b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾德依戒住，　　如地長一切，",
+        "from": "T32n1674_001:0751b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勿宂瘦雜悕，　　佛說應常習。",
+        "from": "T32n1674_001:0751b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "施戒忍勇定，　　惠不可稱量，",
+        "from": "T32n1674_001:0751b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此能到應修，　　渡有海成佛。",
+        "from": "T32n1674_001:0751b23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若孝養父母，　　其家有梵王，",
+        "from": "T32n1674_001:0751b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "現招善名稱，　　來世生天堂。",
+        "from": "T32n1674_001:0751b25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "殺盜婬妄說，　　耽食愛高床，",
+        "from": "T32n1674_001:0751b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷諸酒歌舞，　　華彩及塗香，",
+        "from": "T32n1674_001:0751b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若女男能成，　　此八支聖戒，",
+        "from": "T32n1674_001:0751b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲界六天上，　　長淨善當生。",
+        "from": "T32n1674_001:0751b29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慳諂誑貪怠，　　慢婬嗔氏族，",
+        "from": "T32n1674_001:0751c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多聞年少嬌，　　並視如怨賊。",
+        "from": "T32n1674_001:0751c02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說無生由勤，　　有死因放逸，",
+        "from": "T32n1674_001:0751c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勤能長善法，　　爾可修謹慎。",
+        "from": "T32n1674_001:0751c04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先時離放逸，　　後若改勤修，",
+        "from": "T32n1674_001:0751c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶如雲翳除，　　良宵覩明月。",
+        "from": "T32n1674_001:0751c06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "孫陀羅難陀，　　央具理摩羅，",
+        "from": "T32n1674_001:0751c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "達舍綺莫迦，　　翻惡皆成善。",
+        "from": "T32n1674_001:0751c08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勇進無同忍，　　勿使忿勢行，",
+        "from": "T32n1674_001:0751c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "終得不還位，　　佛證可除嗔。",
+        "from": "T32n1674_001:0751c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "他人打罵我，　　欺陵奪我財，",
+        "from": "T32n1674_001:0751c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懷恨招怨諍，　　捨恨眠安樂。",
+        "from": "T32n1674_001:0751c12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如於水土石，　　人心盡彼同，",
+        "from": "T32n1674_001:0751c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "起煩惱前勝，　　愛法者如後。",
+        "from": "T32n1674_001:0751c14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說三種語，　　人美實虛言，",
+        "from": "T32n1674_001:0751c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶如蜜花糞，　　棄後可行前。",
+        "from": "T32n1674_001:0751c16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今明後亦明，　　今闇後還闇，",
+        "from": "T32n1674_001:0751c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或今明後闇，　　或今闇後明，",
+        "from": "T32n1674_001:0751c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是四種人，　　王當依第一。",
+        "from": "T32n1674_001:0751c19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自有生如熟，　　亦有熟如生，",
+        "from": "T32n1674_001:0751c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦有熟如熟，　　或復生如生。",
+        "from": "T32n1674_001:0751c21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菴沒羅果中，　　有如是差別，",
+        "from": "T32n1674_001:0751c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人亦同彼四，　　難識王應知。",
+        "from": "T32n1674_001:0751c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勿覩他妻室，　　設觀如母女，",
+        "from": "T32n1674_001:0751c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "姊妹想隨年，　　起貪思不淨。",
+        "from": "T32n1674_001:0751c25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如聞子藏命，　　防持躁動心，",
+        "from": "T32n1674_001:0751c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獸藥刀怨火，　　無令欲樂侵。",
+        "from": "T32n1674_001:0751c27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由欲作無利，　　譬如兼博果，",
+        "from": "T32n1674_001:0751c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說彼應除，　　生死牢枷鎖。",
+        "from": "T32n1674_001:0751c29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譎誑常搖境，　　能降斯六識，",
+        "from": "T32n1674_001:0752a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "執仗掃眾怨，　　許初為勇極。",
+        "from": "T32n1674_001:0752a02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "臭氣九門眾穢室，　　行軀難滿薄皮纏，",
+        "from": "T32n1674_001:0752a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "請看少女除莊彩，　　折別形骸惡叵言。",
+        "from": "T32n1674_001:0752a04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "癩虫穿已痛，　　求安就火邊，",
+        "from": "T32n1674_001:0752a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "止息無由免，　　耽欲亦同然。",
+        "from": "T32n1674_001:0752a06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為知真勝理，　　作意觀眾事，",
+        "from": "T32n1674_001:0752a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯斯德應習，　　無餘法可親。",
+        "from": "T32n1674_001:0752a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人具族望，　　貌美復多聞，",
+        "from": "T32n1674_001:0752a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無智破尸羅，　　是人何足貴。",
+        "from": "T32n1674_001:0752a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人無族望，　　貌醜寡知聞，",
+        "from": "T32n1674_001:0752a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有智護尸羅，　　人皆應供養。",
+        "from": "T32n1674_001:0752a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "利無利苦樂，　　稱無稱毀譏，",
+        "from": "T32n1674_001:0752a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了俗世八法，　　齊心離斯境。",
+        "from": "T32n1674_001:0752a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "再生天乞士，　　父母妻子人，",
+        "from": "T32n1674_001:0752a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勿由斯造罪，　　獄果他不分。",
+        "from": "T32n1674_001:0752a16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若行諸罪業，　　非如刀斬傷，",
+        "from": "T32n1674_001:0752a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "待至臨終際，　　惡業果全彰。",
+        "from": "T32n1674_001:0752a18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "信戒施淨聞，　　慚愧及正慧，",
+        "from": "T32n1674_001:0752a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七財牟尼說，　　共有物誠虛。",
+        "from": "T32n1674_001:0752a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "博弈樂觀諠雜境，　　嬾惰惡友敦親志，",
+        "from": "T32n1674_001:0752a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "飲酒非時行六過，　　此劫芳名爾應棄。",
+        "from": "T32n1674_001:0752a22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "求財少欲最，　　人天師盛陳，",
+        "from": "T32n1674_001:0752a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能修少欲，　　雖貧是富人。",
+        "from": "T32n1674_001:0752a24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人廣求諸事者，　　還被爾許苦來加，",
+        "from": "T32n1674_001:0752a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者若不修少欲，　　受惱還如眾首蛇。",
+        "from": "T32n1674_001:0752a26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "稟性抱怨如殺者，　　欺輕夫主如男偶，",
+        "from": "T32n1674_001:0752a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縱使片物必行偷，　　宜可棄茲三賊婦。",
+        "from": "T32n1674_001:0752a28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "順若姊妹慈如母，　　隨從若婢伴猶親，",
+        "from": "T32n1674_001:0752a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如茲四婦宜應供，　　應知此室號天人。",
+        "from": "T32n1674_001:0752b01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受飡如服藥，　　知量去貪嗔，",
+        "from": "T32n1674_001:0752b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不為肥憍傲，　　但欲住持身。",
+        "from": "T32n1674_001:0752b03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勤軀度永日，　　於初後夜中，",
+        "from": "T32n1674_001:0752b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眠夢猶存念，　　勿使命虛終。",
+        "from": "T32n1674_001:0752b05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慈悲喜正捨，　　修習可常研，",
+        "from": "T32n1674_001:0752b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上流雖未入，　　能生梵世天。",
+        "from": "T32n1674_001:0752b07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨雜欲苦尋喜樂，　　隨業當生四地中，",
+        "from": "T32n1674_001:0752b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大梵光音及遍淨，　　廣果天生與彼同。",
+        "from": "T32n1674_001:0752b09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若恒修對治，　　德勝愍眾生，",
+        "from": "T32n1674_001:0752b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此五行為善，　　不行為大惡。",
+        "from": "T32n1674_001:0752b11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雨鹽醎少水，　　豈若瀉江池，",
+        "from": "T32n1674_001:0752b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縱令微罪業，　　善大殄應知。",
+        "from": "T32n1674_001:0752b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嗔掉舉惡作，　　惛睡欲貪疑，",
+        "from": "T32n1674_001:0752b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如斯五蓋賊，　　常偷諸善利。",
+        "from": "T32n1674_001:0752b15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有五最勝法，　　信勇念定慧，",
+        "from": "T32n1674_001:0752b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於此應勤習，　　能招根力頂。",
+        "from": "T32n1674_001:0752b17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "病苦死愛別，　　斯皆自業為，",
+        "from": "T32n1674_001:0752b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未度可勤修，　　對品亡嬌恣。",
+        "from": "T32n1674_001:0752b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若悕天解脫，　　爾當修正見，",
+        "from": "T32n1674_001:0752b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設使人行善，　　邪見招惡果。",
+        "from": "T32n1674_001:0752b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無樂常無我，　　不淨審知人，",
+        "from": "T32n1674_001:0752b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妄念四倒見，　　難苦在茲身。",
+        "from": "T32n1674_001:0752b23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說色不是我，　　我非有於色，",
+        "from": "T32n1674_001:0752b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "色我非更在，　　知餘四蘊空。",
+        "from": "T32n1674_001:0752b25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不從時節生，　　非自然本性，",
+        "from": "T32n1674_001:0752b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非無因自在，　　從愚業愛生。",
+        "from": "T32n1674_001:0752b27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "戒禁見身見，　　及毘織吉蹉，",
+        "from": "T32n1674_001:0752b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應知三種結，　　能縛木叉門。",
+        "from": "T32n1674_001:0752b29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "解脫終依己，　　不由他伴成，",
+        "from": "T32n1674_001:0752c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勤修聞戒定，　　四真諦便生。",
+        "from": "T32n1674_001:0752c02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "增上戒心慧，　　茲學可常修，",
+        "from": "T32n1674_001:0752c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "百五十餘戒，　　咸歸此三攝。",
+        "from": "T32n1674_001:0752c04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於身住身念，　　茲路善修常，",
+        "from": "T32n1674_001:0752c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如其虧正念，　　諸法盡淪亡。",
+        "from": "T32n1674_001:0752c06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壽命多災厄，　　如風吹水泡，",
+        "from": "T32n1674_001:0752c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若得瞬息停，　　臥起成希有。",
+        "from": "T32n1674_001:0752c08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卒歸灰燥爛，　　糞穢難久持，",
+        "from": "T32n1674_001:0752c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀身非實法，　　滅壞墮分離。",
+        "from": "T32n1674_001:0752c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大地迷盧海，　　七日出燒燃，",
+        "from": "T32n1674_001:0752c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "況此極微軀，　　那不成煨燼。",
+        "from": "T32n1674_001:0752c12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是無常亦非久，　　無歸無救無家室，",
+        "from": "T32n1674_001:0752c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生死勝人須厭背，　　併若芭蕉體無實。",
+        "from": "T32n1674_001:0752c14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "海龜投木孔，　　一會甚難遭，",
+        "from": "T32n1674_001:0752c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "棄畜成人體，　　惡行果還招。",
+        "from": "T32n1674_001:0752c16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金寶盤除糞，　　斯為是大癡，",
+        "from": "T32n1674_001:0752c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若生人作罪，　　全成極憃兒。",
+        "from": "T32n1674_001:0752c18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生中依善友，　　及發於正願，",
+        "from": "T32n1674_001:0752c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先身為福業，　　四大輪全獲。",
+        "from": "T32n1674_001:0752c20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛言近善友，　　全梵行是親，",
+        "from": "T32n1674_001:0752c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善士依佛故，　　眾多證圓寂。",
+        "from": "T32n1674_001:0752c22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邪見生鬼畜，　　泥黎法不聞，",
+        "from": "T32n1674_001:0752c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邊地蔑戾車，　　生便癡瘂性，",
+        "from": "T32n1674_001:0752c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或生長壽天，　　除八無暇過，",
+        "from": "T32n1674_001:0752c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "閑暇既已得，　　爾可務當生。",
+        "from": "T32n1674_001:0752c26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愛別老病死，　　斯等眾苦處，",
+        "from": "T32n1674_001:0752c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者應生厭，　　說少過應聽。",
+        "from": "T32n1674_001:0752c28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "母或改為婦，　　父乃轉成兒，",
+        "from": "T32n1674_001:0752c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "怨家翻作友，　　遷流無定規。",
+        "from": "T32n1674_001:0753a01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一飲母乳，　　過於四海水，",
+        "from": "T32n1674_001:0753a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "轉受異生身，　　更飲多於彼。",
+        "from": "T32n1674_001:0753a03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "過去一一生身骨，　　展轉積若妙高山，",
+        "from": "T32n1674_001:0753a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "地土丸為酸棗核，　　數己形軀豈盡邊？",
+        "from": "T32n1674_001:0753a05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵主世皆供，　　業力終淪地，",
+        "from": "T32n1674_001:0753a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縱紹轉輪王，　　迴身化奴使。",
+        "from": "T32n1674_001:0753a07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三十三天中妓女樂，　　多時受已墮泥黎，",
+        "from": "T32n1674_001:0753a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "速疾磣毒經諸苦，　　磨身碎體鎮號啼。",
+        "from": "T32n1674_001:0753a09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙高岑受樂，　　地軟隨其足，",
+        "from": "T32n1674_001:0753a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "轉受煻煨苦，　　行經糞屎獄。",
+        "from": "T32n1674_001:0753a11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歡喜芳園裏，　　天女隨遊戲，",
+        "from": "T32n1674_001:0753a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "墮落劍林中，　　截手足耳鼻。",
+        "from": "T32n1674_001:0753a13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或入曼陀妙池浴，　　天女金花艶彩容，",
+        "from": "T32n1674_001:0753a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨身更受泥黎苦，　　熱焰難當灰㵎中。",
+        "from": "T32n1674_001:0753a15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "欲天受法樂，　　除貪大梵天，",
+        "from": "T32n1674_001:0753a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更墮阿毘止，　　薪焰苦恒連。",
+        "from": "T32n1674_001:0753a17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或生居日月，　　身光遍四洲，",
+        "from": "T32n1674_001:0753a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一朝歸黑闇，　　展手見無由。",
+        "from": "T32n1674_001:0753a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三種燈明福，　　死後可持將，",
+        "from": "T32n1674_001:0753a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "獨入無邊闇，　　日月不流光。",
+        "from": "T32n1674_001:0753a21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有命黑繩熱，　　合叫無間下，",
+        "from": "T32n1674_001:0753a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斯等恒纏苦，　　燒諸行惡者。",
+        "from": "T32n1674_001:0753a23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或若麻床㧗，　　或粉如細末，",
+        "from": "T32n1674_001:0753a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如利斧斫木，　　猶如鋸解割。",
+        "from": "T32n1674_001:0753a25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猛火恒煎煮，　　令飲熱銅漿，",
+        "from": "T32n1674_001:0753a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "驅令上劍刺，　　叉身熱鐵床。",
+        "from": "T32n1674_001:0753a27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或時高舉手，　　鐵牙猛狗飡，",
+        "from": "T32n1674_001:0753a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鷹鳥觜爪利，　　任彼啅心肝。",
+        "from": "T32n1674_001:0753b01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "虻蠅及諸虫，　　其數過千億，",
+        "from": "T32n1674_001:0753b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "利觜唼身軀，　　急墮皆飡食。",
+        "from": "T32n1674_001:0753b03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人具造眾罪業，　　聞苦身自不干墮，",
+        "from": "T32n1674_001:0753b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如此頑騃金剛性，　　氣盡泥犁遭猛火。",
+        "from": "T32n1674_001:0753b05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時觀盡變聞應念，　　讀誦經論常尋鞠，",
+        "from": "T32n1674_001:0753b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "泥犁聽響已驚惶，　　如何遣當斯異熟。",
+        "from": "T32n1674_001:0753b07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於諸樂中誰是最？",
+        "from": "T32n1674_001:0753b08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　愛盡無生樂最精。",
+        "from": "T32n1674_001:0753b08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於眾苦內誰為極？",
+        "from": "T32n1674_001:0753b09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　無間泥犁苦極成。",
+        "from": "T32n1674_001:0753b09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人間一日中，　　屢刺三百槊，",
+        "from": "T32n1674_001:0753b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比地獄輕苦，　　毫分寧相捅。",
+        "from": "T32n1674_001:0753b11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此處受極苦，　　經百俱胝秋，",
+        "from": "T32n1674_001:0753b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如其惡未盡，　　命捨定無由。",
+        "from": "T32n1674_001:0753b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是諸惡果，　　種由身語心，",
+        "from": "T32n1674_001:0753b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾勤隨力護，　　輕塵惡勿侵。",
+        "from": "T32n1674_001:0753b15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或入傍生趣，　　殺縛苦恒親，",
+        "from": "T32n1674_001:0753b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠離於寂善，　　更互被艱辛。",
+        "from": "T32n1674_001:0753b17_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或被殺縛苦，　　求珠尾角皮，",
+        "from": "T32n1674_001:0753b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "錐鞭鉤𣃆頂，　　踏拍任他騎。",
+        "from": "T32n1674_001:0753b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受鬼望不遂，　　無敵苦常臨，",
+        "from": "T32n1674_001:0753b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "飢渴及冷熱，　　困怖苦恒侵。",
+        "from": "T32n1674_001:0753b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "口小如針孔，　　腹大等山丘，",
+        "from": "T32n1674_001:0753b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "飢纏縱己糞，　　得少定無由。",
+        "from": "T32n1674_001:0753b23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "形如枯杌樹，　　皮方作衣服，",
+        "from": "T32n1674_001:0753b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "炬口夜夜然，　　飛蛾墮充食。",
+        "from": "T32n1674_001:0753b25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "血膿諸不淨，　　福少獲無從，",
+        "from": "T32n1674_001:0753b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "更相口排逼，　　還飡癭熟癰。",
+        "from": "T32n1674_001:0753b27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "月下便招熱，　　日中身遂寒，",
+        "from": "T32n1674_001:0753b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "望菓唯空樹，　　瞻江水剩乾。",
+        "from": "T32n1674_001:0753c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是受眾苦，　　經萬五千年，",
+        "from": "T32n1674_001:0753c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "長時擊身命，　　良由苦器堅。",
+        "from": "T32n1674_001:0753c03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若生飢鬼中，　　遭斯一味苦，",
+        "from": "T32n1674_001:0753c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非賢澁者愛，　　佛說由慳垢。",
+        "from": "T32n1674_001:0753c05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生天雖受樂，　　福盡苦難思，",
+        "from": "T32n1674_001:0753c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "終歸會墜墮，　　勿樂可應知。",
+        "from": "T32n1674_001:0753c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "厭坐衣沾垢，　　身光有變衰，",
+        "from": "T32n1674_001:0753c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "液下新流汗，　　頭上故花萎。",
+        "from": "T32n1674_001:0753c09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如斯五相現，　　天眾死無疑，",
+        "from": "T32n1674_001:0753c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "地居人若卒，　　悶亂改常儀。",
+        "from": "T32n1674_001:0753c11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若從天處墮，　　眾善盡無餘，",
+        "from": "T32n1674_001:0753c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "任落傍生鬼，　　泥犁隨一居，",
+        "from": "T32n1674_001:0753c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿蘇羅本性，　　縱令全覺慧，",
+        "from": "T32n1674_001:0753c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忿天生苦心，　　趣遮於見諦。",
+        "from": "T32n1674_001:0753c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是漂流生死處，　　天人畜及阿蘇羅，",
+        "from": "T32n1674_001:0753c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下賤業生眾苦器，　　鬼趣兼投捺落迦。",
+        "from": "T32n1674_001:0753c17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縱使烈火燃頭上，　　遍身衣服焰皆通，",
+        "from": "T32n1674_001:0753c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此苦無暇能除拂，　　無生住想涅槃中。",
+        "from": "T32n1674_001:0753c19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾求尸羅及定慧，　　寂靜調柔離垢殃，",
+        "from": "T32n1674_001:0753c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "涅槃無盡無老死，　　四大日月悉皆亡。",
+        "from": "T32n1674_001:0753c21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "念擇法勇進，　　定慧喜輕安，",
+        "from": "T32n1674_001:0753c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此七菩提分，　　能招妙涅槃。",
+        "from": "T32n1674_001:0753c23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無慧定非有，　　缺定慧便溺，",
+        "from": "T32n1674_001:0753c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若其雙運者，　　有海如牛跡。",
+        "from": "T32n1674_001:0753c25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十四不記法，　　日親之所說，",
+        "from": "T32n1674_001:0753c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於此勿應思，　　不能令覺滅。",
+        "from": "T32n1674_001:0753c27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從無知起業，　　由業復生識，",
+        "from": "T32n1674_001:0753c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "識緣於名色，　　名色生六處，",
+        "from": "T32n1674_001:0753c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六處緣於觸，　　觸生緣於受，",
+        "from": "T32n1674_001:0754a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受既緣於愛，　　由愛招於取，",
+        "from": "T32n1674_001:0754a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "取復緣於有，　　有復緣於生，",
+        "from": "T32n1674_001:0754a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生緣於老死，　　憂病求不得。",
+        "from": "T32n1674_001:0754a04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "輪迴大苦蘊，　　斯應速斷除，",
+        "from": "T32n1674_001:0754a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如其生若滅，　　眾苦珍無餘。",
+        "from": "T32n1674_001:0754a06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最勝言教藏，　　深妙緣起門，",
+        "from": "T32n1674_001:0754a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如能正見此，　　便觀無上尊。",
+        "from": "T32n1674_001:0754a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正見命正念，　　正定語業思，",
+        "from": "T32n1674_001:0754a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此謂八聖道，　　為寂可修治。",
+        "from": "T32n1674_001:0754a10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無由集愛起，　　託身眾苦生，",
+        "from": "T32n1674_001:0754a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "除斯證解脫，　　八聖道宜行。",
+        "from": "T32n1674_001:0754a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即此瑜伽業，　　四種聖諦因，",
+        "from": "T32n1674_001:0754a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖居舍嚴飾，　　智遮煩惱津，",
+        "from": "T32n1674_001:0754a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不從空處墮，　　如穀因地造。",
+        "from": "T32n1674_001:0754a15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸先證法人，　　皆凡具煩惱，",
+        "from": "T32n1674_001:0754a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何假多陳述，　　除惱略呈言，",
+        "from": "T32n1674_001:0754a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "事由情可伏，　　聖談心是源。",
+        "from": "T32n1674_001:0754a18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如上所陳法，　　苾芻難總行，",
+        "from": "T32n1674_001:0754a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨能修一事，　　勿令虛夭生。",
+        "from": "T32n1674_001:0754a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾善皆隨喜，　　妙行三自修，",
+        "from": "T32n1674_001:0754a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迴向為成佛，　　福聚令恒收。",
+        "from": "T32n1674_001:0754a22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "後生壽無量，　　廣度於天人，",
+        "from": "T32n1674_001:0754a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶如觀自在，　　極難等怨親。",
+        "from": "T32n1674_001:0754a24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生老病死三毒除，　　佛國託生為世父，",
+        "from": "T32n1674_001:0754a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "壽命時長量叵知，　　同彼大覺彌陀主。",
+        "from": "T32n1674_001:0754a26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開顯尸羅及捨惠，　　天地虛空名遍彰，",
+        "from": "T32n1674_001:0754a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大地居人及天眾，　　勿使妖妍女愛傷。",
+        "from": "T32n1674_001:0754a28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "煩惱羈纏有情眾，　　絕流生死登正覺，",
+        "from": "T32n1674_001:0754a29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "超度世間但有名，　　由獲無生離塵濁。",
+        "from": "T32n1674_001:0754b01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿離野那伽曷樹那菩提薩埵蘇頡里蜜離佉。",
+        "from": "T32n1674_001:0754b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了阿離野是聖，那伽是龍是象，曷樹那義翻為猛，菩提薩埵謂是覺情，蘇頡里即是親密，離佉者書也。",
+        "from": "T32n1674_001:0754b03_46",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先云龍樹者，訛也。",
+        "from": "T32n1674_001:0754b04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍樹菩薩勸誡王頌",
+        "from": "T32n1674_001:0754b05_100",
+        "context_with_next_sentence": false
+    }
+]

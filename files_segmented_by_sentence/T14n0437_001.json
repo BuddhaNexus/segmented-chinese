@@ -1,65 +1,477 @@
-{
-    "T14n0437_001:0108c04_0": "大乘寶月童子問法經",
-    "T14n0437_001:0108c06_0": "西天譯經三藏朝散大夫試鴻臚",
-    "T14n0437_001:0108c07_0": "少卿傳法大師臣施護奉　詔譯",
-    "T14n0437_001:0108c08_0": "如是我聞：一時，佛在王舍城鷲峯山中，與大苾芻眾五萬五千俱胝；一心行菩提行，無能勝菩薩等八萬百千無數俱胝那臾多；諸天人等百千那臾多。",
-    "T14n0437_001:0108c12_0": "爾時，世尊於其食時著衣持鉢，與苾芻眾并諸菩薩、天龍神等，恭敬圍繞，入王舍大城，於彼乞食。",
-    "T14n0437_001:0108c14_1": "是時，頻婆娑羅王子名寶月童子，因為事故乘大龍象出王舍大城。",
-    "T14n0437_001:0108c15_2": "遙見世尊，即下龍象，而詣佛所。",
-    "T14n0437_001:0108c16_3": "到已致敬，頭面禮足，住立一面。",
-    "T14n0437_001:0108c17_4": "寶月童子白佛言：「如來、應供、正等正覺！",
-    "T14n0437_001:0108c18_5": "唯願世尊，說彼十方如來所有名號。",
-    "T14n0437_001:0108c18_6": "若有信心善男子、善女人，聞是名已，所有五逆等罪及一切業障，悉皆消除，於無上正等正覺速得不退。」",
-    "T14n0437_001:0108c22_0": "爾時，世尊告寶月童子言：「善哉，善哉！",
-    "T14n0437_001:0108c22_1": "汝能樂聞如來名號之義，此意賢善，一切罪業決定消除。",
-    "T14n0437_001:0108c24_2": "童子！",
-    "T14n0437_001:0108c24_3": "汝今諦聽，善思念之！",
-    "T14n0437_001:0108c24_4": "我為汝說。",
-    "T14n0437_001:0108c25_0": "「童子！",
-    "T14n0437_001:0108c25_1": "過於東方百千俱胝那臾多恒河沙等佛剎，彼有世界名曰無憂，彼有如來，名賢吉祥，應供、等正覺，少病少惱，乃至為諸眾生恒說妙法。",
-    "T14n0437_001:0108c28_2": "彼佛壽命，六萬百千俱胝那臾多無數劫。",
-    "T14n0437_001:0108c29_3": "彼世界中無其日月晝夜，唯有佛光普照一切，及照地獄、傍生、焰魔羅界一切眾生令得解脫，無量眾生得無生法忍。」",
-    "T14n0437_001:0109a03_0": "佛言：「童子！",
-    "T14n0437_001:0109a03_1": "南方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰寂靜，彼有如來，名無邊光，應供、正等正覺，為諸眾生恒說妙法。」",
-    "T14n0437_001:0109a06_0": "佛言：「童子！",
-    "T14n0437_001:0109a06_1": "西方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰歡喜，彼有如來，名喜吉祥，應供、正等正覺，為諸眾生恒說妙法。」",
-    "T14n0437_001:0109a09_0": "佛言：「童子！",
-    "T14n0437_001:0109a09_1": "北方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰不動，彼有如來，名曰寶幢，應供、正等正覺，為諸眾生恒說妙法。」",
-    "T14n0437_001:0109a12_0": "佛言：「童子！",
-    "T14n0437_001:0109a12_1": "東南方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰正行，彼有如來，名曰無憂吉祥，應供、正等正覺，為諸眾生恒說妙法。」",
-    "T14n0437_001:0109a16_0": "佛言：「童子！",
-    "T14n0437_001:0109a16_1": "西南方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰寶幢吉祥，彼有如來，名曰寶幢，應供、正等正覺，為諸眾生恒說妙法。」",
-    "T14n0437_001:0109a20_0": "佛言：「童子！",
-    "T14n0437_001:0109a20_1": "西北方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰妙聲，彼有如來，名吉祥花，應供、正等正覺，為諸眾生恒說妙法。」",
-    "T14n0437_001:0109a24_0": "佛言：「童子！",
-    "T14n0437_001:0109a24_1": "東北方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰安樂，彼有如來，名蓮華光嬉戲智，應供、正等正覺，為諸眾生恒說妙法。」",
-    "T14n0437_001:0109a28_0": "佛言：「童子！",
-    "T14n0437_001:0109a28_1": "下方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰廣大，彼有如來，名光明吉祥，應供、正等正覺，為諸眾生恒說妙法。」",
-    "T14n0437_001:0109b02_0": "佛言：「童子！",
-    "T14n0437_001:0109b02_1": "上方過百千俱胝那臾多恒河沙等佛剎，彼有世界名為月光，彼有如來，名財吉祥，應供、正等正覺，為諸眾生恒說妙法。",
-    "T14n0437_001:0109b05_0": "「童子！",
-    "T14n0437_001:0109b05_1": "如是一切世界佛剎，皆有清淨旃檀樓閣，所有如來名號，若人聞已，恭敬受持、書寫讀誦、廣為人說，所有五逆等一切罪業悉皆消除，亦不墮地獄、傍生、焰魔羅界，於無上正等正覺速得不退。",
-    "T14n0437_001:0109b09_2": "「於意云何？",
-    "T14n0437_001:0109b09_3": "童子！",
-    "T14n0437_001:0109b09_4": "於過去大無數，及廣大無邊無數劫，時有世界名曰寶生，彼有如來，名精進吉祥，應供、正等正覺，彼十如來於精進吉祥佛所為菩薩位，於其佛前供養發願：『我等各於佛剎成無上正等正覺之時，若有眾生經剎那間至須臾之間，聞我十佛名號，聞已恭敬受持、書寫讀誦、廣為人說，所有五逆等一切罪業悉皆消除，亦不墮地獄、傍生、焰魔羅界，於無上正等正覺速得不退。』」",
-    "T14n0437_001:0109b19_0": "爾時，寶月童子如是聞已，而復白言：「世尊！",
-    "T14n0437_001:0109b20_0": "彼佛如來壽量云何？」",
-    "T14n0437_001:0109b20_1": "世尊答言：「彼佛壽十阿僧祇、百千俱胝、那臾多世界微塵等劫。」",
-    "T14n0437_001:0109b21_2": "童子聞已，白佛言：「彼佛如來，甚為希有！",
-    "T14n0437_001:0109b22_3": "如是悲心發願，為諸眾生得此壽量。」",
-    "T14n0437_001:0109b23_4": "佛言：「童子！",
-    "T14n0437_001:0109b23_5": "若有眾生聞此十佛名號，恭敬受持、書寫讀誦、信樂修行，所有無量、無邊福德悉得具足，三業之罪亦不能生。",
-    "T14n0437_001:0109b26_6": "「童子！",
-    "T14n0437_001:0109b26_7": "若有善男子、善女人，於恒河沙等佛剎，滿中七寶供養如來，經百千歲獲福無量；若善男子、善女人聞是十佛名號，恭敬信受、書寫讀誦、為他解說，所得福德勝前供養無量無邊。」",
-    "T14n0437_001:0109c02_0": "爾時，索河世界主、大梵天王、帝釋天子、四天大王、穌枲麼天子、大自在天子，以最上旃檀香粖散世尊前而為供養，白世尊言：「若有眾生於此正法，書寫讀誦、信解受持，得一切天人、阿修羅尊重禮拜，所有地獄、畜生、焰魔羅界、阿修羅身及餓鬼趣，皆得解脫。」",
-    "T14n0437_001:0109c07_1": "佛言：「若此正法，耳根得聞、受持讀誦，罪惡魔冤不能侵害，於阿耨多羅三藐三菩提速得不退。」",
-    "T14n0437_001:0109c10_0": "爾時，世尊而說頌曰：「持此世尊十名號，　　如是壽命俱胝劫，　佛說功德不思議，　　未來成就二足尊。」",
-    "T14n0437_001:0109c13_0": "爾時，頻婆娑羅王寶月童子，白於世尊而說伽他曰：「大無畏善說，　　無邊無量佛，　眾生最上師，　　我今歸命禮。",
-    "T14n0437_001:0109c17_0": "　如是今修學，　　一切佛知見，　願斷於煩惱，　　速成於菩提。」",
-    "T14n0437_001:0109c19_0": "爾時，童子說此頌已，白世尊言：「我今如是所有忍辱，菩薩大智總持法門，方廣之教佛菩提行，如是修學行菩提行。」",
-    "T14n0437_001:0109c22_0": "爾時，世尊復說頌曰：「若人受持佛名號，　　水火盜賊不能侵，　毒藥刀杖王難等，　　一切諸苦自消除，　如是速得於菩提，　　廣令流布佛名號。",
-    "T14n0437_001:0109c26_0": "「若此正法於末世時，有人受持讀誦，此人命終速成佛道；若以香花供養一切諸佛經多劫時，不如有人於此正法暫時書寫讀誦，所得福德無量無邊；若人以最上所愛七寶，滿於一切剎土之中，供養一切諸佛，亦不如讀誦此經得福甚多。」",
-    "T14n0437_001:0110a02_1": "佛說此經時，無量百千俱胝那臾多眾生，發阿耨多羅三藐三菩提心；無量、無邊眾生得無生忍，不退轉於阿耨多羅三藐三菩提。",
-    "T14n0437_001:0110a05_2": "佛說是語時，寶月童子等，皆大歡喜，作禮而退。",
-    "T14n0437_001:0110a07_0": "大乘寶月童子問法經"
-}
+[
+    {
+        "source_sentence": "大乘寶月童子問法經",
+        "from": "T14n0437_001:0108c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫試鴻臚",
+        "from": "T14n0437_001:0108c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "少卿傳法大師臣施護奉　詔譯",
+        "from": "T14n0437_001:0108c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞：",
+        "from": "T14n0437_001:0108c08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一時，佛在王舍城鷲峯山中，與大苾芻眾五萬五千俱胝，一心行菩提行無能勝菩薩等八萬百千無數俱胝那臾多，諸天人等百千那臾多。",
+        "from": "T14n0437_001:0108c11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時，世尊於其食時著衣持鉢，與苾芻眾并諸菩薩、天、龍、神等，恭敬圍繞，入王舍大城，於彼乞食。",
+        "from": "T14n0437_001:0108c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時，頻婆娑羅王子名寶月童子，因為事故，乘大龍象出王舍大城。",
+        "from": "T14n0437_001:0108c15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遙見世尊，即下龍象，而詣佛所。",
+        "from": "T14n0437_001:0108c16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "到已致敬，頭面禮足，住立一面。",
+        "from": "T14n0437_001:0108c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶月童子白佛言：",
+        "from": "T14n0437_001:0108c17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如來、應供、正等正覺！",
+        "from": "T14n0437_001:0108c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯願世尊，說彼十方如來所有名號。",
+        "from": "T14n0437_001:0108c18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有信心善男子、善女人，聞是名已，所有五逆等罪及一切業障，悉皆消除，於無上正等正覺速得不退。",
+        "from": "T14n0437_001:0108c21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，世尊告寶月童子言：",
+        "from": "T14n0437_001:0108c22_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「善哉，善哉！",
+        "from": "T14n0437_001:0108c22_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝能樂聞如來名號之義，此意賢善，一切罪業決定消除。",
+        "from": "T14n0437_001:0108c24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "童子！",
+        "from": "T14n0437_001:0108c24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝今諦聽，善思念之！",
+        "from": "T14n0437_001:0108c24_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我為汝說。",
+        "from": "T14n0437_001:0108c24_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「童子！",
+        "from": "T14n0437_001:0108c25_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "過於東方百千俱胝那臾多恒河沙等佛剎，彼有世界名曰無憂，彼有如來，名賢吉祥、應供、等正覺，少病少惱，乃至為諸眾生恒說妙法。",
+        "from": "T14n0437_001:0108c28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼佛壽命，六萬百千俱胝那臾多無數劫。",
+        "from": "T14n0437_001:0108c29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼世界中無其日月晝夜，唯有佛光普照一切，及照地獄、傍生、焰魔羅界一切眾生，令得解脫，無量眾生得無生法忍。",
+        "from": "T14n0437_001:0109a02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T14n0437_001:0109a03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「童子！",
+        "from": "T14n0437_001:0109a03_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰寂靜，彼有如來，名無邊光、應供、正等正覺，為諸眾生恒說妙法。",
+        "from": "T14n0437_001:0109a05_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T14n0437_001:0109a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「童子！",
+        "from": "T14n0437_001:0109a06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰歡喜，彼有如來，名喜吉祥、應供、正等正覺，為諸眾生恒說妙法。",
+        "from": "T14n0437_001:0109a08_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T14n0437_001:0109a09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「童子！",
+        "from": "T14n0437_001:0109a09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "北方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰不動，彼有如來，名曰寶幢、應供、正等正覺，為諸眾生恒說妙法。",
+        "from": "T14n0437_001:0109a11_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T14n0437_001:0109a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「童子！",
+        "from": "T14n0437_001:0109a12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "東南方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰正行，彼有如來，名曰無憂吉祥、應供、正等正覺，為諸眾生恒說妙法。",
+        "from": "T14n0437_001:0109a15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T14n0437_001:0109a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「童子！",
+        "from": "T14n0437_001:0109a16_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西南方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰寶幢吉祥，彼有如來，名曰寶幢、應供、正等正覺，為諸眾生恒說妙法。",
+        "from": "T14n0437_001:0109a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T14n0437_001:0109a20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「童子！",
+        "from": "T14n0437_001:0109a20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西北方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰妙聲，彼有如來，名吉祥花、應供、正等正覺，為諸眾生恒說妙法。",
+        "from": "T14n0437_001:0109a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T14n0437_001:0109a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「童子！",
+        "from": "T14n0437_001:0109a24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "東北方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰安樂，彼有如來，名蓮華光嬉戲智、應供、正等正覺，為諸眾生恒說妙法。",
+        "from": "T14n0437_001:0109a27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T14n0437_001:0109a28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「童子！",
+        "from": "T14n0437_001:0109a28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下方過百千俱胝那臾多恒河沙等佛剎，彼有世界名曰廣大，彼有如來，名光明吉祥、應供、正等正覺，為諸眾生恒說妙法。",
+        "from": "T14n0437_001:0109b01_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T14n0437_001:0109b02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「童子！",
+        "from": "T14n0437_001:0109b02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上方過百千俱胝那臾多恒河沙等佛剎，彼有世界名為月光，彼有如來，名財吉祥、應供、正等正覺，為諸眾生恒說妙法。",
+        "from": "T14n0437_001:0109b04_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「童子！",
+        "from": "T14n0437_001:0109b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是一切世界佛剎，皆有清淨旃檀樓閣，所有如來名號，若人聞已，恭敬受持、書寫讀誦、廣為人說，所有五逆等一切罪業悉皆消除，亦不墮地獄、傍生、焰魔羅界，於無上正等正覺速得不退。",
+        "from": "T14n0437_001:0109b09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「於意云何？",
+        "from": "T14n0437_001:0109b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "童子！",
+        "from": "T14n0437_001:0109b09_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於過去大無數及廣大無邊無數劫，時有世界名曰寶生，彼有如來，名精進吉祥、應供、正等正覺，彼十如來於精進吉祥佛所為菩薩位，於其佛前供養發願：",
+        "from": "T14n0437_001:0109b13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我等各於佛剎成無上正等正覺之時，若有眾生經剎那間至須臾之間，聞我十佛名號，聞已恭敬受持、書寫讀誦、廣為人說，所有五逆等一切罪業悉皆消除，亦不墮地獄、傍生、焰魔羅界，於無上正等正覺速得不退。",
+        "from": "T14n0437_001:0109b18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』」爾時，寶月童子如是聞已，而復白言：",
+        "from": "T14n0437_001:0109b19_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T14n0437_001:0109b19_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼佛如來壽量云何？",
+        "from": "T14n0437_001:0109b20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」世尊答言：",
+        "from": "T14n0437_001:0109b20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「彼佛壽十阿僧祇、百千俱胝、那臾多世界微塵等劫。",
+        "from": "T14n0437_001:0109b21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」童子聞已，白佛言：",
+        "from": "T14n0437_001:0109b22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「彼佛如來，甚為希有！",
+        "from": "T14n0437_001:0109b22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是悲心發願，為諸眾生得此壽量。",
+        "from": "T14n0437_001:0109b23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T14n0437_001:0109b23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「童子！",
+        "from": "T14n0437_001:0109b23_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有眾生聞此十佛名號，恭敬受持、書寫讀誦、信樂修行，所有無量、無邊福德悉得具足，三業之罪亦不能生。",
+        "from": "T14n0437_001:0109b26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「童子！",
+        "from": "T14n0437_001:0109b26_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有善男子、善女人，於恒河沙等佛剎，滿中七寶供養如來，經百千歲獲福無量；",
+        "from": "T14n0437_001:0109b28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若善男子、善女人聞是十佛名號，恭敬信受、書寫讀誦、為他解說，所得福德勝前供養無量無邊。",
+        "from": "T14n0437_001:0109c01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，索河世界主、大梵天王、帝釋天子、四天大王、穌枲麼天子、大自在天子，以最上旃檀香粖散世尊前而為供養，白世尊言：",
+        "from": "T14n0437_001:0109c04_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若有眾生於此正法，書寫讀誦、信解受持，得一切天人、阿修羅尊重禮拜，所有地獄、畜生、焰魔羅界、阿修羅身及餓鬼趣，皆得解脫。",
+        "from": "T14n0437_001:0109c07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T14n0437_001:0109c07_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若此正法，耳根得聞、受持讀誦，罪惡魔冤不能侵害，於阿耨多羅三藐三菩提速得不退。",
+        "from": "T14n0437_001:0109c09_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，世尊而說頌曰：",
+        "from": "T14n0437_001:0109c10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「持此世尊十名號，　　如是壽命俱胝劫，",
+        "from": "T14n0437_001:0109c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說功德不思議，　　未來成就二足尊。",
+        "from": "T14n0437_001:0109c12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，頻婆娑羅王寶月童子，白於世尊而說伽他曰：",
+        "from": "T14n0437_001:0109c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大無畏善說，　　無邊無量佛，",
+        "from": "T14n0437_001:0109c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾生最上師，　　我今歸命禮。",
+        "from": "T14n0437_001:0109c16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是今修學，　　一切佛知見，",
+        "from": "T14n0437_001:0109c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願斷於煩惱，　　速成於菩提。",
+        "from": "T14n0437_001:0109c18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，童子說此頌已，白世尊言：",
+        "from": "T14n0437_001:0109c19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我今如是所有忍辱、菩薩大智總持法門、方廣之教佛菩提行，如是修學行菩提行。",
+        "from": "T14n0437_001:0109c21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，世尊復說頌曰：",
+        "from": "T14n0437_001:0109c22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若人受持佛名號，　　水火盜賊不能侵，",
+        "from": "T14n0437_001:0109c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毒藥、刀杖、王難等，　　一切諸苦自消除，",
+        "from": "T14n0437_001:0109c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是速得於菩提，　　廣令流布佛名號。",
+        "from": "T14n0437_001:0109c25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若此正法於末世時，有人受持讀誦，此人命終速成佛道；",
+        "from": "T14n0437_001:0109c27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若以香花供養一切諸佛經多劫時，不如有人於此正法暫時書寫讀誦，所得福德無量無邊；",
+        "from": "T14n0437_001:0109c29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人以最上所愛七寶，滿於一切剎土之中，供養一切諸佛，亦不如讀誦此經得福甚多。",
+        "from": "T14n0437_001:0110a02_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛說此經時，無量百千俱胝那臾多眾生，發阿耨多羅三藐三菩提心；",
+        "from": "T14n0437_001:0110a03_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無量、無邊眾生得無生忍，不退轉於阿耨多羅三藐三菩提。",
+        "from": "T14n0437_001:0110a05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說是語時，寶月童子等皆大歡喜，作禮而退。",
+        "from": "T14n0437_001:0110a06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大乘寶月童子問法經",
+        "from": "T14n0437_001:0110a07_100",
+        "context_with_next_sentence": false
+    }
+]

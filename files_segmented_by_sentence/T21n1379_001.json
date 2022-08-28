@@ -1,32 +1,152 @@
-{
-    "T21n1379_001:0902b20_0": "佛說大愛陀羅尼經",
-    "T21n1379_001:0902b22_0": "西天譯經三藏朝散大夫試光祿卿",
-    "T21n1379_001:0902b23_0": "明教大師臣法賢奉　詔譯",
-    "T21n1379_001:0902b24_0": "如是我聞。",
-    "T21n1379_001:0902b24_1": "一時佛在舍衛國祇樹給孤獨園。",
-    "T21n1379_001:0902b25_0": "時有海神名曰大愛。",
-    "T21n1379_001:0902b25_1": "來詣佛所到佛所已。",
-    "T21n1379_001:0902b25_2": "頭面著地禮佛雙足。",
-    "T21n1379_001:0902b26_3": "却住一面而白佛言。",
-    "T21n1379_001:0902b26_4": "世尊我有所願利益眾生。",
-    "T21n1379_001:0902b27_5": "惟佛哀愍許我宣說。",
-    "T21n1379_001:0902b28_0": "爾時世尊知大愛心有大利益。",
-    "T21n1379_001:0902b28_1": "而告之曰善哉善哉。",
-    "T21n1379_001:0902b29_2": "汝為利益隨汝意說。",
-    "T21n1379_001:0902c01_0": "爾時大愛蒙佛聽許。",
-    "T21n1379_001:0902c01_1": "而白佛言。",
-    "T21n1379_001:0902c01_2": "我與眷屬住於大海。",
-    "T21n1379_001:0902c02_3": "多見眾生陷於海難。",
-    "T21n1379_001:0902c02_4": "愍念此等欲說陀羅尼。",
-    "T21n1379_001:0902c03_5": "令彼海難無能為害。",
-    "T21n1379_001:0902c03_6": "世尊若有善男子善女人乃至苾芻苾芻尼優婆塞優婆夷等。",
-    "T21n1379_001:0902c05_7": "聞此陀羅尼讀誦受持。",
-    "T21n1379_001:0902c05_8": "及得聞我與眷屬等名者。",
-    "T21n1379_001:0902c06_9": "所有大海一切危難悉皆解脫。",
-    "T21n1379_001:0902c06_10": "爾時大愛承佛威力。",
-    "T21n1379_001:0902c07_11": "即說陀羅尼曰。",
-    "T21n1379_001:0902c08_0": "怛[寧*也](切身)他(引一)祖嚕祖嚕(二)吐蘭達哩(引三)摩賀(引)謗哥悉體(二合)帝(引四)酤(引)儞瑟哥(二合引)儞瑟計(二合五)阿那護(六)拶鉢黎(引七)祖嚕祖嚕(八)三滿多跋捺哩(二合引九)阿屹儞(二合)作訖哩(二合引十)作訖囉(二合)多朗(十一)補囉儗儞(引)娑嚩(二合引)賀(引十二)爾時大愛海神承佛聖旨。",
-    "T21n1379_001:0902c13_1": "說此陀羅尼已。",
-    "T21n1379_001:0902c13_2": "歡喜踊躍禮佛而退。",
-    "T21n1379_001:0902c15_0": "佛說大愛陀羅尼經"
-}
+[
+    {
+        "source_sentence": "佛說大愛陀羅尼經",
+        "from": "T21n1379_001:0902b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫試光祿卿",
+        "from": "T21n1379_001:0902b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明教大師臣法賢奉　詔譯",
+        "from": "T21n1379_001:0902b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞。",
+        "from": "T21n1379_001:0902b24_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一時佛在舍衛國祇樹給孤獨園。",
+        "from": "T21n1379_001:0902b24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時有海神名曰大愛。",
+        "from": "T21n1379_001:0902b25_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "來詣佛所到佛所已。",
+        "from": "T21n1379_001:0902b25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頭面著地禮佛雙足。",
+        "from": "T21n1379_001:0902b26_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "却住一面而白佛言。",
+        "from": "T21n1379_001:0902b26_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊我有所願利益眾生。",
+        "from": "T21n1379_001:0902b27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟佛哀愍許我宣說。",
+        "from": "T21n1379_001:0902b27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊知大愛心有大利益。",
+        "from": "T21n1379_001:0902b28_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而告之曰善哉善哉。",
+        "from": "T21n1379_001:0902b29_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝為利益隨汝意說。",
+        "from": "T21n1379_001:0902b29_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時大愛蒙佛聽許。",
+        "from": "T21n1379_001:0902c01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而白佛言。",
+        "from": "T21n1379_001:0902c01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我與眷屬住於大海。",
+        "from": "T21n1379_001:0902c02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "多見眾生陷於海難。",
+        "from": "T21n1379_001:0902c02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愍念此等欲說陀羅尼。",
+        "from": "T21n1379_001:0902c03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令彼海難無能為害。",
+        "from": "T21n1379_001:0902c03_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊若有善男子善女人乃至苾芻苾芻尼優婆塞優婆夷等。",
+        "from": "T21n1379_001:0902c05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞此陀羅尼讀誦受持。",
+        "from": "T21n1379_001:0902c05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及得聞我與眷屬等名者。",
+        "from": "T21n1379_001:0902c06_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有大海一切危難悉皆解脫。",
+        "from": "T21n1379_001:0902c06_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時大愛承佛威力。",
+        "from": "T21n1379_001:0902c07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即說陀羅尼曰。",
+        "from": "T21n1379_001:0902c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "怛𭔞切身他引一祖嚕祖嚕二吐蘭達哩引三摩賀引謗哥悉體二合帝引四酤引儞瑟哥二合引儞瑟計二合五阿那護六拶鉢黎引七祖嚕祖嚕八三滿多跋𭡠哩二合引九阿屹儞二合作訖哩二合引十作訖囉二合多朗十一補囉儗儞引娑嚩二合引賀引十二爾時大愛海神承佛聖旨。",
+        "from": "T21n1379_001:0902c13_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說此陀羅尼已。",
+        "from": "T21n1379_001:0902c13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歡喜踊躍禮佛而退。",
+        "from": "T21n1379_001:0902c14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說大愛陀羅尼經",
+        "from": "T21n1379_001:0902c15_100",
+        "context_with_next_sentence": false
+    }
+]

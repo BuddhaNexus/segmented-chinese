@@ -1,139 +1,992 @@
-{
-    "T16n0715_001:0829a04_0": "佛說舊城喻經",
-    "T16n0715_001:0829a06_0": "西天譯經三藏朝奉大夫試光祿卿",
-    "T16n0715_001:0829a07_0": "明教大師臣法賢奉　詔譯",
-    "T16n0715_001:0829a08_0": "如是我聞：一時佛在舍衛國祇樹給孤獨園，與大眾俱。",
-    "T16n0715_001:0829a10_0": "爾時佛告諸苾芻言：「苾芻！",
-    "T16n0715_001:0829a10_1": "我於往昔未證阿耨多羅三藐三菩提時，獨止一處，心生疑念：『何因世間一切眾生受輪迴苦？",
-    "T16n0715_001:0829a12_2": "謂生、老死，滅已復生。",
-    "T16n0715_001:0829a13_3": "由彼眾生不如實知，是故不能出離生、老死苦。",
-    "T16n0715_001:0829a14_4": "我今思念此老死苦從何因有，復從何緣有此老死？』",
-    "T16n0715_001:0829a15_5": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829a16_6": "諦觀察已，乃如實知：『今此老死因生而有，復從生緣而有老死。』",
-    "T16n0715_001:0829a17_7": "「知此法已，又復思惟：『生何因有，復以何緣有此生法？』",
-    "T16n0715_001:0829a18_8": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829a19_9": "諦觀察已，乃如實知：『生因有起，復從有緣起此生法。』",
-    "T16n0715_001:0829a20_10": "「知此法已，又復思惟：『有因何起，復以何緣起此有法？』",
-    "T16n0715_001:0829a21_11": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829a22_12": "諦觀察已，乃如實知：『有因取起，復從取緣起此有法。』",
-    "T16n0715_001:0829a23_13": "「知此法已，又復思惟：『取何因有，復從何緣有此取法？』",
-    "T16n0715_001:0829a25_0": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829a25_1": "諦觀察已，乃如實知：『取因愛有，復從愛緣有此取法。』",
-    "T16n0715_001:0829a26_2": "「知此法已，又復思惟：『愛何因有，復以何緣有此愛法？』",
-    "T16n0715_001:0829a28_3": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829a28_4": "諦觀察已，乃如實知：『愛因受有，復從受緣有此愛法。』",
-    "T16n0715_001:0829b01_5": "「知此法已，又復思惟：『受何因有，復以何緣有此受法？』",
-    "T16n0715_001:0829b02_6": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829b03_0": "諦觀察已，乃如實知：『受因觸有，復從觸緣有此受法。』",
-    "T16n0715_001:0829b04_1": "「知此法已，又復思惟：『觸何因有，復以何緣有此觸法？』",
-    "T16n0715_001:0829b05_2": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829b06_3": "諦觀察已，乃如實知：『觸因六處有，復從六處緣有此觸法。』",
-    "T16n0715_001:0829b07_4": "「知此法已，又復思惟：『今此六處何因而有，復從何緣有六處法？』",
-    "T16n0715_001:0829b08_5": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829b09_6": "諦觀察已，乃如實知：『而彼六處因名色有，從名色緣有六處法。』",
-    "T16n0715_001:0829b11_0": "「知此法已，又復思惟：『今此名色何因而有，復從何緣有此名色？』",
-    "T16n0715_001:0829b12_1": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829b13_2": "諦觀察已，乃如實知：『而彼名色因識而有，復從識緣有名色法。』",
-    "T16n0715_001:0829b14_3": "「知此法已，又復思惟：『識何因有，復以何緣有此識法？』",
-    "T16n0715_001:0829b15_4": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829b16_5": "諦觀察已，乃如實知：『如是識法因名色有，從名色緣有此識法。",
-    "T16n0715_001:0829b17_6": "唯此識緣能生諸行，由是名色緣識，識緣名色，名色緣六處，六處緣觸，觸緣受，受緣愛，愛緣取，取緣有，有緣生，生緣老死、憂、悲、苦、惱。",
-    "T16n0715_001:0829b20_7": "是故一大苦蘊集。』",
-    "T16n0715_001:0829b21_8": "「知此法已，又復思惟：『以何因故，得無老死？",
-    "T16n0715_001:0829b22_9": "何法滅已，得老死滅？』",
-    "T16n0715_001:0829b22_10": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829b23_11": "諦觀察已，乃如實知：『若無生法，即無老死。",
-    "T16n0715_001:0829b24_12": "生法滅已，老死亦滅。』",
-    "T16n0715_001:0829b24_13": "「知此法已，又復思惟：『何法若無，生法得無？",
-    "T16n0715_001:0829b25_14": "何法滅已，生法得滅？』",
-    "T16n0715_001:0829b26_15": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829b27_16": "諦觀察已，乃如實知：『若無有法，即無生法。",
-    "T16n0715_001:0829b28_17": "有法若滅，生法亦滅。』",
-    "T16n0715_001:0829b28_18": "「知此法已，又復思惟：『何法若無，有法不起？",
-    "T16n0715_001:0829b29_19": "何法滅已，有法得滅？』",
-    "T16n0715_001:0829c01_0": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829c01_1": "諦觀察已，乃如實知：『若無取法，有法即無。",
-    "T16n0715_001:0829c02_2": "取法滅已，有法亦滅。』",
-    "T16n0715_001:0829c03_3": "「知此法已，又復思惟：『何法若無，取法得無？",
-    "T16n0715_001:0829c04_4": "何法滅已，取法得滅？』",
-    "T16n0715_001:0829c04_5": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829c05_6": "諦觀察已，乃如實知：『若無愛法，即無取法。",
-    "T16n0715_001:0829c06_7": "愛法滅已，取法亦滅。』",
-    "T16n0715_001:0829c06_8": "「知此法已，又復思惟：『何法若無，得無愛法？",
-    "T16n0715_001:0829c07_9": "何法滅已，愛法得滅？』",
-    "T16n0715_001:0829c08_10": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829c08_11": "諦觀察已，乃如實知：『受法若無，愛法即無。",
-    "T16n0715_001:0829c09_12": "受法滅已，愛法亦滅。』",
-    "T16n0715_001:0829c10_13": "「知此法已，又復思惟：『何法若無，受法得無？",
-    "T16n0715_001:0829c11_14": "何法滅已，受法得滅？』",
-    "T16n0715_001:0829c11_15": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829c12_16": "諦觀察已，乃如實知：『觸法若無，受法即無。",
-    "T16n0715_001:0829c13_17": "觸法滅已，受法亦滅。』",
-    "T16n0715_001:0829c13_18": "「知此法已，又復思惟：『何法若無，觸法即無？",
-    "T16n0715_001:0829c14_19": "何法滅已，觸法得滅？』",
-    "T16n0715_001:0829c15_20": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829c16_21": "諦觀察已，乃如實知：『六處若無，觸法得無。",
-    "T16n0715_001:0829c17_22": "六處滅已，觸法亦滅。』",
-    "T16n0715_001:0829c17_23": "「知此法已，又復思惟：『何法若無，六處得無？",
-    "T16n0715_001:0829c18_24": "何法滅已，六處亦滅？』",
-    "T16n0715_001:0829c19_0": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829c19_1": "諦觀察已，乃如實知：『名色若無，六處得無。",
-    "T16n0715_001:0829c20_2": "名色滅已，六處亦滅。』",
-    "T16n0715_001:0829c21_3": "「知此法已，又復思惟：『何法若無，名色得無？",
-    "T16n0715_001:0829c22_4": "何法滅已，名色亦滅？』",
-    "T16n0715_001:0829c22_5": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829c23_6": "諦觀察已，乃如實知：『識法若無，名色即無。",
-    "T16n0715_001:0829c24_7": "識法滅已，名色亦滅。』",
-    "T16n0715_001:0829c24_8": "「知此法已，又復思惟：『何法若無，識法得無？",
-    "T16n0715_001:0829c25_9": "何法滅已，識法亦滅？』",
-    "T16n0715_001:0829c26_10": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0829c26_11": "諦觀察已，乃如實知：『行法若無，識法即無。",
-    "T16n0715_001:0829c27_12": "行法若滅，識法亦滅。』",
-    "T16n0715_001:0829c28_13": "「知此法已，又復思惟：『何法若無，行法得無？",
-    "T16n0715_001:0829c29_14": "何法滅已，行法得滅？』",
-    "T16n0715_001:0829c29_15": "作是念已，離諸攀緣，定心觀察。",
-    "T16n0715_001:0830a01_16": "諦觀察已，乃如實知：『無明若無，行法即無。",
-    "T16n0715_001:0830a02_17": "無明滅已，行法亦滅。",
-    "T16n0715_001:0830a02_18": "由是無明滅則行滅；行滅則識滅；識滅則名色滅；名色滅則六處滅；六處滅則觸滅；觸滅則受滅；受滅則愛滅；愛滅則取滅；取滅則有滅；有滅則生滅；生滅則老死、憂、悲、苦、惱滅。",
-    "T16n0715_001:0830a07_0": "由是一大苦蘊滅。』",
-    "T16n0715_001:0830a07_1": "「一一了知如是法已，又復思惟：『我今已履佛所行道，已被昔人所被之甲，已到昔人涅盤之城。』」",
-    "T16n0715_001:0830a10_0": "佛復告言：「諸苾芻！",
-    "T16n0715_001:0830a10_1": "譬如有人欲遠所詣，即履昔人所行之道，又被昔人所被之甲，乃尋昔人舊所都城。",
-    "T16n0715_001:0830a12_2": "或行深山，或行曠野，行之不已，到彼舊城。",
-    "T16n0715_001:0830a13_3": "其城廣大，乃是往昔王之所都。",
-    "T16n0715_001:0830a14_0": "而此都城嚴麗依然。",
-    "T16n0715_001:0830a14_1": "池沼、園苑皆悉殊好。",
-    "T16n0715_001:0830a14_2": "人之見者，心無厭捨。",
-    "T16n0715_001:0830a15_3": "是人見已，即自思惟：『我今迴還詣於本國，具以斯事上奏於王。』",
-    "T16n0715_001:0830a16_4": "既至本國，即奏王曰：『大王當知！",
-    "T16n0715_001:0830a17_5": "我被昔人所被之甲，乃履昔人所行之道。",
-    "T16n0715_001:0830a18_6": "或行深山，或行曠野，行之不已，到一舊城。",
-    "T16n0715_001:0830a19_7": "其城廣大，乃是往昔王之都聚。",
-    "T16n0715_001:0830a20_8": "而彼城隍嚴麗依然。",
-    "T16n0715_001:0830a20_9": "池沼、園苑皆悉殊好。",
-    "T16n0715_001:0830a21_10": "人所見者，心無厭捨。",
-    "T16n0715_001:0830a21_11": "大王宜應往彼都止。』",
-    "T16n0715_001:0830a22_12": "王聞語已，即允所奏，乃與臣佐尋都彼城。",
-    "T16n0715_001:0830a23_13": "而彼都城由王居止，轉更嚴麗，人民熾盛，豐樂倍常。",
-    "T16n0715_001:0830a24_14": "「諸苾芻！",
-    "T16n0715_001:0830a24_15": "我亦如是。",
-    "T16n0715_001:0830a24_16": "履於諸佛舊所行道，被於諸佛所被舊甲，行詣諸佛涅盤舊城。",
-    "T16n0715_001:0830a26_17": "諸苾芻！",
-    "T16n0715_001:0830a26_18": "何謂舊道？",
-    "T16n0715_001:0830a26_19": "何謂舊甲？",
-    "T16n0715_001:0830a27_0": "何謂舊城？",
-    "T16n0715_001:0830a27_1": "即是過去諸佛所行八正之道。",
-    "T16n0715_001:0830a27_2": "所謂：正見、正思惟、正語、正業、正命、正精進、正念、正定。",
-    "T16n0715_001:0830a29_3": "諸苾芻！",
-    "T16n0715_001:0830a29_4": "此八正道是即舊道，是即舊甲，是即舊城。",
-    "T16n0715_001:0830b01_5": "先佛所行，我亦履踐，乃可得見彼老死集。",
-    "T16n0715_001:0830b02_6": "是故我證得老死滅乃至觀見生、有取、愛、受、觸、六處、名色、識等皆滅。",
-    "T16n0715_001:0830b03_7": "又觀行集，亦令行滅；行法滅已，無明亦滅；無明滅已，即無所觀。",
-    "T16n0715_001:0830b05_8": "是時我以自神通力成等正覺。",
-    "T16n0715_001:0830b05_9": "「諸苾芻！",
-    "T16n0715_001:0830b06_0": "我所宣說如是正法，汝等精勤，應如是學，應如是行，記念修習，成諸梵行。",
-    "T16n0715_001:0830b07_1": "天上人間宣布法化，廣為眾生作大利益。",
-    "T16n0715_001:0830b08_2": "乃至苾芻尼、優婆塞、優婆夷、婆羅門、外道尼乾子等，亦應如是修習、宣布，廣為眾生作大利益。」",
-    "T16n0715_001:0830b10_3": "爾時世尊說是經已，一切大眾聞佛所說，信受奉行。",
-    "T16n0715_001:0830b12_0": "佛說舊城喻經"
-}
+[
+    {
+        "source_sentence": "佛說舊城喻經",
+        "from": "T16n0715_001:0829a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝奉大夫試光祿卿",
+        "from": "T16n0715_001:0829a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明教大師臣法賢奉　詔譯",
+        "from": "T16n0715_001:0829a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞：",
+        "from": "T16n0715_001:0829a08_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一時佛在舍衛國祇樹給孤獨園，與大眾俱。",
+        "from": "T16n0715_001:0829a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時佛告諸苾芻言：",
+        "from": "T16n0715_001:0829a10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「苾芻！",
+        "from": "T16n0715_001:0829a10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我於往昔未證阿耨多羅三藐三菩提時，獨止一處，心生疑念：",
+        "from": "T16n0715_001:0829a11_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『何因世間一切眾生受輪迴苦？",
+        "from": "T16n0715_001:0829a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謂生、老死，滅已復生。",
+        "from": "T16n0715_001:0829a13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由彼眾生不如實知，是故不能出離生、老死苦。",
+        "from": "T16n0715_001:0829a14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我今思念此老死苦從何因有，復從何緣有此老死？",
+        "from": "T16n0715_001:0829a15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829a16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829a16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『今此老死因生而有，復從生緣而有老死。",
+        "from": "T16n0715_001:0829a17_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『生何因有，復以何緣有此生法？",
+        "from": "T16n0715_001:0829a18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829a19_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829a19_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『生因有起，復從有緣起此生法。",
+        "from": "T16n0715_001:0829a20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829a21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『有因何起，復以何緣起此有法？",
+        "from": "T16n0715_001:0829a21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829a22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829a23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『有因取起，復從取緣起此有法。",
+        "from": "T16n0715_001:0829a23_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829a24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『取何因有，復從何緣有此取法？",
+        "from": "T16n0715_001:0829a24_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829a25_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829a26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『取因愛有，復從愛緣有此取法。",
+        "from": "T16n0715_001:0829a26_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829a27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『愛何因有，復以何緣有此愛法？",
+        "from": "T16n0715_001:0829a28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829a28_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829a29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『愛因受有，復從受緣有此愛法。",
+        "from": "T16n0715_001:0829b01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829b01_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『受何因有，復以何緣有此受法？",
+        "from": "T16n0715_001:0829b02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829b02_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829b03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『受因觸有，復從觸緣有此受法。",
+        "from": "T16n0715_001:0829b04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829b04_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『觸何因有，復以何緣有此觸法？",
+        "from": "T16n0715_001:0829b05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829b06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829b06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『觸因六處有，復從六處緣有此觸法。",
+        "from": "T16n0715_001:0829b07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829b07_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『今此六處何因而有，復從何緣有六處法？",
+        "from": "T16n0715_001:0829b08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829b09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『而彼六處因名色有，從名色緣有六處法。",
+        "from": "T16n0715_001:0829b10_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829b11_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『今此名色何因而有，復從何緣有此名色？",
+        "from": "T16n0715_001:0829b12_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829b13_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829b13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『而彼名色因識而有，復從識緣有名色法。",
+        "from": "T16n0715_001:0829b14_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『識何因有，復以何緣有此識法？",
+        "from": "T16n0715_001:0829b15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829b16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829b16_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『如是識法因名色有，從名色緣有此識法。",
+        "from": "T16n0715_001:0829b17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯此識緣能生諸行，由是名色緣識，識緣名色，名色緣六處，六處緣觸，觸緣受，受緣愛，愛緣取，取緣有，有緣生，生緣老死、憂、悲、苦、惱。",
+        "from": "T16n0715_001:0829b20_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故一大苦蘊集。",
+        "from": "T16n0715_001:0829b21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829b21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『以何因故，得無老死？",
+        "from": "T16n0715_001:0829b22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何法滅已，得老死滅？",
+        "from": "T16n0715_001:0829b22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829b23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829b23_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『若無生法，即無老死。",
+        "from": "T16n0715_001:0829b24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生法滅已，老死亦滅。",
+        "from": "T16n0715_001:0829b24_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829b25_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『何法若無，生法得無？",
+        "from": "T16n0715_001:0829b25_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何法滅已，生法得滅？",
+        "from": "T16n0715_001:0829b26_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829b27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829b27_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『若無有法，即無生法。",
+        "from": "T16n0715_001:0829b28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有法若滅，生法亦滅。",
+        "from": "T16n0715_001:0829b28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829b29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『何法若無，有法不起？",
+        "from": "T16n0715_001:0829b29_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何法滅已，有法得滅？",
+        "from": "T16n0715_001:0829b29_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829c01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829c02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『若無取法，有法即無。",
+        "from": "T16n0715_001:0829c02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "取法滅已，有法亦滅。",
+        "from": "T16n0715_001:0829c03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829c03_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『何法若無，取法得無？",
+        "from": "T16n0715_001:0829c04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何法滅已，取法得滅？",
+        "from": "T16n0715_001:0829c04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829c05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829c05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『若無愛法，即無取法。",
+        "from": "T16n0715_001:0829c06_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愛法滅已，取法亦滅。",
+        "from": "T16n0715_001:0829c06_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『何法若無，得無愛法？",
+        "from": "T16n0715_001:0829c07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何法滅已，愛法得滅？",
+        "from": "T16n0715_001:0829c08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829c08_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829c09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『受法若無，愛法即無。",
+        "from": "T16n0715_001:0829c09_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受法滅已，愛法亦滅。",
+        "from": "T16n0715_001:0829c10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829c10_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『何法若無，受法得無？",
+        "from": "T16n0715_001:0829c11_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何法滅已，受法得滅？",
+        "from": "T16n0715_001:0829c11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829c12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829c12_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『觸法若無，受法即無。",
+        "from": "T16n0715_001:0829c13_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觸法滅已，受法亦滅。",
+        "from": "T16n0715_001:0829c13_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829c14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『何法若無，觸法即無？",
+        "from": "T16n0715_001:0829c14_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何法滅已，觸法得滅？",
+        "from": "T16n0715_001:0829c15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829c16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829c16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『六處若無，觸法得無。",
+        "from": "T16n0715_001:0829c17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六處滅已，觸法亦滅。",
+        "from": "T16n0715_001:0829c17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『何法若無，六處得無？",
+        "from": "T16n0715_001:0829c18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何法滅已，六處亦滅？",
+        "from": "T16n0715_001:0829c18_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829c19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829c20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『名色若無，六處得無。",
+        "from": "T16n0715_001:0829c20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名色滅已，六處亦滅。",
+        "from": "T16n0715_001:0829c21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829c21_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『何法若無，名色得無？",
+        "from": "T16n0715_001:0829c22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何法滅已，名色亦滅？",
+        "from": "T16n0715_001:0829c22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829c23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829c23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『識法若無，名色即無。",
+        "from": "T16n0715_001:0829c24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "識法滅已，名色亦滅。",
+        "from": "T16n0715_001:0829c24_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829c25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『何法若無，識法得無？",
+        "from": "T16n0715_001:0829c25_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何法滅已，識法亦滅？",
+        "from": "T16n0715_001:0829c26_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0829c26_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0829c27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『行法若無，識法即無。",
+        "from": "T16n0715_001:0829c27_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行法若滅，識法亦滅。",
+        "from": "T16n0715_001:0829c28_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「知此法已，又復思惟：",
+        "from": "T16n0715_001:0829c28_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『何法若無，行法得無？",
+        "from": "T16n0715_001:0829c29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何法滅已，行法得滅？",
+        "from": "T16n0715_001:0829c29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』作是念已，離諸攀緣，定心觀察。",
+        "from": "T16n0715_001:0830a01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諦觀察已，乃如實知：",
+        "from": "T16n0715_001:0830a01_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『無明若無，行法即無。",
+        "from": "T16n0715_001:0830a02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無明滅已，行法亦滅。",
+        "from": "T16n0715_001:0830a02_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由是無明滅則行滅；",
+        "from": "T16n0715_001:0830a03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行滅則識滅；",
+        "from": "T16n0715_001:0830a03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "識滅則名色滅；",
+        "from": "T16n0715_001:0830a04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名色滅則六處滅；",
+        "from": "T16n0715_001:0830a04_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六處滅則觸滅；",
+        "from": "T16n0715_001:0830a04_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觸滅則受滅；",
+        "from": "T16n0715_001:0830a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受滅則愛滅；",
+        "from": "T16n0715_001:0830a05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "愛滅則取滅；",
+        "from": "T16n0715_001:0830a05_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "取滅則有滅；",
+        "from": "T16n0715_001:0830a06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有滅則生滅；",
+        "from": "T16n0715_001:0830a06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生滅則老死、憂、悲、苦、惱滅。",
+        "from": "T16n0715_001:0830a06_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由是一大苦蘊滅。",
+        "from": "T16n0715_001:0830a07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「一一了知如是法已，又復思惟：",
+        "from": "T16n0715_001:0830a08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我今已履佛所行道，已被昔人所被之甲，已到昔人涅盤之城。",
+        "from": "T16n0715_001:0830a09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』」佛復告言：",
+        "from": "T16n0715_001:0830a10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「諸苾芻！",
+        "from": "T16n0715_001:0830a10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如有人欲遠所詣，即履昔人所行之道，又被昔人所被之甲，乃尋昔人舊所都城。",
+        "from": "T16n0715_001:0830a12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或行深山，或行曠野，行之不已，到彼舊城。",
+        "from": "T16n0715_001:0830a13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其城廣大，乃是往昔王之所都。",
+        "from": "T16n0715_001:0830a13_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而此都城嚴麗依然。",
+        "from": "T16n0715_001:0830a14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "池沼、園苑皆悉殊好。",
+        "from": "T16n0715_001:0830a14_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人之見者，心無厭捨。",
+        "from": "T16n0715_001:0830a15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是人見已，即自思惟：",
+        "from": "T16n0715_001:0830a15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我今迴還詣於本國，具以斯事上奏於王。",
+        "from": "T16n0715_001:0830a16_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』既至本國，即奏王曰：",
+        "from": "T16n0715_001:0830a17_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『大王當知！",
+        "from": "T16n0715_001:0830a17_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我被昔人所被之甲，乃履昔人所行之道。",
+        "from": "T16n0715_001:0830a18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或行深山，或行曠野，行之不已，到一舊城。",
+        "from": "T16n0715_001:0830a19_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其城廣大，乃是往昔王之都聚。",
+        "from": "T16n0715_001:0830a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼城隍嚴麗依然。",
+        "from": "T16n0715_001:0830a20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "池沼、園苑皆悉殊好。",
+        "from": "T16n0715_001:0830a21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人所見者，心無厭捨。",
+        "from": "T16n0715_001:0830a21_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大王宜應往彼都止。",
+        "from": "T16n0715_001:0830a22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』王聞語已，即允所奏，乃與臣佐尋都彼城。",
+        "from": "T16n0715_001:0830a23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而彼都城由王居止，轉更嚴麗，人民熾盛，豐樂倍常。",
+        "from": "T16n0715_001:0830a24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「諸苾芻！",
+        "from": "T16n0715_001:0830a24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我亦如是。",
+        "from": "T16n0715_001:0830a24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "履於諸佛舊所行道，被於諸佛所被舊甲，行詣諸佛涅盤舊城。",
+        "from": "T16n0715_001:0830a26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸苾芻！",
+        "from": "T16n0715_001:0830a26_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何謂舊道？",
+        "from": "T16n0715_001:0830a26_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何謂舊甲？",
+        "from": "T16n0715_001:0830a26_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何謂舊城？",
+        "from": "T16n0715_001:0830a27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即是過去諸佛所行八正之道。",
+        "from": "T16n0715_001:0830a27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂：",
+        "from": "T16n0715_001:0830a28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正見、正思惟、正語、正業、正命、正精進、正念、正定。",
+        "from": "T16n0715_001:0830a29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸苾芻！",
+        "from": "T16n0715_001:0830a29_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此八正道是即舊道，是即舊甲，是即舊城。",
+        "from": "T16n0715_001:0830b01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "先佛所行，我亦履踐，乃可得見彼老死集。",
+        "from": "T16n0715_001:0830b02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故我證得老死滅乃至觀見生、有取、愛、受、觸、六處、名色、識等皆滅。",
+        "from": "T16n0715_001:0830b03_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又觀行集，亦令行滅；",
+        "from": "T16n0715_001:0830b04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行法滅已，無明亦滅；",
+        "from": "T16n0715_001:0830b04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無明滅已，即無所觀。",
+        "from": "T16n0715_001:0830b05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時我以自神通力成等正覺。",
+        "from": "T16n0715_001:0830b05_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「諸苾芻！",
+        "from": "T16n0715_001:0830b05_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我所宣說如是正法，汝等精勤，應如是學，應如是行，記念修習，成諸梵行。",
+        "from": "T16n0715_001:0830b07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天上人間宣布法化，廣為眾生作大利益。",
+        "from": "T16n0715_001:0830b08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至苾芻尼、優婆塞、優婆夷、婆羅門、外道尼乾子等，亦應如是修習、宣布，廣為眾生作大利益。",
+        "from": "T16n0715_001:0830b10_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊說是經已，一切大眾聞佛所說，信受奉行。",
+        "from": "T16n0715_001:0830b11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說舊城喻經",
+        "from": "T16n0715_001:0830b12_100",
+        "context_with_next_sentence": false
+    }
+]

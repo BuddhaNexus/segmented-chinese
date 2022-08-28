@@ -1,18 +1,152 @@
-{
-    "T17n0798_001:0744b08_0": "佛說進學經",
-    "T17n0798_001:0744b10_0": "宋居士沮渠京聲譯",
-    "T17n0798_001:0744b11_0": "聞如是：一時佛遊舍衛祇樹之園須達精舍，大賢眾千二百五十人。",
-    "T17n0798_001:0744b12_1": "佛告諸比丘：「有四雅行，智者常遵、丈夫所修、達士恒奉，不才愚夫所不好樂。",
-    "T17n0798_001:0744b14_2": "何等為四？",
-    "T17n0798_001:0744b14_3": "孝事父母，悅色養足；守仁行慈，終始不殺；惠施濟乏，未曾悋逆；遭值聖世，捐榮履道。",
-    "T17n0798_001:0744b16_4": "是四雅行，智者所遵、丈夫所修、達士所奉，不才愚夫所不好樂。」",
-    "T17n0798_001:0744b17_5": "佛時頌曰：「智者稱孝，　　愍命慈活，　　放施普給，　超俗崇寂。",
-    "T17n0798_001:0744b20_6": "　　如是正業，　　明士所習，　聖見已具，　　定至無為。」",
-    "T17n0798_001:0744b22_0": "佛告比丘：「復有二法，若在閑宴，或處大眾，心行莫懈：一者靜寂，賢聖默定；二者博學，講論邃義。",
-    "T17n0798_001:0744b24_1": "又有二施：飲食美味以安身命；敷散經典開微悅聽。",
-    "T17n0798_001:0744b25_2": "食施安身，法施遷神；一事雖快，法施為最。",
-    "T17n0798_001:0744b26_3": "是以比丘念演妙法，宣慧莫癡；既自洗濯，并淨塵著。",
-    "T17n0798_001:0744b27_4": "如是道法永度無窮，乃名出家，具足覺了。」",
-    "T17n0798_001:0744b28_5": "佛說經竟，比丘歡喜，作禮受教。",
-    "T17n0798_001:0744c01_0": "佛說進學經"
-}
+[
+    {
+        "source_sentence": "佛說進學經",
+        "from": "T17n0798_001:0744b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宋居士沮渠京聲譯",
+        "from": "T17n0798_001:0744b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞如是：一時佛遊舍衛祇樹之園須達精舍，",
+        "from": "T17n0798_001:0744b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大賢眾千二百五十人。",
+        "from": "T17n0798_001:0744b12_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛告諸比丘：",
+        "from": "T17n0798_001:0744b12_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「有四雅行，智者常遵、丈夫所修、達士恒奉，不才愚夫所不好樂。",
+        "from": "T17n0798_001:0744b14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為四？",
+        "from": "T17n0798_001:0744b14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "孝事父母，悅色養足；",
+        "from": "T17n0798_001:0744b14_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "守仁行慈，終始不殺；",
+        "from": "T17n0798_001:0744b15_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惠施濟乏，未曾悋逆；",
+        "from": "T17n0798_001:0744b15_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遭值聖世，捐榮履道。",
+        "from": "T17n0798_001:0744b16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是四雅行，智者所遵、丈夫所修、達士所奉，不才愚夫所不好樂。",
+        "from": "T17n0798_001:0744b17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛時頌曰：",
+        "from": "T17n0798_001:0744b18_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「智者稱孝，　　愍命慈活，　　放施普給，",
+        "from": "T17n0798_001:0744b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "超俗崇寂。",
+        "from": "T17n0798_001:0744b20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　如是正業，　　明士所習，聖見已具，　　定至無為。",
+        "from": "T17n0798_001:0744b21_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛告比丘：",
+        "from": "T17n0798_001:0744b22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「復有二法，若在閑宴，或處大眾，心行莫懈：",
+        "from": "T17n0798_001:0744b23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者靜寂，賢聖默定；",
+        "from": "T17n0798_001:0744b23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者博學，講論邃義。",
+        "from": "T17n0798_001:0744b24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又有二施：",
+        "from": "T17n0798_001:0744b24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "飲食美味以安身命；",
+        "from": "T17n0798_001:0744b24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "敷散經典開微悅聽。",
+        "from": "T17n0798_001:0744b25_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "食施安身，法施遷神；",
+        "from": "T17n0798_001:0744b25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一事雖快，法施為最。",
+        "from": "T17n0798_001:0744b26_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是以比丘念演妙法，宣慧莫癡；",
+        "from": "T17n0798_001:0744b27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既自洗濯，并淨塵著。",
+        "from": "T17n0798_001:0744b27_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是道法，永度無窮，乃名出家，具足覺了。",
+        "from": "T17n0798_001:0744b28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛說經竟，比丘歡喜，作禮受教。",
+        "from": "T17n0798_001:0744b29_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說進學經",
+        "from": "T17n0798_001:0744c01_100",
+        "context_with_next_sentence": false
+    }
+]

@@ -1,41 +1,227 @@
-{
-    "T02n0110_001:0504a04_0": "佛說三轉法輪經",
-    "T02n0110_001:0504a06_0": "三藏法師義淨奉　制譯",
-    "T02n0110_001:0504a07_0": "如是我聞：一時，薄伽梵在婆羅痆斯仙人墮處施鹿林中。",
-    "T02n0110_001:0504a08_1": "爾時，世尊告五苾芻曰：「汝等苾芻！",
-    "T02n0110_001:0504a09_2": "此苦聖諦，於所聞法如理作意，能生眼智明覺，汝等苾芻！",
-    "T02n0110_001:0504a10_3": "此苦集、苦滅、順苦滅道聖諦之法，如理作意，能生眼智明覺。",
-    "T02n0110_001:0504a12_0": "「汝等苾芻！",
-    "T02n0110_001:0504a12_1": "此苦聖諦是所了法，如是應知，於所聞法如理作意，能生眼智明覺。",
-    "T02n0110_001:0504a14_0": "「汝等苾芻！",
-    "T02n0110_001:0504a14_1": "此苦集聖諦是所了法，如是應斷，於所聞法如理作意，能生眼智明覺。",
-    "T02n0110_001:0504a16_0": "「汝等苾芻！",
-    "T02n0110_001:0504a16_1": "此苦滅聖諦是所了法，如是應證，於所聞法如理作意，能生眼智明覺。",
-    "T02n0110_001:0504a17_2": "「汝等苾芻！",
-    "T02n0110_001:0504a18_3": "此順苦滅道聖諦是所了法，如是應修，於所聞法如理作意，能生眼智明覺。",
-    "T02n0110_001:0504a20_0": "「汝等苾芻！",
-    "T02n0110_001:0504a20_1": "此苦聖諦是所了法，如是已知，於所聞法如理作意，能生眼智明覺。",
-    "T02n0110_001:0504a22_0": "「汝等苾芻！",
-    "T02n0110_001:0504a22_1": "此苦集聖諦是所了法，如是已斷，於所聞法如理作意，能生眼智明覺。",
-    "T02n0110_001:0504a24_0": "「汝等苾芻！",
-    "T02n0110_001:0504a24_1": "此苦滅聖諦是所了法，如是已證，於所聞法如理作意，能生眼智明覺。",
-    "T02n0110_001:0504a26_0": "「汝等苾芻！",
-    "T02n0110_001:0504a26_1": "此順苦滅道聖諦是所了法，如是已修，於所聞法如理作意，能生眼智明覺。",
-    "T02n0110_001:0504a28_0": "「汝等苾芻！",
-    "T02n0110_001:0504a28_1": "若我於此四聖諦法未了三轉十二相者，眼智明覺皆不得生，我則不於諸天魔梵、沙門婆羅門一切世間，捨離煩惱心得解脫，不能證得無上菩提。",
-    "T02n0110_001:0504b03_0": "「汝等苾芻！",
-    "T02n0110_001:0504b03_1": "由我於此四聖諦法解了三轉十二相故，眼智明覺皆悉得生，乃於諸天魔梵、沙門婆羅門一切世間，捨離煩惱心得解脫，便能證得無上菩提。」",
-    "T02n0110_001:0504b07_0": "爾時世尊說是法時，具壽憍陳如及八萬諸天，遠塵離垢得法眼淨。",
-    "T02n0110_001:0504b08_1": "佛告憍陳如：「汝解此法不？」",
-    "T02n0110_001:0504b09_2": "答言：「已解。",
-    "T02n0110_001:0504b09_3": "世尊！」",
-    "T02n0110_001:0504b09_4": "「汝解此法不？」",
-    "T02n0110_001:0504b09_5": "答言：「已解。",
-    "T02n0110_001:0504b10_0": "善逝！」",
-    "T02n0110_001:0504b10_1": "由憍陳如解了法故，因此即名阿若憍陳如(阿若是解了義)。",
-    "T02n0110_001:0504b12_0": "是時地居藥叉聞佛說已，出大音聲，告人天曰：「仁等當知，佛在婆羅痆斯仙人墮處施鹿林中，廣說三轉十二行相法輪，由此能於天人魔梵、沙門婆羅門一切世間，為大饒益，令同梵行者速至安隱涅槃之處，人天增盛阿蘇羅減少。」",
-    "T02n0110_001:0504b17_1": "由彼藥叉作如是告，虛空諸天四大王眾皆悉聞知。",
-    "T02n0110_001:0504b18_2": "如是展轉於剎那頃盡六欲天，須臾之間乃至梵天普聞其響，梵眾聞已復皆遍告廣說如前，因名此經為三轉法輪。",
-    "T02n0110_001:0504b21_3": "時五苾芻及人天等，聞佛說已，歡喜奉行。",
-    "T02n0110_001:0504b22_0": "佛說三轉法輪經"
-}
+[
+    {
+        "source_sentence": "佛說三轉法輪經",
+        "from": "T02n0110_001:0504a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三藏法師義淨奉　制譯",
+        "from": "T02n0110_001:0504a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞：一時，薄伽梵在婆羅痆斯仙人墮",
+        "from": "T02n0110_001:0504a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "處施鹿林中。",
+        "from": "T02n0110_001:0504a08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時，世尊告五苾芻曰：",
+        "from": "T02n0110_001:0504a08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝等苾芻！",
+        "from": "T02n0110_001:0504a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此苦聖諦，於所聞法如理作意，能生眼智明覺，汝等苾芻！",
+        "from": "T02n0110_001:0504a10_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此苦集、苦滅、順苦滅道聖諦之法，如理作意，能生眼智明覺。",
+        "from": "T02n0110_001:0504a11_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝等苾芻！",
+        "from": "T02n0110_001:0504a12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此苦聖諦是所了法，如是應知，於所聞法如理作意，能生眼智明覺。",
+        "from": "T02n0110_001:0504a13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝等苾芻！",
+        "from": "T02n0110_001:0504a14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此苦集聖諦是所了法，如是應斷，於所聞法如理作意，能生眼智明覺。",
+        "from": "T02n0110_001:0504a15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝等苾芻！",
+        "from": "T02n0110_001:0504a16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此苦滅聖諦是所了法，如是應證，於所聞法如理作意，能生眼智明覺。",
+        "from": "T02n0110_001:0504a17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝等苾芻！",
+        "from": "T02n0110_001:0504a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此順苦滅道聖諦是所了法，如是應修，於所聞法如理作意，能生眼智明覺。",
+        "from": "T02n0110_001:0504a19_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝等苾芻！",
+        "from": "T02n0110_001:0504a20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此苦聖諦是所了法，如是已知，於所聞法如理作意，能生眼智明覺。",
+        "from": "T02n0110_001:0504a21_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝等苾芻！",
+        "from": "T02n0110_001:0504a22_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此苦集聖諦是所了法，如是已斷，於所聞法如理作意，能生眼智明覺。",
+        "from": "T02n0110_001:0504a23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝等苾芻！",
+        "from": "T02n0110_001:0504a24_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此苦滅聖諦是所了法，如是已證，於所聞法如理作意，能生眼智明覺。",
+        "from": "T02n0110_001:0504a25_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝等苾芻！",
+        "from": "T02n0110_001:0504a26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此順苦滅道聖諦是所了法，如是已修，於所聞法如理作意，能生眼智明覺。",
+        "from": "T02n0110_001:0504a27_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝等苾芻！",
+        "from": "T02n0110_001:0504a28_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若我於此四聖諦法未了三轉十二相者，眼智明覺皆不得生，我則不於諸天魔梵、沙門婆羅門一切世間，捨離煩惱心得解脫，不能證得無上菩提。",
+        "from": "T02n0110_001:0504b02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝等苾芻！",
+        "from": "T02n0110_001:0504b03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由我於此四聖諦法解了三轉十二相故，眼智明覺皆悉得生，乃於諸天魔梵、沙門婆羅門一切世間，捨離煩惱心得解脫，便能證得無上菩提。",
+        "from": "T02n0110_001:0504b06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊說是法時，具壽憍陳如及八萬諸天，遠塵離垢得法眼淨。",
+        "from": "T02n0110_001:0504b08_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛告憍陳如：",
+        "from": "T02n0110_001:0504b08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝解此法不？",
+        "from": "T02n0110_001:0504b09_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」答言：",
+        "from": "T02n0110_001:0504b09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「已解。",
+        "from": "T02n0110_001:0504b09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T02n0110_001:0504b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」「汝解此法不？",
+        "from": "T02n0110_001:0504b09_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」答言：",
+        "from": "T02n0110_001:0504b09_25",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「已解。",
+        "from": "T02n0110_001:0504b09_29",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善逝！",
+        "from": "T02n0110_001:0504b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」由憍陳如解了法故，因此即名阿若憍陳如阿若是解了義。",
+        "from": "T02n0110_001:0504b11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時地居藥叉聞佛說已，出大音聲，告人天曰：",
+        "from": "T02n0110_001:0504b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「仁等當知，佛在婆羅痆斯仙人墮處施鹿林中，廣說三轉十二行相法輪，由此能於天人魔梵、沙門婆羅門一切世間，為大饒益，令同梵行者速至安隱涅槃之處，人天增盛阿蘇羅減少。",
+        "from": "T02n0110_001:0504b17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」由彼藥叉作如是告，虛空諸天四大王眾皆悉聞知。",
+        "from": "T02n0110_001:0504b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是展轉於剎那頃盡六欲天，須臾之間乃至梵天普聞其響，梵眾聞已復皆遍告廣說如前，因名此經為三轉法輪。",
+        "from": "T02n0110_001:0504b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時五苾芻及人天等，聞佛說已，歡喜奉行。",
+        "from": "T02n0110_001:0504b21_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說三轉法輪經",
+        "from": "T02n0110_001:0504b22_100",
+        "context_with_next_sentence": false
+    }
+]

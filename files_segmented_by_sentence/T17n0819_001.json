@@ -1,27 +1,152 @@
-{
-    "T17n0819_001:0833c13_0": "佛說法常住經",
-    "T17n0819_001:0833c15_0": "僧祐錄云安公失譯經人名今附西晉錄聞如是：一時，佛遊舍衛國祇樹給孤獨之園。",
-    "T17n0819_001:0833c17_0": "佛告諸比丘：「法者常在，有佛、無佛，法住如故。",
-    "T17n0819_001:0833c18_1": "如來至真，出現世間，因為宣解，分別深義，敷演至慧。",
-    "T17n0819_001:0833c19_2": "志在小乘，為說四諦：苦、習、盡、道。",
-    "T17n0819_001:0833c20_0": "生苦、老苦、病苦、死苦、求不得苦，舉要言之，有陰身苦。",
-    "T17n0819_001:0833c21_1": "設無有身，當有何患？",
-    "T17n0819_001:0833c21_2": "是曰苦諦。",
-    "T17n0819_001:0833c21_3": "目貪於色，耳、鼻、身、口、意亦復如是，由此因緣，成其六衰。",
-    "T17n0819_001:0833c23_4": "從來劫數，甚大久矣，既諦見斯已，知為惡習，悉無益身。",
-    "T17n0819_001:0833c24_5": "因守身行，護其心、口十惡，以拔十二因緣，根本則滅。",
-    "T17n0819_001:0833c25_6": "滅除三毒，空無相願，由成羅漢。",
-    "T17n0819_001:0833c26_7": "「緣十二因，知其牽連，斷其根源，輒成緣覺。",
-    "T17n0819_001:0833c27_8": "「解身本空，奉六度無極、四等、四恩。",
-    "T17n0819_001:0833c27_9": "道品之法，三十有七，空無相願，無此三事，不為取證。",
-    "T17n0819_001:0833c29_10": "六通善權，常濟危厄，等心一切，無所適莫，故曰菩薩。",
-    "T17n0819_001:0834a01_11": "「逮不退轉，當成無上，正真之道，為最正覺，度脫十方，故號為佛。",
-    "T17n0819_001:0834a02_12": "「道法常存，行者與合，無彼無此，猶如眾流，未到海時，各有本名；以合于海，無有異號。",
-    "T17n0819_001:0834a04_13": "道德若茲，去來今佛，合一法身，行與道合；因為眾生，分別演說，陰衰諸入、十二牽連，皆為病疾。",
-    "T17n0819_001:0834a06_14": "諸度無極、四等、四恩，為大法藥，療眾生病。",
-    "T17n0819_001:0834a07_15": "淨如虛空，明踰日光，德超須彌，神聖巍巍，莫能譏謗。",
-    "T17n0819_001:0834a08_16": "眾罪消滅，無復諸苦，以大慈悲，度脫十方。」",
-    "T17n0819_001:0834a09_17": "佛說是時，諸比丘眾漏盡意解，無數菩薩尋時逮得無所從生法忍。",
-    "T17n0819_001:0834a11_18": "佛說如是，諸比丘及諸菩薩、諸天龍神，聞佛所說，歡喜奉行。",
-    "T17n0819_001:0834a13_0": "佛說法常住經"
-}
+[
+    {
+        "source_sentence": "佛說法常住經",
+        "from": "T17n0819_001:0833c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧祐錄云安公失譯經人名今附西晉錄",
+        "from": "T17n0819_001:0833c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞如是：一時，佛遊舍衛國祇樹給孤獨之園。",
+        "from": "T17n0819_001:0833c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛告諸比丘：",
+        "from": "T17n0819_001:0833c17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「法者常在，有佛、無佛，法住如故。",
+        "from": "T17n0819_001:0833c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來至真，出現世間，因為宣解，分別深義，敷演至慧。",
+        "from": "T17n0819_001:0833c19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "志在小乘，為說四諦：",
+        "from": "T17n0819_001:0833c19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "苦、習、盡、道。",
+        "from": "T17n0819_001:0833c19_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生苦、老苦、病苦、死苦、求不得苦，舉要言之，有陰身苦；",
+        "from": "T17n0819_001:0833c21_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設無有身，當有何患？",
+        "from": "T17n0819_001:0833c21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是曰苦諦。",
+        "from": "T17n0819_001:0833c21_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "目貪於色，耳、鼻、身、口、意亦復如是，由此因緣，成其六衰。",
+        "from": "T17n0819_001:0833c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從來劫數，甚大久矣，既諦見斯已，知為惡習，悉無益身。",
+        "from": "T17n0819_001:0833c24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因守身行，護其心、口十惡，以拔十二因緣，根本則滅。",
+        "from": "T17n0819_001:0833c25_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "滅除三毒，空，無相、願，由成羅漢。",
+        "from": "T17n0819_001:0833c26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「緣十二因，知其牽連，斷其根源，輒成緣覺。",
+        "from": "T17n0819_001:0833c27_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「解身本空，奉六度無極、四等、四恩。",
+        "from": "T17n0819_001:0833c27_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道品之法，三十有七，空，無相、願，無此三事，不為取證。",
+        "from": "T17n0819_001:0833c29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六通善權，常濟危厄，等心一切，無所適莫，故曰菩薩。",
+        "from": "T17n0819_001:0834a01_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「逮不退轉，當成無上正真之道，為最正覺，度脫十方，故號為佛。",
+        "from": "T17n0819_001:0834a02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「道法常存，行者與合，無彼無此，猶如眾流，未到海時，各有本名；",
+        "from": "T17n0819_001:0834a04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以合于海，無有異號。",
+        "from": "T17n0819_001:0834a04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "道德若茲，去來今佛，合一法身，行與道合；",
+        "from": "T17n0819_001:0834a05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "因為眾生，分別演說。",
+        "from": "T17n0819_001:0834a05_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "陰、衰、諸入、十二牽連，皆為病疾；",
+        "from": "T17n0819_001:0834a06_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸度無極、四等、四恩，為大法藥，療眾生病。",
+        "from": "T17n0819_001:0834a07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "淨如虛空，明踰日光，德超須彌，神聖巍巍，莫能譏謗，眾罪消滅，無復諸苦，以大慈悲，度脫十方。",
+        "from": "T17n0819_001:0834a09_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛說是時，諸比丘眾漏盡意解，無數菩薩尋時逮得無所從生法忍。",
+        "from": "T17n0819_001:0834a11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說如是，諸比丘及諸菩薩、諸天龍神，聞佛所說，歡喜奉行。",
+        "from": "T17n0819_001:0834a12_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說法常住經",
+        "from": "T17n0819_001:0834a13_100",
+        "context_with_next_sentence": false
+    }
+]

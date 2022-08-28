@@ -1,28 +1,962 @@
-{
-    "T32n1681_002:0764b06_0": "佛吉祥德讚卷中",
-    "T32n1681_002:0764b08_0": "尊者寂友造",
-    "T32n1681_002:0764b09_0": "西天譯經三藏朝奉大夫",
-    "T32n1681_002:0764b10_0": "試光祿卿傳法大師賜紫",
-    "T32n1681_002:0764b11_0": "臣施護奉　詔譯",
-    "T32n1681_002:0764b12_0-0": "　歸命如來勝妙相　　足下平滿善安住　千輻輪文現足心　　輞轂眾相皆圓滿　如兜羅綿手足軟　　鞔網光現手足間　手足諸指妙纖長　　足跟圓滿趺相稱　足趺修高復充滿　　腨如伊泥邪鹿王　雙臂修圓摩膝輪　　陰相藏密猶龍馬　髮毛端潤皆上靡　　一一身毛悉右旋　身皮細滑垢不侵　　身真金色光晃耀　手足頸肩七處滿　　項及膊腋悉充圓　",
-    "T32n1681_002:0764b12_0-1": "容儀敦肅妙端嚴　　身相修廣復傭直　如諾瞿陀身圓滿　　上半身如師子王　常光面向各一尋　　四十齒平不疎缺　四牙鮮白妙鋒利　　常得味中最上味　舌相薄淨廣復長　　梵音深妙猶天鼓　音聲聞者皆悅意　　復如迦陵頻伽聲　眼睫齊整狀牛王　　眼睛皎潔紺青色　眉間柔軟妙毫相　　右旋清淨如螺白　鳥瑟膩沙頂莊嚴　　稽首大丈夫相具　",
-    "T32n1681_002:0764b12_0-2": "歸命如來隨形好　　指爪狹長如赤銅　手足指圓悉纖長　　手足諸指皆次第　筋脈盤結復深隱　　兩踝俱隱而不麁　充滿柔軟足安平　　迴顧右旋鹿王等　行步直進如象王　　明顯端嚴無障礙　自在次序狀鵝王　　舉身隨轉步安審　身分次第而高顯　　平等隨轉身不曲　善相屬著堅固身　　身淨光明離翳暗　身支安定不掉動　　端直身相善圓滿　",
-    "T32n1681_002:0764b12_0-3": "妙童子相清淨身　　柔軟妙好悉無比　腹形方正無欠缺　　不[穴/爪]不凸廣復圓　右旋深厚妙臍輪　　淨無點竅無減下　身支近觸離諸過　　悉無靨點疣贅等　譬如蓮華垢不侵　　亦復離諸不寂靜　面輪圓滿皎清淨　　身相具足而無減　舌相廣長如赤銅　　柔軟復如蓮華葉　脣色光潤而可愛　　如頻婆菓及赤銅　水雲擊響等音聲　　復如象王大震吼　",
-    "T32n1681_002:0764b12_0-4": "音聲深遠復美妙　　一切聞者咸悅意　手軟猶如兜羅綿　　手文深明而不斷　四牙鋒利妙堅固　　最上清淨復齊平　諸齒方整鮮白齊　　眼相修廣如蓮葉　眼睫稠密而不白　　眉潤不白復修長　耳輪長廣厚復圓　　身毛一一皆潤澤　額廣平正相殊妙　　上半身分悉充圓　首髮稠密整復長　　紺青旋轉而光潤　乃至廣及佛胸臆　　俱有喜旋德相文　",
-    "T32n1681_002:0764b12_0-5": "螺髻紺青妙莊嚴　　稽首不可見頂相　歸命處非處智力　　過現未來業皆知　禪定解脫等持門　　了別自他諸根性　種種信解悉通達　　種種界趣亦悉知　他心種類了無差　　宿住隨念智具足　照明一切生滅法　　諸漏已盡漏無餘　如是十力智周圓　　稽首如來大精進　如來漏盡無餘染　　覺了諸法亦無餘　故稱正等正覺尊　　我今稽首伸敬禮　",
-    "T32n1681_002:0764b12_0-6": "一切染法平等說　　諸出離道亦善宣　一切覺了盡無餘　　稽首能仁初覺者　佛具不壞正智慧　　普盡無餘現覺尊　正智破諸邪智心　　佛真覺已無餘覺　自境界及他境界　　一切境界所作成　於彼一切根義中　　佛是無能勝根者　相中無餘相所緣　　非色種現皆悉斷　無生重檐久已除　　已徹緣生河流底　二種無智癡暗離　　發生二種智光明　",
-    "T32n1681_002:0764b12_0-7": "復離二種疑求心　　建立二種決定智　已得盡智世間句　　智障已離法圓明　具足勝依寂止門　　具足勝處善安住　具足一切所應行　　明行具足色相圓　具足種姓及語言　　獲神通果善救度　身語意業悉不護　　無著無盡智凝然　決定不退轉智門　　智說不壞因時相　種種因門皆覺了　　種種果門亦悉知　種種煩惱及對治　　稽首如來善覺者　",
-    "T32n1681_002:0764b12_0-8": "無二言說無盡辯　　善說不退轉法者　世間八法不染心　　稽首善達功德岸　佛三阿僧祇劫中　　積集難行一切行　運大悲心而普覆　　自他能渡煩惱流　了知三苦極微細　　由愍苦故起大悲　三界所緣諸性中　　大悲普及一切處　如來智性中平等　　若冤若親而等觀　悲心廣大不可量　　普攝一切眾生類　佛為眾生說一藥　　身病心病普令安　",
-    "T32n1681_002:0764b12_0-9": "畢竟極苦亦蠲除　　稽首善說妙藥者　純一真實決定行　　決定純善無染尊　決定不復染法生　　一向為他善長養　不以己利求於他　　自所得樂悉棄捨　隨宜方便悲愍心　　決定調伏眾生病　眾生所應調伏時　　如來善知而無失　為眾生作不請友　　普令得度起悲心　能仁善說妙法藥　　治彼生法苦根源　照明眾生過現身　　了知煩惱無邊性　",
-    "T32n1681_002:0764b12_0-10": "斷除眾生煩惱病　　佛知時量悉無差　隨其何病藥堪除　　世尊如應為說藥　如來所行一切行　　修習如理悉周圓　若一若多出現門　　和合了知皆無礙　如來功滿已能到　　一切智智清涼地　知道識道說道尊　　勝道眾道歸向者　拯拔一切輪迴苦　　令諸眾生離纏縛　普令得渡煩惱流　　堅固慚愧具足者　能善建立聖法幢　　表示諸行無常法　",
-    "T32n1681_002:0764b12_0-11": "開示盡滅離貪門　　顯示寂滅出離道　能善表示諸法者　　能以諸法教授尊　能作利益大導師　　稽首善施歡喜者　常說示教利喜語　　具大威德大神通　最上清淨大梵尊　　稽首自在復熾盛　已息種姓諸言論　　復斷族氏諸語言　世間人事語亦亡　　稽首常說正法語　如來行步常寂靜　　無闊無狹平正行　順善而行見者忻　　表示如來善行相　",
-    "T32n1681_002:0764b12_0-12": "如來不壞正知見　　具足如先所作性　成諸福事斷疑根　　離分衛心入聚落　出必顯明眾所覩　　無依無轉最上尊　勝妙殊特眾吉祥　　純一具足梵行者　能善了知五蘊法　　復能具足七法行　已能摧滅我慢心　　稽首能破愚癡網　如來已得無動法　　復能具足深廣心　善能成就七聖財　　稽首善學三學者　佛大丈夫所應讚　　邪異諸境不能怖　",
-    "T32n1681_002:0764b12_0-13": "遠離一切不吉祥　　稽首已到調伏地　梵行真實善安立　　上下縱廣悉歸依　常以無畏施眾生　　稽首於法離取著　歸命佛大阿羅漢　　一切漏盡無染尊　所作已辦德圓明　　稽首已除諸重擔　逮得己所作義利　　盡諸有結障蠲除　安住正智解脫心　　稽首出離解脫者　已證無言解脫理　　愛盡取盡而解脫　心無忘失解脫圓　　稽首無顛倒心者　",
-    "T32n1681_002:0764b12_0-14": "佛心無量復廣大　　無別異法善修心　心得離繫煩惱除　　稽首已破諸異類　盡諸染業得清淨　　已證無餘依涅槃　人中最勝解脫尊　　戰死魔軍而得勝　於諸善法不放逸　　善住正念正智慧　善開寂眼視眾生　　稽首善救生死苦　善覺眾生無明睡　　善破眾生諸愚癡　佛勤勇起精進心　　策發一切懈怠者　諸不善中施善法　　諸墮學中開學門　",
-    "T32n1681_002:0764b12_0-15": "諸怖畏中施無畏　　不安隱者令安隱　諸暗冥中作明照　　諸不善中令修善　諸過失中功德生　　諸罪業中除罪業　令違逆者知恩德　　能滿眾生意所求　呪明成就真實修　　稽首能破煩惱者　佛已遠離諸誑妄　　心無躁動不高舉　尊勝顯示吉祥門　　稽首佛為福生處　一剎中生一切行　　不共一切神通種　畢竟成就最上門　　一切處離非句義　",
-    "T32n1681_002:0764b12_0-16": "一切疑惑及雜說　　決定正語悉能破　諸吉祥行平等修　　善知一切眾生意　已能攝伏諸他語　　猶如猛火焚乾薪　燒諸煩惱義亦然　　稽首安住正士法　具諸吉祥具慚愧　　世間主宰勝寂默　釋迦牟尼大導師　　盎儗囉娑瞿曇族　離諸煩惱癡黑暗　　悲愍普攝諸眾生　常於利他攝益中　　具足廣多諸勝行　佛於一切眾生類　　一切增上所行中　",
-    "T32n1681_002:0764b12_0-17": "佛以大智常觀察　　普集世間利益事　具足六通調伏智　　德智說智及時智　一切對治勝神通　　界趣勝解業障智　說法最勝神通具　　三調伏時善開化　一切文義善解圓　　稽首辯才無盡智　佛已具足如說辯　　善滿諸行到彼岸　一切功德解脫周　　顯示勝身心清淨　聞佛音者心歡喜　　佛自所行悉周圓　不墮一切言說中　　不取自分功德相　",
-    "T32n1681_002:0764b12_0-18": "平等先證最初道　　次集大行不遺餘　眾生大擔負堪任　　於諸相中得寂靜　已圓大慈等功德　　未甞遠離於捨行　以正智慧攝眾生　　於長夜中遍觀察　如來常發大勇悍　　以諸善行教眾生　復於一切眾生中　　已得悲心善平等　佛是悲愍世間者　　第一義諦善解了　如來三眼已圓明　　三種稱讚善具足　如來已具三不護　　顯示三界無垢尊　",
-    "T32n1681_002:0764b12_0-19": "四念處行廣通達　　名句文身自在者　巧妙無盡隨意辯　　一切說示智悉通　種類語言善解知　　隨處辯才悉無礙　諸違背中作順向　　諸恚怒中作清淨　於諸慢中發敬心　　棄捨一切利養事　所行正真復最上　　以自力能現證尊　清淨一切言說門　　稽首語言無執著　出善來語如義語　　具足一切正所行　如來一切功德圓　　稽首無忘失法者　",
-    "T32n1681_002:0764b12_0-20": "最上攝益勝調御　　歡喜悲愍諸眾生　悲心堅固欲利他　　稽首常欲利樂者　佛與眾生有恩德　　常為善友及知識　如父如母能出生　　欲令眾生得善樂　佛為眾生親教師　　善說勝義諸法教　最上句義如理宣　　使令了知一切性　如來常以無著說　　無增無減善稱揚　大悲不斷相續生　　稽首善見處非處佛吉祥德讚卷中"
-}
+[
+    {
+        "source_sentence": "佛吉祥德讚卷中",
+        "from": "T32n1681_002:0764b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尊者寂友造",
+        "from": "T32n1681_002:0764b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝奉大夫",
+        "from": "T32n1681_002:0764b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸命如來勝妙相，　　足下平滿善安住，",
+        "from": "T32n1681_002:0764b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "千輻輪文現足心，　　輞轂眾相皆圓滿，",
+        "from": "T32n1681_002:0764b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如兜羅綿手足軟，　　鞔網光現手足間，",
+        "from": "T32n1681_002:0764b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手足諸指妙纖長，　　足跟圓滿趺相稱，",
+        "from": "T32n1681_002:0764b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "足趺修高復充滿，　　腨如伊泥邪鹿王，",
+        "from": "T32n1681_002:0764b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雙臂修圓摩膝輪，　　陰相藏密猶龍馬，",
+        "from": "T32n1681_002:0764b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "髮毛端潤皆上靡，　　一一身毛悉右旋，",
+        "from": "T32n1681_002:0764b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身皮細滑垢不侵，　　身真金色光晃耀，",
+        "from": "T32n1681_002:0764b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手足頸肩七處滿，　　項及膊腋悉充圓，",
+        "from": "T32n1681_002:0764b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "容儀敦肅妙端嚴，　　身相修廣復𦟛直，",
+        "from": "T32n1681_002:0764b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如諾瞿陀身圓滿，　　上半身如師子王，",
+        "from": "T32n1681_002:0764b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常光面向各一尋，　　四十齒平不疎缺，",
+        "from": "T32n1681_002:0764b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四牙鮮白妙鋒利，　　常得味中最上味，",
+        "from": "T32n1681_002:0764b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舌相薄淨廣復長，　　梵音深妙猶天鼓，",
+        "from": "T32n1681_002:0764b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音聲聞者皆悅意，　　復如迦陵頻伽聲，",
+        "from": "T32n1681_002:0764b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眼睫齊整狀牛王，　　眼睛皎潔紺青色，",
+        "from": "T32n1681_002:0764b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眉間柔軟妙毫相，　　右旋清淨如螺白，",
+        "from": "T32n1681_002:0764b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鳥瑟膩沙頂莊嚴，　　稽首大丈夫相具。",
+        "from": "T32n1681_002:0764b29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸命如來隨形好，　　指爪狹長如赤銅，",
+        "from": "T32n1681_002:0764c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手足指圓悉纖長，　　手足諸指皆次第，",
+        "from": "T32n1681_002:0764c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "筋脈盤結復深隱，　　兩踝俱隱而不麁，",
+        "from": "T32n1681_002:0764c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "充滿柔軟足安平，　　迴顧右旋鹿王等，",
+        "from": "T32n1681_002:0764c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "行步直進如象王，　　明顯端嚴無障礙，",
+        "from": "T32n1681_002:0764c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自在次序狀鵝王，　　舉身隨轉步安審，",
+        "from": "T32n1681_002:0764c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身分次第而高顯，　　平等隨轉身不曲，",
+        "from": "T32n1681_002:0764c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善相屬著堅固身，　　身淨光明離翳暗，",
+        "from": "T32n1681_002:0764c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身支安定不掉動，　　端直身相善圓滿，",
+        "from": "T32n1681_002:0764c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙童子相清淨身，　　柔軟妙好悉無比，",
+        "from": "T32n1681_002:0764c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "腹形方正無欠缺，　　不𮃹不凸廣復圓，",
+        "from": "T32n1681_002:0764c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右旋深厚妙臍輪，　　淨無點竅無減下，",
+        "from": "T32n1681_002:0764c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身支近觸離諸過，　　悉無靨點疣贅等，",
+        "from": "T32n1681_002:0764c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如蓮華垢不侵，　　亦復離諸不寂靜。",
+        "from": "T32n1681_002:0764c14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "面輪圓滿皎清淨，　　身相具足而無減，",
+        "from": "T32n1681_002:0764c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "舌相廣長如赤銅，　　柔軟復如蓮華葉，",
+        "from": "T32n1681_002:0764c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "脣色光潤而可愛，　　如頻婆菓及赤銅，",
+        "from": "T32n1681_002:0764c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "水雲擊響等音聲，　　復如象王大震吼，",
+        "from": "T32n1681_002:0764c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "音聲深遠復美妙，　　一切聞者咸悅意，",
+        "from": "T32n1681_002:0764c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手軟猶如兜羅綿，　　手文深明而不斷，",
+        "from": "T32n1681_002:0764c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四牙鋒利妙堅固，　　最上清淨復齊平，",
+        "from": "T32n1681_002:0764c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸齒方整鮮白齊，　　眼相修廣如蓮葉，",
+        "from": "T32n1681_002:0764c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眼睫稠密而不白，　　眉潤不白復修長，",
+        "from": "T32n1681_002:0764c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "耳輪長廣厚復圓，　　身毛一一皆潤澤，",
+        "from": "T32n1681_002:0764c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "額廣平正相殊妙，　　上半身分悉充圓，",
+        "from": "T32n1681_002:0764c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "首髮稠密整復長，　　紺青旋轉而光潤，",
+        "from": "T32n1681_002:0764c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至廣及佛胸臆，　　俱有喜旋德相文，",
+        "from": "T32n1681_002:0764c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "螺髻紺青妙莊嚴，　　稽首不可見頂相。",
+        "from": "T32n1681_002:0764c28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸命處非處智力，　　過現未來業皆知，",
+        "from": "T32n1681_002:0764c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "禪定解脫等持門，　　了別自他諸根性，",
+        "from": "T32n1681_002:0765a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種種信解悉通達，　　種種界趣亦悉知，",
+        "from": "T32n1681_002:0765a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "他心種類了無差，　　宿住隨念智具足，",
+        "from": "T32n1681_002:0765a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "照明一切生滅法，　　諸漏已盡漏無餘，",
+        "from": "T32n1681_002:0765a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是十力智周圓，　　稽首如來大精進。",
+        "from": "T32n1681_002:0765a05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來漏盡無餘染，　　覺了諸法亦無餘，",
+        "from": "T32n1681_002:0765a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故稱正等正覺尊，　　我今稽首伸敬禮。",
+        "from": "T32n1681_002:0765a07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切染法平等說，　　諸出離道亦善宣，",
+        "from": "T32n1681_002:0765a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切覺了盡無餘，　　稽首能仁初覺者。",
+        "from": "T32n1681_002:0765a09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛具不壞正智慧，　　普盡無餘現覺尊，",
+        "from": "T32n1681_002:0765a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正智破諸邪智心，　　佛真覺已無餘覺，",
+        "from": "T32n1681_002:0765a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自境界及他境界，　　一切境界所作成，",
+        "from": "T32n1681_002:0765a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於彼一切根義中，　　佛是無能勝根者。",
+        "from": "T32n1681_002:0765a13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "相中無餘相所緣，　　非色種現皆悉斷，",
+        "from": "T32n1681_002:0765a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無生重檐久已除，　　已徹緣生河流底。",
+        "from": "T32n1681_002:0765a15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二種無智癡暗離，　　發生二種智光明，",
+        "from": "T32n1681_002:0765a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復離二種疑求心，　　建立二種決定智。",
+        "from": "T32n1681_002:0765a17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已得盡智世間句，　　智障已離法圓明，",
+        "from": "T32n1681_002:0765a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具足勝依寂止門，　　具足勝處善安住，",
+        "from": "T32n1681_002:0765a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具足一切所應行，　　明行具足色相圓，",
+        "from": "T32n1681_002:0765a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具足種姓及語言，　　獲神通果善救度。",
+        "from": "T32n1681_002:0765a21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身語意業悉不護，　　無著無盡智凝然，",
+        "from": "T32n1681_002:0765a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "決定不退轉智門，　　智說不壞因時相。",
+        "from": "T32n1681_002:0765a23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種種因門皆覺了，　　種種果門亦悉知，",
+        "from": "T32n1681_002:0765a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種種煩惱及對治，　　稽首如來善覺者。",
+        "from": "T32n1681_002:0765a25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無二言說無盡辯，　　善說不退轉法者，",
+        "from": "T32n1681_002:0765a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世間八法不染心，　　稽首善達功德岸。",
+        "from": "T32n1681_002:0765a27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛三阿僧祇劫中，　　積集難行一切行，",
+        "from": "T32n1681_002:0765a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "運大悲心而普覆，　　自他能渡煩惱流。",
+        "from": "T32n1681_002:0765a29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "了知三苦極微細，　　由愍苦故起大悲，",
+        "from": "T32n1681_002:0765b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三界所緣諸性中，　　大悲普及一切處。",
+        "from": "T32n1681_002:0765b02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來智性中平等，　　若冤若親而等觀，",
+        "from": "T32n1681_002:0765b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悲心廣大不可量，　　普攝一切眾生類。",
+        "from": "T32n1681_002:0765b04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛為眾生說一藥，　　身病心病普令安，",
+        "from": "T32n1681_002:0765b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "畢竟極苦亦蠲除，　　稽首善說妙藥者。",
+        "from": "T32n1681_002:0765b06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "純一真實決定行，　　決定純善無染尊，",
+        "from": "T32n1681_002:0765b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "決定不復染法生，　　一向為他善長養。",
+        "from": "T32n1681_002:0765b08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不以己利求於他，　　自所得樂悉棄捨，",
+        "from": "T32n1681_002:0765b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨宜方便悲愍心，　　決定調伏眾生病。",
+        "from": "T32n1681_002:0765b10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾生所應調伏時，　　如來善知而無失，",
+        "from": "T32n1681_002:0765b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為眾生作不請友，　　普令得度起悲心。",
+        "from": "T32n1681_002:0765b12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能仁善說妙法藥，　　治彼生法苦根源，",
+        "from": "T32n1681_002:0765b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "照明眾生過現身，　　了知煩惱無邊性，",
+        "from": "T32n1681_002:0765b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "斷除眾生煩惱病，　　佛知時量悉無差，",
+        "from": "T32n1681_002:0765b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隨其何病藥堪除，　　世尊如應為說藥。",
+        "from": "T32n1681_002:0765b16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來所行一切行，　　修習如理悉周圓，",
+        "from": "T32n1681_002:0765b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若一若多出現門，　　和合了知皆無礙。",
+        "from": "T32n1681_002:0765b18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來功滿已能到，　　一切智智清涼地，",
+        "from": "T32n1681_002:0765b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "知道識道說道尊，　　勝道眾道歸向者。",
+        "from": "T32n1681_002:0765b20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "拯拔一切輪迴苦，　　令諸眾生離纏縛，",
+        "from": "T32n1681_002:0765b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "普令得渡煩惱流，　　堅固慚愧具足者。",
+        "from": "T32n1681_002:0765b22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能善建立聖法幢，　　表示諸行無常法，",
+        "from": "T32n1681_002:0765b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "開示盡滅離貪門，　　顯示寂滅出離道，",
+        "from": "T32n1681_002:0765b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能善表示諸法者，　　能以諸法教授尊，",
+        "from": "T32n1681_002:0765b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能作利益大導師，　　稽首善施歡喜者。",
+        "from": "T32n1681_002:0765b26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常說示教利喜語，　　具大威德大神通，",
+        "from": "T32n1681_002:0765b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最上清淨大梵尊，　　稽首自在復熾盛。",
+        "from": "T32n1681_002:0765b28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已息種姓諸言論，　　復斷族氏諸語言，",
+        "from": "T32n1681_002:0765b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世間人事語亦亡，　　稽首常說正法語。",
+        "from": "T32n1681_002:0765c01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來行步常寂靜，　　無闊無狹平正行，",
+        "from": "T32n1681_002:0765c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "順善而行見者忻，　　表示如來善行相。",
+        "from": "T32n1681_002:0765c03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來不壞正知見，　　具足如先所作性，",
+        "from": "T32n1681_002:0765c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "成諸福事斷疑根，　　離分衛心入聚落，",
+        "from": "T32n1681_002:0765c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出必顯明眾所覩，　　無依無轉最上尊，",
+        "from": "T32n1681_002:0765c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勝妙殊特眾吉祥，　　純一具足梵行者。",
+        "from": "T32n1681_002:0765c07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能善了知五蘊法，　　復能具足七法行，",
+        "from": "T32n1681_002:0765c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已能摧滅我慢心，　　稽首能破愚癡網。",
+        "from": "T32n1681_002:0765c09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來已得無動法，　　復能具足深廣心，",
+        "from": "T32n1681_002:0765c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善能成就七聖財，　　稽首善學三學者。",
+        "from": "T32n1681_002:0765c11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛大丈夫所應讚，　　邪異諸境不能怖，",
+        "from": "T32n1681_002:0765c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遠離一切不吉祥，　　稽首已到調伏地。",
+        "from": "T32n1681_002:0765c13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵行真實善安立，　　上下縱廣悉歸依，",
+        "from": "T32n1681_002:0765c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常以無畏施眾生，　　稽首於法離取著。",
+        "from": "T32n1681_002:0765c15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸命佛大阿羅漢，　　一切漏盡無染尊，",
+        "from": "T32n1681_002:0765c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所作已辦德圓明，　　稽首已除諸重擔。",
+        "from": "T32n1681_002:0765c17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "逮得己所作義利，　　盡諸有結障蠲除，",
+        "from": "T32n1681_002:0765c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "安住正智解脫心，　　稽首出離解脫者。",
+        "from": "T32n1681_002:0765c19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已證無言解脫理，　　愛盡取盡而解脫，",
+        "from": "T32n1681_002:0765c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心無忘失解脫圓，　　稽首無顛倒心者。",
+        "from": "T32n1681_002:0765c21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛心無量復廣大，　　無別異法善修心，",
+        "from": "T32n1681_002:0765c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心得離繫煩惱除，　　稽首已破諸異類。",
+        "from": "T32n1681_002:0765c23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盡諸染業得清淨，　　已證無餘依涅槃，",
+        "from": "T32n1681_002:0765c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人中最勝解脫尊，　　戰死魔軍而得勝，",
+        "from": "T32n1681_002:0765c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於諸善法不放逸，　　善住正念正智慧，",
+        "from": "T32n1681_002:0765c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善開寂眼視眾生，　　稽首善救生死苦。",
+        "from": "T32n1681_002:0765c27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善覺眾生無明睡，　　善破眾生諸愚癡，",
+        "from": "T32n1681_002:0765c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛勤勇起精進心，　　策發一切懈怠者。",
+        "from": "T32n1681_002:0765c29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸不善中施善法，　　諸墮學中開學門，",
+        "from": "T32n1681_002:0766a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸怖畏中施無畏，　　不安隱者令安隱。",
+        "from": "T32n1681_002:0766a02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸暗冥中作明照，　　諸不善中令修善，",
+        "from": "T32n1681_002:0766a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸過失中功德生，　　諸罪業中除罪業，",
+        "from": "T32n1681_002:0766a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令違逆者知恩德，　　能滿眾生意所求，",
+        "from": "T32n1681_002:0766a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "呪明成就真實修，　　稽首能破煩惱者。",
+        "from": "T32n1681_002:0766a06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛已遠離諸誑妄，　　心無躁動不高舉，",
+        "from": "T32n1681_002:0766a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尊勝顯示吉祥門，　　稽首佛為福生處。",
+        "from": "T32n1681_002:0766a08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一剎中生一切行，　　不共一切神通種，",
+        "from": "T32n1681_002:0766a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "畢竟成就最上門，　　一切處離非句義，",
+        "from": "T32n1681_002:0766a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切疑惑及雜說，　　決定正語悉能破，",
+        "from": "T32n1681_002:0766a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸吉祥行平等修，　　善知一切眾生意。",
+        "from": "T32n1681_002:0766a12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已能攝伏諸他語，　　猶如猛火焚乾薪，",
+        "from": "T32n1681_002:0766a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "燒諸煩惱義亦然，　　稽首安住正士法。",
+        "from": "T32n1681_002:0766a14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具諸吉祥具慚愧，　　世間主宰勝寂默，",
+        "from": "T32n1681_002:0766a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋迦牟尼大導師，　　盎儗囉娑瞿曇族，",
+        "from": "T32n1681_002:0766a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離諸煩惱癡黑暗，　　悲愍普攝諸眾生，",
+        "from": "T32n1681_002:0766a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常於利他攝益中，　　具足廣多諸勝行。",
+        "from": "T32n1681_002:0766a18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛於一切眾生類，　　一切增上所行中，",
+        "from": "T32n1681_002:0766a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛以大智常觀察，　　普集世間利益事。",
+        "from": "T32n1681_002:0766a20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具足六通調伏智，　　德智說智及時智，",
+        "from": "T32n1681_002:0766a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切對治勝神通，　　界趣勝解業障智。",
+        "from": "T32n1681_002:0766a22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說法最勝神通具，　　三調伏時善開化，",
+        "from": "T32n1681_002:0766a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切文義善解圓，　　稽首辯才無盡智。",
+        "from": "T32n1681_002:0766a24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛已具足如說辯，　　善滿諸行到彼岸，",
+        "from": "T32n1681_002:0766a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切功德解脫周，　　顯示勝身心清淨，",
+        "from": "T32n1681_002:0766a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞佛音者心歡喜。",
+        "from": "T32n1681_002:0766a27_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不墮一切言說中，　　不取自分功德相，",
+        "from": "T32n1681_002:0766a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "平等先證最初道。",
+        "from": "T32n1681_002:0766a29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "眾生大擔負堪任，　　於諸相中得寂靜，",
+        "from": "T32n1681_002:0766b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已圓大慈等功德，　　未甞遠離於捨行，",
+        "from": "T32n1681_002:0766b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以正智慧攝眾生，　　於長夜中遍觀察。",
+        "from": "T32n1681_002:0766b03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來常發大勇悍，　　以諸善行教眾生，",
+        "from": "T32n1681_002:0766b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復於一切眾生中，　　已得悲心善平等。",
+        "from": "T32n1681_002:0766b05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛是悲愍世間者，　　第一義諦善解了，",
+        "from": "T32n1681_002:0766b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來三眼已圓明，　　三種稱讚善具足。",
+        "from": "T32n1681_002:0766b07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來已具三不護，　　顯示三界無垢尊，",
+        "from": "T32n1681_002:0766b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四念處行廣通達，　　名句文身自在者，",
+        "from": "T32n1681_002:0766b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "巧妙無盡隨意辯，　　一切說示智悉通。",
+        "from": "T32n1681_002:0766b10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "種類語言善解知，　　隨處辯才悉無礙，",
+        "from": "T32n1681_002:0766b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸違背中作順向，　　諸恚怒中作清淨，",
+        "from": "T32n1681_002:0766b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於諸慢中發敬心，　　棄捨一切利養事，",
+        "from": "T32n1681_002:0766b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所行正真復最上，　　以自力能現證尊，",
+        "from": "T32n1681_002:0766b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "清淨一切言說門，　　稽首語言無執著。",
+        "from": "T32n1681_002:0766b15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "出善來語如義語，　　具足一切正所行，",
+        "from": "T32n1681_002:0766b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來一切功德圓，　　稽首無忘失法者。",
+        "from": "T32n1681_002:0766b17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最上攝益勝調御，　　歡喜悲愍諸眾生，",
+        "from": "T32n1681_002:0766b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悲心堅固欲利他，　　稽首常欲利樂者。",
+        "from": "T32n1681_002:0766b19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛與眾生有恩德，　　常為善友及知識，",
+        "from": "T32n1681_002:0766b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如父如母能出生，　　欲令眾生得善樂。",
+        "from": "T32n1681_002:0766b21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛為眾生親教師，　　善說勝義諸法教，",
+        "from": "T32n1681_002:0766b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最上句義如理宣，　　使令了知一切性。",
+        "from": "T32n1681_002:0766b23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來常以無著說，　　無增無減善稱揚，",
+        "from": "T32n1681_002:0766b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大悲不斷相續生，　　稽首善見處非處。",
+        "from": "T32n1681_002:0766b25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛吉祥德讚卷中",
+        "from": "T32n1681_002:0766b26_100",
+        "context_with_next_sentence": false
+    }
+]

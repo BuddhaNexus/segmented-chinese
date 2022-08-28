@@ -1,138 +1,637 @@
-{
-    "T32n1679_001:0757c13_0": "佛一百八名讚",
-    "T32n1679_001:0757c15_0": "西天譯經三藏朝散大夫試鴻臚",
-    "T32n1679_001:0757c16_0": "卿傳教大師臣法天奉　詔譯",
-    "T32n1679_001:0757c17_0": "　歸命一切智　　一切世間師",
-    "T32n1679_001:0757c18_0": "　牟尼大法王　　一百八名號",
-    "T32n1679_001:0757c19_0": "　無邊功德海　　具足眾吉祥",
-    "T32n1679_001:0757c20_0": "　能滅諸有情　　罪業諸煩惱",
-    "T32n1679_001:0757c21_0": "　我今歸命禮　　一切大吉祥",
-    "T32n1679_001:0757c22_0": "　救度諸群生　　令得大安樂",
-    "T32n1679_001:0757c23_0": "　我今歸命禮　　悲愍二足尊",
-    "T32n1679_001:0757c24_0": "　圓滿於眾生　　一切吉祥事",
-    "T32n1679_001:0757c25_0": "　我今歸命禮　　無相無上尊",
-    "T32n1679_001:0757c26_0": "　成就天中天　　祕密大明義",
-    "T32n1679_001:0757c27_0": "　如來正等覺　　利樂於世間",
-    "T32n1679_001:0757c28_0": "　最上百八名　　我今集彼說",
-    "T32n1679_001:0757c29_0": "南無一切義成就。",
-    "T32n1679_001:0757c29_1": "南無正等覺。",
-    "T32n1679_001:0757c29_2": "南無一切智。",
-    "T32n1679_001:0758a01_0": "南無大釋子。",
-    "T32n1679_001:0758a01_1": "南無一切法自在無畏。",
-    "T32n1679_001:0758a01_2": "南無大金僊。",
-    "T32n1679_001:0758a02_3": "南無功德海。",
-    "T32n1679_001:0758a02_4": "南無如來。",
-    "T32n1679_001:0758a02_5": "南無應供。",
-    "T32n1679_001:0758a02_6": "南無善逝。",
-    "T32n1679_001:0758a03_7": "南無世尊。",
-    "T32n1679_001:0758a03_8": "南無一切世間解。",
-    "T32n1679_001:0758a03_9": "南無離一切垢染。",
-    "T32n1679_001:0758a04_10": "南無最上法燈。",
-    "T32n1679_001:0758a04_11": "南無無畏淨飯王子。",
-    "T32n1679_001:0758a05_0": "南無甘蔗王種。",
-    "T32n1679_001:0758a05_1": "南無瞿曇。",
-    "T32n1679_001:0758a05_2": "南無日族。",
-    "T32n1679_001:0758a05_3": "南無吉祥大牟尼。",
-    "T32n1679_001:0758a06_4": "南無囕儗囉娑族。",
-    "T32n1679_001:0758a06_5": "南無天人師。",
-    "T32n1679_001:0758a06_6": "南無十力降魔軍。",
-    "T32n1679_001:0758a07_7": "南無離過除毒。",
-    "T32n1679_001:0758a07_8": "南無調御丈夫。",
-    "T32n1679_001:0758a08_9": "南無妙解脫。",
-    "T32n1679_001:0758a08_10": "南無除障暗。",
-    "T32n1679_001:0758a08_11": "南無止息降諸根。",
-    "T32n1679_001:0758a09_12": "南無清淨戒。",
-    "T32n1679_001:0758a09_13": "南無無垢王。",
-    "T32n1679_001:0758a09_14": "南無滅罪無我相。",
-    "T32n1679_001:0758a10_15": "南無無驚無怖畏。",
-    "T32n1679_001:0758a10_16": "南無第一法圓滿。",
-    "T32n1679_001:0758a10_17": "南無無邊無可喻。",
-    "T32n1679_001:0758a11_18": "南無大論師。",
-    "T32n1679_001:0758a11_19": "南無希有不思議精進。",
-    "T32n1679_001:0758a12_20": "南無三界親慈父。",
-    "T32n1679_001:0758a12_21": "南無三明知三世。",
-    "T32n1679_001:0758a12_22": "南無滅三毒。",
-    "T32n1679_001:0758a13_23": "南無具足三變通。",
-    "T32n1679_001:0758a13_24": "南無說三乘菩提。",
-    "T32n1679_001:0758a14_25": "南無無相亦無老。",
-    "T32n1679_001:0758a14_26": "南無無我無二執。",
-    "T32n1679_001:0758a14_27": "南無無怨無戲論。",
-    "T32n1679_001:0758a15_28": "南無無業無怖。",
-    "T32n1679_001:0758a15_29": "南無施願無畏。",
-    "T32n1679_001:0758a16_0": "南無法師子二足尊。",
-    "T32n1679_001:0758a16_1": "南無調伏除煩惱。",
-    "T32n1679_001:0758a16_2": "南無最上意清淨。",
-    "T32n1679_001:0758a17_3": "南無明行足。",
-    "T32n1679_001:0758a17_4": "南無自在變化王。",
-    "T32n1679_001:0758a18_0": "南無調伏心清淨。",
-    "T32n1679_001:0758a18_1": "南無離塵無上士。",
-    "T32n1679_001:0758a18_2": "南無止息一切罪。",
-    "T32n1679_001:0758a19_3": "南無得清涼。",
-    "T32n1679_001:0758a19_4": "南無得寂靜。",
-    "T32n1679_001:0758a19_5": "南無救度世間師。",
-    "T32n1679_001:0758a20_6": "南無勇猛大清淨智。",
-    "T32n1679_001:0758a20_7": "南無圓滿吉祥相。",
-    "T32n1679_001:0758a21_8": "南無能除怨。",
-    "T32n1679_001:0758a21_9": "南無沙門月。",
-    "T32n1679_001:0758a21_10": "南無釋師子。",
-    "T32n1679_001:0758a22_0": "南無作善清淨業。",
-    "T32n1679_001:0758a22_1": "南無六佛法莊嚴。",
-    "T32n1679_001:0758a22_2": "南無六根清淨眼。",
-    "T32n1679_001:0758a23_3": "南無第一六神通。",
-    "T32n1679_001:0758a23_4": "南無六趣海到彼岸。",
-    "T32n1679_001:0758a24_5": "南無無師自然覺。",
-    "T32n1679_001:0758a24_6": "南無善逝德成就。",
-    "T32n1679_001:0758a24_7": "南無一切世間為愛樂。",
-    "T32n1679_001:0758a25_8": "南無無等大智慧。",
-    "T32n1679_001:0758a25_9": "南無恒入三摩地。",
-    "T32n1679_001:0758a26_10": "南無一切有情利益主。",
-    "T32n1679_001:0758a26_11": "南無真實降諸根。",
-    "T32n1679_001:0758a27_12": "南無一切世間尊。",
-    "T32n1679_001:0758a27_13": "南無普遍有情精進者。",
-    "T32n1679_001:0758a28_14": "南無永過輪迴苦。",
-    "T32n1679_001:0758a28_15": "南無圓滿諸所求。",
-    "T32n1679_001:0758a29_16": "南無降伏得最勝說四諦。",
-    "T32n1679_001:0758a29_17": "南無到彼岸度他大龍王。",
-    "T32n1679_001:0758b01_18": "南無得最上涅槃。",
-    "T32n1679_001:0758b01_19": "南無尊師大梵行。",
-    "T32n1679_001:0758b02_20": "南無第一寂靜樂。",
-    "T32n1679_001:0758b02_21": "南無祕密最勝大丈夫。",
-    "T32n1679_001:0758b03_0": "南無調伏聲聞者。",
-    "T32n1679_001:0758b03_1": "南無利益諸有情。",
-    "T32n1679_001:0758b03_2": "南無世間供養出世智。",
-    "T32n1679_001:0758b04_3": "南無聖智照世間。",
-    "T32n1679_001:0758b04_4": "南無離世法利養。",
-    "T32n1679_001:0758b05_5": "南無出世為如來。",
-    "T32n1679_001:0758b05_6": "南無大法主。",
-    "T32n1679_001:0758b05_7": "南無大法王。",
-    "T32n1679_001:0758b06_8": "南無調御明。",
-    "T32n1679_001:0758b06_9": "南無救度第一二足尊。",
-    "T32n1679_001:0758b07_10": "南無行忍辱。",
-    "T32n1679_001:0758b07_11": "南無善意端嚴相。",
-    "T32n1679_001:0758b07_12": "南無善持善戒相。",
-    "T32n1679_001:0758b08_13": "南無金色光善逝。",
-    "T32n1679_001:0758b08_14": "南無善逾愛尊重。",
-    "T32n1679_001:0758b09_0": "南無人師子吉祥雲。",
-    "T32n1679_001:0758b09_1": "南無佛陀。",
-    "T32n1679_001:0758b09_2": "南無無畏獨除闇。",
-    "T32n1679_001:0758b10_3": "南無無邊利世間。",
-    "T32n1679_001:0758b10_4": "南無無等三有師。",
-    "T32n1679_001:0758b10_5": "南無能斷諸結縛。",
-    "T32n1679_001:0758b11_6": "南無無我最第一。",
-    "T32n1679_001:0758b11_7": "南無普照一切眼。",
-    "T32n1679_001:0758b12_8": "南無證理淨慧眼。",
-    "T32n1679_001:0758b12_9": "南無三慧真實眼。",
-    "T32n1679_001:0758b13_0": "如是一百八名。",
-    "T32n1679_001:0758b13_1": "若復有人。",
-    "T32n1679_001:0758b13_2": "於其辰朝。",
-    "T32n1679_001:0758b13_3": "發志誠心。",
-    "T32n1679_001:0758b14_4": "或讀誦。",
-    "T32n1679_001:0758b14_5": "或禮念。",
-    "T32n1679_001:0758b14_6": "或憶持。",
-    "T32n1679_001:0758b14_7": "或聽聞。",
-    "T32n1679_001:0758b14_8": "獲得最上吉祥福德。",
-    "T32n1679_001:0758b15_9": "所有一切煩惱及諸罪業。",
-    "T32n1679_001:0758b15_10": "速得清淨不受輪迴。",
-    "T32n1679_001:0758b16_11": "當得解脫乃至成佛。",
-    "T32n1679_001:0758b17_0": "　此大牟尼功德名　　我今讀誦及禮念　普將迴施與群生　　同得證成菩提果佛一百八名讚"
-}
+[
+    {
+        "source_sentence": "佛一百八名讚",
+        "from": "T32n1679_001:0757c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫試鴻臚",
+        "from": "T32n1679_001:0757c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "卿傳教大師臣法天奉　詔譯",
+        "from": "T32n1679_001:0757c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歸命一切智，　　一切世間師，",
+        "from": "T32n1679_001:0757c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "牟尼大法王，　　一百八名號。",
+        "from": "T32n1679_001:0757c18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無邊功德海，　　具足眾吉祥，",
+        "from": "T32n1679_001:0757c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能滅諸有情，　　罪業諸煩惱。",
+        "from": "T32n1679_001:0757c20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我今歸命禮，　　一切大吉祥，",
+        "from": "T32n1679_001:0757c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "救度諸群生，　　令得大安樂。",
+        "from": "T32n1679_001:0757c22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我今歸命禮，　　悲愍二足尊，",
+        "from": "T32n1679_001:0757c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "圓滿於眾生，　　一切吉祥事。",
+        "from": "T32n1679_001:0757c24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我今歸命禮，　　無相無上尊，",
+        "from": "T32n1679_001:0757c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "成就天中天，　　祕密大明義。",
+        "from": "T32n1679_001:0757c26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來正等覺，　　利樂於世間，",
+        "from": "T32n1679_001:0757c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "最上百八名，　　我今集彼說。",
+        "from": "T32n1679_001:0757c28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無一切義成就。",
+        "from": "T32n1679_001:0757c29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無正等覺。",
+        "from": "T32n1679_001:0757c29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無一切智。",
+        "from": "T32n1679_001:0757c29_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無大釋子。",
+        "from": "T32n1679_001:0758a01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無一切法自在無畏。",
+        "from": "T32n1679_001:0758a01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無大金僊。",
+        "from": "T32n1679_001:0758a02_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無功德海。",
+        "from": "T32n1679_001:0758a02_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無如來。",
+        "from": "T32n1679_001:0758a02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無應供。",
+        "from": "T32n1679_001:0758a02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無善逝。",
+        "from": "T32n1679_001:0758a03_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無世尊。",
+        "from": "T32n1679_001:0758a03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無一切世間解。",
+        "from": "T32n1679_001:0758a03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無離一切垢染。",
+        "from": "T32n1679_001:0758a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無最上法燈。",
+        "from": "T32n1679_001:0758a04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無畏淨飯王子。",
+        "from": "T32n1679_001:0758a04_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無甘蔗王種。",
+        "from": "T32n1679_001:0758a05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無瞿曇。",
+        "from": "T32n1679_001:0758a05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無日族。",
+        "from": "T32n1679_001:0758a05_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無吉祥大牟尼。",
+        "from": "T32n1679_001:0758a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無囕儗囉娑族。",
+        "from": "T32n1679_001:0758a06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無天人師。",
+        "from": "T32n1679_001:0758a06_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無十力降魔軍。",
+        "from": "T32n1679_001:0758a07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無離過除毒。",
+        "from": "T32n1679_001:0758a07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無調御丈夫。",
+        "from": "T32n1679_001:0758a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無妙解脫。",
+        "from": "T32n1679_001:0758a08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無除障暗。",
+        "from": "T32n1679_001:0758a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無止息降諸根。",
+        "from": "T32n1679_001:0758a09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無清淨戒。",
+        "from": "T32n1679_001:0758a09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無垢王。",
+        "from": "T32n1679_001:0758a09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無滅罪無我相。",
+        "from": "T32n1679_001:0758a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無驚無怖畏。",
+        "from": "T32n1679_001:0758a10_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無第一法圓滿。",
+        "from": "T32n1679_001:0758a10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無邊無可喻。",
+        "from": "T32n1679_001:0758a11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無大論師。",
+        "from": "T32n1679_001:0758a11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無希有不思議精進。",
+        "from": "T32n1679_001:0758a12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無三界親慈父。",
+        "from": "T32n1679_001:0758a12_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無三明知三世。",
+        "from": "T32n1679_001:0758a12_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無滅三毒。",
+        "from": "T32n1679_001:0758a13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無具足三變通。",
+        "from": "T32n1679_001:0758a13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無說三乘菩提。",
+        "from": "T32n1679_001:0758a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無相亦無老。",
+        "from": "T32n1679_001:0758a14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無我無二執。",
+        "from": "T32n1679_001:0758a14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無怨無戲論。",
+        "from": "T32n1679_001:0758a15_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無業無怖。",
+        "from": "T32n1679_001:0758a15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無施願無畏。",
+        "from": "T32n1679_001:0758a15_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無法師子二足尊。",
+        "from": "T32n1679_001:0758a16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無調伏除煩惱。",
+        "from": "T32n1679_001:0758a16_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無最上意清淨。",
+        "from": "T32n1679_001:0758a17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無明行足。",
+        "from": "T32n1679_001:0758a17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無自在變化王。",
+        "from": "T32n1679_001:0758a17_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無調伏心清淨。",
+        "from": "T32n1679_001:0758a18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無離塵無上士。",
+        "from": "T32n1679_001:0758a18_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無止息一切罪。",
+        "from": "T32n1679_001:0758a19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無得清涼。",
+        "from": "T32n1679_001:0758a19_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無得寂靜。",
+        "from": "T32n1679_001:0758a19_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無救度世間師。",
+        "from": "T32n1679_001:0758a20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無勇猛大清淨智。",
+        "from": "T32n1679_001:0758a20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無圓滿吉祥相。",
+        "from": "T32n1679_001:0758a21_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無能除怨。",
+        "from": "T32n1679_001:0758a21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無沙門月。",
+        "from": "T32n1679_001:0758a21_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無釋師子。",
+        "from": "T32n1679_001:0758a21_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無作善清淨業。",
+        "from": "T32n1679_001:0758a22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無六佛法莊嚴。",
+        "from": "T32n1679_001:0758a22_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無六根清淨眼。",
+        "from": "T32n1679_001:0758a23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無第一六神通。",
+        "from": "T32n1679_001:0758a23_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無六趣海到彼岸。",
+        "from": "T32n1679_001:0758a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無師自然覺。",
+        "from": "T32n1679_001:0758a24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無善逝德成就。",
+        "from": "T32n1679_001:0758a24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無一切世間為愛樂。",
+        "from": "T32n1679_001:0758a25_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無等大智慧。",
+        "from": "T32n1679_001:0758a25_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無恒入三摩地。",
+        "from": "T32n1679_001:0758a26_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無一切有情利益主。",
+        "from": "T32n1679_001:0758a26_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無真實降諸根。",
+        "from": "T32n1679_001:0758a27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無一切世間尊。",
+        "from": "T32n1679_001:0758a27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無普遍有情精進者。",
+        "from": "T32n1679_001:0758a28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無永過輪迴苦。",
+        "from": "T32n1679_001:0758a28_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無圓滿諸所求。",
+        "from": "T32n1679_001:0758a29_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無降伏得最勝說四諦。",
+        "from": "T32n1679_001:0758a29_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無到彼岸度他大龍王。",
+        "from": "T32n1679_001:0758b01_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無得最上涅槃。",
+        "from": "T32n1679_001:0758b01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無尊師大梵行。",
+        "from": "T32n1679_001:0758b02_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無第一寂靜樂。",
+        "from": "T32n1679_001:0758b02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無祕密最勝大丈夫。",
+        "from": "T32n1679_001:0758b02_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無調伏聲聞者。",
+        "from": "T32n1679_001:0758b03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無利益諸有情。",
+        "from": "T32n1679_001:0758b03_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無世間供養出世智。",
+        "from": "T32n1679_001:0758b04_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無聖智照世間。",
+        "from": "T32n1679_001:0758b04_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無離世法利養。",
+        "from": "T32n1679_001:0758b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無出世為如來。",
+        "from": "T32n1679_001:0758b05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無大法主。",
+        "from": "T32n1679_001:0758b05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無大法王。",
+        "from": "T32n1679_001:0758b06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無調御明。",
+        "from": "T32n1679_001:0758b06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無救度第一二足尊。",
+        "from": "T32n1679_001:0758b07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無行忍辱。",
+        "from": "T32n1679_001:0758b07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無善意端嚴相。",
+        "from": "T32n1679_001:0758b07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無善持善戒相。",
+        "from": "T32n1679_001:0758b08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無金色光善逝。",
+        "from": "T32n1679_001:0758b08_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無善逾愛尊重。",
+        "from": "T32n1679_001:0758b08_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無人師子吉祥雲。",
+        "from": "T32n1679_001:0758b09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無佛陀。",
+        "from": "T32n1679_001:0758b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無畏獨除闇。",
+        "from": "T32n1679_001:0758b10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無邊利世間。",
+        "from": "T32n1679_001:0758b10_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無等三有師。",
+        "from": "T32n1679_001:0758b10_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無能斷諸結縛。",
+        "from": "T32n1679_001:0758b11_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無無我最第一。",
+        "from": "T32n1679_001:0758b11_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無普照一切眼。",
+        "from": "T32n1679_001:0758b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無證理淨慧眼。",
+        "from": "T32n1679_001:0758b12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無三慧真實眼。",
+        "from": "T32n1679_001:0758b12_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是一百八名，若復有人於其辰朝發志誠心，或讀誦、或禮念、或憶持、或聽聞，獲得最上吉祥福德，所有一切煩惱及諸罪業速得清淨，不受輪迴，當得解脫乃至成佛。",
+        "from": "T32n1679_001:0758b16_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此大牟尼功德名，　　我今讀誦及禮念，",
+        "from": "T32n1679_001:0758b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "普將迴施與群生，　　同得證成菩提果。",
+        "from": "T32n1679_001:0758b18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛一百八名讚",
+        "from": "T32n1679_001:0758b19_100",
+        "context_with_next_sentence": false
+    }
+]

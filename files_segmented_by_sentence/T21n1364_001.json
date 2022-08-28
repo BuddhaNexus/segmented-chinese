@@ -1,46 +1,222 @@
-{
-    "T21n1364_001:0883b03_0": "妙臂印幢陀羅尼經",
-    "T21n1364_001:0883b05_0": "大唐于闐三藏實叉難陀奉　制譯",
-    "T21n1364_001:0883b06_0": "如是我聞。",
-    "T21n1364_001:0883b06_1": "一時佛在雞羅娑山諸獸依處妙宮殿中。",
-    "T21n1364_001:0883b07_2": "與大比丘眾千二百五十人。",
-    "T21n1364_001:0883b07_3": "又與無量菩薩摩訶薩俱。",
-    "T21n1364_001:0883b08_4": "文殊師利法王子而為上首。",
-    "T21n1364_001:0883b09_5": "靡不皆如童子之形。",
-    "T21n1364_001:0883b09_6": "并賢護等十六丈夫。",
-    "T21n1364_001:0883b10_0": "爾時世尊以正念智。",
-    "T21n1364_001:0883b10_1": "為諸天人演說法要皆令歡喜。",
-    "T21n1364_001:0883b11_2": "時大梵王及諸天龍夜叉乾闥婆阿修羅迦樓羅緊那羅摩睺羅伽人非人等。",
-    "T21n1364_001:0883b12_3": "各起合掌前白佛言。",
-    "T21n1364_001:0883b13_4": "世尊有諸眾生。",
-    "T21n1364_001:0883b13_5": "由造種種罪惡業故。",
-    "T21n1364_001:0883b14_6": "應墮地獄餓鬼畜生。",
-    "T21n1364_001:0883b14_7": "閻魔羅界備受眾苦。",
-    "T21n1364_001:0883b15_8": "唯願世尊大悲。",
-    "T21n1364_001:0883b15_9": "為說除滅如是苦惱方便。",
-    "T21n1364_001:0883b16_10": "令彼眾生皆得解脫諸惡道難。",
-    "T21n1364_001:0883b16_11": "時觀自在菩薩摩訶薩。",
-    "T21n1364_001:0883b17_12": "復與無量持呪大仙前後圍繞。",
-    "T21n1364_001:0883b18_13": "頂禮佛足白言世尊。",
-    "T21n1364_001:0883b18_14": "惟垂愍念以善方便救諸世間。",
-    "T21n1364_001:0883b19_15": "佛言善男子。",
-    "T21n1364_001:0883b19_16": "有陀羅尼名妙臂印幢。",
-    "T21n1364_001:0883b20_17": "若能常念誦習思惟。",
-    "T21n1364_001:0883b20_18": "速得除滅五無間罪。",
-    "T21n1364_001:0883b21_19": "富貴安樂大姓家生。",
-    "T21n1364_001:0883b21_20": "爾時世尊即說呪曰。",
-    "T21n1364_001:0883b22_0": "怛姪他迦(居伽反下同)囉迦囉(一)枳利枳利句嚕句嚕(三)娑囉娑囉(四)徙唎徙唎(五)蘇嚕蘇嚕　薩婆佛陀阿婆盧枳帝(七)陀囉陀囉(八)達摩阿婆盧枳帝(九)蔗囉蔗囉(十)僧伽阿提瑟恥帝(十一)跋囉跋囉(下囉字長聲)阿佞迦(十二)佛陀俱胝婆瑟低(十三)[打-丁+親](初覲反)那[打-丁+親]那(十四)薩婆阿跋囉那(去聲)儞寐(十五)薩婆毒佉阿婆那(去聲)耶(十六)勃囇多勃囇多(十七)姪曬多姪曬多(十八)怛吒(搩迦反)怛吒(十九)薩普吒耶(餘河反)薩普吒耶(二十)薩婆阿跋囉那阿播耶(二十一)突揭帝寧(二十二)蘇婆呵(二十三)善男子此陀羅尼。",
-    "T21n1364_001:0883c03_1": "恒河沙等諸佛所說。",
-    "T21n1364_001:0883c03_2": "阿難佛世難遇人身難得。",
-    "T21n1364_001:0883c04_3": "受持此呪轉復為難。",
-    "T21n1364_001:0883c04_4": "善男子我念往昔。",
-    "T21n1364_001:0883c05_5": "毘婆尸佛次第乃至迦葉如來。",
-    "T21n1364_001:0883c06_6": "咸為我說此陀羅尼。",
-    "T21n1364_001:0883c06_7": "普欲安樂諸眾生故。",
-    "T21n1364_001:0883c07_0": "於諸佛所皆親聽受。",
-    "T21n1364_001:0883c07_1": "爾時世尊說此呪已。",
-    "T21n1364_001:0883c07_2": "觀自在菩薩摩訶薩等。",
-    "T21n1364_001:0883c08_3": "及天龍八部一切眾會。",
-    "T21n1364_001:0883c09_0": "聞佛所說皆大歡喜信受奉行。",
-    "T21n1364_001:0883c10_0": "妙臂印幢陀羅尼經"
-}
+[
+    {
+        "source_sentence": "妙臂印幢陀羅尼經",
+        "from": "T21n1364_001:0883b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大唐于闐三藏實叉難陀奉　制譯",
+        "from": "T21n1364_001:0883b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞。一時佛在雞羅娑山諸獸依處妙",
+        "from": "T21n1364_001:0883b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "宮殿中。",
+        "from": "T21n1364_001:0883b07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與大比丘眾千二百五十人。",
+        "from": "T21n1364_001:0883b07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又與無量菩薩摩訶薩俱。",
+        "from": "T21n1364_001:0883b08_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文殊師利法王子而為上首。",
+        "from": "T21n1364_001:0883b09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "靡不皆如童子之形。",
+        "from": "T21n1364_001:0883b09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "并賢護等十六丈夫。",
+        "from": "T21n1364_001:0883b09_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊以正念智。",
+        "from": "T21n1364_001:0883b10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為諸天人演說法要皆令歡喜。",
+        "from": "T21n1364_001:0883b11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時大梵王及諸天龍夜叉乾闥婆阿修羅迦樓羅緊那羅摩睺羅伽人非人等。",
+        "from": "T21n1364_001:0883b12_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各起合掌前白佛言。",
+        "from": "T21n1364_001:0883b13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊有諸眾生。",
+        "from": "T21n1364_001:0883b13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "由造種種罪惡業故。",
+        "from": "T21n1364_001:0883b14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應墮地獄餓鬼畜生。",
+        "from": "T21n1364_001:0883b14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "閻魔羅界備受眾苦。",
+        "from": "T21n1364_001:0883b15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯願世尊大悲。",
+        "from": "T21n1364_001:0883b15_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為說除滅如是苦惱方便。",
+        "from": "T21n1364_001:0883b16_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令彼眾生皆得解脫諸惡道難。",
+        "from": "T21n1364_001:0883b16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時觀自在菩薩摩訶薩。",
+        "from": "T21n1364_001:0883b17_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復與無量持呪大仙前後圍繞。",
+        "from": "T21n1364_001:0883b18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頂禮佛足白言世尊。",
+        "from": "T21n1364_001:0883b18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟垂愍念以善方便救諸世間。",
+        "from": "T21n1364_001:0883b19_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛言善男子。",
+        "from": "T21n1364_001:0883b19_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有陀羅尼名妙臂印幢。",
+        "from": "T21n1364_001:0883b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能常念誦習思惟。",
+        "from": "T21n1364_001:0883b20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "速得除滅五無間罪。",
+        "from": "T21n1364_001:0883b21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "富貴安樂大姓家生。",
+        "from": "T21n1364_001:0883b21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊即說呪曰。",
+        "from": "T21n1364_001:0883b21_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "怛姪他迦居伽反下同囉迦囉一枳利枳利句嚕句嚕三娑囉娑囉四徙唎徙唎五蘇嚕蘇嚕　薩婆佛陀阿婆盧枳帝七陀囉陀囉八達摩阿婆盧枳帝九蔗囉蔗囉十僧伽阿提瑟恥帝十一跋囉跋囉下囉字長聲阿佞迦十二佛陀俱胝婆瑟低十三𭣋初覲反那𭣋那十四薩婆阿跋囉那去聲儞寐十五薩婆毒佉阿婆那去聲耶十六勃囇多勃囇多十七姪曬多姪曬多十八怛吒搩迦反怛吒十九薩普吒耶餘河反薩普吒耶二十薩婆阿跋囉那阿播耶二十一突揭帝寧二十二蘇婆呵二十三善男子此陀羅尼。",
+        "from": "T21n1364_001:0883c03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "恒河沙等諸佛所說。",
+        "from": "T21n1364_001:0883c03_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿難佛世難遇人身難得。",
+        "from": "T21n1364_001:0883c04_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受持此呪轉復為難。",
+        "from": "T21n1364_001:0883c04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子我念往昔。",
+        "from": "T21n1364_001:0883c05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "毘婆尸佛次第乃至迦葉如來。",
+        "from": "T21n1364_001:0883c06_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "咸為我說此陀羅尼。",
+        "from": "T21n1364_001:0883c06_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "普欲安樂諸眾生故。",
+        "from": "T21n1364_001:0883c06_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於諸佛所皆親聽受。",
+        "from": "T21n1364_001:0883c07_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊說此呪已。",
+        "from": "T21n1364_001:0883c07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "觀自在菩薩摩訶薩等。",
+        "from": "T21n1364_001:0883c08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及天龍八部一切眾會。",
+        "from": "T21n1364_001:0883c08_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞佛所說皆大歡喜信受奉行。",
+        "from": "T21n1364_001:0883c09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "妙臂印幢陀羅尼經",
+        "from": "T21n1364_001:0883c10_100",
+        "context_with_next_sentence": false
+    }
+]

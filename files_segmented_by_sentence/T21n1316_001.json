@@ -1,7 +1,37 @@
-{
-    "T21n1316_001:0468b16_0": "佛說甘露經陀羅尼呪",
-    "T21n1316_001:0468b18_0": "南無素嚕皤耶(一)怛他揭多(去聲呼之)耶(二)怛姪他(三)唵(四)素嚕素嚕(五)皤囉素嚕(六)皤羅素嚕(七)莎呵(八)右取水一掬呪之七遍散於空中。",
-    "T21n1316_001:0468b21_1": "其水一渧變成十斛甘露。",
-    "T21n1316_001:0468b22_2": "一切餓鬼並得飲之。",
-    "T21n1316_001:0468b22_3": "無有乏少皆悉飽滿。"
-}
+[
+    {
+        "source_sentence": "佛說甘露經陀羅尼呪",
+        "from": "T21n1316_001:0468b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "南無素嚕皤耶一怛他揭多去聲呼之耶二怛姪他",
+        "from": "T21n1316_001:0468b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三唵四素嚕素嚕五皤囉素嚕六皤羅素嚕七莎",
+        "from": "T21n1316_001:0468b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "呵八右取水一掬呪之七遍散於空中。",
+        "from": "T21n1316_001:0468b21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其水一渧變成十斛甘露。",
+        "from": "T21n1316_001:0468b22_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切餓鬼並得飲之。",
+        "from": "T21n1316_001:0468b22_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無有乏少皆悉飽滿。",
+        "from": "T21n1316_001:0468b23_5",
+        "context_with_next_sentence": true
+    }
+]

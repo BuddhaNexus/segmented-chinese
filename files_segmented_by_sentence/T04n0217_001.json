@@ -1,27 +1,207 @@
-{
-    "T04n0217_001:0801b03_0": "佛說譬喻經",
-    "T04n0217_001:0801b05_0": "大唐三藏法師義淨譯",
-    "T04n0217_001:0801b06_0": "如是我聞：一時薄伽梵，在室羅伐城逝多林給孤獨園。",
-    "T04n0217_001:0801b07_1": "爾時世尊於大眾中，告勝光王曰：「大王！",
-    "T04n0217_001:0801b08_2": "我今為王略說譬喻，諸有生死味著過患，王今諦聽！",
-    "T04n0217_001:0801b09_3": "善思念之。",
-    "T04n0217_001:0801b09_4": "乃往過去，於無量劫，時有一人，遊於曠野，為惡象所逐，怖走無依，見一空井，傍有樹根，即尋根下，潛身井中。",
-    "T04n0217_001:0801b12_5": "有黑白二鼠，互齧樹根；於井四邊有四毒蛇，欲螫其人；下有毒龍。",
-    "T04n0217_001:0801b13_6": "心畏龍蛇恐樹根斷。",
-    "T04n0217_001:0801b14_7": "樹根蜂蜜，五滴墮口，樹搖蜂散，下螫斯人，野火復來，燒然此樹。」",
-    "T04n0217_001:0801b15_8": "王曰：「是人云何，受無量苦，貪彼少味？」",
-    "T04n0217_001:0801b16_9": "爾時世尊告言：「大王！",
-    "T04n0217_001:0801b17_10": "曠野者喻於無明長夜曠遠，言彼人者喻於異生，象喻無常，井喻生死，險岸樹根喻命，黑白二鼠以喻晝夜，齧樹根者喻念念滅，其四毒蛇喻於四大，蜜喻五欲，蜂喻邪思，火喻老病，毒龍喻死。",
-    "T04n0217_001:0801b21_11": "是故大王！",
-    "T04n0217_001:0801b21_12": "當知生老病死，甚可怖畏，常應思念，勿被五欲之所吞迫。」",
-    "T04n0217_001:0801b23_13": "爾時世尊重說頌曰：「曠野無明路，　　人走喻凡夫，　大象比無常，　　井喻生死岸；　樹根喻於命，　　二鼠晝夜同，　齧根念念衰，　　四蛇同四大；　蜜滴喻五欲，　　蜂螫比邪思，　火同於老病，　　毒龍方死苦。",
-    "T04n0217_001:0801c01_0": "　智者觀斯事，　　象可厭生津，　五欲心無著，　　方名解脫人。",
-    "T04n0217_001:0801c03_0": "　鎮處無明海，　　常為死王驅，　寧知戀聲色，　　不樂離凡夫。」",
-    "T04n0217_001:0801c05_0": "爾時勝光大王聞佛為說生死過患，得未曾有，深生厭離，合掌恭敬，一心瞻仰，白佛言：「世尊！",
-    "T04n0217_001:0801c07_1": "如來大慈，為說如是微妙法義，我今頂戴。」",
-    "T04n0217_001:0801c08_2": "佛言：「善哉善哉！",
-    "T04n0217_001:0801c08_3": "大王！",
-    "T04n0217_001:0801c08_4": "當如說行，勿為放逸。」",
-    "T04n0217_001:0801c09_5": "時勝光王及諸大眾，皆悉歡喜，信受奉行。",
-    "T04n0217_001:0801c11_0": "佛說譬喻經"
-}
+[
+    {
+        "source_sentence": "佛說譬喻經",
+        "from": "T04n0217_001:0801b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大唐三藏法師義淨譯",
+        "from": "T04n0217_001:0801b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞：一時薄伽梵，在室羅伐城逝多",
+        "from": "T04n0217_001:0801b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "林給孤獨園。",
+        "from": "T04n0217_001:0801b07_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊於大眾中，告勝光王曰：",
+        "from": "T04n0217_001:0801b08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大王！",
+        "from": "T04n0217_001:0801b08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我今為王略說譬喻，諸有生死味著過患，王今諦聽！",
+        "from": "T04n0217_001:0801b09_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善思念之。",
+        "from": "T04n0217_001:0801b09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃往過去，於無量劫，時有一人，遊於曠野，為惡象所逐，怖走無依，見一空井，傍有樹根，即尋根下，潛身井中。",
+        "from": "T04n0217_001:0801b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有黑白二鼠，互齧樹根；",
+        "from": "T04n0217_001:0801b12_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於井四邊有四毒蛇，欲螫其人；",
+        "from": "T04n0217_001:0801b13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "下有毒龍。",
+        "from": "T04n0217_001:0801b13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心畏龍蛇，恐樹根斷。",
+        "from": "T04n0217_001:0801b14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樹根蜂蜜，五滴墮口，樹搖蜂散，下螫斯人，野火復來，燒然此樹。",
+        "from": "T04n0217_001:0801b15_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王曰：",
+        "from": "T04n0217_001:0801b15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「是人云何受無量苦貪彼少味？",
+        "from": "T04n0217_001:0801b16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊告言：",
+        "from": "T04n0217_001:0801b16_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大王！",
+        "from": "T04n0217_001:0801b17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曠野者喻於無明長夜曠遠，言彼人者喻於異生，象喻無常，井喻生死，險岸樹根喻命，黑白二鼠以喻晝夜，齧樹根者喻念念滅，其四毒蛇喻於四大，蜜喻五欲，蜂喻邪思，火喻老病，毒龍喻死。",
+        "from": "T04n0217_001:0801b21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故大王！",
+        "from": "T04n0217_001:0801b21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知生老病死，甚可怖畏，常應思念，勿被五欲之所吞迫。",
+        "from": "T04n0217_001:0801b23_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊重說頌曰：",
+        "from": "T04n0217_001:0801b23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「曠野無明路，　　人走喻凡夫，",
+        "from": "T04n0217_001:0801b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大象比無常，　　井喻生死岸；",
+        "from": "T04n0217_001:0801b25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "樹根喻於命，　　二鼠晝夜同，",
+        "from": "T04n0217_001:0801b26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "齧根念念衰，　　四蛇同四大；",
+        "from": "T04n0217_001:0801b27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "蜜滴喻五欲，　　蜂螫比邪思，",
+        "from": "T04n0217_001:0801b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "火同於老病，　　毒龍方死苦。",
+        "from": "T04n0217_001:0801b29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智者觀斯事，　　象可厭生津，",
+        "from": "T04n0217_001:0801c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五欲心無著，　　方名解脫人。",
+        "from": "T04n0217_001:0801c02_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "鎮處無明海，　　常為死王驅，",
+        "from": "T04n0217_001:0801c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寧知戀聲色，　　不樂離凡夫。",
+        "from": "T04n0217_001:0801c04_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時勝光大王聞佛為說生死過患，得未曾有，深生厭離，合掌恭敬，一心瞻仰，白佛言：",
+        "from": "T04n0217_001:0801c06_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T04n0217_001:0801c07_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如來大慈，為說如是微妙法義，我今頂戴。",
+        "from": "T04n0217_001:0801c08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T04n0217_001:0801c08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「善哉，善哉！",
+        "from": "T04n0217_001:0801c08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大王！",
+        "from": "T04n0217_001:0801c08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當如說行，勿為放逸。",
+        "from": "T04n0217_001:0801c09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時勝光王及諸大眾，皆悉歡喜，信受奉行。",
+        "from": "T04n0217_001:0801c10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說譬喻經",
+        "from": "T04n0217_001:0801c11_100",
+        "context_with_next_sentence": false
+    }
+]

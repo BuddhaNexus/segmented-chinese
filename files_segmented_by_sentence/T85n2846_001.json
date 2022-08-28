@@ -1,26 +1,117 @@
-{
-    "T85n2846_001:1298b09_0": "祈願文",
-    "T85n2846_001:1298b11_0": "處結壇五日每壇供僧。",
-    "T85n2846_001:1298b11_1": "一七人散食燃燈。",
-    "T85n2846_001:1298b11_2": "逐夜唱大□□□□□。",
-    "T85n2846_001:1298b13_0": "　布壹疋。",
-    "T85n2846_001:1298b13_1": "駝皮壹肋□□□□□□□□紙壹帖□□□□□□□□。",
-    "T85n2846_001:1298b15_0": "右件結壇轉經供僧唱佛燃燈捨施所申意□□□□□龍天八部護衛燉煌梵釋四王安民靜塞所□□□□□吉逐舊歲遠去他方應是嘉瑞嘉祥隨□□□□於□府中天。",
-    "T85n2846_001:1298b19_0": "帝主□衛大猷□□□而歸京。",
-    "T85n2846_001:1298b19_1": "八表咸臻而献欵。",
-    "T85n2846_001:1298b20_2": "大王保位寵祿日新。",
-    "T85n2846_001:1298b20_3": "等五岳而齊高。",
-    "T85n2846_001:1298b20_4": "比□□□不替天。",
-    "T85n2846_001:1298b21_5": "公主永泰竝桃李而芬芳。",
-    "T85n2846_001:1298b21_6": "夫人又安以春花而恒茂□□□書俊□□□□之全才。",
-    "T85n2846_001:1298b23_7": "諸幼郎君□□孝而許國。",
-    "T85n2846_001:1298b23_8": "小娘子姊妹丞妙治而居閨。",
-    "T85n2846_001:1298b24_9": "合宅枝羅保歡顏而納慶。",
-    "T85n2846_001:1298b25_0": "然後□□□□□牧童賀　舜日之□□境康寧野老播　堯年之慶田祥。",
-    "T85n2846_001:1298b26_1": "五稼千門倍。",
-    "T85n2846_001:1298b26_2": "盈於東皐悉□□□廣收於南畝。",
-    "T85n2846_001:1298b27_3": "朝庭奉使早拜天顏。",
-    "T85n2846_001:1298b28_4": "所奏邊情果蒙。",
-    "T85n2846_001:1298b29_0": "聖元時消疾□□勵莫狼刀□藏音狼煙羂罷滅今因壇散詣就場道渴□□□□□三尊幸希迴向。",
-    "T85n2846_001:1298c03_0": "長興二年十二月二十六日□□西歸義等軍"
-}
+[
+    {
+        "source_sentence": "祈願文",
+        "from": "T85n2846_001:1298b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "處結壇五日每壇供僧。一七人散食燃燈。逐",
+        "from": "T85n2846_001:1298b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夜唱大□□□□□。",
+        "from": "T85n2846_001:1298b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　布壹疋。",
+        "from": "T85n2846_001:1298b13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "駝皮壹肋□□□□□□□□紙壹帖□□□□□□□□。",
+        "from": "T85n2846_001:1298b14_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "右件結壇轉經供僧唱佛燃燈捨施所申意□□□□□龍天八部護衛燉煌梵釋四王安民靜塞所□□□□□吉逐舊歲遠去他方應是嘉瑞嘉祥隨□□□□於□府中天。",
+        "from": "T85n2846_001:1298b18_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "帝主□衛大猷□□□而歸京。",
+        "from": "T85n2846_001:1298b19_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八表咸臻而献欵。",
+        "from": "T85n2846_001:1298b20_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大王保位寵祿日新。",
+        "from": "T85n2846_001:1298b20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "等五岳而齊高。",
+        "from": "T85n2846_001:1298b20_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比□□□不替天。",
+        "from": "T85n2846_001:1298b21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "公主永泰竝桃李而芬芳。",
+        "from": "T85n2846_001:1298b21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫人又安以春花而恒茂□□□書俊□□□□之全才。",
+        "from": "T85n2846_001:1298b23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸幼郎君□□孝而許國。",
+        "from": "T85n2846_001:1298b23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "小娘子姊妹丞妙治而居閨。",
+        "from": "T85n2846_001:1298b24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "合宅枝羅保歡顏而納慶。",
+        "from": "T85n2846_001:1298b24_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然後□□□□□牧童賀　舜日之□□境康寧野老播　堯年之慶田祥。",
+        "from": "T85n2846_001:1298b26_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五稼千門倍。",
+        "from": "T85n2846_001:1298b26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "盈於東皐悉□□□廣收於南畝。",
+        "from": "T85n2846_001:1298b27_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "朝庭奉使早拜天顏。",
+        "from": "T85n2846_001:1298b28_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所奏邊情果蒙。",
+        "from": "T85n2846_001:1298b28_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖元時消疾□□勵莫狼刀□藏音狼煙羂罷滅今因壇散詣就場道渴□□□□□三尊幸希迴向。",
+        "from": "T85n2846_001:1298c02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "長興二年十二月二十六日□□西歸義等軍",
+        "from": "T85n2846_001:1298c04_100",
+        "context_with_next_sentence": false
+    }
+]

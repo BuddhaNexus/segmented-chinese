@@ -1,59 +1,427 @@
-{
-    "T01n0040_001:0824a20_0": "佛說文陀竭王經",
-    "T01n0040_001:0824a22_0": "北涼三藏曇無讖譯",
-    "T01n0040_001:0824a23_0": "聞如是：一時，佛在舍衛國祇樹給孤獨園。",
-    "T01n0040_001:0824a23_1": "是時，阿難於屏處思惟：「世間人略厭五所思者少，至死不知厭足者多。」",
-    "T01n0040_001:0824a25_2": "阿難日中後，到佛所前，為佛作禮，却白佛言：「我於屏處思惟，世間人略厭五所思者少，至死不知厭足者多。」",
-    "T01n0040_001:0824a27_3": "佛言：「審如阿難言，世間人略厭五所思者少，至死不知厭足者多。",
-    "T01n0040_001:0824a29_4": "所以者何？",
-    "T01n0040_001:0824a29_5": "昔者有王名號文陀竭，生從母頂出，是故字為文陀竭，後作遮迦越王，東西南北皆屬之。",
-    "T01n0040_001:0824b02_6": "有七寶：一者金輪，二者白象，三者紺色馬，四者明月珠，五者玉女婦，六者聖輔臣，七者導道主兵臣，作遮迦越王有七寶如是。",
-    "T01n0040_001:0824b05_7": "王仁賢，修正法，不煩擾萬民。",
-    "T01n0040_001:0824b06_8": "有千子，皆端正高才，健猛力壯，四天下皆降屬之。",
-    "T01n0040_001:0824b07_9": "作王數千歲，意中自念：『我有四天下，人民熾盛，穀米平賤，人民多富。』",
-    "T01n0040_001:0824b08_10": "王復自念言：『我有千子，皆端正，無比高才，健猛力壯，令天為我雨錢金銀七日七夜，快耶。』",
-    "T01n0040_001:0824b10_11": "天聞其語，隨其所願，即為雨錢金銀七日七夜。",
-    "T01n0040_001:0824b11_12": "王見天雨錢金銀七日七夜，大歡喜，即共相娛樂數千歲。",
-    "T01n0040_001:0824b13_13": "王自念言：『四天下皆屬我，我有千子七寶皆在我前，所欲得者皆已得之，天復不奪我所願，為我雨錢金銀七日七夜。』",
-    "T01n0040_001:0824b15_14": "文陀竭王聞南方有閻浮提國大樂人民熾盛，王意欲往，適生意，便舉七寶、四種兵俱飛到。",
-    "T01n0040_001:0824b17_15": "閻浮提國二十八萬里，其國見王即降伏屬之，王宿命作善故，至使得是福。",
-    "T01n0040_001:0824b19_16": "「在俱耶尼國數千歲，王復生意：『我有大國在西方，名俱耶尼，縱廣三十二萬里，我有七寶，天為我雨錢金銀七日七夜，我有千子，皆端正無比高才健猛力壯，我有南方閻浮提國二十八萬里。』",
-    "T01n0040_001:0824b23_17": "王聞東方有弗于逮國，人民熾盛，穀米平賤，其國大樂。",
-    "T01n0040_001:0824b25_18": "王意欲往，適生意，便舉七寶、四種兵俱飛行到，其國王及人民便降伏屬之，王因以正法治國。",
-    "T01n0040_001:0824b27_19": "「如是數千歲，王復生意：『我有閻浮提國二十八萬里，我有俱耶尼國三十二萬里，我有弗于逮國三十六萬里。』",
-    "T01n0040_001:0824b29_20": "王聞北方有欝單曰，天下大樂，人民熾盛。",
-    "T01n0040_001:0824c01_21": "王意欲往到其國，其國中無貧窮，無豪羸強弱，無有奴婢尊卑，皆同一等。",
-    "T01n0040_001:0824c03_22": "『令我人眾官屬，共食之自然粳米，自然衣被服飾諸珍寶。』",
-    "T01n0040_001:0824c04_23": "王適生意，便舉七寶、四種兵俱飛行入欝單曰國界。",
-    "T01n0040_001:0824c05_24": "遙見地正青如翠羽色，王問邊臣言：『汝曹寧見是地正青如翠羽色不？』",
-    "T01n0040_001:0824c07_25": "邊臣對言：『唯然見之。』",
-    "T01n0040_001:0824c07_26": "王言：『是故欝單曰天下也。』",
-    "T01n0040_001:0824c08_27": "王適前行，復見地正白如雪，王復語邊臣言：『見是地正白不？』",
-    "T01n0040_001:0824c09_28": "邊臣對言：『唯然見之。』",
-    "T01n0040_001:0824c10_29": "王言：『是故欝單曰地自然生成擣稻米，汝曹皆當共食之。』",
-    "T01n0040_001:0824c11_30": "適復前行，遙見諸寶樹，百種衣樹，金銀、璧環、瓔珞皆懸著樹，王問邊臣言：『汝曹見是諸寶樹不？』",
-    "T01n0040_001:0824c13_31": "邊臣言：『唯然見之。』",
-    "T01n0040_001:0824c14_32": "王言：『是故百種衣樹，金銀、璧環、瓔珞樹也，汝曹往皆當共取著之。』",
-    "T01n0040_001:0824c15_33": "王便前到欝單曰國，人民皆悉降伏屬之。",
-    "T01n0040_001:0824c16_34": "「王治欝單曰數千歲，復生意，自念言：『我有閻浮提地，有拘耶尼地，有弗于逮地，有欝單曰四十萬里。』",
-    "T01n0040_001:0824c18_35": "王意欲上須彌四寶山王，至忉利天王釋所止處。",
-    "T01n0040_001:0824c19_36": "王適生意，便舉七寶、百官俱飛到須彌山上，便前入天王釋宮。",
-    "T01n0040_001:0824c21_37": "釋遙見文陀竭王來，便起迎之言：『數聞功德，欲相見日久。",
-    "T01n0040_001:0824c22_38": "仁者來，大善！』",
-    "T01n0040_001:0824c22_39": "便牽與共坐，以半之座與文陀竭王。",
-    "T01n0040_001:0824c23_40": "適坐，左右顧視天上，有玉女侍使，皆以七寶金銀琉璃、水精珊瑚、虎魄車璩，以為宮殿。",
-    "T01n0040_001:0824c25_41": "見之，心便念言：『我有閻浮提、俱耶尼、弗于逮、欝單曰，我舍中有雨錢金銀七日七夜。』",
-    "T01n0040_001:0824c27_42": "文陀竭王自念言：『使天王釋死去，我欲代其處治天上，如治天下時快耶。』",
-    "T01n0040_001:0824c29_43": "王適生意，神便去，即來還在天下，便被病困劣著床。",
-    "T01n0040_001:0825a01_44": "王所從群臣官屬，悉在王床邊問王：『得無有遺言？』",
-    "T01n0040_001:0825a02_45": "王曰：『有敢問汝曹：「王有何等遺言？」",
-    "T01n0040_001:0825a03_46": "汝曹語之言：「王在時治四天下，天為雨錢金銀七日七夜，王有千子、七寶，皆能飛行。",
-    "T01n0040_001:0825a05_47": "王上忉利天上，天王釋起迎勞賚問訊，以半之座坐之，尚復生意欲得天王釋處。",
-    "T01n0040_001:0825a07_0": "適生意，便來下在地，即被病困劣。",
-    "T01n0040_001:0825a07_1": "自悔言：『人至死無有厭足，知厭足者少耳。』」』",
-    "T01n0040_001:0825a08_2": "經說言，不以天雨錢金銀七日七夜故不飽也，其利少耳，其過大重，有智之人當思惟是事。",
-    "T01n0040_001:0825a10_3": "復得天王釋半尚復不足，人行求道，得須陀洹、斯陀含、阿那含、阿羅漢、辟支佛，至得佛道乃厭足耳。」",
-    "T01n0040_001:0825a13_0": "佛告阿難：「時文陀竭王者，是我身也。」",
-    "T01n0040_001:0825a13_1": "佛說如是，阿難歡喜，為佛作禮。",
-    "T01n0040_001:0825a15_0": "佛說文陀竭王經"
-}
+[
+    {
+        "source_sentence": "佛說文陀竭王經",
+        "from": "T01n0040_001:0824a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "北涼三藏曇無讖譯",
+        "from": "T01n0040_001:0824a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞如是：一時，佛在舍衛國祇樹給孤獨園。是",
+        "from": "T01n0040_001:0824a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時，阿難於屏處思惟：",
+        "from": "T01n0040_001:0824a24_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世間人略厭五所思者少，至死不知厭足者多。",
+        "from": "T01n0040_001:0824a25_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」阿難日中後，到佛所前，為佛作禮，却白佛言：",
+        "from": "T01n0040_001:0824a26_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我於屏處思惟，世間人略厭五所思者少，至死不知厭足者多。",
+        "from": "T01n0040_001:0824a27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T01n0040_001:0824a28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「審如阿難言，世間人略厭五所思者少，至死不知厭足者多。",
+        "from": "T01n0040_001:0824a29_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所以者何？",
+        "from": "T01n0040_001:0824a29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔者有王名號文陀竭，生從母頂出，是故字為文陀竭，後作遮迦越王，東西南北皆屬之。",
+        "from": "T01n0040_001:0824b02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有七寶：",
+        "from": "T01n0040_001:0824b02_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者金輪，二者白象，三者紺色馬，四者明月珠，五者玉女婦，六者聖輔臣，七者導道主兵臣，作遮迦越王有七寶如是。",
+        "from": "T01n0040_001:0824b05_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王仁賢，修正法，不煩擾萬民。",
+        "from": "T01n0040_001:0824b06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有千子，皆端正高才，健猛力壯，四天下皆降屬之。",
+        "from": "T01n0040_001:0824b07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作王數千歲，意中自念：",
+        "from": "T01n0040_001:0824b07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我有四天下，人民熾盛，穀米平賤，人民多富。",
+        "from": "T01n0040_001:0824b08_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』王復自念言：",
+        "from": "T01n0040_001:0824b09_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我有千子，皆端正，無比高才，健猛力壯，令天為我雨錢金銀七日七夜，快耶。",
+        "from": "T01n0040_001:0824b10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』天聞其語，隨其所願，即為雨錢金銀七日七夜。",
+        "from": "T01n0040_001:0824b11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王見天雨錢金銀七日七夜，大歡喜，即共相娛樂數千歲。",
+        "from": "T01n0040_001:0824b13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王自念言：",
+        "from": "T01n0040_001:0824b13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『四天下皆屬我，我有千子七寶皆在我前，所欲得者皆已得之，天復不奪我所願，為我雨錢金銀七日七夜。",
+        "from": "T01n0040_001:0824b15_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』文陀竭王聞南方有閻浮提國大樂人民熾盛，王意欲往，適生意，便舉七寶、四種兵俱飛到。",
+        "from": "T01n0040_001:0824b17_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "閻浮提國二十八萬里，其國見王即降伏屬之，王宿命作善故，至使得是福。",
+        "from": "T01n0040_001:0824b19_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「在俱耶尼國數千歲，王復生意：",
+        "from": "T01n0040_001:0824b20_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我有大國在西方，名俱耶尼，縱廣三十二萬里，我有七寶，天為我雨錢金銀七日七夜，我有千子，皆端正無比高才健猛力壯，我有南方閻浮提國二十八萬里。",
+        "from": "T01n0040_001:0824b23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』王聞東方有弗于逮國，人民熾盛，穀米平賤，其國大樂。",
+        "from": "T01n0040_001:0824b25_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王意欲往，適生意，便舉七寶、四種兵俱飛行到，其國王及人民便降伏屬之，王因以正法治國。",
+        "from": "T01n0040_001:0824b27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如是數千歲，王復生意：",
+        "from": "T01n0040_001:0824b27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我有閻浮提國二十八萬里，我有俱耶尼國三十二萬里，我有弗于逮國三十六萬里。",
+        "from": "T01n0040_001:0824b29_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』王聞北方有欝單曰，天下大樂，人民熾盛。",
+        "from": "T01n0040_001:0824c01_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王意欲往到其國，其國中無貧窮，無豪羸強弱，無有奴婢尊卑，皆同一等。",
+        "from": "T01n0040_001:0824c03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『令我人眾官屬，共食之自然粳米，自然衣被服飾諸珍寶。",
+        "from": "T01n0040_001:0824c04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』王適生意，便舉七寶、四種兵俱飛行入欝單曰國界。",
+        "from": "T01n0040_001:0824c05_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遙見地正青如翠羽色，王問邊臣言：",
+        "from": "T01n0040_001:0824c06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『汝曹寧見是地正青如翠羽色不？",
+        "from": "T01n0040_001:0824c07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』邊臣對言：",
+        "from": "T01n0040_001:0824c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『唯然見之。",
+        "from": "T01n0040_001:0824c07_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』王言：",
+        "from": "T01n0040_001:0824c07_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『是故欝單曰天下也。",
+        "from": "T01n0040_001:0824c08_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』王適前行，復見地正白如雪，王復語邊臣言：",
+        "from": "T01n0040_001:0824c09_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『見是地正白不？",
+        "from": "T01n0040_001:0824c09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』邊臣對言：",
+        "from": "T01n0040_001:0824c10_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『唯然見之。",
+        "from": "T01n0040_001:0824c10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』王言：",
+        "from": "T01n0040_001:0824c10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『是故欝單曰地自然生成擣稻米，汝曹皆當共食之。",
+        "from": "T01n0040_001:0824c11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』適復前行，遙見諸寶樹，百種衣樹，金銀、璧環、瓔珞皆懸著樹，王問邊臣言：",
+        "from": "T01n0040_001:0824c13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『汝曹見是諸寶樹不？",
+        "from": "T01n0040_001:0824c13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』邊臣言：",
+        "from": "T01n0040_001:0824c13_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『唯然見之。",
+        "from": "T01n0040_001:0824c14_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』王言：",
+        "from": "T01n0040_001:0824c14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『是故百種衣樹，金銀、璧環、瓔珞樹也，汝曹往皆當共取著之。",
+        "from": "T01n0040_001:0824c15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』王便前到欝單曰國，人民皆悉降伏屬之。",
+        "from": "T01n0040_001:0824c16_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「王治欝單曰數千歲，復生意，自念言：",
+        "from": "T01n0040_001:0824c17_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我有閻浮提地，有拘耶尼地，有弗于逮地，有欝單曰四十萬里。",
+        "from": "T01n0040_001:0824c18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』王意欲上須彌四寶山王，至忉利天王釋所止處。",
+        "from": "T01n0040_001:0824c19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王適生意，便舉七寶、百官俱飛到須彌山上，便前入天王釋宮。",
+        "from": "T01n0040_001:0824c21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋遙見文陀竭王來，便起迎之言：",
+        "from": "T01n0040_001:0824c22_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『數聞功德，欲相見日久。",
+        "from": "T01n0040_001:0824c22_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "仁者來，大善！",
+        "from": "T01n0040_001:0824c22_21",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』便牽與共坐，以半之座與文陀竭王。",
+        "from": "T01n0040_001:0824c23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "適坐，左右顧視天上，有玉女侍使，皆以七寶金銀琉璃、水精珊瑚、虎魄車𤦲，以為宮殿。",
+        "from": "T01n0040_001:0824c25_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見之，心便念言：",
+        "from": "T01n0040_001:0824c26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我有閻浮提、俱耶尼、弗于逮、欝單曰，我舍中有雨錢金銀七日七夜。",
+        "from": "T01n0040_001:0824c27_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』文陀竭王自念言：",
+        "from": "T01n0040_001:0824c27_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『使天王釋死去，我欲代其處治天上，如治天下時快耶。",
+        "from": "T01n0040_001:0824c29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』王適生意，神便去，即來還在天下，便被病困劣著床。",
+        "from": "T01n0040_001:0825a01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王所從群臣官屬，悉在王床邊問王：",
+        "from": "T01n0040_001:0825a02_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『得無有遺言？",
+        "from": "T01n0040_001:0825a02_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』王曰：",
+        "from": "T01n0040_001:0825a02_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『有敢問汝曹：",
+        "from": "T01n0040_001:0825a02_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「王有何等遺言？",
+        "from": "T01n0040_001:0825a03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」汝曹語之言：",
+        "from": "T01n0040_001:0825a03_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「王在時治四天下，天為雨錢金銀七日七夜，王有千子、七寶，皆能飛行。",
+        "from": "T01n0040_001:0825a05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "王上忉利天上，天王釋起迎勞賚問訊，以半之座坐之，尚復生意欲得天王釋處。",
+        "from": "T01n0040_001:0825a06_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "適生意，便來下在地，即被病困劣。",
+        "from": "T01n0040_001:0825a07_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自悔言：",
+        "from": "T01n0040_001:0825a07_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『人至死無有厭足，知厭足者少耳。",
+        "from": "T01n0040_001:0825a08_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』」』經說言，不以天雨錢金銀七日七夜故不飽也，其利少耳，其過大重，有智之人當思惟是事。",
+        "from": "T01n0040_001:0825a10_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復得天王釋半尚復不足，人行求道，得須陀洹、斯陀含、阿那含、阿羅漢、辟支佛，至得佛道乃厭足耳。",
+        "from": "T01n0040_001:0825a12_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛告阿難：",
+        "from": "T01n0040_001:0825a13_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「時文陀竭王者，是我身也。",
+        "from": "T01n0040_001:0825a13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛說如是，阿難歡喜，為佛作禮。",
+        "from": "T01n0040_001:0825a14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說文陀竭王經",
+        "from": "T01n0040_001:0825a15_100",
+        "context_with_next_sentence": false
+    }
+]

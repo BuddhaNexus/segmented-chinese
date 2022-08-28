@@ -1,77 +1,377 @@
-{
-    "T85n2801_003:0885c26_0": "瑜伽師論本地分中獨覺地分門記一卷本地分第二廣解分十七中第十四釋獨覺地分四。",
-    "T85n2801_003:0885c28_1": "一明生起　二略答。",
-    "T85n2801_003:0885c28_2": "三列名分五如論。",
-    "T85n2801_003:0885c29_0": "四別釋分五　第一明種姓相分三。",
-    "T85n2801_003:0885c29_1": "一總問。",
-    "T85n2801_003:0886a01_0": "二略答。",
-    "T85n2801_003:0886a01_1": "三別釋分三。",
-    "T85n2801_003:0886a01_2": "一依薄塵明種姓分二。",
-    "T85n2801_003:0886a02_0": "一立因。",
-    "T85n2801_003:0886a02_1": "二顯果分二。",
-    "T85n2801_003:0886a02_2": "一不利他。",
-    "T85n2801_003:0886a02_3": "二貪自利。",
-    "T85n2801_003:0886a02_4": "二依薄悲明種姓分二。",
-    "T85n2801_003:0886a03_5": "一立因。",
-    "T85n2801_003:0886a03_6": "二顯果分二。",
-    "T85n2801_003:0886a03_7": "一不利他。",
-    "T85n2801_003:0886a04_8": "二著自利。",
-    "T85n2801_003:0886a04_9": "三依中根慢行明種姓分二。",
-    "T85n2801_003:0886a05_10": "一立因。",
-    "T85n2801_003:0886a05_11": "二顯果分二。",
-    "T85n2801_003:0886a05_12": "一明慢行果。",
-    "T85n2801_003:0886a05_13": "二明中根果　第二明修道相分三。",
-    "T85n2801_003:0886a06_14": "一總問。",
-    "T85n2801_003:0886a06_15": "二略答。",
-    "T85n2801_003:0886a07_16": "三別釋分三。",
-    "T85n2801_003:0886a07_17": "一明依利根求證及於蘊等善巧立初道相分三。",
-    "T85n2801_003:0886a08_18": "一立因。",
-    "T85n2801_003:0886a08_19": "二顯果。",
-    "T85n2801_003:0886a08_20": "三結二依中根順決釋分及六善巧立第二道相分三。",
-    "T85n2801_003:0886a10_21": "一依順決釋分立道分二。",
-    "T85n2801_003:0886a10_22": "一立因。",
-    "T85n2801_003:0886a10_23": "二顯果。",
-    "T85n2801_003:0886a11_0": "二依善巧立道分二。",
-    "T85n2801_003:0886a11_1": "一立因。",
-    "T85n2801_003:0886a11_2": "二顯果。",
-    "T85n2801_003:0886a11_3": "三總結。",
-    "T85n2801_003:0886a12_0": "三依鈍根得沙門果及善巧立第三道分三。",
-    "T85n2801_003:0886a13_0": "一依得有學果不得無學果立道分三。",
-    "T85n2801_003:0886a13_1": "一立因。",
-    "T85n2801_003:0886a14_2": "二顯果。",
-    "T85n2801_003:0886a14_3": "三明不證無學果。",
-    "T85n2801_003:0886a14_4": "二依善巧等立道分二。",
-    "T85n2801_003:0886a15_5": "一立因。",
-    "T85n2801_003:0886a15_6": "二顯果。",
-    "T85n2801_003:0886a15_7": "三總結　第三明習成相分二。",
-    "T85n2801_003:0886a16_8": "一問。",
-    "T85n2801_003:0886a16_9": "二答分三。",
-    "T85n2801_003:0886a16_10": "一依初道立果分二。",
-    "T85n2801_003:0886a17_11": "一立因。",
-    "T85n2801_003:0886a17_12": "二顯果。",
-    "T85n2801_003:0886a17_13": "二依第二三道立果分二。",
-    "T85n2801_003:0886a18_0": "一立因。",
-    "T85n2801_003:0886a18_1": "二顯果分二。",
-    "T85n2801_003:0886a18_2": "一立果體。",
-    "T85n2801_003:0886a18_3": "二顯果德。",
-    "T85n2801_003:0886a19_0": "三明差別分二。",
-    "T85n2801_003:0886a19_1": "一依初道立名。",
-    "T85n2801_003:0886a19_2": "二依後二道立名　第四明安住相分二。",
-    "T85n2801_003:0886a20_3": "一問。",
-    "T85n2801_003:0886a20_4": "二答分二。",
-    "T85n2801_003:0886a21_0": "一依麟角喻明安住勝解等作意分二。",
-    "T85n2801_003:0886a21_1": "一立因。",
-    "T85n2801_003:0886a22_2": "二顯果分五如論。",
-    "T85n2801_003:0886a22_3": "二依部行喻明共相雜住分二。",
-    "T85n2801_003:0886a23_4": "一明雜住義。",
-    "T85n2801_003:0886a23_5": "二指文　第五明遊行相分二。",
-    "T85n2801_003:0886a24_6": "一問。",
-    "T85n2801_003:0886a24_7": "二答分三。",
-    "T85n2801_003:0886a24_8": "一明善護身等功德。",
-    "T85n2801_003:0886a25_0": "二明不以語言化利有情因由分三。",
-    "T85n2801_003:0886a25_1": "一明正義。",
-    "T85n2801_003:0886a26_2": "二徵。",
-    "T85n2801_003:0886a26_3": "三答所以分二如論。",
-    "T85n2801_003:0886a26_4": "三明前三俱是趣寂之義。",
-    "T85n2801_003:0886a28_0": "已上獨覺地分門記究竟。"
-}
+[
+    {
+        "source_sentence": "瑜伽師論本地分中獨覺地分門記一卷",
+        "from": "T85n2801_003:0885c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "本事分獨覺地本地分第二廣解分十七中第十四釋獨覺地",
+        "from": "T85n2801_003:0885c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分四。一明生起　二略答。三列名分五如論。",
+        "from": "T85n2801_003:0885c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四別釋分五　第一明種姓相分三。",
+        "from": "T85n2801_003:0885c29_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一總問。",
+        "from": "T85n2801_003:0885c29_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二略答。",
+        "from": "T85n2801_003:0886a01_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三別釋分三。",
+        "from": "T85n2801_003:0886a01_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一依薄塵明種姓分二。",
+        "from": "T85n2801_003:0886a01_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一立因。",
+        "from": "T85n2801_003:0886a02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二顯果分二。",
+        "from": "T85n2801_003:0886a02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一不利他。",
+        "from": "T85n2801_003:0886a02_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二貪自利。",
+        "from": "T85n2801_003:0886a02_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二依薄悲明種姓分二。",
+        "from": "T85n2801_003:0886a03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一立因。",
+        "from": "T85n2801_003:0886a03_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二顯果分二。",
+        "from": "T85n2801_003:0886a03_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一不利他。",
+        "from": "T85n2801_003:0886a04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二著自利。",
+        "from": "T85n2801_003:0886a04_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三依中根慢行明種姓分二。",
+        "from": "T85n2801_003:0886a05_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一立因。",
+        "from": "T85n2801_003:0886a05_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二顯果分二。",
+        "from": "T85n2801_003:0886a05_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一明慢行果。",
+        "from": "T85n2801_003:0886a05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二明中根果　第二明修道相分三。",
+        "from": "T85n2801_003:0886a06_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一總問。",
+        "from": "T85n2801_003:0886a06_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二略答。",
+        "from": "T85n2801_003:0886a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三別釋分三。",
+        "from": "T85n2801_003:0886a07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一明依利根求證及於蘊等善巧立初道相分三。",
+        "from": "T85n2801_003:0886a08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一立因。",
+        "from": "T85n2801_003:0886a08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二顯果。",
+        "from": "T85n2801_003:0886a08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三結二依中根順決釋分及六善巧立第二道相分三。",
+        "from": "T85n2801_003:0886a10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一依順決釋分立道分二。",
+        "from": "T85n2801_003:0886a10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一立因。",
+        "from": "T85n2801_003:0886a10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二顯果。",
+        "from": "T85n2801_003:0886a10_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二依善巧立道分二。",
+        "from": "T85n2801_003:0886a11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一立因。",
+        "from": "T85n2801_003:0886a11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二顯果。",
+        "from": "T85n2801_003:0886a11_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三總結。",
+        "from": "T85n2801_003:0886a11_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三依鈍根得沙門果及善巧立第三道分三。",
+        "from": "T85n2801_003:0886a12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一依得有學果不得無學果立道分三。",
+        "from": "T85n2801_003:0886a13_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一立因。",
+        "from": "T85n2801_003:0886a14_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二顯果。",
+        "from": "T85n2801_003:0886a14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三明不證無學果。",
+        "from": "T85n2801_003:0886a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二依善巧等立道分二。",
+        "from": "T85n2801_003:0886a15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一立因。",
+        "from": "T85n2801_003:0886a15_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二顯果。",
+        "from": "T85n2801_003:0886a15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三總結　第三明習成相分二。",
+        "from": "T85n2801_003:0886a16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一問。",
+        "from": "T85n2801_003:0886a16_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二答分三。",
+        "from": "T85n2801_003:0886a16_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一依初道立果分二。",
+        "from": "T85n2801_003:0886a17_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一立因。",
+        "from": "T85n2801_003:0886a17_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二顯果。",
+        "from": "T85n2801_003:0886a17_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二依第二三道立果分二。",
+        "from": "T85n2801_003:0886a17_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一立因。",
+        "from": "T85n2801_003:0886a18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二顯果分二。",
+        "from": "T85n2801_003:0886a18_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一立果體。",
+        "from": "T85n2801_003:0886a18_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二顯果德。",
+        "from": "T85n2801_003:0886a18_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三明差別分二。",
+        "from": "T85n2801_003:0886a19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一依初道立名。",
+        "from": "T85n2801_003:0886a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二依後二道立名　第四明安住相分二。",
+        "from": "T85n2801_003:0886a20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一問。",
+        "from": "T85n2801_003:0886a20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二答分二。",
+        "from": "T85n2801_003:0886a20_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一依麟角喻明安住勝解等作意分二。",
+        "from": "T85n2801_003:0886a21_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一立因。",
+        "from": "T85n2801_003:0886a22_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二顯果分五如論。",
+        "from": "T85n2801_003:0886a22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二依部行喻明共相雜住分二。",
+        "from": "T85n2801_003:0886a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一明雜住義。",
+        "from": "T85n2801_003:0886a23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二指文　第五明遊行相分二。",
+        "from": "T85n2801_003:0886a24_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一問。",
+        "from": "T85n2801_003:0886a24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二答分三。",
+        "from": "T85n2801_003:0886a24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一明善護身等功德。",
+        "from": "T85n2801_003:0886a24_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二明不以語言化利有情因由分三。",
+        "from": "T85n2801_003:0886a25_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一明正義。",
+        "from": "T85n2801_003:0886a26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二徵。",
+        "from": "T85n2801_003:0886a26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三答所以分二如論。",
+        "from": "T85n2801_003:0886a26_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三明前三俱是趣寂之義。",
+        "from": "T85n2801_003:0886a27_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "已上獨覺地分門記究竟。",
+        "from": "T85n2801_003:0886a28_10",
+        "context_with_next_sentence": true
+    }
+]

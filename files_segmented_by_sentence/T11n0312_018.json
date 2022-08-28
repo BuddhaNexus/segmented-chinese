@@ -1,165 +1,992 @@
-{
-    "T11n0312_018:0743b14_0": "佛說如來不思議祕密大乘經卷",
-    "T11n0312_018:0743b15_0": "第十八",
-    "T11n0312_018:0743b17_0": "譯經三藏朝散大夫試光祿卿",
-    "T11n0312_018:0743b18_0": "光梵大師　賜紫沙門臣惟淨",
-    "T11n0312_018:0743b19_0": "等奉　詔譯",
-    "T11n0312_018:0743b20_0": "勇力菩薩先行品第二十一",
-    "T11n0312_018:0743b21_0": "爾時世尊與諸菩薩、聲聞大眾遊止鷲峯山中，於日後分離本住處，為諸大眾隨宜說法。",
-    "T11n0312_018:0743b23_0": "時阿闍世王知佛世尊已復山中，宮嬪眷屬并王舍城中六萬人眾，各持種種上妙香花、塗香末香等諸供養，出王舍大城詣鷲峯山佛世尊所。",
-    "T11n0312_018:0743b26_1": "到已頭面頂禮佛足，各住一面。",
-    "T11n0312_018:0743b26_2": "時阿闍世王前白佛言：「世尊！",
-    "T11n0312_018:0743b27_3": "我諸所作，隨宜安處。",
-    "T11n0312_018:0743b28_4": "我子來白父王：『當知世尊大師於金剛手菩薩宮中赴請已竟，今已還復鷲峯山中。』",
-    "T11n0312_018:0743b29_5": "我乃思念希有世尊。",
-    "T11n0312_018:0743c01_6": "佛於一切眾生大悲隨轉，於眾生聚中無一眾生如來世尊起厭捨者，於曠野大城金剛手宮中赴請受供還復來此，廣為眾生成熟利益世尊。",
-    "T11n0312_018:0743c04_7": "彼金剛手菩薩大祕密主，甚為希有，具大威力，能善宣說如來法律生大歡喜。",
-    "T11n0312_018:0743c06_8": "而金剛手者，往昔曾於何佛、如來、應供、正等正覺所植種德本，乃能成辦如是辯才？」",
-    "T11n0312_018:0743c08_9": "佛告阿闍世王言：「大王當知，彼不種善根眾生於如是事極難信解，而彼決定種善根者乃能於此生其信解。",
-    "T11n0312_018:0743c10_10": "大王！",
-    "T11n0312_018:0743c10_11": "假使十方如殑伽沙數等諸世界，尚能算數知其邊際；彼金剛手菩薩大祕密主於佛世尊所親近供養修諸梵行成就辯才，假使諸佛世尊而亦不能算其邊際。",
-    "T11n0312_018:0743c14_12": "以是緣故，大王！",
-    "T11n0312_018:0743c14_13": "當知昔因緣者。",
-    "T11n0312_018:0743c15_14": "我念過去阿僧祇劫，復過於前廣大無量不思議劫，時有如來、應供、正等正覺出現世間，號曰多聞明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。",
-    "T11n0312_018:0743c18_15": "世界名極嚴，劫名無毀。",
-    "T11n0312_018:0743c19_16": "時彼世尊為彼清淨大菩薩眾宣說正法。",
-    "T11n0312_018:0743c20_17": "彼佛告言：『諸善男子！",
-    "T11n0312_018:0743c20_18": "汝等當知，若有菩薩能發大精進者，即於身命而悉棄捨。』",
-    "T11n0312_018:0743c21_19": "時彼會中有一菩薩名曰勇力，前白佛言：『如是世尊！",
-    "T11n0312_018:0743c23_20": "如是善逝！",
-    "T11n0312_018:0743c23_21": "如佛所言。",
-    "T11n0312_018:0743c23_22": "若有菩薩發精進者，即於身命而悉棄捨。",
-    "T11n0312_018:0743c24_23": "如我解佛所說義，菩薩若生懈怠，豈能速證阿耨多羅三藐三菩提果？",
-    "T11n0312_018:0743c26_24": "何以故？",
-    "T11n0312_018:0743c26_25": "能發精進諸菩薩者，於生死中不起厭倦之意，而彼菩薩於生死中常當稱讚、不樂涅槃，但為成熟諸眾生故。",
-    "T11n0312_018:0743c28_26": "世尊！",
-    "T11n0312_018:0743c28_27": "菩薩勤行為利眾生故，具精進信解，於生死中自得其樂，不樂涅槃之樂。",
-    "T11n0312_018:0744a01_28": "所以者何？",
-    "T11n0312_018:0744a01_29": "菩薩為利諸眾生故，隨其所應諸有施作，亦隨所應皆獲其樂。",
-    "T11n0312_018:0744a03_30": "若住涅槃而何能作？",
-    "T11n0312_018:0744a03_31": "是故諸菩薩於生死境界中自得其樂，而即不取涅槃境界。",
-    "T11n0312_018:0744a05_0": "世尊！",
-    "T11n0312_018:0744a05_1": "菩薩於生死境界中所得樂者，謂即勤行利眾生故，而常得見無量諸佛，常聞無量清淨正法，常能成熟無量眾生。",
-    "T11n0312_018:0744a07_2": "菩薩以住生死境界故，即能隨入眾生境界，而於涅槃境界之中不著捨行。",
-    "T11n0312_018:0744a09_3": "菩薩住生死境界者，以怖墮於非境界中。",
-    "T11n0312_018:0744a10_4": "何以故？",
-    "T11n0312_018:0744a10_5": "非境界中不復能作利眾生事，不能安住如來境界。",
-    "T11n0312_018:0744a11_6": "以不能住如來境界故，不能長養一切眾生。",
-    "T11n0312_018:0744a12_7": "此中何名非境界邪？",
-    "T11n0312_018:0744a13_8": "所謂聲聞、緣覺之地。",
-    "T11n0312_018:0744a13_9": "若樂住者，即棄捨眾生不能成熟。",
-    "T11n0312_018:0744a14_10": "何以故？",
-    "T11n0312_018:0744a14_11": "聲聞、緣覺境界是為菩薩非境界故，以聲聞、緣覺怖畏生死。",
-    "T11n0312_018:0744a15_12": "若能攝受無量生死者，唯除清淨大菩薩爾，是故菩薩能於生死境界中住。』",
-    "T11n0312_018:0744a17_13": "「大王當知，時彼多聞如來讚勇力菩薩言：『善哉正士！",
-    "T11n0312_018:0744a18_14": "善說此語，復善尊重菩薩境界所作諸行，而不復墮非境界中。』",
-    "T11n0312_018:0744a20_15": "勇力菩薩白彼佛言：『云何是菩薩自境界邪？』",
-    "T11n0312_018:0744a21_16": "彼佛答言：『善男子！",
-    "T11n0312_018:0744a21_17": "菩薩自境界者，謂能攝受無量生死不生怖畏，稱讚菩薩廣大勝行而不樂住聲聞、緣覺之地，以無礙智和合三界，若損若益能善增長一切善根，以增益智成眾德本，而復能以盡智成就無盡福行。",
-    "T11n0312_018:0744a26_18": "雖觀無生而善成辦有生之法，雖知無眾生而善成熟一切眾生，雖知諸法離性而善攝受正法，雖知諸佛國土自性如空而以妙智嚴淨佛土，雖觀諸佛法身無相而善勤求如來所有殊妙相好，雖觀諸法本無造作而以妙智於眾德本所作精進，雖觀有為法不實而於諸事業少求少作復能善為一切眾生隨宜施設，雖觀身心離著而以妙智說法無厭，雖離憒閙而從禪定所生不著禪味，雖復覺了甚深之法而以妙智隨諸眾生種種行轉善說法要。",
-    "T11n0312_018:0744b07_19": "雖知無生，以智善思普攝三有。",
-    "T11n0312_018:0744b08_20": "雖以智觀諸法皆空而善護所得之果，雖觀聲聞、緣覺境界而善求如來解脫輕安之法，雖不厭捨諸菩薩行而常善觀諸佛境界。",
-    "T11n0312_018:0744b11_21": "善男子！",
-    "T11n0312_018:0744b11_22": "此即是為彼諸菩薩自境界門。』",
-    "T11n0312_018:0744b11_23": "「復次大王！",
-    "T11n0312_018:0744b12_24": "彼時勇力菩薩於彼多聞如來所，聞說如是清淨境界法已，生希有心，白彼佛言：『希有世尊！",
-    "T11n0312_018:0744b14_25": "能善說此諸大菩薩自境界門清淨正法。",
-    "T11n0312_018:0744b15_26": "如我解佛所說義，即是具善巧方便菩薩入一切法自境界門。",
-    "T11n0312_018:0744b16_27": "譬如虛空，一切色象境界普照無著，一切色象亦無障礙，虛空境界亦無障礙。",
-    "T11n0312_018:0744b18_28": "具善巧方便菩薩亦復如是，現前覺了彼一切法自境界故。",
-    "T11n0312_018:0744b19_29": "又如虛空普照一切色象境界而無障礙，所有一切毒樹藥樹、棘刺之樹花果香樹，彼等一切生長於空，然彼虛空無染無淨、無違無順。",
-    "T11n0312_018:0744b22_30": "具善巧方便菩薩亦復如是，從慧出生彼一切法自境界門，謂異生法、有學法、無學法、緣覺法、菩薩法、如來法等。",
-    "T11n0312_018:0744b25_31": "何以故？",
-    "T11n0312_018:0744b25_32": "彼一切法現所證故。",
-    "T11n0312_018:0744b26_0": "又如世間草木叢林，而火不能為其作護。",
-    "T11n0312_018:0744b26_1": "何以故？",
-    "T11n0312_018:0744b27_2": "火若上騰悉皆燒爇，極熾焰故。",
-    "T11n0312_018:0744b27_3": "菩薩亦復如是，於一切法自境界中，慧光發明極炎熾故。",
-    "T11n0312_018:0744b29_4": "又如金剛堅固之身，火不能燒、刀不能斷、毒不能中、他力不能伏。",
-    "T11n0312_018:0744c01_5": "菩薩亦復如是，非聲聞習、非緣覺習、非一切眾生諸煩惱習而能染故；菩薩隨諸習染，悉以勤行增上慧力咸開曉故。",
-    "T11n0312_018:0744c04_6": "又如水清摩尼寶珠，而能清彼諸濁水故。",
-    "T11n0312_018:0744c05_7": "菩薩亦復如是，以勝慧寶普能清淨一切眾生諸煩惱垢。",
-    "T11n0312_018:0744c06_8": "又如有藥名曰離毒，不與一切惡毒同處，而能息除一切毒故。",
-    "T11n0312_018:0744c07_9": "菩薩亦復如是，具方便慧力故，不與一切眾生煩惱及自煩惱而共同處，復能止息一切眾生諸煩惱毒。",
-    "T11n0312_018:0744c10_10": "此如是等，皆是一切法自境界門。』",
-    "T11n0312_018:0744c11_0": "「大王！",
-    "T11n0312_018:0744c11_1": "當知彼勇力菩薩說是法時，有八千人發阿耨多羅三藐三菩提心，二百菩薩得無生法忍。",
-    "T11n0312_018:0744c13_2": "大王！",
-    "T11n0312_018:0744c13_3": "當知彼時多聞如來法中勇力菩薩者，豈異人乎？",
-    "T11n0312_018:0744c14_4": "即此會中金剛手菩薩大祕密主是。",
-    "T11n0312_018:0744c15_5": "此大士者，能於彼時被堅固精進之鎧，於多佛所親近恭敬深種善根。」",
-    "T11n0312_018:0744c17_0": "阿闍世王問答品第二十二之一",
-    "T11n0312_018:0744c18_0": "爾時阿闍世王即起是念：「此金剛手菩薩大祕密主，右手所持大金剛杵幾何輕重？",
-    "T11n0312_018:0744c19_1": "而祕密主有大力勢能善執持。」",
-    "T11n0312_018:0744c21_0": "時金剛手菩薩大祕密主知其所念，即告阿闍世王言：「大王！",
-    "T11n0312_018:0744c22_1": "當知此金剛杵亦輕亦重。」",
-    "T11n0312_018:0744c22_2": "王言：「以何緣故亦輕亦重？」",
-    "T11n0312_018:0744c23_3": "金剛手言：「為欲調伏憍慢貢高諸眾生故，此杵即重；為示無慢正直諸眾生故，此杵即輕。」",
-    "T11n0312_018:0744c26_0": "時金剛手菩薩即以所持大金剛杵置之于地——當置地時，以神力故，三千大千世界六種振動——即告阿闍世王言：「大王！",
-    "T11n0312_018:0744c28_1": "汝今宜應以此地中大金剛杵而自舉之。」",
-    "T11n0312_018:0744c29_2": "時阿闍世王即時以自堅固勇力欲舉其杵，竭其力勢不能動搖一毛端量。",
-    "T11n0312_018:0745a02_3": "即生希有尊重之心前詣佛所，合掌白佛言：「世尊！",
-    "T11n0312_018:0745a03_4": "我昔曾於戰陣之所取被甲大象，一手執持舉擲于遠。",
-    "T11n0312_018:0745a04_5": "此金剛杵其量微小，我今竭自力勢不能動搖，況復舉邪！",
-    "T11n0312_018:0745a05_6": "以何緣故其事如是？」",
-    "T11n0312_018:0745a06_7": "佛言：「大王！",
-    "T11n0312_018:0745a06_8": "無自惱心，此金剛杵至極重故。」",
-    "T11n0312_018:0745a08_0": "時阿闍世王即白帝釋天主言：「憍尸迦！",
-    "T11n0312_018:0745a08_1": "今宜舉此地中所置大金剛杵。」",
-    "T11n0312_018:0745a09_2": "時帝釋天主即時以自勇猛神力欲舉其杵，盡竭其力不能動搖。",
-    "T11n0312_018:0745a11_3": "即生希有尊重之心，前詣佛所而白佛言：「世尊！",
-    "T11n0312_018:0745a12_4": "我若與彼阿修羅王鬪戰之時，我力堅勝勇銳無敵，右手取彼毘摩質多羅阿修羅王所有大車，量廣七百由旬，我時執持如迅風行。",
-    "T11n0312_018:0745a15_5": "此金剛杵竭自勢力不能動搖，豈非世尊廣大威神所制止邪？」",
-    "T11n0312_018:0745a16_6": "佛言：「憍尸迦！",
-    "T11n0312_018:0745a16_7": "此亦非我神力所制，但為彼金剛杵至極重故。",
-    "T11n0312_018:0745a17_8": "憍尸迦！",
-    "T11n0312_018:0745a18_9": "於汝意云何？",
-    "T11n0312_018:0745a18_10": "須彌山王至極重邪？」",
-    "T11n0312_018:0745a18_11": "天主白佛言：「須彌山王至極重大，喻所不及。」",
-    "T11n0312_018:0745a19_12": "佛言天主：「此金剛杵金剛所成，重復過彼須彌山王。",
-    "T11n0312_018:0745a21_13": "而金剛手菩薩能以此杵擲碎輪圍諸山猶如糠粃，以其金剛大力勢故。」",
-    "T11n0312_018:0745a23_0": "爾時帝釋天主即白尊者大目乾連言：「佛說尊者於聲聞眾中神通第一。",
-    "T11n0312_018:0745a24_1": "願今尊者舉此地中大金剛杵。」",
-    "T11n0312_018:0745a25_2": "尊者大目乾連即自思念：「我若於此人天大眾之前不能舉動此金剛杵，豈非於我生慢心邪？」",
-    "T11n0312_018:0745a27_3": "作是念已，運自神力方欲前舉彼金剛杵，即時三千大千世界六種振動，海水騰涌，大地普皆怖畏振擊，唯金剛杵不動不搖。",
-    "T11n0312_018:0745b01_4": "是時尊者大目乾連前詣佛所頂禮佛足，作是白言：「佛說我於聲聞眾中神通第一，具大威神名稱力勢，能以四大海水置於掌中，亦能轉此三千大千世界，猶如有人以一金錢轉於指端；又能空中止其日月，制彼威光不令轉動；又能取彼須彌山王擲過梵世，又能調伏難陀、烏波難陀二大龍王，又能於彼陽焰世界周行乞食。",
-    "T11n0312_018:0745b08_5": "此金剛杵其量微小，然我亦復不能動搖。",
-    "T11n0312_018:0745b09_6": "世尊！",
-    "T11n0312_018:0745b09_7": "豈非我今神力減邪？」",
-    "T11n0312_018:0745b10_8": "佛言：「大目乾連！",
-    "T11n0312_018:0745b10_9": "非汝神力有所減少，但為菩薩威力加持，一切聲聞、緣覺悉不能動，況餘眾生。",
-    "T11n0312_018:0745b12_10": "又目乾連！",
-    "T11n0312_018:0745b12_11": "假使殑伽沙數諸佛剎中所有須彌山王悉能振動，唯金剛杵隨置地方不能動搖。」",
-    "T11n0312_018:0745b14_12": "目乾連白佛言：「世尊！",
-    "T11n0312_018:0745b14_13": "金剛手菩薩具大力勢而能戲擲此金剛杵，誠哉希有。」",
-    "T11n0312_018:0745b16_14": "佛言：「大目乾連！",
-    "T11n0312_018:0745b16_15": "假使三千大千世界諸須彌山尚能合入一須彌山，悉能動搖；此金剛杵而不能動。」",
-    "T11n0312_018:0745b19_0": "爾時尊者大目乾連生希有心，前白佛言：「希有世尊！",
-    "T11n0312_018:0745b20_1": "此金剛手菩薩大祕密主具大力勢，善能持彼大金剛杵。",
-    "T11n0312_018:0745b21_2": "此祕密主為即父母所生力邪？",
-    "T11n0312_018:0745b22_3": "為神力邪？」",
-    "T11n0312_018:0745b22_4": "佛言：「大目乾連！",
-    "T11n0312_018:0745b22_5": "父母所生之力隨所入處皆有分量，而諸菩薩神通力者無盡無限。",
-    "T11n0312_018:0745b24_6": "我若開示，使天人世間咸生迷惑。」",
-    "T11n0312_018:0745b26_0": "爾時世尊普遍觀察諸眾會已，告金剛手菩薩大祕密主言：「汝今宜應自當舉其地中所置大金剛杵。」",
-    "T11n0312_018:0745b29_0": "時金剛手菩薩大祕密主神力振動三千大千世界已，即以左手舉取其杵，戲擲空中旋繞七匝，杵旋空已，即時接置安右手中。",
-    "T11n0312_018:0745c02_1": "一切眾會生希有心，合掌頂禮大祕密主，咸作是言：「希有祕密主！",
-    "T11n0312_018:0745c04_2": "能具如是廣大力勢，善持最勝大金剛杵，普願一切眾生皆悉獲得如是勝力。」",
-    "T11n0312_018:0745c07_0": "時阿闍世王復白佛言：「世尊！",
-    "T11n0312_018:0745c07_1": "菩薩具修幾法，即能獲得如是勝力？」",
-    "T11n0312_018:0745c08_2": "佛言：「大王！",
-    "T11n0312_018:0745c08_3": "菩薩若修十法，獲斯勝力。",
-    "T11n0312_018:0745c09_4": "何等為十？",
-    "T11n0312_018:0745c09_5": "一者，菩薩寧捨身命，終不棄捨無上正法。",
-    "T11n0312_018:0745c10_6": "二者，於一切眾生作謙下想，不增慢心。",
-    "T11n0312_018:0745c11_7": "三者，於彼劣弱眾生起愍念心，不生損害。",
-    "T11n0312_018:0745c12_8": "四者，見饑渴眾生施妙飲食。",
-    "T11n0312_018:0745c13_0": "五者，見怖畏眾生施其無畏。",
-    "T11n0312_018:0745c13_1": "六者，見疾病眾生施藥救療。",
-    "T11n0312_018:0745c14_2": "七者，見貧乏眾生惠令滿足。",
-    "T11n0312_018:0745c14_3": "八者，見佛塔廟形像塗飾圓淨。",
-    "T11n0312_018:0745c15_4": "九者，出歡喜言安慰眾生。",
-    "T11n0312_018:0745c16_5": "十者，見彼負重疲困苦惱眾生為除重擔。",
-    "T11n0312_018:0745c17_6": "菩薩若具如是十法，即能獲得如是最勝之力。」",
-    "T11n0312_018:0745c19_0": "佛說如來不思議祕密大乘經卷第十八"
-}
+[
+    {
+        "source_sentence": "佛說如來不思議祕密大乘經卷",
+        "from": "T11n0312_018:0743b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第十八",
+        "from": "T11n0312_018:0743b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譯經三藏朝散大夫試光祿卿",
+        "from": "T11n0312_018:0743b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "光梵大師　賜紫沙門臣惟淨等奉　詔譯21 勇力菩薩先行品勇力菩薩先行品第二十一爾時世尊與諸菩薩、聲聞大眾遊止鷲峯山中，於日後分離本住處，為諸大眾隨宜說法。",
+        "from": "T11n0312_018:0743b22_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時阿闍世王知佛世尊已復山中，宮嬪眷屬并王舍城中六萬人眾，各持種種上妙香花、塗香末香等諸供養，出王舍大城詣鷲峯山佛世尊所。",
+        "from": "T11n0312_018:0743b26_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "到已頭面頂禮佛足，各住一面。",
+        "from": "T11n0312_018:0743b26_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時阿闍世王前白佛言：",
+        "from": "T11n0312_018:0743b27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T11n0312_018:0743b27_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我諸所作，隨宜安處。",
+        "from": "T11n0312_018:0743b28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我子來白父王：",
+        "from": "T11n0312_018:0743b28_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『當知世尊大師於金剛手菩薩宮中赴請已竟，今已還復鷲峯山中。",
+        "from": "T11n0312_018:0743b29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』我乃思念希有世尊。",
+        "from": "T11n0312_018:0743c01_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛於一切眾生大悲隨轉，於眾生聚中無一眾生如來世尊起厭捨者，於曠野大城金剛手宮中赴請受供還復來此，廣為眾生成熟利益世尊。",
+        "from": "T11n0312_018:0743c04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼金剛手菩薩大祕密主，甚為希有，具大威力，能善宣說如來法律生大歡喜。",
+        "from": "T11n0312_018:0743c06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而金剛手者，往昔曾於何佛、如來、應供、正等正覺所植種德本，乃能成辦如是辯才？",
+        "from": "T11n0312_018:0743c08_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛告阿闍世王言：",
+        "from": "T11n0312_018:0743c08_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大王當知，彼不種善根眾生於如是事極難信解，而彼決定種善根者乃能於此生其信解。",
+        "from": "T11n0312_018:0743c10_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大王！",
+        "from": "T11n0312_018:0743c10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假使十方如殑伽沙數等諸世界，尚能算數知其邊際；",
+        "from": "T11n0312_018:0743c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼金剛手菩薩大祕密主於佛世尊所親近供養修諸梵行成就辯才，假使諸佛世尊而亦不能算其邊際。",
+        "from": "T11n0312_018:0743c14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以是緣故，大王！",
+        "from": "T11n0312_018:0743c14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知昔因緣者。",
+        "from": "T11n0312_018:0743c15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我念過去阿僧祇劫，復過於前廣大無量不思議劫，時有如來、應供、正等正覺出現世間，號曰多聞明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。",
+        "from": "T11n0312_018:0743c18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世界名極嚴，劫名無毀。",
+        "from": "T11n0312_018:0743c19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時彼世尊為彼清淨大菩薩眾宣說正法。",
+        "from": "T11n0312_018:0743c20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼佛告言：",
+        "from": "T11n0312_018:0743c20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『諸善男子！",
+        "from": "T11n0312_018:0743c20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝等當知，若有菩薩能發大精進者，即於身命而悉棄捨。",
+        "from": "T11n0312_018:0743c21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』時彼會中有一菩薩名曰勇力，前白佛言：",
+        "from": "T11n0312_018:0743c22_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『如是世尊！",
+        "from": "T11n0312_018:0743c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是善逝！",
+        "from": "T11n0312_018:0743c23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如佛所言。",
+        "from": "T11n0312_018:0743c23_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有菩薩發精進者，即於身命而悉棄捨。",
+        "from": "T11n0312_018:0743c24_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如我解佛所說義，菩薩若生懈怠，豈能速證阿耨多羅三藐三菩提果？",
+        "from": "T11n0312_018:0743c26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T11n0312_018:0743c26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能發精進諸菩薩者，於生死中不起厭倦之意，而彼菩薩於生死中常當稱讚、不樂涅槃，但為成熟諸眾生故。",
+        "from": "T11n0312_018:0743c28_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T11n0312_018:0743c28_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩勤行為利眾生故，具精進信解，於生死中自得其樂，不樂涅槃之樂。",
+        "from": "T11n0312_018:0744a01_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所以者何？",
+        "from": "T11n0312_018:0744a01_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩為利諸眾生故，隨其所應諸有施作，亦隨所應皆獲其樂。",
+        "from": "T11n0312_018:0744a03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若住涅槃而何能作？",
+        "from": "T11n0312_018:0744a03_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故諸菩薩於生死境界中自得其樂，而即不取涅槃境界。",
+        "from": "T11n0312_018:0744a04_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T11n0312_018:0744a05_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩於生死境界中所得樂者，謂即勤行利眾生故，而常得見無量諸佛，常聞無量清淨正法，常能成熟無量眾生。",
+        "from": "T11n0312_018:0744a07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩以住生死境界故，即能隨入眾生境界，而於涅槃境界之中不著捨行。",
+        "from": "T11n0312_018:0744a09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩住生死境界者，以怖墮於非境界中。",
+        "from": "T11n0312_018:0744a10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T11n0312_018:0744a10_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非境界中不復能作利眾生事，不能安住如來境界。",
+        "from": "T11n0312_018:0744a11_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以不能住如來境界故，不能長養一切眾生。",
+        "from": "T11n0312_018:0744a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此中何名非境界邪？",
+        "from": "T11n0312_018:0744a13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所謂聲聞、緣覺之地。",
+        "from": "T11n0312_018:0744a13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若樂住者，即棄捨眾生不能成熟。",
+        "from": "T11n0312_018:0744a14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T11n0312_018:0744a14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聲聞、緣覺境界是為菩薩非境界故，以聲聞、緣覺怖畏生死。",
+        "from": "T11n0312_018:0744a15_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能攝受無量生死者，唯除清淨大菩薩爾，是故菩薩能於生死境界中住。",
+        "from": "T11n0312_018:0744a17_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「大王當知，時彼多聞如來讚勇力菩薩言：",
+        "from": "T11n0312_018:0744a18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『善哉正士！",
+        "from": "T11n0312_018:0744a18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善說此語，復善尊重菩薩境界所作諸行，而不復墮非境界中。",
+        "from": "T11n0312_018:0744a20_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』勇力菩薩白彼佛言：",
+        "from": "T11n0312_018:0744a20_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『云何是菩薩自境界邪？",
+        "from": "T11n0312_018:0744a21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』彼佛答言：",
+        "from": "T11n0312_018:0744a21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『善男子！",
+        "from": "T11n0312_018:0744a21_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩自境界者，謂能攝受無量生死不生怖畏，稱讚菩薩廣大勝行而不樂住聲聞、緣覺之地，以無礙智和合三界，若損若益能善增長一切善根，以增益智成眾德本，而復能以盡智成就無盡福行。",
+        "from": "T11n0312_018:0744a26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖觀無生而善成辦有生之法，雖知無眾生而善成熟一切眾生，雖知諸法離性而善攝受正法，雖知諸佛國土自性如空而以妙智嚴淨佛土，雖觀諸佛法身無相而善勤求如來所有殊妙相好，雖觀諸法本無造作而以妙智於眾德本所作精進，雖觀有為法不實而於諸事業少求少作復能善為一切眾生隨宜施設，雖觀身心離著而以妙智說法無厭，雖離憒閙而從禪定所生不著禪味，雖復覺了甚深之法而以妙智隨諸眾生種種行轉善說法要。",
+        "from": "T11n0312_018:0744b07_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖知無生，以智善思普攝三有。",
+        "from": "T11n0312_018:0744b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖以智觀諸法皆空而善護所得之果，雖觀聲聞、緣覺境界而善求如來解脫輕安之法，雖不厭捨諸菩薩行而常善觀諸佛境界。",
+        "from": "T11n0312_018:0744b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善男子！",
+        "from": "T11n0312_018:0744b11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此即是為彼諸菩薩自境界門。",
+        "from": "T11n0312_018:0744b11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「復次大王！",
+        "from": "T11n0312_018:0744b12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼時勇力菩薩於彼多聞如來所，聞說如是清淨境界法已，生希有心，白彼佛言：",
+        "from": "T11n0312_018:0744b13_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『希有世尊！",
+        "from": "T11n0312_018:0744b14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能善說此諸大菩薩自境界門清淨正法。",
+        "from": "T11n0312_018:0744b15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如我解佛所說義，即是具善巧方便菩薩入一切法自境界門。",
+        "from": "T11n0312_018:0744b16_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如虛空，一切色象境界普照無著，一切色象亦無障礙，虛空境界亦無障礙。",
+        "from": "T11n0312_018:0744b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具善巧方便菩薩亦復如是，現前覺了彼一切法自境界故。",
+        "from": "T11n0312_018:0744b19_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如虛空普照一切色象境界而無障礙，所有一切毒樹藥樹、棘刺之樹花果香樹，彼等一切生長於空，然彼虛空無染無淨、無違無順。",
+        "from": "T11n0312_018:0744b22_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具善巧方便菩薩亦復如是，從慧出生彼一切法自境界門，謂異生法、有學法、無學法、緣覺法、菩薩法、如來法等。",
+        "from": "T11n0312_018:0744b25_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T11n0312_018:0744b25_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼一切法現所證故。",
+        "from": "T11n0312_018:0744b25_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如世間草木叢林，而火不能為其作護。",
+        "from": "T11n0312_018:0744b26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T11n0312_018:0744b27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "火若上騰悉皆燒爇，極熾焰故。",
+        "from": "T11n0312_018:0744b27_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩亦復如是，於一切法自境界中，慧光發明極炎熾故。",
+        "from": "T11n0312_018:0744b29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如金剛堅固之身，火不能燒、刀不能斷、毒不能中、他力不能伏。",
+        "from": "T11n0312_018:0744c01_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩亦復如是，非聲聞習、非緣覺習、非一切眾生諸煩惱習而能染故；",
+        "from": "T11n0312_018:0744c03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩隨諸習染，悉以勤行增上慧力咸開曉故。",
+        "from": "T11n0312_018:0744c04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如水清摩尼寶珠，而能清彼諸濁水故。",
+        "from": "T11n0312_018:0744c05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩亦復如是，以勝慧寶普能清淨一切眾生諸煩惱垢。",
+        "from": "T11n0312_018:0744c06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又如有藥名曰離毒，不與一切惡毒同處，而能息除一切毒故。",
+        "from": "T11n0312_018:0744c07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩亦復如是，具方便慧力故，不與一切眾生煩惱及自煩惱而共同處，復能止息一切眾生諸煩惱毒。",
+        "from": "T11n0312_018:0744c10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此如是等，皆是一切法自境界門。",
+        "from": "T11n0312_018:0744c10_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』「大王！",
+        "from": "T11n0312_018:0744c11_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知彼勇力菩薩說是法時，有八千人發阿耨多羅三藐三菩提心，二百菩薩得無生法忍。",
+        "from": "T11n0312_018:0744c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大王！",
+        "from": "T11n0312_018:0744c13_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知彼時多聞如來法中勇力菩薩者，豈異人乎？",
+        "from": "T11n0312_018:0744c14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即此會中金剛手菩薩大祕密主是。",
+        "from": "T11n0312_018:0744c15_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此大士者，能於彼時被堅固精進之鎧，於多佛所親近恭敬深種善根。",
+        "from": "T11n0312_018:0744c16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」22 阿闍世王問答品阿闍世王問答品第二十二之一爾時阿闍世王即起是念：",
+        "from": "T11n0312_018:0744c18_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此金剛手菩薩大祕密主，右手所持大金剛杵幾何輕重？",
+        "from": "T11n0312_018:0744c19_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而祕密主有大力勢能善執持。",
+        "from": "T11n0312_018:0744c20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時金剛手菩薩大祕密主知其所念，即告阿闍世王言：",
+        "from": "T11n0312_018:0744c22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大王！",
+        "from": "T11n0312_018:0744c22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當知此金剛杵亦輕亦重。",
+        "from": "T11n0312_018:0744c22_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」王言：",
+        "from": "T11n0312_018:0744c23_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「以何緣故亦輕亦重？",
+        "from": "T11n0312_018:0744c23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」金剛手言：",
+        "from": "T11n0312_018:0744c23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「為欲調伏憍慢貢高諸眾生故，此杵即重；",
+        "from": "T11n0312_018:0744c24_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為示無慢正直諸眾生故，此杵即輕。",
+        "from": "T11n0312_018:0744c25_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時金剛手菩薩即以所持大金剛杵置之于地——當置地時，以神力故，三千大千世界六種振動——即告阿闍世王言：",
+        "from": "T11n0312_018:0744c28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大王！",
+        "from": "T11n0312_018:0744c28_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝今宜應以此地中大金剛杵而自舉之。",
+        "from": "T11n0312_018:0744c29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時阿闍世王即時以自堅固勇力欲舉其杵，竭其力勢不能動搖一毛端量。",
+        "from": "T11n0312_018:0745a02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即生希有尊重之心前詣佛所，合掌白佛言：",
+        "from": "T11n0312_018:0745a03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T11n0312_018:0745a03_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我昔曾於戰陣之所取被甲大象，一手執持舉擲于遠。",
+        "from": "T11n0312_018:0745a04_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此金剛杵其量微小，我今竭自力勢不能動搖，況復舉邪！",
+        "from": "T11n0312_018:0745a05_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以何緣故其事如是？",
+        "from": "T11n0312_018:0745a06_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_018:0745a06_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大王！",
+        "from": "T11n0312_018:0745a06_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無自惱心，此金剛杵至極重故。",
+        "from": "T11n0312_018:0745a07_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時阿闍世王即白帝釋天主言：",
+        "from": "T11n0312_018:0745a08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「憍尸迦！",
+        "from": "T11n0312_018:0745a08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今宜舉此地中所置大金剛杵。",
+        "from": "T11n0312_018:0745a09_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時帝釋天主即時以自勇猛神力欲舉其杵，盡竭其力不能動搖。",
+        "from": "T11n0312_018:0745a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即生希有尊重之心，前詣佛所而白佛言：",
+        "from": "T11n0312_018:0745a11_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T11n0312_018:0745a12_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我若與彼阿修羅王鬪戰之時，我力堅勝勇銳無敵，右手取彼毘摩質多羅阿修羅王所有大車，量廣七百由旬，我時執持如迅風行。",
+        "from": "T11n0312_018:0745a15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此金剛杵竭自勢力不能動搖，豈非世尊廣大威神所制止邪？",
+        "from": "T11n0312_018:0745a16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_018:0745a16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「憍尸迦！",
+        "from": "T11n0312_018:0745a16_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此亦非我神力所制，但為彼金剛杵至極重故。",
+        "from": "T11n0312_018:0745a17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "憍尸迦！",
+        "from": "T11n0312_018:0745a18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於汝意云何？",
+        "from": "T11n0312_018:0745a18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "須彌山王至極重邪？",
+        "from": "T11n0312_018:0745a18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」天主白佛言：",
+        "from": "T11n0312_018:0745a19_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「須彌山王至極重大，喻所不及。",
+        "from": "T11n0312_018:0745a19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言天主：",
+        "from": "T11n0312_018:0745a20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「此金剛杵金剛所成，重復過彼須彌山王。",
+        "from": "T11n0312_018:0745a21_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而金剛手菩薩能以此杵擲碎輪圍諸山猶如糠粃，以其金剛大力勢故。",
+        "from": "T11n0312_018:0745a22_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時帝釋天主即白尊者大目乾連言：",
+        "from": "T11n0312_018:0745a23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「佛說尊者於聲聞眾中神通第一。",
+        "from": "T11n0312_018:0745a24_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願今尊者舉此地中大金剛杵。",
+        "from": "T11n0312_018:0745a25_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」尊者大目乾連即自思念：",
+        "from": "T11n0312_018:0745a25_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我若於此人天大眾之前不能舉動此金剛杵，豈非於我生慢心邪？",
+        "from": "T11n0312_018:0745a27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」作是念已，運自神力方欲前舉彼金剛杵，即時三千大千世界六種振動，海水騰涌，大地普皆怖畏振擊，唯金剛杵不動不搖。",
+        "from": "T11n0312_018:0745b01_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時尊者大目乾連前詣佛所頂禮佛足，作是白言：",
+        "from": "T11n0312_018:0745b02_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「佛說我於聲聞眾中神通第一，具大威神名稱力勢，能以四大海水置於掌中，亦能轉此三千大千世界，猶如有人以一金錢轉於指端；",
+        "from": "T11n0312_018:0745b05_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又能空中止其日月，制彼威光不令轉動；",
+        "from": "T11n0312_018:0745b06_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又能取彼須彌山王擲過梵世，又能調伏難陀、烏波難陀二大龍王，又能於彼陽焰世界周行乞食。",
+        "from": "T11n0312_018:0745b08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此金剛杵其量微小，然我亦復不能動搖。",
+        "from": "T11n0312_018:0745b09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T11n0312_018:0745b09_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "豈非我今神力減邪？",
+        "from": "T11n0312_018:0745b10_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_018:0745b10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大目乾連！",
+        "from": "T11n0312_018:0745b10_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非汝神力有所減少，但為菩薩威力加持，一切聲聞、緣覺悉不能動，況餘眾生。",
+        "from": "T11n0312_018:0745b12_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又目乾連！",
+        "from": "T11n0312_018:0745b12_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假使殑伽沙數諸佛剎中所有須彌山王悉能振動，唯金剛杵隨置地方不能動搖。",
+        "from": "T11n0312_018:0745b14_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」目乾連白佛言：",
+        "from": "T11n0312_018:0745b14_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T11n0312_018:0745b14_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "金剛手菩薩具大力勢而能戲擲此金剛杵，誠哉希有。",
+        "from": "T11n0312_018:0745b16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_018:0745b16_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大目乾連！",
+        "from": "T11n0312_018:0745b16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "假使三千大千世界諸須彌山尚能合入一須彌山，悉能動搖；",
+        "from": "T11n0312_018:0745b17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此金剛杵而不能動。",
+        "from": "T11n0312_018:0745b18_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時尊者大目乾連生希有心，前白佛言：",
+        "from": "T11n0312_018:0745b19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「希有世尊！",
+        "from": "T11n0312_018:0745b20_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此金剛手菩薩大祕密主具大力勢，善能持彼大金剛杵。",
+        "from": "T11n0312_018:0745b21_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此祕密主為即父母所生力邪？",
+        "from": "T11n0312_018:0745b22_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為神力邪？",
+        "from": "T11n0312_018:0745b22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_018:0745b22_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大目乾連！",
+        "from": "T11n0312_018:0745b22_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "父母所生之力隨所入處皆有分量，而諸菩薩神通力者無盡無限。",
+        "from": "T11n0312_018:0745b24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我若開示，使天人世間咸生迷惑。",
+        "from": "T11n0312_018:0745b25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時世尊普遍觀察諸眾會已，告金剛手菩薩大祕密主言：",
+        "from": "T11n0312_018:0745b27_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝今宜應自當舉其地中所置大金剛杵。",
+        "from": "T11n0312_018:0745b28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時金剛手菩薩大祕密主神力振動三千大千世界已，即以左手舉取其杵，戲擲空中旋繞七匝，杵旋空已，即時接置安右手中。",
+        "from": "T11n0312_018:0745c02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切眾會生希有心，合掌頂禮大祕密主，咸作是言：",
+        "from": "T11n0312_018:0745c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「希有祕密主！",
+        "from": "T11n0312_018:0745c04_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能具如是廣大力勢，善持最勝大金剛杵，普願一切眾生皆悉獲得如是勝力。",
+        "from": "T11n0312_018:0745c06_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時阿闍世王復白佛言：",
+        "from": "T11n0312_018:0745c07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「世尊！",
+        "from": "T11n0312_018:0745c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩具修幾法，即能獲得如是勝力？",
+        "from": "T11n0312_018:0745c08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T11n0312_018:0745c08_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大王！",
+        "from": "T11n0312_018:0745c08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若修十法，獲斯勝力。",
+        "from": "T11n0312_018:0745c09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何等為十？",
+        "from": "T11n0312_018:0745c09_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者，菩薩寧捨身命，終不棄捨無上正法。",
+        "from": "T11n0312_018:0745c10_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者，於一切眾生作謙下想，不增慢心。",
+        "from": "T11n0312_018:0745c11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者，於彼劣弱眾生起愍念心，不生損害。",
+        "from": "T11n0312_018:0745c12_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者，見饑渴眾生施妙飲食。",
+        "from": "T11n0312_018:0745c12_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者，見怖畏眾生施其無畏。",
+        "from": "T11n0312_018:0745c13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六者，見疾病眾生施藥救療。",
+        "from": "T11n0312_018:0745c14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七者，見貧乏眾生惠令滿足。",
+        "from": "T11n0312_018:0745c14_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八者，見佛塔廟形像塗飾圓淨。",
+        "from": "T11n0312_018:0745c15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "九者，出歡喜言安慰眾生。",
+        "from": "T11n0312_018:0745c16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "十者，見彼負重疲困苦惱眾生為除重擔。",
+        "from": "T11n0312_018:0745c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "菩薩若具如是十法，即能獲得如是最勝之力。",
+        "from": "T11n0312_018:0745c18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛說如來不思議祕密大乘經卷第十八",
+        "from": "T11n0312_018:0745c19_100",
+        "context_with_next_sentence": false
+    }
+]

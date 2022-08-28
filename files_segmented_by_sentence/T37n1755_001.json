@@ -1,95 +1,607 @@
-{
-    "T37n1755_001:0306a03_0": "阿彌陀經義記",
-    "T37n1755_001:0306a05_0": "天台智者大師記",
-    "T37n1755_001:0306a06_0": "夫至聖垂慈照機應迹，開導六道普濟十方，逐境昇沈隨緣淨穢，斯則善權攝誘引趣菩提。",
-    "T37n1755_001:0306a08_1": "是故，大覺彌陀昔弘誓力應形極樂現處道場，三輩願生皆入定聚，色像殊勝壽量難思，寶樹天華咸能演法，清風流水俱說妙音，聞唱苦空證無生忍。",
-    "T37n1755_001:0306a11_2": "釋迦聖主本願弘深，不捨慈悲，化茲穢境五痛燒然八苦煎逼，廣明誡勸遍洽群品，示其妙術十念往生，四眾奉行依教修觀，說有廣略時處不同，靈鷲宣揚三種淨業，舍衛敷演六方護念。",
-    "T37n1755_001:0306a15_3": "「阿彌陀」，天竺梵音，震旦譯言為無量壽，化主極號以立嘉名。",
-    "T37n1755_001:0306a17_4": "「經」者訓常，由聖人口，此即釋尊所說，語西方事，故言經也。",
-    "T37n1755_001:0306a18_5": "即斯一教，在文雖約、明義實繁，總語西方安養國界。",
-    "T37n1755_001:0306a19_6": "第一釋名，從人標稱，依教修習往生彼國。",
-    "T37n1755_001:0306a20_7": "第二辨體，法性真如諦心觀察證常樂果。",
-    "T37n1755_001:0306a21_8": "第三宗致，淨土機緣妙樂莊嚴化像迎攝。",
-    "T37n1755_001:0306a22_9": "第四力用，破除愛見五住塵勞正習俱盡。",
-    "T37n1755_001:0306a23_10": "第五教相，帶別挾通生熟醍醐總為教相也。",
-    "T37n1755_001:0306a24_11": "分文三段，序、正、流通。",
-    "T37n1755_001:0306a24_12": "略無別序，通中具六。",
-    "T37n1755_001:0306a25_13": "第一「如是」者，決定之辭，大聖觀機，為多瞋者略說深妙，為多貪人廣開祕密，為多無明者處中而說，言不虛發應物逗緣。",
-    "T37n1755_001:0306a28_14": "「我聞」者，如來正法無量無邊，我所得聞猶如微渧；所不聞者，喻大海水。",
-    "T37n1755_001:0306a29_15": "「一時」者，有感斯應，機悟之辰即於會革凡成聖。",
-    "T37n1755_001:0306b01_16": "「佛」者，正標化主，應供遍知，四辯、六通、三明、八解，一音演說隨類聞曉。",
-    "T37n1755_001:0306b03_17": "「在舍衛國」者，名聞物，多有名賢，又饒珍寶，覺徒商侶諸國共臻，復名為無物不有。",
-    "T37n1755_001:0306b05_18": "「祇樹給孤獨園」者，祇陀捨樹創起門坊，須達賑貧金布地共立精舍也。",
-    "T37n1755_001:0306b07_0": "「與大比丘僧」者，大義三種，天王大人所敬故言為大，遍知內外經教是故言多，超九十五上故名為勝。",
-    "T37n1755_001:0306b09_1": "比丘者此言除饉，在因三義：乞士、怖魔、破惡，果地三德：應供、殺賊、不生。",
-    "T37n1755_001:0306b11_0": "僧者，四人已上和合羯磨，事理無隔匡維正教。",
-    "T37n1755_001:0306b12_1": "「千二百五十人俱」者，三迦葉眾共有一千，舍利、目連二百五十，常隨聖尊為證信眾，長老舍利弗智慧上首，翻鶖鷺子；大目揵連神力標名，此翻讀誦；摩訶迦葉亦言鉢羅，此翻龜氏，又曰光波；摩訶迦旃延善能清論，此翻扇繩；摩訶俱絺羅辯才無滯，此翻大膝；離波多翻為室宿，亦曰常作聲；周梨槃陀伽此土翻譯曰小路邊生。",
-    "T37n1755_001:0306b19_2": "難陀尊者此翻欣樂，阿難陀者翻善欣悅，羅睺羅者此言障持，憍梵波提譯曰牛跡，賓頭盧頗羅墮翻走閉門，迦留陀夷翻大麁黑，劫賓那翻為房宿，薄拘羅者翻曰善容，阿[少/兔]樓馱翻為如意。",
-    "T37n1755_001:0306b23_3": "文殊師利此翻妙德，阿逸多者翻無三毒，乾陀訶提翻為香意，常精進者此土方言。",
-    "T37n1755_001:0306b25_4": "如是等者，結菩薩眾。",
-    "T37n1755_001:0306b26_5": "釋提桓因翻能天主。",
-    "T37n1755_001:0306b26_6": "等諸天眾，總結同聞，列眾序竟。",
-    "T37n1755_001:0306b28_0": "正說為二：初明彼佛依正二果，次勸物往生。",
-    "T37n1755_001:0306b29_0": "初復為二：前標、次釋。",
-    "T37n1755_001:0306b29_1": "前標國界，後明化主。",
-    "T37n1755_001:0306b29_2": "此經命章對舍利弗，餘經皆有諸主，此經無問自說，十二部中亦不具足無兩種偈，其餘諸部亦不全有。",
-    "T37n1755_001:0306c03_3": "不對菩薩者，適化無方，欲令凡夫小乘厭此欣彼也。",
-    "T37n1755_001:0306c04_4": "標依果中前明近遠。",
-    "T37n1755_001:0306c04_5": "「從是西方過十萬億佛土有國名極樂」，望賢首猶是下品，但比娑婆故言極樂。",
-    "T37n1755_001:0306c06_6": "彼有三名：極樂對苦，安養從用，無量壽者逐人名國。",
-    "T37n1755_001:0306c07_7": "次出正果號阿彌陀，其實有量，以餘人不能稱數，既云觀音補處，下地不知，說無量耳。",
-    "T37n1755_001:0306c09_8": "「彼土何故」下，解釋前明依果。",
-    "T37n1755_001:0306c10_9": "有三：初總、次別、後結。",
-    "T37n1755_001:0306c11_0": "初總如文。",
-    "T37n1755_001:0306c11_1": "「七重行樹」下，別釋。",
-    "T37n1755_001:0306c11_2": "有四：一明寶樹池樓閣奇麗；二明天華天樂映顯莊飾；三明為宣道品；四樹奏樂音。",
-    "T37n1755_001:0306c13_3": "其樹七重皆是四寶金銀瑠璃玻瓈等寶，七重羅網七重行樹，微風徐動暢發和音，聞此聲時即入正位。",
-    "T37n1755_001:0306c15_4": "八功德水充滿盈溢，輕清冷軟美而不臭，飲時調適飲已無患。",
-    "T37n1755_001:0306c17_5": "底布金沙，四面階道四寶合成。",
-    "T37n1755_001:0306c17_6": "池中蓮華大如車輪，光色炫燿微妙香潔。",
-    "T37n1755_001:0306c18_7": "上有樓閣，亦以四寶而嚴飾之。",
-    "T37n1755_001:0306c19_8": "二明天樂不撫而韻，絃出無量法化之聲，聽發慈心，聞便悟道。",
-    "T37n1755_001:0306c21_0": "晝夜六時雨曼陀羅，天華至妙名曼陀羅，色妙無比香氣芬馥。",
-    "T37n1755_001:0306c22_1": "常以清旦衣裓盛華，供養他方十萬億佛，即以食時還到本國。",
-    "T37n1755_001:0306c23_2": "衣裓是盛華器，形如函而有一足，手擎供養。",
-    "T37n1755_001:0306c24_3": "三雜色鳥，白鶴孔雀鸚鵡鴝鵒，亦如此聞水禽之類。",
-    "T37n1755_001:0306c26_4": "迦陵頻伽，妙音清高，可譬佛聲。",
-    "T37n1755_001:0306c26_5": "共命，兩頭而同一體，生死齊等，故曰共命。",
-    "T37n1755_001:0306c27_6": "此等眾鳥晝夜六時演暢五根五力七覺八道，妙音和雅，即道品中法門名義。",
-    "T37n1755_001:0306c29_7": "初五根者，信、進、念、定、慧。",
-    "T37n1755_001:0307a01_8": "次明五力，名不異前，根生有力別更號。",
-    "T37n1755_001:0307a01_9": "七菩提分，念、擇、進、喜、捨、定等。",
-    "T37n1755_001:0307a02_10": "八正道分，正見、正思、正語、正業、正命、正進、正念、正定。",
-    "T37n1755_001:0307a03_11": "善修道品即得見諦至於無學。",
-    "T37n1755_001:0307a04_12": "勿謂此鳥罪報所生，皆是彼佛欲令法音宣流變化所作。",
-    "T37n1755_001:0307a05_13": "四明七重行樹及寶羅網，妙音譬如百千種樂同時俱作。",
-    "T37n1755_001:0307a07_14": "自然皆生念佛念法念僧之心，悟無生忍，怡然快樂。",
-    "T37n1755_001:0307a09_0": "次辯正果。",
-    "T37n1755_001:0307a09_1": "文復有二：前明化主、次辨徒眾。",
-    "T37n1755_001:0307a09_2": "化主又二：初辨光明無量、次述壽命無限。",
-    "T37n1755_001:0307a10_3": "《大品》云，欲得光明無量壽命無極，當學般若。",
-    "T37n1755_001:0307a11_4": "就此徒眾，前辨聲聞、次明菩薩。",
-    "T37n1755_001:0307a12_5": "前問：前云有無數聲聞，後何得云眾生生彼國者皆是阿鞞跋致？",
-    "T37n1755_001:0307a14_6": "解云：彼土二乘亦皆不退，二乘不退為凡夫，菩薩不退為小乘也。",
-    "T37n1755_001:0307a15_7": "從「眾生聞者」下，第二勸物往生。",
-    "T37n1755_001:0307a16_8": "有三：初正勸往生；次引證勸；三結勸又二，初正勸、次示往生方法。",
-    "T37n1755_001:0307a17_9": "就初又二：初正勸、次釋勸意。",
-    "T37n1755_001:0307a18_10": "「舍利弗以少善」下，次示方法。",
-    "T37n1755_001:0307a19_11": "問：前云不可以少善，後那云一日七日心不散亂皆得生？",
-    "T37n1755_001:0307a20_12": "答：今不以時日多少，特由用心厚薄耳。",
-    "T37n1755_001:0307a21_13": "若能七日一心不亂，其人命終，阿彌陀佛以宿願力化佛迎接，心不顛倒即得往生。",
-    "T37n1755_001:0307a23_14": "何以故？",
-    "T37n1755_001:0307a23_15": "臨終一念用心懇切即當得去也。",
-    "T37n1755_001:0307a24_16": "「我見是利」即是釋意，應當發願一心修行，發願莊嚴，行願相扶，必當得往生也。",
-    "T37n1755_001:0307a25_17": "「如我今者」下，引證勸。",
-    "T37n1755_001:0307a26_18": "非我獨歎彼佛，正勸物往生，六方諸佛皆悉勸發稱揚讚歎恒河沙數各於其土往生彼國。",
-    "T37n1755_001:0307a28_19": "若男女聞是經名，皆為諸佛共所護念，皆得不退無上菩提心。",
-    "T37n1755_001:0307a29_20": "故汝等當信我語及諸佛說，發願欲生皆不退轉往生彼國。",
-    "T37n1755_001:0307b02_21": "彼諸佛等亦稱釋迦能為難事，於娑婆雜惡五濁境界，為諸眾生說難信之法，當得菩提。",
-    "T37n1755_001:0307b04_22": "穢國障深五濁垢重，貪瞋是煩惱濁，五見為見濁，二為本，攬此作因，得有連持之命，於五陰假立眾生，此四經時名為劫濁。",
-    "T37n1755_001:0307b07_0": "穢國苦多其濁極重，同居淨土其濁即輕，因順餘方有其名字，無此迫惱號極樂耳。",
-    "T37n1755_001:0307b09_0": "「佛說經已」下，即流通段。",
-    "T37n1755_001:0307b09_1": "說經既竟，四眾天人修羅等類歡喜信受。",
-    "T37n1755_001:0307b10_2": "聖主難遇若優曇華慶今得見，正法難聞而今聞，昔所未悟而今得悟，具此三喜是故欣悅，得之於懷踊躍無量也。",
-    "T37n1755_001:0307b14_0": "阿彌陀經義記一卷"
-}
+[
+    {
+        "source_sentence": "阿彌陀經義記",
+        "from": "T37n1755_001:0306a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "天台智者大師記",
+        "from": "T37n1755_001:0306a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "夫至聖垂慈照機應迹，開導六道普濟十方，",
+        "from": "T37n1755_001:0306a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "逐境昇沈隨緣淨穢，斯則善權攝誘引趣菩提。",
+        "from": "T37n1755_001:0306a08_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故，大覺彌陀昔弘誓力應形極樂現處道場，三輩願生皆入定聚，色像殊勝壽量難思，寶樹天華咸能演法，清風流水俱說妙音，聞唱苦空證無生忍。",
+        "from": "T37n1755_001:0306a11_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋迦聖主本願弘深，不捨慈悲，化茲穢境五痛燒然八苦煎逼，廣明誡勸遍洽群品，示其妙術十念往生，四眾奉行依教修觀，說有廣略時處不同，靈鷲宣揚三種淨業，舍衛敷演六方護念。",
+        "from": "T37n1755_001:0306a15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「阿彌陀」，天竺梵音，震旦譯言為無量壽，化主極號以立嘉名。",
+        "from": "T37n1755_001:0306a17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「經」者訓常，由聖人口，此即釋尊所說，語西方事，故言經也。",
+        "from": "T37n1755_001:0306a18_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即斯一教，在文雖約、明義實繁，總語西方安養國界。",
+        "from": "T37n1755_001:0306a19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第一釋名，從人標稱，依教修習往生彼國。",
+        "from": "T37n1755_001:0306a20_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第二辨體，法性真如諦心觀察證常樂果。",
+        "from": "T37n1755_001:0306a21_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第三宗致，淨土機緣妙樂莊嚴化像迎攝。",
+        "from": "T37n1755_001:0306a22_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第四力用，破除愛見五住塵勞正習俱盡。",
+        "from": "T37n1755_001:0306a23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第五教相，帶別挾通生熟醍醐總為教相也。",
+        "from": "T37n1755_001:0306a24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "分文三段，序、正、流通。",
+        "from": "T37n1755_001:0306a24_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "略無別序，通中具六。",
+        "from": "T37n1755_001:0306a25_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "第一「如是」者，決定之辭，大聖觀機，為多瞋者略說深妙，為多貪人廣開祕密，為多無明者處中而說，言不虛發應物逗緣。",
+        "from": "T37n1755_001:0306a28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我聞」者，如來正法無量無邊，我所得聞猶如微渧；",
+        "from": "T37n1755_001:0306a29_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所不聞者，喻大海水。",
+        "from": "T37n1755_001:0306a29_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「一時」者，有感斯應，機悟之辰即於會革凡成聖。",
+        "from": "T37n1755_001:0306b01_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「佛」者，正標化主，應供遍知，四辯、六通、三明、八解，一音演說隨類聞曉。",
+        "from": "T37n1755_001:0306b03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「在舍衛國」者，名聞物，多有名賢，又饒珍寶，覺徒商侶諸國共臻，復名為無物不有。",
+        "from": "T37n1755_001:0306b05_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「祇樹給孤獨園」者，祇陀捨樹創起門坊，須達賑貧金布地共立精舍也。",
+        "from": "T37n1755_001:0306b06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「與大比丘僧」者，大義三種，天王大人所敬故言為大，遍知內外經教是故言多，超九十五上故名為勝。",
+        "from": "T37n1755_001:0306b09_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "比丘者此言除饉，在因三義：",
+        "from": "T37n1755_001:0306b10_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乞士、怖魔、破惡，果地三德：",
+        "from": "T37n1755_001:0306b10_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "應供、殺賊、不生。",
+        "from": "T37n1755_001:0306b10_24",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "僧者，四人已上和合羯磨，事理無隔匡維正教。",
+        "from": "T37n1755_001:0306b12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「千二百五十人俱」者，三迦葉眾共有一千，舍利、目連二百五十，常隨聖尊為證信眾，長老舍利弗智慧上首，翻鶖鷺子；",
+        "from": "T37n1755_001:0306b14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大目揵連神力標名，此翻讀誦；",
+        "from": "T37n1755_001:0306b15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摩訶迦葉亦言鉢羅，此翻龜氏，又曰光波；",
+        "from": "T37n1755_001:0306b16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摩訶迦旃延善能清論，此翻扇繩；",
+        "from": "T37n1755_001:0306b17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "摩訶俱絺羅辯才無滯，此翻大膝；",
+        "from": "T37n1755_001:0306b17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "離波多翻為室宿，亦曰常作聲；",
+        "from": "T37n1755_001:0306b18_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "周梨槃陀伽此土翻譯曰小路邊生。",
+        "from": "T37n1755_001:0306b19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "難陀尊者此翻欣樂，阿難陀者翻善欣悅，羅睺羅者此言障持，憍梵波提譯曰牛跡，賓頭盧頗羅墮翻走閉門，迦留陀夷翻大麁黑，劫賓那翻為房宿，薄拘羅者翻曰善容，阿㝹樓馱翻為如意。",
+        "from": "T37n1755_001:0306b23_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文殊師利此翻妙德，阿逸多者翻無三毒，乾陀訶提翻為香意，常精進者此土方言。",
+        "from": "T37n1755_001:0306b25_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是等者，結菩薩眾。",
+        "from": "T37n1755_001:0306b26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "釋提桓因翻能天主。",
+        "from": "T37n1755_001:0306b26_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "等諸天眾，總結同聞，列眾序竟。",
+        "from": "T37n1755_001:0306b27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "正說為二：",
+        "from": "T37n1755_001:0306b28_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初明彼佛依正二果，次勸物往生。",
+        "from": "T37n1755_001:0306b28_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初復為二：",
+        "from": "T37n1755_001:0306b29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前標、次釋。",
+        "from": "T37n1755_001:0306b29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前標國界，後明化主。",
+        "from": "T37n1755_001:0306b29_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此經命章對舍利弗，餘經皆有諸主，此經無問自說，十二部中亦不具足無兩種偈，其餘諸部亦不全有。",
+        "from": "T37n1755_001:0306c03_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不對菩薩者，適化無方，欲令凡夫小乘厭此欣彼也。",
+        "from": "T37n1755_001:0306c04_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "標依果中前明近遠。",
+        "from": "T37n1755_001:0306c04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「從是西方過十萬億佛土有國名極樂」，望賢首猶是下品，但比娑婆故言極樂。",
+        "from": "T37n1755_001:0306c06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼有三名：",
+        "from": "T37n1755_001:0306c06_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "極樂對苦，安養從用，無量壽者逐人名國。",
+        "from": "T37n1755_001:0306c07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次出正果號阿彌陀，其實有量，以餘人不能稱數，既云觀音補處，下地不知，說無量耳。",
+        "from": "T37n1755_001:0306c09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「彼土何故」下，解釋前明依果。",
+        "from": "T37n1755_001:0306c10_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有三：",
+        "from": "T37n1755_001:0306c10_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初總、次別、後結。",
+        "from": "T37n1755_001:0306c10_23",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初總如文。",
+        "from": "T37n1755_001:0306c11_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「七重行樹」下，別釋。",
+        "from": "T37n1755_001:0306c11_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有四：",
+        "from": "T37n1755_001:0306c11_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一明寶樹池樓閣奇麗；",
+        "from": "T37n1755_001:0306c12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二明天華天樂映顯莊飾；",
+        "from": "T37n1755_001:0306c12_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三明為宣道品；",
+        "from": "T37n1755_001:0306c13_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四樹奏樂音。",
+        "from": "T37n1755_001:0306c13_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其樹七重皆是四寶金銀瑠璃玻瓈等寶，七重羅網七重行樹，微風徐動暢發和音，聞此聲時即入正位。",
+        "from": "T37n1755_001:0306c15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八功德水充滿盈溢，輕清冷軟美而不臭，飲時調適飲已無患。",
+        "from": "T37n1755_001:0306c17_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "底布金沙，四面階道四寶合成。",
+        "from": "T37n1755_001:0306c17_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "池中蓮華大如車輪，光色炫燿微妙香潔。",
+        "from": "T37n1755_001:0306c18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "上有樓閣，亦以四寶而嚴飾之。",
+        "from": "T37n1755_001:0306c19_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二明天樂不撫而韻，絃出無量法化之聲，聽發慈心，聞便悟道。",
+        "from": "T37n1755_001:0306c20_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "晝夜六時雨曼陀羅，天華至妙名曼陀羅，色妙無比香氣芬馥。",
+        "from": "T37n1755_001:0306c22_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常以清旦衣裓盛華，供養他方十萬億佛，即以食時還到本國。",
+        "from": "T37n1755_001:0306c23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "衣裓是盛華器，形如函而有一足，手擎供養。",
+        "from": "T37n1755_001:0306c24_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三雜色鳥，白鶴孔雀鸚鵡鴝鵒，亦如此聞水禽之類。",
+        "from": "T37n1755_001:0306c26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "迦陵頻伽，妙音清高，可譬佛聲。",
+        "from": "T37n1755_001:0306c26_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "共命，兩頭而同一體，生死齊等，故曰共命。",
+        "from": "T37n1755_001:0306c27_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此等眾鳥晝夜六時演暢五根五力七覺八道，妙音和雅，即道品中法門名義。",
+        "from": "T37n1755_001:0306c29_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初五根者，信、進、念、定、慧。",
+        "from": "T37n1755_001:0307a01_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次明五力，名不異前，根生有力別更號。",
+        "from": "T37n1755_001:0307a01_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七菩提分，念、擇、進、喜、捨、定等。",
+        "from": "T37n1755_001:0307a02_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八正道分，正見、正思、正語、正業、正命、正進、正念、正定。",
+        "from": "T37n1755_001:0307a03_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善修道品即得見諦至於無學。",
+        "from": "T37n1755_001:0307a04_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "勿謂此鳥罪報所生，皆是彼佛欲令法音宣流變化所作。",
+        "from": "T37n1755_001:0307a05_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四明七重行樹及寶羅網，妙音譬如百千種樂同時俱作。",
+        "from": "T37n1755_001:0307a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "自然皆生念佛念法念僧之心，悟無生忍，怡然快樂。",
+        "from": "T37n1755_001:0307a08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次辯正果。",
+        "from": "T37n1755_001:0307a09_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文復有二：",
+        "from": "T37n1755_001:0307a09_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前明化主、次辨徒眾。",
+        "from": "T37n1755_001:0307a09_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "化主又二：",
+        "from": "T37n1755_001:0307a10_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初辨光明無量、次述壽命無限。",
+        "from": "T37n1755_001:0307a10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "《大品》云，欲得光明無量壽命無極，當學般若。",
+        "from": "T37n1755_001:0307a11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "就此徒眾，前辨聲聞、次明菩薩。",
+        "from": "T37n1755_001:0307a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前問：",
+        "from": "T37n1755_001:0307a12_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前云有無數聲聞，後何得云眾生生彼國者皆是阿鞞跋致？",
+        "from": "T37n1755_001:0307a14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "解云：",
+        "from": "T37n1755_001:0307a14_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼土二乘亦皆不退，二乘不退為凡夫，菩薩不退為小乘也。",
+        "from": "T37n1755_001:0307a15_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從「眾生聞者」下，第二勸物往生。",
+        "from": "T37n1755_001:0307a16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有三：",
+        "from": "T37n1755_001:0307a16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初正勸往生；",
+        "from": "T37n1755_001:0307a16_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "次引證勸；",
+        "from": "T37n1755_001:0307a16_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三結勸又二，初正勸、次示往生方法。",
+        "from": "T37n1755_001:0307a17_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "就初又二：",
+        "from": "T37n1755_001:0307a17_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "初正勸、次釋勸意。",
+        "from": "T37n1755_001:0307a18_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「舍利弗以少善」下，次示方法。",
+        "from": "T37n1755_001:0307a19_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "問：",
+        "from": "T37n1755_001:0307a19_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前云不可以少善，後那云一日七日心不散亂皆得生？",
+        "from": "T37n1755_001:0307a20_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "答：",
+        "from": "T37n1755_001:0307a20_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今不以時日多少，特由用心厚薄耳。",
+        "from": "T37n1755_001:0307a21_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若能七日一心不亂，其人命終，阿彌陀佛以宿願力化佛迎接，心不顛倒即得往生。",
+        "from": "T37n1755_001:0307a23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "何以故？",
+        "from": "T37n1755_001:0307a23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "臨終一念用心懇切即當得去也。",
+        "from": "T37n1755_001:0307a24_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我見是利」即是釋意，應當發願一心修行，發願莊嚴，行願相扶，必當得往生也。",
+        "from": "T37n1755_001:0307a25_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如我今者」下，引證勸。",
+        "from": "T37n1755_001:0307a26_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "非我獨歎彼佛，正勸物往生，六方諸佛皆悉勸發稱揚讚歎恒河沙數各於其土往生彼國。",
+        "from": "T37n1755_001:0307a28_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若男女聞是經名，皆為諸佛共所護念，皆得不退無上菩提心。",
+        "from": "T37n1755_001:0307a29_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "故汝等當信我語及諸佛說，發願欲生皆不退轉往生彼國。",
+        "from": "T37n1755_001:0307b02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼諸佛等亦稱釋迦能為難事，於娑婆雜惡五濁境界，為諸眾生說難信之法，當得菩提。",
+        "from": "T37n1755_001:0307b04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "穢國障深五濁垢重，貪瞋是煩惱濁，五見為見濁，二為本，攬此作因，得有連持之命，於五陰假立眾生，此四經時名為劫濁。",
+        "from": "T37n1755_001:0307b06_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "穢國苦多其濁極重，同居淨土其濁即輕，因順餘方有其名字，無此迫惱號極樂耳。",
+        "from": "T37n1755_001:0307b08_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「佛說經已」下，即流通段。",
+        "from": "T37n1755_001:0307b09_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "說經既竟，四眾天人修羅等類歡喜信受。",
+        "from": "T37n1755_001:0307b10_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聖主難遇若優曇華慶今得見，正法難聞而今聞，昔所未悟而今得悟，具此三喜是故欣悅，得之於懷踊躍無量也。",
+        "from": "T37n1755_001:0307b13_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿彌陀經義記一卷",
+        "from": "T37n1755_001:0307b14_100",
+        "context_with_next_sentence": false
+    }
+]

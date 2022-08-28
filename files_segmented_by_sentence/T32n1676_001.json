@@ -1,12 +1,212 @@
-{
-    "T32n1676_001:0756b17_0": "廣大發願頌",
-    "T32n1676_001:0756b19_0": "龍樹菩薩造",
-    "T32n1676_001:0756b20_0": "西天譯經三藏朝奉大夫試光",
-    "T32n1676_001:0756b21_0": "祿卿傳法大師賜紫臣施護等",
-    "T32n1676_001:0756b22_0": "奉　詔譯",
-    "T32n1676_001:0756b23_0-0": "　所有一切眾生類　　過未現在世無盡　而諸佛剎廣無邊　　彼無邊剎塵充滿　又一一塵為一剎　　廣大佛剎如塵等　一一剎中正覺尊　　如塵無量我普禮　彼塵倍聚諸佛剎　　剎中佛佛我稱讚　我常供養以一心　　經如塵數廣大劫　頂禮諸佛及法眾　　我於三寶常歸命　我悉持以諸妙華　　及眾寶聚常普施　若我已起一切罪　　我今普盡而懺悔　",
-    "T32n1676_001:0756b23_0-1": "若我未生一切罪　　我一切時常遠離　所有一切勝福事　　我於一切常隨喜　此福迴向於有情　　及佛無上菩提果　如佛正法中所說　　願力堅固復真實　我常供養諸世尊　　願我最後得成佛　願我生生具深智　　常如妙吉祥菩薩　悲心息苦救世間　　願如觀自在菩薩　賢善愛眼視眾生　　願與普賢尊無異　慈意善觀諸情品　　願我常如慈氏尊　",
-    "T32n1676_001:0756b23_0-2": "布施願如虛空庫　　持戒願如神通慧　忍辱精進二度門　　願我悉如常精進　定力能攝諸散亂　　願我得如金剛手　善說十地諸法門　　說智願如金剛藏　於佛世尊善請問　　願我得如除蓋障　深心智慧具堅固　　願我常如堅固慧　神通無礙善方便　　願我得如無垢稱　善護眾生諸善根　　勤勇願如常勇猛　善說波羅蜜等法　　願我得如無盡意　",
-    "T32n1676_001:0756b23_0-3": "具足無量妙音聲　　願與妙音尊無異　近善知識心無懈　　願我生生如善財　虛空無喻法能宣　　願我得如虛空藏　地能長養諸世間　　普利願如地藏尊　息除貧苦利眾生　　願與寶藏神無異　語出無盡妙法寶　　願我得如曇無竭　智慧堅利復常勤　　願與常啼尊無異　此等最上諸佛子　　最勝功德聚無邊　名稱廣大復無盡　　願我名稱亦如是　",
-    "T32n1676_001:0756b23_0-4": "我此讚佛功德聚　　最上勝善極廣大　普願世間諸有情　　住彼最勝功德聚廣大發願頌"
-}
+[
+    {
+        "source_sentence": "廣大發願頌",
+        "from": "T32n1676_001:0756b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "龍樹菩薩造",
+        "from": "T32n1676_001:0756b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝奉大夫試光",
+        "from": "T32n1676_001:0756b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有一切眾生類，　　過未現在世無盡，",
+        "from": "T32n1676_001:0756b23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而諸佛剎廣無邊，　　彼無邊剎塵充滿。",
+        "from": "T32n1676_001:0756b24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又一一塵為一剎，　　廣大佛剎如塵等，",
+        "from": "T32n1676_001:0756b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一一剎中正覺尊，　　如塵無量我普禮。",
+        "from": "T32n1676_001:0756b26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼塵倍聚諸佛剎，　　剎中佛佛我稱讚，",
+        "from": "T32n1676_001:0756b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我常供養以一心，　　經如塵數廣大劫，",
+        "from": "T32n1676_001:0756b28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頂禮諸佛及法眾，　　我於三寶常歸命，",
+        "from": "T32n1676_001:0756b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我悉持以諸妙華，　　及眾寶聚常普施。",
+        "from": "T32n1676_001:0756c01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若我已起一切罪，　　我今普盡而懺悔，",
+        "from": "T32n1676_001:0756c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若我未生一切罪，　　我一切時常遠離，",
+        "from": "T32n1676_001:0756c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有一切勝福事，　　我於一切常隨喜，",
+        "from": "T32n1676_001:0756c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此福迴向於有情，　　及佛無上菩提果。",
+        "from": "T32n1676_001:0756c05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如佛正法中所說，　　願力堅固復真實，",
+        "from": "T32n1676_001:0756c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我常供養諸世尊，　　願我最後得成佛。",
+        "from": "T32n1676_001:0756c07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "願我生生具深智，　　常如妙吉祥菩薩，",
+        "from": "T32n1676_001:0756c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悲心息苦救世間，　　願如觀自在菩薩，",
+        "from": "T32n1676_001:0756c09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "賢善愛眼視眾生，　　願與普賢尊無異，",
+        "from": "T32n1676_001:0756c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "慈意善觀諸情品，　　願我常如慈氏尊，",
+        "from": "T32n1676_001:0756c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "布施願如虛空庫，　　持戒願如神通慧，",
+        "from": "T32n1676_001:0756c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忍辱精進二度門，　　願我悉如常精進，",
+        "from": "T32n1676_001:0756c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "定力能攝諸散亂，　　願我得如金剛手，",
+        "from": "T32n1676_001:0756c14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善說十地諸法門，　　說智願如金剛藏，",
+        "from": "T32n1676_001:0756c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於佛世尊善請問，　　願我得如除蓋障，",
+        "from": "T32n1676_001:0756c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "深心智慧具堅固，　　願我常如堅固慧，",
+        "from": "T32n1676_001:0756c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "神通無礙善方便，　　願我得如無垢稱，",
+        "from": "T32n1676_001:0756c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善護眾生諸善根，　　勤勇願如常勇猛，",
+        "from": "T32n1676_001:0756c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "善說波羅蜜等法，　　願我得如無盡意，",
+        "from": "T32n1676_001:0756c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "具足無量妙音聲，　　願與妙音尊無異，",
+        "from": "T32n1676_001:0756c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "近善知識心無懈，　　願我生生如善財，",
+        "from": "T32n1676_001:0756c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "虛空無喻法能宣，　　願我得如虛空藏，",
+        "from": "T32n1676_001:0756c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "地能長養諸世間，　　普利願如地藏尊，",
+        "from": "T32n1676_001:0756c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "息除貧苦利眾生，　　願與寶藏神無異，",
+        "from": "T32n1676_001:0756c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "語出無盡妙法寶，　　願我得如曇無竭，",
+        "from": "T32n1676_001:0756c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智慧堅利復常勤，　　願與常啼尊無異。",
+        "from": "T32n1676_001:0756c27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此等最上諸佛子，　　最勝功德聚無邊，",
+        "from": "T32n1676_001:0756c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "名稱廣大復無盡，　　願我名稱亦如是。",
+        "from": "T32n1676_001:0756c29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我此讚佛功德聚，　　最上勝善極廣大，",
+        "from": "T32n1676_001:0757a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "普願世間諸有情，　　住彼最勝功德聚。",
+        "from": "T32n1676_001:0757a02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "廣大發願頌",
+        "from": "T32n1676_001:0757a03_100",
+        "context_with_next_sentence": false
+    }
+]

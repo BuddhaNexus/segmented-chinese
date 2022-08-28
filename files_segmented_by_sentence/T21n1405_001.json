@@ -1,42 +1,202 @@
-{
-    "T21n1405_001:0921c03_0": "佛說息除賊難陀羅尼經",
-    "T21n1405_001:0921c05_0": "西天譯經三藏朝散大夫試光祿卿",
-    "T21n1405_001:0921c06_0": "明教大師臣法賢奉　詔譯",
-    "T21n1405_001:0921c07_0": "如是我聞。",
-    "T21n1405_001:0921c07_1": "一時佛在摩伽陀國。",
-    "T21n1405_001:0921c07_2": "與諸大眾圍繞經行。",
-    "T21n1405_001:0921c08_3": "到於菴羅樹園側韋提呬山帝釋巖中。",
-    "T21n1405_001:0921c09_4": "時尊者阿難。",
-    "T21n1405_001:0921c09_5": "忽見大惡賊眾遙遠而來。",
-    "T21n1405_001:0921c09_6": "見已生大恐怖。",
-    "T21n1405_001:0921c10_7": "心懷憂惱身毛皆竪。",
-    "T21n1405_001:0921c10_8": "時尊者阿難疾往佛所。",
-    "T21n1405_001:0921c11_9": "到已合掌而白佛言。",
-    "T21n1405_001:0921c11_10": "世尊我今遙見有大惡賊。",
-    "T21n1405_001:0921c12_11": "唯願世尊為作救護。",
-    "T21n1405_001:0921c13_0": "爾時世尊聞尊者阿難言已。",
-    "T21n1405_001:0921c13_1": "告阿難言汝怖賊耶。",
-    "T21n1405_001:0921c14_2": "阿難白佛言甚怖世尊。",
-    "T21n1405_001:0921c14_3": "佛言阿難汝勿得怖。",
-    "T21n1405_001:0921c15_4": "我有陀羅尼能除賊難。",
-    "T21n1405_001:0921c15_5": "是時尊者阿難聞佛語已心生歡喜。",
-    "T21n1405_001:0921c16_6": "作如是言唯願世尊為我宣說。",
-    "T21n1405_001:0921c18_0": "爾時世尊即說大輪結界陀羅尼曰。",
-    "T21n1405_001:0921c19_0": "怛[寧*也](切身下同)他(一)阿焬路哥(二)鉢囉路計(三)伊該阿提鉢底(四)藕(引)哩巘馱(引)哩(五)贊拏哩(六)摩登儗(七)惹虞哩(八)補哥細(九)爾時世尊說是陀羅尼已。",
-    "T21n1405_001:0921c22_1": "告尊者阿難汝今可往。",
-    "T21n1405_001:0921c23_2": "以此陀羅尼。",
-    "T21n1405_001:0921c23_3": "面十二由旬當作結界。",
-    "T21n1405_001:0921c23_4": "令得安隱息除賊難。",
-    "T21n1405_001:0921c24_5": "乃至刀劍器杖等悉不能侵。",
-    "T21n1405_001:0921c25_6": "又復能令彼諸惡賊。",
-    "T21n1405_001:0921c25_7": "不離本處旋如陶家輪。",
-    "T21n1405_001:0921c26_8": "又復阿難若人遇賊難時。",
-    "T21n1405_001:0921c26_9": "當用淨白線。",
-    "T21n1405_001:0921c26_10": "以此陀羅尼加持七遍。",
-    "T21n1405_001:0921c27_11": "結作七結過難即解。",
-    "T21n1405_001:0921c27_12": "所有賊眾皆如禁縛不能為難。",
-    "T21n1405_001:0921c29_0": "爾時世尊說是經已。",
-    "T21n1405_001:0921c29_1": "尊者阿難及諸大眾。",
-    "T21n1405_001:0921c29_2": "聞佛所說皆大歡喜信受奉行。",
-    "T21n1405_001:0922a02_0": "佛說息除賊難陀羅尼經"
-}
+[
+    {
+        "source_sentence": "佛說息除賊難陀羅尼經",
+        "from": "T21n1405_001:0921c03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫試光祿卿",
+        "from": "T21n1405_001:0921c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "明教大師臣法賢奉　詔譯",
+        "from": "T21n1405_001:0921c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞。",
+        "from": "T21n1405_001:0921c07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一時佛在摩伽陀國。",
+        "from": "T21n1405_001:0921c07_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "與諸大眾圍繞經行。",
+        "from": "T21n1405_001:0921c08_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "到於菴羅樹園側韋提呬山帝釋巖中。",
+        "from": "T21n1405_001:0921c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時尊者阿難。",
+        "from": "T21n1405_001:0921c09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忽見大惡賊眾遙遠而來。",
+        "from": "T21n1405_001:0921c09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見已生大恐怖。",
+        "from": "T21n1405_001:0921c10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "心懷憂惱身毛皆竪。",
+        "from": "T21n1405_001:0921c10_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時尊者阿難疾往佛所。",
+        "from": "T21n1405_001:0921c11_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "到已合掌而白佛言。",
+        "from": "T21n1405_001:0921c11_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊我今遙見有大惡賊。",
+        "from": "T21n1405_001:0921c12_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯願世尊為作救護。",
+        "from": "T21n1405_001:0921c12_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊聞尊者阿難言已。",
+        "from": "T21n1405_001:0921c13_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "告阿難言汝怖賊耶。",
+        "from": "T21n1405_001:0921c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿難白佛言甚怖世尊。",
+        "from": "T21n1405_001:0921c14_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛言阿難汝勿得怖。",
+        "from": "T21n1405_001:0921c15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我有陀羅尼能除賊難。",
+        "from": "T21n1405_001:0921c15_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時尊者阿難聞佛語已心生歡喜。",
+        "from": "T21n1405_001:0921c16_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "作如是言唯願世尊為我宣說。",
+        "from": "T21n1405_001:0921c17_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊即說大輪結界陀羅尼曰。",
+        "from": "T21n1405_001:0921c18_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "怛𭔞切身下同他一阿焬路哥二鉢囉路計三伊該阿提鉢底四藕引哩巘馱引哩五贊拏哩六摩登儗七惹虞哩八補哥細九爾時世尊說是陀羅尼已。",
+        "from": "T21n1405_001:0921c22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "告尊者阿難汝今可往。",
+        "from": "T21n1405_001:0921c23_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以此陀羅尼。",
+        "from": "T21n1405_001:0921c23_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "面十二由旬當作結界。",
+        "from": "T21n1405_001:0921c23_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令得安隱息除賊難。",
+        "from": "T21n1405_001:0921c24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至刀劍器杖等悉不能侵。",
+        "from": "T21n1405_001:0921c25_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復能令彼諸惡賊。",
+        "from": "T21n1405_001:0921c25_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不離本處旋如陶家輪。",
+        "from": "T21n1405_001:0921c26_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又復阿難若人遇賊難時。",
+        "from": "T21n1405_001:0921c26_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當用淨白線。",
+        "from": "T21n1405_001:0921c26_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以此陀羅尼加持七遍。",
+        "from": "T21n1405_001:0921c27_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "結作七結過難即解。",
+        "from": "T21n1405_001:0921c27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有賊眾皆如禁縛不能為難。",
+        "from": "T21n1405_001:0921c28_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊說是經已。",
+        "from": "T21n1405_001:0921c29_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尊者阿難及諸大眾。",
+        "from": "T21n1405_001:0921c29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞佛所說皆大歡喜信受奉行。",
+        "from": "T21n1405_001:0922a01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說息除賊難陀羅尼經",
+        "from": "T21n1405_001:0922a02_100",
+        "context_with_next_sentence": false
+    }
+]

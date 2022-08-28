@@ -1,149 +1,1612 @@
-{
-    "T12n0321_002:0005a07_0": "佛說護國尊者所問經卷第二",
-    "T12n0321_002:0005a09_0": "西天譯經三藏朝散大夫試鴻臚卿",
-    "T12n0321_002:0005a10_0": "傳法大師臣施護奉　詔譯",
-    "T12n0321_002:0005a11_0": "爾時，世尊告尊者護國言：「有四種法，於諸菩薩而為縛法。",
-    "T12n0321_002:0005a12_1": "「何等四法？",
-    "T12n0321_002:0005a12_2": "一者、輕慢他人，二者、於世間事方便趣求，三者、散亂用心如行嶮難，四者、於其眷屬一心貪著。",
-    "T12n0321_002:0005a14_3": "如是四法為菩薩縛。」",
-    "T12n0321_002:0005a15_4": "復說頌曰：「若行輕慢於他人、　　方便唯求世間事、　散亂如行嶮道中，　　如象陷身深泥裏；　於自眷屬生愛著，　　常懷貪戀如迷醉，　如是種種被纏縛，　　增長愚癡覆大智。",
-    "T12n0321_002:0005a20_0": "　若人怖苦厭生死，　　求出沈淪趣解脫，　捨於輕慢世間等，　　是名菩薩所行道。",
-    "T12n0321_002:0005a22_0": "　滅盡無邊諸苦已、　　及彼煩惱諸眷屬，　究竟安樂無所求，　　圓滿菩提寂靜道。",
-    "T12n0321_002:0005a24_0": "　所行六種波羅蜜、　　三身、五智、十力等，　一切功德悉具足，　　如是永離無邊苦。",
-    "T12n0321_002:0005a26_0": "　過去修行無量劫，　　為眾生故求菩提，　一切眾善悉皆修，　　遠離諸惡眷屬等。",
-    "T12n0321_002:0005a28_0": "　恒樂深山寂靜處，　　遠離聲色想真空，　如是精進不間修，　　獲大丈夫圓滿慧。",
-    "T12n0321_002:0005b01_0": "　見彼世間眾生行，　　五趣輪迴無有窮，　我於過去發慈心，　　捨自身命及妻子、　國城、大地及珍寶，　　如是求佛無數劫。",
-    "T12n0321_002:0005b04_0": "　我昔居山行忍辱，　　花菓池沼悉清淨，　歌利王來截手足，　　心生慈忍無瞋恚。",
-    "T12n0321_002:0005b06_0": "　昔住深山名闍摩，　　我為仙人婆囉多，　時有天子射我身，　　亦無瞋恨生其惡，　不惜身命如頑石，　　志求菩提心不退。",
-    "T12n0321_002:0005b09_0": "　我昔曾為薩埵時，　　見彼餓虎欲食子，　投崖捨命濟彼飢，　　天人稱讚大精進，　常樂布施救眾生，　　不悋身命及財寶。",
-    "T12n0321_002:0005b12_0": "　我昔曾為摩曩縛，　　廣行布施盡寶海，　捨大摩尼令富他，　　如是求證菩提果。",
-    "T12n0321_002:0005b14_0": "　往昔作大蘇摩王，　　名稱普聞我修行，　爾時入縛為他人，　　於彼百王得解脫。",
-    "T12n0321_002:0005b16_0": "　我昔曾為能捨王，　　一切所求皆充足，　乃至身命及珍財，　　令他大富離貧苦。",
-    "T12n0321_002:0005b18_0": "　昔有飛鴿來投我，　　即割身肉濟彼命，　如是持刀割肉時，　　無驚無怖心安隱。",
-    "T12n0321_002:0005b20_0": "　亦於過去捨王位，　　盡世行彼波羅蜜，　復自化身為妙藥，　　捨己身命濟群品。",
-    "T12n0321_002:0005b22_0": "　又昔曾為師子王，　　常為世間行利樂，　棄捨王位及眷屬，　　一心志求無上道。",
-    "T12n0321_002:0005b24_0": "　又昔曾為妙牙王，　　當時獲壽於千歲，　八十四年修苦行，　　發大精進施珍財，　於佛塔前燃己身，　　志心恭敬作供養。",
-    "T12n0321_002:0005b27_0": "　又昔曾為無垢王，　　時有惡眼婆羅門，　來詣深宮乞我頭，　　即便捨頭而施與。",
-    "T12n0321_002:0005b29_0": "　又昔曾為月光王，　　普救眾生作善利，　一切城隍聚落中，　　四衢道路施良藥。",
-    "T12n0321_002:0005c02_0": "　千女端嚴妙色相，　　金寶、真珠廣莊嚴，　捨彼千女自修行，　　如是所作福無等。",
-    "T12n0321_002:0005c04_0": "　又昔曾為輸婆王，　　所戴寶冠世希有，　香花、眾寶共莊嚴，　　捨施他人無所悋。",
-    "T12n0321_002:0005c06_0": "　又昔曾為寶髻王，　　手足柔軟如兜羅，　細滑微妙色如蓮，　　捨自手足利眾生。",
-    "T12n0321_002:0005c08_0": "　又昔曾為安意王，　　時有商主名星賀，　領諸商客泛海中，　　忽然漂墮羅剎國。",
-    "T12n0321_002:0005c10_0": "　彼有百千夜叉女，　　無慚大惡唯食人，　商客不識夜叉女，　　見此端正生愛心，　五百商旅將被食，　　我親救度俱脫難。",
-    "T12n0321_002:0005c13_0": "　又昔曾為妙眼王，　　四兆女人常圍繞，　端正殊妙如天女，　　捨彼出家求佛道。",
-    "T12n0321_002:0005c15_0": "　又昔曾為福光王，　　無垢清淨黃金色，　手指纖長世所希，　　捨此手指利群品。",
-    "T12n0321_002:0005c17_0": "　又昔曾為法財王，　　紺目清淨如青蓮，　於身所愛最難捨，　　人來求者亦與之。",
-    "T12n0321_002:0005c19_0": "　又昔曾為蓮目王，　　愍見眾生在苦惱，　時有女人懷憂病，　　我行悲愍令解脫。",
-    "T12n0321_002:0005c21_0": "　又昔曾為大醫王，　　常救病苦諸眾生，　或出身血、及髓、腦，　　救療疾病令除愈，　如是勇猛精進心，　　未曾暫捨於情物。",
-    "T12n0321_002:0005c24_0": "　又昔曾為成利王，　　以自所愛如蓮目，　施諸眾生療彼疾，　　一心為求無上道。",
-    "T12n0321_002:0005c26_0": "　又昔為王名普現，　　慈愍有情行救度，　爾時捨彼四大洲、　　國土、人民及眾寶、　乃至割身血肉等，　　施與眾生心歡喜。",
-    "T12n0321_002:0005c29_0": "　又為王女稱大智，　　身嚴金色體柔軟，　時有一女名色相，　　此是商人所生女，　飢羸困苦無飲食，　　我捨雙乳濟彼命。",
-    "T12n0321_002:0006a03_0": "　又昔為王號多聞，　　所有珍寶、妙衣服、　象、馬、車乘、財帛等，　　如是布施無有數。",
-    "T12n0321_002:0006a05_0": "　復見商人漂海浪，　　我於海內救得彼，　背恩復乞我眼睛，　　我亦施之無瞋恚。",
-    "T12n0321_002:0006a07_0": "　棄捨大地諸眷屬，　　觀彼不著如蟻子，　如是往昔濟群生，　　心無退動生疲苦。",
-    "T12n0321_002:0006a09_0": "　復覩孤老貧窮人，　　給足所須而承事，　恒行敬愛無慢心，　　亦無慚赧、無人我。",
-    "T12n0321_002:0006a11_0": "　又昔曾作猿猴身，　　與彼同類共遊行，　時遇獵師縛彼身，　　我即替他令脫命。",
-    "T12n0321_002:0006a13_0": "　如是以我奉國王，　　王令後宮縻繫我，　思念父母年孤老，　　所有飲饌無心食，　如是忍苦懷慈孝，　　是故得脫王宮難。",
-    "T12n0321_002:0006a16_0": "　又昔曾作大熊身，　　常處深山行慈忍，　忽逢樵士遭大雨，　　引彼山巖令迴避。",
-    "T12n0321_002:0006a18_0": "　過是七日至天晴，　　告彼樵人：『莫說我。』",
-    "T12n0321_002:0006a19_0": "　爾時樵士安隱歸，　　招引獵師來殺害，　如是背恩殺我身，　　亦無瞋恨生慈忍。",
-    "T12n0321_002:0006a21_0": "　又昔曾為白象王，　　求佛菩提行十善，　時有獵師射我身，　　我即捨牙心歡喜。",
-    "T12n0321_002:0006a23_0": "　昔有惡人帝哩子，　　以火焚燒大山野，　我見此火運慈心，　　天雨香花火自滅。",
-    "T12n0321_002:0006a25_0": "　又昔曾為大鹿王，　　金寶莊嚴體殊妙，　入彼河中救溺人，　　令得安隱全身命。",
-    "T12n0321_002:0006a27_0": "　告言：『勿說我居山，　　恐彼惡人來獵我。』",
-    "T12n0321_002:0006a28_0": "　時彼溺人背其恩，　　指告國王令採捕，　指已兩手俱墮地，　　我時無有少瞋恚。",
-    "T12n0321_002:0006b01_0": "　昔有五百商人眾，　　為求珍寶泛海中，　商主所有資糧竭，　　商眾飢羸無飲食。",
-    "T12n0321_002:0006b03_0": "　是時我作大龜王，　　捨身濟彼商人命，　以我慈心利他故，　　俱得安然到海岸。",
-    "T12n0321_002:0006b05_0": "　我昔變身為藥蟲，　　此蟲名曰俱蘇摩，　一切疾病食我身，　　俱獲安隱無諸患。",
-    "T12n0321_002:0006b07_0": "　我昔復為師子王，　　大力無畏行慈愍，　有大獵師射我身，　　亦無瞋恨、無忿怒。",
-    "T12n0321_002:0006b09_0": "　我昔亦作白馬王，　　常行菩薩慈悲行，　救彼商人羅剎難，　　擔負眾人出海中。",
-    "T12n0321_002:0006b11_0": "　昔作飛鳥軍拏羅，　　遠離色欲無散亂，　令彼同類眾飛禽，　　亦復而行清淨行。",
-    "T12n0321_002:0006b13_0": "　又昔因中作兔王，　　與諸群兔宣法行，　見一仙人飢無食，　　即捨自身濟彼命。",
-    "T12n0321_002:0006b15_0": "　又昔曾作鸚鵡身，　　常居花菓樹林中，　時有惡人毀此林，　　以我力故復繁盛。",
-    "T12n0321_002:0006b17_0": "　又昔復作獼猴王，　　與眾獼猴而遊行，　時有國王來採捕，　　我救彼難現王前。",
-    "T12n0321_002:0006b19_0": "　又昔復為鸚鵡身，　　父母俱老無力飛，　我於田中銜稻穀，　　養育二親行孝敬。",
-    "T12n0321_002:0006b21_0": "　於是田主懷瞋怒，　　捉彼鸚鵡而訶責：『云何偷於我稻穀？",
-    "T12n0321_002:0006b22_1": "　　此時須見汝捨命。』",
-    "T12n0321_002:0006b23_0": "　鸚鵡告彼田主言：　　『汝所種田濟一切，　我持少分供二親。",
-    "T12n0321_002:0006b24_1": "　　汝何言我為偷盜？』",
-    "T12n0321_002:0006b25_0": "　爾時田主聞是語，　　倍與稻穀生歡喜：『我作禽類汝為人，　　如是孝養未曾有。』",
-    "T12n0321_002:0006b27_0": "　往昔所行菩薩行，　　經歷無數微塵劫，　求趣佛果大菩提，　　未有少時生疲倦。",
-    "T12n0321_002:0006b29_0": "　如是捨施內外財、　　國城、妻子及珠珍、　頭、目、髓、腦及身命，　　持戒、忍辱、精進、禪、　智慧方便願力等，　　如是諸度廣修習，　未曾暫廢菩薩行，　　一切眾善悉無遺。",
-    "T12n0321_002:0006c04_0": "　如佛所說頭陀行，　　彼行亦為趣佛因，　如是一一盡修習，　　精進而行無缺犯。",
-    "T12n0321_002:0006c06_0": "　於後末世諸眾生，　　雖作苾芻無僧行，　常生我慢、懈怠心，　　貪著聲色及財利，　聞此大行勝妙因，　　返生誹謗不信受，　輕笑言教告諸人：　　『此之所說非佛教。』",
-    "T12n0321_002:0006c10_0": "　我聞過去有一人，　　多聞學識立名海，　聞佛所說不信受，　　以此法言問本師。",
-    "T12n0321_002:0006c12_0": "　彼師耆年亦多聞，　　於此佛言亦不信，　展轉如是告他人：　　『無我、無人、無眾生，　此法非為真實教。",
-    "T12n0321_002:0006c14_1": "　　虛受勤勞求出離，　設爾持戒學威儀，　　如是修習何所為？",
-    "T12n0321_002:0006c16_0": "　既無眾生、無我、人，　　父母、宗親亦不有，　此是邪見外道言，　　非是真實解脫法。』",
-    "T12n0321_002:0006c18_0": "　復次末世諸苾芻，　　而造諸過無慚愧，　我慢、貢高心散亂，　　憎嫉、貪愛如火燒。",
-    "T12n0321_002:0006c20_0": "　三衣不整垂手行，　　拖拽袈裟入聚落，　縱情放逸而飲酒，　　種種而行麁惡行。",
-    "T12n0321_002:0006c22_0": "　身被法服為佛使，　　不依戒律近王侯，　馳騁書信往四方，　　恃官勢力求財利，　退失如來功德林，　　墮彼三塗諸惡趣。",
-    "T12n0321_002:0006c25_0": "　或有經營於市肆、　　或有耕種住村坊，　佛言：『此類非沙門，　　清淨苾芻勿同事。』",
-    "T12n0321_002:0006c27_0": "　常住供養財物等，　　如己所有非法用，　見有具德諸苾芻，　　而起慢心行誹謗，　罔昧賢善破律儀，　　密於俗舍染邪行，　畜養妻男種種為，　　恣行麁惡俗無異。",
-    "T12n0321_002:0007a02_0": "　如是廣造惡業因，　　非是沙門出家行，　當墮三塗惡趣中，　　永劫沈淪受眾苦。",
-    "T12n0321_002:0007a04_0": "　於自諸根不調伏，　　貪著飲食及色欲，　常被他人生輕賤，　　所學徒弟亦復然。",
-    "T12n0321_002:0007a06_0": "　未曾誨示修行法，　　亦無師資恭敬心，　人前談己為慈悲，　　非要學徒行承事。",
-    "T12n0321_002:0007a08_0": "　或有風瘨及癩病、　　六根不具醜惡人，　如是攝受令出家，　　亦非沙門佛弟子。",
-    "T12n0321_002:0007a10_0": "　無戒、無行、無其德，　　彼等非俗、非沙門，　譬如負柴燒臭屍，　　清淨之者宜遠離。",
-    "T12n0321_002:0007a12_0": "　性本囂浮多散亂，　　亦如狂象失調伏，　設處深山心不寧，　　貪火焚燒無暫住。",
-    "T12n0321_002:0007a14_0": "　忘失一切佛功德、　　方便、智慧、頭陀行，　如是諸善悉不行，　　墮大阿鼻無有出。",
-    "T12n0321_002:0007a16_0": "　常談國城聚落中，　　官事、賊事、眷屬事，　如是晝夜恒思惟，　　未曾時暫行三昧。",
-    "T12n0321_002:0007a18_0": "　復於精舍起貪心，　　廣修院宇及房屋，　全無持誦及焚修，　　但為眷屬兼徒弟。",
-    "T12n0321_002:0007a20_0": "　若有苾芻依附我，　　我即與汝同居止；　若欲持戒奉律儀，　　非我所為須遠離。",
-    "T12n0321_002:0007a22_0": "　所有臥具、床榻等、　　什物受用及飲食，　藏隱深房映蔽之，　　言：『無所有。』",
-    "T12n0321_002:0007a23_1": "令他去，　如是末世愚癡人，　　令佛教法不久滅。",
-    "T12n0321_002:0007a25_0": "　貪求利養斷善根，　　此等苾芻極甚多，　若有清淨智慧者，　　遠離彼等住深山。",
-    "T12n0321_002:0007a27_0": "　末法苾芻無戒德，　　不樂深山寂靜居，　常處王城聚落中，　　唯務是非及鬪諍，　反為王法所禁制、　　叱訶、驅擯、受慚恥；　諸佛法教功德海，　　因此破戒悉枯竭。",
-    "T12n0321_002:0007b02_0": "　譬如寶海水清淨，　　或被淤泥而渾濁；　亦如蓮花滿池開，　　或被狂風而摧壞；　如是末法破戒人，　　損減佛教亦如是。",
-    "T12n0321_002:0007b05_0": "　若有淨修梵行者，　　逢斯惡友常遠離，　彼人命盡墮阿鼻，　　受苦百千無數劫。",
-    "T12n0321_002:0007b07_0": "　從此地獄受罪已，　　或生畜趣或為人，　貧窮、下賤及聾、啞、　　眇目、矬陋、多疾病、　手足諸根不完具，　　見者悉皆生驚怖。",
-    "T12n0321_002:0007b10_0": "　無信、無行、無善根，　　晝夜飢寒常憂苦，　復被眾人生瞋恨，　　以其瓦石而捶打。",
-    "T12n0321_002:0007b12_0": "　如是三苦常纏縛，　　一切罪業應遠離，　常須親近佛、法、僧，　　淨持戒律、頭陀行。",
-    "T12n0321_002:0007b14_0": "　如是名利并眷屬，　　如幻、如化、如影像，　有為之法暫時間，　　不久乖離即散壞。",
-    "T12n0321_002:0007b16_0": "　唯有無上佛菩提，　　妙地十力波羅蜜，　堅固修習勿生疑，　　未來究竟大安樂。」",
-    "T12n0321_002:0007b17_1": "◎爾時，世尊說此頌已，告尊者護國言：「若有補特伽羅於菩薩乘不依法行，有是過失者當得不依法者而來敬愛，懈怠者得懈怠人敬愛、無智者得無智人敬愛。",
-    "T12n0321_002:0007b21_2": "如是，互相敬愛、貪著利養、嫉妬貴族、懈怠狂亂、綺語兩舌、諂佞他人、虛誑父母及自師長。",
-    "T12n0321_002:0007b23_3": "「或入王城及諸聚落，不為利益眾生化諸群品，一向妄言：『我是大智，多聞博識。』",
-    "T12n0321_002:0007b25_4": "誑惑有情，唯求財利，輕棄善法都無所獲，猶如破器無堪貯用。",
-    "T12n0321_002:0007b27_0": "於彼眾人多生怨惡，聽信邪言，虛妄推度，是法說非、非法說是，於佛正法無心愛樂。",
-    "T12n0321_002:0007b28_1": "生於下族貧賤之家，為見少利來投佛法，希求出家及得為僧，行非梵行，於佛法教全無所成，何況大智？」",
-    "T12n0321_002:0007c02_2": "佛告尊者：「如是補特伽羅不應說法。",
-    "T12n0321_002:0007c03_3": "人天之善尚不能續，何況菩提而得成就？」",
-    "T12n0321_002:0007c05_0": "爾時，世尊復告尊者護國言：「有八種補特伽羅遠離菩提，不得為說殊妙之法。」",
-    "T12n0321_002:0007c06_1": "護國白言：「何等八種補特伽羅？",
-    "T12n0321_002:0007c07_2": "唯願說之。」",
-    "T12n0321_002:0007c07_3": "佛言：「一者、蔑戾車處於彼受生；二者、貧窮之家於彼受生；三者、下賤之家於彼受生；四者、縱得人身，醜陋、癡鈍；五者、具足蓋纏，身心憂慼；六者、棄背賢善、親近惡友；七者、長有疾病，身體尫羸；八者、眾苦逼迫，直至命終。",
-    "T12n0321_002:0007c12_4": "如是八種補特伽羅遠離菩提，不得說法。」",
-    "T12n0321_002:0007c13_5": "於是護國復白佛言：「不應說法更有何義？」",
-    "T12n0321_002:0007c14_6": "佛言：「護國！",
-    "T12n0321_002:0007c14_7": "若有補特伽羅無決定者，我不說菩提；於虛妄者，我不說清淨行；於懈怠者，我不說菩薩行；於慳悋者，我不說供佛行；於我慢者，我不說波羅蜜清淨；於無慧者，我不說斷疑法；於嫉妬者，我不說心清淨；於無信根者，我不說總持法；於無德者，我不說善逝法；於貪親愛者，我不說身清淨；於不善律儀者，我不說謗佛有過失法；於妄言者，我不說語清淨；於我慢者，我不說恭敬法；於無識者，我不說修學法；於為身命者，我不說求於道法。",
-    "T12n0321_002:0007c24_8": "如是補特伽羅不應說法。」",
-    "T12n0321_002:0007c25_9": "時護國白言：「於意云何？」",
-    "T12n0321_002:0007c26_0": "佛言：「護國！",
-    "T12n0321_002:0007c26_1": "為此有情愚癡迷惑、心識顛倒、虛妄分別、不依法教，乃至天上人間不應為說。」",
-    "T12n0321_002:0007c28_2": "爾時，世尊而說頌曰：「不定諸有情，　　補特伽羅等，　我慢自貢高，　　貪著於利養，　恒行不律儀，　　深著於五欲，　增長諸煩惱，　　遠離佛菩提。",
-    "T12n0321_002:0008a04_0": "　退失於善法，　　懈怠不修習，　猶豫多散亂，　　於其戒法言，　而不生信受。",
-    "T12n0321_002:0008a06_1": "　　因為貧窮逼，　方便求出家，　　設得作苾芻，　輕捨於道法，　　如棄金寶擔，　荷負於麻擔。",
-    "T12n0321_002:0008a09_2": "　　雖欲入深山，　到彼寂靜處，　　無意樂修禪，　邪思而散亂，　　障礙於辯才，　沈沒大智慧，　　墜墮惡趣中。",
-    "T12n0321_002:0008a13_0": "　設復得人身，　　醜陋不具足，　懈怠性愚癡，　　不行眾善法。",
-    "T12n0321_002:0008a15_0": "　諸根常暗鈍，　　墮大嶮難中，　經彼俱胝劫，　　迷沒不解脫。",
-    "T12n0321_002:0008a17_0": "　若行邪利濟，　　得證佛菩提，　調達不正知，　　應成善逝果。",
-    "T12n0321_002:0008a19_0": "　若人貪利養，　　墜墮於眾生，　如空大風力，　　能墮諸飛鳥，　邪福勢盡時，　　其義亦如是。",
-    "T12n0321_002:0008a22_0": "　無信破戒者，　　見善如盲人，　譬如焚屍柴，　　不吉人嫌棄。",
-    "T12n0321_002:0008a24_0": "　雖復發善心，　　無彼廣大智，　謗法不信故，　　解脫非究竟。",
-    "T12n0321_002:0008a26_0": "　譬如畫無膠，　　莊嚴色不久，　我慢自貢高，　　其義亦如是。",
-    "T12n0321_002:0008a28_0": "　若求佛菩提，　　不惜於身命，　於法甚深言，　　勇猛勤習學。",
-    "T12n0321_002:0008b01_0": "　捨善行非法，　　所行增過失，　墮於大火坑。",
-    "T12n0321_002:0008b02_1": "　　若聞如是法，　依法而受行、　　斷除貪愛心、　修植眾德本，　　乃至於一句，　通達悉明了，　　如是積功德，　成就最上道，　　永離於愚盲。」",
-    "T12n0321_002:0008b07_0": "爾時，世尊說此頌已，告尊者護國言：「我於過去無量無邊不可說不可說阿僧祇劫，時有佛出世，號曰成義意如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。",
-    "T12n0321_002:0008b11_1": "「爾時，有大國王名曰發光，主閻浮提，其地廣闊一萬六千由旬，其中州城數滿二萬。",
-    "T12n0321_002:0008b13_0": "其發光王所居城邑名曰寶光，其城東西長十二由旬，南北闊七由旬，城有七重七寶所作。",
-    "T12n0321_002:0008b15_1": "彼王善行八正之道，種族豪盛有千俱胝，其國人民壽十俱胝歲。",
-    "T12n0321_002:0008b16_2": "「王有太子名曰福光，諸根具足，色相端嚴，殊妙第一。",
-    "T12n0321_002:0008b17_3": "太子生時，有千寶藏從地涌出——內有一藏現王殿前，滿中七寶，高七人量——復令一切眾生所作如意，乃至禁縛之者俱得解脫。",
-    "T12n0321_002:0008b20_4": "又，彼大子生得七日，一切伎藝、工巧、算術皆悉明了，乃至世、出世間一切事業無不通解。",
-    "T12n0321_002:0008b22_5": "「於夜分中有淨光天子來為說法，告太子言：『福光諦聽！",
-    "T12n0321_002:0008b23_6": "汝須息心，不應散亂，於諸塵境常當遠離。",
-    "T12n0321_002:0008b24_7": "晝夜思惟有為之法，當觀無常、壽命盡時誰是救者，於諸非法而生怖畏。』",
-    "T12n0321_002:0008b27_0": "佛說護國尊者所問大乘經卷第二"
-}
+[
+    {
+        "source_sentence": "佛說護國尊者所問經卷第二",
+        "from": "T12n0321_002:0005a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫試鴻臚卿",
+        "from": "T12n0321_002:0005a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "傳法大師臣施護奉　詔譯",
+        "from": "T12n0321_002:0005a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時，世尊告尊者護國言：",
+        "from": "T12n0321_002:0005a11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「有四種法，於諸菩薩而為縛法。",
+        "from": "T12n0321_002:0005a12_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「何等四法？",
+        "from": "T12n0321_002:0005a12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者、輕慢他人，二者、於世間事方便趣求，三者、散亂用心如行嶮難，四者、於其眷屬一心貪著。",
+        "from": "T12n0321_002:0005a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是四法為菩薩縛。",
+        "from": "T12n0321_002:0005a15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」復說頌曰：",
+        "from": "T12n0321_002:0005a15_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若行輕慢於他人、　　方便唯求世間事、",
+        "from": "T12n0321_002:0005a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "散亂如行嶮道中，　　如象陷身深泥裏；",
+        "from": "T12n0321_002:0005a17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於自眷屬生愛著，　　常懷貪戀如迷醉，",
+        "from": "T12n0321_002:0005a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是種種被纏縛，　　增長愚癡覆大智。",
+        "from": "T12n0321_002:0005a19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人怖苦厭生死，　　求出沈淪趣解脫，",
+        "from": "T12n0321_002:0005a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨於輕慢世間等，　　是名菩薩所行道。",
+        "from": "T12n0321_002:0005a21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "滅盡無邊諸苦已、　　及彼煩惱諸眷屬，",
+        "from": "T12n0321_002:0005a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "究竟安樂無所求，　　圓滿菩提寂靜道。",
+        "from": "T12n0321_002:0005a23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所行六種波羅蜜、　　三身、五智、十力等，",
+        "from": "T12n0321_002:0005a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切功德悉具足，　　如是永離無邊苦。",
+        "from": "T12n0321_002:0005a25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "過去修行無量劫，　　為眾生故求菩提，",
+        "from": "T12n0321_002:0005a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切眾善悉皆修，　　遠離諸惡眷屬等。",
+        "from": "T12n0321_002:0005a27_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "恒樂深山寂靜處，　　遠離聲色想真空，",
+        "from": "T12n0321_002:0005a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是精進不間修，　　獲大丈夫圓滿慧。",
+        "from": "T12n0321_002:0005a29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見彼世間眾生行，　　五趣輪迴無有窮，",
+        "from": "T12n0321_002:0005b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我於過去發慈心，　　捨自身命及妻子、",
+        "from": "T12n0321_002:0005b02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "國城、大地及珍寶，　　如是求佛無數劫。",
+        "from": "T12n0321_002:0005b03_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我昔居山行忍辱，　　花菓池沼悉清淨，",
+        "from": "T12n0321_002:0005b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "歌利王來截手足，　　心生慈忍無瞋恚。",
+        "from": "T12n0321_002:0005b05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔住深山名闍摩，　　我為仙人婆囉多，",
+        "from": "T12n0321_002:0005b06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時有天子射我身，　　亦無瞋恨生其惡，",
+        "from": "T12n0321_002:0005b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不惜身命如頑石，　　志求菩提心不退。",
+        "from": "T12n0321_002:0005b08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我昔曾為薩埵時，　　見彼餓虎欲食子，",
+        "from": "T12n0321_002:0005b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "投崖捨命濟彼飢，　　天人稱讚大精進，",
+        "from": "T12n0321_002:0005b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常樂布施救眾生，　　不悋身命及財寶。",
+        "from": "T12n0321_002:0005b11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我昔曾為摩曩縛，　　廣行布施盡寶海，",
+        "from": "T12n0321_002:0005b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨大摩尼令富他，　　如是求證菩提果。",
+        "from": "T12n0321_002:0005b13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "往昔作大蘇摩王，　　名稱普聞我修行，",
+        "from": "T12n0321_002:0005b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時入縛為他人，　　於彼百王得解脫。",
+        "from": "T12n0321_002:0005b15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我昔曾為能捨王，　　一切所求皆充足，",
+        "from": "T12n0321_002:0005b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至身命及珍財，　　令他大富離貧苦。",
+        "from": "T12n0321_002:0005b17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔有飛鴿來投我，　　即割身肉濟彼命，",
+        "from": "T12n0321_002:0005b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是持刀割肉時，　　無驚無怖心安隱。",
+        "from": "T12n0321_002:0005b19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦於過去捨王位，　　盡世行彼波羅蜜，",
+        "from": "T12n0321_002:0005b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復自化身為妙藥，　　捨己身命濟群品。",
+        "from": "T12n0321_002:0005b21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為師子王，　　常為世間行利樂，",
+        "from": "T12n0321_002:0005b22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "棄捨王位及眷屬，　　一心志求無上道。",
+        "from": "T12n0321_002:0005b23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為妙牙王，　　當時獲壽於千歲，",
+        "from": "T12n0321_002:0005b24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八十四年修苦行，　　發大精進施珍財，",
+        "from": "T12n0321_002:0005b25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於佛塔前燃己身，　　志心恭敬作供養。",
+        "from": "T12n0321_002:0005b26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為無垢王，　　時有惡眼婆羅門，",
+        "from": "T12n0321_002:0005b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "來詣深宮乞我頭，　　即便捨頭而施與。",
+        "from": "T12n0321_002:0005b28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為月光王，　　普救眾生作善利，",
+        "from": "T12n0321_002:0005b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切城隍聚落中，　　四衢道路施良藥。",
+        "from": "T12n0321_002:0005c01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "千女端嚴妙色相，　　金寶、真珠廣莊嚴，",
+        "from": "T12n0321_002:0005c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨彼千女自修行，　　如是所作福無等。",
+        "from": "T12n0321_002:0005c03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為輸婆王，　　所戴寶冠世希有，",
+        "from": "T12n0321_002:0005c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "香花、眾寶共莊嚴，　　捨施他人無所悋。",
+        "from": "T12n0321_002:0005c05_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為寶髻王，　　手足柔軟如兜羅，",
+        "from": "T12n0321_002:0005c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "細滑微妙色如蓮，　　捨自手足利眾生。",
+        "from": "T12n0321_002:0005c07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為安意王，　　時有商主名星賀，",
+        "from": "T12n0321_002:0005c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "領諸商客泛海中，　　忽然漂墮羅剎國。",
+        "from": "T12n0321_002:0005c09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼有百千夜叉女，　　無慚大惡唯食人，",
+        "from": "T12n0321_002:0005c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "商客不識夜叉女，　　見此端正生愛心，",
+        "from": "T12n0321_002:0005c11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五百商旅將被食，　　我親救度俱脫難。",
+        "from": "T12n0321_002:0005c12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為妙眼王，　　四兆女人常圍繞，",
+        "from": "T12n0321_002:0005c13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "端正殊妙如天女，　　捨彼出家求佛道。",
+        "from": "T12n0321_002:0005c14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為福光王，　　無垢清淨黃金色，",
+        "from": "T12n0321_002:0005c15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手指纖長世所希，　　捨此手指利群品。",
+        "from": "T12n0321_002:0005c16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為法財王，　　紺目清淨如青蓮，",
+        "from": "T12n0321_002:0005c17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於身所愛最難捨，　　人來求者亦與之。",
+        "from": "T12n0321_002:0005c18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為蓮目王，　　愍見眾生在苦惱，",
+        "from": "T12n0321_002:0005c19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時有女人懷憂病，　　我行悲愍令解脫。",
+        "from": "T12n0321_002:0005c20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為大醫王，　　常救病苦諸眾生，",
+        "from": "T12n0321_002:0005c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或出身血、及髓、腦，　　救療疾病令除愈，",
+        "from": "T12n0321_002:0005c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是勇猛精進心，　　未曾暫捨於情物。",
+        "from": "T12n0321_002:0005c23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為成利王，　　以自所愛如蓮目，",
+        "from": "T12n0321_002:0005c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "施諸眾生療彼疾，　　一心為求無上道。",
+        "from": "T12n0321_002:0005c25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔為王名普現，　　慈愍有情行救度，",
+        "from": "T12n0321_002:0005c26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時捨彼四大洲、　　國土、人民及眾寶、",
+        "from": "T12n0321_002:0005c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至割身血肉等，　　施與眾生心歡喜。",
+        "from": "T12n0321_002:0005c28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又為王女稱大智，　　身嚴金色體柔軟，",
+        "from": "T12n0321_002:0005c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時有一女名色相，　　此是商人所生女，",
+        "from": "T12n0321_002:0006a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "飢羸困苦無飲食，　　我捨雙乳濟彼命。",
+        "from": "T12n0321_002:0006a02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔為王號多聞，　　所有珍寶、妙衣服、",
+        "from": "T12n0321_002:0006a03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "象、馬、車乘、財帛等，　　如是布施無有數。",
+        "from": "T12n0321_002:0006a04_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復見商人漂海浪，　　我於海內救得彼，",
+        "from": "T12n0321_002:0006a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "背恩復乞我眼睛，　　我亦施之無瞋恚。",
+        "from": "T12n0321_002:0006a06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "棄捨大地諸眷屬，　　觀彼不著如蟻子，",
+        "from": "T12n0321_002:0006a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是往昔濟群生，　　心無退動生疲苦。",
+        "from": "T12n0321_002:0006a08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復覩孤老貧窮人，　　給足所須而承事，",
+        "from": "T12n0321_002:0006a09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "恒行敬愛無慢心，　　亦無慚𧹞、無人我。",
+        "from": "T12n0321_002:0006a10_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾作猿猴身，　　與彼同類共遊行，",
+        "from": "T12n0321_002:0006a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時遇獵師縛彼身，　　我即替他令脫命。",
+        "from": "T12n0321_002:0006a12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是以我奉國王，　　王令後宮縻繫我，",
+        "from": "T12n0321_002:0006a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "思念父母年孤老，　　所有飲饌無心食，",
+        "from": "T12n0321_002:0006a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是忍苦懷慈孝，　　是故得脫王宮難。",
+        "from": "T12n0321_002:0006a15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾作大熊身，　　常處深山行慈忍，",
+        "from": "T12n0321_002:0006a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忽逢樵士遭大雨，　　引彼山巖令迴避。",
+        "from": "T12n0321_002:0006a17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "過是七日至天晴，　　告彼樵人：",
+        "from": "T12n0321_002:0006a18_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『莫說我。",
+        "from": "T12n0321_002:0006a18_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時樵士安隱歸，　　招引獵師來殺害，",
+        "from": "T12n0321_002:0006a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是背恩殺我身，　　亦無瞋恨生慈忍。",
+        "from": "T12n0321_002:0006a20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為白象王，　　求佛菩提行十善，",
+        "from": "T12n0321_002:0006a21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時有獵師射我身，　　我即捨牙心歡喜。",
+        "from": "T12n0321_002:0006a22_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔有惡人帝哩子，　　以火焚燒大山野，",
+        "from": "T12n0321_002:0006a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我見此火運慈心，　　天雨香花火自滅。",
+        "from": "T12n0321_002:0006a24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾為大鹿王，　　金寶莊嚴體殊妙，",
+        "from": "T12n0321_002:0006a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "入彼河中救溺人，　　令得安隱全身命。",
+        "from": "T12n0321_002:0006a26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "告言：",
+        "from": "T12n0321_002:0006a27_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『勿說我居山，　　恐彼惡人來獵我。",
+        "from": "T12n0321_002:0006a27_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時彼溺人背其恩，　　指告國王令採捕，",
+        "from": "T12n0321_002:0006a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "指已兩手俱墮地，　　我時無有少瞋恚。",
+        "from": "T12n0321_002:0006a29_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔有五百商人眾，　　為求珍寶泛海中，",
+        "from": "T12n0321_002:0006b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "商主所有資糧竭，　　商眾飢羸無飲食。",
+        "from": "T12n0321_002:0006b02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是時我作大龜王，　　捨身濟彼商人命，",
+        "from": "T12n0321_002:0006b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以我慈心利他故，　　俱得安然到海岸。",
+        "from": "T12n0321_002:0006b04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我昔變身為藥蟲，　　此蟲名曰俱蘇摩，",
+        "from": "T12n0321_002:0006b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切疾病食我身，　　俱獲安隱無諸患。",
+        "from": "T12n0321_002:0006b06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我昔復為師子王，　　大力無畏行慈愍，",
+        "from": "T12n0321_002:0006b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有大獵師射我身，　　亦無瞋恨、無忿怒。",
+        "from": "T12n0321_002:0006b08_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我昔亦作白馬王，　　常行菩薩慈悲行，",
+        "from": "T12n0321_002:0006b09_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "救彼商人羅剎難，　　擔負眾人出海中。",
+        "from": "T12n0321_002:0006b10_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "昔作飛鳥軍拏羅，　　遠離色欲無散亂，",
+        "from": "T12n0321_002:0006b11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "令彼同類眾飛禽，　　亦復而行清淨行。",
+        "from": "T12n0321_002:0006b12_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔因中作兔王，　　與諸群兔宣法行，",
+        "from": "T12n0321_002:0006b13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見一仙人飢無食，　　即捨自身濟彼命。",
+        "from": "T12n0321_002:0006b14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔曾作鸚鵡身，　　常居花菓樹林中，",
+        "from": "T12n0321_002:0006b15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時有惡人毀此林，　　以我力故復繁盛。",
+        "from": "T12n0321_002:0006b16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔復作獼猴王，　　與眾獼猴而遊行，",
+        "from": "T12n0321_002:0006b17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時有國王來採捕，　　我救彼難現王前。",
+        "from": "T12n0321_002:0006b18_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又昔復為鸚鵡身，　　父母俱老無力飛，",
+        "from": "T12n0321_002:0006b19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我於田中㘅稻穀，　　養育二親行孝敬。",
+        "from": "T12n0321_002:0006b20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於是田主懷瞋怒，　　捉彼鸚鵡而訶責：",
+        "from": "T12n0321_002:0006b21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『云何偷於我稻穀？",
+        "from": "T12n0321_002:0006b22_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　此時須見汝捨命。",
+        "from": "T12n0321_002:0006b22_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』鸚鵡告彼田主言：",
+        "from": "T12n0321_002:0006b23_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　『汝所種田濟一切，我持少分供二親。",
+        "from": "T12n0321_002:0006b24_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　汝何言我為偷盜？",
+        "from": "T12n0321_002:0006b24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』爾時田主聞是語，　　倍與稻穀生歡喜：",
+        "from": "T12n0321_002:0006b25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我作禽類汝為人，　　如是孝養未曾有。",
+        "from": "T12n0321_002:0006b26_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "往昔所行菩薩行，　　經歷無數微塵劫，",
+        "from": "T12n0321_002:0006b27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "求趣佛果大菩提，　　未有少時生疲倦。",
+        "from": "T12n0321_002:0006b28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是捨施內外財、　　國城、妻子及珠珍、",
+        "from": "T12n0321_002:0006b29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頭、目、髓、腦及身命，　　持戒、忍辱、精進、禪、",
+        "from": "T12n0321_002:0006c01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "智慧方便願力等，　　如是諸度廣修習，",
+        "from": "T12n0321_002:0006c02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未曾暫廢菩薩行，　　一切眾善悉無遺。",
+        "from": "T12n0321_002:0006c03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如佛所說頭陀行，　　彼行亦為趣佛因，",
+        "from": "T12n0321_002:0006c04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是一一盡修習，　　精進而行無缺犯。",
+        "from": "T12n0321_002:0006c05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於後末世諸眾生，　　雖作苾芻無僧行，",
+        "from": "T12n0321_002:0006c06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常生我慢、懈怠心，　　貪著聲色及財利，",
+        "from": "T12n0321_002:0006c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞此大行勝妙因，　　返生誹謗不信受，",
+        "from": "T12n0321_002:0006c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "輕笑言教告諸人：",
+        "from": "T12n0321_002:0006c09_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　『此之所說非佛教。",
+        "from": "T12n0321_002:0006c09_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我聞過去有一人，　　多聞學識立名海，",
+        "from": "T12n0321_002:0006c10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞佛所說不信受，　　以此法言問本師。",
+        "from": "T12n0321_002:0006c11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼師耆年亦多聞，　　於此佛言亦不信，",
+        "from": "T12n0321_002:0006c12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "展轉如是告他人：",
+        "from": "T12n0321_002:0006c13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　『無我、無人、無眾生，此法非為真實教。",
+        "from": "T12n0321_002:0006c14_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "　　虛受勤勞求出離，設爾持戒學威儀，　　如是修習何所為？",
+        "from": "T12n0321_002:0006c15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "既無眾生、無我、人，　　父母、宗親亦不有，",
+        "from": "T12n0321_002:0006c16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "此是邪見外道言，　　非是真實解脫法。",
+        "from": "T12n0321_002:0006c17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復次末世諸苾芻，　　而造諸過無慚愧，",
+        "from": "T12n0321_002:0006c18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我慢、貢高心散亂，　　憎嫉、貪愛如火燒。",
+        "from": "T12n0321_002:0006c19_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三衣不整垂手行，　　拖拽袈裟入聚落，",
+        "from": "T12n0321_002:0006c20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "縱情放逸而飲酒，　　種種而行麁惡行。",
+        "from": "T12n0321_002:0006c21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "身被法服為佛使，　　不依戒律近王侯，",
+        "from": "T12n0321_002:0006c22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "馳騁書信往四方，　　恃官勢力求財利，",
+        "from": "T12n0321_002:0006c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "退失如來功德林，　　墮彼三塗諸惡趣。",
+        "from": "T12n0321_002:0006c24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有經營於市肆、　　或有耕種住村坊，",
+        "from": "T12n0321_002:0006c25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛言：",
+        "from": "T12n0321_002:0006c26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『此類非沙門，　　清淨苾芻勿同事。",
+        "from": "T12n0321_002:0006c26_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常住供養財物等，　　如己所有非法用，",
+        "from": "T12n0321_002:0006c27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "見有具德諸苾芻，　　而起慢心行誹謗，",
+        "from": "T12n0321_002:0006c28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "罔昧賢善破律儀，　　密於俗舍染邪行，",
+        "from": "T12n0321_002:0006c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "畜養妻男種種為，　　恣行麁惡俗無異。",
+        "from": "T12n0321_002:0007a01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是廣造惡業因，　　非是沙門出家行，",
+        "from": "T12n0321_002:0007a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當墮三塗惡趣中，　　永劫沈淪受眾苦。",
+        "from": "T12n0321_002:0007a03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於自諸根不調伏，　　貪著飲食及色欲，",
+        "from": "T12n0321_002:0007a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常被他人生輕賤，　　所學徒弟亦復然。",
+        "from": "T12n0321_002:0007a05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "未曾誨示修行法，　　亦無師資恭敬心，",
+        "from": "T12n0321_002:0007a06_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人前談己為慈悲，　　非要學徒行承事。",
+        "from": "T12n0321_002:0007a07_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或有風瘨及癩病、　　六根不具醜惡人，",
+        "from": "T12n0321_002:0007a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是攝受令出家，　　亦非沙門佛弟子。",
+        "from": "T12n0321_002:0007a09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無戒、無行、無其德，　　彼等非俗、非沙門，",
+        "from": "T12n0321_002:0007a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如負柴燒臭屍，　　清淨之者宜遠離。",
+        "from": "T12n0321_002:0007a11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "性本囂浮多散亂，　　亦如狂象失調伏，",
+        "from": "T12n0321_002:0007a12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設處深山心不寧，　　貪火焚燒無暫住。",
+        "from": "T12n0321_002:0007a13_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "忘失一切佛功德、　　方便、智慧、頭陀行，",
+        "from": "T12n0321_002:0007a14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是諸善悉不行，　　墮大阿鼻無有出。",
+        "from": "T12n0321_002:0007a15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常談國城聚落中，　　官事、賊事、眷屬事，",
+        "from": "T12n0321_002:0007a16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是晝夜恒思惟，　　未曾時暫行三昧。",
+        "from": "T12n0321_002:0007a17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復於精舍起貪心，　　廣修院宇及房屋，",
+        "from": "T12n0321_002:0007a18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "全無持誦及焚修，　　但為眷屬兼徒弟。",
+        "from": "T12n0321_002:0007a19_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有苾芻依附我，　　我即與汝同居止；",
+        "from": "T12n0321_002:0007a20_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若欲持戒奉律儀，　　非我所為須遠離。",
+        "from": "T12n0321_002:0007a21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有臥具、床榻等、　　什物受用及飲食，",
+        "from": "T12n0321_002:0007a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "藏隱深房映蔽之，　　言：",
+        "from": "T12n0321_002:0007a23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『無所有。",
+        "from": "T12n0321_002:0007a23_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』令他去，如是末世愚癡人，　　令佛教法不久滅。",
+        "from": "T12n0321_002:0007a24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貪求利養斷善根，　　此等苾芻極甚多，",
+        "from": "T12n0321_002:0007a25_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有清淨智慧者，　　遠離彼等住深山。",
+        "from": "T12n0321_002:0007a26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "末法苾芻無戒德，　　不樂深山寂靜居，",
+        "from": "T12n0321_002:0007a27_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常處王城聚落中，　　唯務是非及鬪諍，",
+        "from": "T12n0321_002:0007a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "反為王法所禁制、　　叱訶、驅擯、受慚恥；",
+        "from": "T12n0321_002:0007a29_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸佛法教功德海，　　因此破戒悉枯竭。",
+        "from": "T12n0321_002:0007b01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如寶海水清淨，　　或被淤泥而渾濁；",
+        "from": "T12n0321_002:0007b02_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "亦如蓮花滿池開，　　或被狂風而摧壞；",
+        "from": "T12n0321_002:0007b03_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是末法破戒人，　　損減佛教亦如是。",
+        "from": "T12n0321_002:0007b04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有淨修梵行者，　　逢斯惡友常遠離，",
+        "from": "T12n0321_002:0007b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼人命盡墮阿鼻，　　受苦百千無數劫。",
+        "from": "T12n0321_002:0007b06_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "從此地獄受罪已，　　或生畜趣或為人，",
+        "from": "T12n0321_002:0007b07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "貧窮、下賤及聾、啞、　　眇目、矬陋、多疾病、",
+        "from": "T12n0321_002:0007b08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "手足諸根不完具，　　見者悉皆生驚怖。",
+        "from": "T12n0321_002:0007b09_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無信、無行、無善根，　　晝夜飢寒常憂苦，",
+        "from": "T12n0321_002:0007b10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復被眾人生瞋恨，　　以其瓦石而捶打。",
+        "from": "T12n0321_002:0007b11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是三苦常纏縛，　　一切罪業應遠離，",
+        "from": "T12n0321_002:0007b12_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "常須親近佛、法、僧，　　淨持戒律、頭陀行。",
+        "from": "T12n0321_002:0007b13_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是名利并眷屬，　　如幻、如化、如影像，",
+        "from": "T12n0321_002:0007b14_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有為之法暫時間，　　不久乖離即散壞。",
+        "from": "T12n0321_002:0007b15_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯有無上佛菩提，　　妙地十力波羅蜜，",
+        "from": "T12n0321_002:0007b16_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "堅固修習勿生疑，　　未來究竟大安樂。",
+        "from": "T12n0321_002:0007b17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，世尊說此頌已，告尊者護國言：",
+        "from": "T12n0321_002:0007b18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「若有補特伽羅於菩薩乘不依法行，有是過失者當得不依法者而來敬愛，懈怠者得懈怠人敬愛、無智者得無智人敬愛。",
+        "from": "T12n0321_002:0007b21_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是，互相敬愛、貪著利養、嫉妬貴族、懈怠狂亂、綺語兩舌、諂佞他人、虛誑父母及自師長。",
+        "from": "T12n0321_002:0007b23_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「或入王城及諸聚落，不為利益眾生化諸群品，一向妄言：",
+        "from": "T12n0321_002:0007b25_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我是大智，多聞博識。",
+        "from": "T12n0321_002:0007b25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』誑惑有情，唯求財利，輕棄善法都無所獲，猶如破器無堪貯用。",
+        "from": "T12n0321_002:0007b26_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於彼眾人多生怨惡，聽信邪言，虛妄推度，是法說非、非法說是，於佛正法無心愛樂。",
+        "from": "T12n0321_002:0007b28_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "生於下族貧賤之家，為見少利來投佛法，希求出家及得為僧，行非梵行，於佛法教全無所成，何況大智？",
+        "from": "T12n0321_002:0007c02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛告尊者：",
+        "from": "T12n0321_002:0007c02_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「如是補特伽羅不應說法。",
+        "from": "T12n0321_002:0007c03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "人天之善尚不能續，何況菩提而得成就？",
+        "from": "T12n0321_002:0007c04_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，世尊復告尊者護國言：",
+        "from": "T12n0321_002:0007c05_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「有八種補特伽羅遠離菩提，不得為說殊妙之法。",
+        "from": "T12n0321_002:0007c06_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」護國白言：",
+        "from": "T12n0321_002:0007c07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「何等八種補特伽羅？",
+        "from": "T12n0321_002:0007c07_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "唯願說之。",
+        "from": "T12n0321_002:0007c07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T12n0321_002:0007c07_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「一者、蔑戾車處於彼受生；",
+        "from": "T12n0321_002:0007c08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者、貧窮之家於彼受生；",
+        "from": "T12n0321_002:0007c09_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者、下賤之家於彼受生；",
+        "from": "T12n0321_002:0007c09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "四者、縱得人身，醜陋、癡鈍；",
+        "from": "T12n0321_002:0007c10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "五者、具足蓋纏，身心憂慼；",
+        "from": "T12n0321_002:0007c10_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "六者、棄背賢善、親近惡友；",
+        "from": "T12n0321_002:0007c11_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "七者、長有疾病，身體尫羸；",
+        "from": "T12n0321_002:0007c12_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "八者、眾苦逼迫，直至命終。",
+        "from": "T12n0321_002:0007c12_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是八種補特伽羅遠離菩提，不得說法。",
+        "from": "T12n0321_002:0007c13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」於是護國復白佛言：",
+        "from": "T12n0321_002:0007c14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「不應說法更有何義？",
+        "from": "T12n0321_002:0007c14_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T12n0321_002:0007c14_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「護國！",
+        "from": "T12n0321_002:0007c14_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有補特伽羅無決定者，我不說菩提；",
+        "from": "T12n0321_002:0007c15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於虛妄者，我不說清淨行；",
+        "from": "T12n0321_002:0007c16_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於懈怠者，我不說菩薩行；",
+        "from": "T12n0321_002:0007c16_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於慳悋者，我不說供佛行；",
+        "from": "T12n0321_002:0007c17_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於我慢者，我不說波羅蜜清淨；",
+        "from": "T12n0321_002:0007c18_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於無慧者，我不說斷疑法；",
+        "from": "T12n0321_002:0007c18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於嫉妬者，我不說心清淨；",
+        "from": "T12n0321_002:0007c19_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於無信根者，我不說總持法；",
+        "from": "T12n0321_002:0007c20_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於無德者，我不說善逝法；",
+        "from": "T12n0321_002:0007c20_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於貪親愛者，我不說身清淨；",
+        "from": "T12n0321_002:0007c21_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於不善律儀者，我不說謗佛有過失法；",
+        "from": "T12n0321_002:0007c22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於妄言者，我不說語清淨；",
+        "from": "T12n0321_002:0007c22_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於我慢者，我不說恭敬法；",
+        "from": "T12n0321_002:0007c23_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於無識者，我不說修學法；",
+        "from": "T12n0321_002:0007c24_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於為身命者，我不說求於道法。",
+        "from": "T12n0321_002:0007c24_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是補特伽羅不應說法。",
+        "from": "T12n0321_002:0007c25_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」時護國白言：",
+        "from": "T12n0321_002:0007c25_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「於意云何？",
+        "from": "T12n0321_002:0007c25_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T12n0321_002:0007c26_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「護國！",
+        "from": "T12n0321_002:0007c26_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為此有情愚癡迷惑、心識顛倒、虛妄分別、不依法教，乃至天上人間不應為說。",
+        "from": "T12n0321_002:0007c28_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，世尊而說頌曰：",
+        "from": "T12n0321_002:0007c28_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「不定諸有情，　　補特伽羅等，",
+        "from": "T12n0321_002:0007c29_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我慢自貢高，　　貪著於利養，",
+        "from": "T12n0321_002:0008a01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "恒行不律儀，　　深著於五欲，",
+        "from": "T12n0321_002:0008a02_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "增長諸煩惱，　　遠離佛菩提。",
+        "from": "T12n0321_002:0008a03_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "退失於善法，　　懈怠不修習，",
+        "from": "T12n0321_002:0008a04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "猶豫多散亂，　　於其戒法言，",
+        "from": "T12n0321_002:0008a05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "而不生信受。",
+        "from": "T12n0321_002:0008a06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "方便求出家，　　設得作苾芻，",
+        "from": "T12n0321_002:0008a07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "輕捨於道法，　　如棄金寶擔，",
+        "from": "T12n0321_002:0008a08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "荷負於麻擔。",
+        "from": "T12n0321_002:0008a09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "到彼寂靜處，　　無意樂修禪，",
+        "from": "T12n0321_002:0008a10_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邪思而散亂，　　障礙於辯才，",
+        "from": "T12n0321_002:0008a11_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "沈沒大智慧，　　墜墮惡趣中。",
+        "from": "T12n0321_002:0008a12_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "設復得人身，　　醜陋不具足，",
+        "from": "T12n0321_002:0008a13_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "懈怠性愚癡，　　不行眾善法。",
+        "from": "T12n0321_002:0008a14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "諸根常暗鈍，　　墮大嶮難中，",
+        "from": "T12n0321_002:0008a15_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "經彼俱胝劫，　　迷沒不解脫。",
+        "from": "T12n0321_002:0008a16_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若行邪利濟，　　得證佛菩提，",
+        "from": "T12n0321_002:0008a17_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "調達不正知，　　應成善逝果。",
+        "from": "T12n0321_002:0008a18_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若人貪利養，　　墜墮於眾生，",
+        "from": "T12n0321_002:0008a19_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如空大風力，　　能墮諸飛鳥，",
+        "from": "T12n0321_002:0008a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "邪福勢盡時，　　其義亦如是。",
+        "from": "T12n0321_002:0008a21_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "無信破戒者，　　見善如盲人，",
+        "from": "T12n0321_002:0008a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如焚屍柴，　　不吉人嫌棄。",
+        "from": "T12n0321_002:0008a23_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "雖復發善心，　　無彼廣大智，",
+        "from": "T12n0321_002:0008a24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "謗法不信故，　　解脫非究竟。",
+        "from": "T12n0321_002:0008a25_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如畫無膠，　　莊嚴色不久，",
+        "from": "T12n0321_002:0008a26_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我慢自貢高，　　其義亦如是。",
+        "from": "T12n0321_002:0008a27_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若求佛菩提，　　不惜於身命，",
+        "from": "T12n0321_002:0008a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於法甚深言，　　勇猛勤習學。",
+        "from": "T12n0321_002:0008a29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捨善行非法，　　所行增過失，",
+        "from": "T12n0321_002:0008b01_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "墮於大火坑。",
+        "from": "T12n0321_002:0008b02_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "依法而受行、　　斷除貪愛心、",
+        "from": "T12n0321_002:0008b03_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "修植眾德本，　　乃至於一句，",
+        "from": "T12n0321_002:0008b04_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "通達悉明了，　　如是積功德，",
+        "from": "T12n0321_002:0008b05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "成就最上道，　　永離於愚盲。",
+        "from": "T12n0321_002:0008b06_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」爾時，世尊說此頌已，告尊者護國言：",
+        "from": "T12n0321_002:0008b07_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「我於過去無量無邊不可說不可說阿僧祇劫，時有佛出世，號曰成義意如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。",
+        "from": "T12n0321_002:0008b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「爾時，有大國王名曰發光，主閻浮提，其地廣闊一萬六千由旬，其中州城數滿二萬。",
+        "from": "T12n0321_002:0008b12_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其發光王所居城邑名曰寶光，其城東西長十二由旬，南北闊七由旬，城有七重七寶所作。",
+        "from": "T12n0321_002:0008b15_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "彼王善行八正之道，種族豪盛有千俱胝，其國人民壽十俱胝歲。",
+        "from": "T12n0321_002:0008b16_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「王有太子名曰福光，諸根具足，色相端嚴，殊妙第一。",
+        "from": "T12n0321_002:0008b17_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "太子生時，有千寶藏從地涌出——內有一藏現王殿前，滿中七寶，高七人量——復令一切眾生所作如意，乃至禁縛之者俱得解脫。",
+        "from": "T12n0321_002:0008b20_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "又，彼大子生得七日，一切伎藝、工巧、算術皆悉明了，乃至世、出世間一切事業無不通解。",
+        "from": "T12n0321_002:0008b22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「於夜分中有淨光天子來為說法，告太子言：",
+        "from": "T12n0321_002:0008b23_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『福光諦聽！",
+        "from": "T12n0321_002:0008b23_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝須息心，不應散亂，於諸塵境常當遠離。",
+        "from": "T12n0321_002:0008b24_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "晝夜思惟有為之法，當觀無常、壽命盡時誰是救者，於諸非法而生怖畏。",
+        "from": "T12n0321_002:0008b26_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』佛說護國尊者所問大乘經卷第二",
+        "from": "T12n0321_002:0008b27_100",
+        "context_with_next_sentence": false
+    }
+]

@@ -1,89 +1,437 @@
-{
-    "T20n1036_001:0018b18_0": "千轉大明陀羅尼經",
-    "T20n1036_001:0018b20_0": "西天譯經三藏朝散大夫試鴻臚少卿",
-    "T20n1036_001:0018b21_0": "傳法大師臣施護奉　詔譯",
-    "T20n1036_001:0018b22_0": "如是我聞。",
-    "T20n1036_001:0018b22_1": "一時世尊在忉利天中波利質多羅樹下。",
-    "T20n1036_001:0018b23_2": "爾時帝釋天主。",
-    "T20n1036_001:0018b23_3": "及與一切天人軍眾。",
-    "T20n1036_001:0018b24_0": "前後圍繞來詣佛所。",
-    "T20n1036_001:0018b24_1": "各各至誠合掌歸依。",
-    "T20n1036_001:0018b24_2": "瞻仰如來次第而住。",
-    "T20n1036_001:0018b26_0": "爾時帝釋天主前白佛言。",
-    "T20n1036_001:0018b26_1": "世尊我有陀羅尼名千轉大明。",
-    "T20n1036_001:0018b27_2": "是陀羅尼於諸世間。",
-    "T20n1036_001:0018b27_3": "為大饒益。",
-    "T20n1036_001:0018b28_0": "所有一切天龍夜叉餓鬼鳩槃茶等乃至人非人等。",
-    "T20n1036_001:0018b29_1": "聞此陀羅尼者。",
-    "T20n1036_001:0018b29_2": "悉皆降伏於諸眾生。",
-    "T20n1036_001:0018b29_3": "所有一切不饒益事悉皆除殄。",
-    "T20n1036_001:0018c01_4": "惟願世尊大慈大悲許我宣說。",
-    "T20n1036_001:0018c02_5": "佛言天主善哉善哉。",
-    "T20n1036_001:0018c02_6": "如汝所說彼大千轉大明陀羅尼。",
-    "T20n1036_001:0018c03_7": "能於世間作大饒益。",
-    "T20n1036_001:0018c04_8": "汝欲說者當隨汝意。",
-    "T20n1036_001:0018c04_9": "爾時帝釋天主。",
-    "T20n1036_001:0018c04_10": "即說千轉大明陀羅尼曰。",
-    "T20n1036_001:0018c06_0": "怛儞也(二合)他(引一)曩呬怛寫婆帝(引二)婆誐嚩覩(引三)三野體難野過覩(引四)一切部多聞此所說。",
-    "T20n1036_001:0018c08_1": "驚怖迷悶狂惑退散。",
-    "T20n1036_001:0018c08_2": "寶賢夜叉主及輪成就等現眾色像。",
-    "T20n1036_001:0018c09_3": "使諸部多諸鬼神等及彼遊方空行起屍瘧病諸惡鬼等。",
-    "T20n1036_001:0018c11_4": "乃至一切行毒根本邪法。",
-    "T20n1036_001:0018c11_5": "惱害眾生不饒益事。",
-    "T20n1036_001:0018c12_6": "悉皆解脫。",
-    "T20n1036_001:0018c13_0": "阿曩(引)鉢帝(引一)烏播曩(引)鉢帝(引二)盎誐商迦哩(引三)儗哩(二合)恨拏(二合)哩(引)娑嚩(二合引)賀(引四)曩謨(引)沒馱(引)野曩謨(引)達哩摩(二合引)野曩謨(引)僧伽(引)野(五)曩謨(引)阿(引)哩野(二合引)嚩路枳帝(引)濕嚩(二合)囉(引)野(六)冐地(引)薩埵(引)野(七)摩賀(引)薩埵(引)野(八)摩賀(引)迦(引)嚕尼迦(引)野(九)曩謨(引)阿(引)哩野(二合)摩賀(引)薩瑳(二合引)摩波囉(二合引)鉢多(二合引)野(十)怛儞也(二合)他(引十一)目訖帝(二合引)尾目訖帝(二合引十二)鼻(引)那儞(引)尾鼻(引)那儞(引十三)儞哩摩(二合)隸(引十四)尾摩隸(引十五)穌目契(引)尾目契(引十六)瞢誐隸(引)穌瞢誐隷(十七)一切王怖解脫。",
-    "T20n1036_001:0018c24_1": "一切星曜變怪怖解脫。",
-    "T20n1036_001:0018c24_2": "一切自他軍眾鬪戰怖解脫。",
-    "T20n1036_001:0018c25_3": "一切兵仗怖解脫。",
-    "T20n1036_001:0018c25_4": "一切水火漂焚怖解脫。",
-    "T20n1036_001:0018c26_5": "一切惡病苦惱怖解脫。",
-    "T20n1036_001:0018c27_0": "一切毒惡傷害怖解脫。",
-    "T20n1036_001:0018c27_1": "師子怖象怖。",
-    "T20n1036_001:0018c27_2": "熊怖虎怖。",
-    "T20n1036_001:0018c28_3": "一切惡獸等怖。",
-    "T20n1036_001:0018c28_4": "大海漂溺怖深山閴寂怖。",
-    "T20n1036_001:0018c29_0": "乃至諸水灘難怖。",
-    "T20n1036_001:0018c29_1": "如是諸怖悉皆解脫。",
-    "T20n1036_001:0019a01_0": "曩謨娑(引)訖哩(二合引一)商迦致(引)商迦致(引二)迦嚕(引)致(引)迦嚕致(引)儞曳(引)娑嚩(二合引)賀(引三)入王宮時見大臣。",
-    "T20n1036_001:0019a03_1": "時行軍中時逢怨對。",
-    "T20n1036_001:0019a03_2": "時見毒蛇毒龍。",
-    "T20n1036_001:0019a04_3": "時遇夜叉毘舍遮羅剎烏鉢娑摩(二合引)囉所魅時。",
-    "T20n1036_001:0019a05_4": "乃至山海險難中時。",
-    "T20n1036_001:0019a05_5": "如是怖畏悉皆解脫。",
-    "T20n1036_001:0019a07_0": "曩謨(引)怛囉(二合引)赧婆嚩室羅(二合引)野赧(一)呬隷呬隷(二)唧隷唧隷(三)迦(引)播隷(四)摩(引)鄧霓娑嚩(二合引)賀(引五)又復王法所執或被枷鎖杻械牢固其身。",
-    "T20n1036_001:0019a10_1": "一切枉橫憂苦逼切悉皆解脫。",
-    "T20n1036_001:0019a12_0": "曩謨(引)多(引)哩(引)多(引)哩(引一)烏哆(引)哩(引二)覩哩(引)娑嚩(二合引)賀(引三)又復星曜所持。",
-    "T20n1036_001:0019a14_1": "或惡夢變怪致諸病苦夭枉至死。",
-    "T20n1036_001:0019a15_2": "乃至鬪諍論理互相恐逼。",
-    "T20n1036_001:0019a15_3": "如是諸怖悉皆解脫。",
-    "T20n1036_001:0019a17_0": "曩謨(引)左囉左囉(一)娑囉娑囉(二)尾娑囉尾娑囉(三)沒馱野(二合)沒馱野(二合四)冐(引)馱(引)野彌底娑嚩(二合引)賀(五)洛乞叉(二合)洛乞叉(二合)[牟*含](六)薩哩嚩(二合)薩怛嚩(二合引)喃(引)左娑嚩(二合引)賀(引七)阿(引)哩野(二合)室哩(二合)滿哩馱(二合)覽(八)布瑟致(二合)俱嚕娑嚩(二合引)賀(引)摩麼(引)布哩嚩(二合)羅滿哩馱(二合)喃(十)扇(引)底孕(二合)俱囉娑嚩(二合引)賀(引十一)曩謨(引)賀帝(引)儞賀帝(引十二)薩哩嚩(二合)努瑟幀(二合引)鉢囉(二合)底孕(二合)惹儞(十三)謨(引)賀儞謨(引)乞叉(二合)尼娑嚩(二合引)賀(引十四)曩謨(引)迦致(引)儞致迦吒致(引)娑嚩(二合引)賀(引十五)曩謨(引)阿(引)囉尼嚩(引)囉尼(十六)薩哩嚩(二合)儞哩嚩(二合引)囉尼娑嚩(二合引)賀(引十七)又復一切惡人行不善事。",
-    "T20n1036_001:0019b02_1": "持邪禁呪作諸&#;禱。",
-    "T20n1036_001:0019b03_2": "當令眾生迷癡狂惑。",
-    "T20n1036_001:0019b03_3": "如是等事悉皆解脫。",
-    "T20n1036_001:0019b04_0": "嚕嚕計(一)哩嚕計(二)底瑟姹(二合)滿馱夜(引)弭(三)夜嚩誐嚩(二合)切(四)尾夢贊底(五)呬隷唧隷(六)迦(引)播(引)隸(七)迦瑟站(二合引)誐薩哩嚩(二合)哆(八)薩哩嚩(二合)婆曳毘藥(二合)娑嚩(二合引)賀(引九)世尊我此千轉大明。",
-    "T20n1036_001:0019b08_1": "譬如轉輪聖王。",
-    "T20n1036_001:0019b08_2": "有摩尼寶名曰如意。",
-    "T20n1036_001:0019b09_3": "凡諸所欲自然現前。",
-    "T20n1036_001:0019b09_4": "我此千轉大明亦復如是。",
-    "T20n1036_001:0019b10_5": "若有得者凡諸苦惱悉皆解脫。",
-    "T20n1036_001:0019b11_6": "世尊末世之時眾生薄福。",
-    "T20n1036_001:0019b11_7": "於三寶尊不知歸依。",
-    "T20n1036_001:0019b12_8": "恣身口心常造過惡。",
-    "T20n1036_001:0019b12_9": "是故世間諸惡鬼神伺得其便。",
-    "T20n1036_001:0019b13_10": "隱自形質假託變現。",
-    "T20n1036_001:0019b13_11": "於晝夜中惱害眾生。",
-    "T20n1036_001:0019b14_12": "使諸眾生得種種苦惱。",
-    "T20n1036_001:0019b14_13": "世尊若有眾生。",
-    "T20n1036_001:0019b15_14": "遇斯惡鬼種種惱亂苦惱之時。",
-    "T20n1036_001:0019b15_15": "乃至世間一切不可意時。",
-    "T20n1036_001:0019b16_16": "當於清淨之地取土七把。",
-    "T20n1036_001:0019b17_0": "每一把讀誦此大明加持七遍。",
-    "T20n1036_001:0019b17_1": "和作七丸繫於衣角。",
-    "T20n1036_001:0019b18_2": "當令一切行不饒益惡鬼神等。",
-    "T20n1036_001:0019b18_3": "不敢侵近恐怖退散。",
-    "T20n1036_001:0019b19_4": "當令是人晝夜安隱。",
-    "T20n1036_001:0019b19_5": "一切不祥悉皆殄滅。",
-    "T20n1036_001:0019b20_6": "爾時帝釋天主說此千轉大明陀羅尼已。",
-    "T20n1036_001:0019b21_7": "踊躍歡喜與諸天眾禮佛而退。",
-    "T20n1036_001:0019b22_0": "千轉大明陀羅尼經"
-}
+[
+    {
+        "source_sentence": "千轉大明陀羅尼經",
+        "from": "T20n1036_001:0018b18_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫試鴻臚少卿",
+        "from": "T20n1036_001:0018b20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "傳法大師臣施護奉　詔譯",
+        "from": "T20n1036_001:0018b21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞。",
+        "from": "T20n1036_001:0018b22_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一時世尊在忉利天中波利質多羅樹下。",
+        "from": "T20n1036_001:0018b23_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時帝釋天主。",
+        "from": "T20n1036_001:0018b23_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "及與一切天人軍眾。",
+        "from": "T20n1036_001:0018b23_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前後圍繞來詣佛所。",
+        "from": "T20n1036_001:0018b24_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "各各至誠合掌歸依。",
+        "from": "T20n1036_001:0018b24_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "瞻仰如來次第而住。",
+        "from": "T20n1036_001:0018b25_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時帝釋天主前白佛言。",
+        "from": "T20n1036_001:0018b26_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊我有陀羅尼名千轉大明。",
+        "from": "T20n1036_001:0018b27_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是陀羅尼於諸世間。",
+        "from": "T20n1036_001:0018b27_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為大饒益。",
+        "from": "T20n1036_001:0018b27_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有一切天龍夜叉餓鬼鳩槃茶等乃至人非人等。",
+        "from": "T20n1036_001:0018b29_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "聞此陀羅尼者。",
+        "from": "T20n1036_001:0018b29_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悉皆降伏於諸眾生。",
+        "from": "T20n1036_001:0018b29_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "所有一切不饒益事悉皆除殄。",
+        "from": "T20n1036_001:0018c01_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惟願世尊大慈大悲許我宣說。",
+        "from": "T20n1036_001:0018c02_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛言天主善哉善哉。",
+        "from": "T20n1036_001:0018c02_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如汝所說彼大千轉大明陀羅尼。",
+        "from": "T20n1036_001:0018c03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "能於世間作大饒益。",
+        "from": "T20n1036_001:0018c04_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝欲說者當隨汝意。",
+        "from": "T20n1036_001:0018c04_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時帝釋天主。",
+        "from": "T20n1036_001:0018c04_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "即說千轉大明陀羅尼曰。",
+        "from": "T20n1036_001:0018c05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "怛儞也二合他引一曩呬怛寫婆帝引二婆誐嚩覩引三三野體難野過覩引四一切部多聞此所說。",
+        "from": "T20n1036_001:0018c08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "驚怖迷悶狂惑退散。",
+        "from": "T20n1036_001:0018c08_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "寶賢夜叉主及輪成就等現眾色像。",
+        "from": "T20n1036_001:0018c09_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使諸部多諸鬼神等及彼遊方空行起屍瘧病諸惡鬼等。",
+        "from": "T20n1036_001:0018c11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至一切行毒根本邪法。",
+        "from": "T20n1036_001:0018c11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "惱害眾生不饒益事。",
+        "from": "T20n1036_001:0018c12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "悉皆解脫。",
+        "from": "T20n1036_001:0018c12_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿曩引鉢帝引一烏播曩引鉢帝引二盎誐商迦哩引三儗哩二合恨拏二合哩引娑嚩二合引賀引四曩謨引沒馱引野曩謨引達哩摩二合引野曩謨引僧伽引野五曩謨引阿引哩野二合引嚩路枳帝引濕嚩二合囉引野六󰂛地引薩埵引野七摩賀引薩埵引野八摩賀引迦引嚕尼迦引野九曩謨引阿引哩野二合摩賀引薩瑳二合引摩波囉二合引鉢多二合引野十怛儞也二合他引十一目訖帝二合引尾目訖帝二合引十二鼻引那儞引尾鼻引那儞引十三儞哩摩二合隸引十四尾摩隸引十五穌目契引尾目契引十六瞢誐隸引穌瞢誐隷十七一切王怖解脫。",
+        "from": "T20n1036_001:0018c24_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切星曜變怪怖解脫。",
+        "from": "T20n1036_001:0018c24_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切自他軍眾鬪戰怖解脫。",
+        "from": "T20n1036_001:0018c25_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切兵仗怖解脫。",
+        "from": "T20n1036_001:0018c25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切水火漂焚怖解脫。",
+        "from": "T20n1036_001:0018c26_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切惡病苦惱怖解脫。",
+        "from": "T20n1036_001:0018c26_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切毒惡傷害怖解脫。",
+        "from": "T20n1036_001:0018c27_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "師子怖象怖。",
+        "from": "T20n1036_001:0018c27_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "熊怖虎怖。",
+        "from": "T20n1036_001:0018c28_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切惡獸等怖。",
+        "from": "T20n1036_001:0018c28_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大海漂溺怖深山閴寂怖。",
+        "from": "T20n1036_001:0018c28_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至諸水灘難怖。",
+        "from": "T20n1036_001:0018c29_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是諸怖悉皆解脫。",
+        "from": "T20n1036_001:0018c29_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曩謨娑引訖哩二合引一商迦致引商迦致引二迦嚕引致引迦嚕致引儞曳引娑嚩二合引賀引三入王宮時見大臣。",
+        "from": "T20n1036_001:0019a03_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時行軍中時逢怨對。",
+        "from": "T20n1036_001:0019a03_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時見毒蛇毒龍。",
+        "from": "T20n1036_001:0019a04_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "時遇夜叉毘舍遮羅剎烏鉢娑摩二合引囉所魅時。",
+        "from": "T20n1036_001:0019a05_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至山海險難中時。",
+        "from": "T20n1036_001:0019a05_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是怖畏悉皆解脫。",
+        "from": "T20n1036_001:0019a06_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曩謨引怛囉二合引𧹞婆嚩室羅二合引野𧹞一呬隷呬隷二唧隷唧隷三迦引播隷四摩引鄧霓娑嚩二合引賀引五又復王法所執或被枷鎖杻械牢固其身。",
+        "from": "T20n1036_001:0019a10_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切枉橫憂苦逼切悉皆解脫。",
+        "from": "T20n1036_001:0019a11_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曩謨引多引哩引多引哩引一烏哆引哩引二覩哩引娑嚩二合引賀引三又復星曜所持。",
+        "from": "T20n1036_001:0019a14_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "或惡夢變怪致諸病苦夭枉至死。",
+        "from": "T20n1036_001:0019a15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至鬪諍論理互相恐逼。",
+        "from": "T20n1036_001:0019a15_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是諸怖悉皆解脫。",
+        "from": "T20n1036_001:0019a16_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "曩謨引左囉左囉一娑囉娑囉二尾娑囉尾娑囉三沒馱野二合沒馱野二合四󰂛引馱引野彌底娑嚩二合引賀五洛乞叉二合洛乞叉二合𤚥六薩哩嚩二合薩怛嚩二合引喃引左娑嚩二合引賀引七阿引哩野二合室哩二合滿哩馱二合覽八布瑟致二合俱嚕娑嚩二合引賀引摩麼引布哩嚩二合羅滿哩馱二合喃十扇引底孕二合俱囉娑嚩二合引賀引十一曩謨引賀帝引儞賀帝引十二薩哩嚩二合努瑟㡧二合引鉢囉二合底孕二合惹儞十三謨引賀儞謨引乞叉二合尼娑嚩二合引賀引十四曩謨引迦致引儞致迦吒致引娑嚩二合引賀引十五曩謨引阿引囉尼嚩引囉尼十六薩哩嚩二合儞哩嚩二合引囉尼娑嚩二合引賀引十七又復一切惡人行不善事。",
+        "from": "T20n1036_001:0019b02_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "持邪禁呪作諸󰚏禱。",
+        "from": "T20n1036_001:0019b03_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當令眾生迷癡狂惑。",
+        "from": "T20n1036_001:0019b03_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是等事悉皆解脫。",
+        "from": "T20n1036_001:0019b03_19",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "嚕嚕計一哩嚕計二底瑟姹二合滿馱夜引弭三夜嚩誐嚩二合切四尾夢贊底五呬隷唧隷六迦引播引隸七迦瑟站二合引誐薩哩嚩二合哆八薩哩嚩二合婆曳毘藥二合娑嚩二合引賀引九世尊我此千轉大明。",
+        "from": "T20n1036_001:0019b08_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "譬如轉輪聖王。",
+        "from": "T20n1036_001:0019b08_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有摩尼寶名曰如意。",
+        "from": "T20n1036_001:0019b09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡諸所欲自然現前。",
+        "from": "T20n1036_001:0019b09_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "我此千轉大明亦復如是。",
+        "from": "T20n1036_001:0019b10_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若有得者凡諸苦惱悉皆解脫。",
+        "from": "T20n1036_001:0019b11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊末世之時眾生薄福。",
+        "from": "T20n1036_001:0019b11_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於三寶尊不知歸依。",
+        "from": "T20n1036_001:0019b12_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "恣身口心常造過惡。",
+        "from": "T20n1036_001:0019b12_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是故世間諸惡鬼神伺得其便。",
+        "from": "T20n1036_001:0019b13_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "隱自形質假託變現。",
+        "from": "T20n1036_001:0019b13_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於晝夜中惱害眾生。",
+        "from": "T20n1036_001:0019b14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "使諸眾生得種種苦惱。",
+        "from": "T20n1036_001:0019b14_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊若有眾生。",
+        "from": "T20n1036_001:0019b15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "遇斯惡鬼種種惱亂苦惱之時。",
+        "from": "T20n1036_001:0019b15_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "乃至世間一切不可意時。",
+        "from": "T20n1036_001:0019b16_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當於清淨之地取土七把。",
+        "from": "T20n1036_001:0019b16_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "每一把讀誦此大明加持七遍。",
+        "from": "T20n1036_001:0019b17_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "和作七丸繫於衣角。",
+        "from": "T20n1036_001:0019b18_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當令一切行不饒益惡鬼神等。",
+        "from": "T20n1036_001:0019b18_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "不敢侵近恐怖退散。",
+        "from": "T20n1036_001:0019b19_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "當令是人晝夜安隱。",
+        "from": "T20n1036_001:0019b19_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一切不祥悉皆殄滅。",
+        "from": "T20n1036_001:0019b20_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時帝釋天主說此千轉大明陀羅尼已。",
+        "from": "T20n1036_001:0019b21_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "踊躍歡喜與諸天眾禮佛而退。",
+        "from": "T20n1036_001:0019b21_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "千轉大明陀羅尼經",
+        "from": "T20n1036_001:0019b22_100",
+        "context_with_next_sentence": false
+    }
+]

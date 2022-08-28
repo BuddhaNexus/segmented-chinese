@@ -1,49 +1,172 @@
-{
-    "T20n1156B_001:0650c21_0": "宗[叡-├+〡]僧正於唐國師所口受大隨求根本印第一二手內相叉。",
-    "T20n1156B_001:0650c24_1": "二中指合竪。",
-    "T20n1156B_001:0650c24_2": "二頭指於中指後微屈如鉤。",
-    "T20n1156B_001:0650c25_3": "二小指二大指合竪微屈即成。",
-    "T20n1156B_001:0650c26_0": "梵云嚩日羅(二合)　唐云五股金剛杵一切如來心真言第二二手左覆右仰背相著。",
-    "T20n1156B_001:0650c28_1": "中指互相背鉤竪如斧形即成。",
-    "T20n1156B_001:0651a01_0": "梵云跛羅戌　唐云鉞斧(安云二手背立中指相鉤)一切如來心印真言第三二手內相叉二中指頭相跓屈令圓即成。",
-    "T20n1156B_001:0651a04_0": "梵云跛羅播捨　唐云索",
-    "T20n1156B_001:0651a05_0": "一切如來金剛被甲真言印第四",
-    "T20n1156B_001:0651a06_0": "二手合掌。",
-    "T20n1156B_001:0651a06_1": "二頭指屈中節令平偃。",
-    "T20n1156B_001:0651a06_2": "頭相跓即成。",
-    "T20n1156B_001:0651a08_0": "梵云渴誐　唐云劍",
-    "T20n1156B_001:0651a09_0": "一切如來灌頂真言印(第五歟)",
-    "T20n1156B_001:0651a10_0": "二手外相叉。",
-    "T20n1156B_001:0651a10_1": "二無名指合竪。",
-    "T20n1156B_001:0651a10_2": "二小指竪交即成。",
-    "T20n1156B_001:0651a12_0": "梵云斫羯羅(引)　唐云輪",
-    "T20n1156B_001:0651a13_0": "一切如來結界真言印(第六歟)",
-    "T20n1156B_001:0651a14_0": "二大指捻二小指甲上。",
-    "T20n1156B_001:0651a14_1": "餘指竪合如三戟叉形即成。",
-    "T20n1156B_001:0651a16_0": "梵云底哩戌羅　唐云三股叉",
-    "T20n1156B_001:0651a17_0": "一切如來心中心真言印(第七歟)",
-    "T20n1156B_001:0651a18_0": "二手外相叉。",
-    "T20n1156B_001:0651a18_1": "二頭指相跓蹴如寶形。",
-    "T20n1156B_001:0651a18_2": "二大指並竪即成。",
-    "T20n1156B_001:0651a20_0": "梵云進跢(引)麼尼　唐云寶",
-    "T20n1156B_001:0651a21_0": "一切如來隨心真言印(第八歟)",
-    "T20n1156B_001:0651a22_0": "以左手仰於當心展五指。",
-    "T20n1156B_001:0651a22_1": "以右手覆於左上相合令平即成。",
-    "T20n1156B_001:0651a24_0": "梵云摩訶尾儞也(二合)馱羅抳(異)　唐云大明總持慈覺大師大隨求印內縛五股印是也。",
-    "T20n1156B_001:0651a28_0": "尊勝佛頂印",
-    "T20n1156B_001:0651a29_0": "虛心合掌。",
-    "T20n1156B_001:0651a29_1": "屈二風甲相對。",
-    "T20n1156B_001:0651a29_2": "以二空捻二風側如彈指勢也(本軌文)。",
-    "T20n1156B_001:0651b02_0": "文殊根本印",
-    "T20n1156B_001:0651b03_0": "虛心合掌。",
-    "T20n1156B_001:0651b03_1": "二火覆。",
-    "T20n1156B_001:0651b03_2": "捻二水而頭相拄屈二風橫捻二空上　又說內縛二地合竪屈二風橫二空上。",
-    "T20n1156B_001:0651b06_0": "滿足句印",
-    "T20n1156B_001:0651b07_0": "二地合針。",
-    "T20n1156B_001:0651b07_1": "二水內鉤。",
-    "T20n1156B_001:0651b07_2": "二火如寶。",
-    "T20n1156B_001:0651b07_3": "二風屈捻二空上。",
-    "T20n1156B_001:0651b08_4": "真言曰。",
-    "T20n1156B_001:0651b09_0": "阿尾羅吽欠",
-    "T20n1156B_001:0651b10_0": "　貞觀十九年三月二十二日傳"
-}
+[
+    {
+        "source_sentence": "宗󰤗僧正於唐國師所口受",
+        "from": "T20n1156B_001:0650c21_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "1 大隨求根本印大隨求根本印第一",
+        "from": "T20n1156B_001:0650c23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二手內相叉。二中指合竪。二頭指於中指後",
+        "from": "T20n1156B_001:0650c24_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "微屈如鉤。",
+        "from": "T20n1156B_001:0650c25_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二小指二大指合竪微屈即成。",
+        "from": "T20n1156B_001:0650c25_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵云嚩日羅二合　唐云五股金剛杵2 一切如來心真言一切如來心真言第二二手左覆右仰背相著。",
+        "from": "T20n1156B_001:0650c28_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "中指互相背鉤竪如斧形即成。",
+        "from": "T20n1156B_001:0650c29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵云跛羅戌　唐云鉞斧安云二手背立中指相鉤3 一切如來心印真言一切如來心印真言第三二手內相叉二中指頭相跓屈令圓即成。",
+        "from": "T20n1156B_001:0651a03_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵云跛羅播捨　唐云索4 一切如來金剛被甲真言印一切如來金剛被甲真言印第四二手合掌。",
+        "from": "T20n1156B_001:0651a06_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二頭指屈中節令平偃。",
+        "from": "T20n1156B_001:0651a06_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "頭相跓即成。",
+        "from": "T20n1156B_001:0651a07_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵云渴誐　唐云劍5 一切如來灌頂真言印一切如來灌頂真言印第五歟二手外相叉。",
+        "from": "T20n1156B_001:0651a10_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二無名指合竪。",
+        "from": "T20n1156B_001:0651a10_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二小指竪交即成。",
+        "from": "T20n1156B_001:0651a11_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵云斫羯羅引　唐云輪6 一切如來結界真言印一切如來結界真言印第六歟二大指捻二小指甲上。",
+        "from": "T20n1156B_001:0651a14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘指竪合如三戟叉形即成。",
+        "from": "T20n1156B_001:0651a15_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵云底哩戌羅　唐云三股叉7 一切如來心中心真言印一切如來心中心真言印第七歟二手外相叉。",
+        "from": "T20n1156B_001:0651a18_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二頭指相跓蹴如寶形。",
+        "from": "T20n1156B_001:0651a18_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二大指並竪即成。",
+        "from": "T20n1156B_001:0651a19_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵云進跢引麼尼　唐云寶8 一切如來隨心真言印一切如來隨心真言印第八歟以左手仰於當心展五指。",
+        "from": "T20n1156B_001:0651a22_10",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以右手覆於左上相合令平即成。",
+        "from": "T20n1156B_001:0651a23_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "梵云摩訶尾儞也二合馱羅抳異　唐云大明總持慈覺大師大隨求印慈覺大師大隨求印內縛五股印是也。",
+        "from": "T20n1156B_001:0651a27_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "尊勝佛頂印尊勝佛頂印虛心合掌。",
+        "from": "T20n1156B_001:0651a29_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "屈二風甲相對。",
+        "from": "T20n1156B_001:0651a29_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "以二空捻二風側如彈指勢也本軌文。",
+        "from": "T20n1156B_001:0651b01_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "文殊根本印文殊根本印虛心合掌。",
+        "from": "T20n1156B_001:0651b03_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二火覆。",
+        "from": "T20n1156B_001:0651b03_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "捻二水而頭相拄屈二風橫捻二空上　又說內縛二地合竪屈二風橫二空上。",
+        "from": "T20n1156B_001:0651b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "滿足句印滿足句印二地合針。",
+        "from": "T20n1156B_001:0651b07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二水內鉤。",
+        "from": "T20n1156B_001:0651b07_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二火如寶。",
+        "from": "T20n1156B_001:0651b07_14",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二風屈捻二空上。",
+        "from": "T20n1156B_001:0651b08_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真言曰。",
+        "from": "T20n1156B_001:0651b08_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "阿尾羅吽欠　貞觀十九年三月二十二日傳",
+        "from": "T20n1156B_001:0651b10_100",
+        "context_with_next_sentence": false
+    }
+]

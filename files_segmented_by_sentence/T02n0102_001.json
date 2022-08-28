@@ -1,25 +1,142 @@
-{
-    "T02n0102_001:0499c05_0": "佛說五蘊皆空經",
-    "T02n0102_001:0499c07_0": "大唐三藏法師義淨奉　制譯",
-    "T02n0102_001:0499c08_0": "如是我聞：一時薄伽梵，在婆羅痆斯仙人墮處施鹿林中。",
-    "T02n0102_001:0499c09_1": "爾時世尊，告五苾芻曰：「汝等當知，色不是我，若是我者，色不應病及受苦惱。",
-    "T02n0102_001:0499c11_2": "『我欲如是色，我不欲如是色。』",
-    "T02n0102_001:0499c11_3": "既不如是，隨情所欲，是故當知，色不是我；受想行識，亦復如是。",
-    "T02n0102_001:0499c13_4": "復次苾芻！",
-    "T02n0102_001:0499c13_5": "於汝意云何？",
-    "T02n0102_001:0499c14_0": "色為是常？",
-    "T02n0102_001:0499c14_1": "為是無常？」",
-    "T02n0102_001:0499c14_2": "白言：「大德！",
-    "T02n0102_001:0499c14_3": "色是無常。」",
-    "T02n0102_001:0499c15_0": "佛言：「色既無常，此即是苦，或苦苦、壞苦、行苦。",
-    "T02n0102_001:0499c16_1": "然我聲聞多聞弟子，執有我不？",
-    "T02n0102_001:0499c16_2": "色即是我，我有諸色，色屬於我，我在色中不？」",
-    "T02n0102_001:0499c17_3": "「不爾！",
-    "T02n0102_001:0499c17_4": "世尊！」",
-    "T02n0102_001:0499c18_5": "「應知受想行識，常與無常，亦復如是。",
-    "T02n0102_001:0499c18_6": "凡所有色，若過去未來現在，內外麁細，若勝若劣、若遠若近，悉皆無我。",
-    "T02n0102_001:0499c20_7": "汝等當知，應以正智而善觀察，如是所有受想行識，過去未來現在，悉應如前正智觀察。",
-    "T02n0102_001:0499c22_8": "若我聲聞聖弟子眾，觀此五取蘊，知無有我及以我所，如是觀已，即知世間，無能取所取，亦非轉變，但由自悟而證涅槃，我生已盡，梵行已立，所作已辦，不受後有。」",
-    "T02n0102_001:0499c26_9": "說此法時，五苾芻等，於諸煩惱，心得解脫，信受奉行。",
-    "T02n0102_001:0499c28_0": "佛說五蘊皆空經"
-}
+[
+    {
+        "source_sentence": "佛說五蘊皆空經",
+        "from": "T02n0102_001:0499c05_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大唐三藏法師義淨奉　制譯",
+        "from": "T02n0102_001:0499c07_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如是我聞：一時薄伽梵，在婆羅痆斯仙人墮",
+        "from": "T02n0102_001:0499c08_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "處施鹿林中。",
+        "from": "T02n0102_001:0499c09_5",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "爾時世尊，告五苾芻曰：",
+        "from": "T02n0102_001:0499c09_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「汝等當知，色不是我，若是我者，色不應病及受苦惱。",
+        "from": "T02n0102_001:0499c11_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "『我欲如是色，我不欲如是色。",
+        "from": "T02n0102_001:0499c11_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "』既不如是，隨情所欲，是故當知，色不是我；",
+        "from": "T02n0102_001:0499c12_16",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "受想行識，亦復如是。",
+        "from": "T02n0102_001:0499c13_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "復次苾芻！",
+        "from": "T02n0102_001:0499c13_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "於汝意云何？",
+        "from": "T02n0102_001:0499c13_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "色為是常？",
+        "from": "T02n0102_001:0499c14_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為是無常？",
+        "from": "T02n0102_001:0499c14_9",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」白言：",
+        "from": "T02n0102_001:0499c14_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「大德！",
+        "from": "T02n0102_001:0499c14_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "色是無常。",
+        "from": "T02n0102_001:0499c14_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」佛言：",
+        "from": "T02n0102_001:0499c15_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "「色既無常，此即是苦，或苦苦、壞苦、行苦。",
+        "from": "T02n0102_001:0499c16_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "然我聲聞多聞弟子，執有我不？",
+        "from": "T02n0102_001:0499c16_15",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "色即是我，我有諸色，色屬於我，我在色中不？",
+        "from": "T02n0102_001:0499c17_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」「不爾！",
+        "from": "T02n0102_001:0499c17_22",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "世尊！",
+        "from": "T02n0102_001:0499c18_1",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」「應知受想行識，常與無常，亦復如是。",
+        "from": "T02n0102_001:0499c18_20",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "凡所有色，若過去未來現在，內外麁細，若勝若劣、若遠若近，悉皆無我。",
+        "from": "T02n0102_001:0499c20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "汝等當知，應以正智而善觀察，如是所有受想行識，過去未來現在，悉應如前正智觀察。",
+        "from": "T02n0102_001:0499c22_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "若我聲聞聖弟子眾，觀此五取蘊，知無有我及以我所，如是觀已，即知世間，無能取所取，亦非轉變，但由自悟而證涅槃，我生已盡，梵行已立，所作已辦，不受後有。",
+        "from": "T02n0102_001:0499c26_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "」說此法時，五苾芻等，於諸煩惱，心得解脫，信受奉行。",
+        "from": "T02n0102_001:0499c27_12",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "佛說五蘊皆空經",
+        "from": "T02n0102_001:0499c28_100",
+        "context_with_next_sentence": false
+    }
+]

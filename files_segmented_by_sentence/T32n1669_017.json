@@ -1,43 +1,142 @@
-{
-    "T32n1669_017:0689a20_0": "大宗地玄文本論卷第十七",
-    "T32n1669_017:0689a22_0": "馬鳴菩薩造",
-    "T32n1669_017:0689a23_0": "真諦三藏譯",
-    "T32n1669_017:0689a24_0": "◎解脫山王大道路大決擇分第三十三如是已說解脫山王根本地地無礙自在大決擇分。",
-    "T32n1669_017:0689a26_1": "次當說解脫山王大道路大決擇分。",
-    "T32n1669_017:0689a26_2": "其相云何。",
-    "T32n1669_017:0689a27_3": "偈曰。",
-    "T32n1669_017:0689a28_0": "　山王道路中　　前所說量中",
-    "T32n1669_017:0689a29_0": "　增空空有有　　位位轉勝生",
-    "T32n1669_017:0689b01_0": "論曰。",
-    "T32n1669_017:0689b01_1": "就解脫山王大道路分中則有三轉。",
-    "T32n1669_017:0689b01_2": "云何為三。",
-    "T32n1669_017:0689b02_3": "一者空空轉。",
-    "T32n1669_017:0689b02_4": "十空無為一一各各生十空故。",
-    "T32n1669_017:0689b03_5": "二者有有轉。",
-    "T32n1669_017:0689b03_6": "十有無為一一各各生十有故。",
-    "T32n1669_017:0689b04_7": "三者位位轉。",
-    "T32n1669_017:0689b04_8": "五十一位一一各各生五十故。",
-    "T32n1669_017:0689b05_9": "是名為三。",
-    "T32n1669_017:0689b05_10": "取自相生非他相故。",
-    "T32n1669_017:0689b05_11": "如偈山王道路中前所說量中增空空有有位位轉勝生故。",
-    "T32n1669_017:0689b07_12": "餘種種門轉轉增數。",
-    "T32n1669_017:0689b07_13": "應廣通達。",
-    "T32n1669_017:0689b08_0": "廣大無盡解脫海海摩訶山王大決擇分第三十四如是已說解脫山王大道路大決擇分。",
-    "T32n1669_017:0689b10_1": "次當說廣大無盡解脫海海摩訶山王大決擇分。",
-    "T32n1669_017:0689b12_0": "其相云何。",
-    "T32n1669_017:0689b12_1": "偈曰。",
-    "T32n1669_017:0689b13_0": "　前所說諸轉　　無有窮盡故",
-    "T32n1669_017:0689b14_0": "論曰。",
-    "T32n1669_017:0689b14_1": "今此偈中為明何義。",
-    "T32n1669_017:0689b14_2": "為欲現示空生自空無有窮盡。",
-    "T32n1669_017:0689b15_3": "空生異空無有窮盡。",
-    "T32n1669_017:0689b15_4": "空生諸有無有窮盡。",
-    "T32n1669_017:0689b16_5": "有亦如是無有窮盡。",
-    "T32n1669_017:0689b16_6": "位亦如是無有窮盡。",
-    "T32n1669_017:0689b17_7": "重重無窮亂轉無窮。",
-    "T32n1669_017:0689b17_8": "無其邊際無其始終。",
-    "T32n1669_017:0689b18_9": "甚深甚深周遍周遍廣大轉行。",
-    "T32n1669_017:0689b18_10": "則是解脫海海山王無礙自在體相用故。",
-    "T32n1669_017:0689b19_11": "如偈前所說諸轉無有窮盡故故。",
-    "T32n1669_017:0689b20_12": "◎大宗地玄文本論卷第十七"
-}
+[
+    {
+        "source_sentence": "大宗地玄文本論卷第十七",
+        "from": "T32n1669_017:0689a20_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "馬鳴菩薩造",
+        "from": "T32n1669_017:0689a22_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "真諦三藏譯",
+        "from": "T32n1669_017:0689a23_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "33 解脫山王大道路大決擇分解脫山王大道路大決擇分第三十三如是已說解脫山王根本地地無礙自在大決擇分，次當說解脫山王大道路大決擇分。",
+        "from": "T32n1669_017:0689a26_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其相云何？",
+        "from": "T32n1669_017:0689a27_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偈曰：",
+        "from": "T32n1669_017:0689a27_6",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "山王道路中，　　前所說量中，",
+        "from": "T32n1669_017:0689a28_0",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "增空空有有，　　位位轉勝生。",
+        "from": "T32n1669_017:0689a29_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰：",
+        "from": "T32n1669_017:0689b01_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "就解脫山王大道路分中則有三轉。",
+        "from": "T32n1669_017:0689b01_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "云何為三？",
+        "from": "T32n1669_017:0689b02_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "一者空空轉，十空無為一一各各生十空故；",
+        "from": "T32n1669_017:0689b03_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "二者有有轉，十有無為一一各各生十有故；",
+        "from": "T32n1669_017:0689b04_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "三者位位轉，五十一位一一各各生五十故。",
+        "from": "T32n1669_017:0689b05_3",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "是名為三。",
+        "from": "T32n1669_017:0689b05_8",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "取自相生非他相故。",
+        "from": "T32n1669_017:0689b05_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如偈「山王道路中，前所說量中，增空空有有，位位轉勝生」故。",
+        "from": "T32n1669_017:0689b07_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "餘種種門轉轉增數，應廣通達。",
+        "from": "T32n1669_017:0689b07_18",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "34 廣大無盡解脫海海摩訶山王大決擇分廣大無盡解脫海海摩訶山王大決擇分第三十四如是已說解脫山王大道路大決擇分，次當說廣大無盡解脫海海摩訶山王大決擇分。",
+        "from": "T32n1669_017:0689b11_17",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "其相云何？",
+        "from": "T32n1669_017:0689b12_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "偈曰：",
+        "from": "T32n1669_017:0689b12_7",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "前所說諸轉，　　無有窮盡故。",
+        "from": "T32n1669_017:0689b13_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "論曰：",
+        "from": "T32n1669_017:0689b14_2",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "今此偈中為明何義？",
+        "from": "T32n1669_017:0689b14_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "為欲現示空生自空無有窮盡，空生異空無有窮盡，空生諸有無有窮盡。",
+        "from": "T32n1669_017:0689b16_4",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "有亦如是無有窮盡，位亦如是無有窮盡，重重無窮亂轉無窮，無其邊際無其始終，甚深甚深周遍周遍廣大轉行，則是解脫海海山王無礙自在體相用故。",
+        "from": "T32n1669_017:0689b19_13",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "如偈「前所說諸轉，無有窮盡故」故。",
+        "from": "T32n1669_017:0689b20_11",
+        "context_with_next_sentence": true
+    },
+    {
+        "source_sentence": "大宗地玄文本論卷第十七",
+        "from": "T32n1669_017:0689b21_100",
+        "context_with_next_sentence": false
+    }
+]
